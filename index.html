@@ -95,27 +95,31 @@
         }
         select.dropdown-select:focus { outline: none; border-color: var(--deep-blue); }
 
-        /* 📊 ランキングテーブル（極限圧縮＆引き伸ばし解除！） */
+        /* 📦 テーブルを真ん中に寄せるための外枠（新設） */
+        .table-wrapper {
+            width: 100%;
+            text-align: center; /* これで中にあるテーブルコンテナがど真ん中に寄ります */
+            margin-top: 10px;
+        }
+
+        /* 📊 ランキングテーブル（極限圧縮＆引き伸ばし解除） */
         .table-container {
-            /* ★左右の margin を「auto」にすることで、スリムな状態のまま画面の真ん中にカチッと配置されます */
-            margin: 0 auto 10px auto; 
-            
             overflow-x: auto;
             background-color: var(--bg-panel);
             border: 1px solid var(--border-color);
-            display: inline-block;
+            display: inline-block; /* 画面いっぱいに広がるのを防ぐ */
+            text-align: left;      /* テーブル内の文字までセンター寄りになるのを防ぐ */
         }
 
         table {
-            width: auto; /* ★ 100% から auto に変更！これで引き伸ばされなくなります */
+            width: auto; /* 引き伸ばし無効化 */
             border-collapse: collapse;
             font-size: 0.8rem;
             white-space: nowrap;
         }
 
-        /* 各マスの左右の余白をさらに詰めたい場合は、ここの「12px」をお好みの狭さに調整してください */
         th, td {
-            padding: 2px 12px; /* 上下2px、左右12px（文字同士が綺麗にくっつきます） */
+            padding: 2px 12px; /* 上下2px、左右12pxの間隔 */
             text-align: right;
             border-bottom: 1px solid #2a2a2a;
         }
