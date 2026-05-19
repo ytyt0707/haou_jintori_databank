@@ -118,28 +118,47 @@
             white-space: nowrap;
         }
 
+        /* ① 基本設定：すべてのマスの上下を2px、左右を12pxに */
         th, td {
-            padding: 2px 12px; /* 上下2px、左右12pxの間隔 */
+            padding: 2px 12px;
             text-align: right;
             border-bottom: 1px solid #2a2a2a;
         }
-        /* 🎯 2列目（アイコンのマス）だけを狙い撃ちして、左右の隙間を限界まで削る */
-        th:nth-child(2),
-        td:nth-child(2) {
-            padding-left: 2px !important;  /* 左側の隙間を2pxに固定 */
-            padding-right: 2px !important; /* 右側の隙間を2pxに固定 */
-            width: 20px;                   /* マスの横幅自体もコンパクトに固定 */
-        }
+
         th {
             background-color: #111; color: #999; font-weight: normal;
             position: sticky; top: 0; z-index: 10;
             padding-top: 4px; padding-bottom: 4px;
         }
 
+        /* 各種アライメント設定 */
         th.col-left, td.col-left { text-align: left; }
         th.col-center, td.col-center { text-align: center; }
         tr:hover { background-color: var(--highlight); }
 
+
+        /* =======================================================
+           🎯 【最優先】順位・アイコン・プレイヤー名の間を限界まで密着させる
+           ======================================================= */
+        
+        /* 1列目（順位）の「右側」の余白を詰める */
+        th:nth-child(1), td:nth-child(1) {
+            padding-right: 2px !important;
+        }
+
+        /* 2列目（アイコン）の「左右」の余白を極限まで削り、横幅も絞る */
+        th:nth-child(2), td:nth-child(2) {
+            padding-left: 2px !important;
+            padding-right: 2px !important;
+            width: 16px !important;
+            min-width: 16px !important;
+            text-align: center !important;
+        }
+
+        /* 3列目（プレイヤー名）の「左側」の余白を詰める */
+        th:nth-child(3), td:nth-child(3) {
+            padding-left: 2px !important;
+        }
         /* [チーム名]名前（灰色） */
         .player-name-format { color: #aaa; text-decoration: none; }
         .player-name-format a { color: #aaa; text-decoration: none; }
