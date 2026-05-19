@@ -123,6 +123,13 @@
             text-align: right;
             border-bottom: 1px solid #2a2a2a;
         }
+        /* 🎯 2列目（アイコンのマス）だけを狙い撃ちして、左右の隙間を限界まで削る */
+        th:nth-child(2),
+        td:nth-child(2) {
+            padding-left: 2px !important;  /* 左側の隙間を2pxに固定 */
+            padding-right: 2px !important; /* 右側の隙間を2pxに固定 */
+            width: 20px;                   /* マスの横幅自体もコンパクトに固定 */
+        }
         th {
             background-color: #111; color: #999; font-weight: normal;
             position: sticky; top: 0; z-index: 10;
