@@ -1,0 +1,80 @@
+{
+  "round_id": 53001,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-14T07:06:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 軽油",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "26.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[👁] 名無しIW",
+      "team": "👁",
+      "emoji": "🥰",
+      "score": "23.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[👁] 名無しtZ",
+      "team": "👁",
+      "emoji": "🐱",
+      "score": "19.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[👁] 殺す",
+      "team": "👁",
+      "emoji": "🤡",
+      "score": "0.55",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤓",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "👁",
+      "score": "42.94",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "26.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵陽キャ",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klkSwzAIQ0VCh/vfuEWsSRM+PLYfYrOPo+xsA3ILJKyLdvENErf7UC0KnO9auEWgawyCvUzkcn+j6sDMrBy2VDWY0+hgqLq50C0oofpK2JT3kSDAv5Z0wdZmfGBDFpzETGUz1aFXlXtls1E0ZEsBkWqX4xDpwP48m5ofb1R2XqCpnkKLen3lqFWzJSG/U6h1VyJDR154aqZXBi+6prFSP9P4As32JM34Ua4Dnao4WLzRB+3Myuxzy4v9SsFW6N/FF3c4DFI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30a3e8",
+      "4": "#8B4513",
+      "5": "#73d411",
+      "7": "#30a3e8"
+    },
+    "sz": 30
+  }
+}

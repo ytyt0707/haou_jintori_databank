@@ -1,0 +1,75 @@
+{
+  "round_id": 53039,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-14T09:10:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "25.38",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "丸い、ただ円い",
+      "team": "",
+      "emoji": "⚽",
+      "score": "11.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "10.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しpC",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[位] あ",
+      "team": "位",
+      "emoji": "🦊",
+      "score": "0.42",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "3.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "位",
+      "score": "0.42",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkNsOwyAMQ52VwP//ceVcaEBDmrb5pVpObIe1VgSIaFVhTVwFf0zDWrMfb8JfaDlKZzJfI9uDFjpERnWqws10DooUcwVTBuvB3HP1jkHzSo11apBuvaQGiaN2tjI5oPuDAH7ZQnPIa2xvp5zaMaov1RrcOc5nuLfUGjXjMdljZ++TDeByq1VHR4QTXIEzwZf70ukz5N8cP7/5MOJd9CHrD42H5Bzfgp8Jig==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#994de5",
+      "4": "#e230e8",
+      "5": "#30e881",
+      "6": "#30e83c",
+      "7": "#8B4513"
+    },
+    "sz": 30
+  }
+}
