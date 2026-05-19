@@ -95,28 +95,28 @@
         }
         select.dropdown-select:focus { outline: none; border-color: var(--deep-blue); }
 
-        /* 📊 ランキングテーブル（項目同士を極限までくっつける） */
+        /* 📊 ランキングテーブル（極限圧縮＆引き伸ばし解除！） */
         .table-container {
             margin: 0 10px 10px 10px;
             overflow-x: auto;
             background-color: var(--bg-panel);
             border: 1px solid var(--border-color);
+            display: inline-block; /* ★画面いっぱいに広がるのを防ぎ、中身のサイズに合わせる */
         }
 
         table {
-            width: 100%;
+            width: auto; /* ★ 100% から auto に変更！これで引き伸ばされなくなります */
             border-collapse: collapse;
             font-size: 0.8rem;
             white-space: nowrap;
         }
 
-        /* ★余白を極限まで削る設定（paddingを左右4pxに圧縮） */
+        /* 各マスの左右の余白をさらに詰めたい場合は、ここの「12px」をお好みの狭さに調整してください */
         th, td {
-            padding: 2px 4px;
+            padding: 2px 12px; /* 上下2px、左右12px（文字同士が綺麗にくっつきます） */
             text-align: right;
             border-bottom: 1px solid #2a2a2a;
         }
-
         th {
             background-color: #111; color: #999; font-weight: normal;
             position: sticky; top: 0; z-index: 10;
