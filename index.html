@@ -187,24 +187,26 @@
         </div>
     </div>
 
-    <div class="table-container">
-        <table>
-            <thead>
-                <tr>
-                    <th class="col-left">順位(総合/検索)</th>
-                    <th class="col-center"></th>
-                    <th class="col-left">プレイヤー名</th>
-                    <th>試合数</th>
-                    <th>総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
-                    <th>総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
-                    <th>キルレート</th>
-                    <th class="col-center">最終活動 ～ 初登場</th> </tr>
-            </thead>
-            <tbody id="rankingBody">
-                </tbody>
-        </table>
+    <div class="table-wrapper">
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th class="col-left">順位(総合/検索)</th>
+                        <th class="col-center"></th>
+                        <th class="col-left">プレイヤー名</th>
+                        <th>試合数</th>
+                        <th>総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
+                        <th>総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
+                        <th>キルレート</th>
+                        <th class="col-center">最終活動 ～ 初登場</th>
+                    </tr>
+                </thead>
+                <tbody id="rankingBody">
+                    </tbody>
+            </table>
+        </div>
     </div>
-
     <script>
         // 🧪 テスト用のダミーデータ
         const dummyData = [
