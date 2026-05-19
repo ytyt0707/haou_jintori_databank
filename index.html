@@ -190,33 +190,30 @@
         // 🌐 現在の表示モードを管理する変数
         let currentMode = 'personal'; 
 
-        // 🧪 テスト用の個人データ
+        // 🧪 テスト用の個人データ（「ソロ」という文字に頼らず、isSolo フラグで管理！）
         const personalDummyData = [
-            { rank_all: 1, name: "束音ロゼ", team: "ソロ", icon: "🌸", matches: 1250, wins: 450, total_area: 854000, max_area: 12500, total_kills: 3500, max_kills: 15, first_date: "24/01/10", last_date: "26/05/19" },
-            { rank_all: 2, name: "名無しA", team: "🇯🇵ONJ", icon: "⚔️", matches: 980, wins: 210, total_area: 620000, max_area: 9800, total_kills: 1200, max_kills: 8, first_date: "24/02/15", last_date: "26/05/18" },
-            { rank_all: 3, name: "破壊神", team: "ソロ", icon: "🔥", matches: 500, wins: 300, total_area: 400000, max_area: 15000, total_kills: 2000, max_kills: 22, first_date: "25/06/01", last_date: "26/05/19" },
-            { rank_all: 4, name: "束音ロゼ", team: "🇯🇵ONJ", icon: "🌸", matches: 120, wins: 50, total_area: 95000, max_area: 11000, total_kills: 280, max_kills: 10, first_date: "26/01/01", last_date: "26/05/15" },
+            { rank_all: 1, name: "束音ロゼ", team: "", isSolo: true, icon: "🌸", matches: 1250, wins: 450, total_area: 854000, max_area: 12500, total_kills: 3500, max_kills: 15, first_date: "24/01/10", last_date: "26/05/19" },
+            { rank_all: 2, name: "名無しA", team: "🇯🇵ONJ", isSolo: false, icon: "⚔️", matches: 980, wins: 210, total_area: 620000, max_area: 9800, total_kills: 1200, max_kills: 8, first_date: "24/02/15", last_date: "26/05/18" },
+            { rank_all: 3, name: "破壊神", team: "", isSolo: true, icon: "🔥", matches: 500, wins: 300, total_area: 400000, max_area: 15000, total_kills: 2000, max_kills: 22, first_date: "25/06/01", last_date: "26/05/19" },
+            { rank_all: 4, name: "束音ロゼ", team: "🇯🇵ONJ", isSolo: false, icon: "🌸", matches: 120, wins: 50, total_area: 95000, max_area: 11000, total_kills: 280, max_kills: 10, first_date: "26/01/01", last_date: "26/05/15" },
         ];
 
-        // 🧪 テスト用のチームデータ（★新設！）
+        // 🧪 テスト用のチームデータ
         const teamDummyData = [
-            { rank_all: 1, name: "🇯🇵ONJ", team: "チーム", icon: "🛡️", matches: 1100, wins: 260, total_area: 715000, max_area: 11000, total_kills: 1480, max_kills: 10, first_date: "24/02/15", last_date: "26/05/18" },
-            { rank_all: 2, name: "覇王軍", team: "チーム", icon: "👑", matches: 850, wins: 600, total_area: 690000, max_area: 18000, total_kills: 4500, max_kills: 30, first_date: "24/01/01", last_date: "26/05/19" },
+            { rank_all: 1, name: "🇯🇵ONJ", team: "", isSolo: false, icon: "🛡️", matches: 1100, wins: 260, total_area: 715000, max_area: 11000, total_kills: 1480, max_kills: 10, first_date: "24/02/15", last_date: "26/05/18" },
+            { rank_all: 2, name: "覇王軍", team: "", isSolo: false, icon: "👑", matches: 850, wins: 600, total_area: 690000, max_area: 18000, total_kills: 4500, max_kills: 30, first_date: "24/01/01", last_date: "26/05/19" },
         ];
 
         window.onload = () => {
             updateView();
         };
 
-        // 🔄 画面更新（検索、プルダウン、タブの状態をすべてまとめて処理する関数）
+        // 🔄 画面更新
         function updateView() {
             const query = document.getElementById('searchInput').value.trim();
             const filterType = document.getElementById('filter_type').value;
             
-            // 現在のモードに応じてデータソースを選択
             let activeData = (currentMode === 'personal') ? personalDummyData : teamDummyData;
-
-            // 描画を実行
             renderTable(activeData, query, filterType);
         }
 
@@ -227,22 +224,26 @@
             let searchRank = 1;
 
             dataArray.forEach(p => {
-                // 🔍 検索キーワードの判定（スマホ対応）
-                if (searchQuery && !p.name.includes(searchQuery) && !p.team.includes(searchQuery)) return;
+                // 🔍 【改善された検索ロジック】
+                // 検索文字がある場合、「プレイヤー名」か「所属チーム名（ソロ以外）」のどちらかに含まれていれば残す！
+                if (searchQuery) {
+                    const matchName = p.name.includes(searchQuery);
+                    const matchTeam = (!p.isSolo && p.team && p.team.includes(searchQuery));
+                    
+                    if (!matchName && !matchTeam) return; // どちらにも掠りもしなければ除外
+                }
 
-                // 🔻 プルダウンによる「ソロのみ/チームのみ」のフィルタリング処理
+                // 🔻 プルダウンによる「ソロ戦のみ/チーム戦のみ」のフィルタリング処理
                 if (currentMode === 'personal') {
-                    if (filterType === 'solo' && p.team !== 'ソロ') return;
-                    if (filterType === 'team' && p.team === 'ソロ') return;
+                    if (filterType === 'solo' && !p.isSolo) return;
+                    if (filterType === 'team' && p.isSolo) return;
                 }
 
                 const killRate = (p.total_kills / p.matches).toFixed(2);
-                
-                // チームランキングの場合はリンク先を「チーム用分析」に変えられるように
                 const analysisUrl = `analysis.html?name=${encodeURIComponent(p.name)}&mode=${currentMode}`;
                 
-                // ソロの場合は表記なし、それ以外は [チーム名] に
-                const teamDisplay = (p.team === "ソロ" || currentMode === 'team') ? "" : `[${p.team}]`;
+                // 👑 ソロの場合は何も表示しない、チーム戦の場合は [チーム名] を出す
+                const teamDisplay = p.isSolo ? "" : `[${p.team}]`;
 
                 const tr = document.createElement('tr');
                 tr.innerHTML = `
@@ -281,18 +282,13 @@
         // 🔄 個人/チームのタブ切り替え
         function switchMode(mode) {
             currentMode = mode;
-            
             document.getElementById('tab_personal').classList.remove('active');
             document.getElementById('tab_team').classList.remove('active');
             document.getElementById('tab_' + mode).classList.add('active');
             
-            // テーブルヘッダーの文字を切り替え
             document.getElementById('name_header_text').textContent = (mode === 'personal') ? 'プレイヤー名' : 'チーム名';
-            
-            // チームランキングの時はソロ/チーム合体のプルダウンを隠す
             document.getElementById('filter_type_group').style.display = (mode === 'personal') ? 'flex' : 'none';
             
-            // データを切り替えて再描画
             updateView();
         }
     </script>
