@@ -11,31 +11,30 @@
 
     <style>
         /* ==========================================
-           🎨 高密度サイバーダークUI（本家完全リスペクト）
+           🎨 超高密度サイバーダークUI
         ========================================== */
         :root {
             --bg-base: #1a1d24;
             --bg-panel: #222;
             --text-main: #e0e0e0;
-            --deep-blue: #007bb5; /* 少し暗めの落ち着いたブルー */
+            --deep-blue: #007bb5;
             --border-color: #333;
             --highlight: rgba(0, 123, 181, 0.15);
         }
 
         body {
             margin: 0;
-            /* すべての文字をYomogiフォントに統一 */
             font-family: 'Yomogi', sans-serif;
             background-color: var(--bg-base);
             color: var(--text-main);
-            font-size: 0.85rem; /* 全体的に文字を小さく */
+            font-size: 0.85rem;
         }
 
         /* 🧭 ナビゲーションバー */
         header {
             background-color: #111;
-            border-bottom: 1px solid var(--deep-blue); /* 線を細く（2px -> 1px） */
-            padding: 6px 15px; /* 縦幅を圧縮 */
+            border-bottom: 1px solid var(--deep-blue);
+            padding: 6px 15px;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -44,77 +43,59 @@
             z-index: 1000;
         }
 
-        .site-title {
-            font-size: 1.1rem;
-            color: var(--deep-blue);
-            margin: 0;
-        }
-
-        .nav-links a {
-            color: #ccc;
-            text-decoration: none;
-            margin-left: 15px;
-            font-size: 0.85rem;
-            padding: 3px 8px;
-            border-radius: 3px;
-            transition: all 0.2s;
-        }
-
-        .nav-links a:hover, .nav-links a.active {
-            background-color: var(--deep-blue);
-            color: #fff;
-        }
+        .site-title { font-size: 1.1rem; color: var(--deep-blue); margin: 0; }
+        .nav-links a { color: #ccc; text-decoration: none; margin-left: 15px; font-size: 0.85rem; padding: 3px 8px; border-radius: 3px; transition: all 0.2s; }
+        .nav-links a:hover, .nav-links a.active { background-color: var(--deep-blue); color: #fff; }
 
         /* 🎛️ コントロールパネル */
         .control-panel {
             background-color: var(--bg-panel);
-            margin: 10px; /* 余白を削減 */
-            padding: 8px 12px; /* 縦幅を圧縮 */
+            margin: 8px 10px;
+            padding: 6px 10px;
             border-radius: 4px;
             border: 1px solid var(--border-color);
             display: flex;
             flex-wrap: wrap;
-            gap: 15px;
+            gap: 10px;
             align-items: center;
         }
 
-        .control-group {
-            display: flex;
-            gap: 6px;
-            align-items: center;
-        }
+        .control-group { display: flex; gap: 4px; align-items: center; }
 
-        /* 🔍 検索バーをコンパクトに */
+        /* 🔍 入力フォーム・ボタン類 */
         input[type="text"] {
-            background-color: #111;
-            border: 1px solid #555;
-            color: #fff;
-            padding: 4px 8px;
-            border-radius: 3px;
-            width: 200px;
-            font-family: 'Yomogi', sans-serif;
+            background-color: #111; border: 1px solid #555; color: #fff;
+            padding: 3px 6px; border-radius: 3px; width: 180px; font-family: 'Yomogi', sans-serif;
         }
-
-        input[type="text"]:focus {
-            outline: none;
-            border-color: var(--deep-blue);
-        }
+        input[type="text"]:focus { outline: none; border-color: var(--deep-blue); }
 
         button {
-            background-color: #333;
-            color: #fff;
-            border: 1px solid #555;
-            padding: 4px 10px;
-            border-radius: 3px;
-            cursor: pointer;
-            font-family: 'Yomogi', sans-serif;
-            font-size: 0.8rem;
+            background-color: #333; color: #fff; border: 1px solid #555;
+            padding: 3px 8px; border-radius: 3px; cursor: pointer;
+            font-family: 'Yomogi', sans-serif; font-size: 0.8rem;
         }
-
         button:hover { background-color: #444; }
         button.active { background-color: var(--deep-blue); border-color: var(--deep-blue); }
 
-        /* 📊 ランキングテーブル（超高密度仕様） */
+        /* 🔻 プルダウンメニュー（セレクトボックス）の装飾 */
+        select.dropdown-select {
+            background-color: #111;
+            border: 1px solid #555;
+            color: #fff;
+            padding: 3px 20px 3px 6px; /* 右側に矢印用の余白 */
+            border-radius: 3px;
+            font-family: 'Yomogi', sans-serif;
+            font-size: 0.8rem;
+            cursor: pointer;
+            appearance: none; /* デフォルトの矢印を消す */
+            background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+            background-repeat: no-repeat;
+            background-position: right 4px center;
+            background-size: 12px;
+        }
+        select.dropdown-select:focus { outline: none; border-color: var(--deep-blue); }
+
+        /* 📊 ランキングテーブル（項目同士を極限までくっつける） */
         .table-container {
             margin: 0 10px 10px 10px;
             overflow-x: auto;
@@ -125,49 +106,33 @@
         table {
             width: 100%;
             border-collapse: collapse;
-            font-size: 0.8rem; /* 表内の文字を小さく */
+            font-size: 0.8rem;
             white-space: nowrap;
         }
 
-        /* セルの余白を極限まで削って密度を上げる */
+        /* ★余白を極限まで削る設定（paddingを左右4pxに圧縮） */
         th, td {
-            padding: 3px 8px; /* 上下3px、左右8pxまで圧縮 */
+            padding: 2px 4px;
             text-align: right;
-            border-bottom: 1px solid #2a2a2a; /* 境界線を少し暗く */
+            border-bottom: 1px solid #2a2a2a;
         }
 
         th {
-            background-color: #111;
-            color: #999;
-            font-weight: normal;
-            position: sticky;
-            top: 0;
-            z-index: 10;
-            padding-top: 6px;
-            padding-bottom: 6px;
+            background-color: #111; color: #999; font-weight: normal;
+            position: sticky; top: 0; z-index: 10;
+            padding-top: 4px; padding-bottom: 4px;
         }
 
         th.col-left, td.col-left { text-align: left; }
         th.col-center, td.col-center { text-align: center; }
-
         tr:hover { background-color: var(--highlight); }
 
-        /* 本家風：[チーム名]名前（灰色） */
-        .player-name-format {
-            color: #aaa; /* 本家仕様の灰色 */
-            text-decoration: none;
-        }
-        .player-name-format a {
-            color: #aaa;
-            text-decoration: none;
-        }
-        .player-name-format a:hover {
-            text-decoration: underline;
-            color: #fff;
-        }
+        /* [チーム名]名前（灰色） */
+        .player-name-format { color: #aaa; text-decoration: none; }
+        .player-name-format a { color: #aaa; text-decoration: none; }
+        .player-name-format a:hover { text-decoration: underline; color: #fff; }
 
-        /* 順位バッジのコンパクト化 */
-        .badge-rank { color: #888; font-size: 0.75rem; display: inline-block; width: 40px; }
+        .badge-rank { color: #888; font-size: 0.75rem; display: inline-block; width: 30px; }
 
         /* アイコンのツールチップ */
         .icon-wrapper { position: relative; display: inline-block; cursor: pointer; color: #aaa;}
@@ -201,16 +166,18 @@
         </div>
 
         <div class="control-group" id="filter_type_group" style="margin-left: 10px;">
-            <button class="active">すべて</button>
-            <button>ソロ</button>
-            <button>チーム</button>
+            <select id="filter_type" class="dropdown-select" onchange="filterTable()">
+                <option value="all">すべて合体</option>
+                <option value="solo">ソロ戦のみ</option>
+                <option value="team">チーム戦のみ</option>
+                </select>
         </div>
 
         <div class="control-group" style="margin-left: auto;">
             <button class="active">全期間</button>
             <button>本日</button>
             <button>直近7日間</button>
-            <button title="カスタム期間指定">📅 期間指定</button>
+            <button>今月</button> <button title="カスタム期間指定">📅 期間指定</button>
         </div>
     </div>
 
@@ -218,14 +185,14 @@
         <table>
             <thead>
                 <tr>
-                    <th class="col-left" style="width: 80px;">順位(総合/検索)</th>
-                    <th class="col-center" style="width: 30px;"></th> <th class="col-left">プレイヤー名</th>
+                    <th class="col-left">順位(総合/検索)</th>
+                    <th class="col-center"></th>
+                    <th class="col-left">プレイヤー名</th>
                     <th>試合数</th>
                     <th>総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
                     <th>総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
                     <th>キルレート</th>
-                    <th class="col-center">初登場 / 最終活動</th>
-                </tr>
+                    <th class="col-center">最終活動 ～ 初登場</th> </tr>
             </thead>
             <tbody id="rankingBody">
                 </tbody>
@@ -257,8 +224,8 @@
                 const killRate = (p.total_kills / p.matches).toFixed(2);
                 const analysisUrl = `analysis.html?name=${encodeURIComponent(p.name)}&team=${encodeURIComponent(p.team)}`;
 
-                // 本家風フォーマット: チームが「ソロ」の場合はチーム名表記を省略するかどうか（今回は仕様通り[ソロ]表記にしています）
-                const teamDisplay = p.team === "ソロ" ? "[ソロ]" : `[${p.team}]`;
+                // ★ ソロの場合は空っぽにし、それ以外は [チーム名] にする処理
+                const teamDisplay = p.team === "ソロ" ? "" : `[${p.team}]`;
 
                 const tr = document.createElement('tr');
                 tr.innerHTML = `
@@ -266,7 +233,7 @@
                         <span class="badge-rank">${p.rank_all}位</span>
                         ${searchQuery ? `<span class="badge-rank" style="color:var(--deep-blue);">(${searchRank}位)</span>` : '<span class="badge-rank"></span>'}
                     </td>
-                    <td class="col-center">
+                    <td class="col-center" style="width:20px;">
                         <div class="icon-wrapper">
                             ${p.icon}
                             <div class="tooltip">よく使うアイコン</div>
@@ -286,8 +253,7 @@
                     </td>
                     <td>${killRate}</td>
                     <td class="col-center" style="font-size:0.75rem; color:#888;">
-                        ${p.first_date} - ${p.last_date}
-                    </td>
+                        ${p.last_date} ～ ${p.first_date} </td>
                 `;
                 tbody.appendChild(tr);
                 searchRank++;
@@ -296,6 +262,7 @@
 
         function filterTable() {
             const query = document.getElementById('searchInput').value.trim();
+            // ※本番ではここでプルダウン(document.getElementById('filter_type').value)の値も見て絞り込みます
             renderTable(dummyData, query);
         }
 
@@ -303,6 +270,8 @@
             document.getElementById('tab_personal').classList.remove('active');
             document.getElementById('tab_team').classList.remove('active');
             document.getElementById('tab_' + mode).classList.add('active');
+            
+            // チームランキングの時はプルダウンフィルターを隠す
             document.getElementById('filter_type_group').style.display = (mode === 'personal') ? 'flex' : 'none';
         }
     </script>
