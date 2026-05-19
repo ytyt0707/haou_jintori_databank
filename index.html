@@ -141,12 +141,15 @@
            🎯 【最優先】順位・アイコン・プレイヤー名の間を限界まで密着させる
            ======================================================= */
         
-        /* 1列目（順位）の「右側」の余白を詰める */
+        /* 1列目（順位）の横幅を固定して、検索順位が出ても右に広がらないようにする */
         th:nth-child(1), td:nth-child(1) {
             padding-right: 2px !important;
+            width: 85px !important;     /* ★横幅をこれ以上広がらないようにガチッと固定！ */
+            min-width: 85px !important; /* ★最小幅もキープ */
+            text-align: left !important;/* 順位のテキストを左寄りに整列 */
         }
 
-        /* 2列目（アイコン）の「左右」の余白を極限まで削り、横幅も絞る */
+        /* 2列目（アイコン）の「左右」の余白を極限まで削る */
         th:nth-child(2), td:nth-child(2) {
             padding-left: 2px !important;
             padding-right: 2px !important;
