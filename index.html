@@ -97,11 +97,13 @@
 
         /* 📊 ランキングテーブル（極限圧縮＆引き伸ばし解除！） */
         .table-container {
-            margin: 0 10px 10px 10px;
+            /* ★左右の margin を「auto」にすることで、スリムな状態のまま画面の真ん中にカチッと配置されます */
+            margin: 0 auto 10px auto; 
+            
             overflow-x: auto;
             background-color: var(--bg-panel);
             border: 1px solid var(--border-color);
-            display: inline-block; /* ★画面いっぱいに広がるのを防ぎ、中身のサイズに合わせる */
+            display: inline-block;
         }
 
         table {
