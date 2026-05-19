@@ -77,91 +77,32 @@
         button:hover { background-color: #444; }
         button.active { background-color: var(--deep-blue); border-color: var(--deep-blue); }
 
-        /* 🔻 プルダウンメニュー（セレクトボックス）の装飾 */
         select.dropdown-select {
-            background-color: #111;
-            border: 1px solid #555;
-            color: #fff;
-            padding: 3px 20px 3px 6px; /* 右側に矢印用の余白 */
-            border-radius: 3px;
-            font-family: 'Yomogi', sans-serif;
-            font-size: 0.8rem;
-            cursor: pointer;
-            appearance: none; /* デフォルトの矢印を消す */
+            background-color: #111; border: 1px solid #555; color: #fff;
+            padding: 3px 20px 3px 6px; border-radius: 3px; font-family: 'Yomogi', sans-serif;
+            font-size: 0.8rem; cursor: pointer; appearance: none;
             background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
-            background-repeat: no-repeat;
-            background-position: right 4px center;
-            background-size: 12px;
+            background-repeat: no-repeat; background-position: right 4px center; background-size: 12px;
         }
         select.dropdown-select:focus { outline: none; border-color: var(--deep-blue); }
 
-        /* 📦 テーブルを真ん中に寄せるための外枠（新設） */
-        .table-wrapper {
-            width: 100%;
-            text-align: center; /* これで中にあるテーブルコンテナがど真ん中に寄ります */
-            margin-top: 10px;
-        }
+        /* 📦 センタリング用の壁 */
+        .table-wrapper { width: 100%; text-align: center; margin-top: 10px; }
 
         /* 📊 ランキングテーブル（極限圧縮＆引き伸ばし解除） */
         .table-container {
-            overflow-x: auto;
-            background-color: var(--bg-panel);
-            border: 1px solid var(--border-color);
-            display: inline-block; /* 画面いっぱいに広がるのを防ぐ */
-            text-align: left;      /* テーブル内の文字までセンター寄りになるのを防ぐ */
+            overflow-x: auto; background-color: var(--bg-panel); border: 1px solid var(--border-color);
+            display: inline-block; text-align: left;
         }
 
-        table {
-            width: auto; /* 引き伸ばし無効化 */
-            border-collapse: collapse;
-            font-size: 0.8rem;
-            white-space: nowrap;
-        }
+        table { width: auto; border-collapse: collapse; font-size: 0.8rem; white-space: nowrap; }
 
-        /* ① 基本設定：すべてのマスの上下を2px、左右を12pxに */
-        th, td {
-            padding: 2px 12px;
-            text-align: right;
-            border-bottom: 1px solid #2a2a2a;
-        }
-
-        th {
-            background-color: #111; color: #999; font-weight: normal;
-            position: sticky; top: 0; z-index: 10;
-            padding-top: 4px; padding-bottom: 4px;
-        }
-
-        /* 各種アライメント設定 */
+        th, td { padding: 2px 12px; text-align: right; border-bottom: 1px solid #2a2a2a; }
+        th { background-color: #111; color: #999; font-weight: normal; position: sticky; top: 0; z-index: 10; padding-top: 4px; padding-bottom: 4px; }
         th.col-left, td.col-left { text-align: left; }
         th.col-center, td.col-center { text-align: center; }
         tr:hover { background-color: var(--highlight); }
 
-
-        /* =======================================================
-           🎯 【最優先】順位・アイコン・プレイヤー名の間を限界まで密着させる
-           ======================================================= */
-        
-        /* 1列目（順位）の横幅を固定して、検索順位が出ても右に広がらないようにする */
-        th:nth-child(1), td:nth-child(1) {
-            padding-right: 2px !important;
-            width: 85px !important;     /* ★横幅をこれ以上広がらないようにガチッと固定！ */
-            min-width: 85px !important; /* ★最小幅もキープ */
-            text-align: left !important;/* 順位のテキストを左寄りに整列 */
-        }
-
-        /* 2列目（アイコン）の「左右」の余白を極限まで削る */
-        th:nth-child(2), td:nth-child(2) {
-            padding-left: 2px !important;
-            padding-right: 2px !important;
-            width: 16px !important;
-            min-width: 16px !important;
-            text-align: center !important;
-        }
-
-        /* 3列目（プレイヤー名）の「左側」の余白を詰める */
-        th:nth-child(3), td:nth-child(3) {
-            padding-left: 2px !important;
-        }
         /* [チーム名]名前（灰色） */
         .player-name-format { color: #aaa; text-decoration: none; }
         .player-name-format a { color: #aaa; text-decoration: none; }
@@ -177,6 +118,13 @@
             background: #000; border: 1px solid var(--deep-blue); padding: 3px 6px; border-radius: 3px;
             z-index: 100; white-space: nowrap; color: #fff; font-size: 0.75rem;
         }
+
+        /* =======================================================
+           🎯 順位・アイコン・プレイヤー名の間を限界まで密着させる（固定幅）
+           ======================================================= */
+        th:nth-child(1), td:nth-child(1) { padding-right: 2px !important; width: 85px !important; min-width: 85px !important; text-align: left !important; }
+        th:nth-child(2), td:nth-child(2) { padding-left: 2px !important; padding-right: 2px !important; width: 16px !important; min-width: 16px !important; text-align: center !important; }
+        th:nth-child(3), td:nth-child(3) { padding-left: 2px !important; }
     </style>
 </head>
 <body>
@@ -192,7 +140,7 @@
 
     <div class="control-panel">
         <div class="control-group">
-            <input type="text" id="searchInput" placeholder="🔍 名前で絞り込み..." onkeyup="filterTable()">
+            <input type="text" id="searchInput" placeholder="🔍 名前で絞り込み..." oninput="updateView()">
         </div>
 
         <div class="control-group" style="margin-left: 10px;">
@@ -201,18 +149,19 @@
         </div>
 
         <div class="control-group" id="filter_type_group" style="margin-left: 10px;">
-            <select id="filter_type" class="dropdown-select" onchange="filterTable()">
+            <select id="filter_type" class="dropdown-select" onchange="updateView()">
                 <option value="all">すべて合体</option>
                 <option value="solo">ソロ戦のみ</option>
                 <option value="team">チーム戦のみ</option>
-                </select>
+            </select>
         </div>
 
         <div class="control-group" style="margin-left: auto;">
             <button class="active">全期間</button>
             <button>本日</button>
             <button>直近7日間</button>
-            <button>今月</button> <button title="カスタム期間指定">📅 期間指定</button>
+            <button>今月</button>
+            <button title="カスタム期間指定">📅 期間指定</button>
         </div>
     </div>
 
@@ -223,7 +172,7 @@
                     <tr>
                         <th class="col-left">順位(総合/検索)</th>
                         <th class="col-center"></th>
-                        <th class="col-left">プレイヤー名</th>
+                        <th class="col-left" id="name_header_text">プレイヤー名</th>
                         <th>試合数</th>
                         <th>総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
                         <th>総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
@@ -236,33 +185,64 @@
             </table>
         </div>
     </div>
+
     <script>
-        // 🧪 テスト用のダミーデータ
-        const dummyData = [
+        // 🌐 現在の表示モードを管理する変数
+        let currentMode = 'personal'; 
+
+        // 🧪 テスト用の個人データ
+        const personalDummyData = [
             { rank_all: 1, name: "束音ロゼ", team: "ソロ", icon: "🌸", matches: 1250, wins: 450, total_area: 854000, max_area: 12500, total_kills: 3500, max_kills: 15, first_date: "24/01/10", last_date: "26/05/19" },
             { rank_all: 2, name: "名無しA", team: "🇯🇵ONJ", icon: "⚔️", matches: 980, wins: 210, total_area: 620000, max_area: 9800, total_kills: 1200, max_kills: 8, first_date: "24/02/15", last_date: "26/05/18" },
             { rank_all: 3, name: "破壊神", team: "ソロ", icon: "🔥", matches: 500, wins: 300, total_area: 400000, max_area: 15000, total_kills: 2000, max_kills: 22, first_date: "25/06/01", last_date: "26/05/19" },
             { rank_all: 4, name: "束音ロゼ", team: "🇯🇵ONJ", icon: "🌸", matches: 120, wins: 50, total_area: 95000, max_area: 11000, total_kills: 280, max_kills: 10, first_date: "26/01/01", last_date: "26/05/15" },
         ];
 
+        // 🧪 テスト用のチームデータ（★新設！）
+        const teamDummyData = [
+            { rank_all: 1, name: "🇯🇵ONJ", team: "チーム", icon: "🛡️", matches: 1100, wins: 260, total_area: 715000, max_area: 11000, total_kills: 1480, max_kills: 10, first_date: "24/02/15", last_date: "26/05/18" },
+            { rank_all: 2, name: "覇王軍", team: "チーム", icon: "👑", matches: 850, wins: 600, total_area: 690000, max_area: 18000, total_kills: 4500, max_kills: 30, first_date: "24/01/01", last_date: "26/05/19" },
+        ];
+
         window.onload = () => {
-            renderTable(dummyData);
+            updateView();
         };
 
-        function renderTable(dataArray, searchQuery = "") {
+        // 🔄 画面更新（検索、プルダウン、タブの状態をすべてまとめて処理する関数）
+        function updateView() {
+            const query = document.getElementById('searchInput').value.trim();
+            const filterType = document.getElementById('filter_type').value;
+            
+            // 現在のモードに応じてデータソースを選択
+            let activeData = (currentMode === 'personal') ? personalDummyData : teamDummyData;
+
+            // 描画を実行
+            renderTable(activeData, query, filterType);
+        }
+
+        function renderTable(dataArray, searchQuery = "", filterType = "all") {
             const tbody = document.getElementById('rankingBody');
             tbody.innerHTML = '';
 
             let searchRank = 1;
 
             dataArray.forEach(p => {
+                // 🔍 検索キーワードの判定（スマホ対応）
                 if (searchQuery && !p.name.includes(searchQuery) && !p.team.includes(searchQuery)) return;
 
-                const killRate = (p.total_kills / p.matches).toFixed(2);
-                const analysisUrl = `analysis.html?name=${encodeURIComponent(p.name)}&team=${encodeURIComponent(p.team)}`;
+                // 🔻 プルダウンによる「ソロのみ/チームのみ」のフィルタリング処理
+                if (currentMode === 'personal') {
+                    if (filterType === 'solo' && p.team !== 'ソロ') return;
+                    if (filterType === 'team' && p.team === 'ソロ') return;
+                }
 
-                // ★ ソロの場合は空っぽにし、それ以外は [チーム名] にする処理
-                const teamDisplay = p.team === "ソロ" ? "" : `[${p.team}]`;
+                const killRate = (p.total_kills / p.matches).toFixed(2);
+                
+                // チームランキングの場合はリンク先を「チーム用分析」に変えられるように
+                const analysisUrl = `analysis.html?name=${encodeURIComponent(p.name)}&mode=${currentMode}`;
+                
+                // ソロの場合は表記なし、それ以外は [チーム名] に
+                const teamDisplay = (p.team === "ソロ" || currentMode === 'team') ? "" : `[${p.team}]`;
 
                 const tr = document.createElement('tr');
                 tr.innerHTML = `
@@ -270,7 +250,7 @@
                         <span class="badge-rank">${p.rank_all}位</span>
                         ${searchQuery ? `<span class="badge-rank" style="color:var(--deep-blue);">(${searchRank}位)</span>` : '<span class="badge-rank"></span>'}
                     </td>
-                    <td class="col-center" style="width:20px;">
+                    <td class="col-center">
                         <div class="icon-wrapper">
                             ${p.icon}
                             <div class="tooltip">よく使うアイコン</div>
@@ -290,26 +270,30 @@
                     </td>
                     <td>${killRate}</td>
                     <td class="col-center" style="font-size:0.75rem; color:#888;">
-                        ${p.last_date} ～ ${p.first_date} </td>
+                        ${p.last_date} ～ ${p.first_date}
+                    </td>
                 `;
                 tbody.appendChild(tr);
                 searchRank++;
             });
         }
 
-        function filterTable() {
-            const query = document.getElementById('searchInput').value.trim();
-            // ※本番ではここでプルダウン(document.getElementById('filter_type').value)の値も見て絞り込みます
-            renderTable(dummyData, query);
-        }
-
+        // 🔄 個人/チームのタブ切り替え
         function switchMode(mode) {
+            currentMode = mode;
+            
             document.getElementById('tab_personal').classList.remove('active');
             document.getElementById('tab_team').classList.remove('active');
             document.getElementById('tab_' + mode).classList.add('active');
             
-            // チームランキングの時はプルダウンフィルターを隠す
+            // テーブルヘッダーの文字を切り替え
+            document.getElementById('name_header_text').textContent = (mode === 'personal') ? 'プレイヤー名' : 'チーム名';
+            
+            // チームランキングの時はソロ/チーム合体のプルダウンを隠す
             document.getElementById('filter_type_group').style.display = (mode === 'personal') ? 'flex' : 'none';
+            
+            // データを切り替えて再描画
+            updateView();
         }
     </script>
 </body>
