@@ -4,33 +4,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>おんj陣取り 覇王軍特設データバンク</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Yomogi&display=swap" rel="stylesheet">
+
     <style>
         /* ==========================================
-           🎨 本家オマージュのサイバーダークUI
+           🎨 高密度サイバーダークUI（本家完全リスペクト）
         ========================================== */
         :root {
             --bg-base: #1a1d24;
-            --bg-panel: #22252e;
+            --bg-panel: #222;
             --text-main: #e0e0e0;
-            --neon-blue: #00d2ff;
-            --neon-green: #39ff14;
-            --neon-red: #ff003c;
+            --deep-blue: #007bb5; /* 少し暗めの落ち着いたブルー */
             --border-color: #333;
-            --highlight: rgba(0, 210, 255, 0.1);
+            --highlight: rgba(0, 123, 181, 0.15);
         }
 
         body {
             margin: 0;
-            font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', sans-serif;
+            /* すべての文字をYomogiフォントに統一 */
+            font-family: 'Yomogi', sans-serif;
             background-color: var(--bg-base);
             color: var(--text-main);
+            font-size: 0.85rem; /* 全体的に文字を小さく */
         }
 
-        /* 🧭 ナビゲーションバー（ui_top_wrap風） */
+        /* 🧭 ナビゲーションバー */
         header {
             background-color: #111;
-            border-bottom: 2px solid var(--neon-blue);
-            padding: 10px 20px;
+            border-bottom: 1px solid var(--deep-blue); /* 線を細く（2px -> 1px） */
+            padding: 6px 15px; /* 縦幅を圧縮 */
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -40,35 +45,32 @@
         }
 
         .site-title {
-            font-size: 1.2rem;
-            font-weight: bold;
-            color: var(--neon-blue);
-            text-shadow: 0 0 5px rgba(0, 210, 255, 0.5);
+            font-size: 1.1rem;
+            color: var(--deep-blue);
             margin: 0;
         }
 
         .nav-links a {
-            color: #fff;
+            color: #ccc;
             text-decoration: none;
-            margin-left: 20px;
-            font-size: 0.9rem;
-            padding: 5px 10px;
-            border-radius: 4px;
+            margin-left: 15px;
+            font-size: 0.85rem;
+            padding: 3px 8px;
+            border-radius: 3px;
             transition: all 0.2s;
         }
 
         .nav-links a:hover, .nav-links a.active {
-            background-color: var(--neon-blue);
-            color: #000;
-            font-weight: bold;
+            background-color: var(--deep-blue);
+            color: #fff;
         }
 
-        /* 🎛️ コントロールパネル（ui_menu_box風） */
+        /* 🎛️ コントロールパネル */
         .control-panel {
             background-color: var(--bg-panel);
-            margin: 20px;
-            padding: 15px;
-            border-radius: 8px;
+            margin: 10px; /* 余白を削減 */
+            padding: 8px 12px; /* 縦幅を圧縮 */
+            border-radius: 4px;
             border: 1px solid var(--border-color);
             display: flex;
             flex-wrap: wrap;
@@ -78,67 +80,71 @@
 
         .control-group {
             display: flex;
-            gap: 10px;
+            gap: 6px;
             align-items: center;
         }
 
+        /* 🔍 検索バーをコンパクトに */
         input[type="text"] {
             background-color: #111;
             border: 1px solid #555;
             color: #fff;
-            padding: 8px 12px;
-            border-radius: 4px;
-            width: 250px;
+            padding: 4px 8px;
+            border-radius: 3px;
+            width: 200px;
+            font-family: 'Yomogi', sans-serif;
         }
 
         input[type="text"]:focus {
             outline: none;
-            border-color: var(--neon-blue);
-            box-shadow: 0 0 5px var(--neon-blue);
+            border-color: var(--deep-blue);
         }
 
         button {
             background-color: #333;
             color: #fff;
             border: 1px solid #555;
-            padding: 8px 12px;
-            border-radius: 4px;
+            padding: 4px 10px;
+            border-radius: 3px;
             cursor: pointer;
-            transition: 0.2s;
+            font-family: 'Yomogi', sans-serif;
+            font-size: 0.8rem;
         }
 
         button:hover { background-color: #444; }
-        button.active { background-color: var(--neon-blue); color: #000; font-weight: bold; border-color: var(--neon-blue); }
+        button.active { background-color: var(--deep-blue); border-color: var(--deep-blue); }
 
-        /* 📊 ランキングテーブル */
+        /* 📊 ランキングテーブル（超高密度仕様） */
         .table-container {
-            margin: 0 20px 20px 20px;
+            margin: 0 10px 10px 10px;
             overflow-x: auto;
             background-color: var(--bg-panel);
-            border-radius: 8px;
             border: 1px solid var(--border-color);
         }
 
         table {
             width: 100%;
             border-collapse: collapse;
-            font-size: 0.85rem;
+            font-size: 0.8rem; /* 表内の文字を小さく */
             white-space: nowrap;
         }
 
+        /* セルの余白を極限まで削って密度を上げる */
         th, td {
-            padding: 10px 15px;
+            padding: 3px 8px; /* 上下3px、左右8pxまで圧縮 */
             text-align: right;
-            border-bottom: 1px solid var(--border-color);
+            border-bottom: 1px solid #2a2a2a; /* 境界線を少し暗く */
         }
 
         th {
             background-color: #111;
-            color: #aaa;
+            color: #999;
             font-weight: normal;
             position: sticky;
             top: 0;
             z-index: 10;
+            padding-top: 6px;
+            padding-bottom: 6px;
         }
 
         th.col-left, td.col-left { text-align: left; }
@@ -146,29 +152,30 @@
 
         tr:hover { background-color: var(--highlight); }
 
-        /* リンク付きの名前（分析ページへ！） */
-        .player-name {
-            color: var(--neon-blue);
+        /* 本家風：[チーム名]名前（灰色） */
+        .player-name-format {
+            color: #aaa; /* 本家仕様の灰色 */
             text-decoration: none;
-            font-weight: bold;
-            font-size: 1rem;
         }
-        .player-name:hover { text-decoration: underline; text-shadow: 0 0 5px rgba(0, 210, 255, 0.5); }
+        .player-name-format a {
+            color: #aaa;
+            text-decoration: none;
+        }
+        .player-name-format a:hover {
+            text-decoration: underline;
+            color: #fff;
+        }
 
-        /* 特殊数値の装飾 */
-        .num-font { font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 0.95rem; }
-        .kr-high { color: var(--neon-green); font-weight: bold; text-shadow: 0 0 4px rgba(57, 255, 20, 0.4); }
-        .kr-normal { color: #fff; }
-        .badge-rank { background: #333; padding: 2px 6px; border-radius: 4px; font-size: 0.75rem; margin-right: 5px; }
+        /* 順位バッジのコンパクト化 */
+        .badge-rank { color: #888; font-size: 0.75rem; display: inline-block; width: 40px; }
 
         /* アイコンのツールチップ */
         .icon-wrapper { position: relative; display: inline-block; cursor: pointer; color: #aaa;}
         .icon-wrapper:hover .tooltip { display: block; }
         .tooltip {
             display: none; position: absolute; bottom: 120%; left: 50%; transform: translateX(-50%);
-            background: #000; border: 1px solid var(--neon-blue); padding: 5px; border-radius: 4px;
-            z-index: 100; box-shadow: 0 0 10px rgba(0, 210, 255, 0.3);
-            white-space: nowrap; color: #fff; font-size: 0.75rem;
+            background: #000; border: 1px solid var(--deep-blue); padding: 3px 6px; border-radius: 3px;
+            z-index: 100; white-space: nowrap; color: #fff; font-size: 0.75rem;
         }
     </style>
 </head>
@@ -185,25 +192,25 @@
 
     <div class="control-panel">
         <div class="control-group">
-            <button id="tab_personal" class="active" onclick="switchMode('personal')">👤 個人ランキング</button>
-            <button id="tab_team" onclick="switchMode('team')">👥 チームランキング</button>
+            <input type="text" id="searchInput" placeholder="🔍 名前で絞り込み..." onkeyup="filterTable()">
         </div>
 
-        <div class="control-group" id="filter_type_group">
-            <button class="active">すべて合体</button>
-            <button>ソロ戦のみ</button>
-            <button>チーム戦のみ</button>
+        <div class="control-group" style="margin-left: 10px;">
+            <button id="tab_personal" class="active" onclick="switchMode('personal')">個人</button>
+            <button id="tab_team" onclick="switchMode('team')">チーム</button>
         </div>
 
-        <div class="control-group">
-            <button class="active">全期間</button>
-            <button>本日</button>
-            <button>直近7日間</button>
-            <button title="カスタム期間指定 (準備中)">📅 期間指定</button>
+        <div class="control-group" id="filter_type_group" style="margin-left: 10px;">
+            <button class="active">すべて</button>
+            <button>ソロ</button>
+            <button>チーム</button>
         </div>
 
         <div class="control-group" style="margin-left: auto;">
-            <input type="text" id="searchInput" placeholder="🔍 名前で絞り込み (Enterで検索)..." onkeyup="filterTable()">
+            <button class="active">全期間</button>
+            <button>本日</button>
+            <button>直近7日間</button>
+            <button title="カスタム期間指定">📅 期間指定</button>
         </div>
     </div>
 
@@ -211,16 +218,13 @@
         <table>
             <thead>
                 <tr>
-                    <th class="col-left" style="width: 100px;">順位(総合/検索)</th>
-                    <th class="col-center">アイコン</th>
-                    <th class="col-left">プレイヤー名 (所属)</th>
+                    <th class="col-left" style="width: 80px;">順位(総合/検索)</th>
+                    <th class="col-center" style="width: 30px;"></th> <th class="col-left">プレイヤー名</th>
                     <th>試合数</th>
-                    <th>1位回数</th>
-                    <th>勝率</th>
-                    <th>総占領面積 <br><span style="font-size:0.7rem;color:#888;">[最大面積]</span></th>
-                    <th>総キル数 <br><span style="font-size:0.7rem;color:#888;">[最大キル]</span></th>
-                    <th>キルレート <br><span style="font-size:0.7rem;color:#888;">(平均1.5)</span></th>
-                    <th class="col-center">初登場日 / 最終活動日</th>
+                    <th>総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
+                    <th>総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
+                    <th>キルレート</th>
+                    <th class="col-center">初登場 / 最終活動</th>
                 </tr>
             </thead>
             <tbody id="rankingBody">
@@ -229,25 +233,18 @@
     </div>
 
     <script>
-        // ==========================================
-        // 🧪 テスト用のダミーデータ（後で本物のJSON読込に差し替えます）
-        // ==========================================
+        // 🧪 テスト用のダミーデータ
         const dummyData = [
-            { rank_all: 1, name: "束音ロゼ", team: "ソロ", icon: "🌸", matches: 1250, wins: 450, total_area: 854000, max_area: 12500, total_kills: 3500, max_kills: 15, first_date: "2024/01/10", last_date: "2026/05/19" },
-            { rank_all: 2, name: "名無しA", team: "🇯🇵ONJ", icon: "⚔️", matches: 980, wins: 210, total_area: 620000, max_area: 9800, total_kills: 1200, max_kills: 8, first_date: "2024/02/15", last_date: "2026/05/18" },
-            { rank_all: 3, name: "破壊神", team: "ソロ", icon: "🔥", matches: 500, wins: 300, total_area: 400000, max_area: 15000, total_kills: 2000, max_kills: 22, first_date: "2025/06/01", last_date: "2026/05/19" },
-            { rank_all: 4, name: "束音ロゼ", team: "🇯🇵ONJ", icon: "🌸", matches: 120, wins: 50, total_area: 95000, max_area: 11000, total_kills: 280, max_kills: 10, first_date: "2026/01/01", last_date: "2026/05/15" }, // 複数所属のテスト
+            { rank_all: 1, name: "束音ロゼ", team: "ソロ", icon: "🌸", matches: 1250, wins: 450, total_area: 854000, max_area: 12500, total_kills: 3500, max_kills: 15, first_date: "24/01/10", last_date: "26/05/19" },
+            { rank_all: 2, name: "名無しA", team: "🇯🇵ONJ", icon: "⚔️", matches: 980, wins: 210, total_area: 620000, max_area: 9800, total_kills: 1200, max_kills: 8, first_date: "24/02/15", last_date: "26/05/18" },
+            { rank_all: 3, name: "破壊神", team: "ソロ", icon: "🔥", matches: 500, wins: 300, total_area: 400000, max_area: 15000, total_kills: 2000, max_kills: 22, first_date: "25/06/01", last_date: "26/05/19" },
+            { rank_all: 4, name: "束音ロゼ", team: "🇯🇵ONJ", icon: "🌸", matches: 120, wins: 50, total_area: 95000, max_area: 11000, total_kills: 280, max_kills: 10, first_date: "26/01/01", last_date: "26/05/15" },
         ];
 
-        // 基準となる平均キルレート（実際のデータから計算する予定）
-        const AVG_KILL_RATE = 1.5;
-
-        // 画面を開いた時にダミーデータを描画
         window.onload = () => {
             renderTable(dummyData);
         };
 
-        // 📝 テーブル描画関数
         function renderTable(dataArray, searchQuery = "") {
             const tbody = document.getElementById('rankingBody');
             tbody.innerHTML = '';
@@ -255,47 +252,41 @@
             let searchRank = 1;
 
             dataArray.forEach(p => {
-                // 検索フィルター処理
                 if (searchQuery && !p.name.includes(searchQuery) && !p.team.includes(searchQuery)) return;
 
-                // 各種計算
-                const winRate = ((p.wins / p.matches) * 100).toFixed(1);
                 const killRate = (p.total_kills / p.matches).toFixed(2);
-                const krClass = killRate >= AVG_KILL_RATE ? 'kr-high' : 'kr-normal';
-                
-                // 【重要】分析ページへのリンク用URL生成（URLエンコードして安全に渡す）
                 const analysisUrl = `analysis.html?name=${encodeURIComponent(p.name)}&team=${encodeURIComponent(p.team)}`;
+
+                // 本家風フォーマット: チームが「ソロ」の場合はチーム名表記を省略するかどうか（今回は仕様通り[ソロ]表記にしています）
+                const teamDisplay = p.team === "ソロ" ? "[ソロ]" : `[${p.team}]`;
 
                 const tr = document.createElement('tr');
                 tr.innerHTML = `
                     <td class="col-left">
-                        <span class="badge-rank">総合 ${p.rank_all}位</span><br>
-                        ${searchQuery ? `<span class="badge-rank" style="background:var(--neon-blue);color:#000;">検索 ${searchRank}位</span>` : ''}
+                        <span class="badge-rank">${p.rank_all}位</span>
+                        ${searchQuery ? `<span class="badge-rank" style="color:var(--deep-blue);">(${searchRank}位)</span>` : '<span class="badge-rank"></span>'}
                     </td>
                     <td class="col-center">
                         <div class="icon-wrapper">
                             ${p.icon}
-                            <div class="tooltip">よく使うアイコン<br>(※本番で画像化)</div>
+                            <div class="tooltip">よく使うアイコン</div>
                         </div>
                     </td>
-                    <td class="col-left">
-                        <a href="${analysisUrl}" class="player-name">${p.name}</a>
-                        <div style="font-size:0.75rem; color:#888; margin-top:3px;">[${p.team}]</div>
+                    <td class="col-left player-name-format">
+                        ${teamDisplay}<a href="${analysisUrl}">${p.name}</a>
                     </td>
-                    <td class="num-font">${p.matches.toLocaleString()}</td>
-                    <td class="num-font">${p.wins.toLocaleString()}</td>
-                    <td class="num-font">${winRate}%</td>
-                    <td class="num-font">
-                        ${p.total_area.toLocaleString()}<br>
-                        <span style="font-size:0.75rem;color:#888;">[${p.max_area.toLocaleString()}]</span>
+                    <td>${p.matches.toLocaleString()}</td>
+                    <td>
+                        ${p.total_area.toLocaleString()}%
+                        <span style="font-size:0.7rem;color:#777;">[${p.max_area.toLocaleString()}%]</span>
                     </td>
-                    <td class="num-font">
-                        ${p.total_kills.toLocaleString()}<br>
-                        <span style="font-size:0.75rem;color:#888;">[${p.max_kills.toLocaleString()}]</span>
+                    <td>
+                        ${p.total_kills.toLocaleString()}
+                        <span style="font-size:0.7rem;color:#777;">[${p.max_kills.toLocaleString()}]</span>
                     </td>
-                    <td class="num-font ${krClass}">${killRate}</td>
-                    <td class="col-center" style="font-size:0.8rem; color:#aaa;">
-                        ${p.first_date}<br>～ ${p.last_date}
+                    <td>${killRate}</td>
+                    <td class="col-center" style="font-size:0.75rem; color:#888;">
+                        ${p.first_date} - ${p.last_date}
                     </td>
                 `;
                 tbody.appendChild(tr);
@@ -303,22 +294,16 @@
             });
         }
 
-        // 🔍 検索バーの絞り込み処理（入力するたびに一瞬で動く）
         function filterTable() {
             const query = document.getElementById('searchInput').value.trim();
             renderTable(dummyData, query);
         }
 
-        // 🔄 個人/チームのタブ切り替え
         function switchMode(mode) {
             document.getElementById('tab_personal').classList.remove('active');
             document.getElementById('tab_team').classList.remove('active');
             document.getElementById('tab_' + mode).classList.add('active');
-            
-            // チームモードの時はソロ/合体のフィルターを隠すなどのUI調整
             document.getElementById('filter_type_group').style.display = (mode === 'personal') ? 'flex' : 'none';
-            
-            // ※本番ではここで personal_analysis か team_analysis のJSONを読み込み直します
         }
     </script>
 </body>
