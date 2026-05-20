@@ -30,7 +30,6 @@
             font-size: 0.85rem;
         }
 
-        /* 🧭 ナビゲーションバー */
         header {
             background-color: #111;
             border-bottom: 1px solid var(--deep-blue);
@@ -47,7 +46,6 @@
         .nav-links a { color: #ccc; text-decoration: none; margin-left: 15px; font-size: 0.85rem; padding: 3px 8px; border-radius: 3px; transition: all 0.2s; }
         .nav-links a:hover, .nav-links a.active { background-color: var(--deep-blue); color: #fff; }
 
-        /* 🎛️ コントロールパネル */
         .control-panel {
             background-color: var(--bg-panel);
             margin: 8px 10px;
@@ -62,7 +60,6 @@
 
         .control-group { display: flex; gap: 4px; align-items: center; }
 
-        /* 🔍 入力フォーム・ボタン類 */
         input[type="text"] {
             background-color: #111; border: 1px solid #555; color: #fff;
             padding: 3px 6px; border-radius: 3px; width: 180px; font-family: 'Yomogi', sans-serif;
@@ -86,10 +83,8 @@
         }
         select.dropdown-select:focus { outline: none; border-color: var(--deep-blue); }
 
-        /* 📦 センタリング用の壁 */
         .table-wrapper { width: 100%; text-align: center; margin-top: 10px; }
 
-        /* 📊 ランキングテーブル（極限圧縮＆引き伸ばし解除） */
         .table-container {
             overflow-x: auto; background-color: var(--bg-panel); border: 1px solid var(--border-color);
             display: inline-block; text-align: left;
@@ -103,14 +98,12 @@
         th.col-center, td.col-center { text-align: center; }
         tr:hover { background-color: var(--highlight); }
 
-        /* [チーム名]名前（灰色） */
         .player-name-format { color: #aaa; text-decoration: none; }
         .player-name-format a { color: #aaa; text-decoration: none; }
         .player-name-format a:hover { text-decoration: underline; color: #fff; }
 
         .badge-rank { color: #888; font-size: 0.75rem; display: inline-block; width: 45px; }
 
-        /* アイコンのツールチップ */
         .icon-wrapper { position: relative; display: inline-block; cursor: pointer; color: #aaa;}
         .icon-wrapper:hover .tooltip { display: block; }
         .tooltip {
@@ -119,9 +112,6 @@
             z-index: 100; white-space: nowrap; color: #fff; font-size: 0.75rem;
         }
 
-        /* =======================================================
-           🎯 順位・アイコン・プレイヤー名の間を限界まで密着させる（固定幅）
-           ======================================================= */
         th:nth-child(1), td:nth-child(1) { padding-right: 2px !important; width: 110px !important; min-width: 110px !important; text-align: left !important; }
         th:nth-child(2), td:nth-child(2) { padding-left: 2px !important; padding-right: 2px !important; width: 16px !important; min-width: 16px !important; text-align: center !important; }
         th:nth-child(3), td:nth-child(3) { padding-left: 2px !important; }
@@ -178,13 +168,13 @@
             <table>
                 <thead>
                     <tr style="user-select: none;">
-                        <th class="col-left">(総合/検索)</th>
+                        <th class="col-left">順位(総合/検索)</th>
                         <th class="col-center"></th>
-                        <th class="col-left" id="th_name" onclick="setSort('name')" style="cursor:pointer;">名前</th>
-                        <th id="th_matches" onclick="setSort('matches')" style="cursor:pointer;">試合</th>
-                        <th id="th_total_area" onclick="setSort('total_area')" style="cursor:pointer;">累計占領 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
-                        <th id="th_total_kills" onclick="setSort('total_kills')" style="cursor:pointer;">キル <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
-                        <th id="th_kill_rate" onclick="setSort('kill_rate')" style="cursor:pointer;">キル率</th>
+                        <th class="col-left" id="th_name" onclick="setSort('name')" style="cursor:pointer;">プレイヤー名</th>
+                        <th id="th_wins" onclick="setSort('wins')" style="cursor:pointer; color:#ffd700;">1位回数</th> <th id="th_matches" onclick="setSort('matches')" style="cursor:pointer;">試合数</th>
+                        <th id="th_total_area" onclick="setSort('total_area')" style="cursor:pointer;">総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
+                        <th id="th_total_kills" onclick="setSort('total_kills')" style="cursor:pointer;">総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
+                        <th id="th_kill_rate" onclick="setSort('kill_rate')" style="cursor:pointer;">キルレート</th>
                         <th class="col-center">
                             <span id="th_last_date" onclick="setSort('last_date')" style="cursor:pointer;">最終活動</span> 
                             ～ 
@@ -193,23 +183,20 @@
                     </tr>
                 </thead>
                 <tbody id="rankingBody">
-                    <tr><td colspan="8" class="col-center" style="padding: 20px;">データをロード中なのです...</td></tr>
+                    <tr><td colspan="9" class="col-center" style="padding: 20px;">データをロード中なのです...</td></tr>
                 </tbody>
             </table>
         </div>
     </div>
 
     <script>
-        // 🌐 グローバル状態管理
         let currentMode = 'personal'; 
-        let rawRankings = []; // 看板なし生データ配列
-        let rawJsonUpdatedAt = ""; // JSON内のデータ更新日時
+        let rawRankings = []; 
+        let rawJsonUpdatedAt = ""; 
 
-        // 👑 ソート状態管理用変数
         let currentSortKey = 'total_area'; 
         let currentSortOrder = 'desc';     
 
-        // 📥 ページ読み込み時にJSONを非同期でフェッチする
         window.onload = () => {
             fetch('public_data/all_period/summary.json')
                 .then(response => {
@@ -224,7 +211,7 @@
                 .catch(error => {
                     console.error('データの取得に失敗したのです:', error);
                     document.getElementById('rankingBody').innerHTML = 
-                        `<tr><td colspan="8" class="col-center" style="color:#ff4444; padding:20px;">データの読み込みに失敗しました。</td></tr>`;
+                        `<tr><td colspan="9" class="col-center" style="color:#ff4444; padding:20px;">データの読み込みに失敗しました。</td></tr>`;
                 });
         };
 
@@ -242,22 +229,20 @@
             const nameText = currentMode === 'personal' ? 'プレイヤー名' : 'チーム名';
             
             document.getElementById('th_name').innerHTML = nameText + (currentSortKey === 'name' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_matches').innerHTML = '試合' + (currentSortKey === 'matches' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_total_area').innerHTML = '累計占領 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_area' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_total_kills').innerHTML = 'キル <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_kills' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_kill_rate').innerHTML = 'キル率' + (currentSortKey === 'kill_rate' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_wins').innerHTML = '1位回数' + (currentSortKey === 'wins' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_matches').innerHTML = '試合数' + (currentSortKey === 'matches' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_total_area').innerHTML = '総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_area' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_total_kills').innerHTML = '総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_kills' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_kill_rate').innerHTML = 'キルレート' + (currentSortKey === 'kill_rate' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
             
             document.getElementById('th_last_date').innerHTML = '最終活動' + (currentSortKey === 'last_date' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
             document.getElementById('th_first_date').innerHTML = '初登場' + (currentSortKey === 'first_date' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
         }
 
-        // 📅 日付文字列(YY/MM/DD)を、ソート用に完全な日付オブジェクトにパースするヘルパー関数
         function parseToDate(dateStr) {
             if (!dateStr || dateStr === '-') return null;
-            // 2026-05-20T09:16:18Z などのISO形式ならそのままパース
             if (dateStr.includes('T')) return new Date(dateStr);
             
-            // "26/05/14" 形式の場合
             const parts = dateStr.split('/');
             if (parts.length === 3) {
                 const year = parseInt('20' + parts[0], 10);
@@ -268,7 +253,6 @@
             return null;
         }
 
-        // 🔄 画面更新・集計フィルターコアロジック
         function updateView() {
             const query = document.getElementById('searchInput').value.trim();
             const filterType = document.getElementById('filter_type').value;
@@ -286,7 +270,8 @@
                                 merged[name] = {
                                     name: name, team: '', isSolo: true, icon: '👤',
                                     matches: 0, total_area: 0, total_kills: 0, max_area: 0, max_kills: 0,
-                                    first_date: row[10] || '-', last_date: row[9] || '-'
+                                    first_date: row[10] || '-', last_date: row[9] || '-',
+                                    wins: 0
                                 };
                             }
                             const p = merged[name];
@@ -295,8 +280,8 @@
                             p.total_kills += row[6];
                             p.max_area = Math.max(p.max_area, row[7]);
                             p.max_kills = Math.max(p.max_kills, row[8]);
+                            p.wins += (row[11] || 0); // 👑 合体時の1位回数加算
                             
-                            // 📅 内部の日付時刻比較によるマージ
                             if (row[10] && row[10] !== '-') {
                                 if (p.first_date === '-' || row[10] < p.first_date) p.first_date = row[10];
                             }
@@ -320,7 +305,8 @@
                             activeData.push({
                                 name: row[1], team: '', isSolo: true, icon: row[3] || '👤',
                                 matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
-                                last_date: row[9] || '-', first_date: row[10] || '-'
+                                last_date: row[9] || '-', first_date: row[10] || '-',
+                                wins: row[11] || 0
                             });
                         }
                     });
@@ -330,7 +316,8 @@
                             activeData.push({
                                 name: row[1], team: row[2], isSolo: false, icon: row[3] || '👤',
                                 matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
-                                last_date: row[9] || '-', first_date: row[10] || '-'
+                                last_date: row[9] || '-', first_date: row[10] || '-',
+                                wins: row[11] || 0
                             });
                         }
                     });
@@ -340,13 +327,13 @@
                 activeData.forEach((p, i) => p.rank_all = i + 1);
 
             } else {
-                // --- 👁 チームデータの抽出と加工 ---
                 rawRankings.forEach(row => {
                     if (row[0] === 't') {
                         activeData.push({
-                            name: row[1], team: '', isSolo: false, icon: '', // 👑 チームは無駄なアイコン全除去
+                            name: row[1], team: '', isSolo: false, icon: '', 
                             matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
-                            last_date: row[9] || '-', first_date: row[10] || '-'
+                            last_date: row[9] || '-', first_date: row[10] || '-',
+                            wins: row[11] || 0
                         });
                     }
                 });
@@ -355,16 +342,13 @@
                 activeData.forEach((t, i) => t.rank_all = i + 1);
             }
 
-            // 👑 超精密ソート処理
+            // 👑 ソート処理
             activeData.sort((a, b) => {
-                // 📅 日付・時刻ソートの高度化
                 if (currentSortKey === 'last_date' || currentSortKey === 'first_date') {
                     const dateA = parseToDate(a[currentSortKey]);
                     const dateB = parseToDate(b[currentSortKey]);
-                    
                     if (!dateA) return currentSortOrder === 'desc' ? 1 : -1;
                     if (!dateB) return currentSortOrder === 'desc' ? -1 : 1;
-                    
                     return currentSortOrder === 'desc' ? dateB.getTime() - dateA.getTime() : dateA.getTime() - dateB.getTime();
                 }
 
@@ -380,7 +364,6 @@
                 if (typeof valA === 'string') {
                     return currentSortOrder === 'desc' ? valB.localeCompare(valA) : valA.localeCompare(valB);
                 }
-
                 return currentSortOrder === 'desc' ? valB - valA : valA - valB;
             });
 
@@ -388,7 +371,6 @@
             renderTable(activeData, query, filterType);
         }
 
-        // 📊 テーブル描画関数
         function renderTable(dataArray, searchQuery = "", filterType = "all") {
             const tbody = document.getElementById('rankingBody');
             tbody.innerHTML = '';
@@ -410,21 +392,17 @@
                 const killRate = p.matches > 0 ? (p.total_kills / p.matches).toFixed(2) : "0.00";
                 const analysisUrl = `analysis.html?name=${encodeURIComponent(p.name)}&mode=${currentMode}`;
                 
-                // 👑 チーム表示のガード（個人戦かつチーム所属時のみ [タグ] を出す）
                 const teamDisplay = (currentMode === 'personal' && !p.isSolo) ? `[${p.team}]` : "";
 
-                // 👑 順位表示を「#1」形式に変更
                 const displayRankAll = `#${p.rank_all}`;
                 const displaySearchRank = searchQuery ? `(#${searchRank})` : '';
 
-                // 👑 チーム戦の時はアイコン用TDの中身を完全に空にする
                 const iconContent = currentMode === 'personal' ? `
                     <div class="icon-wrapper">
                         ${p.icon}
                         <div class="tooltip">よく使うアイコン</div>
                     </div>` : '';
 
-                // 📅 画面表示は「YY/MM/DD」形式の文字のまま出す
                 const dispLast = (p.last_date && p.last_date.includes('T')) ? p.last_date.substring(2,10).replace(/-/g, '/') : p.last_date;
                 const dispFirst = (p.first_date && p.first_date.includes('T')) ? p.first_date.substring(2,10).replace(/-/g, '/') : p.first_date;
 
@@ -440,7 +418,7 @@
                     <td class="col-left player-name-format">
                         ${teamDisplay}<a href="${analysisUrl}">${p.name}</a>
                     </td>
-                    <td>${p.matches.toLocaleString()}</td>
+                    <td style="color:#ffd700; font-weight:bold;">${p.wins.toLocaleString()}回</td> <td>${p.matches.toLocaleString()}</td>
                     <td>
                         ${p.total_area.toFixed(2)}%
                         <span style="font-size:0.7rem;color:#777;">[${p.max_area.toFixed(2)}%]</span>
@@ -459,11 +437,10 @@
             });
 
             if (tbody.children.length === 0) {
-                tbody.innerHTML = `<tr><td colspan="8" class="col-center" style="padding:20px; color:#888;">該当するデータが見つからないのです。</td></tr>`;
+                tbody.innerHTML = `<tr><td colspan="9" class="col-center" style="padding:20px; color:#888;">該当するデータが見つからないのです。</td></tr>`;
             }
         }
 
-        // 🔄 個人/チームのタブ切り替え
         function switchMode(mode) {
             currentMode = mode;
             document.getElementById('tab_personal').classList.remove('active');
