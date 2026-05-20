@@ -156,6 +156,14 @@
             </select>
         </div>
 
+        <div class="control-group" style="margin-left: 10px;">
+            <select id="killrate_type" class="dropdown-select" onchange="updateView()" title="キルレート計算方式設定">
+                <option value="normal">K/G (キル/試合数)</option>
+                <option value="dummy1">K/D (キル/デス数・仮)</option>
+                <option value="dummy2">K/R (キル率・仮)</option>
+            </select>
+        </div>
+
         <div class="control-group" style="margin-left: auto;">
             <button class="active">全期間</button>
             <button>本日</button>
@@ -169,15 +177,19 @@
         <div class="table-container">
             <table>
                 <thead>
-                    <tr>
+                    <tr style="user-select: none;">
                         <th class="col-left">順位(総合/検索)</th>
                         <th class="col-center"></th>
-                        <th class="col-left" id="name_header_text">プレイヤー名</th>
-                        <th>試合数</th>
-                        <th>総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
-                        <th>総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
-                        <th>キルレート</th>
-                        <th class="col-center">最終活動 ～ 初登場</th>
+                        <th class="col-left" id="th_name" onclick="setSort('name')" style="cursor:pointer;">プレイヤー名</th>
+                        <th id="th_matches" onclick="setSort('matches')" style="cursor:pointer;">試合数</th>
+                        <th id="th_total_area" onclick="setSort('total_area')" style="cursor:pointer;">総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
+                        <th id="th_total_kills" onclick="setSort('total_kills')" style="cursor:pointer;">総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
+                        <th id="th_kill_rate" onclick="setSort('kill_rate')" style="cursor:pointer;">キルレート</th>
+                        <th class="col-center">
+                            <span id="th_last_date" onclick="setSort('last_date')" style="cursor:pointer;">最終活動</span> 
+                            ～ 
+                            <span id="th_first_date" onclick="setSort('first_date')" style="cursor:pointer;">初登場</span>
+                        </th>
                     </tr>
                 </thead>
                 <tbody id="rankingBody">
@@ -191,6 +203,10 @@
         // 🌐 グローバル状態管理
         let currentMode = 'personal'; 
         let rawRankings = []; // GitHubから読み込んだ看板なし生データ配列
+
+        // 👑 ソート状態管理用変数
+        let currentSortKey = 'total_area'; // デフォルトは総面積順
+        let currentSortOrder = 'desc';     // デフォルトは降順
 
         // 📥 ページ読み込み時にJSONを非同期でフェッチする
         window.onload = () => {
@@ -209,6 +225,33 @@
                         `<tr><td colspan="8" class="col-center" style="color:#ff4444; padding:20px;">データの読み込みに失敗しました。</td></tr>`;
                 });
         };
+
+        // 👑 ソートキーと昇降順を切り替える関数
+        function setSort(key) {
+            if (currentSortKey === key) {
+                // 同じキーが押されたら昇降を反転
+                currentSortOrder = currentSortOrder === 'desc' ? 'asc' : 'desc';
+            } else {
+                currentSortKey = key;
+                // 名前の場合はデフォルト昇順(出席番号順)、それ以外は降順(大きい・新しい順)
+                currentSortOrder = (key === 'name') ? 'asc' : 'desc';
+            }
+            updateView();
+        }
+
+        // 👑 ヘッダーのソート矢印表示(▲▼)をリフレッシュする関数
+        function updateHeaderArrows() {
+            const nameText = currentMode === 'personal' ? 'プレイヤー名' : 'チーム名';
+            
+            document.getElementById('th_name').innerHTML = nameText + (currentSortKey === 'name' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_matches').innerHTML = '試合数' + (currentSortKey === 'matches' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_total_area').innerHTML = '総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_area' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_total_kills').innerHTML = '総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_kills' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_kill_rate').innerHTML = 'キルレート' + (currentSortKey === 'kill_rate' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            
+            document.getElementById('th_last_date').innerHTML = '最終活動' + (currentSortKey === 'last_date' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_first_date').innerHTML = '初登場' + (currentSortKey === 'first_date' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+        }
 
         // 🔄 画面更新・集計フィルターコアロジック
         function updateView() {
@@ -230,7 +273,7 @@
                                 merged[name] = {
                                     name: name, team: '', isSolo: true, icon: '👤',
                                     matches: 0, total_area: 0, total_kills: 0, max_area: 0, max_kills: 0,
-                                    first_date: '-', last_date: '-'
+                                    first_date: row[10] || '-', last_date: row[9] || '-'
                                 };
                             }
                             const p = merged[name];
@@ -240,7 +283,14 @@
                             p.max_area = Math.max(p.max_area, row[7]);
                             p.max_kills = Math.max(p.max_kills, row[8]);
                             
-                            // チーム戦のデータ(tp)があれば所属チーム名とアイコンを優先上書き
+                            // 📅 最高の初登場日(古い方)と最終活動日(新しい方)を割り出す
+                            if (row[10] && row[10] !== '-') {
+                                if (p.first_date === '-' || row[10] < p.first_date) p.first_date = row[10];
+                            }
+                            if (row[9] && row[9] !== '-') {
+                                if (p.last_date === '-' || row[9] > p.last_date) p.last_date = row[9];
+                            }
+                            
                             if (type === 'tp') {
                                 if (row[2]) { p.team = row[2]; p.isSolo = false; }
                                 if (row[3]) { p.icon = row[3]; }
@@ -252,30 +302,28 @@
                     activeData = Object.values(merged);
 
                 } else if (filterType === 'solo') {
-                    // 【ソロ戦のみ】純粋に sp のみを取り出してオブジェクト化
                     rawRankings.forEach(row => {
                         if (row[0] === 'sp') {
                             activeData.push({
                                 name: row[1], team: '', isSolo: true, icon: row[3] || '👤',
                                 matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
-                                first_date: '-', last_date: '-'
+                                last_date: row[9] || '-', first_date: row[10] || '-'
                             });
                         }
                     });
                 } else if (filterType === 'team') {
-                    // 【チーム戦のみ】純粋に tp のみを取り出してオブジェクト化
                     rawRankings.forEach(row => {
                         if (row[0] === 'tp') {
                             activeData.push({
                                 name: row[1], team: row[2], isSolo: false, icon: row[3] || '👤',
                                 matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
-                                first_date: '-', last_date: '-'
+                                last_date: row[9] || '-', first_date: row[10] || '-'
                             });
                         }
                     });
                 }
 
-                // 占領面積の合計で降順ソートし、動的に総合順位を決定
+                // 🏅 1. 占領面積の合計で降順ソートし、動的に「絶対的な総合順位」を決定（固定）
                 activeData.sort((a, b) => b.total_area - a.total_area);
                 activeData.forEach((p, i) => p.rank_all = i + 1);
 
@@ -286,21 +334,47 @@
                         activeData.push({
                             name: row[1], team: '', isSolo: false, icon: '🛡️',
                             matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
-                            first_date: '-', last_date: '-'
+                            last_date: row[9] || '-', first_date: row[10] || '-'
                         });
                     }
                 });
 
-                // チーム総占領面積で降順ソート
+                // 🏅 1. チーム総占領面積で降順ソートし、「絶対的な総合順位」を決定（固定）
                 activeData.sort((a, b) => b.total_area - a.total_area);
                 activeData.forEach((t, i) => t.rank_all = i + 1);
             }
+
+            // 👑 2. ボス指定：選択されたソート条件（マルチソート）をここで適用！
+            activeData.sort((a, b) => {
+                let valA, valB;
+                
+                if (currentSortKey === 'kill_rate') {
+                    valA = a.matches > 0 ? (a.total_kills / a.matches) : 0;
+                    valB = b.matches > 0 ? (b.total_kills / b.matches) : 0;
+                } else {
+                    valA = a[currentSortKey];
+                    valB = b[currentSortKey];
+                }
+
+                // 文字列（名前や日付）の比較処理
+                if (typeof valA === 'string') {
+                    if (valA === '-') return currentSortOrder === 'desc' ? 1 : -1;
+                    if (valB === '-') return currentSortOrder === 'desc' ? -1 : 1;
+                    return currentSortOrder === 'desc' ? valB.localeCompare(valA) : valA.localeCompare(valB);
+                }
+
+                // 数値データの比較処理
+                return currentSortOrder === 'desc' ? valB - valA : valA - valB;
+            });
+
+            // 👑 3. 矢印インジケータ表示の更新
+            updateHeaderArrows();
 
             // 元の描画システムにデータを引き渡す
             renderTable(activeData, query, filterType);
         }
 
-        // 📊 テーブル描画関数（元の仕様・変数・デザインを100%維持！）
+        // 📊 テーブル描画関数
         function renderTable(dataArray, searchQuery = "", filterType = "all") {
             const tbody = document.getElementById('rankingBody');
             tbody.innerHTML = '';
@@ -308,15 +382,14 @@
             let searchRank = 1;
 
             dataArray.forEach(p => {
-                // 🔍 【改善された検索ロジック】
+                // 🔍 検索ロジック
                 if (searchQuery) {
                     const matchName = p.name.includes(searchQuery);
                     const matchTeam = (!p.isSolo && p.team && p.team.includes(searchQuery));
-                    
                     if (!matchName && !matchTeam) return; 
                 }
 
-                // 🔻 プルダウンによる「ソロ戦のみ/チーム戦のみ」のフィルタリング処理
+                // プルダウンによる「ソロ戦のみ/チーム戦のみ」のフィルタリング処理
                 if (currentMode === 'personal') {
                     if (filterType === 'solo' && !p.isSolo) return;
                     if (filterType === 'team' && p.isSolo) return;
@@ -324,7 +397,6 @@
 
                 const killRate = p.matches > 0 ? (p.total_kills / p.matches).toFixed(2) : "0.00";
                 const analysisUrl = `analysis.html?name=${encodeURIComponent(p.name)}&mode=${currentMode}`;
-                
                 const teamDisplay = p.isSolo ? "" : `[${p.team}]`;
 
                 const tr = document.createElement('tr');
@@ -344,8 +416,8 @@
                     </td>
                     <td>${p.matches.toLocaleString()}</td>
                     <td>
-                        ${p.total_area.toLocaleString()}%
-                        <span style="font-size:0.7rem;color:#777;">[${p.max_area.toLocaleString()}%]</span>
+                        ${p.total_area.toFixed(2)}%
+                        <span style="font-size:0.7rem;color:#777;">[${p.max_area.toFixed(2)}%]</span>
                     </td>
                     <td>
                         ${p.total_kills.toLocaleString()}
@@ -360,22 +432,24 @@
                 searchRank++;
             });
 
-            // 検索結果がゼロ件の場合のケア
             if (tbody.children.length === 0) {
                 tbody.innerHTML = `<tr><td colspan="8" class="col-center" style="padding:20px; color:#888;">該当するデータが見つからないのです。</td></tr>`;
             }
         }
 
-        // 🔄 個人/チームのタブ切り替え（元の仕様を維持）
+        // 🔄 個人/チームのタブ切り替え
         function switchMode(mode) {
             currentMode = mode;
             document.getElementById('tab_personal').classList.remove('active');
             document.getElementById('tab_team').classList.remove('active');
             document.getElementById('tab_' + mode).classList.add('active');
             
-            document.getElementById('name_header_text').textContent = (mode === 'personal') ? 'プレイヤー名' : 'チーム名';
             document.getElementById('filter_type_group').style.display = (mode === 'personal') ? 'flex' : 'none';
             
+            // モードを切り替えたらソート対象を「総占領面積」に一度リセットして安全を担保
+            currentSortKey = 'total_area';
+            currentSortOrder = 'desc';
+
             updateView();
         }
     </script>
