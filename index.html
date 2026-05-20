@@ -92,7 +92,7 @@
 
         table { width: auto; border-collapse: collapse; font-size: 0.8rem; white-space: nowrap; }
 
-        th, td { padding: 2px 12px; text-align: right; border-bottom: 1px solid #2a2a2a; }
+        th, td { padding: 2px 6px; text-align: right; border-bottom: 1px solid #2a2a2a; }
         th { background-color: #111; color: #999; font-weight: normal; position: sticky; top: 0; z-index: 10; padding-top: 4px; padding-bottom: 4px; }
         th.col-left, td.col-left { text-align: left; }
         th.col-center, td.col-center { text-align: center; }
@@ -173,8 +173,16 @@
                         <th class="col-left" id="th_name" onclick="setSort('name')" style="cursor:pointer;">プレイヤー名</th>
                         <th id="th_wins" onclick="setSort('wins')" style="cursor:pointer;">1位</th> 
                         <th id="th_matches" onclick="setSort('matches')" style="cursor:pointer;">試合数</th>
-                        <th id="th_total_area" onclick="setSort('total_area')" style="cursor:pointer;">総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
-                        <th id="th_total_kills" onclick="setSort('total_kills')" style="cursor:pointer;">総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
+                        <th>
+                            <span id="th_total_area" onclick="setSort('total_area')" style="cursor:pointer;">総占領面積</span> 
+                            / 
+                            <span id="th_max_area" onclick="setSort('max_area')" style="cursor:pointer; font-size:0.75rem;">最大</span>
+                        </th>
+                        <th>
+                            <span id="th_total_kills" onclick="setSort('total_kills')" style="cursor:pointer;">総キル数</span> 
+                            / 
+                            <span id="th_max_kills" onclick="setSort('max_kills')" style="cursor:pointer; font-size:0.75rem;">最大</span>
+                        </th>
                         <th id="th_kill_rate" onclick="setSort('kill_rate')" style="cursor:pointer;">キルレート</th>
                         <th class="col-center">
                             <span id="th_last_date" onclick="setSort('last_date')" style="cursor:pointer;">最終活動</span> 
@@ -232,8 +240,11 @@
             document.getElementById('th_name').innerHTML = nameText + (currentSortKey === 'name' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
             document.getElementById('th_wins').innerHTML = '1位' + (currentSortKey === 'wins' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
             document.getElementById('th_matches').innerHTML = '試合数' + (currentSortKey === 'matches' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_total_area').innerHTML = '総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_area' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_total_kills').innerHTML = '総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_kills' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            const arrow = currentSortOrder === 'desc' ? ' ▼' : ' ▲';
+            document.getElementById('th_total_area').innerHTML = '総占領面積' + (currentSortKey === 'total_area' ? arrow : '');
+            document.getElementById('th_max_area').innerHTML = '最大' + (currentSortKey === 'max_area' ? arrow : '');
+            document.getElementById('th_total_kills').innerHTML = '総キル数' + (currentSortKey === 'total_kills' ? arrow : '');
+            document.getElementById('th_max_kills').innerHTML = '最大' + (currentSortKey === 'max_kills' ? arrow : '');
             document.getElementById('th_kill_rate').innerHTML = 'キルレート' + (currentSortKey === 'kill_rate' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
             
             document.getElementById('th_last_date').innerHTML = '最終活動' + (currentSortKey === 'last_date' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
@@ -419,14 +430,8 @@
                         ${teamDisplay}<a href="${analysisUrl}">${p.name}</a>
                     </td>
                     <td>${p.wins.toLocaleString()}</td>
-                    <td>${p.matches.toLocaleString()}</td> <td>
-                        ${p.total_area.toFixed(2)}%
-                        <span style="font-size:0.7rem;color:#777;">[${p.max_area.toFixed(2)}%]</span>
-                    </td>
-                    <td>
-                        ${p.total_kills.toLocaleString()}
-                        <span style="font-size:0.7rem;color:#777;">[${p.max_kills.toLocaleString()}]</span>
-                    </td>
+                    <td>${p.total_area.toFixed(2)}% <span style="font-size:0.75rem; color:#777;">/ ${p.max_area.toFixed(2)}%</span></td>
+                    <td>${p.total_kills.toLocaleString()} <span style="font-size:0.75rem; color:#777;">/ ${p.max_kills.toLocaleString()}</span></td>
                     <td>${killRate}</td>
                     <td class="col-center" style="font-size:0.75rem; color:#888;">
                         ${dispLast} ～ ${dispFirst}
