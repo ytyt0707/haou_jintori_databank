@@ -178,13 +178,13 @@
             <table>
                 <thead>
                     <tr style="user-select: none;">
-                        <th class="col-left">順位(総合/検索)</th>
+                        <th class="col-left">(総合/検索)</th>
                         <th class="col-center"></th>
-                        <th class="col-left" id="th_name" onclick="setSort('name')" style="cursor:pointer;">プレイヤー名</th>
-                        <th id="th_matches" onclick="setSort('matches')" style="cursor:pointer;">試合数</th>
-                        <th id="th_total_area" onclick="setSort('total_area')" style="cursor:pointer;">総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
-                        <th id="th_total_kills" onclick="setSort('total_kills')" style="cursor:pointer;">総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
-                        <th id="th_kill_rate" onclick="setSort('kill_rate')" style="cursor:pointer;">キルレート</th>
+                        <th class="col-left" id="th_name" onclick="setSort('name')" style="cursor:pointer;">名前</th>
+                        <th id="th_matches" onclick="setSort('matches')" style="cursor:pointer;">試合</th>
+                        <th id="th_total_area" onclick="setSort('total_area')" style="cursor:pointer;">累計占領 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
+                        <th id="th_total_kills" onclick="setSort('total_kills')" style="cursor:pointer;">キル <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
+                        <th id="th_kill_rate" onclick="setSort('kill_rate')" style="cursor:pointer;">キル率</th>
                         <th class="col-center">
                             <span id="th_last_date" onclick="setSort('last_date')" style="cursor:pointer;">最終活動</span> 
                             ～ 
@@ -242,10 +242,10 @@
             const nameText = currentMode === 'personal' ? 'プレイヤー名' : 'チーム名';
             
             document.getElementById('th_name').innerHTML = nameText + (currentSortKey === 'name' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_matches').innerHTML = '試合数' + (currentSortKey === 'matches' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_total_area').innerHTML = '総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_area' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_total_kills').innerHTML = '総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_kills' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_kill_rate').innerHTML = 'キルレート' + (currentSortKey === 'kill_rate' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_matches').innerHTML = '試合' + (currentSortKey === 'matches' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_total_area').innerHTML = '累計占領 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_area' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_total_kills').innerHTML = 'キル <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_kills' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_kill_rate').innerHTML = 'キル率' + (currentSortKey === 'kill_rate' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
             
             document.getElementById('th_last_date').innerHTML = '最終活動' + (currentSortKey === 'last_date' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
             document.getElementById('th_first_date').innerHTML = '初登場' + (currentSortKey === 'first_date' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
