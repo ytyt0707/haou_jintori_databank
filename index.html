@@ -242,10 +242,10 @@
             const nameText = currentMode === 'personal' ? 'プレイヤー名' : 'チーム名';
             
             document.getElementById('th_name').innerHTML = nameText + (currentSortKey === 'name' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_matches').innerHTML = '試合数' + (currentSortKey === 'matches' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_total_area').innerHTML = '総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_area' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_total_kills').innerHTML = '総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_kills' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_kill_rate').innerHTML = 'キルレート' + (currentSortKey === 'kill_rate' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_matches').innerHTML = '試合' + (currentSortKey === 'matches' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_total_area').innerHTML = '累計占領 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_area' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_total_kills').innerHTML = 'キル <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_kills' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_kill_rate').innerHTML = 'キル率' + (currentSortKey === 'kill_rate' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
             
             document.getElementById('th_last_date').innerHTML = '最終活動' + (currentSortKey === 'last_date' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
             document.getElementById('th_first_date').innerHTML = '初登場' + (currentSortKey === 'first_date' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
