@@ -181,42 +181,126 @@
                     </tr>
                 </thead>
                 <tbody id="rankingBody">
-                    </tbody>
+                    <tr><td colspan="8" class="col-center" style="padding: 20px;">データをロード中なのです...</td></tr>
+                </tbody>
             </table>
         </div>
     </div>
 
     <script>
-        // 🌐 現在の表示モードを管理する変数
+        // 🌐 グローバル状態管理
         let currentMode = 'personal'; 
+        let rawRankings = []; // GitHubから読み込んだ看板なし生データ配列
 
-        // 🧪 テスト用の個人データ（「ソロ」という文字に頼らず、isSolo フラグで管理！）
-        const personalDummyData = [
-            { rank_all: 1, name: "束音ロゼ", team: "", isSolo: true, icon: "🌸", matches: 1250, wins: 450, total_area: 854000, max_area: 12500, total_kills: 3500, max_kills: 15, first_date: "24/01/10", last_date: "26/05/19" },
-            { rank_all: 2, name: "名無しA", team: "🇯🇵ONJ", isSolo: false, icon: "⚔️", matches: 980, wins: 210, total_area: 620000, max_area: 9800, total_kills: 1200, max_kills: 8, first_date: "24/02/15", last_date: "26/05/18" },
-            { rank_all: 3, name: "破壊神", team: "", isSolo: true, icon: "🔥", matches: 500, wins: 300, total_area: 400000, max_area: 15000, total_kills: 2000, max_kills: 22, first_date: "25/06/01", last_date: "26/05/19" },
-            { rank_all: 4, name: "束音ロゼ", team: "🇯🇵ONJ", isSolo: false, icon: "🌸", matches: 120, wins: 50, total_area: 95000, max_area: 11000, total_kills: 280, max_kills: 10, first_date: "26/01/01", last_date: "26/05/15" },
-        ];
-
-        // 🧪 テスト用のチームデータ
-        const teamDummyData = [
-            { rank_all: 1, name: "🇯🇵ONJ", team: "", isSolo: false, icon: "🛡️", matches: 1100, wins: 260, total_area: 715000, max_area: 11000, total_kills: 1480, max_kills: 10, first_date: "24/02/15", last_date: "26/05/18" },
-            { rank_all: 2, name: "覇王軍", team: "", isSolo: false, icon: "👑", matches: 850, wins: 600, total_area: 690000, max_area: 18000, total_kills: 4500, max_kills: 30, first_date: "24/01/01", last_date: "26/05/19" },
-        ];
-
+        // 📥 ページ読み込み時にJSONを非同期でフェッチする
         window.onload = () => {
-            updateView();
+            fetch('public_data/all_period/summary.json')
+                .then(response => {
+                    if (!response.ok) throw new Error('Network response was not ok');
+                    return response.json();
+                })
+                .then(data => {
+                    rawRankings = data.rankings || [];
+                    updateView(); // 読み込み完了後に画面をビルド
+                })
+                .catch(error => {
+                    console.error('データの取得に失敗したのです:', error);
+                    document.getElementById('rankingBody').innerHTML = 
+                        `<tr><td colspan="8" class="col-center" style="color:#ff4444; padding:20px;">データの読み込みに失敗しました。</td></tr>`;
+                });
         };
 
-        // 🔄 画面更新
+        // 🔄 画面更新・集計フィルターコアロジック
         function updateView() {
             const query = document.getElementById('searchInput').value.trim();
             const filterType = document.getElementById('filter_type').value;
             
-            let activeData = (currentMode === 'personal') ? personalDummyData : teamDummyData;
+            let activeData = [];
+
+            if (currentMode === 'personal') {
+                // --- 👤 個人データの抽出と加工 ---
+                if (filterType === 'all') {
+                    // 【すべて合体】同じ名前のソロ(sp)とチーム(tp)をメモリ上でマージする
+                    const merged = {};
+                    rawRankings.forEach(row => {
+                        const type = row[0];
+                        if (type === 'sp' || type === 'tp') {
+                            const name = row[1];
+                            if (!merged[name]) {
+                                merged[name] = {
+                                    name: name, team: '', isSolo: true, icon: '👤',
+                                    matches: 0, total_area: 0, total_kills: 0, max_area: 0, max_kills: 0,
+                                    first_date: '-', last_date: '-'
+                                };
+                            }
+                            const p = merged[name];
+                            p.matches += row[4];
+                            p.total_area += row[5];
+                            p.total_kills += row[6];
+                            p.max_area = Math.max(p.max_area, row[7]);
+                            p.max_kills = Math.max(p.max_kills, row[8]);
+                            
+                            // チーム戦のデータ(tp)があれば所属チーム名とアイコンを優先上書き
+                            if (type === 'tp') {
+                                if (row[2]) { p.team = row[2]; p.isSolo = false; }
+                                if (row[3]) { p.icon = row[3]; }
+                            } else if (type === 'sp' && p.icon === '👤' && row[3]) {
+                                p.icon = row[3];
+                            }
+                        }
+                    });
+                    activeData = Object.values(merged);
+
+                } else if (filterType === 'solo') {
+                    // 【ソロ戦のみ】純粋に sp のみを取り出してオブジェクト化
+                    rawRankings.forEach(row => {
+                        if (row[0] === 'sp') {
+                            activeData.push({
+                                name: row[1], team: '', isSolo: true, icon: row[3] || '👤',
+                                matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
+                                first_date: '-', last_date: '-'
+                            });
+                        }
+                    });
+                } else if (filterType === 'team') {
+                    // 【チーム戦のみ】純粋に tp のみを取り出してオブジェクト化
+                    rawRankings.forEach(row => {
+                        if (row[0] === 'tp') {
+                            activeData.push({
+                                name: row[1], team: row[2], isSolo: false, icon: row[3] || '👤',
+                                matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
+                                first_date: '-', last_date: '-'
+                            });
+                        }
+                    });
+                }
+
+                // 占領面積の合計で降順ソートし、動的に総合順位を決定
+                activeData.sort((a, b) => b.total_area - a.total_area);
+                activeData.forEach((p, i) => p.rank_all = i + 1);
+
+            } else {
+                // --- 👁 チームデータの抽出と加工 ---
+                rawRankings.forEach(row => {
+                    if (row[0] === 't') {
+                        activeData.push({
+                            name: row[1], team: '', isSolo: false, icon: '🛡️',
+                            matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
+                            first_date: '-', last_date: '-'
+                        });
+                    }
+                });
+
+                // チーム総占領面積で降順ソート
+                activeData.sort((a, b) => b.total_area - a.total_area);
+                activeData.forEach((t, i) => t.rank_all = i + 1);
+            }
+
+            // 元の描画システムにデータを引き渡す
             renderTable(activeData, query, filterType);
         }
 
+        // 📊 テーブル描画関数（元の仕様・変数・デザインを100%維持！）
         function renderTable(dataArray, searchQuery = "", filterType = "all") {
             const tbody = document.getElementById('rankingBody');
             tbody.innerHTML = '';
@@ -225,12 +309,11 @@
 
             dataArray.forEach(p => {
                 // 🔍 【改善された検索ロジック】
-                // 検索文字がある場合、「プレイヤー名」か「所属チーム名（ソロ以外）」のどちらかに含まれていれば残す！
                 if (searchQuery) {
                     const matchName = p.name.includes(searchQuery);
                     const matchTeam = (!p.isSolo && p.team && p.team.includes(searchQuery));
                     
-                    if (!matchName && !matchTeam) return; // どちらにも掠りもしなければ除外
+                    if (!matchName && !matchTeam) return; 
                 }
 
                 // 🔻 プルダウンによる「ソロ戦のみ/チーム戦のみ」のフィルタリング処理
@@ -239,10 +322,9 @@
                     if (filterType === 'team' && p.isSolo) return;
                 }
 
-                const killRate = (p.total_kills / p.matches).toFixed(2);
+                const killRate = p.matches > 0 ? (p.total_kills / p.matches).toFixed(2) : "0.00";
                 const analysisUrl = `analysis.html?name=${encodeURIComponent(p.name)}&mode=${currentMode}`;
                 
-                // 👑 ソロの場合は何も表示しない、チーム戦の場合は [チーム名] を出す
                 const teamDisplay = p.isSolo ? "" : `[${p.team}]`;
 
                 const tr = document.createElement('tr');
@@ -277,9 +359,14 @@
                 tbody.appendChild(tr);
                 searchRank++;
             });
+
+            // 検索結果がゼロ件の場合のケア
+            if (tbody.children.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="8" class="col-center" style="padding:20px; color:#888;">該当するデータが見つからないのです。</td></tr>`;
+            }
         }
 
-        // 🔄 個人/チームのタブ切り替え
+        // 🔄 個人/チームのタブ切り替え（元の仕様を維持）
         function switchMode(mode) {
             currentMode = mode;
             document.getElementById('tab_personal').classList.remove('active');
