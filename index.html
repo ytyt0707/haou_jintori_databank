@@ -92,7 +92,6 @@
 
         table { width: auto; border-collapse: collapse; font-size: 0.8rem; white-space: nowrap; }
 
-        /* 🛠️ ここの「12px」を変更すると、項目同士の左右の間隔（パディング）を調整できます */
         th, td { padding: 2px 12px; text-align: right; border-bottom: 1px solid #2a2a2a; }
         th { background-color: #111; color: #999; font-weight: normal; position: sticky; top: 0; z-index: 10; padding-top: 4px; padding-bottom: 4px; }
         th.col-left, td.col-left { text-align: left; }
@@ -116,6 +115,23 @@
         th:nth-child(1), td:nth-child(1) { padding-right: 2px !important; width: 110px !important; min-width: 110px !important; text-align: left !important; }
         th:nth-child(2), td:nth-child(2) { padding-left: 2px !important; padding-right: 2px !important; width: 16px !important; min-width: 16px !important; text-align: center !important; }
         th:nth-child(3), td:nth-child(3) { padding-left: 2px !important; }
+
+        /* ⏳ 画面を邪魔しない浮遊型インジケーター */
+        #loadingIndicator {
+            display: none;
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: rgba(17, 17, 17, 0.85);
+            color: #fff;
+            padding: 8px 16px;
+            border-radius: 30px;
+            border: 1px solid var(--deep-blue);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+            z-index: 2000;
+            font-size: 0.8rem;
+            pointer-events: none; /* マウスの操作を透過させる */
+        }
     </style>
 </head>
 <body>
@@ -199,6 +215,8 @@
         </div>
     </div>
 
+    <div id="loadingIndicator">⏳ 覇王軍データベース計算中...</div>
+
     <script>
         let currentMode = 'personal'; 
         let rawRankings = []; 
@@ -206,6 +224,11 @@
 
         let currentSortKey = 'total_area'; 
         let currentSortOrder = 'desc';     
+
+        // 📊 スクロール読込管理用の変数群
+        let filteredDisplayData = []; // 現在の条件でソート・検索が完了した全全データ
+        let currentRenderedIndex = 0; // 描画済みのインデックス位置
+        const BATCH_SIZE = 200;       // 1回にロードする人数
 
         window.onload = () => {
             fetch('public_data/all_period/summary.json')
@@ -267,147 +290,177 @@
         }
 
         function updateView() {
-            const query = document.getElementById('searchInput').value.trim();
-            const filterType = document.getElementById('filter_type').value;
-            
-            let activeData = [];
+            // ⏳ 計算開始に合わせてインジケーターを浮かび上がらせる
+            const loader = document.getElementById('loadingIndicator');
+            if (loader) loader.style.display = 'block';
 
-            if (currentMode === 'personal') {
-                if (filterType === 'all') {
-                    const merged = {};
-                    rawRankings.forEach(row => {
-                        const type = row[0];
-                        if (type === 'sp' || type === 'tp') {
-                            const name = row[1];
-                            if (!merged[name]) {
-                                merged[name] = {
-                                    name: name, team: '', isSolo: true, icon: '👤',
-                                    matches: 0, total_area: 0, total_kills: 0, max_area: 0, max_kills: 0,
-                                    first_date: row[10] || '-', last_date: row[9] || '-',
-                                    wins: 0
-                                };
-                            }
-                            const p = merged[name];
-                            p.matches += row[4];
-                            p.total_area += row[5];
-                            p.total_kills += row[6];
-                            p.max_area = Math.max(p.max_area, row[7]);
-                            p.max_kills = Math.max(p.max_kills, row[8]);
-                            p.wins += (row[11] || 0);
-                            
-                            if (row[10] && row[10] !== '-') {
-                                if (p.first_date === '-' || row[10] < p.first_date) p.first_date = row[10];
-                            }
-                            if (row[9] && row[9] !== '-') {
-                                if (p.last_date === '-' || row[9] > p.last_date) p.last_date = row[9];
-                            }
-                            
-                            if (type === 'tp') {
-                                if (row[2]) { p.team = row[2]; p.isSolo = false; }
-                                if (row[3]) { p.icon = row[3]; }
-                            } else if (type === 'sp' && p.icon === '👤' && row[3]) {
-                                p.icon = row[3];
-                            }
-                        }
-                    });
-                    activeData = Object.values(merged);
-
-                } else if (filterType === 'solo') {
-                    rawRankings.forEach(row => {
-                        if (row[0] === 'sp') {
-                            activeData.push({
-                                name: row[1], team: '', isSolo: true, icon: row[3] || '👤',
-                                matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
-                                last_date: row[9] || '-', first_date: row[10] || '-',
-                                wins: row[11] || 0
-                            });
-                        }
-                    });
-                } else if (filterType === 'team') {
-                    rawRankings.forEach(row => {
-                        if (row[0] === 'tp') {
-                            activeData.push({
-                                name: row[1], team: row[2], isSolo: false, icon: row[3] || '👤',
-                                matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
-                                last_date: row[9] || '-', first_date: row[10] || '-',
-                                wins: row[11] || 0
-                            });
-                        }
-                    });
-                }
-
-                activeData.sort((a, b) => b.total_area - a.total_area);
-                activeData.forEach((p, i) => p.rank_all = i + 1);
-
-            } else {
-                rawRankings.forEach(row => {
-                    if (row[0] === 't') {
-                        activeData.push({
-                            name: row[1], team: '', isSolo: false, icon: '', 
-                            matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
-                            last_date: row[9] || '-', first_date: row[10] || '-',
-                            wins: row[11] || 0
-                        });
-                    }
-                });
-
-                activeData.sort((a, b) => b.total_area - a.total_area);
-                activeData.forEach((t, i) => t.rank_all = i + 1);
-            }
-
-            activeData.sort((a, b) => {
-                if (currentSortKey === 'last_date' || currentSortKey === 'first_date') {
-                    const dateA = parseToDate(a[currentSortKey]);
-                    const dateB = parseToDate(b[currentSortKey]);
-                    if (!dateA) return currentSortOrder === 'desc' ? 1 : -1;
-                    if (!dateB) return currentSortOrder === 'desc' ? -1 : 1;
-                    return currentSortOrder === 'desc' ? dateB.getTime() - dateA.getTime() : dateA.getTime() - dateB.getTime();
-                }
-
-                let valA, valB;
-                if (currentSortKey === 'kill_rate') {
-                    valA = a.matches > 0 ? (a.total_kills / a.matches) : 0;
-                    valB = b.matches > 0 ? (b.total_kills / b.matches) : 0;
-                } else {
-                    valA = a[currentSortKey];
-                    valB = b[currentSortKey];
-                }
-
-                if (typeof valA === 'string') {
-                    return currentSortOrder === 'desc' ? valB.localeCompare(valA) : valA.localeCompare(valB);
-                }
-                return currentSortOrder === 'desc' ? valB - valA : valA - valB;
-            });
-
-            updateHeaderArrows();
-            renderTable(activeData, query, filterType);
-        }
-
-        function renderTable(dataArray, searchQuery = "", filterType = "all") {
-            const tbody = document.getElementById('rankingBody');
-            tbody.innerHTML = '';
-
-            let searchRank = 1;
-
-            dataArray.forEach(p => {
-                if (searchQuery) {
-                    const matchName = p.name.includes(searchQuery);
-                    const matchTeam = (!p.isSolo && p.team && p.team.includes(searchQuery)) || false;
-                    if (!matchName && !matchTeam) return; 
-                }
+            // 裏で一瞬ミリ秒の猶予を持たせることで、ブラウザにインジケーターを描画させる（フリーズ防止システム）
+            setTimeout(() => {
+                const query = document.getElementById('searchInput').value.trim();
+                const filterType = document.getElementById('filter_type').value;
+                
+                let activeData = [];
 
                 if (currentMode === 'personal') {
-                    if (filterType === 'solo' && !p.isSolo) return;
-                    if (filterType === 'team' && p.isSolo) return;
+                    if (filterType === 'all') {
+                        const merged = {};
+                        rawRankings.forEach(row => {
+                            const type = row[0];
+                            if (type === 'sp' || type === 'tp') {
+                                const name = row[1];
+                                if (!merged[name]) {
+                                    merged[name] = {
+                                        name: name, team: '', isSolo: true, icon: '👤',
+                                        matches: 0, total_area: 0, total_kills: 0, max_area: 0, max_kills: 0,
+                                        first_date: row[10] || '-', last_date: row[9] || '-',
+                                        wins: 0
+                                    };
+                                }
+                                const p = merged[name];
+                                p.matches += row[4];
+                                p.total_area += row[5];
+                                p.total_kills += row[6];
+                                p.max_area = Math.max(p.max_area, row[7]);
+                                p.max_kills = Math.max(p.max_kills, row[8]);
+                                p.wins += (row[11] || 0);
+                                
+                                if (row[10] && row[10] !== '-') {
+                                    if (p.first_date === '-' || row[10] < p.first_date) p.first_date = row[10];
+                                }
+                                if (row[9] && row[9] !== '-') {
+                                    if (p.last_date === '-' || row[9] > p.last_date) p.last_date = row[9];
+                                }
+                                
+                                if (type === 'tp') {
+                                    if (row[2]) { p.team = row[2]; p.isSolo = false; }
+                                    if (row[3]) { p.icon = row[3]; }
+                                } else if (type === 'sp' && p.icon === '👤' && row[3]) {
+                                    p.icon = row[3];
+                                }
+                            }
+                        });
+                        activeData = Object.values(merged);
+
+                    } else if (filterType === 'solo') {
+                        rawRankings.forEach(row => {
+                            if (row[0] === 'sp') {
+                                activeData.push({
+                                    name: row[1], team: '', isSolo: true, icon: row[3] || '👤',
+                                    matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
+                                    last_date: row[9] || '-', first_date: row[10] || '-',
+                                    wins: row[11] || 0
+                                });
+                            }
+                        });
+                    } else if (filterType === 'team') {
+                        rawRankings.forEach(row => {
+                            if (row[0] === 'tp') {
+                                activeData.push({
+                                    name: row[1], team: row[2], isSolo: false, icon: row[3] || '👤',
+                                    matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
+                                    last_date: row[9] || '-', first_date: row[10] || '-',
+                                    wins: row[11] || 0
+                                });
+                            }
+                        });
+                    }
+
+                } else {
+                    rawRankings.forEach(row => {
+                        if (row[0] === 't') {
+                            activeData.push({
+                                name: row[1], team: '', isSolo: false, icon: '', 
+                                matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
+                                last_date: row[9] || '-', first_date: row[10] || '-',
+                                wins: row[11] || 0
+                            });
+                        }
+                    });
                 }
+
+                // --- 📊 指定キーに基づくデータの並び替えソート ---
+                activeData.sort((a, b) => {
+                    if (currentSortKey === 'last_date' || currentSortKey === 'first_date') {
+                        const dateA = parseToDate(a[currentSortKey]);
+                        const dateB = parseToDate(b[currentSortKey]);
+                        if (!dateA) return currentSortOrder === 'desc' ? 1 : -1;
+                        if (!dateB) return currentSortOrder === 'desc' ? -1 : 1;
+                        return currentSortOrder === 'desc' ? dateB.getTime() - dateA.getTime() : dateA.getTime() - dateB.getTime();
+                    }
+
+                    let valA, valB;
+                    if (currentSortKey === 'kill_rate') {
+                        valA = a.matches > 0 ? (a.total_kills / a.matches) : 0;
+                        valB = b.matches > 0 ? (b.total_kills / b.matches) : 0;
+                    } else {
+                        valA = a[currentSortKey];
+                        valB = b[currentSortKey];
+                    }
+
+                    if (typeof valA === 'string') {
+                        return currentSortOrder === 'desc' ? valB.localeCompare(valA) : valA.localeCompare(valB);
+                    }
+                    return currentSortOrder === 'desc' ? valB - valA : valA - valB;
+                });
+
+                // 🎯 【注文の修正点】ソート確定「後」に順位付けを再計算することで、キルレート1位から綺麗に始まるのです！
+                activeData.forEach((item, i) => {
+                    item.rank_all = i + 1;
+                });
+
+                // 表示用ヘッダーの矢印を更新
+                updateHeaderArrows();
+                
+                // 🔍 検索キーワードとモード条件で配列を事前にフィルタリング
+                filteredDisplayData = activeData.filter(p => {
+                    if (query) {
+                        const matchName = p.name.includes(query);
+                        const matchTeam = (!p.isSolo && p.team && p.team.includes(query)) || false;
+                        if (!matchName && !matchTeam) return false; 
+                    }
+                    if (currentMode === 'personal') {
+                        if (filterType === 'solo' && !p.isSolo) return false;
+                        if (filterType === 'team' && p.isSolo) return false;
+                    }
+                    return true;
+                });
+
+                // テーブルを一度全クリアし、初期化
+                const tbody = document.getElementById('rankingBody');
+                tbody.innerHTML = '';
+                currentRenderedIndex = 0;
+                
+                // 最初の200件を描画
+                renderNextBatch();
+
+                // 計算とロードが終わったのでインジケーターを非表示に
+                if (loader) loader.style.display = 'none';
+            }, 20);
+        }
+
+        // 🎬 200件ずつドキュメントの破片（Fragment）を作って高速に追記するシステム
+        function renderNextBatch() {
+            const tbody = document.getElementById('rankingBody');
+            
+            if (filteredDisplayData.length === 0 && currentRenderedIndex === 0) {
+                tbody.innerHTML = `<tr><td colspan="9" class="col-center" style="padding:20px; color:#888;">該当するデータが見つからないのです。</td></tr>`;
+                return;
+            }
+
+            const nextMaxIndex = Math.min(currentRenderedIndex + BATCH_SIZE, filteredDisplayData.length);
+            const fragment = document.createDocumentFragment();
+            const query = document.getElementById('searchInput').value.trim();
+
+            for (let i = currentRenderedIndex; i < nextMaxIndex; i++) {
+                const p = filteredDisplayData[i];
+                const searchRank = i + 1; // 検索内での現在順位
 
                 const killRate = p.matches > 0 ? (p.total_kills / p.matches).toFixed(2) : "0.00";
                 const analysisUrl = `analysis.html?name=${encodeURIComponent(p.name)}&mode=${currentMode}`;
-                
                 const teamDisplay = (currentMode === 'personal' && !p.isSolo) ? `[${p.team}]` : "";
 
                 const displayRankAll = `#${p.rank_all}`;
-                const displaySearchRank = searchQuery ? `(#${searchRank})` : '';
+                const displaySearchRank = query ? `(#${searchRank})` : '';
 
                 const iconContent = currentMode === 'personal' ? `
                     <div class="icon-wrapper">
@@ -417,6 +470,9 @@
 
                 const dispLast = (p.last_date && p.last_date.includes('T')) ? p.last_date.substring(2,10).replace(/-/g, '/') : p.last_date;
                 const dispFirst = (p.first_date && p.first_date.includes('T')) ? p.first_date.substring(2,10).replace(/-/g, '/') : p.first_date;
+
+                // 🎯 【注文の修正点】最大キル数が1桁の場合に『10の位に0』をパディングするのです！
+                const formattedMaxKills = p.max_kills < 10 ? '0' + p.max_kills : p.max_kills.toLocaleString();
 
                 const tr = document.createElement('tr');
                 tr.innerHTML = `
@@ -433,20 +489,27 @@
                     <td>${p.wins.toLocaleString()}</td>
                     <td>${p.matches.toLocaleString()}</td>
                     <td>${p.total_area.toFixed(2)}% <span style="font-size:0.75rem; color:#777;">[${p.max_area.toFixed(2)}%]</span></td>
-                    <td>${p.total_kills.toLocaleString()} <span style="font-size:0.75rem; color:#777;">[${p.max_kills.toLocaleString()}]</span></td>
+                    <td>${p.total_kills.toLocaleString()} <span style="font-size:0.75rem; color:#777;">[${formattedMaxKills}]</span></td>
                     <td>${killRate}</td>
                     <td class="col-center" style="font-size:0.75rem; color:#888;">
                         ${dispLast} ～ ${dispFirst}
                     </td>
                 `;
-                tbody.appendChild(tr);
-                searchRank++;
-            });
-
-            if (tbody.children.length === 0) {
-                tbody.innerHTML = `<tr><td colspan="9" class="col-center" style="padding:20px; color:#888;">該当するデータが見つからないのです。</td></tr>`;
+                fragment.appendChild(tr);
             }
+
+            tbody.appendChild(fragment);
+            currentRenderedIndex = nextMaxIndex;
         }
+
+        // 📜 下にスクロールして最下部（残り150px）に近づいたら次の200人を合体召喚する処理
+        window.addEventListener('scroll', () => {
+            if ((window.innerHeight + window.scrollY) >= document.documentElement.scrollHeight - 150) {
+                if (currentRenderedIndex < filteredDisplayData.length) {
+                    renderNextBatch();
+                }
+            }
+        });
 
         function switchMode(mode) {
             currentMode = mode;
