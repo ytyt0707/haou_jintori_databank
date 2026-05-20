@@ -171,7 +171,8 @@
                         <th class="col-left">順位(総合/検索)</th>
                         <th class="col-center"></th>
                         <th class="col-left" id="th_name" onclick="setSort('name')" style="cursor:pointer;">プレイヤー名</th>
-                        <th id="th_wins" onclick="setSort('wins')" style="cursor:pointer;">1位回数</th> <th id="th_matches" onclick="setSort('matches')" style="cursor:pointer;">試合数</th>
+                        <th id="th_wins" onclick="setSort('wins')" style="cursor:pointer;">1位</th> 
+                        <th id="th_matches" onclick="setSort('matches')" style="cursor:pointer;">試合数</th>
                         <th id="th_total_area" onclick="setSort('total_area')" style="cursor:pointer;">総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
                         <th id="th_total_kills" onclick="setSort('total_kills')" style="cursor:pointer;">総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
                         <th id="th_kill_rate" onclick="setSort('kill_rate')" style="cursor:pointer;">キルレート</th>
@@ -229,7 +230,7 @@
             const nameText = currentMode === 'personal' ? 'プレイヤー名' : 'チーム名';
             
             document.getElementById('th_name').innerHTML = nameText + (currentSortKey === 'name' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
-            document.getElementById('th_wins').innerHTML = '1位回数' + (currentSortKey === 'wins' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+            document.getElementById('th_wins').innerHTML = '1位' + (currentSortKey === 'wins' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
             document.getElementById('th_matches').innerHTML = '試合数' + (currentSortKey === 'matches' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
             document.getElementById('th_total_area').innerHTML = '総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_area' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
             document.getElementById('th_total_kills').innerHTML = '総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span>' + (currentSortKey === 'total_kills' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
@@ -280,7 +281,7 @@
                             p.total_kills += row[6];
                             p.max_area = Math.max(p.max_area, row[7]);
                             p.max_kills = Math.max(p.max_kills, row[8]);
-                            p.wins += (row[11] || 0); // 👑 合体時の1位回数加算
+                            p.wins += (row[11] || 0);
                             
                             if (row[10] && row[10] !== '-') {
                                 if (p.first_date === '-' || row[10] < p.first_date) p.first_date = row[10];
@@ -342,7 +343,6 @@
                 activeData.forEach((t, i) => t.rank_all = i + 1);
             }
 
-            // 👑 ソート処理
             activeData.sort((a, b) => {
                 if (currentSortKey === 'last_date' || currentSortKey === 'first_date') {
                     const dateA = parseToDate(a[currentSortKey]);
@@ -380,8 +380,8 @@
             dataArray.forEach(p => {
                 if (searchQuery) {
                     const matchName = p.name.includes(searchQuery);
-                    const matchTeam = (!p.isSolo && p.team && p.team.includes(searchQuery));
-                    if (!matchName && matchTeam) return; 
+                    const matchTeam = (!p.isSolo && p.team && p.team.includes(searchQuery)) || false;
+                    if (!matchName && !matchTeam) return; 
                 }
 
                 if (currentMode === 'personal') {
@@ -419,7 +419,7 @@
                         ${teamDisplay}<a href="${analysisUrl}">${p.name}</a>
                     </td>
                     <td>${p.wins.toLocaleString()}</td>
-                    <td>
+                    <td>${p.matches.toLocaleString()}</td> <td>
                         ${p.total_area.toFixed(2)}%
                         <span style="font-size:0.7rem;color:#777;">[${p.max_area.toFixed(2)}%]</span>
                     </td>
