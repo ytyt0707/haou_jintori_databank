@@ -1,0 +1,66 @@
+{
+  "round_id": 55220,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-19T07:05:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "石膏",
+      "team": "",
+      "emoji": "🦄",
+      "score": "36.86",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しsex",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤼",
+      "score": "27.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] 凍結",
+      "team": "なきち",
+      "emoji": "🥶",
+      "score": "0.43",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[なきち] なきごおり；＠；",
+      "team": "なきち",
+      "emoji": "🍧",
+      "score": "0.20",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "27.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "0.63",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkosOhTAIQ5HN/v8n37QwZD6Si4niDoVu6u5uFcNG5Ux8o2ZDsUqacCHyxO7GK2KktDA7O5401aIpjqF5l0IUn5i2q3VX5zjK01anMZrQ+3aqpI2utStpFNdqZpAdwB0PiNwygDtFHaYZsEmPQ601lVmnOBT6mGUAY5yn3gKqddIBzEkYI9TarjMAxpwaUeYbNYloD6tBo+FLNEu43ZgbElqv0FmI5tJOS/tJ6XB1q4QL6kyLOslVks/47Vl1A3yNX+VN9kK3Bvaf9gfcZApa",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e230e8",
+      "4": "#30e870",
+      "5": "#4d73e5",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

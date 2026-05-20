@@ -1,0 +1,48 @@
+{
+  "round_id": 53391,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-15T04:11:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 本多忠勝",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.30",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵🏆] 名無し7a",
+      "team": "🇯🇵🏆",
+      "emoji": "🦁",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "0.30",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵🏆",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtUUEKACAIs+X/3xxpxqQ6dgjaxeHmBAUSyoA4kgYsqpihui2PCnoEAPOo2vSIpUIbqDtpyLMRxNLFw52HwvWssOvzuxfYfkHv7nwpvQF/jgDM",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8d7",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}

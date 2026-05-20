@@ -1,0 +1,48 @@
+{
+  "round_id": 54491,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-17T15:39:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "2.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[熊谷市] 爆弾/自認レゼ",
+      "team": "熊谷市",
+      "emoji": "💣",
+      "score": "0.13",
+      "kills": 15
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "熊谷市",
+      "score": "0.13",
+      "kills": 15
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkFEKwDAIQxOb+595aLfBqOS3DJrfZ0wUOBr/f0GYEyIchYVm7RZE0uQmlfoBllUNJjHXqqPJKrOFuK1Ib+mb/tYV1mbPKRdIgwCH",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e89830",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "round_id": 55192,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-19T05:34:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬきち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "88.56",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "5.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵熊谷市] D-Nut's",
+      "team": "🇯🇵熊谷市",
+      "emoji": "🔪",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "88.56",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "5.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵熊谷市",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG10EsOwCAIBFBHpve/cgNVVwM1/bDR+BiikqPa3PyyfjQd93PSDhBkqvHqWuXHbEQAmfRDIFA2uOS6Rsrspq62BxsrM0KPMjCwd1Jkp5pZoi691DTrEKUv+EbJavKlbCfr1Q1+",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#8B4513",
+      "5": "#30e8d7"
+    },
+    "sz": 30
+  }
+}

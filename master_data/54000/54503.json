@@ -1,0 +1,66 @@
+{
+  "round_id": 54503,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-17T16:18:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 爆弾/自認レゼ",
+      "team": "🇯🇵ONJ",
+      "emoji": "💣",
+      "score": "66.49",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 岩井",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "9.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無し17",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "8.47",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "1.09",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "84.50",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "1.09",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkoEOxCAIQxkW/v+TLwUcGd7ujInaR4UNRWqoqpotEW6EUzhzgGOttQBVA8zMUNQCknrozhi0M/lyD5O73pSk3GRmgMMVLpJnKpksqHu4m1Yl2+tR97Y+ViC9mup1PahZUF7MTzioZd6o93qh/C0A5sXGu+PXJh95K/OhbiHq2odj/U2t8h62EHZVrzT69Uazm0nvZlUw2/TdR5V0Ojr6v7dj56698Q4HbsqHNmBUNbU+P7wt1470uPCO+knDhg8oRQ+6",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#60d411",
+      "4": "#9ca3af",
+      "5": "#9ca3af",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

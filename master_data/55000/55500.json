@@ -1,0 +1,48 @@
+{
+  "round_id": 55500,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-19T22:13:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "😝",
+      "score": "28.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[異世界] 名無しRa",
+      "team": "異世界",
+      "emoji": "🐲",
+      "score": "0.17",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "28.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "異世界",
+      "score": "0.17",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVkSwCAIQwP1/mfuBFDBzS/pI5BYIJ1WTgJ2fUKgfbMBbVMk2nY6pbxRXL+kapuc2HuyKa+TL1TMUAyOXNEKiIiw6HgAXghH0kKCzqArpdQm2/Ij7am5PTe49EbDVeCsA1TNspteFytUh6u6015A7cRz1LmsRFwOWPfaQLElFviDloZObX8hLEjD+GP9WRvDPNjRWfzH6+S+ebPlHyLUnTLvD26vBLA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#60d411"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "round_id": 53447,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-15T07:13:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵混沌] たぬきち",
+      "team": "🇯🇵混沌",
+      "emoji": "🥺",
+      "score": "51.92",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵混沌] ニャル子",
+      "team": "🇯🇵混沌",
+      "emoji": "🤔",
+      "score": "18.45",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵熊谷市] ボードゥアン4世",
+      "team": "🇯🇵熊谷市",
+      "emoji": "🤕",
+      "score": "12.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵熊谷市] D-Nut's",
+      "team": "🇯🇵熊谷市",
+      "emoji": "🔪",
+      "score": "1.29",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵混沌",
+      "score": "70.37",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵熊谷市",
+      "score": "13.33",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1ksEOAyEIRHFnlv//5AYQFDdt2kO5oDxHJqhoD0D2OCErAOlQgYIksVFRbYzkQYXkNeXSqKY2sdPbwu+At70WFagxw7dwmioMmLHARcs3AqvaDKqaC6MmjxFlNXNQwFo+xWOM7UCYTiW5UT+1CEkp2sq5+UhlSLTN0y1LmmrV3PyJ+veas8hWK/9AHw+0a8//Rn5B56zeaCXw8porv3nSh3bCnuxVV7wAy+EMMQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8a930",
+      "4": "#e8a930",
+      "5": "#47e830",
+      "6": "#47e830"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 53483,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-15T09:10:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺ソ連] レーニン",
+      "team": "🇷🇺ソ連",
+      "emoji": "⛏️",
+      "score": "59.09",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 競り合いマスター",
+      "team": "🇯🇵ONJ",
+      "emoji": "😉",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺ソ連",
+      "score": "59.09",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkoEOgCAIRBH6/29ugKCRR1uuJfG4k5hEYIkuYxadXkpPeREZY0DmFAjlUoxsWVUDSNkogNJTabVBQVuuBcNgP7iZFfmcT42TkD7AmlgBpqz8hE0WsP7U1OT26CuzMzAYDhXOfGwVfxtnRZXGiV7QU5/fXpO2ccN3uFk/0uvjbbjYr+gGv+IGZw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

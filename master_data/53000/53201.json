@@ -1,0 +1,41 @@
+{
+  "round_id": 53201,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-14T17:55:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ギリ神] 名無しC9",
+      "team": "ギリ神",
+      "emoji": "😀",
+      "score": "51.37",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ギリ神] アルテミス神",
+      "team": "ギリ神",
+      "emoji": "😆",
+      "score": "1.25",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ギリ神",
+      "score": "52.63",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9klEOwCAIQ4lw/zMvFBAQ/Z3JpuHRUpcJkZA9dCwREix0EIk2esmAvh0+qDZAZN7b0vXhFjRty8lgtA6LqmVmLkocS2Zm5E8rxAuFGt3EZnmhuDqbZmpR9+wXGt+zxvfpKZrwZEfkgduF/qFr6Zw6uM4FfFGDTzq1+LvUftnUPnfTjWuqpJGv0YE7veOMHp65N32WiT6RjgeX",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#a74de5",
+      "4": "#a74de5"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "round_id": 55190,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-19T05:28:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[東卍] マイキー",
+      "team": "東卍",
+      "emoji": "😄",
+      "score": "32.69",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "17.22",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[東卍] ペケJ",
+      "team": "東卍",
+      "emoji": "🐱",
+      "score": "6.65",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無しl3",
+      "team": "🇯🇵ONJ",
+      "emoji": "💩",
+      "score": "0.22",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "東卍",
+      "score": "39.34",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "17.44",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kYkOwzAIQx3Q/P+fPDkcuaahSq3yMHYJUDWq6qDf5EKjT/ODJDH5SyDojoFHNtGkg7cQKCr9b+wTBXY/J9AXpd/Ud/pM3+jn9XZVO6eYyIiT7pgAURZBE5tpuJ6IrpjuFAXNzOZxSbXEw5dqqMUEbW5mRTTk1loNTYdjWTzpcQ1khI7AMXpbRdDNeWfS6o+Fo+WilHPWdf1s8eQvJa2DvrEyV2m7s9z++VaP3r98F0/6TI+OXtkSxO3reoAvGY8Lpg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e84230",
+      "5": "#9ca3af",
+      "6": "#e84230"
+    },
+    "sz": 30
+  }
+}

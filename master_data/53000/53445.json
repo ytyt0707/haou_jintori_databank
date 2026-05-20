@@ -1,0 +1,48 @@
+{
+  "round_id": 53445,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-15T07:06:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵混沌] ニャル子",
+      "team": "🇯🇵混沌",
+      "emoji": "💩",
+      "score": "45.72",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😆",
+      "score": "32.78",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵混沌",
+      "score": "45.72",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "32.78",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkUsOwCAIRKdO73/mBqSIojQpG5HHZ0TA7e4GO28Br787f1HreKzt/IhVR0lr0fWbdBW7p9pYW5VuZhUBkMa9Db2X0AWTHWs2xWK5UL8rDXjOnul8k7HZvHFrGXoEjSrbA5ODqpQ1ZVlrdC+dzJpjZqZRNXrvK8aG/0Ur2WBJxyePce49myUJoA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83098",
+      "4": "#36e830"
+    },
+    "sz": 30
+  }
+}

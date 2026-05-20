@@ -1,0 +1,57 @@
+{
+  "round_id": 55252,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-19T08:49:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] アクエンアテン",
+      "team": "ラー軍",
+      "emoji": "🌞",
+      "score": "26.51",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しPM",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "4.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "〽(偽物)",
+      "team": "",
+      "emoji": "〽️",
+      "score": "0.13",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "26.51",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "4.01",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkUsWxSAIQzHV/W/5nSBfbWePgRSuCWpFdowxJkP2al1jMhhKuOUIhUEPPGfHqbVZxZgd4z6r5dC2rhd/obLv756aw5jw4kmbyIqkFHp1QzozuJ5Dre2J2I1a3u0vbJpDuzSaTSlAWur4PdoD1gIS93MtQqS8UxACYX4cC8qT5hB+bSnp83TCaqpxaK8NqGe+qJQLvUC+yN32TnvM95/kW2v+AZyRBMQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#e83087",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

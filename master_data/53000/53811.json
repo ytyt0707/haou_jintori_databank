@@ -1,0 +1,48 @@
+{
+  "round_id": 53811,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-16T02:54:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] BORUTO",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "84.51",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ぷんす] ぷんぷん",
+      "team": "🇯🇵ぷんす",
+      "emoji": "😎",
+      "score": "2.90",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "84.51",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ぷんす",
+      "score": "2.90",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkFEOwCAIQ6H1/mdecNMQJzXZ+CI8C61kVQAqRPIAP0sZZ4Ua0pbW9t3bTNYTibN/AmtTWF2Fl1SRt7XW0ii1ACzong9tRSm0HJvTtdnG2cXnZPGVVJQnmle9enPz1zAN3L3kRjprKhI9nssXp7w3t31d6vgJzQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e83064"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "round_id": 53885,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-16T06:54:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[混沌] ニャル子",
+      "team": "混沌",
+      "emoji": "😂",
+      "score": "49.43",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "🥐",
+      "score": "1.82",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "0.18",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[混沌] も",
+      "team": "混沌",
+      "emoji": "😛",
+      "score": "0.10",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "名無しyo",
+      "team": "",
+      "emoji": "🐶",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "混沌",
+      "score": "49.53",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷デパ",
+      "score": "1.82",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.18",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9ktESwyAIBC/Qmv//486BCCpTn5RlAU0AjYVuBVTVGxNOv4dmG1LgW3OyLnBXbqksP3FOJQsXiscd4fJtoc9T8EVXN4RcVAU+mXC5fJUDV7l5zA6vmfE2OKayPhtnRBi55/LozAby428F7PCPiujh5pFzxV9hhcbgHN5ARNNlbIwxam8mWC4VwqTmilEruEFV9jXqt0Yx1ahWuk243KmezzIrBz3wSXfsdKnclPsa/QHI1QZe",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#e8ba30",
+      "5": "#9ca3af",
+      "6": "#e83053",
+      "7": "#85d411"
+    },
+    "sz": 30
+  }
+}

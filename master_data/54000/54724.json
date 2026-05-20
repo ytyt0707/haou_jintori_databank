@@ -1,0 +1,66 @@
+{
+  "round_id": 54724,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-18T04:17:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ガリア] 爆弾/自認レゼ",
+      "team": "ガリア",
+      "emoji": "💣",
+      "score": "50.34",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ガリア] 名無しce",
+      "team": "ガリア",
+      "emoji": "😀",
+      "score": "22.47",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ガリア] まねき猫",
+      "team": "ガリア",
+      "emoji": "🐱",
+      "score": "4.69",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ガリア",
+      "score": "77.51",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtkkEWAyEIQ3EK3P/IfUlAHFsX7egnEBEzC6wnIjIyIswsDWutZe6ET3xSFGFcou6RD/ZMsmGutdzdFTq496A6PbWVORNlmfI/hWNYfNEWm4fpElMW5lTavKyOYzofiptccGvRImD9va+MPkq3ezFls7rcuTtEZYdWT34z84T07Q29qmh2oxN3hk3LsvsZMZTxfK5Woof6RoF5S0wIzs1Cw0FaF6GAw4OfkvMx6U66iwdGQaF8t42lh7opZvNc9OXbxo3hYOBNmbSbp7k/cu+S9XGguZmYX7b74jvFW8sd6pU1sy/qXQ48",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#4d81e5",
+      "5": "#4d81e5",
+      "6": "#4d81e5"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "round_id": 54766,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-18T06:33:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] パピルス",
+      "team": "ラー軍",
+      "emoji": "📜",
+      "score": "91.18",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] 虚空に咲く黒薔薇",
+      "team": "ラー軍",
+      "emoji": "🤖",
+      "score": "0.97",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "92.14",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdk8EKACAIQ4f5/98cVkKg8xJe8mLssUVKGKEgCJoLIuLHrBvl5syRaqgzCMW2EXou6qPpS/pEVSXhBihcnpp67NOoSnO93x8p7vIB21cxfQLjKAnu",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#e83075",
+      "4": "#e83075"
+    },
+    "sz": 30
+  }
+}

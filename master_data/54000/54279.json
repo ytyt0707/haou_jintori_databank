@@ -1,0 +1,81 @@
+{
+  "round_id": 54279,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-17T04:11:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[混沌] も",
+      "team": "混沌",
+      "emoji": "🤭",
+      "score": "12.62",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しRW",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐷",
+      "score": "8.27",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😌",
+      "score": "7.85",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無し4q",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦁",
+      "score": "6.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[混沌] ニャル子",
+      "team": "混沌",
+      "emoji": "🏁",
+      "score": "3.36",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "混沌",
+      "score": "15.98",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "15.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "7.85",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkVEOwyAMQ1Ni4P43nuxAiaqlGx+U8nCwg/U9LAYAXHvYhp2QCH74oT2gO+Duoc+UOgJOgRPtgra0Kp/okjq2gesyW1x+VPK2Rxqm5XZwUBoGpTVEEiDR2LoPApj/U2O/lpaF5qRYG5oOBTAecB2TqTbGnPMI0wqtNcKSkhVUScrKopXUaqq2jtHKa5vEZWUzU6DviRi9TmSmThV5tzY9Qeqklnyi597+f7v2h+VXqQLtS9L3A3XzBzA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6ae830",
+      "4": "#6ae830",
+      "5": "#a74de5",
+      "6": "#9ca3af",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

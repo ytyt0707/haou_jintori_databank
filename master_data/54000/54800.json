@@ -1,0 +1,48 @@
+{
+  "round_id": 54800,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-18T08:23:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "2.63",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧踊念仏] 一遍",
+      "team": "🇬🇧踊念仏",
+      "emoji": "😑",
+      "score": "0.93",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.63",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧踊念仏",
+      "score": "0.93",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFksEKwCAMQ2vT///mTUW2UpIedpgXJY/EBjUjy4m+ZEBgwBvK8fRqyseaXkgMjpeZ3gy4KiWHNt3JVGHraKk7ivIWRsa5b2bHFhFxznWvdGfm5Mf3he4UlvwrFX+2e8J77gvKCwDZ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#d4c811"
+    },
+    "sz": 30
+  }
+}
