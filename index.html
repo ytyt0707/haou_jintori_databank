@@ -171,7 +171,7 @@
                         <th class="col-left">順位(総合/検索)</th>
                         <th class="col-center"></th>
                         <th class="col-left" id="th_name" onclick="setSort('name')" style="cursor:pointer;">プレイヤー名</th>
-                        <th id="th_wins" onclick="setSort('wins')" style="cursor:pointer; color:#ffd700;">1位回数</th> <th id="th_matches" onclick="setSort('matches')" style="cursor:pointer;">試合数</th>
+                        <th id="th_wins" onclick="setSort('wins')" style="cursor:pointer;">1位回数</th> <th id="th_matches" onclick="setSort('matches')" style="cursor:pointer;">試合数</th>
                         <th id="th_total_area" onclick="setSort('total_area')" style="cursor:pointer;">総占領面積 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
                         <th id="th_total_kills" onclick="setSort('total_kills')" style="cursor:pointer;">総キル数 <span style="font-size:0.7rem;color:#777;">[最大]</span></th>
                         <th id="th_kill_rate" onclick="setSort('kill_rate')" style="cursor:pointer;">キルレート</th>
@@ -418,7 +418,7 @@
                     <td class="col-left player-name-format">
                         ${teamDisplay}<a href="${analysisUrl}">${p.name}</a>
                     </td>
-                    <td style="color:#ffd700; font-weight:bold;">${p.wins.toLocaleString()}回</td> <td>${p.matches.toLocaleString()}</td>
+                    <td>${p.wins.toLocaleString()}</td>
                     <td>
                         ${p.total_area.toFixed(2)}%
                         <span style="font-size:0.7rem;color:#777;">[${p.max_area.toFixed(2)}%]</span>
