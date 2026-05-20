@@ -108,7 +108,7 @@
         .player-name-format a { color: #aaa; text-decoration: none; }
         .player-name-format a:hover { text-decoration: underline; color: #fff; }
 
-        .badge-rank { color: #888; font-size: 0.75rem; display: inline-block; width: 30px; }
+        .badge-rank { color: #888; font-size: 0.75rem; display: inline-block; width: 45px; }
 
         /* アイコンのツールチップ */
         .icon-wrapper { position: relative; display: inline-block; cursor: pointer; color: #aaa;}
@@ -122,7 +122,7 @@
         /* =======================================================
            🎯 順位・アイコン・プレイヤー名の間を限界まで密着させる（固定幅）
            ======================================================= */
-        th:nth-child(1), td:nth-child(1) { padding-right: 2px !important; width: 85px !important; min-width: 85px !important; text-align: left !important; }
+        th:nth-child(1), td:nth-child(1) { padding-right: 2px !important; width: 110px !important; min-width: 110px !important; text-align: left !important; }
         th:nth-child(2), td:nth-child(2) { padding-left: 2px !important; padding-right: 2px !important; width: 16px !important; min-width: 16px !important; text-align: center !important; }
         th:nth-child(3), td:nth-child(3) { padding-left: 2px !important; }
     </style>
@@ -202,11 +202,12 @@
     <script>
         // 🌐 グローバル状態管理
         let currentMode = 'personal'; 
-        let rawRankings = []; // GitHubから読み込んだ看板なし生データ配列
+        let rawRankings = []; // 看板なし生データ配列
+        let rawJsonUpdatedAt = ""; // JSON内のデータ更新日時
 
         // 👑 ソート状態管理用変数
-        let currentSortKey = 'total_area'; // デフォルトは総面積順
-        let currentSortOrder = 'desc';     // デフォルトは降順
+        let currentSortKey = 'total_area'; 
+        let currentSortOrder = 'desc';     
 
         // 📥 ページ読み込み時にJSONを非同期でフェッチする
         window.onload = () => {
@@ -216,8 +217,9 @@
                     return response.json();
                 })
                 .then(data => {
+                    rawJsonUpdatedAt = data.updated_at || "";
                     rawRankings = data.rankings || [];
-                    updateView(); // 読み込み完了後に画面をビルド
+                    updateView(); 
                 })
                 .catch(error => {
                     console.error('データの取得に失敗したのです:', error);
@@ -226,20 +228,16 @@
                 });
         };
 
-        // 👑 ソートキーと昇降順を切り替える関数
         function setSort(key) {
             if (currentSortKey === key) {
-                // 同じキーが押されたら昇降を反転
                 currentSortOrder = currentSortOrder === 'desc' ? 'asc' : 'desc';
             } else {
                 currentSortKey = key;
-                // 名前の場合はデフォルト昇順(出席番号順)、それ以外は降順(大きい・新しい順)
                 currentSortOrder = (key === 'name') ? 'asc' : 'desc';
             }
             updateView();
         }
 
-        // 👑 ヘッダーのソート矢印表示(▲▼)をリフレッシュする関数
         function updateHeaderArrows() {
             const nameText = currentMode === 'personal' ? 'プレイヤー名' : 'チーム名';
             
@@ -253,6 +251,23 @@
             document.getElementById('th_first_date').innerHTML = '初登場' + (currentSortKey === 'first_date' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
         }
 
+        // 📅 日付文字列(YY/MM/DD)を、ソート用に完全な日付オブジェクトにパースするヘルパー関数
+        function parseToDate(dateStr) {
+            if (!dateStr || dateStr === '-') return null;
+            // 2026-05-20T09:16:18Z などのISO形式ならそのままパース
+            if (dateStr.includes('T')) return new Date(dateStr);
+            
+            // "26/05/14" 形式の場合
+            const parts = dateStr.split('/');
+            if (parts.length === 3) {
+                const year = parseInt('20' + parts[0], 10);
+                const month = parseInt(parts[1], 10) - 1;
+                const day = parseInt(parts[2], 10);
+                return new Date(year, month, day);
+            }
+            return null;
+        }
+
         // 🔄 画面更新・集計フィルターコアロジック
         function updateView() {
             const query = document.getElementById('searchInput').value.trim();
@@ -261,9 +276,7 @@
             let activeData = [];
 
             if (currentMode === 'personal') {
-                // --- 👤 個人データの抽出と加工 ---
                 if (filterType === 'all') {
-                    // 【すべて合体】同じ名前のソロ(sp)とチーム(tp)をメモリ上でマージする
                     const merged = {};
                     rawRankings.forEach(row => {
                         const type = row[0];
@@ -283,7 +296,7 @@
                             p.max_area = Math.max(p.max_area, row[7]);
                             p.max_kills = Math.max(p.max_kills, row[8]);
                             
-                            // 📅 最高の初登場日(古い方)と最終活動日(新しい方)を割り出す
+                            // 📅 内部の日付時刻比較によるマージ
                             if (row[10] && row[10] !== '-') {
                                 if (p.first_date === '-' || row[10] < p.first_date) p.first_date = row[10];
                             }
@@ -323,7 +336,6 @@
                     });
                 }
 
-                // 🏅 1. 占領面積の合計で降順ソートし、動的に「絶対的な総合順位」を決定（固定）
                 activeData.sort((a, b) => b.total_area - a.total_area);
                 activeData.forEach((p, i) => p.rank_all = i + 1);
 
@@ -332,22 +344,31 @@
                 rawRankings.forEach(row => {
                     if (row[0] === 't') {
                         activeData.push({
-                            name: row[1], team: '', isSolo: false, icon: '🛡️',
+                            name: row[1], team: '', isSolo: false, icon: '', // 👑 チームは無駄なアイコン全除去
                             matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
                             last_date: row[9] || '-', first_date: row[10] || '-'
                         });
                     }
                 });
 
-                // 🏅 1. チーム総占領面積で降順ソートし、「絶対的な総合順位」を決定（固定）
                 activeData.sort((a, b) => b.total_area - a.total_area);
                 activeData.forEach((t, i) => t.rank_all = i + 1);
             }
 
-            // 👑 2. ボス指定：選択されたソート条件（マルチソート）をここで適用！
+            // 👑 超精密ソート処理
             activeData.sort((a, b) => {
+                // 📅 日付・時刻ソートの高度化
+                if (currentSortKey === 'last_date' || currentSortKey === 'first_date') {
+                    const dateA = parseToDate(a[currentSortKey]);
+                    const dateB = parseToDate(b[currentSortKey]);
+                    
+                    if (!dateA) return currentSortOrder === 'desc' ? 1 : -1;
+                    if (!dateB) return currentSortOrder === 'desc' ? -1 : 1;
+                    
+                    return currentSortOrder === 'desc' ? dateB.getTime() - dateA.getTime() : dateA.getTime() - dateB.getTime();
+                }
+
                 let valA, valB;
-                
                 if (currentSortKey === 'kill_rate') {
                     valA = a.matches > 0 ? (a.total_kills / a.matches) : 0;
                     valB = b.matches > 0 ? (b.total_kills / b.matches) : 0;
@@ -356,21 +377,14 @@
                     valB = b[currentSortKey];
                 }
 
-                // 文字列（名前や日付）の比較処理
                 if (typeof valA === 'string') {
-                    if (valA === '-') return currentSortOrder === 'desc' ? 1 : -1;
-                    if (valB === '-') return currentSortOrder === 'desc' ? -1 : 1;
                     return currentSortOrder === 'desc' ? valB.localeCompare(valA) : valA.localeCompare(valB);
                 }
 
-                // 数値データの比較処理
                 return currentSortOrder === 'desc' ? valB - valA : valA - valB;
             });
 
-            // 👑 3. 矢印インジケータ表示の更新
             updateHeaderArrows();
-
-            // 元の描画システムにデータを引き渡す
             renderTable(activeData, query, filterType);
         }
 
@@ -382,14 +396,12 @@
             let searchRank = 1;
 
             dataArray.forEach(p => {
-                // 🔍 検索ロジック
                 if (searchQuery) {
                     const matchName = p.name.includes(searchQuery);
                     const matchTeam = (!p.isSolo && p.team && p.team.includes(searchQuery));
-                    if (!matchName && !matchTeam) return; 
+                    if (!matchName && matchTeam) return; 
                 }
 
-                // プルダウンによる「ソロ戦のみ/チーム戦のみ」のフィルタリング処理
                 if (currentMode === 'personal') {
                     if (filterType === 'solo' && !p.isSolo) return;
                     if (filterType === 'team' && p.isSolo) return;
@@ -397,19 +409,33 @@
 
                 const killRate = p.matches > 0 ? (p.total_kills / p.matches).toFixed(2) : "0.00";
                 const analysisUrl = `analysis.html?name=${encodeURIComponent(p.name)}&mode=${currentMode}`;
-                const teamDisplay = p.isSolo ? "" : `[${p.team}]`;
+                
+                // 👑 チーム表示のガード（個人戦かつチーム所属時のみ [タグ] を出す）
+                const teamDisplay = (currentMode === 'personal' && !p.isSolo) ? `[${p.team}]` : "";
+
+                // 👑 順位表示を「#1」形式に変更
+                const displayRankAll = `#${p.rank_all}`;
+                const displaySearchRank = searchQuery ? `(#${searchRank})` : '';
+
+                // 👑 チーム戦の時はアイコン用TDの中身を完全に空にする
+                const iconContent = currentMode === 'personal' ? `
+                    <div class="icon-wrapper">
+                        ${p.icon}
+                        <div class="tooltip">よく使うアイコン</div>
+                    </div>` : '';
+
+                // 📅 画面表示は「YY/MM/DD」形式の文字のまま出す
+                const dispLast = (p.last_date && p.last_date.includes('T')) ? p.last_date.substring(2,10).replace(/-/g, '/') : p.last_date;
+                const dispFirst = (p.first_date && p.first_date.includes('T')) ? p.first_date.substring(2,10).replace(/-/g, '/') : p.first_date;
 
                 const tr = document.createElement('tr');
                 tr.innerHTML = `
                     <td class="col-left">
-                        <span class="badge-rank">${p.rank_all}位</span>
-                        ${searchQuery ? `<span class="badge-rank" style="color:var(--deep-blue);">(${searchRank}位)</span>` : '<span class="badge-rank"></span>'}
+                        <span class="badge-rank">${displayRankAll}</span>
+                        <span class="badge-rank" style="color:var(--deep-blue);">${displaySearchRank}</span>
                     </td>
                     <td class="col-center">
-                        <div class="icon-wrapper">
-                            ${p.icon}
-                            <div class="tooltip">よく使うアイコン</div>
-                        </div>
+                        ${iconContent}
                     </td>
                     <td class="col-left player-name-format">
                         ${teamDisplay}<a href="${analysisUrl}">${p.name}</a>
@@ -425,7 +451,7 @@
                     </td>
                     <td>${killRate}</td>
                     <td class="col-center" style="font-size:0.75rem; color:#888;">
-                        ${p.last_date} ～ ${p.first_date}
+                        ${dispLast} ～ ${dispFirst}
                     </td>
                 `;
                 tbody.appendChild(tr);
@@ -446,7 +472,6 @@
             
             document.getElementById('filter_type_group').style.display = (mode === 'personal') ? 'flex' : 'none';
             
-            // モードを切り替えたらソート対象を「総占領面積」に一度リセットして安全を担保
             currentSortKey = 'total_area';
             currentSortOrder = 'desc';
 
