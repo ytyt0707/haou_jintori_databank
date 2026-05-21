@@ -2,113 +2,206 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>個人分析 - 陣取りデータバンク</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Yomogi&display=swap" rel="stylesheet">
+    
     <style>
-        /* 🟩 ランキングページに沿ったダークモダンデザイン */
-        body { font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #121214; color: #e0e0e6; margin: 0; padding: 20px; }
-        .header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #292930; padding-bottom: 15px; margin-bottom: 25px; }
-        .nav-links a { color: #4fa8ff; text-decoration: none; margin-left: 20px; font-weight: bold; }
-        .nav-links a:hover { text-decoration: underline; }
-        h1 { margin: 0; font-size: 24px; color: #fff; }
-        h2 { font-size: 18px; border-left: 4px solid #4fa8ff; padding-left: 10px; margin-top: 30px; color: #fff; }
+        /* ==========================================
+            🎨 ランキングページ共通 超高密度サイバーダークUI
+        ========================================== */
+        :root {
+            --bg-base: #1a1d24;
+            --bg-panel: #222;
+            --text-main: #e0e0e0;
+            --deep-blue: #007bb5;
+            --border-color: #333;
+            --excel-border: #555; /* エクセル風の罫線色 */
+            --highlight: rgba(0, 123, 181, 0.15);
+        }
+        body {
+            margin: 0;
+            font-family: 'Yomogi', sans-serif;
+            background-color: var(--bg-base);
+            color: var(--text-main);
+            font-size: 0.85rem;
+        }
         
-        /* 📊 テーブルスタイル */
-        table { width: 100%; border-collapse: collapse; margin-top: 10px; background: #1e1e24; border-radius: 8px; overflow: hidden; }
-        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #292930; }
-        th { background-color: #25252e; color: #4fa8ff; }
-        tr:hover { background-color: #2a2a35; }
-        
-        /* 🔗 リンク */
-        .anal-link { color: #4fa8ff; text-decoration: none; cursor: pointer; }
-        .anal-link:hover { text-decoration: underline; }
+        /* 共通ヘッダー (変更なし) */
+        header {
+            background-color: #111;
+            border-bottom: 1px solid var(--deep-blue);
+            padding: 6px 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+        .site-title { font-size: 1.1rem; color: var(--deep-blue); margin: 0; }
+        .nav-links a { color: #ccc; text-decoration: none; margin-left: 15px; font-size: 0.85rem; padding: 3px 8px; border-radius: 3px; transition: all 0.2s; }
+        .nav-links a:hover, .nav-links a.active { background-color: var(--deep-blue); color: #fff; }
 
-        /* 順位グリッド */
-        .rank-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-top: 10px; }
-        .rank-box { background: #1e1e24; padding: 15px; text-align: center; border-radius: 6px; border: 1px solid #292930; }
-        .rank-box .num { font-size: 20px; font-weight: bold; color: #ffbd4f; }
+        /* コンテンツ領域 */
+        .container {
+            padding: 15px 20px;
+        }
+        h2 {
+            font-size: 1rem;
+            color: var(--deep-blue);
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 4px;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        .page-title-section {
+            font-size: 1.2rem;
+            color: #fff;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+        }
+
+        /* 📊 エクセル風テーブルスタイル */
+        .excel-table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: var(--bg-panel);
+            margin-bottom: 10px;
+        }
+        .excel-table th, .excel-table td {
+            border: 1px solid var(--excel-border);
+            padding: 4px 10px;
+            text-align: right;
+            font-size: 0.85rem;
+            white-space: nowrap;
+        }
+        .excel-table th {
+            background-color: #111;
+            color: #ccc;
+            text-align: center;
+            font-weight: normal;
+        }
+        .excel-table tr:nth-child(even) {
+            background-color: #1a1a1a;
+        }
+        .excel-table tr:hover {
+            background-color: var(--highlight);
+        }
 
         /* チーム選択チップス */
-        .chip-container { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
-        .chip { background: #25252e; padding: 6px 12px; border-radius: 20px; font-size: 14px; cursor: pointer; border: 1px solid #3e3e4a; transition: 0.2s; }
-        .chip.active { background: #4fa8ff; color: #121214; font-weight: bold; border-color: #4fa8ff; }
+        .chip-container { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 15px; }
+        .chip {
+            background: #111; padding: 3px 10px; border-radius: 3px;
+            font-size: 0.8rem; cursor: pointer; border: 1px solid var(--excel-border);
+            transition: 0.2s; color: #ccc;
+        }
+        .chip:hover { background: #333; }
+        .chip.active { background: var(--deep-blue); color: #fff; border-color: var(--deep-blue); }
 
         /* 📈 グラフ・人物評エリア */
-        .chart-container { background: #1e1e24; padding: 20px; border-radius: 8px; margin-top: 15px; }
-        .controls { margin-bottom: 15px; }
-        .review-scroll { display: flex; gap: 15px; overflow-x: auto; padding: 10px 0; }
-        .review-card { min-width: 250px; background: #1e1e24; padding: 15px; border-radius: 8px; border-left: 4px solid #ff4f79; }
+        .chart-container {
+            background-color: var(--bg-panel);
+            border: 1px solid var(--border-color);
+            padding: 10px;
+            border-radius: 4px;
+        }
+        .controls { margin-bottom: 10px; font-size: 0.8rem; }
+        .review-scroll { display: flex; gap: 10px; overflow-x: auto; padding: 5px 0; }
+        .review-card {
+            min-width: 250px; background: #111; padding: 10px;
+            border: 1px solid var(--excel-border); border-left: 4px solid var(--deep-blue);
+            font-size: 0.8rem;
+        }
     </style>
 </head>
 <body>
 
-    <div class="header">
-        <h1 id="page-title">個人分析: 読み込み中...</h1>
+    <header>
+        <h1 class="site-title">陣取り データバンク</h1>
         <div class="nav-links">
-            <a href="ranking.html">🏆 ランキング</a>
-            <a href="team.html">🏴 チーム分析一覧</a>
+            <a href="index.html">総合ランキング</a>
+            <a href="archive.html">過去試合記録</a>
+            <a href="plot.html">複数データプロット</a>
         </div>
+    </header>
+
+    <div class="container">
+        <div class="page-title-section" id="player-name-title">
+            👤 個人分析: 読み込み中...
+        </div>
+
+        <h2>📊 基本統計・計算値</h2>
+        <table class="excel-table">
+            <thead>
+                <tr>
+                    <th>累計試合数</th>
+                    <th>平均スコア</th>
+                    <th>平均キル数</th>
+                    <th>平均順位</th>
+                    <th>上位(3位以内)率</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td id="stat-total-games" style="text-align: center;">-</td>
+                    <td id="stat-avg-score" style="text-align: center;">-</td>
+                    <td id="stat-avg-kills" style="text-align: center;">-</td>
+                    <td id="stat-avg-rank" style="text-align: center;">-</td>
+                    <td id="stat-top3-rate" style="text-align: center;">-</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>🏅 順位別獲得回数</h2>
+        <div style="overflow-x: auto;">
+            <table class="excel-table">
+                <thead>
+                    <tr>
+                        <th>1位</th><th>2位</th><th>3位</th><th>4位</th><th>5位</th>
+                        <th>6位</th><th>7位</th><th>8位</th><th>9位</th><th>10位</th>
+                    </tr>
+                </thead>
+                <tbody id="rank-distribution-row">
+                    </tbody>
+            </table>
+        </div>
+
+        <h2>🏴 これまでに所属したチーム (クリックでグラフ絞り込み)</h2>
+        <div class="chip-container" id="team-chips">
+            </div>
+
+        <h2>📈 戦績の推移 (複数選択プロット)</h2>
+        <div class="chart-container">
+            <div class="controls">
+                <label><input type="checkbox" class="metric-chk" value="sc" checked> スコア</label>
+                <label style="margin-left:15px;"><input type="checkbox" class="metric-chk" value="k"> キル数</label>
+                <label style="margin-left:15px;"><input type="checkbox" class="metric-chk" value="rk"> 順位(逆軸)</label>
+            </div>
+            <canvas id="historyChart" style="max-height: 350px;"></canvas>
+        </div>
+
+        <h2>💬 コミュニティからの人物評</h2>
+        <div class="review-scroll" id="reviews-box">
+            </div>
     </div>
-
-    <h2>📊 基本統計・計算値</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>累計試合数</th>
-                <th>平均スコア</th>
-                <th>平均キル数</th>
-                <th>平均順位</th>
-                <th>上位(3位以内)率</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td id="stat-total-games">-</td>
-                <td id="stat-avg-score">-</td>
-                <td id="stat-avg-kills">-</td>
-                <td id="stat-avg-rank">-</td>
-                <td id="stat-top3-rate">-</td>
-            </tr>
-        </tbody>
-    </table>
-
-    <h2>🏅 順位別獲得回数 (1位〜10位)</h2>
-    <div class="rank-grid" id="rank-distribution">
-        </div>
-
-    <h2>🏴 これまでに所属したチーム (クリックでグラフ絞り込み)</h2>
-    <div class="chip-container" id="team-chips">
-        </div>
-
-    <h2>📈 戦績の推移 (複数選択プロット)</h2>
-    <div class="chart-container">
-        <div class="controls">
-            <label><input type="checkbox" class="metric-chk" value="sc" checked> スコア</label>
-            <label style="margin-left:15px;"><input type="checkbox" class="metric-chk" value="k"> キル数</label>
-            <label style="margin-left:15px;"><input type="checkbox" class="metric-chk" value="rk"> 順位(逆軸)</label>
-        </div>
-        <canvas id="historyChart" style="max-height: 350px;"></canvas>
-    </div>
-
-    <h2>💬 コミュニティからの人物評</h2>
-    <div class="review-scroll" id="reviews-box">
-        </div>
 
     <script>
-        // URLからプレイヤー名を取得 (?name=xxx)
         const params = new URLSearchParams(window.location.search);
-        const playerName = params.get('name') || "(≡3≡)"; // テスト用のデフォルト
+        const playerName = params.get('name') || "(≡3≡)";
 
         let rawHistory = [];
         let selectedTeams = [];
         let myChart = null;
 
-        // 禁止文字を変換する安全関数 (Python側と同期)
         function getSafeFilename(name) {
             return name.replace(/[\\/:*?"<>|]/g, '_');
         }
 
-        // データ読み込み
         async function loadPlayerData() {
             try {
                 const safeName = getSafeFilename(playerName);
@@ -116,22 +209,17 @@
                 if (!response.ok) throw new Error("ファイルが見つからないのです");
                 const data = await response.json();
                 
-                document.getElementById('page-title').innerText = `👤 個人分析: ${data.name}`;
+                document.getElementById('player-name-title').innerText = `👤 個人分析: ${data.name}`;
                 rawHistory = data.h || [];
 
-                // 1. 各種表の計算と表示
                 calculateStats(rawHistory);
-                // 2. 順位一覧の表示
                 renderRankDistribution(rawHistory);
-                // 3. チームチップスの作成
                 renderTeamChips(rawHistory);
-                // 4. グラフの初期描画
                 updateChart();
-                // 5. 人物評の描画
                 renderReviews();
 
             } catch (err) {
-                document.getElementById('page-title').innerText = `❌ データが見つかりませんでした: ${playerName}`;
+                document.getElementById('player-name-title').innerText = `❌ データが見つかりませんでした: ${playerName}`;
                 console.error(err);
             }
         }
@@ -156,22 +244,18 @@
         }
 
         function renderRankDistribution(history) {
-            const counts = Array(11).fill(0); // 1~10位用
+            const counts = Array(11).fill(0);
             history.forEach(item => {
                 const r = parseInt(item.rk);
                 if(r >= 1 && r <= 10) counts[r]++;
             });
 
-            const container = document.getElementById('rank-distribution');
-            container.innerHTML = "";
+            const tr = document.getElementById('rank-distribution-row');
+            tr.innerHTML = "<tr>";
             for(let i=1; i<=10; i++) {
-                container.innerHTML += `
-                    <div class="rank-box">
-                        <div>${i}位</div>
-                        <div class="num">${counts[i]}回</div>
-                    </div>
-                `;
+                tr.innerHTML += `<td style="text-align: center;">${counts[i]}</td>`;
             }
+            tr.innerHTML += "</tr>";
         }
 
         function renderTeamChips(history) {
@@ -186,7 +270,7 @@
             Object.keys(teamMap).forEach(team => {
                 const chip = document.createElement('div');
                 chip.className = 'chip';
-                chip.innerText = `${team} (${teamMap[team]}回)`;
+                chip.innerText = `${team} (${teamMap[team]})`;
                 chip.addEventListener('click', () => {
                     chip.classList.toggle('active');
                     if(chip.classList.contains('active')) {
@@ -194,14 +278,13 @@
                     } else {
                         selectedTeams = selectedTeams.filter(t => t !== team);
                     }
-                    updateChart(); // グラフ更新
+                    updateChart();
                 });
                 container.appendChild(chip);
             });
         }
 
         function updateChart() {
-            // チーム選択によるフィルタリング
             let filtered = rawHistory;
             if(selectedTeams.length > 0) {
                 filtered = rawHistory.filter(item => {
@@ -210,18 +293,15 @@
                 });
             }
 
-            // 時系列順（ID順）にソート
             filtered.sort((a,b) => a.id - b.id);
-
             const labels = filtered.map(item => `R-${item.id}`);
             const datasets = [];
 
-            // チェックされている指標を判定
             const chks = document.querySelectorAll('.metric-chk:checked');
             chks.forEach(chk => {
                 const val = chk.value;
                 if(val === 'sc') {
-                    datasets.push({ label: 'スコア', data: filtered.map(item => parseFloat(item.sc)), borderColor: '#4fa8ff', backgroundColor: 'transparent', yAxisID: 'y' });
+                    datasets.push({ label: 'スコア', data: filtered.map(item => parseFloat(item.sc)), borderColor: '#007bb5', backgroundColor: 'transparent', yAxisID: 'y' });
                 } else if(val === 'k') {
                     datasets.push({ label: 'キル数', data: filtered.map(item => item.k), borderColor: '#ff4f79', backgroundColor: 'transparent', yAxisID: 'y1' });
                 } else if(val === 'rk') {
@@ -238,7 +318,7 @@
                 options: {
                     responsive: true,
                     scales: {
-                        y: { type: 'linear', display: true, position: 'left', grid: { color: '#292930' } },
+                        y: { type: 'linear', display: true, position: 'left', grid: { color: '#333' } },
                         y1: { type: 'linear', display: true, position: 'right', grid: { drawOnChartArea: false } },
                         yRank: { type: 'linear', display: true, position: 'right', reverse: true, min: 1, max: 10, ticks: { stepSize: 1 }, grid: { drawOnChartArea: false } }
                     }
@@ -248,7 +328,6 @@
 
         function renderReviews() {
             const box = document.getElementById('reviews-box');
-            // 将来的に外部データにするための、とりあえずのたたき台テキスト
             const dummyReviews = [
                 "「この人が前線にいる時の安心感は異常。スコア稼ぎの天才。」",
                 "「対戦で見かけたら即逃げ推奨。キルムーブが凄まじいプレイヤー。」",
@@ -257,9 +336,7 @@
             box.innerHTML = dummyReviews.map(r => `<div class="review-card">${r}</div>`).join('');
         }
 
-        // イベント登録
         document.querySelectorAll('.metric-chk').forEach(chk => chk.addEventListener('change', updateChart));
-
         window.onload = loadPlayerData;
     </script>
 </body>
