@@ -1,588 +1,1168 @@
 <!DOCTYPE html>
+
 <html lang="ja">
+
 <head>
+
     <meta charset="UTF-8">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>おんj陣取り 覇王軍特設データバンク</title>
+
     
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
+
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
     <link href="https://fonts.googleapis.com/css2?family=Yomogi&display=swap" rel="stylesheet">
 
+
+
     <style>
+
         /* ==========================================
+
             🎨 超高密度サイバーダークUI
+
         ========================================== */
+
         :root {
+
             --bg-base: #1a1d24;
+
             --bg-panel: #222;
+
             --text-main: #e0e0e0;
+
             --deep-blue: #007bb5;
+
             --border-color: #333;
+
             --highlight: rgba(0, 123, 181, 0.15);
+
         }
+
+
 
         body {
+
             margin: 0;
+
             font-family: 'Yomogi', sans-serif;
+
             background-color: var(--bg-base);
+
             color: var(--text-main);
+
             font-size: 0.85rem;
+
         }
+
+
 
         header {
+
             background-color: #111;
+
             border-bottom: 1px solid var(--deep-blue);
+
             padding: 6px 15px;
+
             display: flex;
+
             justify-content: space-between;
+
             align-items: center;
+
             position: sticky;
+
             top: 0;
+
             z-index: 1000;
+
         }
+
+
 
         .site-title { font-size: 1.1rem; color: var(--deep-blue); margin: 0; }
+
         .nav-links a { color: #ccc; text-decoration: none; margin-left: 15px; font-size: 0.85rem; padding: 3px 8px; border-radius: 3px; transition: all 0.2s; }
+
         .nav-links a:hover, .nav-links a.active { background-color: var(--deep-blue); color: #fff; }
 
+
+
         .control-panel {
+
             background-color: var(--bg-panel);
+
             margin: 8px 10px;
+
             padding: 6px 10px;
+
             border-radius: 4px;
+
             border: 1px solid var(--border-color);
+
             display: flex;
+
             flex-wrap: wrap;
+
             gap: 10px;
+
             align-items: center;
+
         }
+
+
 
         .control-group { display: flex; gap: 4px; align-items: center; }
 
+
+
         input[type="text"], input[type="number"] {
+
             background-color: #111; border: 1px solid #555; color: #fff;
+
             padding: 3px 6px; border-radius: 3px; font-family: 'Yomogi', sans-serif;
+
         }
+
         input[type="text"] { width: 180px; }
+
         input[type="text"]:focus, input[type="number"]:focus { outline: none; border-color: var(--deep-blue); }
 
+
+
         button {
+
             background-color: #333; color: #fff; border: 1px solid #555;
+
             padding: 3px 8px; border-radius: 3px; cursor: pointer;
+
             font-family: 'Yomogi', sans-serif; font-size: 0.8rem;
+
             transition: all 0.2s;
+
         }
+
         button:hover { background-color: #444; }
+
         button.active { background-color: var(--deep-blue); border-color: var(--deep-blue); }
 
+
+
         select.dropdown-select {
+
             background-color: #111; border: 1px solid #555; color: #fff;
+
             padding: 3px 20px 3px 6px; border-radius: 3px; font-family: 'Yomogi', sans-serif;
+
             font-size: 0.8rem; cursor: pointer; appearance: none;
+
             background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+
             background-repeat: no-repeat; background-position: right 4px center; background-size: 12px;
+
         }
+
         select.dropdown-select:focus { outline: none; border-color: var(--deep-blue); }
 
+
+
         /* 🎛️ 詳細フィルターUI用スタイル */
+
         #advancedFilters {
+
             display: none;
+
             background-color: #1a1c20;
+
             border-top: 1px dashed var(--deep-blue);
+
         }
+
         .filter-grid {
+
             display: grid;
+
             grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+
             gap: 8px;
+
             width: 100%;
+
         }
+
         .filter-item {
+
             display: flex;
+
             align-items: center;
+
             justify-content: space-between;
+
             background: #111;
+
             padding: 4px 8px;
+
             border-radius: 3px;
+
             border: 1px solid #333;
+
         }
+
         .filter-item label { color: #aaa; font-size: 0.75rem; white-space: nowrap; margin-right: 5px; }
+
         .filter-item input[type="number"] { width: 50px; text-align: center; font-size: 0.75rem; }
+
         .filter-item span { color: #555; margin: 0 4px; }
+
+
 
         .table-wrapper { width: 100%; text-align: center; margin-top: 10px; }
 
+
+
         .table-container {
+
             overflow-x: auto; background-color: var(--bg-panel); border: 1px solid var(--border-color);
+
             display: inline-block; text-align: left;
+
         }
+
+
 
         table { width: auto; border-collapse: collapse; font-size: 0.8rem; white-space: nowrap; }
 
+
+
         th, td { padding: 2px 12px; text-align: right; border-bottom: 1px solid #2a2a2a; }
+
         th { background-color: #111; color: #999; font-weight: normal; position: sticky; top: 0; z-index: 10; padding-top: 4px; padding-bottom: 4px; }
+
         th.col-left, td.col-left { text-align: left; }
+
         th.col-center, td.col-center { text-align: center; }
+
         tr:hover { background-color: var(--highlight); }
 
+
+
         .player-name-format { color: #aaa; text-decoration: none; }
-        /* ▼ プレイヤー名の青色をやめて基本色(#e0e0e0)にする */
-        .player-name-format a { color: #e0e0e0; text-decoration: none; }
-        /* ▼ マウスを乗せた時だけ少し明るく(白く)して下線を引く */
-        .player-name-format a:hover { text-decoration: underline; color: #ffffff; }
-        
-        /* 🏴 チーム名リンク専用の微調整 */
-        /* ▼ チーム名のオレンジ色をやめて基本色(#e0e0e0)にする */
-        .team-link { color: #e0e0e0 !important; margin-right: 4px; }
+
+        .player-name-format a { color: #aaa; text-decoration: none; }
+
+        .player-name-format a:hover { text-decoration: underline; color: #fff; }
+
+
+
         .badge-rank { color: #888; font-size: 0.75rem; display: inline-block; width: 45px; }
 
+
+
         .icon-wrapper { position: relative; display: inline-block; cursor: pointer; color: #aaa;}
+
         .icon-wrapper:hover .tooltip { display: block; }
+
         .tooltip {
+
             display: none; position: absolute; bottom: 120%; left: 50%; transform: translateX(-50%);
+
             background: #000; border: 1px solid var(--deep-blue); padding: 3px 6px; border-radius: 3px;
+
             z-index: 100; white-space: nowrap; color: #fff; font-size: 0.75rem;
+
         }
+
+
 
         th:nth-child(1), td:nth-child(1) { padding-right: 2px !important; width: 110px !important; min-width: 110px !important; text-align: left !important; }
+
         th:nth-child(2), td:nth-child(2) { padding-left: 2px !important; padding-right: 2px !important; width: 16px !important; min-width: 16px !important; text-align: center !important; }
+
         th:nth-child(3), td:nth-child(3) { padding-left: 2px !important; }
 
+
+
         /* ⏳ 画面を邪魔しない浮遊型インジケーター */
+
         #loadingIndicator {
+
             display: none; position: fixed; bottom: 20px; right: 20px;
+
             background-color: rgba(17, 17, 17, 0.85); color: #fff;
+
             padding: 8px 16px; border-radius: 30px; border: 1px solid var(--deep-blue);
+
             box-shadow: 0 4px 12px rgba(0,0,0,0.5); z-index: 2000;
+
             font-size: 0.8rem; pointer-events: none;
+
         }
+
     </style>
+
 </head>
+
 <body>
 
+
+
     <header>
+
         <h1 class="site-title">陣取り データバンク</h1>
+
         <div class="nav-links">
-            <a href="index.html">総合ランキング</a>
+
+            <a href="index.html" class="active">総合ランキング</a>
+
             <a href="archive.html">過去試合記録</a>
+
             <a href="plot.html">複数データプロット</a>
+
         </div>
+
     </header>
 
+
+
     <div class="control-panel">
+
         <div class="control-group">
+
             <input type="text" id="searchInput" placeholder="🔍 名前で絞り込み..." oninput="updateView()">
+
         </div>
 
+
+
         <div class="control-group" style="margin-left: 10px;">
+
             <button id="tab_personal" class="active" onclick="switchMode('personal')">個人</button>
+
             <button id="tab_team" onclick="switchMode('team')">チーム</button>
+
         </div>
+
+
 
         <div class="control-group" id="filter_type_group" style="margin-left: 10px;">
+
             <select id="filter_type" class="dropdown-select" onchange="updateView()">
+
                 <option value="all">すべて表示</option>
+
                 <option value="solo">ソロ戦のみ</option>
+
                 <option value="team">チーム戦のみ</option>
+
             </select>
+
         </div>
+
+
 
         <div class="control-group" style="margin-left: 10px;">
+
             <select id="killrate_type" class="dropdown-select" onchange="updateView()" title="キルレート計算方式設定">
+
                 <option value="normal">K/G (キル/試合数)</option>
+
                 <option value="dummy1">K/D (キル/デス数・仮)</option>
+
                 <option value="dummy2">K/R (キル率・仮)</option>
+
             </select>
+
         </div>
+
+
 
         <div class="control-group" style="margin-left: auto;">
+
             <button class="active">全期間</button>
+
             <button>本日</button>
+
             <button>直近7日間</button>
+
             <button>今月</button>
+
             <button title="カスタム期間指定">📅 期間指定</button>
+
             <button id="toggleFiltersBtn" onclick="toggleAdvancedFilters()" style="margin-left: 10px; border-color: var(--deep-blue);">▼ 詳細絞り込み</button>
+
         </div>
+
     </div>
+
+
 
     <div id="advancedFilters" class="control-panel">
+
         <div class="filter-grid">
+
             <div class="filter-item"><label>順位</label><input type="number" id="min_rank" placeholder="以上" oninput="updateView()"><span>～</span><input type="number" id="max_rank" placeholder="以下" oninput="updateView()"></div>
+
             <div class="filter-item"><label>1位獲得数</label><input type="number" id="min_wins" placeholder="以上" oninput="updateView()"><span>～</span><input type="number" id="max_wins" placeholder="以下" oninput="updateView()"></div>
+
             <div class="filter-item"><label>試合数</label><input type="number" id="min_matches" placeholder="以上" oninput="updateView()"><span>～</span><input type="number" id="max_matches" placeholder="以下" oninput="updateView()"></div>
+
             <div class="filter-item"><label>総占領面積</label><input type="number" id="min_total_area" placeholder="以上" oninput="updateView()"><span>～</span><input type="number" id="max_total_area" placeholder="以下" oninput="updateView()"></div>
+
             <div class="filter-item"><label>最大面積</label><input type="number" id="min_max_area" placeholder="以上" oninput="updateView()"><span>～</span><input type="number" id="max_max_area" placeholder="以下" oninput="updateView()"></div>
+
             <div class="filter-item"><label>総キル数</label><input type="number" id="min_total_kills" placeholder="以上" oninput="updateView()"><span>～</span><input type="number" id="max_total_kills" placeholder="以下" oninput="updateView()"></div>
+
             <div class="filter-item"><label>最大キル</label><input type="number" id="min_max_kills" placeholder="以上" oninput="updateView()"><span>～</span><input type="number" id="max_max_kills" placeholder="以下" oninput="updateView()"></div>
+
             <div class="filter-item"><label>キルレート</label><input type="number" id="min_kill_rate" placeholder="以上" oninput="updateView()" step="0.1"><span>～</span><input type="number" id="max_kill_rate" placeholder="以下" oninput="updateView()" step="0.1"></div>
+
             <div class="filter-item"><label>活動日数</label><input type="number" id="min_active_days" placeholder="以上" oninput="updateView()" title="初登場から最終活動までの日数"><span>～</span><input type="number" id="max_active_days" placeholder="以下" oninput="updateView()"></div>
+
         </div>
+
         <div style="width: 100%; text-align: right; margin-top: 5px;">
+
             <button onclick="clearAdvancedFilters()" style="background-color: #522; border-color: #733;">条件リセット</button>
+
         </div>
+
     </div>
 
+
+
     <div class="table-wrapper">
+
         <div class="table-container">
+
             <table>
+
                 <thead>
+
                     <tr style="user-select: none;">
+
                         <th class="col-left">順位(総合/検索)</th>
+
                         <th class="col-center"></th>
+
                         <th class="col-left" id="th_name" onclick="setSort('name')" style="cursor:pointer;">プレイヤー名</th>
+
                         <th id="th_wins" onclick="setSort('wins')" style="cursor:pointer;">1位</th> 
+
                         <th id="th_matches" onclick="setSort('matches')" style="cursor:pointer;">試合数</th>
+
                         <th>
+
                             <span id="th_total_area" onclick="setSort('total_area')" style="cursor:pointer;">総占領面積</span> 
+
                             / 
+
                             <span id="th_max_area" onclick="setSort('max_area')" style="cursor:pointer; font-size:0.75rem;">最大</span>
+
                         </th>
+
                         <th>
+
                             <span id="th_total_kills" onclick="setSort('total_kills')" style="cursor:pointer;">総キル数</span> 
+
                             / 
+
                             <span id="th_max_kills" onclick="setSort('max_kills')" style="cursor:pointer; font-size:0.75rem;">最大</span>
+
                         </th>
+
                         <th id="th_kill_rate" onclick="setSort('kill_rate')" style="cursor:pointer;">キルレート</th>
+
                         <th class="col-center">
+
                             <span id="th_last_date" onclick="setSort('last_date')" style="cursor:pointer;">最終活動</span> 
+
                             ～ 
+
                             <span id="th_first_date" onclick="setSort('first_date')" style="cursor:pointer;">初登場</span>
+
                         </th>
+
                     </tr>
+
                 </thead>
+
                 <tbody id="rankingBody">
+
                     <tr><td colspan="9" class="col-center" style="padding: 20px;">データをロード中なのです...</td></tr>
+
                 </tbody>
+
             </table>
+
         </div>
+
     </div>
+
+
 
     <div id="loadingIndicator">⏳ 覇王軍データベース計算中...</div>
 
+
+
     <script>
+
         let currentMode = 'personal'; 
+
         let rawRankings = []; 
+
         let rawJsonUpdatedAt = ""; 
 
+
+
         let currentSortKey = 'total_area'; 
+
         let currentSortOrder = 'desc';     
 
+
+
         let filteredDisplayData = []; 
+
         let currentRenderedIndex = 0; 
+
         const BATCH_SIZE = 200;       
 
+
+
         window.onload = () => {
+
             fetch('public_data/all_period/summary.json')
+
                 .then(response => {
+
                     if (!response.ok) throw new Error('Network response was not ok');
+
                     return response.json();
+
                 })
+
                 .then(data => {
+
                     rawJsonUpdatedAt = data.updated_at || "";
+
                     rawRankings = data.rankings || [];
+
                     updateView(); 
+
                 })
+
                 .catch(error => {
+
                     console.error('データの取得に失敗したのです:', error);
+
                     document.getElementById('rankingBody').innerHTML = 
+
                         `<tr><td colspan="9" class="col-center" style="color:#ff4444; padding:20px;">データの読み込みに失敗しました。</td></tr>`;
+
                 });
+
         };
 
+
+
         function toggleAdvancedFilters() {
+
             const panel = document.getElementById('advancedFilters');
+
             const btn = document.getElementById('toggleFiltersBtn');
+
             if (panel.style.display === 'none' || panel.style.display === '') {
+
                 panel.style.display = 'flex';
+
                 btn.innerHTML = '▲ 絞り込み閉じる';
+
                 btn.classList.add('active');
+
             } else {
+
                 panel.style.display = 'none';
+
                 btn.innerHTML = '▼ 詳細絞り込み';
+
                 btn.classList.remove('active');
+
             }
+
         }
+
+
 
         function clearAdvancedFilters() {
+
             const inputs = document.querySelectorAll('#advancedFilters input[type="number"]');
+
             inputs.forEach(input => input.value = '');
+
             updateView();
+
         }
+
+
+
+        // 入力値取得ヘルパー
 
         function getFilterVal(id) {
+
             const val = document.getElementById(id).value;
+
             return val === "" ? null : Number(val);
+
         }
+
+
 
         function setSort(key) {
+
             if (currentSortKey === key) {
+
                 currentSortOrder = currentSortOrder === 'desc' ? 'asc' : 'desc';
+
             } else {
+
                 currentSortKey = key;
+
                 currentSortOrder = (key === 'name') ? 'asc' : 'desc';
+
             }
+
             updateView();
+
         }
+
+
 
         function updateHeaderArrows() {
+
             const nameText = currentMode === 'personal' ? 'プレイヤー名' : 'チーム名';
+
             document.getElementById('th_name').innerHTML = nameText + (currentSortKey === 'name' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+
             document.getElementById('th_wins').innerHTML = '1位' + (currentSortKey === 'wins' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+
             document.getElementById('th_matches').innerHTML = '試合数' + (currentSortKey === 'matches' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+
             const arrow = currentSortOrder === 'desc' ? ' ▼' : ' ▲';
+
             document.getElementById('th_total_area').innerHTML = '総占領面積' + (currentSortKey === 'total_area' ? arrow : '');
+
             document.getElementById('th_max_area').innerHTML = '最大' + (currentSortKey === 'max_area' ? arrow : '');
+
             document.getElementById('th_total_kills').innerHTML = '総キル数' + (currentSortKey === 'total_kills' ? arrow : '');
+
             document.getElementById('th_max_kills').innerHTML = '最大' + (currentSortKey === 'max_kills' ? arrow : '');
+
             document.getElementById('th_kill_rate').innerHTML = 'キルレート' + (currentSortKey === 'kill_rate' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+
             document.getElementById('th_last_date').innerHTML = '最終活動' + (currentSortKey === 'last_date' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+
             document.getElementById('th_first_date').innerHTML = '初登場' + (currentSortKey === 'first_date' ? (currentSortOrder === 'desc' ? ' ▼' : ' ▲') : '');
+
         }
+
+
 
         function parseToDate(dateStr) {
+
             if (!dateStr || dateStr === '-') return null;
+
             if (dateStr.includes('T')) return new Date(dateStr);
+
             const parts = dateStr.split('/');
+
             if (parts.length === 3) {
+
                 const year = parseInt('20' + parts[0], 10);
+
                 const month = parseInt(parts[1], 10) - 1;
+
                 const day = parseInt(parts[2], 10);
+
                 return new Date(year, month, day);
+
             }
+
             return null;
+
         }
 
+
+
         function updateView() {
+
             const loader = document.getElementById('loadingIndicator');
+
             if (loader) loader.style.display = 'block';
 
+
+
             setTimeout(() => {
+
                 const query = document.getElementById('searchInput').value.trim();
+
                 const filterType = document.getElementById('filter_type').value;
+
                 
+
                 let activeData = [];
 
+
+
+                // 💡 【修正点】名前によるマージ処理を完全撤廃！JSONの行を素直に独立データとして扱う
+
                 if (currentMode === 'personal') {
+
                     rawRankings.forEach(row => {
+
                         const type = row[0];
+
                         if (type === 'sp' || type === 'tp') {
+
                             const isSolo = (type === 'sp');
+
                             if (filterType === 'solo' && !isSolo) return;
+
                             if (filterType === 'team' && isSolo) return;
 
+
+
                             activeData.push({
+
                                 name: row[1], 
+
                                 team: isSolo ? '' : row[2], 
+
                                 isSolo: isSolo, 
+
                                 icon: row[3] || '👤',
+
                                 matches: row[4], 
+
                                 total_area: row[5], 
+
                                 total_kills: row[6], 
+
                                 max_area: row[7], 
+
                                 max_kills: row[8],
+
                                 last_date: row[9] || '-', 
+
                                 first_date: row[10] || '-',
+
                                 wins: row[11] || 0
+
                             });
+
                         }
+
                     });
+
                 } else {
+
                     rawRankings.forEach(row => {
+
                         if (row[0] === 't') {
+
                             activeData.push({
+
                                 name: row[1], team: '', isSolo: false, icon: '', 
+
                                 matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
+
                                 last_date: row[9] || '-', first_date: row[10] || '-',
+
                                 wins: row[11] || 0
+
                             });
+
                         }
+
                     });
+
                 }
 
+
+
+                // 🔢 キルレートと活動日数の事前計算
+
                 activeData.forEach(p => {
+
                     p.kill_rate = p.matches > 0 ? (p.total_kills / p.matches) : 0;
+
                     let days = 1;
+
                     if(p.first_date !== '-' && p.last_date !== '-') {
+
                         const d1 = parseToDate(p.first_date);
+
                         const d2 = parseToDate(p.last_date);
+
                         if(d1 && d2) {
+
                             days = Math.max(1, Math.floor((d2 - d1) / (1000 * 60 * 60 * 24)) + 1);
+
                         }
+
                     }
+
                     p.active_days = days;
+
                 });
+
+
+
+                // 🛡️ 【新機能】18項目の詳細フィルター適用
 
                 const f = {
+
                     wins: { min: getFilterVal('min_wins'), max: getFilterVal('max_wins') },
+
                     matches: { min: getFilterVal('min_matches'), max: getFilterVal('max_matches') },
+
                     total_area: { min: getFilterVal('min_total_area'), max: getFilterVal('max_total_area') },
+
                     max_area: { min: getFilterVal('min_max_area'), max: getFilterVal('max_max_area') },
+
                     total_kills: { min: getFilterVal('min_total_kills'), max: getFilterVal('max_total_kills') },
+
                     max_kills: { min: getFilterVal('min_max_kills'), max: getFilterVal('max_max_kills') },
+
                     kill_rate: { min: getFilterVal('min_kill_rate'), max: getFilterVal('max_kill_rate') },
+
                     active_days: { min: getFilterVal('min_active_days'), max: getFilterVal('max_active_days') }
+
                 };
 
+
+
                 activeData = activeData.filter(p => {
+
                     if (f.wins.min !== null && p.wins < f.wins.min) return false;
+
                     if (f.wins.max !== null && p.wins > f.wins.max) return false;
+
                     if (f.matches.min !== null && p.matches < f.matches.min) return false;
+
                     if (f.matches.max !== null && p.matches > f.matches.max) return false;
+
                     if (f.total_area.min !== null && p.total_area < f.total_area.min) return false;
+
                     if (f.total_area.max !== null && p.total_area > f.total_area.max) return false;
+
                     if (f.max_area.min !== null && p.max_area < f.max_area.min) return false;
+
                     if (f.max_area.max !== null && p.max_area > f.max_area.max) return false;
+
                     if (f.total_kills.min !== null && p.total_kills < f.total_kills.min) return false;
+
                     if (f.total_kills.max !== null && p.total_kills > f.total_kills.max) return false;
+
                     if (f.max_kills.min !== null && p.max_kills < f.max_kills.min) return false;
+
                     if (f.max_kills.max !== null && p.max_kills > f.max_kills.max) return false;
+
                     if (f.kill_rate.min !== null && p.kill_rate < f.kill_rate.min) return false;
+
                     if (f.kill_rate.max !== null && p.kill_rate > f.kill_rate.max) return false;
+
                     if (f.active_days.min !== null && p.active_days < f.active_days.min) return false;
+
                     if (f.active_days.max !== null && p.active_days > f.active_days.max) return false;
+
                     return true;
+
                 });
+
+
+
+                // --- 📊 指定キーに基づくデータの並び替えソート ---
 
                 activeData.sort((a, b) => {
+
                     if (currentSortKey === 'last_date' || currentSortKey === 'first_date') {
+
                         const dateA = parseToDate(a[currentSortKey]);
+
                         const dateB = parseToDate(b[currentSortKey]);
+
                         if (!dateA) return currentSortOrder === 'desc' ? 1 : -1;
+
                         if (!dateB) return currentSortOrder === 'desc' ? -1 : 1;
+
                         return currentSortOrder === 'desc' ? dateB.getTime() - dateA.getTime() : dateA.getTime() - dateB.getTime();
+
                     }
+
+
 
                     let valA = a[currentSortKey];
+
                     let valB = b[currentSortKey];
 
+
+
                     if (typeof valA === 'string') {
+
                         return currentSortOrder === 'desc' ? valB.localeCompare(valA) : valA.localeCompare(valB);
+
                     }
+
                     return currentSortOrder === 'desc' ? valB - valA : valA - valB;
+
                 });
+
+
+
+                // 🏆 ソート後に順位付け
 
                 activeData.forEach((item, i) => { item.rank_all = i + 1; });
 
+
+
+                // 🛡️ 順位（Rank）フィルターの適用（ソート＆順位確定後に間引き）
+
                 const minRank = getFilterVal('min_rank');
+
                 const maxRank = getFilterVal('max_rank');
+
                 if (minRank !== null || maxRank !== null) {
+
                     activeData = activeData.filter(p => {
+
                         if (minRank !== null && p.rank_all < minRank) return false;
+
                         if (maxRank !== null && p.rank_all > maxRank) return false;
+
                         return true;
+
                     });
+
                 }
 
+
+
                 updateHeaderArrows();
+
                 
+
+                // 🔍 検索キーワードフィルタリング
+
                 filteredDisplayData = activeData.filter(p => {
+
                     if (query) {
+
                         const matchName = p.name.includes(query);
+
                         const matchTeam = (!p.isSolo && p.team && p.team.includes(query)) || false;
+
                         if (!matchName && !matchTeam) return false; 
+
                     }
+
                     return true;
+
                 });
 
+
+
                 const tbody = document.getElementById('rankingBody');
+
                 tbody.innerHTML = '';
+
                 currentRenderedIndex = 0;
+
                 
+
                 renderNextBatch();
 
+
+
                 if (loader) loader.style.display = 'none';
+
             }, 20);
+
         }
 
+
+
+        // 🎬 200件ずつドキュメントの破片を作って高速に追記するシステム
+
         function renderNextBatch() {
+
             const tbody = document.getElementById('rankingBody');
+
             
+
             if (filteredDisplayData.length === 0 && currentRenderedIndex === 0) {
+
                 tbody.innerHTML = `<tr><td colspan="9" class="col-center" style="padding:20px; color:#888;">該当するデータが見つからないのです。</td></tr>`;
+
                 return;
+
             }
 
+
+
             const nextMaxIndex = Math.min(currentRenderedIndex + BATCH_SIZE, filteredDisplayData.length);
+
             const fragment = document.createDocumentFragment();
+
             const query = document.getElementById('searchInput').value.trim();
 
+
+
             for (let i = currentRenderedIndex; i < nextMaxIndex; i++) {
+
                 const p = filteredDisplayData[i];
+
                 const searchRank = i + 1;
 
-                const killRate = p.kill_rate.toFixed(2);
-                
-                // 💡【修正点①】モードに合わせて飛ぶファイルを完全に切り替え！
-                const analysisUrl = currentMode === 'personal' 
-                    ? `personal.html?name=${encodeURIComponent(p.name)}` 
-                    : `team.html?name=${encodeURIComponent(p.name)}`;
 
-                // 💡【修正点②】個人モードの時の[チーム名]も、チーム分析ページへのリンクにする仕様なのです！
-                const teamDisplay = (currentMode === 'personal' && !p.isSolo) 
-                    ? `[<a href="team.html?name=${encodeURIComponent(p.team)}" class="team-link">${p.team}</a>] ` 
-                    : "";
+
+                const killRate = p.kill_rate.toFixed(2);
+
+                const analysisUrl = `analysis.html?name=${encodeURIComponent(p.name)}&mode=${currentMode}`;
+
+                const teamDisplay = (currentMode === 'personal' && !p.isSolo) ? `[${p.team}]` : "";
+
+
 
                 const displayRankAll = `#${p.rank_all}`;
+
                 const displaySearchRank = query ? `(#${searchRank})` : '';
 
+
+
                 const iconContent = currentMode === 'personal' ? `
+
                     <div class="icon-wrapper">
+
                         ${p.icon}
+
                         <div class="tooltip">よく使うアイコン</div>
+
                     </div>` : '';
 
+
+
                 const dispLast = (p.last_date && p.last_date.includes('T')) ? p.last_date.substring(2,10).replace(/-/g, '/') : p.last_date;
+
                 const dispFirst = (p.first_date && p.first_date.includes('T')) ? p.first_date.substring(2,10).replace(/-/g, '/') : p.first_date;
+
+
 
                 const formattedMaxKills = p.max_kills < 10 ? '0' + p.max_kills : p.max_kills.toLocaleString();
 
+
+
                 const tr = document.createElement('tr');
+
                 tr.innerHTML = `
+
                     <td class="col-left">
+
                         <span class="badge-rank">${displayRankAll}</span>
+
                         <span class="badge-rank" style="color:var(--deep-blue);">${displaySearchRank}</span>
+
                     </td>
+
                     <td class="col-center">${iconContent}</td>
+
                     <td class="col-left player-name-format">
+
                         ${teamDisplay}<a href="${analysisUrl}">${p.name}</a>
+
                     </td>
+
                     <td>${p.wins.toLocaleString()}</td>
+
                     <td>${p.matches.toLocaleString()}</td>
+
                     <td>${p.total_area.toFixed(2)}% <span style="font-size:0.75rem; color:#777;">[${p.max_area.toFixed(2)}%]</span></td>
+
                     <td>${p.total_kills.toLocaleString()} <span style="font-size:0.75rem; color:#777;">[${formattedMaxKills}]</span></td>
+
                     <td>${killRate}</td>
+
                     <td class="col-center" style="font-size:0.75rem; color:#888;">
+
                         ${dispLast} ～ ${dispFirst}
+
                     </td>
+
                 `;
+
                 fragment.appendChild(tr);
+
             }
+
+
 
             tbody.appendChild(fragment);
+
             currentRenderedIndex = nextMaxIndex;
+
         }
+
+
 
         window.addEventListener('scroll', () => {
+
             if ((window.innerHeight + window.scrollY) >= document.documentElement.scrollHeight - 150) {
+
                 if (currentRenderedIndex < filteredDisplayData.length) {
+
                     renderNextBatch();
+
                 }
+
             }
+
         });
 
+
+
         function switchMode(mode) {
+
             currentMode = mode;
+
             document.getElementById('tab_personal').classList.remove('active');
+
             document.getElementById('tab_team').classList.remove('active');
+
             document.getElementById('tab_' + mode).classList.add('active');
+
             
+
             document.getElementById('filter_type_group').style.display = (mode === 'personal') ? 'flex' : 'none';
+
             
+
             currentSortKey = 'total_area';
+
             currentSortOrder = 'desc';
 
+
+
             updateView();
+
         }
+
     </script>
+
 </body>
-</html>
+
+</html> 
+
