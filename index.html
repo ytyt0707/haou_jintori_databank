@@ -126,12 +126,14 @@
         tr:hover { background-color: var(--highlight); }
 
         .player-name-format { color: #aaa; text-decoration: none; }
-        .player-name-format a { color: #4fa8ff; text-decoration: none; }
-        .player-name-format a:hover { text-decoration: underline; color: #fff; }
+        /* ▼ プレイヤー名の青色をやめて基本色(#e0e0e0)にする */
+        .player-name-format a { color: #e0e0e0; text-decoration: none; }
+        /* ▼ マウスを乗せた時だけ少し明るく(白く)して下線を引く */
+        .player-name-format a:hover { text-decoration: underline; color: #ffffff; }
         
         /* 🏴 チーム名リンク専用の微調整 */
-        .team-link { color: #ffbd4f !important; margin-right: 4px; }
-
+        /* ▼ チーム名のオレンジ色をやめて基本色(#e0e0e0)にする */
+        .team-link { color: #e0e0e0 !important; margin-right: 4px; }
         .badge-rank { color: #888; font-size: 0.75rem; display: inline-block; width: 45px; }
 
         .icon-wrapper { position: relative; display: inline-block; cursor: pointer; color: #aaa;}
