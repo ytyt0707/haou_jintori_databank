@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>チーム分析 - 陣取りデータバンク</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        /* 🟩 デザインは個人ページ/ランキングページと完全統一 */
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #121214; color: #e0e0e6; margin: 0; padding: 20px; }
+        .header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #292930; padding-bottom: 15px; margin-bottom: 25px; }
+        .nav-links a { color: #4fa8ff; text-decoration: none; margin-left: 20px; font-weight: bold; }
+        .nav-links a:hover { text-underline-position: under; text-decoration: underline; }
+        h1 { margin: 0; font-size: 24px; color: #fff; }
+        h2 { font-size: 18px; border-left: 4px solid #ffbd4f; padding-left: 10px; margin-top: 30px; color: #fff; }
+        
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; background: #1e1e24; border-radius: 8px; overflow: hidden; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #292930; }
+        th { background-color: #25252e; color: #ffbd4f; }
+        tr:hover { background-color: #2a2a35; }
+        
+        .anal-link { color: #4fa8ff; text-decoration: none; font-weight: bold; }
+        .anal-link:hover { text-decoration: underline; }
+
+        .rank-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-top: 10px; }
+        .rank-box { background: #1e1e24; padding: 15px; text-align: center; border-radius: 6px; border: 1px solid #292930; }
+        .rank-box .num { font-size: 20px; font-weight: bold; color: #ffbd4f; }
+
+        .chart-container { background: #1e1e24; padding: 20px; border-radius: 8px; margin-top: 15px; }
+        .controls { margin-bottom: 15px; }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1 id="page-title">チーム分析: 読み込み中...</h1>
+        <div class="nav-links">
+            <a href="ranking.html">🏆 ランキング</a>
+            <a href="personal.html">👤 個人分析一覧</a>
+        </div>
+    </div>
+
+    <h2>📊 チーム基本統計</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>総出撃数</th>
+                <th>平均チームスコア</th>
+                <th>平均チームキル</th>
+                <th>平均参戦人数</th>
+                <th>最高順位</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td id="stat-total-matches">-</td>
+                <td id="stat-avg-score">-</td>
+                <td id="stat-avg-kills">-</td>
+                <td id="stat-avg-members">-</td>
+                <td id="stat-best-rank">-</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>🏅 チーム順位別獲得回数 (1位〜5位)</h2>
+    <div class="rank-grid" id="rank-distribution">
+        </div>
+
+    <h2>🔥 チーム内貢献度ランキング (累計スコア順 TOP 10)</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>順位</th>
+                <th>プレイヤー名 (リンク)</th>
+                <th>チーム内累計スコア</th>
+                <th>チーム内累計キル</th>
+            </tr>
+        </thead>
+        <tbody id="member-ranking-body">
+            <tr><td colspan="4" style="text-align:center;">データ収集中...</td></tr>
+        </tbody>
+    </table>
+
+    <h2>📈 チーム戦績の推移</h2>
+    <div class="chart-container">
+        <div class="controls">
+            <label><input type="checkbox" class="metric-chk" value="ts" checked> 総スコア</label>
+            <label style="margin-left:15px;"><input type="checkbox" class="metric-chk" value="tk"> 総キル数</label>
+            <label style="margin-left:15px;"><input type="checkbox" class="metric-chk" value="rk"> チーム順位(逆軸)</label>
+        </div>
+        <canvas id="teamChart" style="max-height: 350px;"></canvas>
+    </div>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const teamName = params.get('name') || "🇯🇵ONJ"; // テスト用のデフォルト
+
+        let rawHistory = [];
+        let myChart = null;
+
+        function getSafeFilename(name) {
+            return name.replace(/[\\/:*?"<>|]/g, '_');
+        }
+
+        async function loadTeamData() {
+            try {
+                const safeName = getSafeFilename(teamName);
+                const response = await fetch(`analysis_data/team_analysis/${safeName}.json`);
+                if (!response.ok) throw new Error("チームファイルが見つからないのです");
+                const data = await response.json();
+                
+                document.getElementById('page-title').innerText = `🏴 チーム分析: ${data.name}`;
+                rawHistory = data.h || [];
+
+                // 各種描画
+                calculateStats(rawHistory);
+                renderRankDistribution(rawHistory);
+                aggregateMemberRanking(rawHistory);
+                updateChart();
+
+            } catch (err) {
+                document.getElementById('page-title').innerText = `❌ データが見つかりませんでした: ${teamName}`;
+                console.error(err);
+            }
+        }
+
+        function calculateStats(history) {
+            const total = history.length;
+            if(total === 0) return;
+
+            let scoreSum = 0, killSum = 0, memberSum = 0, bestRank = 5;
+            history.forEach(item => {
+                scoreSum += parseFloat(item.ts || 0);
+                killSum += parseInt(item.tk || 0);
+                memberSum += parseInt(item.mc || 0);
+                const r = parseInt(item.rk || 5);
+                if(r < bestRank) bestRank = r;
+            });
+
+            document.getElementById('stat-total-matches').innerText = `${total} 回`;
+            document.getElementById('stat-avg-score').innerText = (scoreSum / total).toFixed(2);
+            document.getElementById('stat-avg-kills').innerText = (killSum / total).toFixed(1);
+            document.getElementById('stat-avg-members').innerText = `${(memberSum / total).toFixed(1)} 人`;
+            document.getElementById('stat-best-rank').innerText = `${bestRank} 位`;
+        }
+
+        function renderRankDistribution(history) {
+            const counts = Array(6).fill(0); // 1~5位用
+            history.forEach(item => {
+                const r = parseInt(item.rk);
+                if(r >= 1 && r <= 5) counts[r]++;
+            });
+
+            const container = document.getElementById('rank-distribution');
+            container.innerHTML = "";
+            for(let i=1; i<=5; i++) {
+                container.innerHTML += `
+                    <div class="rank-box">
+                        <div>${i}位</div>
+                        <div class="num">${counts[i]}回</div>
+                    </div>
+                `;
+            }
+        }
+
+        // 🌟 チーム内の全試合データをスキャンしてプレイヤー別に貢献度を集計！
+        function aggregateMemberRanking(history) {
+            const playersMap = {};
+
+            history.forEach(match => {
+                const members = match.m || [];
+                members.forEach(p => {
+                    if (!playersMap[p.name]) {
+                        playersMap[p.name] = { score: 0, kills: 0 };
+                    }
+                    playersMap[p.name].score += parseFloat(p.sc || 0);
+                    playersMap[p.name].kills += parseInt(p.k || 0);
+                });
+            });
+
+            // スコアの高い順にソートしてTOP 10を切り出し
+            const sortedPlayers = Object.keys(playersMap).map(name => ({
+                name: name,
+                score: playersMap[name].score,
+                kills: playersMap[name].kills
+            })).sort((a, b) => b.score - a.score).slice(0, 10);
+
+            const tbody = document.getElementById('member-ranking-body');
+            tbody.innerHTML = "";
+
+            if(sortedPlayers.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="4" style="text-align:center;">メンバーデータがありません</td></tr>`;
+                return;
+            }
+
+            sortedPlayers.forEach((p, index) => {
+                tbody.innerHTML += `
+                    <tr>
+                        <td><strong>${index + 1}</strong></td>
+                        <td><a class="anal-link" href="personal.html?name=${encodeURIComponent(p.name)}">👤 ${p.name}</a></td>
+                        <td>${p.score.toFixed(2)}</td>
+                        <td>${p.kills}</td>
+                    </tr>
+                `;
+            });
+        }
+
+        function updateChart() {
+            // 時系列順にソート
+            const filtered = [...rawHistory].sort((a,b) => a.id - b.id);
+
+            const labels = filtered.map(item => `R-${item.id}`);
+            const datasets = [];
+
+            const chks = document.querySelectorAll('.metric-chk:checked');
+            chks.forEach(chk => {
+                const val = chk.value;
+                if(val === 'ts') {
+                    datasets.push({ label: 'チーム総スコア', data: filtered.map(item => parseFloat(item.ts)), borderColor: '#ffbd4f', backgroundColor: 'transparent', yAxisID: 'y' });
+                } else if(val === 'tk') {
+                    datasets.push({ label: 'チーム総キル数', data: filtered.map(item => item.tk), borderColor: '#ff4f79', backgroundColor: 'transparent', yAxisID: 'y1' });
+                } else if(val === 'rk') {
+                    datasets.push({ label: 'チーム順位', data: filtered.map(item => item.rk), borderColor: '#4fa8ff', backgroundColor: 'transparent', yAxisID: 'yRank' });
+                }
+            });
+
+            if(myChart) myChart.destroy();
+
+            const ctx = document.getElementById('teamChart').getContext('2d');
+            myChart = new Chart(ctx, {
+                type: 'line',
+                data: { labels, datasets },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: { type: 'linear', display: true, position: 'left', grid: { color: '#292930' } },
+                        y1: { type: 'linear', display: true, position: 'right', grid: { drawOnChartArea: false } },
+                        yRank: { type: 'linear', display: true, position: 'right', reverse: true, min: 1, max: 5, ticks: { stepSize: 1 }, grid: { drawOnChartArea: false } }
+                    }
+                }
+            });
+        }
+
+        document.querySelectorAll('.metric-chk').forEach(chk => chk.addEventListener('change', updateChart));
+
+        window.onload = loadTeamData;
+    </script>
+</body>
+</html>
