@@ -1,0 +1,57 @@
+{
+  "round_id": 49901,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-07T07:30:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チ甘] チームで支え合い",
+      "team": "チ甘",
+      "emoji": "😀",
+      "score": "39.79",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "24.38",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チ甘] 名無しpm",
+      "team": "チ甘",
+      "emoji": "😄",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チ甘",
+      "score": "39.92",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "24.38",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klESxCAIQ4NZ7n/lHRQktDvLR0WeCTgW6PCI3s5sQ3fogaw50JmoqnjXYKW/xU4aXr+G0bqm06rm2VtLMwcMNku6A8x+tj6HzKaaJFtugUVNKH5ADy3dUx+0nTxpnKA7zJ4zb/X5BB19Uy1UvUVJ+ks7cNBh/aLxnh2C91QGfIoKIw+Va0261tqN03tCXHpee1DCttb6L1QeNKyPOxAvJFGwxIJILrMca/MJ/9O8b/k+1y95qwoW",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#bcd411",
+      "5": "#bcd411"
+    },
+    "sz": 30
+  }
+}

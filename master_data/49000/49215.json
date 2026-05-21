@@ -1,0 +1,57 @@
+{
+  "round_id": 49215,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-05T18:25:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] あう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "26.02",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[詐欺4] 羽山",
+      "team": "詐欺4",
+      "emoji": "👻",
+      "score": "0.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[詐欺4] ニャル子",
+      "team": "詐欺4",
+      "emoji": "👻",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "26.02",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "詐欺4",
+      "score": "1.06",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkgEOwzAIA+12/P/LE4YQSDdNGqqqiIsNJAEAXACshycVV0RnZguCohMWHlL5k2bGYXx5aQCk+WeEeGoTghnGRkOYYqObC0u7IWBw76zstMMgZAzV2Su2ubB63sr79rVGT9yNRetcfOekd0il94knVcuhXvPuwquqcxIketPVlPBpfdDoa1jXM8iRJ6za60QeOO/5Q16p6OovqvM4lMrF7yDV6RfalPs5l0ejeOJNS9AWv6lf74g3XpUFgA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d130e8",
+      "4": "#d130e8",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

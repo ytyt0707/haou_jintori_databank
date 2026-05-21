@@ -1,0 +1,48 @@
+{
+  "round_id": 41271,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-17T09:02:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] まいめろ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐰",
+      "score": "93.57",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸宣教師] 肉体派ザビエル",
+      "team": "🇪🇸宣教師",
+      "emoji": "😇",
+      "score": "0.75",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "93.57",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸宣教師",
+      "score": "0.75",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkzkKACAMBHdd//9mEbWxGC01TYRhzAEpGSHNxwuJe2GaghMoAX9R/gML/AzHZkwj+EAB2yTbrlCYaULugVZ2oalbtI5LPXZJaiNWCjw=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e830a9"
+    },
+    "sz": 30
+  }
+}

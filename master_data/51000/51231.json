@@ -1,0 +1,57 @@
+{
+  "round_id": 51231,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-10T07:26:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新鯖♡] チームで支え合い",
+      "team": "新鯖♡",
+      "emoji": "😀",
+      "score": "34.04",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[新鯖♡] 10歳女子",
+      "team": "新鯖♡",
+      "emoji": "🦁",
+      "score": "20.51",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[帰宅部] みかん",
+      "team": "帰宅部",
+      "emoji": "🍊",
+      "score": "2.42",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新鯖♡",
+      "score": "54.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "帰宅部",
+      "score": "2.42",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklESxCAIQ1Hh/lfeJgHU7uzM8tEKjwClmtk8zNKGrCGTClpT8IzW204KWaus0RgDUfQ9aSlJ51zTLGInDHdHZ0YW6YYRIQq8YAi4K0PUhg1zd1HgppZlIaH2RZWYdLl7zuWxJwR1MBSOtppRgM9mrS54Ep0hF/1mkv/WYsiimPllN33zg3KVlzinQnXu9qrNL66+wkfxg7JkJuJbah0MZT/hdFpbw1yU/wSRorwB2wttoynwdkTls0/g+rWpNVyelHHTDf6glfyU+wBPSAmW",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#604de5",
+      "4": "#30e892",
+      "5": "#30e892"
+    },
+    "sz": 30
+  }
+}

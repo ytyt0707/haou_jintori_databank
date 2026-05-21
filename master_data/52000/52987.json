@@ -1,0 +1,86 @@
+{
+  "round_id": 52987,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-14T06:21:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "嬋娟",
+      "team": "",
+      "emoji": "✝️",
+      "score": "26.36",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 暴君/ハバネロゼ",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "14.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[暑い] 名無しhV",
+      "team": "暑い",
+      "emoji": "😀",
+      "score": "4.54",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] シルエット",
+      "team": "🇯🇵ONJ",
+      "emoji": "👤",
+      "score": "0.11",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "14.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "暑い",
+      "score": "4.54",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.11",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵山本組",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kQsOxCAIBV/ZPLn/jTf8hLoraVriOID2eSpIERF6iOciyUAKRDUoIgYVmCgfMhnAdAEQUXTQco3u2K6wZgKpyTdlUXM1cVHOvge1QoIH9ri7O1fiKGmt9bd6ANXVWZ0gsEJVudrKDGZlrHVwVxNinbipZSd+U6yFWbyp/pF7KN9npes09L9VM0XbhTF4u6aZ6WHay1VrnLC39GXY2ht3ZXdDmu+6Rz/SBJ4X/QGT/of1j240pr5SXOa9C0G+TToJmg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "5": "#4d81e5",
+      "6": "#d4c811",
+      "7": "#8b4de5"
+    },
+    "sz": 30
+  }
+}

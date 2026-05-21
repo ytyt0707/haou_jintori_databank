@@ -1,0 +1,71 @@
+{
+  "round_id": 38471,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-11T21:32:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ぷん] 微熱",
+      "team": "ぷん",
+      "emoji": "🤒",
+      "score": "26.69",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[詐欺師] 上がる株教えます",
+      "team": "詐欺師",
+      "emoji": "💹",
+      "score": "21.41",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "たぬきち",
+      "team": "",
+      "emoji": "😍",
+      "score": "0.39",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 糞の神",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ぷん",
+      "score": "26.69",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "詐欺師",
+      "score": "21.41",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVktsOwzAIQ51U8P+fPHExkLbaNB4aNSeODe3eo1YWWIMBLxQbsDMIqotCW23XSlVNq5rvseztB9SoBh0H3NilavrQFo9Yvh+Ptcw5DDNz0eXBy9uxCHE01dm2eB24aLCbuFLdqerK4GZOCmRHbsFYpCIS/UaAxINW8ApVN/spBq9PMbVP8UEbh+8JO9cbLd+XyDWwZD2McDgmMUZF/zHFn/SchjsDuOjMK7kqcF3fKND/NEUidl1/gG6ZNv+tH8wQCec=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e86430",
+      "5": "#47e830",
+      "6": "#30e881"
+    },
+    "sz": 30
+  }
+}

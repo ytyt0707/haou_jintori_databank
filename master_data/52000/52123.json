@@ -1,0 +1,57 @@
+{
+  "round_id": 52123,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-12T07:39:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵陽キャ] 梨",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🍐",
+      "score": "16.90",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[てすと] プレイヤー",
+      "team": "てすと",
+      "emoji": "🦄",
+      "score": "7.42",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤓",
+      "score": "3.80",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵陽キャ",
+      "score": "20.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "てすと",
+      "score": "7.42",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtklsOBSEIQ+tA97/lm4I4g/P4usbE6KFUEeDYB9oQjRjgOBrRRhA5b2zSh/M8ktSdrxwgSXd/jGBQBeyYLl2NhceIwDrPtegYE1fWwCFwYEHknUi5w6ZzSbU901vgIXE6b1RcbMHSGkkLtV9gpTYrepVOazNh3jKndVJXRcP4zK5by1Jsp/mijQLz2oum1L29qJ6Uic2F0W1VyzAN91bq/EdRRJfoJ2bJ+2JwvLRJBr41UdAvWP3R/f68+wE9KgTW",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#514de5",
+      "4": "#3081e8",
+      "5": "#514de5"
+    },
+    "sz": 30
+  }
+}

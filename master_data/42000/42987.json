@@ -1,0 +1,48 @@
+{
+  "round_id": 42987,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-21T05:50:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤍",
+      "score": "58.83",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "16.02",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "58.83",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "16.02",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFk0ESgCAMAwvN/9/sJC0gIB682AszLklLwFJYllVHmQEmmJgI0AZUsDr1KICgLtTdjTw04rVpBbpYpmySfdOWi5C6A1V9b7BjbeBxykw1eVhQO0Fad77TCCS1s5BjKZSWxo6H9drVHZaHiiQX8WCALxOPPADcIhwWugha2CNud/EM3fkaTtKgdjCOEX6kpyPxFb6O9Z3am3P+WPsiUXy+AFo1CRs=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30d7e8",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

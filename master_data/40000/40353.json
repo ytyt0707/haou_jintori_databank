@@ -1,0 +1,51 @@
+{
+  "round_id": 40353,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-15T07:25:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[たかし] たかし",
+      "team": "たかし",
+      "emoji": "🍘",
+      "score": "25.30",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "3.52",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "エル・カンターレ",
+      "team": "",
+      "emoji": "🤡",
+      "score": "0.71",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "たかし",
+      "score": "25.30",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkFsSQyEIQwPS/W+5EyIW9U5bP3wdE4LA0/A5MBqty7U2Bqxb9zHGcP9Guy2kpajGJk3nIlwP2tEPuiuBTFr6BasCu5hwMVSFbPGSFmb/pVVeowXf55yfI7WsicttNqjHxGZ2Qv4ZgIgIs5KiksPxodbrZDUvLa2fqMt5JVZGzae2M6hwRDC15DuvzEWzen/CjtSygrGlF4ceLetxBBdPLUtPcXfe9lfXnV6hOpT1dtMP1PbzP/s35fcEEQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3081e8",
+      "4": "#604de5",
+      "5": "#994de5"
+    },
+    "sz": 30
+  }
+}

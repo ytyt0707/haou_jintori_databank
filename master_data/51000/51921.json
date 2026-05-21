@@ -1,0 +1,48 @@
+{
+  "round_id": 51921,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-11T20:44:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵楚] 泉サキ",
+      "team": "🇯🇵楚",
+      "emoji": "🦦",
+      "score": "8.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "1.09",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵楚",
+      "score": "8.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソ連",
+      "score": "1.09",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1z9EOwBAMheFTx/s/8zKmNKUk29wY3/4mALNkWAbqgZ1nSvW5Ngedsy6hkF7xcNlce64+xRCr5qyf0B/0ymDLq2Zb3rFmcNYJgJ1q6IdDCmemmEsriwlx+0J3aegpVBy8d/HcL64vhaYBZQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6ae830",
+      "4": "#30e8e8"
+    },
+    "sz": 30
+  }
+}

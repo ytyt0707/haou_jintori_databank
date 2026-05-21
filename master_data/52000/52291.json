@@ -1,0 +1,63 @@
+{
+  "round_id": 52291,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-12T16:44:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "22.99",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[自殺隊] 精神✴︎破壊統失",
+      "team": "自殺隊",
+      "emoji": "✨",
+      "score": "1.01",
+      "kills": 14
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "0.10",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "22.99",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "自殺隊",
+      "score": "1.01",
+      "kills": 14
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵山本組",
+      "score": "0.10",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVklESgCAIREno/lduliWSxP7zA4HH7qijyP+Xbq+gogrqoZlyqowLNvQBVbAvHA3HNGj4hhrNemqWRhzIEolZ8oaK3uLwLtqn6KSgvKPTGD4fEbOd1OkHJPKXnizjVUOHbYLzcVZnDrMfsWoLejljsvLUHsxGwUk9GWOkevcxquK7ugBxBQKU",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#e83064",
+      "5": "#30e8e8"
+    },
+    "sz": 30
+  }
+}

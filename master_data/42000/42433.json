@@ -1,0 +1,41 @@
+{
+  "round_id": 42433,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-19T23:52:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[金] 完顔阿骨打",
+      "team": "金",
+      "emoji": "😀",
+      "score": "85.42",
+      "kills": 18
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無し20",
+      "team": "",
+      "emoji": "🐶",
+      "score": "0.29",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "金",
+      "score": "85.42",
+      "kills": 18
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVU8sOgCAMK5n//81mzO4BBA/Eg73QtaxhMwKAiMAgQUNQ0dFl3nKVRKMMFstqPM/cMS3XfZosFO7uVWQtoEswdTZt4KknhLOBYm2R6IyvcqGSba9OtcEP3c8WvQhuaXXTV2gKXnhz6fPsze356XAD/OkJMg==",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#4d73e5",
+      "4": "#994de5"
+    },
+    "sz": 30
+  }
+}

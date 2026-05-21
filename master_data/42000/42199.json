@@ -1,0 +1,98 @@
+{
+  "round_id": 42199,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-04-19T11:13:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "不殺の誓い",
+      "team": "",
+      "emoji": "🕊️",
+      "score": "25.63",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チ甘] チームは甘え",
+      "team": "チ甘",
+      "emoji": "😈",
+      "score": "20.50",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 仕舞っちゃう",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐶",
+      "score": "9.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無し7r",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "5.45",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] も",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "2.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[金] チギュアってて草",
+      "team": "金",
+      "emoji": "😅",
+      "score": "1.46",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "名無しy0",
+      "team": "",
+      "emoji": "👽",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チ甘",
+      "score": "20.50",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "17.06",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "金",
+      "score": "1.46",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkUEOBCEIBFtHm/D/D29QQHeW43LRpKiWYYB3tSy0NwOQtFUUraG1bk21C6D3Au1ko9qtYUZFbwNUVbsILjon5lzAodHDV4wRM612WmTb6ZRd6DioiAhJVWVXpuyjXdRYRF9UzeV+Nz7Zs0VU6YXjpnwoydiA0zVzyDXN7OOWciYfOpUESRs0cCzETnt479dpwp3h6sS2k64fZfK06PGq3TbGWHrC53nyHpfjVhTRNkbhftHf6OMW8uVefX+5fgCmRQwx",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#47e830",
+      "5": "#30e8d7",
+      "6": "#9ca3af",
+      "7": "#9ca3af",
+      "9": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

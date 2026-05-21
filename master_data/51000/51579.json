@@ -1,0 +1,47 @@
+{
+  "round_id": 51579,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-11T02:14:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しAI",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "7.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[テスト] テスト",
+      "team": "テスト",
+      "emoji": "💣",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "7.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "テスト",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkFESxCAIQwPD/c+8AxgEO3W6fhTDI9EKQFXV4mNRUqgLALCmfSqXu4JamJaT1Cup+VqAVW3T7uGYU3TjGCIdzRKkdVYR3wSN6NFeYtNwHxFJ82JPN6nXSflWeyLTDebvULcij8dJIU/KKUDE3VvPXVC2WmS2BuVUVbniGxVflXNuPtA3c1gv0ZgHnz98u1VY386FHMn//9PpaFoAwQ9/rgM5",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 40653,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-15T23:38:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[クイズ] 100-1=何色",
+      "team": "クイズ",
+      "emoji": "💡",
+      "score": "30.93",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[謎] 謎",
+      "team": "謎",
+      "emoji": "😂",
+      "score": "2.18",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "クイズ",
+      "score": "30.93",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "謎",
+      "score": "2.18",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkUESxCAIBGdg///mlGCMEDDLKVZnsBGIiKCtjWquEMpQjd6dGzpxRR+rimJ4mXdFHQrwgsOqj+oNh1eZ9fCJlkztNRphXVQg71uNkpza8QdfAUE336W37Xg6jBQpbBEmMm0WJ8l1yB8D9hTAmeIQt9Zdb4cNJfkLlayPnU2paWzzfEyU7vrveAGolQQ6",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8e8",
+      "4": "#36e830"
+    },
+    "sz": 30
+  }
+}

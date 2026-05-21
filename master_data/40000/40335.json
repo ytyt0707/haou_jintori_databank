@@ -1,0 +1,81 @@
+{
+  "round_id": 40335,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-15T06:27:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵歌手] 泉谷しげる",
+      "team": "🇯🇵歌手",
+      "emoji": "🥶",
+      "score": "18.26",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "エル・カンターレ",
+      "team": "",
+      "emoji": "😃",
+      "score": "15.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] ムーミン",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥱",
+      "score": "5.60",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] ぴ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.57",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 梅",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵歌手",
+      "score": "18.26",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "5.60",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "3.67",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kNESwyAIBA8V8v9/3FE8wNiWp0yWPRBgl2TBpLVmzYwQEz62WozVDrp1QguauSJBmVygYVJvuXfqmf8luXfnZvdcEIqYpKtegDBakm6oEKGdxyBU7YmFx0iqPeSbzliPbnJTJW2xMJDJmM/toa3RQQGMMU4aUJ2OwXVx5E5zHLBOdVjVpGvoS46pCUu407XHDi6jqR5mLBZqETOZ9IR77R3MM0SP34PqayyfrDrv98N1svE6ZPnz9/MDUNAHvw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e8ba30",
+      "5": "#e83053",
+      "6": "#9ca3af",
+      "7": "#8B4513"
+    },
+    "sz": 30
+  }
+}

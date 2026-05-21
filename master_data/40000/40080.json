@@ -1,0 +1,51 @@
+{
+  "round_id": 40080,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-14T03:21:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇵🇭歌手] 宇多田ヒカル",
+      "team": "🇵🇭歌手",
+      "emoji": "🥺",
+      "score": "33.66",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇵🇭歌手] 氷川きよし",
+      "team": "🇵🇭歌手",
+      "emoji": "🎙️",
+      "score": "14.26",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇵🇭歌手] 泉谷しげる",
+      "team": "🇵🇭歌手",
+      "emoji": "🥶",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇵🇭歌手",
+      "score": "48.03",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kkkSwCAIBIcE/v/lFIsK5XaLJ7UZllGgLrZV7+Ik4pDBzD1C+gpaEqxgl6LTlnmtXVLPohlWdf+gx8LY05dPTes0bSY1ejgN2LmKh5kX6i5lcZZa5tJXpcov2vQMWesDKCSSZx7IYo2SWTZrtTbRRJs12le0lrThmzPHicb2TAHxH9oqbRKUF8ox0Ve+KnuJ0wcotgdI",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#e87530",
+      "5": "#e87530"
+    },
+    "sz": 30
+  }
+}

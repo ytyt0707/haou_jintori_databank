@@ -1,0 +1,81 @@
+{
+  "round_id": 50877,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-09T12:18:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ローマ] も",
+      "team": "ローマ",
+      "emoji": "😍",
+      "score": "54.85",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "🤔",
+      "score": "20.19",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 大日本帝国陸軍",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "5.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] わあ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐱",
+      "score": "1.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "💣",
+      "score": "0.50",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ローマ",
+      "score": "75.04",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "6.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFktsSxCAIQ0mR+v9/vAOE2p0Vlxcvx0BERQSwLiA4UQDSSQ3/qJy0gh5HZtGmMmmDoYCoqm2LqyrgdBtOQ2u2OaEMs52+qCbOpZmNqOQ1ueWZOS3qNblFbzmMEC+6jKvZ+KWvS43r8hW1L+DTqNVSutODtuw+jchmT0bhfEKpp5h38KJuICPsUbuaQ1jvGDxuFMd3dGbvmdfWB8vcvHlVrcT2TYnLNOkM8eP40dJ6DA299QNXjQ4z",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#9ca3af",
+      "5": "#4d56e5",
+      "6": "#3081e8",
+      "7": "#3081e8"
+    },
+    "sz": 30
+  }
+}

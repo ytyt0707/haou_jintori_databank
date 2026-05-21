@@ -1,0 +1,86 @@
+{
+  "round_id": 51657,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-11T06:27:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[テスト] 名無しUJ",
+      "team": "テスト",
+      "emoji": "🤖",
+      "score": "14.60",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ミサル] 魚雷",
+      "team": "🇩🇪ミサル",
+      "emoji": "🐟",
+      "score": "11.86",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤓",
+      "score": "9.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[テスト] テスト",
+      "team": "テスト",
+      "emoji": "💣",
+      "score": "0.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] ぶりぶり",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "テスト",
+      "score": "14.80",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ミサル",
+      "score": "11.86",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵陽キャ",
+      "score": "9.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFktsOxCAIRAfC6v//8YY71maXhyqcGURTZl4jiIhEAIHFBb0c38up9ZWSJ/V64u5Miyg9STHNjUPWXp08vbXy5HERQGQtLDAzoy5cHtFLA4aZYQpksTZq5vSIhiYlS2Lrb4qy1oBP99n5lFn2iZkPYyVjKlWLjukxdq62Jwzmp1rSrcLhBRHZe3ZXcf4wkL1faLYyunem9nR9sxfa0DvvNp8z6rEaR+tMgjVMoGvC//T+1Yb3hn86K9bTgS9I+Qc7",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#30b4e8",
+      "5": "#30b4e8",
+      "6": "#30e83c",
+      "7": "#30e8a3"
+    },
+    "sz": 30
+  }
+}

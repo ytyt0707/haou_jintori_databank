@@ -1,0 +1,84 @@
+{
+  "round_id": 45979,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-04-28T11:23:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[病院] 大日本帝国陸軍",
+      "team": "病院",
+      "emoji": "🗡️",
+      "score": "32.71",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "高市早苗",
+      "team": "",
+      "emoji": "🐶",
+      "score": "26.23",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[病院] デュロキセチン",
+      "team": "病院",
+      "emoji": "📍",
+      "score": "17.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[病院] 夜間頻尿",
+      "team": "病院",
+      "emoji": "👵",
+      "score": "7.70",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 名無しsb",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.78",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] ぴ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.18",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "病院",
+      "score": "57.74",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "2.96",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVk1sOwyAMBJdgbO5/4mr9SCGlleqPEGWYxXEUjDEGWNdHASBl4frgC409quoRonoJAInHedUs4SoQkZUX9TXowjcKd6lHxAalXOazvlB3j9QyN9zeK0AAMTPLXBFtcxaGAoRevsNhn2W/qYm0VjTb26jz3rpWe0s0T5/USUNeXDYHzMauTpS2dlePbjy8p/ZIdpqzV9UT5bHR10at3sT5012oxhk1yJxmzTDXja6y83+oxQvf+bsLu8Eh2X5TbG5+Qf/N4qJQ5R234QVlxBIR",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#60d411",
+      "5": "#60d411",
+      "6": "#60d411",
+      "7": "#d4c811",
+      "8": "#8B4513"
+    },
+    "sz": 30
+  }
+}

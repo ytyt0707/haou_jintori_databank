@@ -1,0 +1,48 @@
+{
+  "round_id": 51041,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-09T21:09:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] tkb",
+      "team": "🇯🇵ONJ",
+      "emoji": "🔅",
+      "score": "84.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵清流会] 山崎春のパン祭り",
+      "team": "🇯🇵清流会",
+      "emoji": "🐷",
+      "score": "0.14",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "84.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵清流会",
+      "score": "0.14",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVk1EOgCAMQ+fo/c9sVijZDGKMXy6Rrbw6IAEzA2AMB7xGsAGNNPS0JOoegJ8waf85AIMFDZ0GFlPlzkZoTSTytJVSjkEPeDaKppzapFmV2oJ0zQ+0mi9qv+7F/EruO3+h622MjjntF1m3+fFsPW5VN8fq72uOiKs0lZ3xqAxa",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83087",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

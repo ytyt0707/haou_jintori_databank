@@ -1,0 +1,66 @@
+{
+  "round_id": 48563,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-04T07:04:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳芋煮会] 小野妹子",
+      "team": "🇨🇳芋煮会",
+      "emoji": "👧",
+      "score": "33.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🦀] アフリカニ",
+      "team": "🦀",
+      "emoji": "😭",
+      "score": "32.06",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🦀] 2",
+      "team": "🦀",
+      "emoji": "🐶",
+      "score": "6.86",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇳芋煮会] 大日本帝国陸軍",
+      "team": "🇨🇳芋煮会",
+      "emoji": "🗡️",
+      "score": "0.09",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🦀",
+      "score": "38.93",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳芋煮会",
+      "score": "33.19",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGd0dsSwyAIBFDISv//kztcFjRJX8pDx85xkaiZWFUvzOTKMgCu/huL3Lqpb8g9bGM2WUSNxCrYV2/qiKv1jAYi5/TwqbguoDR675xRqpxHF1JrsOmfu3k/+Q+AAqr8jKdq1Jnlbk8PMzuaqOrp1j54Sbj4Z7T21NVZRORNI+so0tnpvJaq/tCVdSqjhWtXGnDTOPhPrVd9pPNgvjn5PPiuNdc+87wBYuwy3hU+7Aw08SaH/GG2Mn+LLjlRvo5TCxA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#bcd411",
+      "4": "#bcd411",
+      "5": "#e8a930",
+      "6": "#e8a930"
+    },
+    "sz": 30
+  }
+}

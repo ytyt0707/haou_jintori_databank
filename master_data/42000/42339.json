@@ -1,0 +1,69 @@
+{
+  "round_id": 42339,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-19T18:47:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "クリームパンで草",
+      "team": "",
+      "emoji": "🐲",
+      "score": "42.71",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "チーズパンで草",
+      "team": "",
+      "emoji": "🦁",
+      "score": "1.89",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しFl",
+      "team": "",
+      "emoji": "😎",
+      "score": "0.20",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "名無しnH",
+      "team": "",
+      "emoji": "🤔",
+      "score": "0.13",
+      "kills": 9
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] も",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kFESAyEIQ5Fi9/437gSIxtqpH7vKMwlidq5pNs+KnuacuJBL67Wv+kXdgRXCJJe7ufsXy4zGkEJ5XAGDg78oVdwCh7HWs4G2c88Ozp4YYxP0jMwe6HbbsuXLkIV8Dg/3H/h92e68JZdBNk2ED4e63VepVXWVXOmWk/JF274yFl+Am2NgXRyE/W91nsYYX/gPDXT4PNIV5MPSIcwiahwrLzEDIiJgLtRKb5AW3BTXiH9Tq+CeqzqvCNlIsFT39gNV5ggX",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30b4e8",
+      "5": "#d4c811",
+      "6": "#30e84d",
+      "7": "#a74de5"
+    },
+    "sz": 30
+  }
+}

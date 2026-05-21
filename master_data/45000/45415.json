@@ -1,0 +1,48 @@
+{
+  "round_id": 45415,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-27T04:55:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😆",
+      "score": "58.78",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "58.78",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkVsShDAIBCcs9z/zFvKGlPKThLZHjASAtJB1pJIIT4iHnvA2hbge+4SHfUnOaA+ubjNXcFAAZ1EGjyrJizFzmbmK9qhSgCqLvblOR7xTbcvYITIzkXPp6kclJyJ5xF47qQZ1muF9VrsujQaP+7kn+xzym3wvazvI0BUyJh/Ujl16a4Z/VQr9xX5vvtxtZOfDfcV273Up9/MHpaUJfQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e88730",
+      "4": "#6e4de5"
+    },
+    "sz": 30
+  }
+}

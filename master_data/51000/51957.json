@@ -1,0 +1,57 @@
+{
+  "round_id": 51957,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-11T22:40:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しey",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐱",
+      "score": "47.79",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ぐーぼん",
+      "team": "🇯🇵ONJ",
+      "emoji": "⚽",
+      "score": "31.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.14",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "79.38",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソ連",
+      "score": "0.14",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVk0sSwyAMQ13Lvf+VO5IxmM+mXgSGh2SRELOzwmLWxSbhxCzWho0kLQhccArBuvBSvvA/9PQurdnD2SwC4HNVGmhJkkorebkjLJJOYTsW4kOYiIP33oCkwdZgnw4jMJJyNS3KabTSumilmRliOCctecOyLHrJSYFvDkdXxVTUIW+ugTzEMj6tJ+GE23ns9eDqeNlK2L17T9lssNPjRcp+JXvSLdfRWh+tb+g/ygW3O+TuvFbPcvcf5vQKsg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#60d411"
+    },
+    "sz": 30
+  }
+}

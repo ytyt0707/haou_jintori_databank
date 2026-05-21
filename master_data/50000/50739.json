@@ -1,0 +1,108 @@
+{
+  "round_id": 50739,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-05-09T04:50:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ロール] テト",
+      "team": "ロール",
+      "emoji": "😀",
+      "score": "20.95",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 鼻炎",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "15.21",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 伝説の団地妻",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤢",
+      "score": "10.45",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ロール] ニャル子",
+      "team": "ロール",
+      "emoji": "💩",
+      "score": "6.75",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "5.44",
+      "kills": 9
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.76",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[ロール] ミク",
+      "team": "ロール",
+      "emoji": "🦁",
+      "score": "0.07",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "ぬるぽ",
+      "team": "",
+      "emoji": "🦁",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ロール",
+      "score": "27.77",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "25.66",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.76",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtkdEWwyAIQ6mrkuX/P3gniHVWebCWSyJoa08gwyIamllrykXFtwHxB2GlLOunwdjVPwqOrL61VsGubQC7eU8F1zKcF+kQ197F6CvdAVnLfYwxnTXFRh8sxU5jwvTWZ7Hu86/UbJx8ptCwgG4vhbmp1Yxk3G5ebX8BrZ+kgWc6d2pKWl5XGK8FD71vkCszC2qSyuBNo9FwPkA9T/RMSvzW2qTXgapczopNGolAN3VV7lsJSyFvesSBSl1Kx/7SS0oixSfqLghL/Z9/KTrZ3Qnsh5eMeMmt7ZgoFjvM/AOp7Q+V",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#8B4513",
+      "5": "#e830a9",
+      "6": "#e830a9",
+      "7": "#6e4de5",
+      "8": "#9ca3af",
+      "9": "#d4b611",
+      "10": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

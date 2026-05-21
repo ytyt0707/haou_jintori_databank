@@ -1,0 +1,78 @@
+{
+  "round_id": 49191,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-05-05T17:07:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "フェリス",
+      "team": "",
+      "emoji": "🐱",
+      "score": "54.07",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ばぁ] ニャル子",
+      "team": "🇯🇵ばぁ",
+      "emoji": "🦁",
+      "score": "36.36",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ばぁ] うおw",
+      "team": "🇯🇵ばぁ",
+      "emoji": "😎",
+      "score": "2.73",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ばぁ] 上下",
+      "team": "🇯🇵ばぁ",
+      "emoji": "🐷",
+      "score": "0.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ばぁ] いただきマウス",
+      "team": "🇯🇵ばぁ",
+      "emoji": "🦁",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ばぁ] 貢ぎ専",
+      "team": "🇯🇵ばぁ",
+      "emoji": "🍓",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ばぁ",
+      "score": "40.21",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdktsSwyAIRDFZu/3/L+5wE9Oh6Ux8ycJxETGkrTGGCwAuSIqEDDgJXZE8k5KDnHPOpAo2auw3PQ71zrmO3b04DlwhWedmK2VtlBZeTTecN1X8tuC78+k0PH92eNEO/mmptzzI6qzsWbLVqGHvGMA/e/ELsOARFZGsFBPKEIDoytjKxy/iOafW+9Zy7le3zh7Ai/aAi4RQU8lvuse1cc+WzjKVKXXHalevBPD7ywfX/xNX",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83030",
+      "4": "#e83030",
+      "5": "#e83030",
+      "6": "#e83030",
+      "7": "#e83098",
+      "8": "#e83030"
+    },
+    "sz": 30
+  }
+}

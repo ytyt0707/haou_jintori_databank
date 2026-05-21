@@ -1,0 +1,90 @@
+{
+  "round_id": 42019,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-04-19T01:30:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] 名無し6M",
+      "team": "🇬🇧珍走団",
+      "emoji": "😇",
+      "score": "48.30",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤗",
+      "score": "24.40",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しar",
+      "team": "",
+      "emoji": "🦊",
+      "score": "4.20",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[なきち] なきこ ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "3.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "🐣",
+      "score": "2.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵自民党] アベべ",
+      "team": "🇯🇵自民党",
+      "emoji": "👁️‍🗨️",
+      "score": "0.60",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "72.70",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "5.48",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵自民党",
+      "score": "0.60",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGF09uWwyAIBVCIEc//f/Gsw6UqeRgemqZbEEkqYmYmjMc/Bc8OceWKCmC7CICCuBarPmLovFUdu5vvrFo6XrP3fd/cgztr6RiDtJUVXc3Gxso9lG1l6qkQVbPsqxcGRG69zg2IsmzGZSzpkwps1pTz5Eh/Y71yOS94h1EFH/X+c4uPRmqWZiqfX0aem/UZTY9VOaIztzQeJ++azlyxln+5dM65Kj46/9VaEP2flZmLibVWHJNvd/bhl2oqfut6rvQD3ck3Sz/wyUJlmP9d/K484A+YgBUW",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e89830",
+      "4": "#aad411",
+      "5": "#e830a9",
+      "6": "#30e881",
+      "7": "#e830a9",
+      "8": "#30e881"
+    },
+    "sz": 30
+  }
+}

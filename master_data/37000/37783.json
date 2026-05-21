@@ -1,0 +1,57 @@
+{
+  "round_id": 37783,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-11T02:57:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[たかし] ███",
+      "team": "たかし",
+      "emoji": "🌐",
+      "score": "41.58",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "海原雄山",
+      "team": "",
+      "emoji": "🥘",
+      "score": "31.94",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[詐欺師] 上がる株教えます",
+      "team": "詐欺師",
+      "emoji": "💹",
+      "score": "0.91",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "たかし",
+      "score": "41.58",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "詐欺師",
+      "score": "0.91",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFklkSBCEIQ6PA/a88FZBR6LbaH8FHIi7AnHPiNhxajKgxA1ZuZnPFWbJmMyNodEOnR9rCatrgh7ZXR35xvCwvjzxoptUaFXerUTiOrscYhICoCj0PIzJSERFV5bTpCakNmhuH0JVOihYDafuH2zledgOPfN8g7FWkWbPvNZpSRCkO+GBcSPoKBSG9wUJrU2n8LiW1JjgqP2lcA1/kUEUYB/LXyirJy/GPkFf1Nv8AtfMK4Q==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#994de5",
+      "4": "#4d73e5",
+      "5": "#bcd411"
+    },
+    "sz": 30
+  }
+}

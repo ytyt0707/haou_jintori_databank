@@ -1,0 +1,51 @@
+{
+  "round_id": 45647,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-27T17:27:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本小太郎",
+      "team": "🇯🇵山本組",
+      "emoji": "🥺",
+      "score": "71.28",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "4.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵山本組] 生産性皆無",
+      "team": "🇯🇵山本組",
+      "emoji": "😫",
+      "score": "1.40",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "77.13",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVUlsShDAIS4Xe/8o74WkVP7YzViAQXt17qx0AUFURapC11hJTAqc1fCALCyJELo9WQBwGCJ8obYZSMEmZix8PIEHu8JPZfDNU4XmvCAd5SO68amgQWwpPbGn1gXryYlbrvWJDqJK1J9E+RMUm17aWvMPss+3/SVPeZMBY1YlCPzrL2LnAtM5TydhMVdssA7dSSktparQlx/b2hZZnCvbnNLjTw3hXbuDbyV7KPI7glY9pOUx0GojVw2ssjOX6O6z7VvEPuGYLJg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e230e8",
+      "4": "#e230e8",
+      "5": "#e230e8"
+    },
+    "sz": 30
+  }
+}

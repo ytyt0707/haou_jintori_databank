@@ -1,0 +1,33 @@
+{
+  "round_id": 51533,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-05-10T23:45:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[テスト] テスト",
+      "team": "テスト",
+      "emoji": "💣",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "テスト",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG90lEOgDAIA9B23v/OBkeB4JwfJu5nzjegJpK+BkcsaAlZcAgRCmN4uTj0etgoiKmqRHYm4ZhjnWH7LBk3lJhXVOcchVrsmYtasjySjKFX64aeRwVN9XruDWvi+c1x3VLFQcWZaq+tsLXuaqGyc1c7v+gHtv9nNVHvtqhL/+1HjFrFTo1rjw8nJqQBNg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30"
+    },
+    "sz": 30
+  }
+}

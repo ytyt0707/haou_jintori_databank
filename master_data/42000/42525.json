@@ -1,0 +1,87 @@
+{
+  "round_id": 42525,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-20T04:51:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ひっぷ] 名無し4N",
+      "team": "ひっぷ",
+      "emoji": "🍑",
+      "score": "27.11",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "🐣",
+      "score": "20.84",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵まらら] あーん",
+      "team": "🇯🇵まらら",
+      "emoji": "👻",
+      "score": "3.94",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] どっこい",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[なきち] なきこ ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ひっぷ",
+      "score": "27.11",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "20.99",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵まらら",
+      "score": "3.94",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "0.33",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkOEWhSAIgyH09v5v3NlAoczO9YepHxssEay+WYRbHBRqM3tayOk83n/+1bjK6fhG9UmrqYI21A9toaqqzWMMmmObKUYhlzMaB+bgM2ah5OwwYgqcDYs7Mlvv0sh9KtJlY8HQLhSBpvMbZd4F4IE/I/Kaifh0UdrNutA5A9xcou+GQpz/CkVV7EOndMFEx5EVRY3GWIVW89TkKdWhTYTTxPfnuH3SgK9Ct94iNv6if7ILscwHtQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3081e8",
+      "4": "#8B4513",
+      "5": "#30e8e8",
+      "6": "#30e8e8",
+      "7": "#e830a9"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "round_id": 42935,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-04-21T03:01:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[十字軍] ウルバヌスⅡ世",
+      "team": "十字軍",
+      "emoji": "🗡️",
+      "score": "77.24",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "十字軍",
+      "score": "77.24",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1UkEOwCAIK+v//7woEwkSTGb0gLWtFY3A8WAfeYxqowbPoP1sFk86DHaHYwKs5QNVOwun2bIOJsDHvCvASk0GV9QWeie5dV4ns7xRrdbJG3U+aoJ+NGVbAEoS+VEQ0d+T1xfYDggi",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e870"
+    },
+    "sz": 30
+  }
+}

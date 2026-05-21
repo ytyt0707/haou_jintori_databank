@@ -1,0 +1,99 @@
+{
+  "round_id": 42023,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-04-19T01:43:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] 完顔阿骨打",
+      "team": "🇬🇧珍走団",
+      "emoji": "⚔️",
+      "score": "44.92",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤗",
+      "score": "24.37",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] なきこ ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "1.97",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "🐣",
+      "score": "1.58",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "名無しar",
+      "team": "",
+      "emoji": "🦊",
+      "score": "1.55",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[なきち] たきち＞＜",
+      "team": "なきち",
+      "emoji": "🤔",
+      "score": "0.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵自民党] アベべ",
+      "team": "🇯🇵自民党",
+      "emoji": "👁️‍🗨️",
+      "score": "0.10",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "69.29",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "4.02",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵自民党",
+      "score": "0.10",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klkSAyAIQ7EVSe9/4U4Cbl34YeQZNjUzs9YancxpAECvSKOZ4guKkwr+ownbkj56B9A7mPkTuvc02KLVRiZAp3RrLXusO2x5d2VmGsARETUQac5oa5qI0slNmrO7k/LCOOmcRrGImaG07lmXKySM16FlI87azBmvb+p4avcYI0ZWrabPzWPQlDepz6SK+YAVzGoXBQ56zQJk7aWttc/z7Ut6B9cpqe2MV+qittucQkbUrl6qor+1Szy19NLqKRS9lKLrifVXTqm0F/6g/JZp31rYpvqXV3dTt7wy8+QOszdmnBJO",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83030",
+      "4": "#30b4e8",
+      "5": "#30e84d",
+      "6": "#e230e8",
+      "7": "#e230e8",
+      "8": "#30e84d",
+      "9": "#e230e8"
+    },
+    "sz": 30
+  }
+}

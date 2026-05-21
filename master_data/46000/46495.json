@@ -1,0 +1,57 @@
+{
+  "round_id": 46495,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-29T15:17:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "正体不明",
+      "team": "",
+      "emoji": "👀",
+      "score": "36.50",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[魔眼] 遠野志貴",
+      "team": "魔眼",
+      "emoji": "🔪",
+      "score": "12.38",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "🥐",
+      "score": "6.98",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "魔眼",
+      "score": "12.38",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷デパ",
+      "score": "6.98",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kkEWxCAIQ6nB+195XogwaJ3tsLDCJ6BYs6sBZuByMaRdWKjEg56p6UflcrhhegbaNkP9+03sUTzyfoiLbho5z5P0AnGhddKWH6dyGtxbXFvSgFo2brx8p7tck3mJ1xR03UYljrAeCLANz7mGvbCZj0qYc041FLXhoyjhQcdBhUM7aNU6tKT5Vw014KzcTXiVJxFGTA0vKi0hLtqgOXdbtSVZKxBPSK8OtiX80/kAU70G8w==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83064",
+      "4": "#30a3e8",
+      "5": "#a74de5"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "round_id": 51207,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-05-10T06:08:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] ヤス",
+      "team": "🇯🇵ONJ",
+      "emoji": "⚽",
+      "score": "28.65",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[阪神] 前川右京",
+      "team": "阪神",
+      "emoji": "😢",
+      "score": "12.18",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "11.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[阪神] ぶりぶり",
+      "team": "阪神",
+      "emoji": "🤖",
+      "score": "1.87",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[キル軍] wwwww",
+      "team": "キル軍",
+      "emoji": "💀",
+      "score": "0.87",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] 名無しUr",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥰",
+      "score": "0.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ONJ] 岩井",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "0.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[阪神] 競り合いマスター",
+      "team": "阪神",
+      "emoji": "😉",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "29.03",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "阪神",
+      "score": "14.14",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "キル軍",
+      "score": "0.87",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkssWwyAIREfC2Mb//+AeHlaTajZlERIvMwInAAgSHqq0EJF8gX+TVtJDREixsumwwylv6XE8af+hfD04W8t9ENUclaSqnNl2tGxwcFU9feTcQdIoASzntszdhVFCzaVO6w0VPQW9PlXD0fImttqoN7xR4m3mK1hrF98pq4Wf/hi31pw6X9GB702zXcTQWqfGZup31zr1HS3lzZHWFAFLGdZDi6AFvxSosD/BBi/luxE/yEX1w2faq8LNXNfxAQ0LClU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e83c",
+      "4": "#30b4e8",
+      "5": "#9ca3af",
+      "6": "#e83053",
+      "7": "#9ca3af",
+      "8": "#e83053",
+      "9": "#9ca3af",
+      "10": "#e83053"
+    },
+    "sz": 30
+  }
+}

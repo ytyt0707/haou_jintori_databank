@@ -1,0 +1,42 @@
+{
+  "round_id": 36064,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-08T17:45:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[寝る] 名無し2p",
+      "team": "寝る",
+      "emoji": "😀",
+      "score": "6.98",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[寝る] ねれない",
+      "team": "寝る",
+      "emoji": "😔",
+      "score": "3.60",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "寝る",
+      "score": "10.59",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkEsOxDAIQx3M/c9cYT5iNIsuuqvKIiA/m0QBHhSd/+mRvGkpJDAQ7iTc1bSEDEOV9DjCpeoOgBnb4c5FDz1rZWAwmZrNYqlmPxQ7CVjhzO67Ym6qZ3nSc07Z+t6dGrjFmW/o+L7hJT9wARK2AYQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#aad411",
+      "4": "#aad411"
+    },
+    "sz": 30
+  }
+}

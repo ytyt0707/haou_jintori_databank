@@ -1,0 +1,66 @@
+{
+  "round_id": 51119,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-10T01:22:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] へ",
+      "team": "🇯🇵ONJ",
+      "emoji": "😈",
+      "score": "65.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] jk",
+      "team": "🇯🇵ONJ",
+      "emoji": "😎",
+      "score": "1.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[阪神] 前川右京",
+      "team": "阪神",
+      "emoji": "😟",
+      "score": "1.52",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 10歳女子",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐱",
+      "score": "0.17",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "67.13",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "阪神",
+      "score": "1.52",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkVkSBCEIQ4U43P/IXQjBpZcafyA8QNDWjoMGKPKczOE8ky6xcp9o1Stppa/OJ9VPiqLbqID6Ur8XmguTrrMgS2FvFNrM6l7UjumpqiHXvTXWeOvAJ6V+pvykQZk6bPeZM3KjvQ8cFzsdiZbp3bGl+pOKSFRH6/CzVkTE2C/vAPw5QlTtZE5TcaoVztpvutVQVGcGNltTbVGKeg0G3HJSh7N5KNcRLEqw2wtAcwfd",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e85e",
+      "5": "#9ca3af",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 40034,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-14T00:52:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇵🇭歌手] 泉谷しげる",
+      "team": "🇵🇭歌手",
+      "emoji": "🥶",
+      "score": "10.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵レイズ] コール",
+      "team": "🇯🇵レイズ",
+      "emoji": "😂",
+      "score": "2.84",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇵🇭歌手",
+      "score": "10.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵レイズ",
+      "score": "2.84",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kEsOgDAIBR/C/c9s+JRC07rQ2I1thoGHwOmIiBwYs8JBibKM7WZw0sTMjFAHxZA5TnOTAoaBOhcgcp1trquls2M1EWZmBkhtjbtzYb0daU1PNQfH4vtUFfZUQeyzusjftZ/bXWRj3ai50GULrqLeRZ6oVz/oa7tP72vav438rfHM/vJ2AxGiAf0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83064",
+      "4": "#59e830"
+    },
+    "sz": 30
+  }
+}

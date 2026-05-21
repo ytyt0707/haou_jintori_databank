@@ -1,0 +1,66 @@
+{
+  "round_id": 40323,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-15T05:48:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "烈海王",
+      "team": "",
+      "emoji": "😇",
+      "score": "10.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[たかし] 肉体派ザビエル",
+      "team": "たかし",
+      "emoji": "😇",
+      "score": "3.81",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[たかし] たかし",
+      "team": "たかし",
+      "emoji": "🍘",
+      "score": "2.62",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "⚔️",
+      "score": "0.70",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "たかし",
+      "score": "6.43",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "0.70",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkUEOBCEIBAtF/v/kCSiKs/uA4WCAohuNgCCsaHd4V+RQLhyagpPSGrTpWHH0msMMicgKQrlLh4DtxpUsGr2RpPeZiSBidkt7Un+TbRri7pEuAZd4gBI0caFjjDfFjVXDSgdLmtrZVjDdwrrZuaGqZnNnnHkvQNWpHlrYMi/wPGmNXdIfGkNn79u61v+1deLD+fUbH7jnA1wlAtQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83030",
+      "4": "#e830a9",
+      "5": "#6ae830",
+      "6": "#e830a9"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "round_id": 42257,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-19T14:22:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇮🇹大秦国] ロムルス",
+      "team": "🇮🇹大秦国",
+      "emoji": "🪙",
+      "score": "53.23",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇮🇹大秦国] 岩井🫚👩‍",
+      "team": "🇮🇹大秦国",
+      "emoji": "🐷",
+      "score": "12.51",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しHe",
+      "team": "",
+      "emoji": "🦁",
+      "score": "0.83",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇮🇹大秦国",
+      "score": "65.74",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtklESwDAERAW9/5U7i0U69dPUs7VSIgi7ot+DbezuU0na6g2fpuJuDuHgB9Q9SgKBET+gXhQHN1tdzSLn2RWYwnQm+sncWu3qK0+t/mQ5sahy1J8qUdWs7A4UmhkoxSvNI2gPxGQ/VaXwZ9aoUASvsjU8kMWVjrPygpEygL5TCdpGXH0jY1YI6zHf3Wn+4k3PgSy0+YdzNcLtOUmjgv7hKTZwKBGlxGmoKTDtHLq9aGOOMjTETNczaN0E13NKmtYqD8lx13seOZjICzPUB8U=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30c6e8",
+      "4": "#30c6e8",
+      "5": "#af30e8"
+    },
+    "sz": 30
+  }
+}

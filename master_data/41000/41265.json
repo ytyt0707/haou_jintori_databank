@@ -1,0 +1,42 @@
+{
+  "round_id": 41265,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-17T08:43:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ピカ] ピカチュウ",
+      "team": "ピカ",
+      "emoji": "🐣",
+      "score": "37.24",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ピカ] も",
+      "team": "ピカ",
+      "emoji": "😍",
+      "score": "33.24",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ピカ",
+      "score": "70.48",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklESxCAIQ6Ph/mfeAUQBt91Zfqw+EqAKiAgeQyJOBlcAKvUISuLggLZiA02Y82i1foh8nbNIKySLVBpNTanJRaHThv03Gsy1ubNHndls2kx9+4uSV6/LBwT6GLnEoZrVR9a6nr3mqlL9E64ynCHz/SotkA0HBOwFNO2i8Uo6HYPmt/m5AxGMMTawj0LxRu+HnbXvtNbUXdb+S+/8dPIBXZoIdw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#97d411",
+      "4": "#97d411"
+    },
+    "sz": 30
+  }
+}

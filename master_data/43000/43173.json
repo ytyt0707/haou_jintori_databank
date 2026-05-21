@@ -1,0 +1,65 @@
+{
+  "round_id": 43173,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-21T15:53:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[十字軍] ウルバヌスⅡ世",
+      "team": "十字軍",
+      "emoji": "🗡️",
+      "score": "56.66",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[十字軍] モホロビチッチ",
+      "team": "十字軍",
+      "emoji": "✂️",
+      "score": "25.08",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "0.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "教団",
+      "team": "",
+      "emoji": "👽",
+      "score": "0.28",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "十字軍",
+      "score": "81.74",
+      "kills": 22
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.63",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkusOhSAMgxdkff9HNt0FJ2fmmMgPIny2pYrIn6H9EFB3Y2UFYIP1za+UXiWsWM8JeWKqpL1OdQBzPNMBACXo/jiIuQXGb4NKo63BS7p5+nJp9eh45h4tVWLRlHq5LAlWubrEn84CkZtLXoTMMleTNtR1pAlVl/iCNIs+ImkYOKIS2zGL0g5Sv8VivJCkBaJ6b3TpvNkPDanvc05rmsapbPvNdAJwng9y",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#3081e8",
+      "4": "#9ca3af",
+      "5": "#e830cb",
+      "6": "#e830cb"
+    },
+    "sz": 30
+  }
+}

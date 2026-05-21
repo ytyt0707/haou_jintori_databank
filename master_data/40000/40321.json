@@ -1,0 +1,80 @@
+{
+  "round_id": 40321,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-15T05:41:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "⚔️",
+      "score": "53.04",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "つんこ",
+      "team": "",
+      "emoji": "🐱",
+      "score": "3.67",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇪🇸宣教師] 肉体派ザビエル",
+      "team": "🇪🇸宣教師",
+      "emoji": "😇",
+      "score": "0.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[たかし] たかし",
+      "team": "たかし",
+      "emoji": "🍘",
+      "score": "0.11",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "烈海王",
+      "team": "",
+      "emoji": "😇",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "53.04",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸宣教師",
+      "score": "0.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "たかし",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkeESgzAIg6G31Pd/412AFlTmdrf8Af1IpFW1aoQkVJmKw8VEKhVx/JFecXXfzTXcaOZap6IKVQ3nhYqA6mIl2DcKngdjCD+RstyI9pJsJzN7+GRLVwjra00AvnSFPIHr9HY/PFMbK0ttWzYNLVs0NK34i1rOLGm15QpzzgYfvPOgdxyU1gb+QjsjgMO8bSz3fqacyEuNbv05VrwBJt0LLA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#6ae830",
+      "5": "#30e8d7",
+      "6": "#a74de5",
+      "7": "#30e85e"
+    },
+    "sz": 30
+  }
+}

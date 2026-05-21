@@ -1,0 +1,43 @@
+{
+  "round_id": 52634,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-05-13T11:15:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "BOT",
+      "team": "",
+      "emoji": "🤖",
+      "score": "10.74",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しGR",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.62",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "BOT",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eAHtkcEOgDAIQ0uJ///LOrciM6InEw9yYIdHu44Bf72+AS9vYEm+D7xVFXOHD/RST6BrW19O9mTGogbrcxMNcUDycBa1W4rAOZWeZYO2T0zOyjycQcJdA4JxbuIV+pABhQ==",
+    "cp": {
+      "1": "#e830dd",
+      "2": "#e83042",
+      "3": "#d4c811",
+      "5": "#30e8e8"
+    },
+    "sz": 30
+  }
+}

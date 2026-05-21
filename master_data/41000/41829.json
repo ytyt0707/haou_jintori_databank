@@ -1,0 +1,41 @@
+{
+  "round_id": 41829,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-18T15:13:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[たかし] 山上徹也",
+      "team": "たかし",
+      "emoji": "🐲",
+      "score": "63.20",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[たかし] たかし",
+      "team": "たかし",
+      "emoji": "🍘",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "たかし",
+      "score": "63.20",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kUEORCEIQ5Vw/zNPCkWK34wLFR4FQXd3N2yfZZZ+I18joqgzakAXajaFUa8qnriWW/nqbOTIW/UqReKwhE5R1mxtUGaK9kJZmUFPGRpT+5d+QtXR95iKXR3pE9gt5zfbfb4quuKGOljqk7vQR8ihzwxC+fn6wUVR+1te6CM36eJ5veymE5fm9DxwUiTOIcDucVx0wvwhi0dB0spNM+WaEGDvXT+4sNx1TEHTs34MQwt8",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#e89830"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "round_id": 44315,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-24T17:06:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🧠] BOT",
+      "team": "🧠",
+      "emoji": "🤖",
+      "score": "12.56",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しZE",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "6.23",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇪えっど] バニコス習近平",
+      "team": "🇻🇪えっど",
+      "emoji": "🐰",
+      "score": "3.45",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🧠",
+      "score": "12.56",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "6.23",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇪えっど",
+      "score": "3.45",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkFESxCAIQ6ng/a+8kyhrmMouPwUeCRYzZ9g9NnOhfoqLEq01TOhzitSwbNfuPhGK37TinE1tUnqmMXbQOakVnM/60jTl90rVGQN36e9DLlp2aQFbrQ2nOg3NV5cPjTNRs/UbYlBxBAY69aYNhhAhjkNyskoFv+gYQm1hcSuU+BFaU4pbTFoFWkXE02r/LAbutaaX0pUn/wAHDgL1",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830cb",
+      "4": "#8B4513",
+      "5": "#30e892"
+    },
+    "sz": 30
+  }
+}

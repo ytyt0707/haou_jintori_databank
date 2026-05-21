@@ -1,0 +1,93 @@
+{
+  "round_id": 51223,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-05-10T07:00:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] dot",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤡",
+      "score": "32.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[帰宅部] 名無しrE",
+      "team": "帰宅部",
+      "emoji": "🛸",
+      "score": "27.13",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ハゲ",
+      "team": "",
+      "emoji": "👶",
+      "score": "19.42",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[帰宅部] みかん",
+      "team": "帰宅部",
+      "emoji": "🍊",
+      "score": "4.84",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[帰宅部] さとうてるあき",
+      "team": "帰宅部",
+      "emoji": "😃",
+      "score": "0.27",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "名無しlM",
+      "team": "",
+      "emoji": "👻",
+      "score": "0.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[帰宅部] 名無しRB",
+      "team": "帰宅部",
+      "emoji": "😁",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "32.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "帰宅部",
+      "score": "32.31",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1ktsSxCAIQ1HIsvv/P7yTQK3ttD544RBA1P15mNmcRoa7A0xQNNN9jN0DNoEpbabwhQLANDMnTB8XMZmiN3UfSt8lUMvcoBRMPGhyiHNLjExta3IuukbTja2tnKRdpoq7HRn5HF6SZbjSZa6NagYQcQMLqxmZN14JzZq+iDMzImO/9OFp0kZUYkb/qRvirKojc+ncyRcHfNEIUQaJyG9Rd2qjnqmQ/I5um7GmGsea+UTbiX+BVfGlzE7Jwp/PQdsE7F6tvdxoadUaBT5N29Udxo/+rKX9mTKC2vSuZROLVq8506ZFWh3+bNcPfQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#30e84d",
+      "5": "#9ca3af",
+      "6": "#30e84d",
+      "7": "#30e84d",
+      "8": "#e83042",
+      "9": "#30e84d"
+    },
+    "sz": 30
+  }
+}

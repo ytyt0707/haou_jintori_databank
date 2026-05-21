@@ -1,0 +1,56 @@
+{
+  "round_id": 51833,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-11T15:58:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] パソコンマン",
+      "team": "🇯🇵ONJ",
+      "emoji": "💻",
+      "score": "26.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.00",
+      "kills": 14
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "26.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソ連",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkDsSgEAIQyGTvf+VHXD5KI61hRYS80hWBQCSBOjTpNTlNIDt3fHp1R1kpaX8VC8UyCxlZFtzljWRb928JuPYZpUMOM60lYD6RDdU1YaXN2fOoNb3rGy0DYeNXuDmkuHojOnF8TCnTut3vvcHDgrtBBA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#e83075"
+    },
+    "sz": 30
+  }
+}

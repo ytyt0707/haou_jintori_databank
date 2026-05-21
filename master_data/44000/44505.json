@@ -1,0 +1,57 @@
+{
+  "round_id": 44505,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-25T03:22:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "スレ管理のプロ",
+      "team": "",
+      "emoji": "💩",
+      "score": "57.61",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] も",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "11.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵自民党] イルカのラミレス",
+      "team": "🇯🇵自民党",
+      "emoji": "🧿",
+      "score": "0.10",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "11.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "0.10",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAGF01ESgzAIBFCgy/2v3GEpJFGqfGj0hUAyasaQORLN3V2A65zUQF8IQAB8pFUXoyM0Ek2V7yKng7m7tsRAgkNVf8k7h6JU9VgXEBNQzd1MTpWlwbFl1uMlNp+pno0XtwoXjkR3TmZ286lH5bV0NH5JBrskDJjKSm+aO+im2Fg93YrynFtrsN+PHezA8Ys+ch7enyn1Ed4qZtlHLpyXbh156cSbDrxrjdcfI18wOgps",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83075",
+      "4": "#e86430",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

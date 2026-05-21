@@ -1,0 +1,65 @@
+{
+  "round_id": 44545,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-25T05:32:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "46.87",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "0.57",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無し9F",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "0.27",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しL1",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.83",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kuEKgDAIhL2Oev9HDnWLG7YRBflDjn07UTcjCdokSGBO4dgA2F0BRiByLY8EM5pmz9VqAC93xVq52n1ajdGvJPSAC90dt1NjV/3a3oVPIbrKT3RpXsL3XcncOs3mkSvT43gF8gFluNXbqzUzY9++9dj8RVMMOf9O6yheSnHSYztav8r+1if4JwVj",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6ae830",
+      "5": "#9ca3af",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

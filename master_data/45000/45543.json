@@ -1,0 +1,87 @@
+{
+  "round_id": 45543,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-27T11:49:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新鯖♡] 新鯖♡",
+      "team": "新鯖♡",
+      "emoji": "❤️",
+      "score": "56.59",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] パソコンマン",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "31.47",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷メロヴ] クローヴィス",
+      "team": "🇫🇷メロヴ",
+      "emoji": "😉",
+      "score": "2.52",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🧠] 🧠",
+      "team": "🧠",
+      "emoji": "🧠",
+      "score": "0.12",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新鯖♡",
+      "score": "56.59",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "31.47",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇫🇷メロヴ",
+      "score": "2.52",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🧠",
+      "score": "0.12",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGd0lESwyAIBFA3uM39b9wBBY1oplO/1AdrEiPSB4DrmhYgSV8LdDhD1IYawmv3CvfWGskALLx3P1WDJbhbnGso2q/Nxbkl3f44pm7RG6qToUXHw5Iu/HOvFh6TLeVdl+ZxLmmvLiI1EmZtc6nVOSMZusH6isV10xm5W6PzSdsHOyuny4nrT+WftPPnxvSfpITz8al03Sj8AvNUDgE=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#4d73e5",
+      "5": "#e230e8",
+      "6": "#7c4de5",
+      "7": "#d4c811"
+    },
+    "sz": 30
+  }
+}

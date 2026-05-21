@@ -1,0 +1,48 @@
+{
+  "round_id": 42599,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-20T08:51:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] プレイヤー観察",
+      "team": "🇯🇵ONJ",
+      "emoji": "👁️",
+      "score": "86.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵小谷城] 浅井長々",
+      "team": "🇯🇵小谷城",
+      "emoji": "💀",
+      "score": "4.94",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "86.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵小谷城",
+      "score": "4.94",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkEkOwCAMA0ns/7+5YhWiTnrgVC4IRnYGSLFAACAEIhurXONGQrrCurrjopvX6CDbr0XWzLLIFb4KU4ht/sI6p/OVmZRlkJWKsaP4m06D9571kuonjg4/zn86hu5enP4AOUkNSQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83087",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

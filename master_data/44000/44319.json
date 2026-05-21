@@ -1,0 +1,33 @@
+{
+  "round_id": 44319,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-04-24T17:19:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🧠] BOT",
+      "team": "🧠",
+      "emoji": "🤖",
+      "score": "0.12",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🧠",
+      "score": "0.12",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlz8sKwCAMRNHJ+P//XIwIQvTShXTTWebkQaQ/peGzrDh6HY0bWXH0DVp0wAZ1z/FG6oFDoBFS+nZ16mioPrF7VS280U9KD164AFA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d64e5"
+    },
+    "sz": 30
+  }
+}

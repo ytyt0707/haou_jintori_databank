@@ -1,0 +1,41 @@
+{
+  "round_id": 51415,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-10T17:23:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ボンっ] 爆弾/自認レゼ",
+      "team": "ボンっ",
+      "emoji": "💣",
+      "score": "0.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ボンっ] 名無しX3",
+      "team": "ボンっ",
+      "emoji": "🤖",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ボンっ",
+      "score": "0.22",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klkSwzAIQ4Wn9z9zh00sdZ0fCz0jmCTnnIO/zxPi1Qlg54r0OYOKPm/a8NoqmuvCb3SPn1tbs832/tPDA/qR63HRRVtpV0WQFkCplmI7s7hSa86hdZod0eVSRSSXJHDh3fWqJg56xcnuyVf6YToxnS6SDo9FUNZTOJ1eVeuvKgCIfoNuDK2xw+iFzexG1++F7OZO/gIi0gEY",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#30e85e"
+    },
+    "sz": 30
+  }
+}

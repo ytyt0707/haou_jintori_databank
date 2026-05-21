@@ -1,0 +1,33 @@
+{
+  "round_id": 51965,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-05-11T23:06:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.15",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ソ連",
+      "score": "0.15",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYBgFQzkEmPE6Hr8sRCsjHhMYQQC3PF5ZvDoZCMjitpP+MkxMTLgtZcIry8BAUBpoNAAoEAAw",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3"
+    },
+    "sz": 30
+  }
+}

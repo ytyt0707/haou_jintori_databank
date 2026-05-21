@@ -1,0 +1,33 @@
+{
+  "round_id": 42917,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-04-21T02:02:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[👧] あ",
+      "team": "👧",
+      "emoji": "😈",
+      "score": "94.16",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "👧",
+      "score": "94.16",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kEEKADAIw7T9/5+H27kVBOfRkLWOETSzRhEBnQsYyI76i3TqIrGVWDRTxT8qcWlavnDuqk6Tvf+DyYuN8z2w6aPwAcQhCjg=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30d7e8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "round_id": 37211,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-10T10:11:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] ハンニバル",
+      "team": "楚",
+      "emoji": "🗡️",
+      "score": "36.83",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪チーム] the A",
+      "team": "🇩🇪チーム",
+      "emoji": "🐱",
+      "score": "6.33",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しTM",
+      "team": "",
+      "emoji": "🦁",
+      "score": "1.95",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "⚔️",
+      "score": "0.33",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "37.15",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪チーム",
+      "score": "6.33",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkQEOxSAIQ3UD73/kn1JQwZl8k2XZHi0VWlOcdjk3cFfAKDtWj9yu0JzmaJOcQZPZTs3o+BHXrNS/Hf9HWfxd+/JaG3ytnIlJAcVOpOLkVLkTh1IpTakUkUZnH3t0DPwtXtYxYZ+ly2cs345VhTXFNI5remIrgXij2JA/wKCx82U79SKRyJPPrqpjqNEnX4ragQPtk3GhS9q09xh4aCMYqnrvW2+QTGdkVBValnFSNDB3vH89yAf2",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8b4",
+      "4": "#30e83c",
+      "5": "#30e8b4",
+      "6": "#e830ba"
+    },
+    "sz": 30
+  }
+}

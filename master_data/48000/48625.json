@@ -1,0 +1,66 @@
+{
+  "round_id": 48625,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-04T10:25:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵コロナ] コロナウイルス",
+      "team": "🇯🇵コロナ",
+      "emoji": "🦠",
+      "score": "26.02",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] へ",
+      "team": "ラー軍",
+      "emoji": "😈",
+      "score": "3.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] ｺﾛﾘ",
+      "team": "ラー軍",
+      "emoji": "🦠",
+      "score": "2.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ラー軍] クー子",
+      "team": "ラー軍",
+      "emoji": "🤠",
+      "score": "0.56",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵コロナ",
+      "score": "26.02",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "5.68",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGF0VsSwyAIBdALAfa/5A4PqWao5SfKGZAoMzgDQzAXD4ZVyDwpVdtJiVqH0q8OCCLyg5MkP1qB1Eiqiogolqk6Uph40nWPhRB7RF+outieR8zO0lCFiJjHG6PWzxvR54opo3afyNcAYelhkfQfjqyZHVqbUj0Q2dCHrtZ7ad9oKHDUJiLvuTZd3Biv0DvtVS76FV752q57ntRvI19wUh/rRz7TV72dGz98a32d6k9n4AMEnQZY",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#e830dd",
+      "5": "#a74de5",
+      "6": "#e830dd"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 36500,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-09T05:32:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇰🇷ヨン様] ペ・ヨンジュン",
+      "team": "🇰🇷ヨン様",
+      "emoji": "🤓",
+      "score": "10.88",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🥴] 山田",
+      "team": "🥴",
+      "emoji": "🦊",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷ヨン様",
+      "score": "10.88",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🥴",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kFESgCAIREm7/5mblRVBGZo+8qOSx+5CIuP0eLRozwi71flRY0/vWrsb477kGQWWw3R1dscazkLDe16bVFRh0CKXwUO5OQNptNKZs70phbMblE2NQ4VcM6gp2s6NTDxxKLhLOfSLs9OeO9mfTBCHknxfTldCt8GHzyvp/SEmSWHpAeMXAeo=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8b4de5",
+      "4": "#e83098"
+    },
+    "sz": 30
+  }
+}

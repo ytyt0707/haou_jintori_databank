@@ -1,0 +1,56 @@
+{
+  "round_id": 52027,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-12T02:27:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇰🇷学] そうちまる",
+      "team": "🇰🇷学",
+      "emoji": "💩",
+      "score": "39.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.02",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷学",
+      "score": "39.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソ連",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kksOwCAIRKGm979ywwzIR8tChQcjGp7HTW4WcK0lIrbwxNxCSRbNlYCtYBgw4AB0o48rtDZERFXXRTmp6qXclVUV7zgzXNrUT2O1mp0wb+YXjYwQju/r2CkvwD9XDrrZ7LwAP87amZF8EvOT+pNaUtIWDmdjD3QJUAxR5Nd917Loraz1NUC4Nph1OCOOPee3hU2X2lgnM59N/ynzzv7MrvLbEtNQ+gHyyASi",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8c6",
+      "5": "#e8a930"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "round_id": 49001,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-05T06:51:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] くコ:彡",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "24.22",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 鼻炎",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "12.93",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] 豚骨",
+      "team": "ラー軍",
+      "emoji": "🍜",
+      "score": "5.70",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] (*^○^*)",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "37.27",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "5.70",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkYGOwyAMQ+2Z8/9/8uQECtu605BaUV7sxJQkiXoAPN4Wh8KrwiZfC6hQiZKang5SY4r6k0ycDUoHSk5dSg/vnIscoU6Bb2g1dQraeuqThVyuMjJ2rcrWeaKtrrYOiJq44vRQ851YeEzqpW0IVWhAozpn4LZEEEZ/iHTmsj2pBIxJW9mJGo+sy2fOscQF36k9HMNbmFuyG21fYBvvgtX1g5b1N5qo35xXpFvtPrx251TX4bX5mV6KvflZu/7Slr7c1XE8t/87p0ioO/50fgIOpgcc",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30e8e8",
+      "5": "#8B4513",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}

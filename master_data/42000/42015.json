@@ -1,0 +1,81 @@
+{
+  "round_id": 42015,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-19T01:17:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しar",
+      "team": "",
+      "emoji": "🦊",
+      "score": "48.60",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきこ ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "8.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵自民党] アベべ",
+      "team": "🇯🇵自民党",
+      "emoji": "👁️‍🗨️",
+      "score": "2.61",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "2.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "🐣",
+      "score": "1.70",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "10.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "2.61",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkUkOQyEMQ10IcP8bV878B1UqG0Je7AQAJBYAjOsCOj7jXDAFLgZwZYMwcKNWZdDEjNU2DByW9QkyhtumtdY6Dp3uOpfRkBe3oe1Merpv9fWxgda100FtutJ01nNk3gIFkwVz3lA+0/QVCgLGbuqUKc+ISIvJC2jU6I3ocb8lM/ebZpmI7Gdp6/w/De+9n9qdlye98zdaw71R7aWeRQVC67XWqlGyr17Y6WIZH0Cp/Qxz+6PDmcvuH575DPAFNfsKlQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#59e830",
+      "4": "#e83042",
+      "5": "#30d7e8",
+      "6": "#30d7e8",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

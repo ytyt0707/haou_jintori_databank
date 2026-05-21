@@ -1,0 +1,57 @@
+{
+  "round_id": 52051,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-12T03:45:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬげ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "17.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 暴君/ハバネロゼ",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "9.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 鼻炎",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.17",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "20.05",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "9.63",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkksOxDAIQ40J97/yCAjKv5vxoq14GBAUuIilC/NQxw/a8YN+e/+h33371DFVu83mrVvqgifaDntMjW4+KEDgTUmuVD1Q8tKHVzUzAh4UqgrAFgrAg658O66+I5oZAK1osKw4Piequ6Jzr7wzrxNeXzV5wUaLO7bY6ZZgZkkDHvaVUlb3SsU1EmDG+q25OzU2mT39qSoqvuXURiUTJzidE5BYcVyolv0DyNoFMQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30e8b4",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

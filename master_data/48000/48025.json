@@ -1,0 +1,57 @@
+{
+  "round_id": 48025,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-03T01:59:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[陰キャ] 蟹(海老)",
+      "team": "陰キャ",
+      "emoji": "🦞",
+      "score": "62.53",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🧠] 気持ちが",
+      "team": "🧠",
+      "emoji": "🏖️",
+      "score": "11.41",
+      "kills": 14
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🧠] 🧠",
+      "team": "🧠",
+      "emoji": "🧠",
+      "score": "7.24",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "陰キャ",
+      "score": "62.53",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🧠",
+      "score": "18.66",
+      "kills": 18
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkUEWxCAIQxkH7n/leQkBaZ9uhk3VT0K0ZmafKkOFRUTkCsvGPAJTmWVbqm8UcgjQPap3SXNo86Z98ucC97kXMh8aKBE6YPiVkq1rreeMfkQeT6o0cJXzpHLhT5BzrNfTaHYPlGPtM1gf6m9GuLPji6pe3IJrd0cD4ZF61hQP7aBlXs8m5O5pnu6Kt2FRyjt8c2kZvWnAtI0z/POtpozRK1U9wM6EwXfK/j2Y263F9q1VHA06UBF+fuZbDZ0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83030",
+      "4": "#e83030",
+      "5": "#30d7e8"
+    },
+    "sz": 30
+  }
+}

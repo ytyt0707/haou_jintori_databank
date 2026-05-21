@@ -1,0 +1,112 @@
+{
+  "round_id": 50003,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-05-07T13:01:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チー牛] 岩井映美里",
+      "team": "チー牛",
+      "emoji": "⭐",
+      "score": "13.11",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 左右",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤩",
+      "score": "10.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チー牛] チー牛",
+      "team": "チー牛",
+      "emoji": "🦄",
+      "score": "2.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チー牛] も",
+      "team": "チー牛",
+      "emoji": "😍",
+      "score": "1.56",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "1.45",
+      "kills": 7
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] 羽山",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤓",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵ONJ] 上下",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦁",
+      "score": "0.00",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チー牛",
+      "score": "16.75",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "12.00",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵陽キャ",
+      "score": "0.06",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9koGOwzAIQ02lxRn//8EnG5Kmt90hrYr2auxAgbMmwKqIOME6z2kc37Gh2BfxvJrik164ECSFTDPTjs5w6UjqsWnzFQus4BKna5N1IK0uWt0Xqvbq/TfF7pxkOM2SKxnQvlRIkvMcHzvVuzKQcy6xvLc2xAE8tJtq8oEAA/BMDl+v7aUSVTli+/qPpoVF+771uunezD2rpuM1xnC00PXuWSGBfIn28qK2uCc5RuZBdbvPObuhmobw2n55W1CbD2nl6F/hW2r668M4qJs/F18XaV+vcFlmaqIm64G79b/U6Z/Sc59yeHbGD1w4CSM=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "5": "#e86430",
+      "6": "#e86430",
+      "7": "#9ca3af",
+      "8": "#9ca3af",
+      "9": "#e83064",
+      "10": "#e86430"
+    },
+    "sz": 30
+  }
+}

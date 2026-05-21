@@ -1,0 +1,56 @@
+{
+  "round_id": 36000,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-08T16:01:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[統一] 山上徹也",
+      "team": "統一",
+      "emoji": "🦁",
+      "score": "18.78",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] うんこ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "5.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しNE",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "統一",
+      "score": "18.78",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "5.55",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kksOhDAMQ+1Gvv+VR+4ngaF0SRco8OLYUSE+P60dLBtOFO0kfoNSN9xLpYndEz4rXcAsXyftLfVYzV/QEW94M40ri7NHhIJI/KRkwhoIrxkRV5h0WAV0oxlgFtzS5WW66n+lJN6dq8NXIJnu1IsCtXFqB9RWCN/t2PdlbnjkjoG8/RXpB2ekaX26VH0aqefMHyVKAzA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d64e5",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

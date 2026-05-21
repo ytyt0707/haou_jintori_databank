@@ -1,0 +1,48 @@
+{
+  "round_id": 52933,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-14T03:26:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] パソコンマン",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "93.71",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 殺す",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤡",
+      "score": "1.83",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "93.71",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.83",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkMEKACAIQ9P5/98cS4ICG3SuTtbbNAc8eNq6s62XX4sEttiEjkinahKbkUccRpBGHDC9hDR70SAp4F7QMbcwzSf56xSl5CYpoANsbwpj",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

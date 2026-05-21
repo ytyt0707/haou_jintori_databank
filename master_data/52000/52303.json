@@ -1,0 +1,42 @@
+{
+  "round_id": 52303,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-12T17:23:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] 煮込うどん＾＠＾",
+      "team": "なきち",
+      "emoji": "🥚",
+      "score": "23.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しQV",
+      "team": "",
+      "emoji": "😂",
+      "score": "1.05",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "23.77",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kksSwCAIQ0F6/zN3+IQGOqMbqY8EKarykrWYqS4oRD1OfDqLcEvPAWdKONUDwlmW1pBVFctZ1S9jBtz3iUBFrFbIF3XdhycUbWmYbxpFoTazwck4U+50qcm1wk/+cx6lN80WoOaOqAZwTpjAsMb8mbdS5I4xu9j/PQ3sputvOn8yiUsidpoYJ2O/ap9S9rNjaUA/6CfLdMSd0cHA9PECUrEDdw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#47e830",
+      "4": "#30e881"
+    },
+    "sz": 30
+  }
+}

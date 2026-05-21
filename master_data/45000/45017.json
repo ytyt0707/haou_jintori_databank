@@ -1,0 +1,51 @@
+{
+  "round_id": 45017,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-26T07:24:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無し4X",
+      "team": "🇯🇵ONJ",
+      "emoji": "😃",
+      "score": "43.60",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "33.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "不殺の誓い",
+      "team": "",
+      "emoji": "🕊️",
+      "score": "8.90",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "43.60",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkksKxDAMQ/1R73/lorhpFRfCDMxitEnMk4QDyfxf2c9We5pi2xkdQ+2hU1AwS6Myk9kIRACA+8AwAwYOM/qF0lZKIyh0ZSfiaTKEu8vYsFMrlvCWFnzFZ1nVLuXSPF1yTtrWuRyTSuDj6z77poeoUSG8rrTBrygw+u4KfhE+cPwVFL3hcQJG5Avl",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#7c4de5",
+      "4": "#9ca3af",
+      "5": "#e83042"
+    },
+    "sz": 30
+  }
+}

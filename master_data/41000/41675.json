@@ -1,0 +1,57 @@
+{
+  "round_id": 41675,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-18T06:54:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ピカ] ピカチュウ",
+      "team": "ピカ",
+      "emoji": "🐣",
+      "score": "55.39",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ピカ] ヨルノズク",
+      "team": "ピカ",
+      "emoji": "🦉",
+      "score": "23.06",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 粘着戦法布教",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "8.33",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ピカ",
+      "score": "78.45",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "8.33",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9k1kSAyEIRCEN979yCqQRJ2b4UfrJYokitk3KQNsQcarltUlKbVN8UpOhoEOBjwAQGcqkCEeOWFZYq9mTjsbwQw2jDfubed1OxN3hflakFzCNwrFeaVw17UoJ8U4b9/ljY29d4Z2y8JGQjqiquqsrlbkmVdcrxIptWCPG+DutiTBbZTkgPZ5ADuHqijSlPpKxqr7ffCB7UjLm0LhOxZJlpnTib8QmL9G4mrKiAZtZDF8aP1bPA6R+QeAvErMK5A==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#e85330",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

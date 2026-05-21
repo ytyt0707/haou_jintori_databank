@@ -1,0 +1,55 @@
+{
+  "round_id": 44571,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-25T06:56:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🧠] 名無しmF",
+      "team": "🧠",
+      "emoji": "🦁",
+      "score": "39.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇫🇷代行者] シエル",
+      "team": "🇫🇷代行者",
+      "emoji": "🗡️",
+      "score": "0.11",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷代行者] 北条鉄平",
+      "team": "🇫🇷代行者",
+      "emoji": "🤬",
+      "score": "0.00",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🧠",
+      "score": "39.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷代行者",
+      "score": "0.11",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkkEOxDAIA10k/v/lFdgmQe1pe0nAjAsomdcHAIkrMVcml9qpAjLJFC24Lx3TstIdhi8MVSIRVh1TdhQg5NgwjSN2tVQdrXanO88oIjXH4xGmLKLUXgSeaz6ThXIHj4Y/oxUaw2qZy1kIPtlaR33yHxBAd3VUS9rBViVOW0s1Oec/qq1v1rkxRi2DLb80po0fxPtuvbbp56MS2dUR4edDd23tVPhxvdHGt/PB5jZdTea+fLu6gmr9wpk6Pd0P/hQICw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "5": "#bcd411"
+    },
+    "sz": 30
+  }
+}

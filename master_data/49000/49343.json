@@ -1,0 +1,57 @@
+{
+  "round_id": 49343,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-06T01:20:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新鯖♡] 殺す",
+      "team": "新鯖♡",
+      "emoji": "💀",
+      "score": "22.06",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ばぁ] 上下",
+      "team": "🇯🇵ばぁ",
+      "emoji": "🤠",
+      "score": "13.31",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "フェリス",
+      "team": "",
+      "emoji": "🦅",
+      "score": "1.60",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新鯖♡",
+      "score": "22.06",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ばぁ",
+      "score": "13.31",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kFsWxCAIQwPS/W95ThR5WKf8tHpJgojMwr0aHGP0rkUFGFnZ4Vr5pIAh9F0bJ+YyIC5EREX8uKM7PWDTiqoqG1waSoDOii96xB7aPdVrKNB4hmZue5KqcmF/KCaGlGWWZL5niccwM240i3BiLNgpjVVpjCm9qzk4jWelNVxdabXnJhVmqa0UAGGr6t1coys64qb+bMq753kq4hgLOzzoXttVWmE3Xi9I4xXps+cnGriOs36c2gWY",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#af30e8",
+      "5": "#aad411"
+    },
+    "sz": 30
+  }
+}

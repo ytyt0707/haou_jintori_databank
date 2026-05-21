@@ -1,0 +1,57 @@
+{
+  "round_id": 41579,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-18T01:42:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 山上徹也",
+      "team": "みん²",
+      "emoji": "🦊",
+      "score": "44.34",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] な",
+      "team": "みん²",
+      "emoji": "😍",
+      "score": "13.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "57.64",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkkEOAzEIA0lr/v/lyoAJbKWeyyGLGJtAtGYMd/c8mUWwFuxZJwCjKeRxj05By5xSwFtE+nYDWAkpD7Uob1WESfveMIW+MHMpoUxfgpvz2hVfhaDVMTbMTYcpVrn7UwS8zHRNTlOvUy0oYTg37adLDaAhaqlpZX7v1qJTcSnc7Zwz4TTDSBcfXiDpsG/6NG/6szN/ldF3DbUfMmZfnfWb9VZ/QXsaJWsqFfs7aRc7+QCQiQjw",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e85e",
+      "5": "#30e85e"
+    },
+    "sz": 30
+  }
+}

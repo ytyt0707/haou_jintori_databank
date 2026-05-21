@@ -1,0 +1,108 @@
+{
+  "round_id": 48231,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-05-03T13:07:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤓",
+      "score": "36.40",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ヴォル] ๑",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🤡",
+      "score": "17.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "9.26",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "🥐",
+      "score": "5.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇫🇷デパ] も",
+      "team": "🇫🇷デパ",
+      "emoji": "😍",
+      "score": "4.73",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "1.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵陽キャ] ばかたれ",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🗡️",
+      "score": "0.11",
+      "kills": 5
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵陽キャ] 利敵マン",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🐲",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵陽キャ",
+      "score": "36.60",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ヴォル",
+      "score": "26.49",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇫🇷デパ",
+      "score": "10.67",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klESAyEIQ+MilO79D9wJQe3MtvzU5RECVcQzsFMw2+fnYdHfNavLb/rVzb5MUvnWWrwDOmdGZtOjfW+aZhm0UvmrapoGIcNWIsysP5gWzdwjF6bbhpYJRkRpqdiU1cIRVphmdG1b0Rpp5QiL8sfVWHt155pqdT4bm3xranXYO1WR/qdMd7UfYxxxRCKQmT59csZF7/tmFUCY050Yi4Yw12/qs6hu7lBgUusToFj3evNaQMRw57JjjLFeT423YVOgluvRD90Y5zE86OCcdXk0PpgL0LiW5KJMFNZUTRcmFacrrlLzRKleA9VVheu6gPGkwoT/4wMlgQ/t",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#85d411",
+      "5": "#85d411",
+      "6": "#514de5",
+      "7": "#514de5",
+      "8": "#e83053",
+      "9": "#514de5",
+      "10": "#30b4e8"
+    },
+    "sz": 30
+  }
+}

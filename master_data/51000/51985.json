@@ -1,0 +1,72 @@
+{
+  "round_id": 51985,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-12T00:11:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "😂",
+      "score": "22.72",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] AAA",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "13.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "🌸",
+      "score": "9.20",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "13.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "9.20",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ソ連",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kMESAyEIQyPC9P//eIeICOv01ikHF/cRCYicgGDHGGMAcKYZBTJVFRxsFpxKQLWIgY+tgqSqRwvzAAIiW3qCRc2pm2oUSbHgd+ryIRDJkq115z4xX88GSWnsorS8bFO8t0N/aYtLOVo+zmPJXdRozEcaL25XvHIh0TV4+ejUyW351q6YHjDDC/L/Oi4NCpxvGpoo6bTqmDf8Rzqr7avvz2hb1D1wm/51eQAGFQY7",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d130e8",
+      "4": "#9ca3af",
+      "5": "#e83087",
+      "7": "#d4c811"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "round_id": 40197,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-14T22:59:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[Y&M] You&Me",
+      "team": "Y&M",
+      "emoji": "🐶",
+      "score": "81.26",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "つんこ",
+      "team": "",
+      "emoji": "👻",
+      "score": "5.03",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "Y&M",
+      "score": "81.26",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9k0sSwCAIQ4Ph/mfuANoZK+Cu2ekziZ8RaMVGQAOJFreQ/9BxbH/1DtcXL8qcCilinhHB2+1AZFKetYS4voVz7LRgNC+9dutby43WutHcqWrzhTcgkWK90UhGHGhrV5f1ZslBzV1R0umWGYMZrGR6g0rbter7+kdET+ne9pM91tgJIw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8e8",
+      "4": "#6e4de5"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "round_id": 42247,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-04-19T13:49:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] ベネット",
+      "team": "楚",
+      "emoji": "🤗",
+      "score": "36.46",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇮🇹大秦国] ポンペイウス",
+      "team": "🇮🇹大秦国",
+      "emoji": "🙂",
+      "score": "14.89",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "⚔️",
+      "score": "14.85",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] てぬきち",
+      "team": "🇯🇵ONJ",
+      "emoji": "🔰",
+      "score": "11.64",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[なきち] も",
+      "team": "なきち",
+      "emoji": "😍",
+      "score": "1.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] 名無しdw",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇮🇹大秦国] ネロ帝",
+      "team": "🇮🇹大秦国",
+      "emoji": "🗡️",
+      "score": "0.08",
+      "kills": 11
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "😴",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "51.31",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇮🇹大秦国",
+      "score": "14.98",
+      "kills": 16
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "11.73",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "なきち",
+      "score": "1.32",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkUF2wzAIRMkDlZT7HzidAQTOqixkm88MAqt2mJkaox5IrGiaNTgXVGr0WjyoMJ8lrX5ogabp1UoXsVkrs680zOqBuJVUlNOCX3QTMwtVE0sxUd35xQ9Q2xRm12FT6WzjCL6JwL2hqVpIIG7KnjSxecZUYTAKI6Kgc9guiSjnoXNXKLMv6fGfc+ycA3G6LpolSTNdjcv57f6LSTRkY3eXrOBesdNpe+/sjr8ZufE0EPmm1KUeZ/V1aKsl9XQZyl/FMdOdZ2kxqEjuYNFeHnEtYvC/aS0XDW6MuLZ3yd/LB8dtD58=",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#4d56e5",
+      "4": "#4d56e5",
+      "5": "#7c4de5",
+      "6": "#9ca3af",
+      "7": "#9ca3af",
+      "8": "#7c4de5",
+      "9": "#e83030",
+      "10": "#e83030"
+    },
+    "sz": 30
+  }
+}

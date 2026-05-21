@@ -1,0 +1,107 @@
+{
+  "round_id": 37330,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-04-10T14:44:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[寝ない] 名無しRq",
+      "team": "寝ない",
+      "emoji": "👹",
+      "score": "10.53",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ねろ] ねる",
+      "team": "ねろ",
+      "emoji": "😔",
+      "score": "5.54",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ねろ] も",
+      "team": "ねろ",
+      "emoji": "😍",
+      "score": "3.34",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ねろ] 雑魚",
+      "team": "ねろ",
+      "emoji": "🗡️",
+      "score": "2.36",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 名無しLy",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "1.80",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] お腹いっぱい🎀",
+      "team": "🇯🇵ONJ",
+      "emoji": "😭",
+      "score": "0.96",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ONJ] 悪童",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "0.45",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵ONJ] パラガス",
+      "team": "🇯🇵ONJ",
+      "emoji": "😊",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ねろ",
+      "score": "11.24",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "寝ない",
+      "score": "10.53",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "3.22",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kkEOxSAIREdopHr/AzcDFrVpVz/fFfKYEUUgVimlMOqxxFcfEKSOIyHnSb7SOwag6nhmFqWSiuiEe+S0pnNCVUpIq9TMMjBjHlDRKrXWjZqZOcUhB+HmTKrhDCVdtYRJjdd9odFJPNbSFaXN7kuuTxVFpDZCMZERp4M2aq0Bb3SUtdbM5hByVoEHpbNPNL0X3AToY+I7Z388fvyG/jD3+034oDC484cYTu++WLSfjZjRp9qrf6HZ+OPc3IZ5bv8eXOL5B4c=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#59e830",
+      "4": "#9ca3af",
+      "6": "#9ca3af",
+      "7": "#59e830",
+      "8": "#9ca3af",
+      "9": "#59e830",
+      "10": "#30e8e8"
+    },
+    "sz": 30
+  }
+}

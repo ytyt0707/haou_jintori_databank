@@ -1,0 +1,42 @@
+{
+  "round_id": 52783,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-13T19:19:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラ] 名無しM5",
+      "team": "ラ",
+      "emoji": "😀",
+      "score": "93.55",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラ] 名無しhi",
+      "team": "ラ",
+      "emoji": "👻",
+      "score": "0.45",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラ",
+      "score": "94.00",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFk8EOwCAIQ2vr/3/zol6QjB7MFjlhn1AkURIUo2NEUGIeZJsiNbWXC0iKBZJEGihXmR88PKBeW2VSL6Qm08Pi7LLOs+Sg7r3bj+o+Y2vO6hp1Q33L9nX434AH3XQKMw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8b4",
+      "4": "#30e8b4"
+    },
+    "sz": 30
+  }
+}

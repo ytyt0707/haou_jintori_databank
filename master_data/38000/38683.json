@@ -1,0 +1,48 @@
+{
+  "round_id": 38683,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-12T03:16:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中自害してちょ",
+      "team": "🇯🇵田中",
+      "emoji": "💩",
+      "score": "15.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ぬ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "0.16",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "15.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.16",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkVEOwCAIQwt4/zMvCpjMQbdk/BjzaAsq4oWyAg5hVGRUOLQiyii0xFhqKKM6q/D2YA3x2eEUmFjNDr3HOlR74Oh2qRnqhmVssw53v87YngKc/sPhXQ+2o5vBU9yoE9+X3l58rVqcVpy+PAkN5s6cNt+fQ38+L8BCAi0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "round_id": 51227,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-10T07:13:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] ぶりぶり",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "91.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[帰宅部] みかん",
+      "team": "帰宅部",
+      "emoji": "🍊",
+      "score": "0.78",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵デカ女] デカ女同好会",
+      "team": "🇯🇵デカ女",
+      "emoji": "💩",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "91.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "帰宅部",
+      "score": "0.78",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵デカ女",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFk1EKwCAMQxfT3f/KoxtYpGvAiaxflddglJScLQgBvCpuZjXkTUstXZvoEVe90IDeJfGANR1GNx5+cdGaepGioKJcopSulOPvTH9/pzmHES/g7HPJyLMdSFG8ABmmCkE=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#aad411",
+      "5": "#e83042"
+    },
+    "sz": 30
+  }
+}

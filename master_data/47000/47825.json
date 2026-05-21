@@ -1,0 +1,72 @@
+{
+  "round_id": 47825,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-02T15:10:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "27.04",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "8.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "🥐",
+      "score": "3.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ラー軍] س",
+      "team": "ラー軍",
+      "emoji": "🔸",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "8.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷デパ",
+      "score": "3.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ラー軍",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtklsShSAMQ4sC+1/yvUlfwfHTjjNAT5tG1ExiIszGwMPYe+8oIJw4DAQ2oI4DAs9sflL2Qp/R1Fq5KKSj0DEORWssk26azkM5OwtzQmRL95VKa/jS3q+oSKtk7v1C/L0y1+s3tO+rlY8bOdJ5qNmZONai+MjrQA/ptQRfqNTeFbhrQKPGQBk1gHTerEkoA9hq/PGatjaHQ0ug0LyoV+q+zt6y5YZ5hBtxxJy7/m9/TtAGJQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#e830a9",
+      "5": "#d4c811",
+      "6": "#59e830"
+    },
+    "sz": 30
+  }
+}

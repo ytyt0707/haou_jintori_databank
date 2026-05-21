@@ -1,0 +1,71 @@
+{
+  "round_id": 47707,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-02T08:48:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[亡鬼血] なきち狩り",
+      "team": "亡鬼血",
+      "emoji": "💀",
+      "score": "61.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] 山上徹也",
+      "team": "🇯🇵自民党",
+      "emoji": "🦄",
+      "score": "15.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[新鯖♡] ノーマル鯖",
+      "team": "新鯖♡",
+      "emoji": "😀",
+      "score": "0.21",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[新鯖♡] 新鯖♡",
+      "team": "新鯖♡",
+      "emoji": "❤️",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "亡鬼血",
+      "score": "61.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "15.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "新鯖♡",
+      "score": "0.21",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk1sShTAIQ0nHsP8l36FAtfQxl5+qh0RSbWteJCm10JqqEasCAVBV5UjVKugsBoBOj7zQrxyQoMM8sfkO59fbscOhnbGlg7zOE6WqZ6cFtspUvg5KUllpDNdbF9afivgmhnltutJFO6m7r46x19Ft4Ax1oMEfC50fu+TfKT8ty4Z92O5y/5bsvFA5TfiH9pjupr3M4p89xX2NA5R/q936qfoBwS4OOw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#e83098",
+      "5": "#994de5",
+      "6": "#30e83c"
+    },
+    "sz": 30
+  }
+}

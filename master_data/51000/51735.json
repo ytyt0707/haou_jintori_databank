@@ -1,0 +1,96 @@
+{
+  "round_id": 51735,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-05-11T10:40:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新鯖♡] 新鯖♡",
+      "team": "新鯖♡",
+      "emoji": "❤️",
+      "score": "13.49",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷キムチ] 名無し3D",
+      "team": "🇰🇷キムチ",
+      "emoji": "😀",
+      "score": "1.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無し70",
+      "team": "",
+      "emoji": "😀",
+      "score": "1.47",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵山本組] 安藤",
+      "team": "🇯🇵山本組",
+      "emoji": "🐶",
+      "score": "1.35",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[新鯖♡] 名無しwF",
+      "team": "新鯖♡",
+      "emoji": "😎",
+      "score": "0.26",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[テスト] テスト",
+      "team": "テスト",
+      "emoji": "💣",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新鯖♡",
+      "score": "13.75",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷キムチ",
+      "score": "1.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵山本組",
+      "score": "1.35",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "テスト",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkVESxCAIQ6Oxuvc/8Q4IRVqn3eVH5JHAKLBErcvlmtY/aClZnaUFV2zdzc6EXdsaCZQsrrCVafQ6WR2pgRKQsd+EFGpzZY7HQgEKkYpTuWkuSsJo4Og1nyiI4HQiOYa2fG7WAMcwKgO8wROBU7vZC0p7n+NdGifJLqGruGPCwlfjCa2Vvd9FIX+h/ngh2GTZ/zg2LWfpeMQ/0zxS3Z+15wLL9yy1t/QLDyoCxg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#30e8a3",
+      "5": "#e8a930",
+      "6": "#e830a9",
+      "7": "#994de5",
+      "8": "#514de5"
+    },
+    "sz": 30
+  }
+}

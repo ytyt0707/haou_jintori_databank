@@ -1,0 +1,40 @@
+{
+  "round_id": 44100,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-24T05:29:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇪🇸宣教師] 肉体派ザビエル",
+      "team": "🇪🇸宣教師",
+      "emoji": "😇",
+      "score": "2.46",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸宣教師] ルイス・フロイス",
+      "team": "🇪🇸宣教師",
+      "emoji": "😆",
+      "score": "0.00",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇪🇸宣教師",
+      "score": "2.46",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkDEKQDEIQx8h9z9zaf9iB9OhS4cvDsozIQjvld1nMoniA+2Nicae1YszLbrgAXh1Od/GFOATb+f/cv0BKVlIgU/YY0HBAwyTAI8=",
+    "cp": {
+      "2": "#9ca3af",
+      "4": "#c030e8"
+    },
+    "sz": 30
+  }
+}

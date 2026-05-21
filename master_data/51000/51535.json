@@ -1,0 +1,47 @@
+{
+  "round_id": 51535,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-10T23:52:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] えんぴつ",
+      "team": "🇯🇵自民党",
+      "emoji": "🐱",
+      "score": "1.47",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[テスト] テスト",
+      "team": "テスト",
+      "emoji": "💣",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "1.47",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "テスト",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kUsKACEMQ5Pg/c881Kkw0I8LnSz7TFIqAOgrBImS5iMowpdCEXkyg8cHFMmCGjEVXqc5XrCleTCJpnV68tQ87sI0OWt+6tVlf1VrR2vnllw5zBhdz5+0L+62OmYPrpsAuw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#47e830"
+    },
+    "sz": 30
+  }
+}

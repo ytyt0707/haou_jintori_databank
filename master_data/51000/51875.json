@@ -1,0 +1,42 @@
+{
+  "round_id": 51875,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-11T18:14:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ソ連] 嬋娟",
+      "team": "ソ連",
+      "emoji": "😜",
+      "score": "71.43",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.22",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ソ連",
+      "score": "71.65",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlk0ESxSAIQ4P0/mf+A0HBVtx8Fq3mSYQpFYkAhgVWKIAJRcQwtEal6tk9VXX3PJDO1MYYCdN5aQUHXWhfON0l20XpDY3zdP4mU8lcTLtyFCJl917+TVtzq0p7er04O3rXa/sLhdp0oL2W+GRKrcv1r+T3Hq2fJ6o6Urf28W0xh7vDVxpQ9n9gtkjK59TyXSnAJov2AzZ3CCI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#e8ba30"
+    },
+    "sz": 30
+  }
+}
