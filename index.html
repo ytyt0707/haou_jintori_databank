@@ -610,8 +610,6 @@
 
 
 
-        // 入力値取得ヘルパー
-
         function getFilterVal(id) {
 
             const val = document.getElementById(id).value;
@@ -718,8 +716,6 @@
 
 
 
-                // 💡 【修正点】名前によるマージ処理を完全撤廃！JSONの行を素直に独立データとして扱う
-
                 if (currentMode === 'personal') {
 
                     rawRankings.forEach(row => {
@@ -794,8 +790,6 @@
 
 
 
-                // 🔢 キルレートと活動日数の事前計算
-
                 activeData.forEach(p => {
 
                     p.kill_rate = p.matches > 0 ? (p.total_kills / p.matches) : 0;
@@ -821,8 +815,6 @@
                 });
 
 
-
-                // 🛡️ 【新機能】18項目の詳細フィルター適用
 
                 const f = {
 
@@ -886,8 +878,6 @@
 
 
 
-                // --- 📊 指定キーに基づくデータの並び替えソート ---
-
                 activeData.sort((a, b) => {
 
                     if (currentSortKey === 'last_date' || currentSortKey === 'first_date') {
@@ -924,13 +914,9 @@
 
 
 
-                // 🏆 ソート後に順位付け
-
                 activeData.forEach((item, i) => { item.rank_all = i + 1; });
 
 
-
-                // 🛡️ 順位（Rank）フィルターの適用（ソート＆順位確定後に間引き）
 
                 const minRank = getFilterVal('min_rank');
 
@@ -955,8 +941,6 @@
                 updateHeaderArrows();
 
                 
-
-                // 🔍 検索キーワードフィルタリング
 
                 filteredDisplayData = activeData.filter(p => {
 
@@ -996,8 +980,6 @@
 
 
 
-        // 🎬 200件ずつドキュメントの破片を作って高速に追記するシステム
-
         function renderNextBatch() {
 
             const tbody = document.getElementById('rankingBody');
@@ -1032,7 +1014,19 @@
 
                 const killRate = p.kill_rate.toFixed(2);
 
-                const analysisUrl = `analysis.html?name=${encodeURIComponent(p.name)}&mode=${currentMode}`;
+                
+
+                // 💡 モードに合わせて飛ぶファイルを変更する処理のみ適用なのです
+
+                const analysisUrl = currentMode === 'personal' 
+
+                    ? `personal.html?name=${encodeURIComponent(p.name)}` 
+
+                    : `team.html?name=${encodeURIComponent(p.name)}`;
+
+                
+
+                // 💡 文字装飾（[チーム名]などのタグ）は元のままで保ちます
 
                 const teamDisplay = (currentMode === 'personal' && !p.isSolo) ? `[${p.team}]` : "";
 
@@ -1164,5 +1158,4 @@
 
 </body>
 
-</html> 
-
+</html>
