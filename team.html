@@ -259,9 +259,8 @@
                             <div class="review-bbs">
                                 <div class="bbs-meta">
                                     <span>${r.bbs_header.res_no}</span> : 
-                                    <span>${r.bbs_header.posted_at}</span>
-                                    <span class="bbs-author">${r.bbs_header.author}</span> 
-                                     ID:${r.bbs_header.user_id} 
+                                    <span class="bbs-author">${r.bbs_header.author}</span>
+                                    <span>${r.bbs_header.posted_at}</span> ID:${r.bbs_header.user_id} 
                                 </div>
                                 <div class="bbs-content">${r.content}</div>
                                 ${r.ref_url ? `<a href="${r.ref_url}" target="_blank" class="ref-link">🔗 引用元スレッド</a>` : ''}
