@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>チーム分析 - 陣取りデータバンク</title>
+    <title>個人分析 - 陣取りデータバンク</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -38,12 +38,18 @@
         .excel-table-wrapper { overflow-x: auto; margin-bottom: 15px; }
         .excel-table { border-collapse: collapse; background-color: var(--bg-panel); width: max-content; }
         .excel-table th, .excel-table td { border: 1px solid var(--excel-border); padding: 4px 8px; text-align: right; white-space: nowrap; }
-        .excel-table th { background-color: #111; color: #ccc; text-align: center; font-weight: normal; }
+        .excel-table th { background-color: #111; color: #ccc; text-align: center; }
         .excel-table tr:hover { background-color: var(--highlight); }
         .col-left { text-align: left !important; }
 
         /* サブテーブル用グリッド */
         .sub-tables-grid { display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; }
+
+        /* チーム選択チップス */
+        .chip-container { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 15px; }
+        .chip { background: #111; padding: 3px 10px; border-radius: 3px; font-size: 0.8rem; cursor: pointer; border: 1px solid var(--excel-border); transition: 0.2s; color: #ccc; }
+        .chip:hover { background: #333; }
+        .chip.active { background: var(--deep-blue); color: #fff; border-color: var(--deep-blue); }
 
         /* 📈 グラフエリア */
         .chart-container { background-color: var(--bg-panel); border: 1px solid var(--border-color); padding: 10px; border-radius: 4px; }
@@ -61,15 +67,14 @@
         .element-toggles label:hover { background: #2a2c30; }
         
         /* 💡 文字ごと灰色にするグレーアウト設定 */
-        .element-toggles label:has(input:disabled) { color: #555 !important; cursor: not-allowed; opacity: 0.5; }
+        .element-toggles label:has(input:disabled) {
+            color: #555 !important;
+            cursor: not-allowed;
+            opacity: 0.5;
+        }
 
-        /* 人物評スクロール */
         .review-scroll { display: flex; gap: 10px; overflow-x: auto; padding: 5px 0; }
         .review-card { min-width: 250px; background: #111; padding: 10px; border: 1px solid var(--excel-border); border-left: 4px solid var(--deep-blue); font-size: 0.8rem; }
-
-        /* リンク用のスタイル */
-        .anal-link { color: #4fa8ff; text-decoration: none; cursor: pointer; }
-        .anal-link:hover { text-decoration: underline; color: #fff; }
     </style>
 </head>
 <body>
@@ -84,16 +89,17 @@
     </header>
 
     <div class="container">
-        <div class="page-title-section" id="team-name-title">🏴 チーム分析: 読み込み中...</div>
+        <div class="page-title-section" id="player-name-title">👤 個人分析: 読み込み中...</div>
 
         <h2>📊 基本統計・計算値</h2>
         <div class="excel-table-wrapper">
             <table class="excel-table" id="main-summary-table">
                 <thead>
                     <tr>
-                        <th>総出撃数</th><th>1位数</th><th>累計チーム面積</th><th>最大チーム面積</th><th>総チームキル</th><th>最大チームキル</th>
-                        <th>毎試合チームキル</th><th>毎分チームキル</th><th>毎試合チーム面積</th><th>毎分チーム面積</th>
-                        <th>平均チーム順位</th><th>平均参戦人数</th>
+                        <th colspan="2">区分</th>
+                        <th>試合数</th><th>1位数</th><th>累計面積</th><th>最大面積</th><th>総キル数</th><th>最大キル</th>
+                        <th>毎試合キル数</th><th>毎分キル数</th><th>毎試合面積</th><th>毎分面積</th>
+                        <th>平均個人順位</th><th>平均面積</th><th>平均キル</th>
                     </tr>
                 </thead>
                 <tbody id="main-summary-body">
@@ -101,20 +107,25 @@
             </table>
         </div>
 
+        <h2>🏴 これまでに所属したチーム (クリックで下の表とグラフを絞り込み)</h2>
+        <div class="chip-container" id="team-chips">
+            </div>
+
         <div class="sub-tables-grid">
             <div>
-                <h2>🏅 順位別獲得数 (1位〜5位)</h2>
+                <h2>🏅 順位別獲得数 (選択チーム反映)</h2>
                 <table class="excel-table">
                     <thead><tr><th>順位別獲得数</th><th>回数(回)</th><th>割合(%)</th></tr></thead>
                     <tbody id="sub-rank-body"></tbody>
                 </table>
             </div>
             <div>
-                <h2>🔥 チーム内貢献度ランキング (トップ15)</h2>
+                <h2>💬 使用アイコン (選択チーム反映)</h2>
                 <table class="excel-table">
-                    <thead><tr><th>順位</th><th>プレイヤー名</th><th>累計面積</th><th>累計キル</th></tr></thead>
-                    <tbody id="sub-member-body"></tbody>
+                    <thead><tr><th>アイコン</th><th>回数</th></tr></thead>
+                    <tbody id="sub-icon-body"></tbody>
                 </table>
+                <div id="icon-toggle-btn" style="margin-top: 5px; text-align: right; color: var(--deep-blue); cursor: pointer; text-decoration: underline; display: none;" onclick="toggleIcons()">展開する</div>
             </div>
         </div>
 
@@ -153,25 +164,31 @@
             <canvas id="historyChart" style="max-height: 450px; margin-top: 10px;"></canvas>
         </div>
 
-        <h2>💬 コミュニティからのチーム評</h2>
+        <h2>💬 コミュニティからの人物評</h2>
         <div class="review-scroll" id="reviews-box">
-            <div class="review-card">「少数精鋭で常に上位をかっさらう恐ろしいチーム。」</div>
-            <div class="review-card">「見かけたら要注意。連携の取れた包囲網で一気に制圧してくる。」</div>
-            <div class="review-card">「人数こそ少ないが、一人一人の生存力が異常に高い。」</div>
+            <div class="review-card">「この人が前線にいる時の安心感は異常。スコア稼ぎの天才。」</div>
+            <div class="review-card">「対戦で見かけたら即逃げ推奨。キルムーブが凄まじいプレイヤー。」</div>
+            <div class="review-card">「ソロでもチームでも安定して上位に食い込んでくる立ち回りの鬼。」</div>
         </div>
     </div>
 
     <script>
         const params = new URLSearchParams(window.location.search);
-        const teamName = params.get('name') || "🇯🇵ONJ";
-        const GAME_MINUTES = 4.0; // 💡 チーム戦は4分
+        const playerName = params.get('name') || "(≡3≡)";
+        const GAME_MINUTES = 3.0; 
 
         let rawHistory = [];
+        let selectedTeams = [];
         let myChart = null;
 
-        // グラフ要素定義 (チーム版)
+        // アイコン折り畳み用
+        let iconsExpanded = false;
+        let currentIconsHtmlAll = "";
+        let currentIconsHtmlTrunc = "";
+
+        // グラフ要素定義
         const plotOptions = [
-            { id: 'matches', label: '出撃回数', color: '#ffffff', type: 'sum', requiresScale: true },
+            { id: 'matches', label: '参加回数', color: '#ffffff', type: 'sum', requiresScale: true },
             { id: 'wins', label: '1位数', color: '#ffea00', type: 'sum' },
             { id: 'area_sum', label: '累計面積(期間合算)', color: '#4fa8ff', type: 'sum' },
             { id: 'area_acc', label: '累計面積(全期間加算)', color: '#0055ff', type: 'acc' },
@@ -183,111 +200,211 @@
             { id: 'kill_min', label: '毎分キル数', color: '#ffbbcc', type: 'avg_min' },
             { id: 'area_avg', label: '毎試合面積(平均)', color: '#88ccff', type: 'avg' },
             { id: 'area_min', label: '毎分面積', color: '#bbeeff', type: 'avg_min' },
-            { id: 'rank_avg', label: '平均チーム順位(逆軸)', color: '#bbff00', type: 'avg_rev' },
-            { id: 'member_avg', label: '平均参戦人数', color: '#d4b611', type: 'avg' }
+            { id: 'rank_avg', label: '平均個人順位(逆軸)', color: '#bbff00', type: 'avg_rev' }
         ];
 
         function getSafeFilename(name) { return name.replace(/[\\/:*?"<>|]/g, '_'); }
 
-        async function loadTeamData() {
+        async function loadPlayerData() {
             try {
-                const safeName = getSafeFilename(teamName);
-                const response = await fetch(`analysis_data/team_analysis/${safeName}.json`);
+                const safeName = getSafeFilename(playerName);
+                const response = await fetch(`analysis_data/personal_analysis/${safeName}.json`);
                 if (!response.ok) throw new Error("ファイルが見つからないのです");
                 const data = await response.json();
                 
-                document.getElementById('team-name-title').innerText = `🏴 チーム分析: ${data.name}`;
+                document.getElementById('player-name-title').innerText = `👤 個人分析: ${data.name}`;
                 rawHistory = (data.h || []).sort((a,b) => new Date(a.at) - new Date(b.at)); 
 
                 buildMainTable(rawHistory);
+                buildTeamChips(rawHistory);
                 updateSubTables();
                 initGraphControls();
                 updateChart();
             } catch (err) {
-                document.getElementById('team-name-title').innerText = `❌ データが見つかりませんでした: ${teamName}`;
+                document.getElementById('player-name-title').innerText = `❌ データが見つかりませんでした: ${playerName}`;
                 console.error(err);
             }
         }
 
         // ==========================================
-        // 1. 横長メインテーブルの構築 (総計のみ)
+        // 1. エクセル風縦書き結合メインテーブルの構築
         // ==========================================
-        function buildMainTable(history) {
-            const count = history.length;
-            const tbody = document.getElementById('main-summary-body');
-            
-            if(count === 0) {
-                tbody.innerHTML = `<tr><td colspan="12" style="text-align:center;">データなし</td></tr>`;
-                return;
-            }
-
-            let w=0, aSum=0, aMax=0, kSum=0, kMax=0, rSum=0, mSum=0;
-            history.forEach(r => {
-                const sc = parseFloat(r.ts||0); const k = parseInt(r.tk||0); 
-                const rk = parseInt(r.rk||0); const mc = parseInt(r.mc||0);
+        function calcRowData(records) {
+            const count = records.length;
+            if(count === 0) return Array(13).fill('-');
+            let w=0, aSum=0, aMax=0, kSum=0, kMax=0, rSum=0;
+            records.forEach(r => {
+                const sc = parseFloat(r.sc||0); const k = parseInt(r.k||0); const rk = parseInt(r.rk||0);
                 if(rk === 1) w++;
                 aSum += sc; if(sc > aMax) aMax = sc;
                 kSum += k; if(k > kMax) kMax = k;
-                rSum += rk; mSum += mc;
+                rSum += rk;
             });
             const kAvg = kSum / count; const kMin = kAvg / GAME_MINUTES;
             const aAvg = aSum / count; const aMin = aAvg / GAME_MINUTES;
-            const rAvg = rSum / count; const mAvg = mSum / count;
+            const rAvg = rSum / count;
             
-            const vals = [
+            return [
                 count, w, aSum.toFixed(2), aMax.toFixed(2), kSum, kMax,
                 kAvg.toFixed(2), kMin.toFixed(2), aAvg.toFixed(2), aMin.toFixed(2),
-                rAvg.toFixed(1), mAvg.toFixed(1)
+                rAvg.toFixed(1), aAvg.toFixed(2), kAvg.toFixed(2)
             ];
+        }
 
-            tbody.innerHTML = `<tr><td>${vals.join('</td><td>')}</td></tr>`;
+        function buildMainTable(history) {
+            const solo = history.filter(r => r.md === 'SOLO');
+            const teamAll = history.filter(r => r.md === 'TEAM');
+            const teamNone = teamAll.filter(r => !r.tm);
+            
+            const tMap = {};
+            teamAll.filter(r => r.tm).forEach(r => {
+                if(!tMap[r.tm]) tMap[r.tm] = [];
+                tMap[r.tm].push(r);
+            });
+            const sortedTeams = Object.keys(tMap).sort((a,b) => tMap[b].length - tMap[a].length);
+            const top10 = sortedTeams.slice(0, 10);
+            const others = sortedTeams.slice(10).flatMap(t => tMap[t]);
+
+            const tbody = document.getElementById('main-summary-body');
+            tbody.innerHTML = "";
+
+            // ① ソロ戦行
+            const soloVals = calcRowData(solo);
+            tbody.innerHTML += `<tr><th class="col-left" style="background:#111; text-align:center;" colspan="2">ソロ戦</th><td>${soloVals.join('</td><td>')}</td></tr>`;
+
+            // チーム戦エリアの行数計算 (チーム戦無所属 + 各チーム10個 + その他 + チーム戦合計)
+            const totalTeamRows = 1 + top10.length + 1 + 1;
+
+            // ② チーム戦無所属（ここにrowspanの「チーム戦」縦書き枠を追加）
+            const noneVals = calcRowData(teamNone);
+            let html = `<tr>
+                <td rowspan="${totalTeamRows}" style="text-align:center; font-weight:bold; background:#111; writing-mode: vertical-rl; text-orientation: upright; padding: 10px 6px; letter-spacing: 4px; border-right: 2px solid var(--deep-blue);">チーム戦</td>
+                <th class="col-left">チーム戦無所属</th>
+                <td>${noneVals.join('</td><td>')}</td>
+            </tr>`;
+
+            // ③ トップ10チーム（チーム名のみ表示）
+            top10.forEach((t) => {
+                const vals = calcRowData(tMap[t]);
+                html += `<tr><th class="col-left">${t}</th><td>${vals.join('</td><td>')}</td></tr>`;
+            });
+
+            // ④ その他
+            const othersVals = calcRowData(others);
+            html += `<tr><th class="col-left">その他</th><td>${othersVals.join('</td><td>')}</td></tr>`;
+
+            // ⑤ チーム戦合計
+            const teamAllVals = calcRowData(teamAll);
+            html += `<tr><th class="col-left">チーム戦合計</th><td>${teamAllVals.join('</td><td>')}</td></tr>`;
+
+            tbody.innerHTML += html;
+
+            // ⑥ 総計行
+            const allVals = calcRowData(history);
+            tbody.innerHTML += `<tr><th class="col-left" style="background:#111; text-align:center;" colspan="2">総計</th><td>${allVals.join('</td><td>')}</td></tr>`;
         }
 
         // ==========================================
-        // 2. サブテーブル (順位獲得数・貢献度ランキング)
+        // 2. 所属チームチップス (指定順ソート) とサブテーブル
         // ==========================================
-        function updateSubTables() {
-            const total = rawHistory.length;
+        function buildTeamChips(history) {
+            const tMap = {};
+            history.forEach(r => {
+                let key = "無所属(SOLO)";
+                if(r.md === 'TEAM') key = r.tm ? r.tm : "無所属(TEAM)";
+                tMap[key] = (tMap[key] || 0) + 1;
+            });
+            const allTeamCount = history.filter(r => r.md === 'TEAM').length;
 
-            // ① 順位別獲得数 (チーム戦なので1〜5位まで)
-            const rCounts = Array(6).fill(0);
-            rawHistory.forEach(r => { const rk = parseInt(r.rk); if(rk>=1 && rk<=5) rCounts[rk]++; });
+            const container = document.getElementById('team-chips');
+            container.innerHTML = "";
+
+            const createChip = (id, label, count) => {
+                if(count === 0 && id !== "チーム戦合計") return;
+                const chip = document.createElement('div');
+                chip.className = 'chip'; chip.innerText = `${label} (${count})`;
+                chip.onclick = () => {
+                    chip.classList.toggle('active');
+                    if(chip.classList.contains('active')) selectedTeams.push(id);
+                    else selectedTeams = selectedTeams.filter(t => t !== id);
+                    updateSubTables(); updateChart();
+                };
+                container.appendChild(chip);
+            };
+
+            // 🥇 「無所属(SOLO)」と「チーム戦合計」を先頭に固定
+            createChip("無所属(SOLO)", "無所属(SOLO)", tMap["無所属(SOLO)"]||0);
+            createChip("TEAM_ALL", "チーム戦合計", allTeamCount);
+
+            // 🥈 それ以外のチームをカウントが大きい順にソートして並べる
+            const otherTeams = Object.keys(tMap).filter(k => k !== "無所属(SOLO)");
+            otherTeams.sort((a, b) => tMap[b] - tMap[a]);
+
+            otherTeams.forEach(k => {
+                createChip(k, k, tMap[k]);
+            });
+        }
+
+        function getFilteredHistory() {
+            if(selectedTeams.length === 0) return rawHistory;
+            return rawHistory.filter(r => {
+                let key = "無所属(SOLO)";
+                if(r.md === 'TEAM') key = r.tm ? r.tm : "無所属(TEAM)";
+                if(selectedTeams.includes("TEAM_ALL") && r.md === 'TEAM') return true;
+                return selectedTeams.includes(key);
+            });
+        }
+
+        function updateSubTables() {
+            const h = getFilteredHistory();
+            const total = h.length;
+
+            // 順位
+            const rCounts = Array(11).fill(0);
+            h.forEach(r => { const rk = parseInt(r.rk); if(rk>=1 && rk<=10) rCounts[rk]++; });
             let rHtml = "";
-            for(let i=1; i<=5; i++) {
+            for(let i=1; i<=10; i++) {
                 const pct = total > 0 ? ((rCounts[i]/total)*100).toFixed(1) : "0.0";
                 rHtml += `<tr><td class="col-left">${i}位</td><td>${rCounts[i]}</td><td>${pct}%</td></tr>`;
             }
             document.getElementById('sub-rank-body').innerHTML = rHtml;
 
-            // ② チーム内貢献度ランキング (トップ15)
-            const playersMap = {};
-            rawHistory.forEach(match => {
-                const members = match.m || [];
-                members.forEach(p => {
-                    if (!playersMap[p.name]) { playersMap[p.name] = { score: 0, kills: 0 }; }
-                    playersMap[p.name].score += parseFloat(p.sc || 0);
-                    playersMap[p.name].kills += parseInt(p.k || 0);
-                });
+            // アイコン (10位まで折り畳み対応)
+            const eMap = {};
+            h.forEach(r => { if(r.em) eMap[r.em] = (eMap[r.em] || 0) + 1; });
+            const sortedE = Object.keys(eMap).sort((a,b) => eMap[b] - eMap[a]);
+            
+            let htmlAll = "";
+            let htmlTrunc = "";
+            sortedE.forEach((e, idx) => {
+                const row = `<tr><td class="col-left" style="font-size:1.2rem;">${e}</td><td>${eMap[e]}</td></tr>`;
+                htmlAll += row;
+                if(idx < 10) htmlTrunc += row;
             });
 
-            const sortedPlayers = Object.keys(playersMap).map(n => ({
-                name: n, score: playersMap[n].score, kills: playersMap[n].kills
-            })).sort((a,b) => b.score - a.score).slice(0, 15); // 💡 15名に制限
-
-            let mHtml = "";
-            if (sortedPlayers.length === 0) {
-                mHtml = `<tr><td colspan="4" style="text-align:center;">データなし</td></tr>`;
-            } else {
-                sortedPlayers.forEach((p, idx) => {
-                    mHtml += `<tr>
-                        <td>${idx + 1}</td>
-                        <td class="col-left"><a class="anal-link" href="personal.html?name=${encodeURIComponent(p.name)}">${p.name}</a></td>
-                        <td>${p.score.toFixed(2)}</td>
-                        <td>${p.kills}</td>
-                    </tr>`;
-                });
+            if(sortedE.length === 0) {
+                htmlAll = htmlTrunc = `<tr><td colspan="2">データなし</td></tr>`;
             }
-            document.getElementById('sub-member-body').innerHTML = mHtml;
+
+            currentIconsHtmlAll = htmlAll;
+            currentIconsHtmlTrunc = htmlTrunc;
+
+            const btn = document.getElementById('icon-toggle-btn');
+            if(sortedE.length > 10) {
+                btn.style.display = "block";
+                btn.innerText = iconsExpanded ? "折り畳む" : "展開する";
+            } else {
+                btn.style.display = "none";
+            }
+
+            document.getElementById('sub-icon-body').innerHTML = iconsExpanded ? htmlAll : htmlTrunc;
+        }
+
+        function toggleIcons() {
+            iconsExpanded = !iconsExpanded;
+            const btn = document.getElementById('icon-toggle-btn');
+            btn.innerText = iconsExpanded ? "折り畳む" : "展開する";
+            document.getElementById('sub-icon-body').innerHTML = iconsExpanded ? currentIconsHtmlAll : currentIconsHtmlTrunc;
         }
 
         // ==========================================
@@ -297,6 +414,7 @@
             const tg = document.getElementById('plot-elements');
             tg.innerHTML = "";
             plotOptions.forEach((opt) => {
+                // 💡 デフォルトで面積累計(加算)と総キル数(加算)をON
                 const checked = (opt.id === 'area_acc' || opt.id === 'kill_acc') ? 'checked' : '';
                 tg.innerHTML += `<label><input type="checkbox" class="plot-chk" value="${opt.id}" ${checked} onchange="checkScaleConstraints(); updateChart();"> <span style="color:${opt.color};">■</span> ${opt.label}</label>`;
             });
@@ -312,8 +430,10 @@
             document.getElementById('date-start').addEventListener('change', updateChart);
             document.getElementById('date-end').addEventListener('change', updateChart);
 
+            // 💡 初期デフォルト設定
             document.getElementById('graph-scale').value = 'all';
             document.getElementById('skip-empty').checked = true;
+            
             checkScaleConstraints();
         }
 
@@ -338,7 +458,9 @@
             const skipChk = document.getElementById('skip-empty');
             const matchChk = document.querySelector('.plot-chk[value="matches"]');
 
+            // 💡 全試合でも「飛ばす」チェックを押せるように解放
             skipChk.disabled = false;
+
             if(scale === 'all') {
                 matchChk.checked = false;
                 matchChk.disabled = true;
@@ -373,7 +495,7 @@
         }
 
         function updateChart() {
-            let h = rawHistory;
+            let h = getFilteredHistory();
             const sdStr = document.getElementById('date-start').value;
             const edStr = document.getElementById('date-end').value;
             if(sdStr && edStr) {
@@ -398,15 +520,16 @@
                 renderChartJs(labels, activeOpts, datasetsData, false); return;
             }
 
+            // 💡 全試合 × 飛ばさない(時間経過軸)かどうかのフラグ
             let isTimeScale = (scale === 'all' && !skipEmpty);
 
             if (scale === 'all') {
                 if (skipEmpty) {
+                    // 全試合 × 飛ばす（category等間隔軸）
                     let accArea = 0, accKill = 0;
                     h.forEach(r => {
                         labels.push(formatLabel(new Date(r.at), 'all'));
-                        const sc = parseFloat(r.ts||0); const k = parseInt(r.tk||0); 
-                        const rk = parseInt(r.rk||0); const mc = parseInt(r.mc||0);
+                        const sc = parseFloat(r.sc||0); const k = parseInt(r.k||0); const rk = parseInt(r.rk||0);
                         accArea += sc; accKill += k;
                         activeOpts.forEach(opt => {
                             let val = 0;
@@ -418,19 +541,19 @@
                             if(opt.id === 'area_min') val = sc / GAME_MINUTES;
                             if(opt.id === 'rank_avg') val = rk;
                             if(opt.id === 'wins') val = rk === 1 ? 1 : 0;
-                            if(opt.id === 'member_avg') val = mc;
                             datasetsData[opt.id].push(val);
                         });
                     });
                 } else {
+                    // 全試合 × 飛ばさない（Time軸を使用し、不参加の合間を0埋め、順位はnull結び）
                     let accArea = 0, accKill = 0;
                     for (let i = 0; i < h.length; i++) {
                         const r = h[i];
                         const d = new Date(r.at);
-                        const sc = parseFloat(r.ts||0); const k = parseInt(r.tk||0); 
-                        const rk = parseInt(r.rk||0); const mc = parseInt(r.mc||0);
+                        const sc = parseFloat(r.sc||0); const k = parseInt(r.k||0); const rk = parseInt(r.rk||0);
                         accArea += sc; accKill += k;
 
+                        // 実試合のプロット
                         activeOpts.forEach(opt => {
                             let val = 0;
                             if(opt.id === 'area_sum' || opt.id === 'area_max' || opt.id === 'area_avg') val = sc;
@@ -441,23 +564,22 @@
                             if(opt.id === 'area_min') val = sc / GAME_MINUTES;
                             if(opt.id === 'rank_avg') val = rk;
                             if(opt.id === 'wins') val = rk === 1 ? 1 : 0;
-                            if(opt.id === 'member_avg') val = mc;
                             datasetsData[opt.id].push({ x: d, y: val });
                         });
 
-                        // 💡 チーム戦は4分なので、空き時間は4分後で計算
+                        // 💡 20分以上空いていたら不参加期間とみなしてダミー点を打つ
                         if (i < h.length - 1) {
                             const nextD = new Date(h[i+1].at);
                             if (nextD - d > 20 * 60 * 1000) {
-                                const dAfter = new Date(d.getTime() + 4 * 60 * 1000); 
-                                const dBefore = new Date(nextD.getTime() - 1 * 60 * 1000);
+                                const dAfter = new Date(d.getTime() + 3 * 60 * 1000);   // 試合終了3分後
+                                const dBefore = new Date(nextD.getTime() - 1 * 60 * 1000); // 次の試合1分前
 
                                 activeOpts.forEach(opt => {
                                     let valAfter = 0, valBefore = 0;
                                     if (opt.id === 'area_acc') { valAfter = accArea; valBefore = accArea; }
                                     else if (opt.id === 'kill_acc') { valAfter = accKill; valBefore = accKill; }
-                                    else if (opt.id === 'rank_avg') { valAfter = null; valBefore = null; } 
-                                    else { valAfter = 0; valBefore = 0; }
+                                    else if (opt.id === 'rank_avg') { valAfter = null; valBefore = null; } // 💡 順位はnullで結ぶ
+                                    else { valAfter = 0; valBefore = 0; } // 💡 その他は0に落とす
 
                                     datasetsData[opt.id].push({ x: dAfter, y: valAfter });
                                     datasetsData[opt.id].push({ x: dBefore, y: valBefore });
@@ -467,6 +589,7 @@
                     }
                 }
             } else {
+                // スケール集計（1時間、1日、1週間、1ヶ月毎）
                 const buckets = {};
                 h.forEach(r => {
                     const key = truncDate(new Date(r.at), scale).getTime();
@@ -485,11 +608,10 @@
                     if(records.length > 0 || !skipEmpty) {
                         labels.push(formatLabel(curr, scale));
                         
-                        let scSum=0, scMax=0, kSum=0, kMax=0, rSum=0, wCount=0, mSum=0;
+                        let scSum=0, scMax=0, kSum=0, kMax=0, rSum=0, wCount=0;
                         records.forEach(r => {
-                            const sc = parseFloat(r.ts||0); const k = parseInt(r.tk||0); 
-                            const rk = parseInt(r.rk||0); const mc = parseInt(r.mc||0);
-                            scSum+=sc; kSum+=k; rSum+=rk; mSum+=mc;
+                            const sc = parseFloat(r.sc||0); const k = parseInt(r.k||0); const rk = parseInt(r.rk||0);
+                            scSum+=sc; kSum+=k; rSum+=rk;
                             if(sc > scMax) scMax=sc; if(k > kMax) kMax=k;
                             if(rk === 1) wCount++;
                         });
@@ -512,12 +634,12 @@
                                 if(opt.id === 'area_avg') val = scSum/c;
                                 if(opt.id === 'area_min') val = (scSum/c)/GAME_MINUTES;
                                 if(opt.id === 'rank_avg') val = rSum/c;
-                                if(opt.id === 'member_avg') val = mSum/c;
                             } else {
+                                // 💡 試合のない期間の挙動設定
                                 if(opt.id === 'area_acc') val = accArea;
                                 else if(opt.id === 'kill_acc') val = accKill;
-                                else if(opt.id === 'rank_avg') val = null; 
-                                else val = 0; 
+                                else if(opt.id === 'rank_avg') val = null; // 💡 平均順位はnullで結ぶ
+                                else val = 0; // 💡 その他は0
                             }
                             datasetsData[opt.id].push(val);
                         });
@@ -565,7 +687,7 @@
                 };
                 if(opt.type === 'avg_rev') {
                     scalesDef[axisId].reverse = true;
-                    scalesDef[axisId].min = 1; scalesDef[axisId].max = 5; // 💡 チーム戦なので1〜5
+                    scalesDef[axisId].min = 1; scalesDef[axisId].max = 10;
                 }
             });
 
@@ -581,6 +703,7 @@
                     scales: scalesDef,
                     plugins: { 
                         legend: { labels: { color: '#ccc' } },
+                        // 💡 ツールチップへの単位付与
                         tooltip: {
                             callbacks: {
                                 label: function(context) {
@@ -594,8 +717,7 @@
                                         if (label.includes('面積')) val += '％';
                                         else if (label.includes('キル')) val += 'キル';
                                         else if (label.includes('順位')) val += '位';
-                                        else if (label.includes('人数')) val += '人';
-                                        else if (label.includes('回数') || label.includes('参加') || label.includes('出撃')) val += '回';
+                                        else if (label.includes('回数') || label.includes('参加')) val += '回';
                                         else if (label.includes('数')) val += '回';
                                         return label + val;
                                     }
@@ -608,7 +730,7 @@
             });
         }
 
-        window.onload = loadTeamData;
+        window.onload = loadPlayerData;
     </script>
 </body>
 </html>
