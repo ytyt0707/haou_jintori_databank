@@ -63,8 +63,15 @@
 
         /* グラフ要素のチェックボックス群 */
         .element-toggles { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; padding-top: 10px; border-top: 1px dashed #444; }
-        .element-toggles label { background: #1a1c20; border: 1px solid #444; padding: 2px 6px; border-radius: 3px; cursor: pointer; display: flex; align-items: center; gap: 4px; }
+        .element-toggles label { background: #1a1c20; border: 1px solid #444; padding: 2px 6px; border-radius: 3px; cursor: pointer; display: flex; align-items: center; gap: 4px; transition: color 0.2s; }
         .element-toggles label:hover { background: #2a2c30; }
+        
+        /* 💡 文字ごと灰色にするグレーアウト設定 */
+        .element-toggles label:has(input:disabled) {
+            color: #555 !important;
+            cursor: not-allowed;
+            opacity: 0.5;
+        }
 
         .review-scroll { display: flex; gap: 10px; overflow-x: auto; padding: 5px 0; }
         .review-card { min-width: 250px; background: #111; padding: 10px; border: 1px solid var(--excel-border); border-left: 4px solid var(--deep-blue); font-size: 0.8rem; }
@@ -89,10 +96,10 @@
             <table class="excel-table" id="main-summary-table">
                 <thead>
                     <tr>
-                        <th></th>
+                        <th colspan="2">区分</th>
                         <th>試合数</th><th>1位数</th><th>累計面積</th><th>最大面積</th><th>総キル数</th><th>最大キル</th>
                         <th>毎試合キル数</th><th>毎分キル数</th><th>毎試合面積</th><th>毎分面積</th>
-                        <th>平均個人順位</th><th>平均チーム順位</th><th>平均面積</th><th>平均キル</th>
+                        <th>平均個人順位</th><th>平均面積</th><th>平均キル</th>
                     </tr>
                 </thead>
                 <tbody id="main-summary-body">
@@ -118,6 +125,7 @@
                     <thead><tr><th>アイコン</th><th>回数</th></tr></thead>
                     <tbody id="sub-icon-body"></tbody>
                 </table>
+                <div id="icon-toggle-btn" style="margin-top: 5px; text-align: right; color: var(--deep-blue); cursor: pointer; text-decoration: underline; display: none;" onclick="toggleIcons()">展開する</div>
             </div>
         </div>
 
@@ -129,10 +137,10 @@
                     <input type="datetime-local" id="date-start"> ～ <input type="datetime-local" id="date-end">
                 </div>
                 <div class="controls-group">
-                    <button class="btn" onclick="setPresetDate('1h')">1時間</button>
-                    <button class="btn" onclick="setPresetDate('1d')">1日</button>
-                    <button class="btn" onclick="setPresetDate('1w')">1週間</button>
-                    <button class="btn" onclick="setPresetDate('1m')">1か月</button>
+                    <button class="btn" onclick="setPresetDate('1h')">直近1時間</button>
+                    <button class="btn" onclick="setPresetDate('1d')">直近1日</button>
+                    <button class="btn" onclick="setPresetDate('1w')">直近1週間</button>
+                    <button class="btn" onclick="setPresetDate('1m')">直近1か月</button>
                     <button class="btn" onclick="setPresetDate('all')">全期間</button>
                 </div>
                 <div class="controls-group">
@@ -167,13 +175,18 @@
     <script>
         const params = new URLSearchParams(window.location.search);
         const playerName = params.get('name') || "(≡3≡)";
-        const GAME_MINUTES = 3.0; // 毎分計算用の仮定時間
+        const GAME_MINUTES = 3.0; 
 
         let rawHistory = [];
         let selectedTeams = [];
         let myChart = null;
 
-        // グラフで選べる要素の定義
+        // アイコン折り畳み用
+        let iconsExpanded = false;
+        let currentIconsHtmlAll = "";
+        let currentIconsHtmlTrunc = "";
+
+        // グラフ要素定義
         const plotOptions = [
             { id: 'matches', label: '参加回数', color: '#ffffff', type: 'sum', requiresScale: true },
             { id: 'wins', label: '1位数', color: '#ffea00', type: 'sum' },
@@ -200,7 +213,7 @@
                 const data = await response.json();
                 
                 document.getElementById('player-name-title').innerText = `👤 個人分析: ${data.name}`;
-                rawHistory = (data.h || []).sort((a,b) => new Date(a.at) - new Date(b.at)); // 日時でソート
+                rawHistory = (data.h || []).sort((a,b) => new Date(a.at) - new Date(b.at)); 
 
                 buildMainTable(rawHistory);
                 buildTeamChips(rawHistory);
@@ -214,11 +227,11 @@
         }
 
         // ==========================================
-        // 1. 巨大メインテーブルの構築
+        // 1. エクセル風縦書き結合メインテーブルの構築
         // ==========================================
         function calcRowData(records) {
             const count = records.length;
-            if(count === 0) return Array(14).fill('-');
+            if(count === 0) return Array(13).fill('-');
             let w=0, aSum=0, aMax=0, kSum=0, kMax=0, rSum=0;
             records.forEach(r => {
                 const sc = parseFloat(r.sc||0); const k = parseInt(r.k||0); const rk = parseInt(r.rk||0);
@@ -234,7 +247,7 @@
             return [
                 count, w, aSum.toFixed(2), aMax.toFixed(2), kSum, kMax,
                 kAvg.toFixed(2), kMin.toFixed(2), aAvg.toFixed(2), aMin.toFixed(2),
-                rAvg.toFixed(1), "-", aAvg.toFixed(2), kAvg.toFixed(2)
+                rAvg.toFixed(1), aAvg.toFixed(2), kAvg.toFixed(2)
             ];
         }
 
@@ -243,7 +256,6 @@
             const teamAll = history.filter(r => r.md === 'TEAM');
             const teamNone = teamAll.filter(r => !r.tm);
             
-            // チーム別の集計
             const tMap = {};
             teamAll.filter(r => r.tm).forEach(r => {
                 if(!tMap[r.tm]) tMap[r.tm] = [];
@@ -256,21 +268,44 @@
             const tbody = document.getElementById('main-summary-body');
             tbody.innerHTML = "";
 
-            const addRow = (title, records) => {
-                const vals = calcRowData(records);
-                tbody.innerHTML += `<tr><th class="col-left">${title}</th><td>${vals.join('</td><td>')}</td></tr>`;
-            };
+            // ① ソロ戦行
+            const soloVals = calcRowData(solo);
+            tbody.innerHTML += `<tr><th class="col-left" style="background:#111; text-align:center;" colspan="2">ソロ戦</th><td>${soloVals.join('</td><td>')}</td></tr>`;
 
-            addRow("ソロ戦", solo);
-            addRow("チーム戦無所属", teamNone);
-            top10.forEach((t, i) => addRow(`チーム${i+1} (${t})`, tMap[t]));
-            addRow("その他", others);
-            addRow("チーム戦合計", teamAll);
-            addRow("総計", history);
+            // チーム戦エリアの行数計算 (チーム戦無所属 + 各チーム10個 + その他 + チーム戦合計)
+            const totalTeamRows = 1 + top10.length + 1 + 1;
+
+            // ② チーム戦無所属（ここにrowspanの「チーム戦」縦書き枠を追加）
+            const noneVals = calcRowData(teamNone);
+            let html = `<tr>
+                <td rowspan="${totalTeamRows}" style="text-align:center; font-weight:bold; background:#111; writing-mode: vertical-rl; text-orientation: upright; padding: 10px 6px; letter-spacing: 4px; border-right: 2px solid var(--deep-blue);">チーム戦</td>
+                <th class="col-left">チーム戦無所属</th>
+                <td>${noneVals.join('</td><td>')}</td>
+            </tr>`;
+
+            // ③ トップ10チーム（チーム名のみ表示）
+            top10.forEach((t) => {
+                const vals = calcRowData(tMap[t]);
+                html += `<tr><th class="col-left">${t}</th><td>${vals.join('</td><td>')}</td></tr>`;
+            });
+
+            // ④ その他
+            const othersVals = calcRowData(others);
+            html += `<tr><th class="col-left">その他</th><td>${othersVals.join('</td><td>')}</td></tr>`;
+
+            // ⑤ チーム戦合計
+            const teamAllVals = calcRowData(teamAll);
+            html += `<tr><th class="col-left">チーム戦合計</th><td>${teamAllVals.join('</td><td>')}</td></tr>`;
+
+            tbody.innerHTML += html;
+
+            // ⑥ 総計行
+            const allVals = calcRowData(history);
+            tbody.innerHTML += `<tr><th class="col-left" style="background:#111; text-align:center;" colspan="2">総計</th><td>${allVals.join('</td><td>')}</td></tr>`;
         }
 
         // ==========================================
-        // 2. チップスとサブテーブル
+        // 2. 所属チームチップス (指定順ソート) とサブテーブル
         // ==========================================
         function buildTeamChips(history) {
             const tMap = {};
@@ -297,14 +332,16 @@
                 container.appendChild(chip);
             };
 
+            // 🥇 「無所属(SOLO)」と「チーム戦合計」を先頭に固定
             createChip("無所属(SOLO)", "無所属(SOLO)", tMap["無所属(SOLO)"]||0);
-            createChip("無所属(TEAM)", "無所属(TEAM)", tMap["無所属(TEAM)"]||0);
             createChip("TEAM_ALL", "チーム戦合計", allTeamCount);
 
-            Object.keys(tMap).forEach(k => {
-                if(!["無所属(SOLO)", "無所属(TEAM)"].includes(k)) {
-                    createChip(k, k, tMap[k]);
-                }
+            // 🥈 それ以外のチームをカウントが大きい順にソートして並べる
+            const otherTeams = Object.keys(tMap).filter(k => k !== "無所属(SOLO)");
+            otherTeams.sort((a, b) => tMap[b] - tMap[a]);
+
+            otherTeams.forEach(k => {
+                createChip(k, k, tMap[k]);
             });
         }
 
@@ -332,30 +369,59 @@
             }
             document.getElementById('sub-rank-body').innerHTML = rHtml;
 
-            // アイコン
+            // アイコン (10位まで折り畳み対応)
             const eMap = {};
             h.forEach(r => { if(r.em) eMap[r.em] = (eMap[r.em] || 0) + 1; });
             const sortedE = Object.keys(eMap).sort((a,b) => eMap[b] - eMap[a]);
-            let eHtml = "";
-            sortedE.forEach(e => { eHtml += `<tr><td class="col-left" style="font-size:1.2rem;">${e}</td><td>${eMap[e]}</td></tr>`; });
-            if(sortedE.length === 0) eHtml = `<tr><td colspan="2">データなし</td></tr>`;
-            document.getElementById('sub-icon-body').innerHTML = eHtml;
+            
+            let htmlAll = "";
+            let htmlTrunc = "";
+            sortedE.forEach((e, idx) => {
+                const row = `<tr><td class="col-left" style="font-size:1.2rem;">${e}</td><td>${eMap[e]}</td></tr>`;
+                htmlAll += row;
+                if(idx < 10) htmlTrunc += row;
+            });
+
+            if(sortedE.length === 0) {
+                htmlAll = htmlTrunc = `<tr><td colspan="2">データなし</td></tr>`;
+            }
+
+            currentIconsHtmlAll = htmlAll;
+            currentIconsHtmlTrunc = htmlTrunc;
+
+            const btn = document.getElementById('icon-toggle-btn');
+            if(sortedE.length > 10) {
+                btn.style.display = "block";
+                btn.innerText = iconsExpanded ? "折り畳む" : "展開する";
+            } else {
+                btn.style.display = "none";
+            }
+
+            document.getElementById('sub-icon-body').innerHTML = iconsExpanded ? htmlAll : htmlTrunc;
+        }
+
+        function toggleIcons() {
+            iconsExpanded = !iconsExpanded;
+            const btn = document.getElementById('icon-toggle-btn');
+            btn.innerText = iconsExpanded ? "折り畳む" : "展開する";
+            document.getElementById('sub-icon-body').innerHTML = iconsExpanded ? currentIconsHtmlAll : currentIconsHtmlTrunc;
         }
 
         // ==========================================
-        // 3. 高度なグラフ描画
+        // 3. 高度なグラフ描画システム
         // ==========================================
         function initGraphControls() {
             const tg = document.getElementById('plot-elements');
-            plotOptions.forEach((opt, i) => {
-                const checked = i === 2 ? 'checked' : ''; // 初期は累計面積だけON
+            tg.innerHTML = "";
+            plotOptions.forEach((opt) => {
+                // 💡 デフォルトで面積累計(加算)と総キル数(加算)をON
+                const checked = (opt.id === 'area_acc' || opt.id === 'kill_acc') ? 'checked' : '';
                 tg.innerHTML += `<label><input type="checkbox" class="plot-chk" value="${opt.id}" ${checked} onchange="checkScaleConstraints(); updateChart();"> <span style="color:${opt.color};">■</span> ${opt.label}</label>`;
             });
 
             if(rawHistory.length > 0) {
                 const sd = new Date(rawHistory[0].at);
                 const ed = new Date(rawHistory[rawHistory.length-1].at);
-                // datetime-local フォーマットに合わせる (YYYY-MM-DDThh:mm)
                 const fmt = d => new Date(d.getTime() - d.getTimezoneOffset()*60000).toISOString().slice(0,16);
                 document.getElementById('date-start').value = fmt(sd);
                 document.getElementById('date-end').value = fmt(ed);
@@ -363,6 +429,12 @@
 
             document.getElementById('date-start').addEventListener('change', updateChart);
             document.getElementById('date-end').addEventListener('change', updateChart);
+
+            // 💡 初期デフォルト設定
+            document.getElementById('graph-scale').value = 'all';
+            document.getElementById('skip-empty').checked = true;
+            
+            checkScaleConstraints();
         }
 
         function setPresetDate(type) {
@@ -386,21 +458,21 @@
             const skipChk = document.getElementById('skip-empty');
             const matchChk = document.querySelector('.plot-chk[value="matches"]');
 
+            // 💡 全試合でも「飛ばす」チェックを押せるように解放
+            skipChk.disabled = false;
+
             if(scale === 'all') {
                 matchChk.checked = false;
                 matchChk.disabled = true;
-                skipChk.disabled = true;
             } else {
                 matchChk.disabled = false;
-                skipChk.disabled = false;
                 if(matchChk.checked) {
-                    skipChk.checked = false; // 参加回数を見る時は飛ばさない強制
+                    skipChk.checked = false; 
                     skipChk.disabled = true;
                 }
             }
         }
 
-        // 時間切り捨て関数
         function truncDate(d, scale) {
             const t = new Date(d);
             t.setMinutes(0,0,0);
@@ -419,13 +491,7 @@
         }
         function formatLabel(d, scale) {
             const pad = n => n.toString().padStart(2, '0');
-            const mo = pad(d.getMonth()+1); const da = pad(d.getDate());
-            const ho = pad(d.getHours()); const mi = pad(d.getMinutes());
-            if(scale === 'all') return `${mo}/${da} ${ho}:${mi}`;
-            if(scale === 'hour') return `${mo}/${da} ${ho}:00`;
-            if(scale === 'day' || scale === 'week') return `${mo}/${da}`;
-            if(scale === 'month') return `${d.getFullYear()}/${mo}`;
-            return d.toISOString();
+            return `${pad(d.getMonth()+1)}/${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
         }
 
         function updateChart() {
@@ -440,7 +506,6 @@
             const scale = document.getElementById('graph-scale').value;
             const skipEmpty = document.getElementById('skip-empty').checked;
             
-            // チェックされている要素を取得
             const activeOpts = [];
             document.querySelectorAll('.plot-chk:checked').forEach(chk => {
                 const opt = plotOptions.find(o => o.id === chk.value);
@@ -448,35 +513,83 @@
             });
 
             let labels = [];
-            let plotData = {};
-            activeOpts.forEach(opt => plotData[opt.id] = []);
+            let datasetsData = {};
+            activeOpts.forEach(opt => datasetsData[opt.id] = []);
 
             if(h.length === 0) {
-                renderChartJs(labels, activeOpts, plotData); return;
+                renderChartJs(labels, activeOpts, datasetsData, false); return;
             }
 
-            if(scale === 'all') {
-                // 全試合プロット（加算計算用変数）
-                let accArea = 0, accKill = 0;
-                h.forEach(r => {
-                    labels.push(formatLabel(new Date(r.at), 'all'));
-                    const sc = parseFloat(r.sc||0); const k = parseInt(r.k||0); const rk = parseInt(r.rk||0);
-                    accArea += sc; accKill += k;
-                    activeOpts.forEach(opt => {
-                        let val = 0;
-                        if(opt.id === 'area_sum' || opt.id === 'area_max' || opt.id === 'area_avg') val = sc;
-                        if(opt.id === 'area_acc') val = accArea;
-                        if(opt.id === 'kill_sum' || opt.id === 'kill_max' || opt.id === 'kill_avg') val = k;
-                        if(opt.id === 'kill_acc') val = accKill;
-                        if(opt.id === 'kill_min') val = k / GAME_MINUTES;
-                        if(opt.id === 'area_min') val = sc / GAME_MINUTES;
-                        if(opt.id === 'rank_avg') val = rk;
-                        if(opt.id === 'wins') val = rk === 1 ? 1 : 0;
-                        plotData[opt.id].push(val);
+            // 💡 全試合 × 飛ばさない(時間経過軸)かどうかのフラグ
+            let isTimeScale = (scale === 'all' && !skipEmpty);
+
+            if (scale === 'all') {
+                if (skipEmpty) {
+                    // 全試合 × 飛ばす（category等間隔軸）
+                    let accArea = 0, accKill = 0;
+                    h.forEach(r => {
+                        labels.push(formatLabel(new Date(r.at), 'all'));
+                        const sc = parseFloat(r.sc||0); const k = parseInt(r.k||0); const rk = parseInt(r.rk||0);
+                        accArea += sc; accKill += k;
+                        activeOpts.forEach(opt => {
+                            let val = 0;
+                            if(opt.id === 'area_sum' || opt.id === 'area_max' || opt.id === 'area_avg') val = sc;
+                            if(opt.id === 'area_acc') val = accArea;
+                            if(opt.id === 'kill_sum' || opt.id === 'kill_max' || opt.id === 'kill_avg') val = k;
+                            if(opt.id === 'kill_acc') val = accKill;
+                            if(opt.id === 'kill_min') val = k / GAME_MINUTES;
+                            if(opt.id === 'area_min') val = sc / GAME_MINUTES;
+                            if(opt.id === 'rank_avg') val = rk;
+                            if(opt.id === 'wins') val = rk === 1 ? 1 : 0;
+                            datasetsData[opt.id].push(val);
+                        });
                     });
-                });
+                } else {
+                    // 全試合 × 飛ばさない（Time軸を使用し、不参加の合間を0埋め、順位はnull結び）
+                    let accArea = 0, accKill = 0;
+                    for (let i = 0; i < h.length; i++) {
+                        const r = h[i];
+                        const d = new Date(r.at);
+                        const sc = parseFloat(r.sc||0); const k = parseInt(r.k||0); const rk = parseInt(r.rk||0);
+                        accArea += sc; accKill += k;
+
+                        // 実試合のプロット
+                        activeOpts.forEach(opt => {
+                            let val = 0;
+                            if(opt.id === 'area_sum' || opt.id === 'area_max' || opt.id === 'area_avg') val = sc;
+                            if(opt.id === 'area_acc') val = accArea;
+                            if(opt.id === 'kill_sum' || opt.id === 'kill_max' || opt.id === 'kill_avg') val = k;
+                            if(opt.id === 'kill_acc') val = accKill;
+                            if(opt.id === 'kill_min') val = k / GAME_MINUTES;
+                            if(opt.id === 'area_min') val = sc / GAME_MINUTES;
+                            if(opt.id === 'rank_avg') val = rk;
+                            if(opt.id === 'wins') val = rk === 1 ? 1 : 0;
+                            datasetsData[opt.id].push({ x: d, y: val });
+                        });
+
+                        // 💡 20分以上空いていたら不参加期間とみなしてダミー点を打つ
+                        if (i < h.length - 1) {
+                            const nextD = new Date(h[i+1].at);
+                            if (nextD - d > 20 * 60 * 1000) {
+                                const dAfter = new Date(d.getTime() + 3 * 60 * 1000);   // 試合終了3分後
+                                const dBefore = new Date(nextD.getTime() - 1 * 60 * 1000); // 次の試合1分前
+
+                                activeOpts.forEach(opt => {
+                                    let valAfter = 0, valBefore = 0;
+                                    if (opt.id === 'area_acc') { valAfter = accArea; valBefore = accArea; }
+                                    else if (opt.id === 'kill_acc') { valAfter = accKill; valBefore = accKill; }
+                                    else if (opt.id === 'rank_avg') { valAfter = null; valBefore = null; } // 💡 順位はnullで結ぶ
+                                    else { valAfter = 0; valBefore = 0; } // 💡 その他は0に落とす
+
+                                    datasetsData[opt.id].push({ x: dAfter, y: valAfter });
+                                    datasetsData[opt.id].push({ x: dBefore, y: valBefore });
+                                });
+                            }
+                        }
+                    }
+                }
             } else {
-                // スケール集計
+                // スケール集計（1時間、1日、1週間、1ヶ月毎）
                 const buckets = {};
                 h.forEach(r => {
                     const key = truncDate(new Date(r.at), scale).getTime();
@@ -486,9 +599,7 @@
 
                 let curr = truncDate(new Date(h[0].at), scale);
                 const end = truncDate(new Date(h[h.length-1].at), scale);
-                
                 let accArea = 0, accKill = 0;
-                let lastVals = {}; // 前値ホールド用
 
                 while(curr <= end) {
                     const key = curr.getTime();
@@ -508,7 +619,7 @@
                         const c = records.length;
 
                         activeOpts.forEach(opt => {
-                            let val = null;
+                            let val = 0;
                             if(c > 0) {
                                 if(opt.id === 'matches') val = c;
                                 if(opt.id === 'wins') val = wCount;
@@ -523,44 +634,50 @@
                                 if(opt.id === 'area_avg') val = scSum/c;
                                 if(opt.id === 'area_min') val = (scSum/c)/GAME_MINUTES;
                                 if(opt.id === 'rank_avg') val = rSum/c;
-                                lastVals[opt.id] = val; // 値を記録
                             } else {
-                                // 空期間の補間ロジック
-                                if(opt.id === 'matches' || opt.type === 'sum') val = 0;
-                                else val = lastVals[opt.id] !== undefined ? lastVals[opt.id] : null;
+                                // 💡 試合のない期間の挙動設定
+                                if(opt.id === 'area_acc') val = accArea;
+                                else if(opt.id === 'kill_acc') val = accKill;
+                                else if(opt.id === 'rank_avg') val = null; // 💡 平均順位はnullで結ぶ
+                                else val = 0; // 💡 その他は0
                             }
-                            plotData[opt.id].push(val);
+                            datasetsData[opt.id].push(val);
                         });
                     }
                     curr = addTime(curr, scale);
                 }
             }
 
-            renderChartJs(labels, activeOpts, plotData);
+            renderChartJs(labels, activeOpts, datasetsData, isTimeScale);
         }
 
-        function renderChartJs(labels, activeOpts, plotData) {
+        function renderChartJs(labels, activeOpts, datasetsData, isTimeScale) {
             if(myChart) myChart.destroy();
             
             const datasets = [];
-            const scalesDef = { x: { grid: { color: '#333' } } };
+            const scalesDef = { 
+                x: { 
+                    type: isTimeScale ? 'time' : 'category',
+                    grid: { color: '#333' },
+                    ticks: { color: '#ccc' }
+                } 
+            };
 
             activeOpts.forEach((opt, i) => {
                 const axisId = `yAxis_${i}`;
                 datasets.push({
                     label: opt.label,
-                    data: plotData[opt.id],
+                    data: datasetsData[opt.id],
                     borderColor: opt.color,
                     backgroundColor: 'transparent',
                     borderWidth: 1.5,
-                    pointRadius: 0, // 点を消す
+                    pointRadius: 0, 
                     pointHitRadius: 10,
                     tension: 0.1,
-                    spanGaps: true, // nullの隙間を繋ぐ
+                    spanGaps: true, 
                     yAxisID: axisId
                 });
 
-                // 軸の動的生成（色は線の色に合わせる）
                 scalesDef[axisId] = {
                     type: 'linear',
                     display: true,
@@ -577,14 +694,38 @@
             const ctx = document.getElementById('historyChart').getContext('2d');
             myChart = new Chart(ctx, {
                 type: 'line',
-                data: { labels, datasets },
+                data: isTimeScale ? { datasets } : { labels, datasets },
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
-                    animation: false, // アニメーションOFF
+                    animation: false, 
                     interaction: { mode: 'index', intersect: false },
                     scales: scalesDef,
-                    plugins: { legend: { labels: { color: '#ccc' } } }
+                    plugins: { 
+                        legend: { labels: { color: '#ccc' } },
+                        // 💡 ツールチップへの単位付与
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.dataset.label || '';
+                                    if (label) label += ': ';
+                                    if (context.parsed.y !== null) {
+                                        let val = context.parsed.y;
+                                        if (typeof val === 'number') {
+                                            val = val % 1 === 0 ? val : val.toFixed(2);
+                                        }
+                                        if (label.includes('面積')) val += '％';
+                                        else if (label.includes('キル')) val += 'キル';
+                                        else if (label.includes('順位')) val += '位';
+                                        else if (label.includes('回数') || label.includes('参加')) val += '回';
+                                        else if (label.includes('数')) val += '回';
+                                        return label + val;
+                                    }
+                                    return label;
+                                }
+                            }
+                        }
+                    }
                 }
             });
         }
