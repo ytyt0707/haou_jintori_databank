@@ -59,17 +59,34 @@
         .element-toggles { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; padding-top: 10px; border-top: 1px dashed #444; }
         .element-toggles label { background: #1a1c20; border: 1px solid #444; padding: 2px 6px; border-radius: 3px; cursor: pointer; display: flex; align-items: center; gap: 4px; transition: color 0.2s; }
         .element-toggles label:hover { background: #2a2c30; }
-        
-        /* 💡 文字ごと灰色にするグレーアウト設定 */
         .element-toggles label:has(input:disabled) { color: #555 !important; cursor: not-allowed; opacity: 0.5; }
-
-        /* 人物評スクロール */
-        .review-scroll { display: flex; gap: 10px; overflow-x: auto; padding: 5px 0; }
-        .review-card { min-width: 250px; background: #111; padding: 10px; border: 1px solid var(--excel-border); border-left: 4px solid var(--deep-blue); font-size: 0.8rem; }
 
         /* リンク用のスタイル */
         .anal-link { color: var(--text-main); text-decoration: none; cursor: pointer; }
         .anal-link:hover { text-underline-position: under; text-decoration: underline; color: #fff; }
+
+        /* ==========================================
+            💬 コミュニティ評価エリアのデザイン
+        ========================================== */
+        .review-scroll { display: flex; gap: 15px; overflow-x: auto; padding: 10px 0; align-items: flex-start; }
+        
+        /* 🟢 掲示板風スタイル */
+        .review-bbs { background-color: #2a2d35; border-left: 4px solid #007bb5; padding: 10px; border-radius: 4px; font-size: 0.85rem; line-height: 1.5; min-width: 320px; max-width: 400px; flex-shrink: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.3); }
+        .bbs-meta { color: #888; font-size: 0.75rem; margin-bottom: 5px; border-bottom: 1px dashed #444; padding-bottom: 3px; }
+        .bbs-author { color: #22dd22; font-weight: bold; } /* 名無しを緑に */
+        .bbs-content { white-space: pre-wrap; color: #e0e0e0; }
+        
+        /* 🐦 Twitter風・連投スタイル */
+        .review-twitter { background-color: #15202b; border: 1px solid #38444d; padding: 12px; border-radius: 8px; min-width: 320px; max-width: 400px; flex-shrink: 0; }
+        .tweet-block { margin-bottom: -10px; } /* 公式ウィジェットの余白を詰める */
+        
+        /* 🖼️ 画像スタイル */
+        .review-image { background-color: #222; padding: 10px; border-radius: 6px; text-align: center; border: 1px solid #333; min-width: 300px; max-width: 400px; flex-shrink: 0; }
+        .review-image img { max-width: 100%; max-height: 350px; border-radius: 4px; object-fit: contain; }
+        .image-caption { font-size: 0.75rem; color: #aaa; margin-top: 5px; }
+
+        .ref-link { display: inline-block; margin-top: 8px; font-size: 0.75rem; color: #4fa8ff; text-decoration: none; }
+        .ref-link:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
@@ -155,9 +172,7 @@
 
         <h2>💬 コミュニティからのチーム評</h2>
         <div class="review-scroll" id="reviews-box">
-            <div class="review-card">「少数精鋭で常に上位をかっさらう恐ろしいチーム。」</div>
-            <div class="review-card">「見かけたら要注意。連携の取れた包囲網で一気に制圧してくる。」</div>
-            <div class="review-card">「人数こそ少ないが、一人一人の生存力が異常に高い。」</div>
+            <div style="color: #888; padding: 10px;">評価データを読み込み中...</div>
         </div>
     </div>
 
@@ -205,6 +220,97 @@
                 updateChart();
             } catch (err) {
                 document.getElementById('team-name-title').innerText = `❌ データが見つかりませんでした: ${teamName}`;
+                console.error(err);
+            }
+
+            // 🌟 追加：コミュニティ評価の読み込みを実行
+            loadCommunityReviews(teamName);
+        }
+
+        // ==========================================
+        // 🌟 コミュニティ評価の読み込み・描画
+        // ==========================================
+        async function loadCommunityReviews(targetName) {
+            const box = document.getElementById('reviews-box');
+            try {
+                // 同じ階層にあるファイルを直接指定
+                const response = await fetch('analysis_data/community_reviews.json');
+                if (!response.ok) throw new Error("評価用JSONが見つかりません");
+                
+                const data = await response.json();
+                let reviews = data.team_reviews[targetName]; // 💡 チーム分析なので team_reviews を指定
+
+                if (!reviews || reviews.length === 0) {
+                    box.innerHTML = `<div style="color: #888; padding: 10px;">このチームのコミュニティ評価はまだありません。</div>`;
+                    return;
+                }
+
+                // 💡 配列をランダムにシャッフル（表示のたびに順番を変える）
+                for (let i = reviews.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [reviews[i], reviews[j]] = [reviews[j], reviews[i]];
+                }
+
+                let htmlContent = '';
+
+                reviews.forEach(r => {
+                    if (r.type === 'bbs') {
+                        htmlContent += `
+                            <div class="review-bbs">
+                                <div class="bbs-meta">
+                                    <span>${r.bbs_header.res_no}</span> : 
+                                    <span class="bbs-author">${r.bbs_header.author}</span> 
+                                    [${r.bbs_header.user_id}] 
+                                    <span>${r.bbs_header.posted_at}</span>
+                                </div>
+                                <div class="bbs-content">${r.content}</div>
+                                ${r.ref_url ? `<a href="${r.ref_url}" target="_blank" class="ref-link">🔗 引用元スレッド</a>` : ''}
+                            </div>
+                        `;
+                    } 
+                    else if (r.type === 'twitter') {
+                        let tweetHtml = `<div class="review-twitter">`;
+                        r.tweets.forEach(t => {
+                            // Twitter公式のblockquoteを使用して自動カード化させる
+                            tweetHtml += `
+                                <div class="tweet-block">
+                                    <p style="color: #4fa8ff; font-size: 0.75rem; margin: 0 0 4px 0;">💬 ツイート P.${t.page}</p>
+                                    <blockquote class="twitter-tweet" data-theme="dark" data-dnt="true">
+                                        <a href="https://twitter.com/x/status/${t.tweet_id}"></a>
+                                    </blockquote>
+                                </div>
+                            `;
+                        });
+                        if (r.ref_url) {
+                            tweetHtml += `<a href="${r.ref_url}" target="_blank" class="ref-link">🔗 引用元へ</a>`;
+                        }
+                        tweetHtml += `</div>`;
+                        htmlContent += tweetHtml;
+                    } 
+                    else if (r.type === 'image') {
+                        htmlContent += `
+                            <div class="review-image">
+                                <img src="${r.image_url}" alt="評価画像" loading="lazy">
+                                ${r.caption ? `<div class="image-caption">${r.caption}</div>` : ''}
+                                ${r.ref_url ? `<br><a href="${r.ref_url}" target="_blank" class="ref-link">🔗 画像の引用元</a>` : ''}
+                            </div>
+                        `;
+                    }
+                });
+
+                box.innerHTML = htmlContent;
+
+                // 💡 動的に追加したTwitterのblockquoteをカードに変換するため公式スクリプトをロード
+                if (htmlContent.includes('twitter-tweet')) {
+                    const script = document.createElement('script');
+                    script.src = "https://platform.twitter.com/widgets.js";
+                    script.charset = "utf-8";
+                    script.async = true;
+                    document.body.appendChild(script);
+                }
+
+            } catch (err) {
+                box.innerHTML = `<div style="color: #ff4444; padding: 10px;">評価データの読み込みに失敗しました。</div>`;
                 console.error(err);
             }
         }
@@ -267,13 +373,13 @@
                     if (!playersMap[p.name]) { playersMap[p.name] = { score: 0, kills: 0, matches: 0 }; }
                     playersMap[p.name].score += parseFloat(p.sc || 0);
                     playersMap[p.name].kills += parseInt(p.k || 0);
-                    playersMap[p.name].matches += 1; // 💡 試合数を加算
+                    playersMap[p.name].matches += 1; 
                 });
             });
 
             const sortedPlayers = Object.keys(playersMap).map(n => ({
                 name: n, score: playersMap[n].score, kills: playersMap[n].kills, matches: playersMap[n].matches
-            })).sort((a,b) => b.score - a.score).slice(0, 15); // 💡 15名に制限
+            })).sort((a,b) => b.score - a.score).slice(0, 15); 
 
             let mHtml = "";
             if (sortedPlayers.length === 0) {
@@ -447,7 +553,6 @@
                             datasetsData[opt.id].push({ x: d, y: val });
                         });
 
-                        // 💡 チーム戦は4分なので、空き時間は4分後で計算
                         if (i < h.length - 1) {
                             const nextD = new Date(h[i+1].at);
                             if (nextD - d > 20 * 60 * 1000) {
