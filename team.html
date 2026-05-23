@@ -2,312 +2,611 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>チーム分析 - 陣取りデータバンク</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Yomogi&display=swap" rel="stylesheet">
+    
     <style>
-        /* 🟩 デザインは個人ページ/ランキングページと完全統一 */
-        body { font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #121214; color: #e0e0e6; margin: 0; padding: 20px; }
-        .header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #292930; padding-bottom: 15px; margin-bottom: 25px; }
-        .nav-links a { color: #4fa8ff; text-decoration: none; margin-left: 20px; font-weight: bold; }
-        .nav-links a:hover { text-underline-position: under; text-decoration: underline; }
-        h1 { margin: 0; font-size: 24px; color: #fff; }
-        h2 { font-size: 18px; border-left: 4px solid #ffbd4f; padding-left: 10px; margin-top: 30px; color: #fff; }
-        
-        table { width: 100%; border-collapse: collapse; margin-top: 10px; background: #1e1e24; border-radius: 8px; overflow: hidden; }
-        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #292930; }
-        th { background-color: #25252e; color: #ffbd4f; }
-        tr:hover { background-color: #2a2a35; }
-        
-        .anal-link { color: #4fa8ff; text-decoration: none; font-weight: bold; }
-        .anal-link:hover { text-decoration: underline; }
-
-        .rank-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-top: 10px; }
-        .rank-box { background: #1e1e24; padding: 15px; text-align: center; border-radius: 6px; border: 1px solid #292930; }
-        .rank-box .num { font-size: 20px; font-weight: bold; color: #ffbd4f; }
-
-        /* 🔘 ボタンのデザインを追加 */
-        .btn-group { margin-top: 15px; text-align: center; }
-        .action-btn {
-            background-color: #25252e; color: #4fa8ff; border: 1px solid #4fa8ff;
-            padding: 8px 16px; margin: 0 5px; border-radius: 4px; cursor: pointer; font-weight: bold; transition: 0.2s;
+        /* ==========================================
+            🎨 ランキングページ共通 超高密度サイバーダークUI
+        ========================================== */
+        :root {
+            --bg-base: #1a1d24;
+            --bg-panel: #222;
+            --text-main: #e0e0e0;
+            --deep-blue: #007bb5;
+            --border-color: #333;
+            --excel-border: #444; 
+            --highlight: rgba(0, 123, 181, 0.15);
         }
-        .action-btn:hover:not(:disabled) { background-color: #4fa8ff; color: #121214; }
-        .action-btn:disabled { border-color: #3f3f46; color: #71717a; cursor: not-allowed; background-color: #1e1e24; }
+        body { margin: 0; font-family: 'Yomogi', sans-serif; background-color: var(--bg-base); color: var(--text-main); font-size: 0.8rem; }
+        
+        header { background-color: #111; border-bottom: 1px solid var(--deep-blue); padding: 6px 15px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 1000; }
+        .site-title { font-size: 1.1rem; color: var(--deep-blue); margin: 0; }
+        .nav-links a { color: #ccc; text-decoration: none; margin-left: 15px; font-size: 0.85rem; padding: 3px 8px; border-radius: 3px; transition: all 0.2s; }
+        .nav-links a:hover, .nav-links a.active { background-color: var(--deep-blue); color: #fff; }
 
-        .chart-container { background: #1e1e24; padding: 20px; border-radius: 8px; margin-top: 15px; }
-        .controls { margin-bottom: 15px; }
+        .container { padding: 10px 15px; }
+        h2 { font-size: 1rem; color: var(--deep-blue); border-bottom: 1px solid var(--border-color); padding-bottom: 4px; margin-top: 20px; margin-bottom: 10px; }
+        .page-title-section { font-size: 1.2rem; color: #fff; margin-bottom: 15px; display: flex; align-items: center; }
+
+        /* 📊 エクセル風テーブルスタイル */
+        .excel-table-wrapper { overflow-x: auto; margin-bottom: 15px; }
+        .excel-table { border-collapse: collapse; background-color: var(--bg-panel); width: max-content; }
+        .excel-table th, .excel-table td { border: 1px solid var(--excel-border); padding: 4px 8px; text-align: right; white-space: nowrap; }
+        .excel-table th { background-color: #111; color: #ccc; text-align: center; font-weight: normal; }
+        .excel-table tr:hover { background-color: var(--highlight); }
+        .col-left { text-align: left !important; }
+
+        /* サブテーブル用グリッド */
+        .sub-tables-grid { display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; }
+
+        /* 📈 グラフエリア */
+        .chart-container { background-color: var(--bg-panel); border: 1px solid var(--border-color); padding: 10px; border-radius: 4px; }
+        .graph-controls { background: #111; padding: 10px; border: 1px solid var(--border-color); margin-bottom: 10px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+        .controls-group { border-right: 1px solid #444; padding-right: 10px; display: flex; gap: 8px; align-items: center; flex-wrap: wrap;}
+        .controls-group:last-child { border-right: none; }
+        
+        input[type="datetime-local"], select { background: #000; color: #fff; border: 1px solid #555; padding: 3px; font-family: 'Yomogi', sans-serif; font-size: 0.8rem; }
+        button.btn { background: #333; color: #fff; border: 1px solid #555; padding: 3px 8px; cursor: pointer; font-family: 'Yomogi', sans-serif; font-size: 0.8rem; }
+        button.btn:hover { background: #444; }
+
+        /* グラフ要素のチェックボックス群 */
+        .element-toggles { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; padding-top: 10px; border-top: 1px dashed #444; }
+        .element-toggles label { background: #1a1c20; border: 1px solid #444; padding: 2px 6px; border-radius: 3px; cursor: pointer; display: flex; align-items: center; gap: 4px; transition: color 0.2s; }
+        .element-toggles label:hover { background: #2a2c30; }
+        
+        /* 💡 文字ごと灰色にするグレーアウト設定 */
+        .element-toggles label:has(input:disabled) { color: #555 !important; cursor: not-allowed; opacity: 0.5; }
+
+        /* 人物評スクロール */
+        .review-scroll { display: flex; gap: 10px; overflow-x: auto; padding: 5px 0; }
+        .review-card { min-width: 250px; background: #111; padding: 10px; border: 1px solid var(--excel-border); border-left: 4px solid var(--deep-blue); font-size: 0.8rem; }
+
+        /* リンク用のスタイル */
+        .anal-link { color: #4fa8ff; text-decoration: none; cursor: pointer; }
+        .anal-link:hover { text-decoration: underline; color: #fff; }
     </style>
 </head>
 <body>
 
-    <div class="header">
-        <h1 id="page-title">チーム分析: 読み込み中...</h1>
+    <header>
+        <h1 class="site-title">陣取り データバンク</h1>
         <div class="nav-links">
-            <a href="ranking.html">🏆 ランキング</a>
-            <a href="personal.html">👤 個人分析一覧</a>
+            <a href="index.html">総合ランキング</a>
+            <a href="archive.html">過去試合記録</a>
+            <a href="plot.html">複数データプロット</a>
         </div>
-    </div>
+    </header>
 
-    <h2>📊 チーム基本統計</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>総出撃数</th>
-                <th>平均チームスコア</th>
-                <th>平均チームキル</th>
-                <th>平均参戦人数</th>
-                <th>最高順位</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td id="stat-total-matches">-</td>
-                <td id="stat-avg-score">-</td>
-                <td id="stat-avg-kills">-</td>
-                <td id="stat-avg-members">-</td>
-                <td id="stat-best-rank">-</td>
-            </tr>
-        </tbody>
-    </table>
+    <div class="container">
+        <div class="page-title-section" id="team-name-title">🏴 チーム分析: 読み込み中...</div>
 
-    <h2>🏅 チーム順位別獲得回数 (1位〜5位)</h2>
-    <div class="rank-grid" id="rank-distribution">
+        <h2>📊 基本統計・計算値</h2>
+        <div class="excel-table-wrapper">
+            <table class="excel-table" id="main-summary-table">
+                <thead>
+                    <tr>
+                        <th>総出撃数</th><th>1位数</th><th>累計チーム面積</th><th>最大チーム面積</th><th>総チームキル</th><th>最大チームキル</th>
+                        <th>毎試合チームキル</th><th>毎分チームキル</th><th>毎試合チーム面積</th><th>毎分チーム面積</th>
+                        <th>平均チーム順位</th><th>平均参戦人数</th>
+                    </tr>
+                </thead>
+                <tbody id="main-summary-body">
+                    </tbody>
+            </table>
         </div>
 
-    <h2>🔥 チーム内貢献度ランキング (累計スコア順)</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>順位</th>
-                <th>プレイヤー名</th>
-                <th>チーム内累計スコア</th>
-                <th>チーム内累計キル</th>
-            </tr>
-        </thead>
-        <tbody id="member-ranking-body">
-            <tr><td colspan="4" style="text-align:center;">データ収集中...</td></tr>
-        </tbody>
-    </table>
-    <div class="btn-group" id="ranking-buttons" style="display: none;">
-        <button class="action-btn" id="btn-expand-10" onclick="expandRanking(10)">10名ずつ展開</button>
-        <button class="action-btn" id="btn-expand-all" onclick="expandRanking('all')">全員展開</button>
-        <button class="action-btn" id="btn-collapse" onclick="collapseRanking()">元に戻す</button>
-    </div>
-
-    <h2>📈 チーム戦績の推移</h2>
-    <div class="chart-container">
-        <div class="controls">
-            <label><input type="checkbox" class="metric-chk" value="ts" checked> 総スコア</label>
-            <label style="margin-left:15px;"><input type="checkbox" class="metric-chk" value="tk"> 総キル数</label>
-            <label style="margin-left:15px;"><input type="checkbox" class="metric-chk" value="rk"> チーム順位(逆軸)</label>
+        <div class="sub-tables-grid">
+            <div>
+                <h2>🏅 順位別獲得数 (1位〜5位)</h2>
+                <table class="excel-table">
+                    <thead><tr><th>順位別獲得数</th><th>回数(回)</th><th>割合(%)</th></tr></thead>
+                    <tbody id="sub-rank-body"></tbody>
+                </table>
+            </div>
+            <div>
+                <h2>🔥 チーム内貢献度ランキング (トップ15)</h2>
+                <table class="excel-table">
+                    <thead><tr><th>順位</th><th>プレイヤー名</th><th>累計面積</th><th>累計キル</th></tr></thead>
+                    <tbody id="sub-member-body"></tbody>
+                </table>
+            </div>
         </div>
-        <canvas id="teamChart" style="max-height: 350px;"></canvas>
+
+        <h2>📈 戦績の推移 (高度なプロット)</h2>
+        <div class="chart-container">
+            <div class="graph-controls">
+                <div class="controls-group">
+                    <label>期間:</label>
+                    <input type="datetime-local" id="date-start"> ～ <input type="datetime-local" id="date-end">
+                </div>
+                <div class="controls-group">
+                    <button class="btn" onclick="setPresetDate('1h')">直近1時間</button>
+                    <button class="btn" onclick="setPresetDate('1d')">直近1日</button>
+                    <button class="btn" onclick="setPresetDate('1w')">直近1週間</button>
+                    <button class="btn" onclick="setPresetDate('1m')">直近1か月</button>
+                    <button class="btn" onclick="setPresetDate('all')">全期間</button>
+                </div>
+                <div class="controls-group">
+                    <label>スケール:</label>
+                    <select id="graph-scale" onchange="checkScaleConstraints(); updateChart();">
+                        <option value="all">全試合(点打)</option>
+                        <option value="hour">1時間毎</option>
+                        <option value="day">1日毎</option>
+                        <option value="week">1週間毎</option>
+                        <option value="month">1か月毎</option>
+                    </select>
+                </div>
+                <div class="controls-group">
+                    <label><input type="checkbox" id="skip-empty" checked onchange="updateChart()"> 参加していない日時を飛ばす</label>
+                </div>
+            </div>
+
+            <div class="element-toggles" id="plot-elements">
+                </div>
+
+            <canvas id="historyChart" style="max-height: 450px; margin-top: 10px;"></canvas>
+        </div>
+
+        <h2>💬 コミュニティからのチーム評</h2>
+        <div class="review-scroll" id="reviews-box">
+            <div class="review-card">「少数精鋭で常に上位をかっさらう恐ろしいチーム。」</div>
+            <div class="review-card">「見かけたら要注意。連携の取れた包囲網で一気に制圧してくる。」</div>
+            <div class="review-card">「人数こそ少ないが、一人一人の生存力が異常に高い。」</div>
+        </div>
     </div>
 
     <script>
         const params = new URLSearchParams(window.location.search);
-        const teamName = params.get('name') || "🇯🇵ONJ"; // テスト用のデフォルト
+        const teamName = params.get('name') || "🇯🇵ONJ";
+        const GAME_MINUTES = 4.0; // 💡 チーム戦は4分
 
         let rawHistory = [];
         let myChart = null;
-        
-        // 貢献度ランキング用グローバル変数
-        let allTeamMembers = [];
-        let currentDisplayCount = 10;
 
-        function getSafeFilename(name) {
-            return name.replace(/[\\/:*?"<>|]/g, '_');
-        }
+        // グラフ要素定義 (チーム版)
+        const plotOptions = [
+            { id: 'matches', label: '出撃回数', color: '#ffffff', type: 'sum', requiresScale: true },
+            { id: 'wins', label: '1位数', color: '#ffea00', type: 'sum' },
+            { id: 'area_sum', label: '累計面積(期間合算)', color: '#4fa8ff', type: 'sum' },
+            { id: 'area_acc', label: '累計面積(全期間加算)', color: '#0055ff', type: 'acc' },
+            { id: 'area_max', label: '最大面積', color: '#00ffcc', type: 'max' },
+            { id: 'kill_sum', label: '総キル数(期間合算)', color: '#ff4f79', type: 'sum' },
+            { id: 'kill_acc', label: '総キル数(全期間加算)', color: '#cc0000', type: 'acc' },
+            { id: 'kill_max', label: '最大キル', color: '#ffaa00', type: 'max' },
+            { id: 'kill_avg', label: '毎試合キル数(平均)', color: '#ff88aa', type: 'avg' },
+            { id: 'kill_min', label: '毎分キル数', color: '#ffbbcc', type: 'avg_min' },
+            { id: 'area_avg', label: '毎試合面積(平均)', color: '#88ccff', type: 'avg' },
+            { id: 'area_min', label: '毎分面積', color: '#bbeeff', type: 'avg_min' },
+            { id: 'rank_avg', label: '平均チーム順位(逆軸)', color: '#bbff00', type: 'avg_rev' },
+            { id: 'member_avg', label: '平均参戦人数', color: '#d4b611', type: 'avg' }
+        ];
+
+        function getSafeFilename(name) { return name.replace(/[\\/:*?"<>|]/g, '_'); }
 
         async function loadTeamData() {
             try {
                 const safeName = getSafeFilename(teamName);
                 const response = await fetch(`analysis_data/team_analysis/${safeName}.json`);
-                if (!response.ok) throw new Error("チームファイルが見つからないのです");
+                if (!response.ok) throw new Error("ファイルが見つからないのです");
                 const data = await response.json();
                 
-                document.getElementById('page-title').innerText = `🏴 チーム分析: ${data.name}`;
-                rawHistory = data.h || [];
+                document.getElementById('team-name-title').innerText = `🏴 チーム分析: ${data.name}`;
+                rawHistory = (data.h || []).sort((a,b) => new Date(a.at) - new Date(b.at)); 
 
-                // 各種描画
-                calculateStats(rawHistory);
-                renderRankDistribution(rawHistory);
-                aggregateMemberRanking(rawHistory);
+                buildMainTable(rawHistory);
+                updateSubTables();
+                initGraphControls();
                 updateChart();
-
             } catch (err) {
-                document.getElementById('page-title').innerText = `❌ データが見つかりませんでした: ${teamName}`;
+                document.getElementById('team-name-title').innerText = `❌ データが見つかりませんでした: ${teamName}`;
                 console.error(err);
             }
         }
 
-        function calculateStats(history) {
-            const total = history.length;
-            if(total === 0) return;
-
-            let scoreSum = 0, killSum = 0, memberSum = 0, bestRank = 5;
-            history.forEach(item => {
-                scoreSum += parseFloat(item.ts || 0);
-                killSum += parseInt(item.tk || 0);
-                memberSum += parseInt(item.mc || 0);
-                const r = parseInt(item.rk || 5);
-                if(r < bestRank) bestRank = r;
-            });
-
-            document.getElementById('stat-total-matches').innerText = `${total} 回`;
-            document.getElementById('stat-avg-score').innerText = (scoreSum / total).toFixed(2);
-            document.getElementById('stat-avg-kills').innerText = (killSum / total).toFixed(1);
-            document.getElementById('stat-avg-members').innerText = `${(memberSum / total).toFixed(1)} 人`;
-            document.getElementById('stat-best-rank').innerText = `${bestRank} 位`;
-        }
-
-        function renderRankDistribution(history) {
-            const counts = Array(6).fill(0); // 1~5位用 (インデックス1〜5を使用)
-            history.forEach(item => {
-                const r = parseInt(item.rk);
-                if(r >= 1 && r <= 5) counts[r]++;
-            });
-
-            const container = document.getElementById('rank-distribution');
-            container.innerHTML = "";
-            for(let i=1; i<=5; i++) {
-                container.innerHTML += `
-                    <div class="rank-box">
-                        <div>${i}位</div>
-                        <div class="num">${counts[i]}回</div>
-                    </div>
-                `;
+        // ==========================================
+        // 1. 横長メインテーブルの構築 (総計のみ)
+        // ==========================================
+        function buildMainTable(history) {
+            const count = history.length;
+            const tbody = document.getElementById('main-summary-body');
+            
+            if(count === 0) {
+                tbody.innerHTML = `<tr><td colspan="12" style="text-align:center;">データなし</td></tr>`;
+                return;
             }
+
+            let w=0, aSum=0, aMax=0, kSum=0, kMax=0, rSum=0, mSum=0;
+            history.forEach(r => {
+                const sc = parseFloat(r.ts||0); const k = parseInt(r.tk||0); 
+                const rk = parseInt(r.rk||0); const mc = parseInt(r.mc||0);
+                if(rk === 1) w++;
+                aSum += sc; if(sc > aMax) aMax = sc;
+                kSum += k; if(k > kMax) kMax = k;
+                rSum += rk; mSum += mc;
+            });
+            const kAvg = kSum / count; const kMin = kAvg / GAME_MINUTES;
+            const aAvg = aSum / count; const aMin = aAvg / GAME_MINUTES;
+            const rAvg = rSum / count; const mAvg = mSum / count;
+            
+            const vals = [
+                count, w, aSum.toFixed(2), aMax.toFixed(2), kSum, kMax,
+                kAvg.toFixed(2), kMin.toFixed(2), aAvg.toFixed(2), aMin.toFixed(2),
+                rAvg.toFixed(1), mAvg.toFixed(1)
+            ];
+
+            tbody.innerHTML = `<tr><td>${vals.join('</td><td>')}</td></tr>`;
         }
 
-        // 🌟 チーム内の全試合データをスキャンしてプレイヤー別に貢献度を集計！
-        function aggregateMemberRanking(history) {
-            const playersMap = {};
+        // ==========================================
+        // 2. サブテーブル (順位獲得数・貢献度ランキング)
+        // ==========================================
+        function updateSubTables() {
+            const total = rawHistory.length;
 
-            history.forEach(match => {
+            // ① 順位別獲得数 (チーム戦なので1〜5位まで)
+            const rCounts = Array(6).fill(0);
+            rawHistory.forEach(r => { const rk = parseInt(r.rk); if(rk>=1 && rk<=5) rCounts[rk]++; });
+            let rHtml = "";
+            for(let i=1; i<=5; i++) {
+                const pct = total > 0 ? ((rCounts[i]/total)*100).toFixed(1) : "0.0";
+                rHtml += `<tr><td class="col-left">${i}位</td><td>${rCounts[i]}</td><td>${pct}%</td></tr>`;
+            }
+            document.getElementById('sub-rank-body').innerHTML = rHtml;
+
+            // ② チーム内貢献度ランキング (トップ15)
+            const playersMap = {};
+            rawHistory.forEach(match => {
                 const members = match.m || [];
                 members.forEach(p => {
-                    if (!playersMap[p.name]) {
-                        playersMap[p.name] = { score: 0, kills: 0 };
-                    }
+                    if (!playersMap[p.name]) { playersMap[p.name] = { score: 0, kills: 0 }; }
                     playersMap[p.name].score += parseFloat(p.sc || 0);
                     playersMap[p.name].kills += parseInt(p.k || 0);
                 });
             });
 
-            // スコアの高い順にソートして全メンバーの配列を作成
-            allTeamMembers = Object.keys(playersMap).map(name => ({
-                name: name,
-                score: playersMap[name].score,
-                kills: playersMap[name].kills
-            })).sort((a, b) => b.score - a.score);
+            const sortedPlayers = Object.keys(playersMap).map(n => ({
+                name: n, score: playersMap[n].score, kills: playersMap[n].kills
+            })).sort((a,b) => b.score - a.score).slice(0, 15); // 💡 15名に制限
 
-            currentDisplayCount = 10; // 初期表示は10人
-            renderRankingTable();
-        }
-
-        // 🌟 ランキング表の描画とボタン制御
-        function renderRankingTable() {
-            const tbody = document.getElementById('member-ranking-body');
-            tbody.innerHTML = "";
-
-            if(allTeamMembers.length === 0) {
-                tbody.innerHTML = `<tr><td colspan="4" style="text-align:center;">メンバーデータがありません</td></tr>`;
-                document.getElementById('ranking-buttons').style.display = 'none';
-                return;
-            }
-
-            // 表示する人数を制限
-            const displayLimit = Math.min(currentDisplayCount, allTeamMembers.length);
-            const toShow = allTeamMembers.slice(0, displayLimit);
-
-            toShow.forEach((p, index) => {
-                tbody.innerHTML += `
-                    <tr>
-                        <td><strong>${index + 1}</strong></td>
-                        <td><a class="anal-link" href="personal.html?name=${encodeURIComponent(p.name)}">${p.name}</a></td>
+            let mHtml = "";
+            if (sortedPlayers.length === 0) {
+                mHtml = `<tr><td colspan="4" style="text-align:center;">データなし</td></tr>`;
+            } else {
+                sortedPlayers.forEach((p, idx) => {
+                    mHtml += `<tr>
+                        <td>${idx + 1}</td>
+                        <td class="col-left"><a class="anal-link" href="personal.html?name=${encodeURIComponent(p.name)}">${p.name}</a></td>
                         <td>${p.score.toFixed(2)}</td>
                         <td>${p.kills}</td>
-                    </tr>
-                `;
+                    </tr>`;
+                });
+            }
+            document.getElementById('sub-member-body').innerHTML = mHtml;
+        }
+
+        // ==========================================
+        // 3. 高度なグラフ描画システム
+        // ==========================================
+        function initGraphControls() {
+            const tg = document.getElementById('plot-elements');
+            tg.innerHTML = "";
+            plotOptions.forEach((opt) => {
+                const checked = (opt.id === 'area_acc' || opt.id === 'kill_acc') ? 'checked' : '';
+                tg.innerHTML += `<label><input type="checkbox" class="plot-chk" value="${opt.id}" ${checked} onchange="checkScaleConstraints(); updateChart();"> <span style="color:${opt.color};">■</span> ${opt.label}</label>`;
             });
 
-            // ボタンの表示・非表示・無効化の制御
-            document.getElementById('ranking-buttons').style.display = 'block';
-            
-            const btnExpand10 = document.getElementById('btn-expand-10');
-            const btnExpandAll = document.getElementById('btn-expand-all');
-            const btnCollapse = document.getElementById('btn-collapse');
-
-            // 全て表示しきっている場合、展開ボタンを無効化
-            if (currentDisplayCount >= allTeamMembers.length) {
-                btnExpand10.disabled = true;
-                btnExpandAll.disabled = true;
-            } else {
-                btnExpand10.disabled = false;
-                btnExpandAll.disabled = false;
+            if(rawHistory.length > 0) {
+                const sd = new Date(rawHistory[0].at);
+                const ed = new Date(rawHistory[rawHistory.length-1].at);
+                const fmt = d => new Date(d.getTime() - d.getTimezoneOffset()*60000).toISOString().slice(0,16);
+                document.getElementById('date-start').value = fmt(sd);
+                document.getElementById('date-end').value = fmt(ed);
             }
 
-            // 初期表示数（10以下）の場合は戻すボタンを無効化
-            if (currentDisplayCount <= 10) {
-                btnCollapse.disabled = true;
+            document.getElementById('date-start').addEventListener('change', updateChart);
+            document.getElementById('date-end').addEventListener('change', updateChart);
+
+            document.getElementById('graph-scale').value = 'all';
+            document.getElementById('skip-empty').checked = true;
+            checkScaleConstraints();
+        }
+
+        function setPresetDate(type) {
+            if(rawHistory.length === 0) return;
+            const ed = new Date(rawHistory[rawHistory.length-1].at);
+            let sd = new Date(ed);
+            if(type === '1h') sd.setHours(sd.getHours() - 1);
+            if(type === '1d') sd.setDate(sd.getDate() - 1);
+            if(type === '1w') sd.setDate(sd.getDate() - 7);
+            if(type === '1m') sd.setMonth(sd.getMonth() - 1);
+            if(type === 'all') sd = new Date(rawHistory[0].at);
+
+            const fmt = d => new Date(d.getTime() - d.getTimezoneOffset()*60000).toISOString().slice(0,16);
+            document.getElementById('date-start').value = fmt(sd);
+            document.getElementById('date-end').value = fmt(ed);
+            updateChart();
+        }
+
+        function checkScaleConstraints() {
+            const scale = document.getElementById('graph-scale').value;
+            const skipChk = document.getElementById('skip-empty');
+            const matchChk = document.querySelector('.plot-chk[value="matches"]');
+
+            skipChk.disabled = false;
+            if(scale === 'all') {
+                matchChk.checked = false;
+                matchChk.disabled = true;
             } else {
-                btnCollapse.disabled = false;
+                matchChk.disabled = false;
+                if(matchChk.checked) {
+                    skipChk.checked = false; 
+                    skipChk.disabled = true;
+                }
             }
         }
 
-        // ボタンから呼ばれる操作関数
-        function expandRanking(amount) {
-            if (amount === 'all') {
-                currentDisplayCount = allTeamMembers.length;
-            } else {
-                currentDisplayCount += amount;
-            }
-            renderRankingTable();
+        function truncDate(d, scale) {
+            const t = new Date(d);
+            t.setMinutes(0,0,0);
+            if(scale === 'day' || scale === 'week' || scale === 'month') t.setHours(0);
+            if(scale === 'week') { const diff = t.getDate() - t.getDay(); t.setDate(diff); }
+            if(scale === 'month') t.setDate(1);
+            return t;
         }
-
-        function collapseRanking() {
-            currentDisplayCount = 10;
-            renderRankingTable();
+        function addTime(d, scale) {
+            const t = new Date(d);
+            if(scale === 'hour') t.setHours(t.getHours()+1);
+            if(scale === 'day') t.setDate(t.getDate()+1);
+            if(scale === 'week') t.setDate(t.getDate()+7);
+            if(scale === 'month') t.setMonth(t.getMonth()+1);
+            return t;
+        }
+        function formatLabel(d, scale) {
+            const pad = n => n.toString().padStart(2, '0');
+            return `${pad(d.getMonth()+1)}/${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
         }
 
         function updateChart() {
-            // 時系列順にソート
-            const filtered = [...rawHistory].sort((a,b) => a.id - b.id);
+            let h = rawHistory;
+            const sdStr = document.getElementById('date-start').value;
+            const edStr = document.getElementById('date-end').value;
+            if(sdStr && edStr) {
+                const sd = new Date(sdStr); const ed = new Date(edStr);
+                h = h.filter(r => { const d = new Date(r.at); return d >= sd && d <= ed; });
+            }
 
-            const labels = filtered.map(item => `R-${item.id}`);
+            const scale = document.getElementById('graph-scale').value;
+            const skipEmpty = document.getElementById('skip-empty').checked;
+            
+            const activeOpts = [];
+            document.querySelectorAll('.plot-chk:checked').forEach(chk => {
+                const opt = plotOptions.find(o => o.id === chk.value);
+                if(opt) activeOpts.push(opt);
+            });
+
+            let labels = [];
+            let datasetsData = {};
+            activeOpts.forEach(opt => datasetsData[opt.id] = []);
+
+            if(h.length === 0) {
+                renderChartJs(labels, activeOpts, datasetsData, false); return;
+            }
+
+            let isTimeScale = (scale === 'all' && !skipEmpty);
+
+            if (scale === 'all') {
+                if (skipEmpty) {
+                    let accArea = 0, accKill = 0;
+                    h.forEach(r => {
+                        labels.push(formatLabel(new Date(r.at), 'all'));
+                        const sc = parseFloat(r.ts||0); const k = parseInt(r.tk||0); 
+                        const rk = parseInt(r.rk||0); const mc = parseInt(r.mc||0);
+                        accArea += sc; accKill += k;
+                        activeOpts.forEach(opt => {
+                            let val = 0;
+                            if(opt.id === 'area_sum' || opt.id === 'area_max' || opt.id === 'area_avg') val = sc;
+                            if(opt.id === 'area_acc') val = accArea;
+                            if(opt.id === 'kill_sum' || opt.id === 'kill_max' || opt.id === 'kill_avg') val = k;
+                            if(opt.id === 'kill_acc') val = accKill;
+                            if(opt.id === 'kill_min') val = k / GAME_MINUTES;
+                            if(opt.id === 'area_min') val = sc / GAME_MINUTES;
+                            if(opt.id === 'rank_avg') val = rk;
+                            if(opt.id === 'wins') val = rk === 1 ? 1 : 0;
+                            if(opt.id === 'member_avg') val = mc;
+                            datasetsData[opt.id].push(val);
+                        });
+                    });
+                } else {
+                    let accArea = 0, accKill = 0;
+                    for (let i = 0; i < h.length; i++) {
+                        const r = h[i];
+                        const d = new Date(r.at);
+                        const sc = parseFloat(r.ts||0); const k = parseInt(r.tk||0); 
+                        const rk = parseInt(r.rk||0); const mc = parseInt(r.mc||0);
+                        accArea += sc; accKill += k;
+
+                        activeOpts.forEach(opt => {
+                            let val = 0;
+                            if(opt.id === 'area_sum' || opt.id === 'area_max' || opt.id === 'area_avg') val = sc;
+                            if(opt.id === 'area_acc') val = accArea;
+                            if(opt.id === 'kill_sum' || opt.id === 'kill_max' || opt.id === 'kill_avg') val = k;
+                            if(opt.id === 'kill_acc') val = accKill;
+                            if(opt.id === 'kill_min') val = k / GAME_MINUTES;
+                            if(opt.id === 'area_min') val = sc / GAME_MINUTES;
+                            if(opt.id === 'rank_avg') val = rk;
+                            if(opt.id === 'wins') val = rk === 1 ? 1 : 0;
+                            if(opt.id === 'member_avg') val = mc;
+                            datasetsData[opt.id].push({ x: d, y: val });
+                        });
+
+                        // 💡 チーム戦は4分なので、空き時間は4分後で計算
+                        if (i < h.length - 1) {
+                            const nextD = new Date(h[i+1].at);
+                            if (nextD - d > 20 * 60 * 1000) {
+                                const dAfter = new Date(d.getTime() + 4 * 60 * 1000); 
+                                const dBefore = new Date(nextD.getTime() - 1 * 60 * 1000);
+
+                                activeOpts.forEach(opt => {
+                                    let valAfter = 0, valBefore = 0;
+                                    if (opt.id === 'area_acc') { valAfter = accArea; valBefore = accArea; }
+                                    else if (opt.id === 'kill_acc') { valAfter = accKill; valBefore = accKill; }
+                                    else if (opt.id === 'rank_avg') { valAfter = null; valBefore = null; } 
+                                    else { valAfter = 0; valBefore = 0; }
+
+                                    datasetsData[opt.id].push({ x: dAfter, y: valAfter });
+                                    datasetsData[opt.id].push({ x: dBefore, y: valBefore });
+                                });
+                            }
+                        }
+                    }
+                }
+            } else {
+                const buckets = {};
+                h.forEach(r => {
+                    const key = truncDate(new Date(r.at), scale).getTime();
+                    if(!buckets[key]) buckets[key] = [];
+                    buckets[key].push(r);
+                });
+
+                let curr = truncDate(new Date(h[0].at), scale);
+                const end = truncDate(new Date(h[h.length-1].at), scale);
+                let accArea = 0, accKill = 0;
+
+                while(curr <= end) {
+                    const key = curr.getTime();
+                    const records = buckets[key] || [];
+                    
+                    if(records.length > 0 || !skipEmpty) {
+                        labels.push(formatLabel(curr, scale));
+                        
+                        let scSum=0, scMax=0, kSum=0, kMax=0, rSum=0, wCount=0, mSum=0;
+                        records.forEach(r => {
+                            const sc = parseFloat(r.ts||0); const k = parseInt(r.tk||0); 
+                            const rk = parseInt(r.rk||0); const mc = parseInt(r.mc||0);
+                            scSum+=sc; kSum+=k; rSum+=rk; mSum+=mc;
+                            if(sc > scMax) scMax=sc; if(k > kMax) kMax=k;
+                            if(rk === 1) wCount++;
+                        });
+                        accArea += scSum; accKill += kSum;
+                        const c = records.length;
+
+                        activeOpts.forEach(opt => {
+                            let val = 0;
+                            if(c > 0) {
+                                if(opt.id === 'matches') val = c;
+                                if(opt.id === 'wins') val = wCount;
+                                if(opt.id === 'area_sum') val = scSum;
+                                if(opt.id === 'area_acc') val = accArea;
+                                if(opt.id === 'area_max') val = scMax;
+                                if(opt.id === 'kill_sum') val = kSum;
+                                if(opt.id === 'kill_acc') val = accKill;
+                                if(opt.id === 'kill_max') val = kMax;
+                                if(opt.id === 'kill_avg') val = kSum/c;
+                                if(opt.id === 'kill_min') val = (kSum/c)/GAME_MINUTES;
+                                if(opt.id === 'area_avg') val = scSum/c;
+                                if(opt.id === 'area_min') val = (scSum/c)/GAME_MINUTES;
+                                if(opt.id === 'rank_avg') val = rSum/c;
+                                if(opt.id === 'member_avg') val = mSum/c;
+                            } else {
+                                if(opt.id === 'area_acc') val = accArea;
+                                else if(opt.id === 'kill_acc') val = accKill;
+                                else if(opt.id === 'rank_avg') val = null; 
+                                else val = 0; 
+                            }
+                            datasetsData[opt.id].push(val);
+                        });
+                    }
+                    curr = addTime(curr, scale);
+                }
+            }
+
+            renderChartJs(labels, activeOpts, datasetsData, isTimeScale);
+        }
+
+        function renderChartJs(labels, activeOpts, datasetsData, isTimeScale) {
+            if(myChart) myChart.destroy();
+            
             const datasets = [];
+            const scalesDef = { 
+                x: { 
+                    type: isTimeScale ? 'time' : 'category',
+                    grid: { color: '#333' },
+                    ticks: { color: '#ccc' }
+                } 
+            };
 
-            const chks = document.querySelectorAll('.metric-chk:checked');
-            chks.forEach(chk => {
-                const val = chk.value;
-                if(val === 'ts') {
-                    datasets.push({ label: 'チーム総スコア', data: filtered.map(item => parseFloat(item.ts)), borderColor: '#ffbd4f', backgroundColor: 'transparent', yAxisID: 'y' });
-                } else if(val === 'tk') {
-                    datasets.push({ label: 'チーム総キル数', data: filtered.map(item => item.tk), borderColor: '#ff4f79', backgroundColor: 'transparent', yAxisID: 'y1' });
-                } else if(val === 'rk') {
-                    datasets.push({ label: 'チーム順位', data: filtered.map(item => item.rk), borderColor: '#4fa8ff', backgroundColor: 'transparent', yAxisID: 'yRank' });
+            activeOpts.forEach((opt, i) => {
+                const axisId = `yAxis_${i}`;
+                datasets.push({
+                    label: opt.label,
+                    data: datasetsData[opt.id],
+                    borderColor: opt.color,
+                    backgroundColor: 'transparent',
+                    borderWidth: 1.5,
+                    pointRadius: 0, 
+                    pointHitRadius: 10,
+                    tension: 0.1,
+                    spanGaps: true, 
+                    yAxisID: axisId
+                });
+
+                scalesDef[axisId] = {
+                    type: 'linear',
+                    display: true,
+                    position: i % 2 === 0 ? 'left' : 'right',
+                    grid: { drawOnChartArea: i === 0, color: '#333' },
+                    ticks: { color: opt.color }
+                };
+                if(opt.type === 'avg_rev') {
+                    scalesDef[axisId].reverse = true;
+                    scalesDef[axisId].min = 1; scalesDef[axisId].max = 5; // 💡 チーム戦なので1〜5
                 }
             });
 
-            if(myChart) myChart.destroy();
-
-            const ctx = document.getElementById('teamChart').getContext('2d');
+            const ctx = document.getElementById('historyChart').getContext('2d');
             myChart = new Chart(ctx, {
                 type: 'line',
-                data: { labels, datasets },
+                data: isTimeScale ? { datasets } : { labels, datasets },
                 options: {
                     responsive: true,
-                    scales: {
-                        y: { type: 'linear', display: true, position: 'left', grid: { color: '#292930' } },
-                        y1: { type: 'linear', display: true, position: 'right', grid: { drawOnChartArea: false } },
-                        yRank: { type: 'linear', display: true, position: 'right', reverse: true, min: 1, max: 5, ticks: { stepSize: 1 }, grid: { drawOnChartArea: false } }
+                    maintainAspectRatio: false,
+                    animation: false, 
+                    interaction: { mode: 'index', intersect: false },
+                    scales: scalesDef,
+                    plugins: { 
+                        legend: { labels: { color: '#ccc' } },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.dataset.label || '';
+                                    if (label) label += ': ';
+                                    if (context.parsed.y !== null) {
+                                        let val = context.parsed.y;
+                                        if (typeof val === 'number') {
+                                            val = val % 1 === 0 ? val : val.toFixed(2);
+                                        }
+                                        if (label.includes('面積')) val += '％';
+                                        else if (label.includes('キル')) val += 'キル';
+                                        else if (label.includes('順位')) val += '位';
+                                        else if (label.includes('人数')) val += '人';
+                                        else if (label.includes('回数') || label.includes('参加') || label.includes('出撃')) val += '回';
+                                        else if (label.includes('数')) val += '回';
+                                        return label + val;
+                                    }
+                                    return label;
+                                }
+                            }
+                        }
                     }
                 }
             });
         }
-
-        document.querySelectorAll('.metric-chk').forEach(chk => chk.addEventListener('change', updateChart));
 
         window.onload = loadTeamData;
     </script>
