@@ -25,6 +25,15 @@
         .rank-box { background: #1e1e24; padding: 15px; text-align: center; border-radius: 6px; border: 1px solid #292930; }
         .rank-box .num { font-size: 20px; font-weight: bold; color: #ffbd4f; }
 
+        /* 🔘 ボタンのデザインを追加 */
+        .btn-group { margin-top: 15px; text-align: center; }
+        .action-btn {
+            background-color: #25252e; color: #4fa8ff; border: 1px solid #4fa8ff;
+            padding: 8px 16px; margin: 0 5px; border-radius: 4px; cursor: pointer; font-weight: bold; transition: 0.2s;
+        }
+        .action-btn:hover:not(:disabled) { background-color: #4fa8ff; color: #121214; }
+        .action-btn:disabled { border-color: #3f3f46; color: #71717a; cursor: not-allowed; background-color: #1e1e24; }
+
         .chart-container { background: #1e1e24; padding: 20px; border-radius: 8px; margin-top: 15px; }
         .controls { margin-bottom: 15px; }
     </style>
@@ -65,12 +74,12 @@
     <div class="rank-grid" id="rank-distribution">
         </div>
 
-    <h2>🔥 チーム内貢献度ランキング (累計スコア順 TOP 10)</h2>
+    <h2>🔥 チーム内貢献度ランキング (累計スコア順)</h2>
     <table>
         <thead>
             <tr>
                 <th>順位</th>
-                <th>プレイヤー名 (リンク)</th>
+                <th>プレイヤー名</th>
                 <th>チーム内累計スコア</th>
                 <th>チーム内累計キル</th>
             </tr>
@@ -79,6 +88,11 @@
             <tr><td colspan="4" style="text-align:center;">データ収集中...</td></tr>
         </tbody>
     </table>
+    <div class="btn-group" id="ranking-buttons" style="display: none;">
+        <button class="action-btn" id="btn-expand-10" onclick="expandRanking(10)">10名ずつ展開</button>
+        <button class="action-btn" id="btn-expand-all" onclick="expandRanking('all')">全員展開</button>
+        <button class="action-btn" id="btn-collapse" onclick="collapseRanking()">元に戻す</button>
+    </div>
 
     <h2>📈 チーム戦績の推移</h2>
     <div class="chart-container">
@@ -96,6 +110,10 @@
 
         let rawHistory = [];
         let myChart = null;
+        
+        // 貢献度ランキング用グローバル変数
+        let allTeamMembers = [];
+        let currentDisplayCount = 10;
 
         function getSafeFilename(name) {
             return name.replace(/[\\/:*?"<>|]/g, '_');
@@ -144,7 +162,7 @@
         }
 
         function renderRankDistribution(history) {
-            const counts = Array(6).fill(0); // 1~5位用
+            const counts = Array(6).fill(0); // 1~5位用 (インデックス1〜5を使用)
             history.forEach(item => {
                 const r = parseInt(item.rk);
                 if(r >= 1 && r <= 5) counts[r]++;
@@ -177,31 +195,80 @@
                 });
             });
 
-            // スコアの高い順にソートしてTOP 10を切り出し
-            const sortedPlayers = Object.keys(playersMap).map(name => ({
+            // スコアの高い順にソートして全メンバーの配列を作成
+            allTeamMembers = Object.keys(playersMap).map(name => ({
                 name: name,
                 score: playersMap[name].score,
                 kills: playersMap[name].kills
-            })).sort((a, b) => b.score - a.score).slice(0, 10);
+            })).sort((a, b) => b.score - a.score);
 
+            currentDisplayCount = 10; // 初期表示は10人
+            renderRankingTable();
+        }
+
+        // 🌟 ランキング表の描画とボタン制御
+        function renderRankingTable() {
             const tbody = document.getElementById('member-ranking-body');
             tbody.innerHTML = "";
 
-            if(sortedPlayers.length === 0) {
+            if(allTeamMembers.length === 0) {
                 tbody.innerHTML = `<tr><td colspan="4" style="text-align:center;">メンバーデータがありません</td></tr>`;
+                document.getElementById('ranking-buttons').style.display = 'none';
                 return;
             }
 
-            sortedPlayers.forEach((p, index) => {
+            // 表示する人数を制限
+            const displayLimit = Math.min(currentDisplayCount, allTeamMembers.length);
+            const toShow = allTeamMembers.slice(0, displayLimit);
+
+            toShow.forEach((p, index) => {
                 tbody.innerHTML += `
                     <tr>
                         <td><strong>${index + 1}</strong></td>
-                        <td><a class="anal-link" href="personal.html?name=${encodeURIComponent(p.name)}">👤 ${p.name}</a></td>
+                        <td><a class="anal-link" href="personal.html?name=${encodeURIComponent(p.name)}">${p.name}</a></td>
                         <td>${p.score.toFixed(2)}</td>
                         <td>${p.kills}</td>
                     </tr>
                 `;
             });
+
+            // ボタンの表示・非表示・無効化の制御
+            document.getElementById('ranking-buttons').style.display = 'block';
+            
+            const btnExpand10 = document.getElementById('btn-expand-10');
+            const btnExpandAll = document.getElementById('btn-expand-all');
+            const btnCollapse = document.getElementById('btn-collapse');
+
+            // 全て表示しきっている場合、展開ボタンを無効化
+            if (currentDisplayCount >= allTeamMembers.length) {
+                btnExpand10.disabled = true;
+                btnExpandAll.disabled = true;
+            } else {
+                btnExpand10.disabled = false;
+                btnExpandAll.disabled = false;
+            }
+
+            // 初期表示数（10以下）の場合は戻すボタンを無効化
+            if (currentDisplayCount <= 10) {
+                btnCollapse.disabled = true;
+            } else {
+                btnCollapse.disabled = false;
+            }
+        }
+
+        // ボタンから呼ばれる操作関数
+        function expandRanking(amount) {
+            if (amount === 'all') {
+                currentDisplayCount = allTeamMembers.length;
+            } else {
+                currentDisplayCount += amount;
+            }
+            renderRankingTable();
+        }
+
+        function collapseRanking() {
+            currentDisplayCount = 10;
+            renderRankingTable();
         }
 
         function updateChart() {
