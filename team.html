@@ -91,9 +91,9 @@
             <table class="excel-table" id="main-summary-table">
                 <thead>
                     <tr>
-                        <th>総出撃数</th><th>1位数</th><th>累計チーム面積</th><th>最大チーム面積</th><th>総チームキル</th><th>最大チームキル</th>
-                        <th>毎試合チームキル</th><th>毎分チームキル</th><th>毎試合チーム面積</th><th>毎分チーム面積</th>
-                        <th>平均チーム順位</th><th>平均参戦人数</th>
+                        <th>試合数</th><th>1位数</th><th>累計面積</th><th>最大面積</th><th>総キル数</th><th>最大キル</th>
+                        <th>毎試合キル数</th><th>毎分キル数</th><th>毎試合面積</th><th>毎分面積</th>
+                        <th>平均チーム順位</th><th>平均チーム人数</th>
                     </tr>
                 </thead>
                 <tbody id="main-summary-body">
@@ -112,7 +112,7 @@
             <div>
                 <h2>🔥 チーム内貢献度ランキング (トップ15)</h2>
                 <table class="excel-table">
-                    <thead><tr><th>順位</th><th>プレイヤー名</th><th>累計面積</th><th>累計キル</th></tr></thead>
+                    <thead><tr><th>順位</th><th>プレイヤー名</th><th>試合数</th><th>累計面積</th><th>累計キル</th></tr></thead>
                     <tbody id="sub-member-body"></tbody>
                 </table>
             </div>
@@ -171,7 +171,7 @@
 
         // グラフ要素定義 (チーム版)
         const plotOptions = [
-            { id: 'matches', label: '出撃回数', color: '#ffffff', type: 'sum', requiresScale: true },
+            { id: 'matches', label: '試合数', color: '#ffffff', type: 'sum', requiresScale: true },
             { id: 'wins', label: '1位数', color: '#ffea00', type: 'sum' },
             { id: 'area_sum', label: '累計面積(期間合算)', color: '#4fa8ff', type: 'sum' },
             { id: 'area_acc', label: '累計面積(全期間加算)', color: '#0055ff', type: 'acc' },
@@ -184,7 +184,7 @@
             { id: 'area_avg', label: '毎試合面積(平均)', color: '#88ccff', type: 'avg' },
             { id: 'area_min', label: '毎分面積', color: '#bbeeff', type: 'avg_min' },
             { id: 'rank_avg', label: '平均チーム順位(逆軸)', color: '#bbff00', type: 'avg_rev' },
-            { id: 'member_avg', label: '平均参戦人数', color: '#d4b611', type: 'avg' }
+            { id: 'member_avg', label: '平均チーム人数', color: '#d4b611', type: 'avg' }
         ];
 
         function getSafeFilename(name) { return name.replace(/[\\/:*?"<>|]/g, '_'); }
@@ -264,24 +264,26 @@
             rawHistory.forEach(match => {
                 const members = match.m || [];
                 members.forEach(p => {
-                    if (!playersMap[p.name]) { playersMap[p.name] = { score: 0, kills: 0 }; }
+                    if (!playersMap[p.name]) { playersMap[p.name] = { score: 0, kills: 0, matches: 0 }; }
                     playersMap[p.name].score += parseFloat(p.sc || 0);
                     playersMap[p.name].kills += parseInt(p.k || 0);
+                    playersMap[p.name].matches += 1; // 💡 試合数を加算
                 });
             });
 
             const sortedPlayers = Object.keys(playersMap).map(n => ({
-                name: n, score: playersMap[n].score, kills: playersMap[n].kills
+                name: n, score: playersMap[n].score, kills: playersMap[n].kills, matches: playersMap[n].matches
             })).sort((a,b) => b.score - a.score).slice(0, 15); // 💡 15名に制限
 
             let mHtml = "";
             if (sortedPlayers.length === 0) {
-                mHtml = `<tr><td colspan="4" style="text-align:center;">データなし</td></tr>`;
+                mHtml = `<tr><td colspan="5" style="text-align:center;">データなし</td></tr>`;
             } else {
                 sortedPlayers.forEach((p, idx) => {
                     mHtml += `<tr>
                         <td>${idx + 1}</td>
                         <td class="col-left"><a class="anal-link" href="personal.html?name=${encodeURIComponent(p.name)}">${p.name}</a></td>
+                        <td>${p.matches}</td>
                         <td>${p.score.toFixed(2)}</td>
                         <td>${p.kills}</td>
                     </tr>`;
@@ -565,7 +567,7 @@
                 };
                 if(opt.type === 'avg_rev') {
                     scalesDef[axisId].reverse = true;
-                    scalesDef[axisId].min = 1; scalesDef[axisId].max = 5; // 💡 チーム戦なので1〜5
+                    scalesDef[axisId].min = 1; scalesDef[axisId].max = 5; 
                 }
             });
 
@@ -595,7 +597,7 @@
                                         else if (label.includes('キル')) val += 'キル';
                                         else if (label.includes('順位')) val += '位';
                                         else if (label.includes('人数')) val += '人';
-                                        else if (label.includes('回数') || label.includes('参加') || label.includes('出撃')) val += '回';
+                                        else if (label.includes('回数') || label.includes('参加') || label.includes('試合')) val += '回';
                                         else if (label.includes('数')) val += '回';
                                         return label + val;
                                     }
