@@ -75,6 +75,10 @@
 
         .review-scroll { display: flex; gap: 10px; overflow-x: auto; padding: 5px 0; }
         .review-card { min-width: 250px; background: #111; padding: 10px; border: 1px solid var(--excel-border); border-left: 4px solid var(--deep-blue); font-size: 0.8rem; }
+        
+        /* チーム名リンク用のスタイル */
+        .anal-link { color: var(--text-main); text-decoration: none; cursor: pointer; }
+        .anal-link:hover { text-underline-position: under; text-decoration: underline; color: #fff; }
     </style>
 </head>
 <body>
@@ -283,10 +287,10 @@
                 <td>${noneVals.join('</td><td>')}</td>
             </tr>`;
 
-            // ③ トップ10チーム（チーム名のみ表示）
+            // ③ トップ10チーム（チーム名にチーム分析へのリンクを追加）
             top10.forEach((t) => {
                 const vals = calcRowData(tMap[t]);
-                html += `<tr><th class="col-left">${t}</th><td>${vals.join('</td><td>')}</td></tr>`;
+                html += `<tr><th class="col-left"><a class="anal-link" href="team.html?name=${encodeURIComponent(t)}">${t}</a></th><td>${vals.join('</td><td>')}</td></tr>`;
             });
 
             // ④ その他
