@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>複数データプロット - 陣取りデータバンク</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Yomogi&display=swap" rel="stylesheet">
@@ -22,7 +21,6 @@
             --border-color: #333;
             --excel-border: #444; 
             --highlight: rgba(0, 123, 181, 0.15);
-            --btn-gray: #3a3a3a;
         }
         body { margin: 0; font-family: 'Yomogi', sans-serif; background-color: var(--bg-base); color: var(--text-main); font-size: 0.8rem; }
         
@@ -34,16 +32,14 @@
         .container { padding: 10px 15px; }
         h2 { font-size: 1rem; color: var(--deep-blue); border-bottom: 1px solid var(--border-color); padding-bottom: 4px; margin-top: 15px; margin-bottom: 10px; }
 
-        /* 📊 画像ベースのエクセル風テーブルスタイル（ギュッと詰める） */
-        .excel-table-wrapper { margin-bottom: 15px; display: inline-block; }
-        .excel-table { border-collapse: collapse; background-color: var(--bg-panel); width: auto; }
-        .excel-table th, .excel-table td { border: 1px solid var(--excel-border); padding: 5px 10px; text-align: center; white-space: nowrap; }
-        .excel-table th { background-color: #111; color: #ccc; font-weight: normal; }
-        
-        /* 表内部のボタン風コントロールUI */
-        .table-btn-group { display: flex; gap: 2px; justify-content: center; }
-        .table-btn { background-color: var(--btn-gray); color: #ccc; border: 1px solid #555; padding: 2px 8px; font-family: 'Yomogi', sans-serif; font-size: 0.75rem; cursor: pointer; border-radius: 2px; }
-        .table-btn.active { background-color: var(--deep-blue); color: #fff; border-color: #00ffff; }
+        /* 📊 エクセル風テーブルスタイル (全体統計) */
+        .table-section { margin-bottom: 20px; overflow-x: auto; }
+        .table-title { font-weight: bold; color: var(--deep-blue); margin-bottom: 5px; }
+        .excel-table { border-collapse: collapse; background-color: var(--bg-panel); width: max-content; }
+        .excel-table th, .excel-table td { border: 1px solid var(--excel-border); padding: 4px 8px; text-align: right; white-space: nowrap; }
+        .excel-table th { background-color: #111; color: #ccc; font-weight: normal; text-align: center; }
+        .excel-table tr:hover { background-color: var(--highlight); }
+        .col-left { text-align: left !important; }
 
         /* 📈 モード切り替えタブ */
         .mode-tabs { display: flex; gap: 5px; margin-bottom: 10px; }
@@ -89,46 +85,64 @@
     </header>
 
     <div class="container">
-        <h2>📊 ゲーム全体統計</h2>
-        <div class="excel-table-wrapper">
+        
+        <div class="table-section">
             <table class="excel-table">
                 <thead>
                     <tr>
-                        <th>総試合数</th>
-                        <th>最大参加人数(1試合)</th>
-                        <th>平均参加人数</th>
-                        <th>累計面積(全プレイヤー)</th>
-                        <th>総キル数</th>
-                        <th>最大同時接続チーム数</th>
+                        <th></th>
+                        <th>総試合開催数</th>
+                        <th>最大参加人数</th>
+                        <th>0人の試合回数</th>
+                        <th>総プレイヤー数</th>
+                        <th>総チーム数</th>
                     </tr>
                 </thead>
                 <tbody>
+                    <tr><th class="col-left">総計</th><td id="t1-g-m">---</td><td id="t1-g-max">---</td><td id="t1-g-z">---</td><td id="t1-g-p">---</td><td id="t1-g-t">---</td></tr>
+                    <tr><th class="col-left">ソロ戦</th><td id="t1-s-m">---</td><td id="t1-s-max">---</td><td id="t1-s-z">---</td><td id="t1-s-p">---</td><td></td></tr>
+                    <tr><th class="col-left">チーム戦</th><td id="t1-m-m">---</td><td id="t1-m-max">---</td><td id="t1-m-z">---</td><td id="t1-m-p">---</td><td id="t1-m-t">---</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="table-section">
+            <div class="table-title">試合人数別開催回数</div>
+            <table class="excel-table">
+                <tbody>
                     <tr>
-                        <td id="stat-total-matches">---</td>
-                        <td id="stat-max-players">---</td>
-                        <td id="stat-avg-players">---</td>
-                        <td id="stat-total-area">---</td>
-                        <td id="stat-total-kills">---</td>
-                        <td id="stat-max-teams">---</td>
+                        <th class="col-left">総計</th><td>---</td>
+                        <th class="col-left">ソロ戦</th><td>---</td>
+                        <th class="col-left">チーム戦</th><td>---</td>
+                    </tr>
+                    <tr><th class="col-left">人数(人)</th><td colspan="5">---</td></tr>
+                    <tr><th class="col-left">回数(回)</th><td colspan="5">---</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="table-section">
+            <div class="table-title">時間別試合参加人数</div>
+            <table class="excel-table">
+                <tbody>
+                    <tr>
+                        <th class="col-left">総計</th>
+                        <th>月</th><th>火</th><th>水</th><th>木</th><th>金</th><th>土</th><th>日</th>
                     </tr>
                     <tr>
-                        <th>期間</th>
-                        <td colspan="5">
-                            <div class="table-btn-group">
-                                <button class="table-btn active" id="table-period-all" onclick="setTablePeriod('all')">全期間</button>
-                                <button class="table-btn" id="table-period-select" onclick="setTablePeriod('select')">期間指定</button>
-                            </div>
-                        </td>
+                        <td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="excel-table" style="margin-top: 5px;">
+                <tbody>
+                    <tr>
+                        <th class="col-left">時間</th>
+                        <th>6時</th><th>7時</th><th>8時</th><th>9時</th><th>10時</th><th>11時</th><th>12時</th><th>13時</th><th>14時</th><th>15時</th><th>16時</th><th>17時</th><th>18時</th><th>19時</th><th>20時</th><th>21時</th><th>22時</th><th>23時</th><th>0時</th><th>1時</th><th>2時</th><th>3時</th><th>4時</th><th>5時</th>
                     </tr>
                     <tr>
-                        <th>モード</th>
-                        <td colspan="5">
-                            <div class="table-btn-group">
-                                <button class="table-btn" id="table-mode-solo" onclick="setTableMode('solo')">SOLO</button>
-                                <button class="table-btn" id="table-mode-multi" onclick="setTableMode('multi')">MULTI</button>
-                                <button class="table-btn active" id="table-mode-total" onclick="setTableMode('total')">TOTAL</button>
-                            </div>
-                        </td>
+                        <th class="col-left">平均人数</th>
+                        <td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td>
                     </tr>
                 </tbody>
             </table>
@@ -148,6 +162,7 @@
                     <input type="datetime-local" id="date-start"> ～ <input type="datetime-local" id="date-end">
                     <button class="btn" onclick="setPresetDate('1d')">直近1日</button>
                     <button class="btn" onclick="setPresetDate('1w')">直近1週間</button>
+                    <button class="btn" onclick="setPresetDate('1m')">直近1か月</button>
                     <button class="btn" onclick="setPresetDate('all')">全期間</button>
                     <label style="margin-left: 10px;">スケール:</label>
                     <select id="graph-scale" onchange="updateChart()">
@@ -171,6 +186,10 @@
                         <option value="0">日曜日</option>
                     </select>
                 </div>
+                
+                <div class="controls-group">
+                    <label><input type="checkbox" id="skip-empty" checked onchange="updateChart()"> 参加していない日時を飛ばす</label>
+                </div>
             </div>
 
             <div class="search-section">
@@ -192,15 +211,11 @@
 
     <script>
         let currentMode = 'normal'; // 'normal' or 'hourly'
-        let tablePeriodSetting = 'all'; // 'all' or 'select'
-        let tableModeSetting = 'total'; // 'solo', 'multi', 'total'
-        
         let gameAnalyticsData = null; // game_analytics.json
-        let masterTargets = {};       // 検索最適化用: { "名前": { isPlayer: true, isTeam: false } }
-        let activeCompareList = [];   // プロット対象オブジェクト配列 { name, type, matchType, datatype }
+        let masterTargets = {};       // 検索用: { "名前": { type: 'personal' } }
+        let activeCompareList = [];   // { name, type, matchType, datatype, availableTeams }
         let myChart = null;
 
-        // 個人用プロットデータ項目
         const personalDataOptions = [
             { id: 'area_avg', label: '平均獲得面積(%)' },
             { id: 'kill_avg', label: '平均キル数' },
@@ -212,16 +227,12 @@
 
         window.onload = async function() {
             initDatePresets();
-            await loadGameAnalytics();
             await loadMasterTargets();
+            await loadGameAnalytics();
             
-            // 初期表示としてゲーム全体データを1つ登録
-            activeCompareList.push({ name: "参加人数の推移", type: "global", matchType: "total", datatype: "total_players" });
-            renderCompareBadges();
+            // 💡 最初はデフォルトとして全体データをプロットに入れておく
+            await addCompareTarget("試合参加人数", "global", true);
             
-            // 上部統計表の再計算表示
-            refreshTableStats();
-
             document.addEventListener('click', function(e) {
                 if (e.target.id !== 'search-input') {
                     document.getElementById('suggest-box').style.display = 'none';
@@ -232,7 +243,7 @@
         function initDatePresets() {
             const ed = new Date();
             const sd = new Date();
-            sd.setDate(sd.getDate() - 14);
+            sd.setDate(sd.getDate() - 7);
             const fmt = d => new Date(d.getTime() - d.getTimezoneOffset()*60000).toISOString().slice(0,16);
             document.getElementById('date-start').value = fmt(sd);
             document.getElementById('date-end').value = fmt(ed);
@@ -241,97 +252,54 @@
         function setPresetDate(preset) {
             const ed = new Date();
             let sd = new Date();
+            if(preset === '1h') sd.setHours(sd.getHours() - 1);
             if(preset === '1d') sd.setDate(sd.getDate() - 1);
             if(preset === '1w') sd.setDate(sd.getDate() - 7);
+            if(preset === '1m') sd.setMonth(sd.getMonth() - 1);
             if(preset === 'all') sd = new Date(2026, 0, 1); 
             const fmt = d => new Date(d.getTime() - d.getTimezoneOffset()*60000).toISOString().slice(0,16);
             document.getElementById('date-start').value = fmt(sd);
             document.getElementById('date-end').value = fmt(ed);
-            
-            if(tablePeriodSetting === 'select') refreshTableStats();
             updateChart();
         }
 
-        // 📊 上部統計表用の設定切り替えロジック
-        function setTablePeriod(period) {
-            tablePeriodSetting = period;
-            document.getElementById('table-period-all').classList.toggle('active', period === 'all');
-            document.getElementById('table-period-select').classList.toggle('active', period === 'select');
-            refreshTableStats();
-        }
-
-        function setTableMode(mode) {
-            tableModeSetting = mode;
-            document.getElementById('table-mode-solo').classList.toggle('active', mode === 'solo');
-            document.getElementById('table-mode-multi').classList.toggle('active', mode === 'multi');
-            document.getElementById('table-mode-total').classList.toggle('active', mode === 'total');
-            refreshTableStats();
-        }
-
-        // 📊 game_analytics.json から指定条件に沿って統計表をリフレッシュ
+        // 📊 第1テーブルの自動集計
         async function loadGameAnalytics() {
             try {
                 const response = await fetch('analysis_data/game_analytics.json');
                 if (!response.ok) throw new Error();
                 gameAnalyticsData = await response.json();
-            } catch (e) {
-                console.error("game_analytics.json の読み込みに失敗したのです");
-            }
+                
+                if (gameAnalyticsData && gameAnalyticsData.t) {
+                    let gSum = [0,0,0,0,0], sSum = [0,0,0,0], mSum = [0,0,0,0,0];
+                    gameAnalyticsData.t.forEach(b => {
+                        if(b.g) { gSum[0]+=b.g[0]||0; gSum[1]=Math.max(gSum[1],b.g[1]||0); gSum[2]+=b.g[2]||0; gSum[3]+=b.g[3]||0; gSum[4]+=b.g[4]||0; }
+                        if(b.s) { sSum[0]+=b.s[0]||0; sSum[1]=Math.max(sSum[1],b.s[1]||0); sSum[2]+=b.s[2]||0; sSum[3]+=b.s[3]||0; }
+                        if(b.m) { mSum[0]+=b.m[0]||0; mSum[1]=Math.max(mSum[1],b.m[1]||0); mSum[2]+=b.m[2]||0; mSum[3]+=b.m[3]||0; mSum[4]+=b.m[4]||0; }
+                    });
+
+                    // 総計行
+                    document.getElementById('t1-g-m').innerText = gSum[0];
+                    document.getElementById('t1-g-max').innerText = gSum[1];
+                    document.getElementById('t1-g-z').innerText = gSum[2];
+                    document.getElementById('t1-g-p').innerText = gSum[3];
+                    document.getElementById('t1-g-t').innerText = gSum[4];
+                    // ソロ戦行
+                    document.getElementById('t1-s-m').innerText = sSum[0];
+                    document.getElementById('t1-s-max').innerText = sSum[1];
+                    document.getElementById('t1-s-z').innerText = sSum[2];
+                    document.getElementById('t1-s-p').innerText = sSum[3];
+                    // チーム戦行
+                    document.getElementById('t1-m-m').innerText = mSum[0];
+                    document.getElementById('t1-m-max').innerText = mSum[1];
+                    document.getElementById('t1-m-z').innerText = mSum[2];
+                    document.getElementById('t1-m-p').innerText = mSum[3];
+                    document.getElementById('t1-m-t').innerText = mSum[4];
+                }
+            } catch (e) { console.log("ゲーム統計データなし"); }
         }
 
-        function refreshTableStats() {
-            if (!gameAnalyticsData || !gameAnalyticsData.t) return;
-
-            let sd = null, ed = null;
-            if (tablePeriodSetting === 'select') {
-                const sdStr = document.getElementById('date-start').value;
-                const edStr = document.getElementById('date-end').value;
-                if(sdStr) sd = new Date(sdStr);
-                if(edStr) ed = new Date(edStr);
-            }
-
-            let totalMatches = 0, maxPlayers = 0, totalPlayersSum = 0, bucketCount = 0;
-            let totalArea = 0, totalKills = 0, maxTeams = 0;
-
-            gameAnalyticsData.t.forEach(b => {
-                const d = new Date(b.d);
-                if (tablePeriodSetting === 'select') {
-                    if (sd && d < sd) return;
-                    if (ed && d > ed) return;
-                }
-
-                // モード別の集計対象取り出し
-                let dataArr = null;
-                if (tableModeSetting === 'solo') dataArr = b.s;
-                else if (tableModeSetting === 'multi') dataArr = b.m;
-                else dataArr = b.g; // TOTAL
-
-                if (!dataArr) return;
-
-                // 配列位置に基づく集計
-                totalMatches += (dataArr[0] || 0);
-                if ((dataArr[1] || 0) > maxPlayers) maxPlayers = dataArr[1];
-                totalPlayersSum += (dataArr[3] || 0);
-                bucketCount++;
-
-                // 面積、キル、チーム数の加算（仮算出要素を含む仕様ベース補正）
-                // ※game_analytics.jsonの仕様に存在しない項目は、TOTAL/MULTIの要素やログから安全に算出
-                if (tableModeSetting !== 'solo' && dataArr[4]) {
-                    if (dataArr[4] > maxTeams) maxTeams = dataArr[4];
-                }
-            });
-
-            const avgPlayers = bucketCount > 0 ? (totalPlayersSum / bucketCount).toFixed(1) : 0;
-
-            document.getElementById('stat-total-matches').innerText = totalMatches.toLocaleString() + " 回";
-            document.getElementById('stat-max-players').innerText = maxPlayers.toLocaleString() + " 人";
-            document.getElementById('stat-avg-players').innerText = avgPlayers + " 人";
-            document.getElementById('stat-total-area').innerText = "---"; // 個別プレイヤー合算等が必要なため空表示ベース
-            document.getElementById('stat-total-kills').innerText = "---";
-            document.getElementById('stat-max-teams').innerText = tableModeSetting === 'solo' ? "0 チーム" : (maxTeams > 0 ? maxTeams + " チーム" : "---");
-        }
-
-        // 🔍 summary.jsonの [タイプ, 名前, ...] 配列構造に基づいたパース＆ユニーク化
+        // 🔍 summary.json パース
         async function loadMasterTargets() {
             try {
                 const response = await fetch('public_data/all_period/summary.json');
@@ -342,57 +310,45 @@
                 if (data && data.rankings) {
                     data.rankings.forEach(row => {
                         const type = row[0];  // "tp", "sp", "t"
-                        const name = row[1];  // 配列の2番目が名前
+                        const name = row[1];  // 2番目が名前
                         if (!name) return;
 
-                        if (!masterTargets[name]) {
-                            masterTargets[name] = { isPlayer: false, isTeam: false };
-                        }
-
                         if (type === 'tp' || type === 'sp') {
-                            masterTargets[name].isPlayer = true;
+                            masterTargets[name] = { type: 'personal' };
                         } else if (type === 't') {
-                            masterTargets[name].isTeam = true;
+                            masterTargets[name] = { type: 'team' };
                         }
                     });
                 }
             } catch(e) {
-                console.error("summary.json パース失敗。フォールバック表示にします", e);
+                // フォールバック
                 masterTargets = {
-                    "なきこ；＠；": { isPlayer: true, isTeam: false },
-                    "今日誕生日": { isPlayer: true, isTeam: false },
-                    "🇯🇵ONJ": { isPlayer: false, isTeam: true }
+                    "なきこ；＠；": { type: 'personal' },
+                    "🇯🇵ONJ": { type: 'team' }
                 };
             }
         }
 
-        // 予測変換サジェストの描画処理
         function onSearchInput() {
             const val = document.getElementById('search-input').value.toLowerCase().trim();
             const suggestBox = document.getElementById('suggest-box');
             suggestBox.innerHTML = '';
 
-            // 「参加人数の推移(全体)」を常に最上位に表示
             const globalDiv = document.createElement('div');
             globalDiv.className = 'suggest-item suggest-global';
-            globalDiv.innerText = `📊 【全体データ】 参加人数の推移`;
-            globalDiv.onclick = () => addCompareTarget("参加人数の推移", "global");
+            globalDiv.innerText = `📊 【全体】 試合参加人数`;
+            globalDiv.onclick = () => addCompareTarget("試合参加人数", "global");
             suggestBox.appendChild(globalDiv);
 
-            // 一致する名前を最大15件抽出
             let count = 0;
             Object.keys(masterTargets).forEach(name => {
                 if (count >= 15) return;
                 if (name.toLowerCase().includes(val) || val === '') {
-                    const info = masterTargets[name];
+                    const type = masterTargets[name].type;
                     const div = document.createElement('div');
                     div.className = 'suggest-item';
-                    
-                    let label = info.isPlayer ? "個人" : "チーム";
-                    if(info.isPlayer && info.isTeam) label = "個人/チーム";
-
-                    div.innerText = `[${label}] ${name}`;
-                    div.onclick = () => addCompareTarget(name, info.isPlayer ? 'personal' : 'team');
+                    div.innerText = `[${type === 'personal' ? '個人' : 'チーム'}] ${name}`;
+                    div.onclick = () => addCompareTarget(name, type);
                     suggestBox.appendChild(div);
                     count++;
                 }
@@ -401,18 +357,46 @@
             suggestBox.style.display = 'block';
         }
 
-        // 比較対象リストへの追加
-        function addCompareTarget(name, type) {
+        function getSafeFilename(name) { return name.replace(/[\\/:*?"<>|]/g, '_'); }
+
+        async function fetchTargetData(type, name) {
+            if (type === 'global') return gameAnalyticsData;
+            const safeName = getSafeFilename(name);
+            const folder = type === 'personal' ? 'personal_analysis' : 'team_analysis';
+            try {
+                const response = await fetch(`analysis_data/${folder}/${safeName}.json`);
+                if (!response.ok) throw new Error();
+                return await response.json();
+            } catch(e) { return null; }
+        }
+
+        // 💡 対象追加処理（個人の場合はデータから「所属チームリスト」を抜き出して保持）
+        async function addCompareTarget(name, type, isInitial = false) {
             if (activeCompareList.some(i => i.name === name && i.type === type)) {
-                alert("既に追加されているのです！");
+                if(!isInitial) alert("既に追加されているのです！");
                 return;
             }
-            
+
+            let availableTeams = [];
+            let loadedJson = await fetchTargetData(type, name);
+
+            if (type === 'personal' && loadedJson && loadedJson.h) {
+                const tSet = new Set();
+                loadedJson.h.forEach(r => {
+                    if (r.md === 'TEAM' || r.is_solo === false) {
+                        tSet.add(r.tm || "無所属(TEAM)");
+                    }
+                });
+                availableTeams = Array.from(tSet);
+            }
+
             activeCompareList.push({
                 name: name,
-                type: type,             // 'personal', 'team', 'global'
-                matchType: 'total',     // 'solo', 'specific_team', 'team_all', 'total'
-                datatype: type === 'global' ? 'total_players' : 'matches' // デフォルト
+                type: type,
+                matchType: 'total',
+                datatype: type === 'global' ? 'total_players' : 'matches',
+                availableTeams: availableTeams,
+                cachedData: loadedJson // 再取得を防ぐためキャッシュ
             });
 
             document.getElementById('search-input').value = '';
@@ -438,7 +422,7 @@
             updateChart();
         }
 
-        // 🏷️ バッジUIのリフレッシュ（戦績モードセレクトボックスを搭載）
+        // 🏷️ バッジUIのリフレッシュ（個人データなら無所属時や各チーム参加時の選択肢を動的追加！）
         function renderCompareBadges() {
             const container = document.getElementById('compare-badge-container');
             container.innerHTML = '';
@@ -451,37 +435,41 @@
                 let controlsHtml = '';
 
                 if (currentMode === 'hourly') {
-                    // 💡 1日時間平均モード時は、仕様通り「全体：時間別参加人数」か「プレイヤー：参加回数」に限定
                     if (item.type === 'global') {
                         controlsHtml = `<span style="color:#00ffcc;">時間別試合参加人数</span>`;
                         item.datatype = 'total_players';
                     } else {
-                        controlsHtml = `
-                            <select onchange="onMatchTypeChange(${index}, this.value)">
-                                <option value="solo" ${item.matchType==='solo'?'selected':''}>SOLO戦時</option>
-                                <option value="team_all" ${item.matchType==='team_all'?'selected':''}>チーム戦全体</option>
-                                <option value="total" ${item.matchType==='total'?'selected':''}>ソロ・チーム総合</option>
-                            </select>
-                            <span style="color:#aaa; font-size:0.75rem;">(参加回数のみ)</span>
-                        `;
+                        // チーム選択ドロップダウン
+                        let matchSelect = `<select onchange="onMatchTypeChange(${index}, this.value)">
+                            <option value="total" ${item.matchType==='total'?'selected':''}>総合</option>`;
+                        if (item.type === 'personal') {
+                            matchSelect += `<option value="solo" ${item.matchType==='solo'?'selected':''}>ソロ戦時</option>`;
+                            matchSelect += `<option value="team_all" ${item.matchType==='team_all'?'selected':''}>チーム戦全体時</option>`;
+                            item.availableTeams.forEach(t => {
+                                const val = `team_${t}`;
+                                matchSelect += `<option value="${val}" ${item.matchType===val?'selected':''}>チーム: ${t}</option>`;
+                            });
+                        }
+                        matchSelect += `</select>`;
+
+                        controlsHtml = `${matchSelect} <span style="color:#aaa; font-size:0.75rem;">(参加回数固定)</span>`;
                         item.datatype = 'matches';
                     }
                 } else {
-                    // 通常経過時間モード
                     if (item.type === 'global') {
-                        controlsHtml = `<span style="color:#00ffcc;">総参加人数推移</span>`;
+                        controlsHtml = `<span style="color:#00ffcc;">全体: 試合参加人数</span>`;
                     } else {
-                        // 戦績タイプ選択 + プロット項目選択の2つのドロップダウン
-                        let matchSelect = '';
+                        let matchSelect = `<select onchange="onMatchTypeChange(${index}, this.value)">
+                            <option value="total" ${item.matchType==='total'?'selected':''}>総合</option>`;
                         if (item.type === 'personal') {
-                            matchSelect = `
-                                <select onchange="onMatchTypeChange(${index}, this.value)">
-                                    <option value="solo" ${item.matchType==='solo'?'selected':''}>SOLO戦時</option>
-                                    <option value="team_all" ${item.matchType==='team_all'?'selected':''}>チーム戦全体</option>
-                                    <option value="total" ${item.matchType==='total'?'selected':''}>ソロ・チーム総合</option>
-                                </select>
-                            `;
+                            matchSelect += `<option value="solo" ${item.matchType==='solo'?'selected':''}>ソロ戦時</option>`;
+                            matchSelect += `<option value="team_all" ${item.matchType==='team_all'?'selected':''}>チーム戦全体時</option>`;
+                            item.availableTeams.forEach(t => {
+                                const val = `team_${t}`;
+                                matchSelect += `<option value="${val}" ${item.matchType===val?'selected':''}>チーム: ${t}</option>`;
+                            });
                         }
+                        matchSelect += `</select>`;
 
                         let dataSelect = `<select onchange="onDataTypeChange(${index}, this.value)">`;
                         personalDataOptions.forEach(opt => {
@@ -516,27 +504,31 @@
             updateChart();
         }
 
-        function getSafeFilename(name) { return name.replace(/[\\/:*?"<>|]/g, '_'); }
+        function truncDate(d, scale) {
+            const t = new Date(d);
+            t.setMinutes(0,0,0);
+            if(scale === 'day' || scale === 'week' || scale === 'month') t.setHours(0);
+            if(scale === 'week') { const diff = t.getDate() - t.getDay(); t.setDate(diff); }
+            if(scale === 'month') t.setDate(1);
+            return t;
+        }
 
-        async function fetchTargetData(item) {
-            if (item.type === 'global') return gameAnalyticsData;
-            const safeName = getSafeFilename(item.name);
-            const folder = item.type === 'personal' ? 'personal_analysis' : 'team_analysis';
-            try {
-                const response = await fetch(`analysis_data/${folder}/${safeName}.json`);
-                if (!response.ok) throw new Error();
-                return await response.json();
-            } catch(e) {
-                console.error(`データファイルが見つかりません: ${safeName}.json`);
-                return null;
-            }
+        function addTime(d, scale) {
+            const t = new Date(d);
+            if(scale === 'hour') t.setHours(t.getHours()+1);
+            if(scale === 'day') t.setDate(t.getDate()+1);
+            if(scale === 'week') t.setDate(t.getDate()+7);
+            if(scale === 'month') t.setMonth(t.getMonth()+1);
+            return t;
+        }
+
+        function formatLabel(d, scale) {
+            const pad = n => n.toString().padStart(2, '0');
+            return `${pad(d.getMonth()+1)}/${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
         }
 
         // 📈 グラフプロットメイン処理
         async function updateChart() {
-            const dataPromises = activeCompareList.map(item => fetchTargetData(item));
-            const fetchedDataList = await Promise.all(dataPromises);
-
             const datasets = [];
 
             if (currentMode === 'normal') {
@@ -544,91 +536,98 @@
                 const sdStr = document.getElementById('date-start').value;
                 const edStr = document.getElementById('date-end').value;
                 const scale = document.getElementById('graph-scale').value; 
+                const skipEmpty = document.getElementById('skip-empty').checked;
 
                 const sd = sdStr ? new Date(sdStr) : null;
                 const ed = edStr ? new Date(edStr) : null;
 
+                let allLabels = [];
+                let maxEnd = ed || new Date();
+                let minStart = sd || new Date(maxEnd.getTime() - 7*24*60*60*1000); // 7日前
+                
+                // X軸の生成（飛ばさない場合のみ空バケットを埋める）
+                let curr = truncDate(minStart, scale);
+                let endLimit = truncDate(maxEnd, scale);
+                const fullBucketsMap = {};
+                
+                while(curr <= endLimit) {
+                    fullBucketsMap[curr.getTime()] = true;
+                    curr = addTime(curr, scale);
+                }
+
                 activeCompareList.forEach((item, index) => {
-                    const rawJson = fetchedDataList[index];
+                    const rawJson = item.cachedData;
                     if (!rawJson) return;
 
-                    let plotPoints = [];
-
+                    let history = [];
                     if (item.type === 'global') {
-                        if (!rawJson.t) return;
-                        let timeline = rawJson.t.filter(b => {
-                            const d = new Date(b.d);
-                            return (!sd || d >= sd) && (!ed || d <= ed);
-                        });
-
-                        const buckets = {};
-                        timeline.forEach(b => {
-                            const d = new Date(b.d);
-                            if (scale === 'day') d.setHours(0,0,0,0);
-                            if (scale === 'week') { d.setHours(0,0,0,0); d.setDate(d.getDate() - d.getDay()); }
-                            if (scale === 'month') { d.setHours(0,0,0,0); d.setDate(1); }
-                            const key = d.getTime();
-                            if (!buckets[key]) buckets[key] = [];
-                            buckets[key].push(b.g ? (b.g[3] || 0) : 0);
-                        });
-
-                        Object.keys(buckets).sort().forEach(key => {
-                            const vals = buckets[key];
-                            const res = scale === 'hour' ? vals[0] : vals.reduce((a,b)=>a+b,0)/vals.length;
-                            plotPoints.push({ x: new Date(parseInt(key)), y: res });
-                        });
+                        if (rawJson.t) history = rawJson.t.filter(b => (!sd || new Date(b.d) >= sd) && (!ed || new Date(b.d) <= ed));
                     } else {
-                        // 個人・チーム戦績
-                        if (!rawJson.h) return;
-                        let history = rawJson.h.filter(r => {
-                            const d = new Date(r.at);
-                            return (!sd || d >= sd) && (!ed || d <= ed);
-                        });
-
-                        // 選択された戦績種別（SOLO戦のみ/チーム戦のみ等）によるレコード抽出フィルタリング
+                        if (rawJson.h) history = rawJson.h.filter(r => (!sd || new Date(r.at) >= sd) && (!ed || new Date(r.at) <= ed));
+                        
+                        // 💡 プレイヤーの抽出フィルタリング (ソロ/チーム戦全体/特定チーム)
                         if (item.type === 'personal') {
-                            if (item.matchType === 'solo') history = history.filter(r => r.m === 'solo' || r.is_solo === true);
-                            else if (item.matchType === 'team_all') history = history.filter(r => r.m === 'team' || r.is_solo === false);
-                        }
-
-                        const buckets = {};
-                        history.forEach(r => {
-                            const d = new Date(r.at);
-                            d.setMinutes(0,0,0,0);
-                            if (scale === 'day') d.setHours(0);
-                            if (scale === 'week') { d.setHours(0); d.setDate(d.getDate() - d.getDay()); }
-                            if (scale === 'month') { d.setHours(0); d.setDate(1); }
-                            const key = d.getTime();
-                            if (!buckets[key]) buckets[key] = [];
-                            buckets[key].push(r);
-                        });
-
-                        Object.keys(buckets).sort().forEach(key => {
-                            const records = buckets[key];
-                            let yVal = 0;
-                            if (item.datatype === 'area_avg') {
-                                yVal = records.reduce((acc, r) => acc + parseFloat(item.type === 'personal' ? (r.sc||0) : (r.ts||0)), 0) / records.length;
-                            } else if (item.datatype === 'kill_avg') {
-                                yVal = records.reduce((acc, r) => acc + parseInt(item.type === 'personal' ? (r.k||0) : (r.tk||0)), 0) / records.length;
-                            } else if (item.datatype === 'matches') {
-                                yVal = records.length;
+                            if (item.matchType === 'solo') history = history.filter(r => r.md === 'SOLO' || r.is_solo === true);
+                            else if (item.matchType === 'team_all') history = history.filter(r => r.md === 'TEAM' || r.is_solo === false);
+                            else if (item.matchType.startsWith('team_')) {
+                                const targetTeam = item.matchType.substring(5);
+                                history = history.filter(r => (r.md === 'TEAM' || r.is_solo === false) && (r.tm || "無所属(TEAM)") === targetTeam);
                             }
-                            plotPoints.push({ x: new Date(parseInt(key)), y: yVal });
-                        });
+                        }
                     }
 
+                    const buckets = {};
+                    history.forEach(r => {
+                        const d = new Date(item.type === 'global' ? r.d : r.at);
+                        const key = truncDate(d, scale).getTime();
+                        if (!buckets[key]) buckets[key] = [];
+                        buckets[key].push(r);
+                    });
+
+                    let plotPoints = [];
+                    Object.keys(fullBucketsMap).sort().forEach(keyStr => {
+                        const key = parseInt(keyStr);
+                        const records = buckets[key] || [];
+                        const c = records.length;
+                        
+                        if (c > 0 || !skipEmpty) {
+                            let yVal = 0;
+                            if (c > 0) {
+                                if (item.type === 'global') {
+                                    const sum = records.reduce((acc, b) => acc + (b.g ? (b.g[3]||0) : 0), 0);
+                                    yVal = scale === 'hour' ? records[0].g[3] : sum / c;
+                                } else {
+                                    if (item.datatype === 'area_avg') {
+                                        yVal = records.reduce((acc, r) => acc + parseFloat(item.type === 'personal' ? (r.sc||0) : (r.ts||0)), 0) / c;
+                                    } else if (item.datatype === 'kill_avg') {
+                                        yVal = records.reduce((acc, r) => acc + parseInt(item.type === 'personal' ? (r.k||0) : (r.tk||0)), 0) / c;
+                                    } else if (item.datatype === 'matches') {
+                                        yVal = c;
+                                    }
+                                }
+                            }
+                            // x: formatLabel 形式にして category軸に対応（個人分析と同じ仕組み）
+                            plotPoints.push({ x: formatLabel(new Date(key), scale), y: yVal });
+                        }
+                    });
+
                     datasets.push({
-                        label: `[${item.type==='global'?'全':(item.matchType==='solo'?'ソ':(item.matchType==='team_all'?'チ':'総'))}] ${item.name}`,
-                        data: plotPoints,
+                        label: `[${item.type==='global'?'全':(item.matchType==='total'?'総':(item.matchType==='solo'?'ソ':'チ'))}] ${item.name}`,
+                        data: plotPoints.map(p => p.y),
+                        labelsRef: plotPoints.map(p => p.x),
                         borderColor: getColor(index),
                         backgroundColor: 'transparent',
                         borderWidth: 1.5,
-                        pointRadius: scale === 'hour' ? 1 : 3,
-                        tension: 0.1
+                        pointRadius: 0,
+                        pointHitRadius: 10,
+                        tension: 0.1,
+                        spanGaps: true
                     });
+                    
+                    if (allLabels.length < plotPoints.length) allLabels = plotPoints.map(p => p.x);
                 });
 
-                renderChartJs(datasets, { type: 'time', time: { unit: scale === 'hour' ? 'hour' : 'day' } });
+                renderChartJs(datasets, { type: 'category', labels: allLabels });
 
             } else {
                 // ==================== 📊 1日時間平均モード ====================
@@ -636,48 +635,53 @@
                 const hoursLabels = Array.from({length: 24}, (_, i) => `${i}時台`);
 
                 activeCompareList.forEach((item, index) => {
-                    const rawJson = fetchedDataList[index];
+                    const rawJson = item.cachedData;
                     if (!rawJson) return;
 
                     const hourlyData = Array(24).fill(0);
                     const hourlyCounts = Array(24).fill(0);
 
                     if (item.type === 'global') {
-                        if (!rawJson.t) return;
-                        rawJson.t.forEach(b => {
-                            const d = new Date(b.d);
-                            if (dayFilter !== 'all' && d.getDay().toString() !== dayFilter) return;
-                            const hour = d.getHours();
-                            hourlyData[hour] += (b.g ? (b.g[3] || 0) : 0);
-                            hourlyCounts[hour]++;
-                        });
-                        for(let i=0; i<24; i++) {
-                            hourlyData[i] = hourlyCounts[i] > 0 ? (hourlyData[i] / hourlyCounts[i]) : 0;
+                        if (rawJson.t) {
+                            rawJson.t.forEach(b => {
+                                const d = new Date(b.d);
+                                if (dayFilter !== 'all' && d.getDay().toString() !== dayFilter) return;
+                                const hour = d.getHours();
+                                hourlyData[hour] += (b.g ? (b.g[3] || 0) : 0);
+                                hourlyCounts[hour]++;
+                            });
+                            for(let i=0; i<24; i++) {
+                                hourlyData[i] = hourlyCounts[i] > 0 ? (hourlyData[i] / hourlyCounts[i]) : 0;
+                            }
                         }
                     } else {
-                        if (!rawJson.h) return;
-                        let history = rawJson.h;
-                        if (item.type === 'personal') {
-                            if (item.matchType === 'solo') history = history.filter(r => r.m === 'solo' || r.is_solo === true);
-                            else if (item.matchType === 'team_all') history = history.filter(r => r.m === 'team' || r.is_solo === false);
-                        }
+                        if (rawJson.h) {
+                            let history = rawJson.h;
+                            if (item.type === 'personal') {
+                                if (item.matchType === 'solo') history = history.filter(r => r.md === 'SOLO' || r.is_solo === true);
+                                else if (item.matchType === 'team_all') history = history.filter(r => r.md === 'TEAM' || r.is_solo === false);
+                                else if (item.matchType.startsWith('team_')) {
+                                    const targetTeam = item.matchType.substring(5);
+                                    history = history.filter(r => (r.md === 'TEAM' || r.is_solo === false) && (r.tm || "無所属(TEAM)") === targetTeam);
+                                }
+                            }
 
-                        history.forEach(r => {
-                            const d = new Date(r.at);
-                            if (dayFilter !== 'all' && d.getDay().toString() !== dayFilter) return;
-                            const hour = d.getHours();
-                            hourlyData[hour]++; 
-                        });
+                            history.forEach(r => {
+                                const d = new Date(r.at);
+                                if (dayFilter !== 'all' && d.getDay().toString() !== dayFilter) return;
+                                hourlyData[d.getHours()]++; 
+                            });
+                        }
                     }
 
                     datasets.push({
-                        label: `[${item.type==='global'?'全':(item.matchType==='solo'?'ソ':(item.matchType==='team_all'?'チ':'総'))}] ${item.name}`,
+                        label: `[${item.type==='global'?'全':(item.matchType==='total'?'総':(item.matchType==='solo'?'ソ':'チ'))}] ${item.name}`,
                         data: hourlyData,
                         borderColor: getColor(index),
                         backgroundColor: 'transparent',
-                        borderWidth: 2,
+                        borderWidth: 1.5,
                         pointRadius: 3,
-                        tension: 0.2
+                        tension: 0.1
                     });
                 });
 
@@ -690,7 +694,7 @@
 
             const config = {
                 type: 'line',
-                data: xAxisConfig.type === 'time' ? { datasets } : { labels: xAxisConfig.labels, datasets },
+                data: { labels: xAxisConfig.labels, datasets },
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
@@ -698,7 +702,7 @@
                     interaction: { mode: 'index', intersect: false },
                     scales: {
                         x: {
-                            type: xAxisConfig.type,
+                            type: 'category',
                             grid: { color: '#333' },
                             ticks: { color: '#ccc', font: { family: 'Yomogi' } }
                         },
@@ -732,8 +736,6 @@
                     }
                 }
             };
-
-            if (xAxisConfig.type === 'time') config.options.scales.x.time = xAxisConfig.time;
 
             const ctx = document.getElementById('multiHistoryChart').getContext('2d');
             myChart = new Chart(ctx, config);
