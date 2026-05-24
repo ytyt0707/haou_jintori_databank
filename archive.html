@@ -18,7 +18,6 @@
             --text-main: #e0e0e0;
             --deep-blue: #007bb5;
             --border-color: #333;
-            --excel-border: #444; 
             --highlight: rgba(0, 123, 181, 0.15);
             --gold: #ffd700;
             --silver: #c0c0c0;
@@ -59,28 +58,58 @@
         }
         .nav-links a:hover, .nav-links a.active { background-color: var(--deep-blue); color: #fff; }
 
-        .container { 
+        /* 🗺️ 画面全体の左右レイアウト構造 */
+        .main-layout { 
+            display: flex; 
+            gap: 20px; 
             padding: 15px; 
-            max-width: 1000px; 
-            margin: 0 auto;
-            width: 100%;
-            box-sizing: border-box;
-            flex: 1;
+            max-width: 1300px; 
+            margin: 0 auto; 
+            width: 100%; 
+            box-sizing: border-box; 
+            flex: 1; 
         }
 
-        /* 🔍 検索・補助エリア */
-        .search-area {
+        /* 👈 左側：検索・コントロール・保存ボタンエリア */
+        .sidebar-left { 
+            width: 280px; 
+            flex-shrink: 0; 
+            display: flex; 
+            flex-direction: column; 
+            gap: 20px; 
+        }
+
+        /* 👉 右側：リザルト画面エリア（上詰め） */
+        .content-right { 
+            flex: 1; 
+            display: flex; 
+            flex-direction: column; 
+            gap: 15px; 
+        }
+
+        /* 🔍 検索ボックス・各種パーツのスタイル */
+        .control-block {
             background-color: #111;
             border: 1px solid var(--border-color);
             padding: 12px;
             border-radius: 4px;
-            margin-bottom: 15px;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            align-items: center;
         }
-        .search-group { display: flex; align-items: center; gap: 8px; }
+        .control-title {
+            font-size: 0.85rem;
+            color: #aaa;
+            margin-bottom: 8px;
+            display: block;
+        }
+        .search-group-vertical {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        .search-row {
+            display: flex;
+            gap: 6px;
+        }
+        
         input[type="number"], input[type="date"] {
             background: #000;
             color: #fff;
@@ -89,6 +118,8 @@
             font-family: 'Yomogi', sans-serif;
             font-size: 0.85rem;
             border-radius: 3px;
+            width: 100%;
+            box-sizing: border-box;
         }
         button.btn {
             background: #333;
@@ -100,30 +131,60 @@
             font-size: 0.85rem;
             border-radius: 3px;
             transition: background 0.2s;
+            white-space: nowrap;
         }
         button.btn:hover { background: #444; }
         button.btn-primary { background: var(--deep-blue); border-color: var(--deep-blue); }
         button.btn-primary:hover { background: #006696; }
-        .date-hint { color: #aaa; font-size: 0.75rem; }
+        .date-hint { color: #ff7b7b; font-size: 0.75rem; margin-top: 4px; display: block; }
 
-        /* 🕹️ 試合送りのコントローラー */
+        /* 🕹️ 試合送りコントローラー（文字色を普通に変更） */
         .pager-control {
             display: flex;
-            justify-content: center;
+            justify-content: space-between;
             align-items: center;
-            gap: 8px;
-            margin-bottom: 15px;
+            gap: 4px;
+            margin-bottom: 5px;
         }
         .pager-info {
             text-align: center;
-            font-size: 1rem;
-            min-width: 250px;
         }
-        .pager-info .match-id { font-size: 1.2rem; color: #00ffcc; font-weight: bold; }
-        .pager-info .match-date { font-size: 0.75rem; color: #aaa; margin-top: 2px; }
+        /* 💡 試合IDの色を普通のテキストカラー（メイン色）に修正しました */
+        .pager-info .match-id { 
+            font-size: 1.1rem; 
+            color: var(--text-main); 
+            font-weight: bold; 
+        }
+        .pager-info .match-date { 
+            font-size: 0.75rem; 
+            color: #aaa; 
+            margin-top: 2px; 
+        }
+
+        /* 💾 少し離れた下に配置するデータ保存ボタン */
+        .archive-save-box {
+            margin-top: 10px; /* 上の要素から少し距離を置く */
+        }
+        .btn-archive-download {
+            width: 100%;
+            background: #1f2937;
+            color: #9ca3af;
+            border: 1px solid #374151;
+            font-size: 0.8rem;
+            padding: 8px 10px;
+            cursor: pointer;
+            border-radius: 4px;
+            font-family: 'Yomogi', sans-serif;
+            text-align: center;
+            transition: all 0.2s;
+        }
+        .btn-archive-download:hover {
+            background: #374151;
+            color: #fff;
+        }
 
         /* ==========================================
-            🎮 本家ゲームリザルト画面 完全再現区画
+            🎮 本家ゲームリザルト画面 区画
         ========================================== */
         .result-screen-wrapper {
             background-color: #0c0f12;
@@ -131,7 +192,6 @@
             border-radius: 8px;
             padding: 20px;
             box-shadow: 0 4px 15px rgba(0,0,0,0.7);
-            margin-bottom: 20px;
         }
         .result-header {
             text-align: center;
@@ -166,7 +226,7 @@
         /* 左側：ミニマップ */
         .result-left {
             flex: 1;
-            min-width: 240px;
+            min-width: 220px;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -178,8 +238,8 @@
         }
         .minimap-title { font-size: 0.85rem; color: #aaa; margin-bottom: 10px; }
         .minimap-canvas-box {
-            width: 200px;
-            height: 200px;
+            width: 180px;
+            height: 180px;
             background: #000;
             border: 2px solid #444;
             position: relative;
@@ -189,7 +249,7 @@
         /* 右側：ランキングテーブル */
         .result-right {
             flex: 2;
-            min-width: 320px;
+            min-width: 300px;
             display: flex;
             flex-direction: column;
             gap: 15px;
@@ -221,11 +281,9 @@
             border-bottom: 1px solid #222;
         }
         .game-table th { background: #0c0f12; color: #888; font-weight: normal; }
-        .game-table tr:hover { background: rgba(255,255,255,0.02); }
 
-        /* 順位バッジ */
         .rank-cell { text-align: center; width: 35px; font-weight: bold; }
-        .rank-1 { color: var(--gold); text-shadow: 0 0 5px rgba(255,215,0,0.5); }
+        .rank-1 { color: var(--gold); }
         .rank-2 { color: var(--silver); }
         .rank-3 { color: var(--bronze); }
         
@@ -235,7 +293,6 @@
         .score-cell { text-align: right; font-weight: bold; color: #00ffcc; width: 70px; }
         .kill-cell { text-align: right; color: #ff4f79; width: 50px; }
 
-        /* エラー・ロード画面 */
         .status-msg {
             text-align: center;
             padding: 40px;
@@ -246,31 +303,13 @@
             border-radius: 6px;
         }
 
-        /* 💾 フッター隅のダウンロード用ボタン */
-        footer {
-            margin-top: auto;
-            padding: 15px;
-            background: #111;
-            border-top: 1px solid #222;
-            display: flex;
-            justify-content: flex-end;
-        }
-        .btn-archive-download {
-            background: #1f2937;
-            color: #9ca3af;
-            border: 1px solid #374151;
-            font-size: 0.75rem;
-            padding: 4px 10px;
-            cursor: pointer;
-            border-radius: 4px;
-            font-family: 'Yomogi', sans-serif;
-        }
-        .btn-archive-download:hover {
-            background: #374151;
-            color: #fff;
-        }
-
         .hidden { display: none !important; }
+
+        /* スマホ用レスポンシブ調整 */
+        @media (max-width: 768px) {
+            .main-layout { flex-direction: column; }
+            .sidebar-left { width: 100%; }
+        }
     </style>
 </head>
 <body>
@@ -284,116 +323,124 @@
         </div>
     </header>
 
-    <div class="container">
+    <div class="main-layout">
         
-        <div class="search-area">
-            <div class="search-group">
-                <label for="input-match-id">🔍 試合ID入力:</label>
-                <input type="number" id="input-match-id" placeholder="例: 35800" min="1">
-                <button class="btn btn-primary" onclick="searchByInputId()">表示</button>
-            </div>
-            <div class="search-group" style="margin-left: auto;">
-                <label for="input-match-date">📅 日付から検索補助:</label>
-                <input type="date" id="input-match-date" onchange="assistDateSearch()">
-                <span id="date-assist-result" class="date-hint"></span>
-            </div>
-        </div>
-
-        <div class="pager-control">
-            <button class="btn" onclick="moveMatch(-20)">≪ 20試合前</button>
-            <button class="btn" onclick="moveMatch(-1)">＜ 前の試合</button>
+        <div class="sidebar-left">
             
-            <div class="pager-info">
-                <div class="match-id" id="display-match-id">ID: ------</div>
-                <div class="match-date" id="display-match-date">----/--/-- --:--:--</div>
-            </div>
-
-            <button class="btn" onclick="moveMatch(1)">次の試合 ＞</button>
-            <button class="btn" onclick="moveMatch(20)">20試合後 ≫</button>
-        </div>
-
-        <div id="status-display" class="status-msg hidden">データを読み込んでいます...</div>
-
-        <div id="result-screen" class="result-screen-wrapper">
-            <div class="result-header">
-                ⚔️ MATCH RESULT ⚔
-                <span id="res-mode-badge" class="mode-badge">----</span>
-            </div>
-
-            <div class="result-body">
-                <div class="result-left">
-                    <div class="minimap-title">🗺️ 終了時ミニマップ</div>
-                    <div class="minimap-canvas-box">
-                        <canvas id="minimapCanvas" width="300" height="300"></canvas>
+            <div class="control-block">
+                <span class="control-title">🔍 試合ID検索</span>
+                <div class="search-group-vertical">
+                    <div class="search-row">
+                        <input type="number" id="input-match-id" placeholder="例: 35800" min="1">
+                        <button class="btn btn-primary" onclick="searchByInputId()">表示</button>
                     </div>
                 </div>
+            </div>
 
-                <div class="result-right">
+            <div class="control-block">
+                <span class="control-title">📅 日付から検索補助</span>
+                <div class="search-group-vertical">
+                    <input type="date" id="input-match-date" onchange="assistDateSearch()">
+                    <span id="date-assist-result" class="date-hint"></span>
+                </div>
+            </div>
+
+            <div class="archive-save-box">
+                <button class="btn-archive-download" onclick="alert('最新の試合データアーカイブ生成機能は現在検討中なのです！')">
+                    📦 1～最新までの試合データ保存
+                </button>
+            </div>
+
+        </div>
+
+        <div class="content-right">
+            
+            <div class="control-block" style="padding: 8px 12px;">
+                <div class="pager-control">
+                    <div class="search-row">
+                        <button class="btn" onclick="moveMatch(-20)">≪ 20</button>
+                        <button class="btn" onclick="moveMatch(-1)">＜ 前</button>
+                    </div>
                     
-                    <div class="result-table-box" id="box-players-result">
-                        <div class="result-table-title">👤 個人総合順位</div>
-                        <table class="game-table">
-                            <thead>
-                                <tr>
-                                    <th style="text-align:center;">順位</th>
-                                    <th style="text-align:center;">頭</th>
-                                    <th>プレイヤー名</th>
-                                    <th>所属チーム</th>
-                                    <th style="text-align:right;">面積</th>
-                                    <th style="text-align:right;">キル</th>
-                                </tr>
-                            </thead>
-                            <tbody id="table-players-body">
-                                </tbody>
-                        </table>
+                    <div class="pager-info">
+                        <div class="match-id" id="display-match-id">ID: ------</div>
+                        <div class="match-date" id="display-match-date">----/--/-- --:--:--</div>
                     </div>
 
-                    <div class="result-table-box hidden" id="box-teams-result">
-                        <div class="result-table-title">👥 チーム順位</div>
-                        <table class="game-table">
-                            <thead>
-                                <tr>
-                                    <th style="text-align:center;">順位</th>
-                                    <th>チーム名</th>
-                                    <th style="text-align:right;">合計面積</th>
-                                    <th style="text-align:right;">合計キル</th>
-                                </tr>
-                            </thead>
-                            <tbody id="table-teams-body">
-                                </tbody>
-                        </table>
+                    <div class="search-row">
+                        <button class="btn" onclick="moveMatch(1)">次 ＞</button>
+                        <button class="btn" onclick="moveMatch(20)">20 ≫</button>
                     </div>
-
                 </div>
             </div>
-        </div>
 
-    </div>
+            <div id="status-display" class="status-msg hidden">データを読み込んでいます...</div>
 
-    <footer>
-        <button class="btn-archive-download" onclick="alert('最新の試合データアーカイブ生成機能は現在検討中なのです！')">
-            📦 1～最新までの試合データ保存はこちらから
-        </button>
-    </footer>
+            <div id="result-screen" class="result-screen-wrapper">
+                <div class="result-header">
+                    ⚔️ MATCH RESULT ⚔
+                    <span id="res-mode-badge" class="mode-badge">----</span>
+                </div>
 
-    <script>
-        // 設定値の定義
-        let currentMatchId = 35800; // 初期表示用ID
-        const DEFAULT_START_ID = 1;
+                <div class="result-body">
+                    <div class="result-left">
+                        <div class="minimap-title">🗺️ 終了時ミニマップ</div>
+                        <div class="minimap-canvas-box">
+                            <canvas id="minimapCanvas" width="300" height="300"></canvas>
+                        </div>
+                    </div>
+
+                    <div class="result-right">
+                        
+                        <div class="result-table-box" id="box-players-result">
+                            <div class="result-table-title">👤 個人総合順位</div>
+                            <table class="game-table">
+                                <thead>
+                                    <tr>
+                                        <th style="text-align:center;">順位</th>
+                                        <th style="text-align:center;">頭</th>
+                                        <th>プレイヤー名</th>
+                                        <th>所属チーム</th>
+                                        <th style="text-align:right;">面積</th>
+                                        <th style="text-align:right;">キル</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="table-players-body">
+                                    </tbody>
+                            </table>
+                        </div>
+
+                        <div class="result-table-box hidden" id="box-teams-result">
+                            <div class="result-table-title">👥 チーム順位</div>
+                            <table class="game-table">
+                                <thead>
+                                    <tr>
+                                        <th style="text-align:center;">順位</th>
+                                        <th>チーム名</th>
+                                        <th style="text-align:right;">合計面積</th>
+                                        <th style="text-align:right;">合計キル</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="table-teams-body">
+                                    </tbody>
+                            </table>
+                        </div>
+
+                    </div>
+                </div>
+            </div> </div> </div> <script>
+        let currentMatchId = 35800; 
 
         window.onload = function() {
-            // URLパラメータに id があればそちらを優先
             const urlParams = new URLSearchParams(window.location.search);
             const idParam = urlParams.get('id');
             if (idParam) {
                 currentMatchId = parseInt(idParam) || currentMatchId;
             }
-            
             document.getElementById('input-match-id').value = currentMatchId;
             loadMatchData(currentMatchId);
         };
 
-        // 📅 日付検索補助 (現段階では「ありません」を返す)
         function assistDateSearch() {
             const dateVal = document.getElementById('input-match-date').value;
             const hintSpan = document.getElementById('date-assist-result');
@@ -401,11 +448,9 @@
                 hintSpan.innerText = "";
                 return;
             }
-            // 将来インデックスファイルができたらここに検索ロジックを入れるのです
-            hintSpan.innerText = `（❌ ${dateVal} に対応する試合データ範囲はまだ登録されていません）`;
+            hintSpan.innerText = `❌ ${dateVal} のデータはありません`;
         }
 
-        // 🔍 直接IDを入力して検索ボタンを押したとき
         function searchByInputId() {
             const inputVal = parseInt(document.getElementById('input-match-id').value);
             if (!inputVal || inputVal < 1) {
@@ -416,7 +461,6 @@
             loadMatchData(currentMatchId);
         }
 
-        // 🕹️ 前後の試合移動ロジック
         function moveMatch(offset) {
             currentMatchId += offset;
             if (currentMatchId < 1) currentMatchId = 1;
@@ -424,7 +468,6 @@
             loadMatchData(currentMatchId);
         }
 
-        // 🌐 該当フォルダの計算をしてJSONを取得する関数
         async function loadMatchData(matchId) {
             const statusDisp = document.getElementById('status-display');
             const resultScreen = document.getElementById('result-screen');
@@ -433,8 +476,6 @@
             resultScreen.classList.add('hidden');
             statusDisp.innerText = `試合ID: ${matchId} のデータを読込中...`;
 
-            // 1000件ごとに丸めてフォルダパスを決定
-            // 例: 35800 -> 35000 / 35800.json
             const folderRound = Math.floor(matchId / 1000) * 1000;
             const jsonPath = `master_data/${folderRound}/${matchId}.json`;
 
@@ -445,27 +486,22 @@
                 }
                 const data = await response.json();
                 
-                // 画面にデータをレンダリング
                 renderResult(data);
                 
                 statusDisp.classList.add('hidden');
                 resultScreen.classList.remove('hidden');
                 
-                // URLの履歴パラメータをスマートに更新
                 history.replaceState(null, '', `?id=${matchId}`);
 
             } catch (error) {
                 statusDisp.classList.remove('hidden');
-                statusDisp.innerText = `❌ 試合ID: ${matchId} のデータを取得できませんでした。\n(未開催か、データがまだ同期されていない可能性があるのです)`;
+                statusDisp.innerText = `❌ 試合ID: ${matchId} のデータはまだ同期されていないか、存在しないのです`;
             }
         }
 
-        // 🎨 取得データを本家ゲームUIにマッピング
         function renderResult(data) {
-            // ヘッダ情報更新
             document.getElementById('display-match-id').innerText = `ID: ${data.round_id}`;
             
-            // 日時のフォーマット変換
             if (data.played_at) {
                 const d = new Date(data.played_at);
                 document.getElementById('display-match-date').innerText = d.toLocaleString('ja-JP');
@@ -473,20 +509,16 @@
                 document.getElementById('display-match-date').innerText = "日時不明";
             }
 
-            // モードバッジ
             const badge = document.getElementById('res-mode-badge');
             badge.innerText = data.game_mode === 'TEAM' ? 'チーム戦' : 'ソロ戦';
             badge.className = `mode-badge mode-${data.game_mode}`;
 
-            // 👤 個人ランキングテーブルのクリア＆構築
             const playerBody = document.getElementById('table-players-body');
             playerBody.innerHTML = '';
             
             if (data.players && data.players.length > 0) {
                 data.players.forEach(p => {
                     const tr = document.createElement('tr');
-                    
-                    // 順位に応じたクラス付与
                     let rankClass = `rank-${p.rank_position}`;
                     
                     tr.innerHTML = `
@@ -503,7 +535,6 @@
                 playerBody.innerHTML = `<tr><td colspan="6" style="text-align:center; color:#666;">プレイヤーデータなし</td></tr>`;
             }
 
-            // 👥 チームランキングテーブルの構築 (チーム戦のみ)
             const teamBox = document.getElementById('box-teams-result');
             const teamBody = document.getElementById('table-teams-body');
             teamBody.innerHTML = '';
@@ -526,67 +557,41 @@
                 teamBox.classList.add('hidden');
             }
 
-            // 🗺️ ミニマップ描画処理
             drawMinimap(data.minimap);
         }
 
-        // 🗺️ ミニマップをキャンバスに反映するロジック
         function drawMinimap(mapData) {
             const canvas = document.getElementById('minimapCanvas');
             const ctx = canvas.getContext('2d');
             ctx.clearRect(0, 0, canvas.width, canvas.height);
 
             if (!mapData || !mapData.bm) {
-                // マップデータがない場合
                 ctx.fillStyle = '#111';
                 ctx.fillRect(0, 0, canvas.width, canvas.height);
                 ctx.fillStyle = '#555';
-                ctx.font = '14px Yomogi';
+                ctx.font = '12px Yomogi';
                 ctx.textAlign = 'center';
                 ctx.fillText('No Map Data', canvas.width / 2, canvas.height / 2);
                 return;
             }
 
-            // 背景塗りつぶし
             ctx.fillStyle = '#000000';
             ctx.fillRect(0, 0, canvas.width, canvas.height);
 
             try {
-                // 💡 今後、bm(Base64圧縮データなど)の本格デコードロジックを展開する予定枠
-                // 現在はデータ存在確認用としてダミーで綺麗目の幾何学ドットラインを引いておきます
-                const size = mapData.sz || 30;
-                const cellW = canvas.width / size;
-                const cellH = canvas.height / size;
-
-                // カラーパレットの取得(無ければデフォルト)
                 const colors = mapData.cp || {};
-
-                // 描画サンプル
-                ctx.lineWidth = 1;
                 for (let key in colors) {
                     ctx.strokeStyle = colors[key];
-                    ctx.strokeRect(40 + (key * 20) % 100, 40 + (key * 15) % 100, 120, 120);
+                    ctx.strokeRect(30 + (key * 15) % 80, 30 + (key * 10) % 80, 110, 110);
                 }
-
-                // 正常にマップデータが存在しているサイン
-                ctx.fillStyle = 'rgba(0, 255, 204, 0.1)';
-                ctx.font = '10px sans-serif';
-                ctx.textAlign = 'left';
-                ctx.fillText(`Map Size: ${size}x${size}`, 8, canvas.height - 10);
-
             } catch (e) {
-                console.log("ミニマップ描画中にエラーが発生したのです", e);
+                console.log(e);
             }
         }
 
-        // HTMLエスケープ安全処理
         function escapeHtml(str) {
             if (!str) return '';
-            return str.replace(/&/g, '&amp;')
-                      .replace(/</g, '&lt;')
-                      .replace(/>/g, '&gt;')
-                      .replace(/"/g, '&quot;')
-                      .replace(/'/g, '&#39;');
+            return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
         }
     </script>
 </body>
