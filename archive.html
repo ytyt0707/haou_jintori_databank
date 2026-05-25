@@ -2,26 +2,26 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>過去試合記録 - 陣取りデータバンク</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Yomogi&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js"></script>
     
     <style>
         /* ==========================================
             🎨 陣取りデータバンク 共通サイバーダークUI
         ========================================== */
         :root {
-            --bg-base: #1a1d24;
-            --bg-panel: #222;
-            --text-main: #e0e0e0;
-            --deep-blue: #007bb5;
-            --border-color: #333;
-            --highlight: rgba(0, 123, 181, 0.15);
-            --gold: #ffd700;
-            --silver: #c0c0c0;
-            --bronze: #cd7f32;
+            --bg-base: #12141c;
+            --bg-panel: #1e293b;
+            --text-main: #f8fafc;
+            --deep-blue: #3b82f6;
+            --border-color: #334155;
+            --gold: #fbbf24;
         }
 
         body { 
@@ -33,6 +33,7 @@
             display: flex;
             flex-direction: column;
             min-height: 100vh;
+            overflow-x: hidden;
         }
         
         header { 
@@ -63,7 +64,7 @@
             display: flex; 
             gap: 20px; 
             padding: 15px; 
-            max-width: 1300px; 
+            max-width: 1200px; 
             margin: 0 auto; 
             width: 100%; 
             box-sizing: border-box; 
@@ -76,7 +77,7 @@
             flex-shrink: 0; 
             display: flex; 
             flex-direction: column; 
-            gap: 20px; 
+            gap: 15px; 
         }
 
         /* 👉 右側：リザルト画面エリア（上詰め） */
@@ -84,19 +85,19 @@
             flex: 1; 
             display: flex; 
             flex-direction: column; 
-            gap: 15px; 
+            gap: 12px; 
         }
 
-        /* 🔍 検索ボックス・各種パーツのスタイル */
+        /* 🔍 各種パーツのスタイル */
         .control-block {
             background-color: #111;
             border: 1px solid var(--border-color);
             padding: 12px;
-            border-radius: 4px;
+            border-radius: 6px;
         }
         .control-title {
             font-size: 0.85rem;
-            color: #aaa;
+            color: #94a3b8;
             margin-bottom: 8px;
             display: block;
         }
@@ -113,43 +114,41 @@
         input[type="number"], input[type="date"] {
             background: #000;
             color: #fff;
-            border: 1px solid #555;
+            border: 1px solid #475569;
             padding: 4px 8px;
             font-family: 'Yomogi', sans-serif;
             font-size: 0.85rem;
-            border-radius: 3px;
+            border-radius: 4px;
             width: 100%;
             box-sizing: border-box;
         }
         button.btn {
-            background: #333;
+            background: #334155;
             color: #fff;
-            border: 1px solid #555;
+            border: 1px solid #475569;
             padding: 4px 12px;
             cursor: pointer;
             font-family: 'Yomogi', sans-serif;
             font-size: 0.85rem;
-            border-radius: 3px;
+            border-radius: 4px;
             transition: background 0.2s;
             white-space: nowrap;
         }
-        button.btn:hover { background: #444; }
+        button.btn:hover { background: #475569; }
         button.btn-primary { background: var(--deep-blue); border-color: var(--deep-blue); }
-        button.btn-primary:hover { background: #006696; }
-        .date-hint { color: #ff7b7b; font-size: 0.75rem; margin-top: 4px; display: block; }
+        button.btn-primary:hover { background: #2563eb; }
+        .date-hint { color: #f87171; font-size: 0.75rem; margin-top: 4px; display: block; }
 
-        /* 🕹️ 試合送りコントローラー（文字色を普通に変更） */
+        /* 🕹️ 試合送りコントローラー（文字色は普通に変更） */
         .pager-control {
             display: flex;
             justify-content: space-between;
             align-items: center;
             gap: 4px;
-            margin-bottom: 5px;
         }
         .pager-info {
             text-align: center;
         }
-        /* 💡 試合IDの色を普通のテキストカラー（メイン色）に修正しました */
         .pager-info .match-id { 
             font-size: 1.1rem; 
             color: var(--text-main); 
@@ -157,158 +156,121 @@
         }
         .pager-info .match-date { 
             font-size: 0.75rem; 
-            color: #aaa; 
+            color: #94a3b8; 
             margin-top: 2px; 
         }
 
-        /* 💾 少し離れた下に配置するデータ保存ボタン */
+        /* 💾 データ保存ボタン */
         .archive-save-box {
-            margin-top: 10px; /* 上の要素から少し距離を置く */
+            margin-top: 10px;
         }
         .btn-archive-download {
             width: 100%;
-            background: #1f2937;
-            color: #9ca3af;
-            border: 1px solid #374151;
+            background: #1e293b;
+            color: #94a3b8;
+            border: 1px solid #334155;
             font-size: 0.8rem;
             padding: 8px 10px;
             cursor: pointer;
-            border-radius: 4px;
+            border-radius: 6px;
             font-family: 'Yomogi', sans-serif;
             text-align: center;
             transition: all 0.2s;
         }
         .btn-archive-download:hover {
-            background: #374151;
+            background: #334155;
             color: #fff;
         }
 
         /* ==========================================
-            🎮 本家ゲームリザルト画面 区画
+            🎮 提供されたリザルトUIを完全移植・融合
         ========================================== */
-        .result-screen-wrapper {
-            background-color: #0c0f12;
-            border: 2px solid #2a3545;
-            border-radius: 8px;
-            padding: 20px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.7);
-        }
-        .result-header {
+        .result-container-box {
+            background: var(--bg-panel);
+            color: var(--text-main);
+            padding: 12px 18px; 
+            border-radius: 12px;
+            width: 100%;
+            max-width: 360px; 
+            height: 620px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
             text-align: center;
-            font-size: 1.4rem;
+            border: 1px solid var(--border-color);
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .modal-title {
+            font-size: 1.3rem;
             font-weight: bold;
             color: #fff;
-            letter-spacing: 2px;
-            text-shadow: 0 0 8px var(--deep-blue);
-            margin-bottom: 15px;
-            border-bottom: 2px dashed #2a3545;
-            padding-bottom: 8px;
-            position: relative;
-        }
-        .mode-badge {
-            position: absolute;
-            right: 0;
-            top: 0;
-            font-size: 0.75rem;
-            padding: 2px 6px;
-            border-radius: 3px;
-            background: #333;
-        }
-        .mode-TEAM { background: #4d73e5; color: #fff; }
-        .mode-SOLO { background: #e84230; color: #fff; }
-
-        .result-body {
-            display: flex;
-            gap: 20px;
-            flex-wrap: wrap;
+            margin-bottom: 6px; 
+            letter-spacing: 1px;
         }
 
-        /* 左側：ミニマップ */
-        .result-left {
-            flex: 1;
-            min-width: 220px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: flex-start;
-            background: rgba(0,0,0,0.3);
-            padding: 15px;
-            border-radius: 6px;
-            border: 1px solid #222;
-        }
-        .minimap-title { font-size: 0.85rem; color: #aaa; margin-bottom: 10px; }
-        .minimap-canvas-box {
-            width: 180px;
-            height: 180px;
-            background: #000;
-            border: 2px solid #444;
-            position: relative;
-        }
-        #minimapCanvas { width: 100%; height: 100%; display: block; image-rendering: pixelated; }
-
-        /* 右側：ランキングテーブル */
-        .result-right {
-            flex: 2;
-            min-width: 300px;
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-        }
-
-        .result-table-box {
-            background: #15181f;
-            border: 1px solid #333;
-            border-radius: 4px;
-            overflow: hidden;
-        }
-        .result-table-title {
-            background: #1e242d;
-            padding: 6px 10px;
-            font-weight: bold;
-            color: var(--text-main);
-            border-bottom: 1px solid #333;
-            font-size: 0.85rem;
-        }
-
-        .game-table {
+        .result-table {
             width: 100%;
             border-collapse: collapse;
+            font-size: 0.75rem;
             text-align: left;
-            font-size: 0.8rem;
+            margin-bottom: 2px;
         }
-        .game-table th, .game-table td {
-            padding: 6px 10px;
-            border-bottom: 1px solid #222;
+
+        .result-table th {
+            color: #ffffff; 
+            font-weight: normal;
+            border-bottom: 2px solid #334155;
+            padding: 1px 3px; 
         }
-        .game-table th { background: #0c0f12; color: #888; font-weight: normal; }
 
-        .rank-cell { text-align: center; width: 35px; font-weight: bold; }
-        .rank-1 { color: var(--gold); }
-        .rank-2 { color: var(--silver); }
-        .rank-3 { color: var(--bronze); }
-        
-        .emoji-cell { font-size: 1rem; width: 30px; text-align: center; }
-        .name-cell { color: #fff; }
-        .team-cell { color: #aaa; font-size: 0.75rem; }
-        .score-cell { text-align: right; font-weight: bold; color: #00ffcc; width: 70px; }
-        .kill-cell { text-align: right; color: #ff4f79; width: 50px; }
+        .result-table td {
+            padding: 2px 3px; 
+            border-bottom: 1px solid #334155;
+            font-size: 0.68rem; 
+        }
 
+        /* 👑 1位のゴールド設定 */
+        .result-table tr.rank-1 td {
+            color: var(--gold); 
+            font-weight: bold;
+        }
+
+        /* ⚔️ キル数列を赤色 */
+        .result-table td.kill-cell {
+            color: #f87171 !important; 
+            font-weight: normal !important;
+        }
+
+        .result-table tr {
+            background: transparent !important;
+        }
+
+        .scroll-container {
+            flex: 1;
+            overflow-y: auto;
+            padding-right: 2px;
+        }
+
+        /* 📊 ロード・エラーメッセージ用 */
         .status-msg {
             text-align: center;
             padding: 40px;
             font-size: 1.1rem;
-            color: #aaa;
+            color: #94a3b8;
             background: #111;
-            border: 1px dashed #444;
-            border-radius: 6px;
+            border: 1px dashed #334155;
+            border-radius: 8px;
+            max-width: 360px;
+            box-sizing: border-box;
         }
 
         .hidden { display: none !important; }
 
         /* スマホ用レスポンシブ調整 */
         @media (max-width: 768px) {
-            .main-layout { flex-direction: column; }
-            .sidebar-left { width: 100%; }
+            .main-layout { flex-direction: column; align-items: center; }
+            .sidebar-left { width: 100%; max-width: 360px; }
         }
     </style>
 </head>
@@ -355,7 +317,7 @@
 
         <div class="content-right">
             
-            <div class="control-block" style="padding: 8px 12px;">
+            <div class="control-block" style="padding: 8px 12px; max-width: 360px; box-sizing: border-box;">
                 <div class="pager-control">
                     <div class="search-row">
                         <button class="btn" onclick="moveMatch(-20)">≪ 20</button>
@@ -376,60 +338,53 @@
 
             <div id="status-display" class="status-msg hidden">データを読み込んでいます...</div>
 
-            <div id="result-screen" class="result-screen-wrapper">
-                <div class="result-header">
-                    ⚔️ MATCH RESULT ⚔
-                    <span id="res-mode-badge" class="mode-badge">----</span>
+            <div id="result-container" class="result-container-box">
+                <div class="modal-title" id="result-title">ラウンド終了</div>
+                
+                <div style="display:flex; flex-direction:column; align-items:center; margin-bottom:8px;">
+                    <canvas id="result-map" width="300" height="300"
+                        style="background:rgba(0,0,0,0.5); border:1px solid #475569; width:140px; height:140px;"></canvas>
                 </div>
+                
+                <div class="scroll-container">
+                    <div style="display:flex; flex-direction:column; gap:10px;">
+                        <div id="result-team-area" style="display:none;">
+                            <div style="font-size:0.7rem; color:#94a3b8; margin-bottom:3px; text-align:left;">チーム順位</div>
+                            <div>
+                                <table class="result-table">
+                                    <thead>
+                                        <tr>
+                                            <th>-</th>
+                                            <th>ﾁｰﾑ</th>
+                                            <th>キル</th>
+                                            <th>占領</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="result-team-body"></tbody>
+                                </table>
+                            </div>
+                        </div>
 
-                <div class="result-body">
-                    <div class="result-left">
-                        <div class="minimap-title">🗺️ 終了時ミニマップ</div>
-                        <div class="minimap-canvas-box">
-                            <canvas id="minimapCanvas" width="300" height="300"></canvas>
+                        <div>
+                            <div style="font-size:0.7rem; color:#94a3b8; margin-bottom:3px; text-align:left;">個人順位</div>
+                            <div>
+                                <table class="result-table">
+                                    <thead>
+                                        <tr>
+                                            <th>-</th>
+                                            <th>名前</th>
+                                            <th>キル</th>
+                                            <th>占領</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="result-body"></tbody>
+                                </table>
+                            </div>
                         </div>
                     </div>
-
-                    <div class="result-right">
-                        
-                        <div class="result-table-box" id="box-players-result">
-                            <div class="result-table-title">👤 個人総合順位</div>
-                            <table class="game-table">
-                                <thead>
-                                    <tr>
-                                        <th style="text-align:center;">順位</th>
-                                        <th style="text-align:center;">頭</th>
-                                        <th>プレイヤー名</th>
-                                        <th>所属チーム</th>
-                                        <th style="text-align:right;">面積</th>
-                                        <th style="text-align:right;">キル</th>
-                                    </tr>
-                                </thead>
-                                <tbody id="table-players-body">
-                                    </tbody>
-                            </table>
-                        </div>
-
-                        <div class="result-table-box hidden" id="box-teams-result">
-                            <div class="result-table-title">👥 チーム順位</div>
-                            <table class="game-table">
-                                <thead>
-                                    <tr>
-                                        <th style="text-align:center;">順位</th>
-                                        <th>チーム名</th>
-                                        <th style="text-align:right;">合計面積</th>
-                                        <th style="text-align:right;">合計キル</th>
-                                    </tr>
-                                </thead>
-                                <tbody id="table-teams-body">
-                                    </tbody>
-                            </table>
-                        </div>
-
-                    </div>
-                </div>
-            </div> </div> </div> <script>
+                </div> </div> </div> </div> <script>
         let currentMatchId = 35800; 
+        let lastDecodedMapBytes = null;
 
         window.onload = function() {
             const urlParams = new URLSearchParams(window.location.search);
@@ -468,12 +423,13 @@
             loadMatchData(currentMatchId);
         }
 
+        // 🌐 該当パスのデータを自動取得する非同期通信関数
         async function loadMatchData(matchId) {
             const statusDisp = document.getElementById('status-display');
-            const resultScreen = document.getElementById('result-screen');
+            const resultContainer = document.getElementById('result-container');
             
             statusDisp.classList.remove('hidden');
-            resultScreen.classList.add('hidden');
+            resultContainer.classList.add('hidden');
             statusDisp.innerText = `試合ID: ${matchId} のデータを読込中...`;
 
             const folderRound = Math.floor(matchId / 1000) * 1000;
@@ -486,11 +442,22 @@
                 }
                 const data = await response.json();
                 
-                renderResult(data);
+                // データの描画ロジックへ流し込み
+                renderResultScreen(data);
                 
+                // 試合送りの上部テキスト（IDと日時）を普通の文字色で更新
+                document.getElementById('display-match-id').innerText = `ID: ${data.round_id}`;
+                if (data.played_at) {
+                    const d = new Date(data.played_at);
+                    document.getElementById('display-match-date').innerText = d.toLocaleString('ja-JP');
+                } else {
+                    document.getElementById('display-match-date').innerText = "日時不明";
+                }
+
                 statusDisp.classList.add('hidden');
-                resultScreen.classList.remove('hidden');
+                resultContainer.classList.remove('hidden');
                 
+                // ブラウザのアドレスバーを更新
                 history.replaceState(null, '', `?id=${matchId}`);
 
             } catch (error) {
@@ -499,94 +466,166 @@
             }
         }
 
-        function renderResult(data) {
-            document.getElementById('display-match-id').innerText = `ID: ${data.round_id}`;
-            
-            if (data.played_at) {
-                const d = new Date(data.played_at);
-                document.getElementById('display-match-date').innerText = d.toLocaleString('ja-JP');
-            } else {
-                document.getElementById('display-match-date').innerText = "日時不明";
-            }
-
-            const badge = document.getElementById('res-mode-badge');
-            badge.innerText = data.game_mode === 'TEAM' ? 'チーム戦' : 'ソロ戦';
-            badge.className = `mode-badge mode-${data.game_mode}`;
-
-            const playerBody = document.getElementById('table-players-body');
-            playerBody.innerHTML = '';
-            
-            if (data.players && data.players.length > 0) {
-                data.players.forEach(p => {
-                    const tr = document.createElement('tr');
-                    let rankClass = `rank-${p.rank_position}`;
-                    
-                    tr.innerHTML = `
-                        <td class="rank-cell ${rankClass}">${p.rank_position}</td>
-                        <td class="emoji-cell">${p.emoji || '👽'}</td>
-                        <td class="name-cell">${escapeHtml(p.player_name)}</td>
-                        <td class="team-cell">${p.team ? `[${escapeHtml(p.team)}]` : ''}</td>
-                        <td class="score-cell">${parseFloat(p.score).toFixed(2)}％</td>
-                        <td class="kill-cell">${p.kills || 0}K</td>
-                    `;
-                    playerBody.appendChild(tr);
-                });
-            } else {
-                playerBody.innerHTML = `<tr><td colspan="6" style="text-align:center; color:#666;">プレイヤーデータなし</td></tr>`;
-            }
-
-            const teamBox = document.getElementById('box-teams-result');
-            const teamBody = document.getElementById('table-teams-body');
-            teamBody.innerHTML = '';
-
-            if (data.game_mode === 'TEAM' && data.teams && data.teams.length > 0) {
-                teamBox.classList.remove('hidden');
-                data.teams.forEach(t => {
-                    const tr = document.createElement('tr');
-                    let rankClass = `rank-${t.rank_position}`;
-                    
-                    tr.innerHTML = `
-                        <td class="rank-cell ${rankClass}">${t.rank_position}</td>
-                        <td class="name-cell" style="font-weight:bold;">${escapeHtml(t.team_name)}</td>
-                        <td class="score-cell">${parseFloat(t.score).toFixed(2)}％</td>
-                        <td class="kill-cell">${t.kills !== undefined ? t.kills : 0}K</td>
-                    `;
-                    teamBody.appendChild(tr);
-                });
-            } else {
-                teamBox.classList.add('hidden');
-            }
-
-            drawMinimap(data.minimap);
-        }
-
-        function drawMinimap(mapData) {
-            const canvas = document.getElementById('minimapCanvas');
+        /* ==========================================
+            🎮 提供された描画スクリプトを完全連動
+        ========================================== */
+        function drawMinimap(minimapData, isTeamMode) {
+            const canvas = document.getElementById('result-map');
+            if (!canvas || !minimapData) return;
             const ctx = canvas.getContext('2d');
             ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-            if (!mapData || !mapData.bm) {
-                ctx.fillStyle = '#111';
-                ctx.fillRect(0, 0, canvas.width, canvas.height);
-                ctx.fillStyle = '#555';
-                ctx.font = '12px Yomogi';
-                ctx.textAlign = 'center';
-                ctx.fillText('No Map Data', canvas.width / 2, canvas.height / 2);
-                return;
-            }
-
-            ctx.fillStyle = '#000000';
-            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            const sz = minimapData.sz || 30;
+            const cp = minimapData.cp || {};
+            const cellW = canvas.width / sz;
+            const cellH = canvas.height / sz;
 
             try {
-                const colors = mapData.cp || {};
-                for (let key in colors) {
-                    ctx.strokeStyle = colors[key];
-                    ctx.strokeRect(30 + (key * 15) % 80, 30 + (key * 10) % 80, 110, 110);
+                const binaryStr = atob(minimapData.bm);
+                const bytes = new Uint8Array(binaryStr.length);
+                for (let i = 0; i < binaryStr.length; i++) {
+                    bytes[i] = binaryStr.charCodeAt(i);
                 }
-            } catch (e) {
-                console.log(e);
+
+                const rawBytes = pako.inflate(bytes);
+                lastDecodedMapBytes = rawBytes;
+
+                let colorIndex = 0;
+                for (let y = 0; y < sz; y++) {
+                    for (let x = 0; x < sz; x++) {
+                        if (colorIndex < rawBytes.length) {
+                            const teamId = rawBytes[colorIndex];
+                            
+                            let color = cp[teamId] || '#1e293b';
+                            if (isTeamMode) {
+                                if (teamId === 1) color = "#9ca3af";
+                                if (teamId === 2) color = "#8b5a2b";
+                            }
+
+                            ctx.fillStyle = color;
+                            ctx.fillRect(x * cellW, y * cellH, cellW, cellH);
+                        }
+                        colorIndex++;
+                    }
+                }
+            } catch(e) {
+                ctx.fillStyle = "rgba(255,255,255,0.1)";
+                ctx.fillRect(10, 10, canvas.width-20, canvas.height-20);
+                lastDecodedMapBytes = null;
             }
+        }
+
+        function renderResultScreen(data) {
+            const isTeamMode = (data.game_mode === "TEAM");
+
+            if (data.minimap) {
+                drawMinimap(data.minimap, isTeamMode);
+            }
+
+            const totalPlayers = data.player_count || 0;
+            document.getElementById('result-title').innerHTML = `ラウンド終了 <span style="font-size:0.65rem; color:#94a3b8;">(参加: ${totalPlayers}人)</span>`;
+
+            const teamArea = document.getElementById('result-team-area');
+            const teamBody = document.getElementById('result-team-body');
+            
+            if (isTeamMode && data.teams) {
+                teamArea.style.display = 'block';
+                let tHtml = '';
+                data.teams.forEach((t, idx) => {
+                    const rankClass = (idx === 0) ? 'rank-1' : ((idx === 1) ? 'rank-2' : ((idx === 2) ? 'rank-3' : ''));
+                    const rankIcon = (idx === 0) ? '👑 ' : '';
+                    tHtml += `
+                        <tr class="${rankClass}">
+                            <td>#${t.rank_position}</td>
+                            <td>${rankIcon}[${t.team_name}]</td>
+                            <td class="kill-cell" style="text-align:center;">${t.kills} ⚔️</td>
+                            <td>${parseFloat(t.score).toFixed(2)}%</td>
+                        </tr>
+                    `;
+                });
+                teamBody.innerHTML = tHtml;
+            } else {
+                teamArea.style.display = 'none';
+            }
+
+            let mapPercentages = [];
+            if (lastDecodedMapBytes && data.minimap && data.minimap.cp) {
+                let counts = {};
+                let totalCells = lastDecodedMapBytes.length;
+                
+                for (let i = 0; i < totalCells; i++) {
+                    const id = lastDecodedMapBytes[i];
+                    counts[id] = (counts[id] || 0) + 1;
+                }
+
+                Object.keys(data.minimap.cp).forEach(idKey => {
+                    const id = Number(idKey);
+                    const cellCount = counts[id] || 0;
+                    const pct = (cellCount / totalCells) * 100;
+                    
+                    mapPercentages.push({
+                        id: id,
+                        color: data.minimap.cp[idKey],
+                        percentage: pct,
+                        isAssigned: false
+                    });
+                });
+            }
+
+            const tbody = document.getElementById('result-body');
+            let html = '';
+            
+            if (data.players) {
+                data.players.forEach((p, idx) => {
+                    const rankClass = (idx === 0) ? 'rank-1' : ((idx === 1) ? 'rank-2' : ((idx === 2) ? 'rank-3' : ''));
+                    const rankIcon = (idx === 0) ? '👑 ' : '';
+                    
+                    let playerColor = "#ef4444";
+                    const playerScore = parseFloat(p.score || 0);
+
+                    if (isTeamMode && p.team === "🇯🇵ONJ") {
+                        playerColor = "#9ca3af";
+                    } else if (isTeamMode && p.team === "たぬき") {
+                        playerColor = "#8b5a2b";
+                    } else {
+                        let bestMatch = null;
+                        let minDifference = Infinity;
+
+                        mapPercentages.forEach(item => {
+                            if (isTeamMode && (item.id === 1 || item.id === 2)) return;
+
+                            let diff = Math.abs(item.percentage - playerScore);
+                            if (diff < minDifference) {
+                                minDifference = diff;
+                                bestMatch = item;
+                            }
+                        });
+
+                        if (bestMatch) {
+                            playerColor = bestMatch.color;
+                            bestMatch.percentage = -999; 
+                        } else if (data.minimap && data.minimap.cp) {
+                            const keys = Object.keys(data.minimap.cp);
+                            playerColor = data.minimap.cp[keys[keys.length - 1]];
+                        }
+                    }
+
+                    html += `
+                        <tr class="${rankClass}">
+                            <td>#${p.rank_position}</td>
+                            <td>
+                                <span style="display:inline-block; width:13px; height:13px; border-radius:50%; background-color:${playerColor}; text-align:center; line-height:13px; margin-right:4px; font-size:9px; color:#fff; text-shadow:1px 1px 1px #000;">
+                                    ${p.emoji || '🐣'}
+                                </span>
+                                ${rankIcon}${p.player_name}
+                            </td>
+                            <td class="kill-cell" style="text-align:center;">${p.kills || 0} ⚔️</td>
+                            <td>${parseFloat(p.score).toFixed(2)}%</td>
+                        </tr>
+                    `;
+                });
+            }
+            tbody.innerHTML = html;
         }
 
         function escapeHtml(str) {
