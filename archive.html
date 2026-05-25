@@ -71,7 +71,7 @@
             flex: 1; 
         }
 
-        /* 👈 左側：すべての操作パーツを上から一列に集約 */
+        /* 👈 左側：操作パネルエリア */
         .sidebar-left { 
             width: 280px; 
             flex-shrink: 0; 
@@ -80,17 +80,18 @@
             gap: 15px; 
         }
 
-        /* 👉 右側：リザルト画面エリア（上詰め ＆ 左右中央寄せ） */
+        /* 👉 右側：リザルト画面エリア（上詰め ＆ 完全に左右中央寄せ） */
         .content-right { 
             flex: 1; 
             display: flex; 
             flex-direction: column; 
-            align-items: center; /* 📦 中身のリザルト画面を横方向の真ん中に寄せる */
-            justify-content: flex-start; /* 🔝 上びた付けにする */
+            align-items: center;    /* 横方向中央に寄せる */
+            justify-content: flex-start; /* 上びた付けにする */
             width: 100%;
+            box-sizing: border-box;
         }
 
-        /* 🔍 各種パーツのスタイル */
+        /* 🔍 各種パーツの共通スタイル */
         .control-block {
             background-color: #111;
             border: 1px solid var(--border-color);
@@ -109,10 +110,12 @@
             display: flex;
             flex-direction: column;
             gap: 8px;
+            width: 100%;
         }
         .search-row {
             display: flex;
             gap: 6px;
+            width: 100%;
         }
         
         input[type="number"], input[type="date"] {
@@ -124,6 +127,7 @@
             font-size: 0.85rem;
             border-radius: 4px;
             width: 100%;
+            max-width: 100%; /* スマホでの枠外はみ出し防止ガード */
             box-sizing: border-box;
         }
         button.btn {
@@ -143,25 +147,54 @@
         button.btn-primary:hover { background: #2563eb; }
         .date-hint { color: #f87171; font-size: 0.75rem; margin-top: 4px; display: block; }
 
-        /* 🕹️ 左側に移動してきた試合送りナビゲーター */
+        /* 🕹️ 左側：試合送りナビゲーター（はみ出し崩れ完全修正版） */
         .pager-control {
             display: flex;
-            justify-content: space-between;
             align-items: center;
+            justify-content: space-between;
+            width: 100%;
             gap: 4px;
+            box-sizing: border-box;
         }
-        .pager-info {
+        .pager-btn-group {
+            display: flex;
+            gap: 3px;
+            flex: 1;
+            max-width: 35%; /* ボタン側が広がりすぎないように制限 */
+        }
+        .pager-btn-group-left { justify-content: flex-start; }
+        .pager-btn-group-right { justify-content: flex-end; }
+        
+        /* 試合送り用ボタンの文字サイズと余白を最適化 */
+        button.btn-pager {
+            padding: 4px 6px;
+            font-size: 0.75rem;
+            flex: 1;
             text-align: center;
+            min-width: 0; /* 文字がはみ出た場合にボタンが破綻するのを防ぐ */
+        }
+        
+        .pager-info {
+            flex: 1.5;
+            text-align: center;
+            min-width: 0;
+            padding: 0 2px;
         }
         .pager-info .match-id { 
-            font-size: 1.1rem; 
+            font-size: 0.95rem; 
             color: var(--text-main); 
             font-weight: bold; 
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
         .pager-info .match-date { 
-            font-size: 0.75rem; 
+            font-size: 0.68rem; 
             color: #94a3b8; 
             margin-top: 2px; 
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
 
         /* 💾 データ保存ボタン */
@@ -311,11 +344,11 @@
                 </div>
             </div>
 
-            <div class="control-block" style="padding: 8px 12px;">
+            <div class="control-block" style="padding: 8px 6px;">
                 <div class="pager-control">
-                    <div class="search-row">
-                        <button class="btn" onclick="moveMatch(-20)">≪ 20</button>
-                        <button class="btn" onclick="moveMatch(-1)">＜ 前</button>
+                    <div class="pager-btn-group pager-btn-group-left">
+                        <button class="btn btn-pager" onclick="moveMatch(-20)">≪20</button>
+                        <button class="btn btn-pager" onclick="moveMatch(-1)">＜前</button>
                     </div>
                     
                     <div class="pager-info">
@@ -323,9 +356,9 @@
                         <div class="match-date" id="display-match-date">----/--/-- --:--:--</div>
                     </div>
 
-                    <div class="search-row">
-                        <button class="btn" onclick="moveMatch(1)">次 ＞</button>
-                        <button class="btn" onclick="moveMatch(20)">20 ≫</button>
+                    <div class="pager-btn-group pager-btn-group-right">
+                        <button class="btn btn-pager" onclick="moveMatch(1)">次＞</button>
+                        <button class="btn btn-pager" onclick="moveMatch(20)">20≫</button>
                     </div>
                 </div>
             </div>
