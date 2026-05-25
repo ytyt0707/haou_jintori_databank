@@ -71,7 +71,7 @@
             flex: 1; 
         }
 
-        /* 👈 左側：検索・コントロール・保存ボタンエリア */
+        /* 👈 左側：すべての操作パーツを上から一列に集約 */
         .sidebar-left { 
             width: 280px; 
             flex-shrink: 0; 
@@ -80,12 +80,14 @@
             gap: 15px; 
         }
 
-        /* 👉 右側：リザルト画面エリア（上詰め） */
+        /* 👉 右側：リザルト画面エリア（上詰め ＆ 左右中央寄せ） */
         .content-right { 
             flex: 1; 
             display: flex; 
             flex-direction: column; 
-            gap: 12px; 
+            align-items: center; /* 📦 中身のリザルト画面を横方向の真ん中に寄せる */
+            justify-content: flex-start; /* 🔝 上びた付けにする */
+            width: 100%;
         }
 
         /* 🔍 各種パーツのスタイル */
@@ -94,6 +96,8 @@
             border: 1px solid var(--border-color);
             padding: 12px;
             border-radius: 6px;
+            box-sizing: border-box;
+            width: 100%;
         }
         .control-title {
             font-size: 0.85rem;
@@ -139,7 +143,7 @@
         button.btn-primary:hover { background: #2563eb; }
         .date-hint { color: #f87171; font-size: 0.75rem; margin-top: 4px; display: block; }
 
-        /* 🕹️ 試合送りコントローラー（文字色は普通に変更） */
+        /* 🕹️ 左側に移動してきた試合送りナビゲーター */
         .pager-control {
             display: flex;
             justify-content: space-between;
@@ -163,6 +167,7 @@
         /* 💾 データ保存ボタン */
         .archive-save-box {
             margin-top: 10px;
+            width: 100%;
         }
         .btn-archive-download {
             width: 100%;
@@ -183,7 +188,7 @@
         }
 
         /* ==========================================
-            🎮 提供されたリザルトUIを完全移植・融合
+            🎮 リザルトUI 表示設定
         ========================================== */
         .result-container-box {
             background: var(--bg-panel);
@@ -230,13 +235,11 @@
             font-size: 0.68rem; 
         }
 
-        /* 👑 1位のゴールド設定 */
         .result-table tr.rank-1 td {
             color: var(--gold); 
             font-weight: bold;
         }
 
-        /* ⚔️ キル数列を赤色 */
         .result-table td.kill-cell {
             color: #f87171 !important; 
             font-weight: normal !important;
@@ -261,6 +264,7 @@
             background: #111;
             border: 1px dashed #334155;
             border-radius: 8px;
+            width: 100%;
             max-width: 360px;
             box-sizing: border-box;
         }
@@ -307,17 +311,7 @@
                 </div>
             </div>
 
-            <div class="archive-save-box">
-                <button class="btn-archive-download" onclick="alert('最新の試合データアーカイブ生成機能は現在検討中なのです！')">
-                    📦 1～最新までの試合データ保存
-                </button>
-            </div>
-
-        </div>
-
-        <div class="content-right">
-            
-            <div class="control-block" style="padding: 8px 12px; max-width: 360px; box-sizing: border-box;">
+            <div class="control-block" style="padding: 8px 12px;">
                 <div class="pager-control">
                     <div class="search-row">
                         <button class="btn" onclick="moveMatch(-20)">≪ 20</button>
@@ -336,6 +330,16 @@
                 </div>
             </div>
 
+            <div class="archive-save-box">
+                <button class="btn-archive-download" onclick="alert('最新の試合データアーカイブ生成機能は現在検討中なのです！')">
+                    📦 1～最新までの試合データ保存
+                </button>
+            </div>
+
+        </div>
+
+        <div class="content-right">
+            
             <div id="status-display" class="status-msg hidden">データを読み込んでいます...</div>
 
             <div id="result-container" class="result-container-box">
@@ -423,7 +427,6 @@
             loadMatchData(currentMatchId);
         }
 
-        // 🌐 該当パスのデータを自動取得する非同期通信関数
         async function loadMatchData(matchId) {
             const statusDisp = document.getElementById('status-display');
             const resultContainer = document.getElementById('result-container');
@@ -442,10 +445,8 @@
                 }
                 const data = await response.json();
                 
-                // データの描画ロジックへ流し込み
                 renderResultScreen(data);
                 
-                // 試合送りの上部テキスト（IDと日時）を普通の文字色で更新
                 document.getElementById('display-match-id').innerText = `ID: ${data.round_id}`;
                 if (data.played_at) {
                     const d = new Date(data.played_at);
@@ -457,7 +458,6 @@
                 statusDisp.classList.add('hidden');
                 resultContainer.classList.remove('hidden');
                 
-                // ブラウザのアドレスバーを更新
                 history.replaceState(null, '', `?id=${matchId}`);
 
             } catch (error) {
@@ -466,9 +466,6 @@
             }
         }
 
-        /* ==========================================
-            🎮 提供された描画スクリプトを完全連動
-        ========================================== */
         function drawMinimap(minimapData, isTeamMode) {
             const canvas = document.getElementById('result-map');
             if (!canvas || !minimapData) return;
