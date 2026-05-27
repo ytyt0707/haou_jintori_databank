@@ -16,11 +16,12 @@
             🎨 陣取りデータバンク 共通サイバーダークUI
         ========================================== */
         :root {
-            --bg-base: #12141c;
-            --bg-panel: #1e293b;
-            --text-main: #f8fafc;
-            --deep-blue: #3b82f6;
-            --border-color: #334155;
+            /* 💡 ランキングページと完全に色を統一しました */
+            --bg-base: #1a1d24;
+            --bg-panel: #222;
+            --text-main: #e0e0e0;
+            --deep-blue: #007bb5;
+            --border-color: #333;
             --gold: #fbbf24;
         }
 
@@ -118,10 +119,11 @@
             width: 100%;
         }
         
+        /* 💡 入力欄とボタンの色もランキングページのもの（#111, #333, #555）に合わせました */
         input[type="number"], input[type="date"] {
-            background: #000;
+            background: #111;
             color: #fff;
-            border: 1px solid #475569;
+            border: 1px solid #555;
             padding: 4px 8px;
             font-family: 'Yomogi', sans-serif;
             font-size: 0.85rem;
@@ -131,9 +133,9 @@
             box-sizing: border-box;
         }
         button.btn {
-            background: #334155;
+            background: #333;
             color: #fff;
-            border: 1px solid #475569;
+            border: 1px solid #555;
             padding: 4px 12px;
             cursor: pointer;
             font-family: 'Yomogi', sans-serif;
@@ -142,9 +144,9 @@
             transition: background 0.2s;
             white-space: nowrap;
         }
-        button.btn:hover { background: #475569; }
+        button.btn:hover { background: #444; }
         button.btn-primary { background: var(--deep-blue); border-color: var(--deep-blue); }
-        button.btn-primary:hover { background: #2563eb; }
+        button.btn-primary:hover { background: #006696; }
         .date-hint { color: #f87171; font-size: 0.75rem; margin-top: 4px; display: block; }
 
         /* 🕹️ 左側：試合送りナビゲーター（はみ出し崩れ完全修正版） */
@@ -204,9 +206,9 @@
         }
         .btn-archive-download {
             width: 100%;
-            background: #1e293b;
+            background: #333; /* ボタン色合わせ */
             color: #94a3b8;
-            border: 1px solid #334155;
+            border: 1px solid #555;
             font-size: 0.8rem;
             padding: 8px 10px;
             cursor: pointer;
@@ -216,15 +218,15 @@
             transition: all 0.2s;
         }
         .btn-archive-download:hover {
-            background: #334155;
+            background: #444;
             color: #fff;
         }
 
         /* ==========================================
-            🎮 リザルトUI 表示設定
+            🎮 リザルトUI 表示設定 (※ここの色は完全に維持！)
         ========================================== */
         .result-container-box {
-            background: var(--bg-panel);
+            background: #1e293b;
             color: var(--text-main);
             padding: 12px 18px; 
             border-radius: 12px;
@@ -233,7 +235,7 @@
             height: 620px;
             box-shadow: 0 10px 25px rgba(0,0,0,0.5);
             text-align: center;
-            border: 1px solid var(--border-color);
+            border: 1px solid #334155;
             box-sizing: border-box;
             display: flex;
             flex-direction: column;
@@ -339,7 +341,7 @@
             <div class="control-block">
                 <span class="control-title">📅 日付から検索補助</span>
                 <div class="search-group-vertical">
-                    <input type="date" id="input-match-date" onchange="assistDateSearch()">
+                    <input type="date" id="input-match-date" value="2026-01-02" onchange="assistDateSearch()">
                     <span id="date-assist-result" class="date-hint"></span>
                 </div>
             </div>
@@ -363,8 +365,8 @@
                 </div>
             </div>
 
-            <div class="archive-save-box">
-                <button class="btn-archive-download" onclick="alert('最新の試合データアーカイブ生成機能は現在検討中なのです！')">
+            <div class="archive-save-box" id="saveBtnContainer">
+                <button class="btn-archive-download" onclick="window.open('https://github.com/ytyt0707/haou_jintori_databank/tree/main/master_data', '_blank')">
                     📦 1～最新までの試合データ保存
                 </button>
             </div>
@@ -419,11 +421,28 @@
                             </div>
                         </div>
                     </div>
-                </div> </div> </div> </div> <script>
+                </div> 
+            </div> 
+        </div> 
+    </div> 
+    
+    <script>
+        // =======================================================
+        // ⚙️ 保存ボタンの表示・非表示フラグ
+        // この値を false にするだけで、保存ボタンが簡単に消えます！
+        // =======================================================
+        const SHOW_SAVE_BUTTON = true;
+
         let currentMatchId = 35800; 
         let lastDecodedMapBytes = null;
 
         window.onload = function() {
+            // フラグに基づく保存ボタンの非表示処理
+            if (!SHOW_SAVE_BUTTON) {
+                const saveContainer = document.getElementById('saveBtnContainer');
+                if (saveContainer) saveContainer.style.display = 'none';
+            }
+
             const urlParams = new URLSearchParams(window.location.search);
             const idParam = urlParams.get('id');
             if (idParam) {
@@ -434,13 +453,9 @@
         };
 
         function assistDateSearch() {
-            const dateVal = document.getElementById('input-match-date').value;
             const hintSpan = document.getElementById('date-assist-result');
-            if (!dateVal) {
-                hintSpan.innerText = "";
-                return;
-            }
-            hintSpan.innerText = `❌ ${dateVal} のデータはありません`;
+            // 💡 固定のメッセージを表示するように変更しました
+            hintSpan.innerText = "❌ まだ参照できるデータを作ってないので見つかりません。";
         }
 
         function searchByInputId() {
@@ -468,8 +483,10 @@
             resultContainer.classList.add('hidden');
             statusDisp.innerText = `試合ID: ${matchId} のデータを読込中...`;
 
+            // 💡 4桁以下・3桁以下のIDにも完全対応するフォルダパス生成ロジック
             const folderRound = Math.floor(matchId / 1000) * 1000;
-            const jsonPath = `master_data/${folderRound}/${matchId}.json`;
+            const folderName = String(folderRound).padStart(5, '0');
+            const jsonPath = `master_data/${folderName}/${matchId}.json`;
 
             try {
                 const response = await fetch(jsonPath);
