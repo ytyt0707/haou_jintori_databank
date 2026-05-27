@@ -13,301 +13,274 @@
     
     <style>
         /* ==========================================
-            🎨 陣取りデータバンク 共通サイバーダークUI
+            🎨 陣取りデータバンク 共通サイバーダークUI（ランキングページと統一）
         ========================================== */
         :root {
-            --bg-base: #12141c;
-            --bg-panel: #1e293b;
-            --text-main: #f8fafc;
-            --deep-blue: #3b82f6;
-            --border-color: #334155;
+            --bg-base: #1a1d24;
+            --bg-panel: #222;
+            --text-main: #e0e0e0;
+            --deep-blue: #007bb5;
+            --border-color: #333;
+            --highlight: rgba(0, 123, 181, 0.15);
             --gold: #fbbf24;
         }
 
-        body { 
-            margin: 0; 
-            font-family: 'Yomogi', sans-serif; 
-            background-color: var(--bg-base); 
-            color: var(--text-main); 
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Yomogi', sans-serif;
+            background-color: var(--bg-base);
+            color: var(--text-main);
             font-size: 0.85rem;
-            display: flex;
-            flex-direction: column;
             min-height: 100vh;
-            overflow-x: hidden;
-        }
-        
-        header { 
-            background-color: #111; 
-            border-bottom: 1px solid var(--deep-blue); 
-            padding: 6px 15px; 
-            display: flex; 
-            justify-content: space-between; 
-            align-items: center; 
-            position: sticky; 
-            top: 0; 
-            z-index: 1000; 
-        }
-        .site-title { font-size: 1.1rem; color: var(--deep-blue); margin: 0; }
-        .nav-links a { 
-            color: #ccc; 
-            text-decoration: none; 
-            margin-left: 15px; 
-            font-size: 0.85rem; 
-            padding: 3px 8px; 
-            border-radius: 3px; 
-            transition: all 0.2s; 
-        }
-        .nav-links a:hover, .nav-links a.active { background-color: var(--deep-blue); color: #fff; }
-
-        /* 🗺️ 画面全体の左右レイアウト構造 */
-        .main-layout { 
-            display: flex; 
-            gap: 20px; 
-            padding: 15px; 
-            max-width: 1200px; 
-            margin: 0 auto; 
-            width: 100%; 
-            box-sizing: border-box; 
-            flex: 1; 
         }
 
-        /* 👈 左側：操作パネルエリア */
-        .sidebar-left { 
-            width: 280px; 
-            flex-shrink: 0; 
-            display: flex; 
-            flex-direction: column; 
-            gap: 15px; 
-        }
-
-        /* 👉 右側：リザルト画面エリア（上詰め ＆ 完全に左右中央寄せ） */
-        .content-right { 
-            flex: 1; 
-            display: flex; 
-            flex-direction: column; 
-            align-items: center;    /* 横方向中央に寄せる */
-            justify-content: flex-start; /* 上びた付けにする */
-            width: 100%;
-            box-sizing: border-box;
-        }
-
-        /* 🔍 各種パーツの共通スタイル */
-        .control-block {
+        header {
             background-color: #111;
-            border: 1px solid var(--border-color);
-            padding: 12px;
-            border-radius: 6px;
-            box-sizing: border-box;
-            width: 100%;
+            border-bottom: 1px solid var(--deep-blue);
+            padding: 6px 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
         }
-        .control-title {
+
+        .site-title {
+            font-size: 1.1rem;
+            color: var(--deep-blue);
+            margin: 0;
+        }
+
+        .nav-links a {
+            color: #ccc;
+            text-decoration: none;
+            margin-left: 15px;
             font-size: 0.85rem;
-            color: #94a3b8;
-            margin-bottom: 8px;
-            display: block;
+            padding: 3px 8px;
+            border-radius: 3px;
+            transition: all 0.2s;
         }
-        .search-group-vertical {
+
+        .nav-links a:hover, .nav-links a.active {
+            background-color: var(--deep-blue);
+            color: #fff;
+        }
+
+        /* コントロールパネルの統合デザイン */
+        .control-panel {
+            background-color: var(--bg-panel);
+            margin: 8px 10px;
+            padding: 8px 12px;
+            border-radius: 4px;
+            border: 1px solid var(--border-color);
             display: flex;
             flex-direction: column;
             gap: 8px;
-            width: 100%;
         }
-        .search-row {
+
+        .control-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .control-group {
             display: flex;
             gap: 6px;
-            width: 100%;
-        }
-        
-        input[type="number"], input[type="date"] {
-            background: #000;
-            color: #fff;
-            border: 1px solid #475569;
-            padding: 4px 8px;
-            font-family: 'Yomogi', sans-serif;
-            font-size: 0.85rem;
-            border-radius: 4px;
-            width: 100%;
-            max-width: 100%; /* スマホでの枠外はみ出し防止ガード */
-            box-sizing: border-box;
-        }
-        button.btn {
-            background: #334155;
-            color: #fff;
-            border: 1px solid #475569;
-            padding: 4px 12px;
-            cursor: pointer;
-            font-family: 'Yomogi', sans-serif;
-            font-size: 0.85rem;
-            border-radius: 4px;
-            transition: background 0.2s;
-            white-space: nowrap;
-        }
-        button.btn:hover { background: #475569; }
-        button.btn-primary { background: var(--deep-blue); border-color: var(--deep-blue); }
-        button.btn-primary:hover { background: #2563eb; }
-        .date-hint { color: #f87171; font-size: 0.75rem; margin-top: 4px; display: block; }
-
-        /* 🕹️ 左側：試合送りナビゲーター（はみ出し崩れ完全修正版） */
-        .pager-control {
-            display: flex;
             align-items: center;
-            justify-content: space-between;
-            width: 100%;
-            gap: 4px;
-            box-sizing: border-box;
-        }
-        .pager-btn-group {
-            display: flex;
-            gap: 3px;
-            flex: 1;
-            max-width: 35%; /* ボタン側が広がりすぎないように制限 */
-        }
-        .pager-btn-group-left { justify-content: flex-start; }
-        .pager-btn-group-right { justify-content: flex-end; }
-        
-        /* 試合送り用ボタンの文字サイズと余白を最適化 */
-        button.btn-pager {
-            padding: 4px 6px;
-            font-size: 0.75rem;
-            flex: 1;
-            text-align: center;
-            min-width: 0; /* 文字がはみ出た場合にボタンが破綻するのを防ぐ */
-        }
-        
-        .pager-info {
-            flex: 1.5;
-            text-align: center;
-            min-width: 0;
-            padding: 0 2px;
-        }
-        .pager-info .match-id { 
-            font-size: 0.95rem; 
-            color: var(--text-main); 
-            font-weight: bold; 
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-        }
-        .pager-info .match-date { 
-            font-size: 0.68rem; 
-            color: #94a3b8; 
-            margin-top: 2px; 
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
 
-        /* 💾 データ保存ボタン */
-        .archive-save-box {
-            margin-top: 10px;
-            width: 100%;
-        }
-        .btn-archive-download {
-            width: 100%;
-            background: #1e293b;
-            color: #94a3b8;
-            border: 1px solid #334155;
-            font-size: 0.8rem;
-            padding: 8px 10px;
-            cursor: pointer;
-            border-radius: 6px;
+        input[type="text"], input[type="number"], input[type="date"] {
+            background-color: #111;
+            border: 1px solid #555;
+            color: #fff;
+            padding: 3px 6px;
+            border-radius: 3px;
             font-family: 'Yomogi', sans-serif;
-            text-align: center;
-            transition: all 0.2s;
+            font-size: 0.85rem;
         }
-        .btn-archive-download:hover {
-            background: #334155;
+
+        input[type="number"] {
+            width: 80px;
+        }
+
+        input[type="text"]:focus, input[type="number"]:focus, input[type="date"]:focus {
+            outline: none;
+            border-color: var(--deep-blue);
+        }
+
+        button {
+            background-color: #333;
+            color: #fff;
+            border: 1px solid #555;
+            padding: 3px 10px;
+            border-radius: 3px;
+            cursor: pointer;
+            font-family: 'Yomogi', sans-serif;
+            font-size: 0.8rem;
+            transition: all 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        button:hover {
+            background-color: #444;
+        }
+
+        button.primary-btn {
+            background-color: var(--deep-blue);
+            border-color: var(--deep-blue);
+        }
+
+        button.primary-btn:hover {
+            background-color: #006696;
+        }
+
+        .divider {
+            height: 20px;
+            width: 1px;
+            background-color: var(--border-color);
+            margin: 0 5px;
+        }
+
+        /* 試合情報カード */
+        .match-info-card {
+            background-color: var(--bg-panel);
+            margin: 8px 10px;
+            padding: 10px 15px;
+            border-radius: 4px;
+            border: 1px solid var(--border-color);
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+        }
+
+        .info-item {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+
+        .info-label {
+            font-size: 0.75rem;
+            color: #888;
+        }
+
+        .info-value {
+            font-size: 0.95rem;
+            font-weight: bold;
             color: #fff;
         }
 
         /* ==========================================
-            🎮 リザルトUI 表示設定
+            🏟️ リザルト画面再現部（※配色は元のデザインを維持）
         ========================================== */
-        .result-container-box {
-            background: var(--bg-panel);
-            color: var(--text-main);
-            padding: 12px 18px; 
-            border-radius: 12px;
-            width: 100%;
-            max-width: 360px; 
-            height: 620px;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
-            text-align: center;
-            border: 1px solid var(--border-color);
-            box-sizing: border-box;
+        .result-container {
+            margin: 10px;
             display: flex;
             flex-direction: column;
+            align-items: center;
         }
 
-        .modal-title {
-            font-size: 1.3rem;
+        .result-box {
+            background-color: #1e293b;
+            border: 2px solid #475569;
+            border-radius: 8px;
+            padding: 12px;
+            width: 100%;
+            max-width: 420px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            box-sizing: border-box;
+        }
+
+        .result-title {
+            text-align: center;
+            font-size: 1.1rem;
+            color: #f8fafc;
+            margin: 0 0 10px 0;
             font-weight: bold;
-            color: #fff;
-            margin-bottom: 6px; 
             letter-spacing: 1px;
+            border-bottom: 2px dashed #475569;
+            padding-bottom: 6px;
         }
 
         .result-table {
             width: 100%;
             border-collapse: collapse;
-            font-size: 0.75rem;
+            color: #f1f5f9;
+            font-size: 0.85rem;
+        }
+
+        .result-table th, .result-table td {
+            padding: 6px 8px;
             text-align: left;
-            margin-bottom: 2px;
         }
 
         .result-table th {
-            color: #ffffff; 
-            font-weight: normal;
-            border-bottom: 2px solid #334155;
-            padding: 1px 3px; 
+            color: #94a3b8;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            border-bottom: 1px solid #334155;
         }
 
         .result-table td {
-            padding: 2px 3px; 
-            border-bottom: 1px solid #334155;
-            font-size: 0.68rem; 
+            border-bottom: 1px solid #1e293b;
         }
 
-        .result-table tr.rank-1 td {
-            color: var(--gold); 
-            font-weight: bold;
+        .result-table tr:last-child td {
+            border-bottom: none;
         }
 
-        .result-table td.kill-cell {
-            color: #f87171 !important; 
-            font-weight: normal !important;
+        /* 順位ごとの特殊行カラー */
+        .rank-row-1 { background-color: rgba(251, 191, 36, 0.15); }
+        .rank-row-2 { background-color: rgba(148, 163, 184, 0.15); }
+        .rank-row-3 { background-color: rgba(180, 83, 9, 0.15); }
+
+        .kill-cell {
+            font-weight: 500;
+            color: #ef4444;
         }
 
-        .result-table tr {
-            background: transparent !important;
+        /* 補助コンポーネント */
+        #loadingOverlay {
+            display: none;
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background-color: rgba(26, 29, 36, 0.8);
+            z-index: 2000;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            gap: 10px;
         }
 
-        .scroll-container {
-            flex: 1;
-            overflow-y: auto;
-            padding-right: 2px;
+        .spinner {
+            width: 30px;
+            height: 30px;
+            border: 3px solid #333;
+            border-top: 3px solid var(--deep-blue);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
         }
 
-        /* 📊 ロード・エラーメッセージ用 */
-        .status-msg {
-            text-align: center;
-            padding: 40px;
-            font-size: 1.1rem;
-            color: #94a3b8;
-            background: #111;
-            border: 1px dashed #334155;
-            border-radius: 8px;
-            width: 100%;
-            max-width: 360px;
-            box-sizing: border-box;
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
         }
 
-        .hidden { display: none !important; }
-
-        /* スマホ用レスポンシブ調整 */
-        @media (max-width: 768px) {
-            .main-layout { flex-direction: column; align-items: center; }
-            .sidebar-left { width: 100%; max-width: 360px; }
+        #searchResultSection {
+            margin: 5px 10px;
+            padding: 6px 12px;
+            background-color: rgba(239, 68, 68, 0.1);
+            border: 1px solid rgba(239, 68, 68, 0.2);
+            border-radius: 4px;
+            color: #f87171;
+            display: none;
+            font-size: 0.8rem;
         }
     </style>
 </head>
@@ -317,344 +290,262 @@
         <h1 class="site-title">陣取り データバンク</h1>
         <div class="nav-links">
             <a href="index.html">総合ランキング</a>
-            <a href="plot.html">複数データプロット</a>
             <a href="archive.html" class="active">過去試合記録</a>
+            <a href="plot.html">複数データプロット</a>
         </div>
     </header>
 
-    <div class="main-layout">
-        
-        <div class="sidebar-left">
-            
-            <div class="control-block">
-                <span class="control-title">🔍 試合ID検索</span>
-                <div class="search-group-vertical">
-                    <div class="search-row">
-                        <input type="number" id="input-match-id" placeholder="例: 35800" min="1">
-                        <button class="btn btn-primary" onclick="searchByInputId()">表示</button>
-                    </div>
-                </div>
+    <div class="control-panel">
+        <div class="control-row">
+            <div class="control-group">
+                <label for="matchIdInput">試合ID:</label>
+                <input type="number" id="matchIdInput" value="3000" min="1" placeholder="例: 3000">
             </div>
-
-            <div class="control-block">
-                <span class="control-title">📅 日付から検索補助</span>
-                <div class="search-group-vertical">
-                    <input type="date" id="input-match-date" onchange="assistDateSearch()">
-                    <span id="date-assist-result" class="date-hint"></span>
-                </div>
-            </div>
-
-            <div class="control-block" style="padding: 8px 6px;">
-                <div class="pager-control">
-                    <div class="pager-btn-group pager-btn-group-left">
-                        <button class="btn btn-pager" onclick="moveMatch(-20)">≪20</button>
-                        <button class="btn btn-pager" onclick="moveMatch(-1)">＜前</button>
-                    </div>
-                    
-                    <div class="pager-info">
-                        <div class="match-id" id="display-match-id">ID: ------</div>
-                        <div class="match-date" id="display-match-date">----/--/-- --:--:--</div>
-                    </div>
-
-                    <div class="pager-btn-group pager-btn-group-right">
-                        <button class="btn btn-pager" onclick="moveMatch(1)">次＞</button>
-                        <button class="btn btn-pager" onclick="moveMatch(20)">20≫</button>
-                    </div>
-                </div>
-            </div>
-
-            <div class="archive-save-box">
-                <button class="btn-archive-download" onclick="alert('最新の試合データアーカイブ生成機能は現在検討中なのです！')">
-                    📦 1～最新までの試合データ保存
-                </button>
-            </div>
-
+            <button class="primary-btn" onclick="loadMatchData()">
+                <i class="fa-solid fa-download"></i> 読み込み
+            </button>
+            <div class="divider"></div>
+            <button onclick="stepMatch(-1)"><i class="fa-solid fa-chevron-left"></i> 前の試合</button>
+            <button onclick="stepMatch(1)">次の試合 <i class="fa-solid fa-chevron-right"></i></button>
+            <button id="saveBtn" onclick="redirectToMasterData()" style="margin-left: auto; background-color: #2e7d32; border-color: #1b5e20;">
+                <i class="fa-solid fa-floppy-disk"></i> 保存
+            </button>
         </div>
+        
+        <div class="control-row" style="border-top: 1px dashed var(--border-color); padding-top: 8px; margin-top: 2px;">
+            <div class="control-group">
+                <span style="font-size:0.75rem; color:#888;"><i class="fa-solid fa-magnifying-glass"></i> 検索補助:</span>
+                <input type="date" id="searchDateInput" value="2026-01-02">
+            </div>
+            <button onclick="executeDateSearch()" style="font-size:0.75rem; padding:2px 6px;">この日の試合を探す</button>
+        </div>
+    </div>
 
-        <div class="content-right">
-            
-            <div id="status-display" class="status-msg hidden">データを読み込んでいます...</div>
+    <div id="searchResultSection"></div>
 
-            <div id="result-container" class="result-container-box">
-                <div class="modal-title" id="result-title">ラウンド終了</div>
-                
-                <div style="display:flex; flex-direction:column; align-items:center; margin-bottom:8px;">
-                    <canvas id="result-map" width="300" height="300"
-                        style="background:rgba(0,0,0,0.5); border:1px solid #475569; width:140px; height:140px;"></canvas>
-                </div>
-                
-                <div class="scroll-container">
-                    <div style="display:flex; flex-direction:column; gap:10px;">
-                        <div id="result-team-area" style="display:none;">
-                            <div style="font-size:0.7rem; color:#94a3b8; margin-bottom:3px; text-align:left;">チーム順位</div>
-                            <div>
-                                <table class="result-table">
-                                    <thead>
-                                        <tr>
-                                            <th>-</th>
-                                            <th>ﾁｰﾑ</th>
-                                            <th>キル</th>
-                                            <th>占領</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody id="result-team-body"></tbody>
-                                </table>
-                            </div>
-                        </div>
+    <div class="match-info-card">
+        <div class="info-item">
+            <span class="info-label">試合ID</span>
+            <span class="info-value" id="info_match_id">-</span>
+        </div>
+        <div class="info-item">
+            <span class="info-label">ゲームモード</span>
+            <span class="info-value" id="info_mode">-</span>
+        </div>
+        <div class="info-item">
+            <span class="info-label">試合日時</span>
+            <span class="info-value" id="info_time">-</span>
+        </div>
+        <div class="info-item">
+            <span class="info-label">参加人数 / チーム数</span>
+            <span class="info-value" id="info_players">-</span>
+        </div>
+    </div>
 
-                        <div>
-                            <div style="font-size:0.7rem; color:#94a3b8; margin-bottom:3px; text-align:left;">個人順位</div>
-                            <div>
-                                <table class="result-table">
-                                    <thead>
-                                        <tr>
-                                            <th>-</th>
-                                            <th>名前</th>
-                                            <th>キル</th>
-                                            <th>占領</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody id="result-body"></tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
-                </div> </div> </div> </div> <script>
-        let currentMatchId = 35800; 
-        let lastDecodedMapBytes = null;
+    <div class="result-container">
+        <div class="result-box">
+            <h2 class="result-title" id="resultTitle">RESULT</h2>
+            <table class="result-table">
+                <thead>
+                    <tr>
+                        <th style="width: 50px;">順位</th>
+                        <th>プレイヤー名</th>
+                        <th style="width: 70px; text-align: center;">キル数</th>
+                        <th style="width: 80px;">占領率</th>
+                    </tr>
+                </thead>
+                <tbody id="resultTableBody">
+                    <tr>
+                        <td colspan="4" style="text-align: center; padding: 30px; color:#64748b;">
+                            試合IDを入力して読み込んでくださいなのです。
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
 
-        window.onload = function() {
-            const urlParams = new URLSearchParams(window.location.search);
-            const idParam = urlParams.get('id');
-            if (idParam) {
-                currentMatchId = parseInt(idParam) || currentMatchId;
+    <div id="loadingOverlay">
+        <div class="spinner"></div>
+        <div style="color: #fff; font-size: 0.85rem;">試合データを取得中なのです...</div>
+    </div>
+
+    <script>
+        // =========================================================
+        // ⚙️ 運営・管理用設定フラグ
+        // =========================================================
+        // この値を false に書き換えると、画面上の「保存」ボタンが完全に非表示になります！
+        const SHOW_SAVE_BUTTON = true;
+
+        window.addEventListener('DOMContentLoaded', () => {
+            // 保存ボタンの表示制御
+            const saveBtn = document.getElementById('saveBtn');
+            if (saveBtn) {
+                saveBtn.style.display = SHOW_SAVE_BUTTON ? 'inline-flex' : 'none';
             }
-            document.getElementById('input-match-id').value = currentMatchId;
-            loadMatchData(currentMatchId);
-        };
+            
+            // 初回自動読み込み
+            loadMatchData();
+        });
 
-        function assistDateSearch() {
-            const dateVal = document.getElementById('input-match-date').value;
-            const hintSpan = document.getElementById('date-assist-result');
-            if (!dateVal) {
-                hintSpan.innerText = "";
+        // 保存ボタンが押された時のジャンプ先設定
+        function redirectToMasterData() {
+            window.open('https://github.com/ytyt0707/haou_jintori_databank/tree/main/master_data', '_blank');
+        }
+
+        // 🔍 検索補助のボタンが押された時の処理（メッセージ固定表示）
+        function executeDateSearch() {
+            const resultSection = document.getElementById('searchResultSection');
+            resultSection.innerText = "検索結果：まだ参照できるデータを作ってないので見つかりません。";
+            resultSection.style.display = "block";
+        }
+
+        function stepMatch(amount) {
+            const input = document.getElementById('matchIdInput');
+            let currentId = parseInt(input.value, 10);
+            if (isNaN(currentId)) currentId = 3000;
+            input.value = Math.max(1, currentId + amount);
+            loadMatchData();
+        }
+
+        // 🟢 4桁以下・3桁以下のID階層に完全対応したパス生成＆読み込みロジック
+        function loadMatchData() {
+            const input = document.getElementById('matchIdInput');
+            const matchId = parseInt(input.value, 10);
+            
+            if (isNaN(matchId) || matchId < 1) {
+                alert("有効な試合IDを入力してくださいなのです。");
                 return;
             }
-            hintSpan.innerText = `❌ ${dateVal} のデータはありません`;
-        }
 
-        function searchByInputId() {
-            const inputVal = parseInt(document.getElementById('input-match-id').value);
-            if (!inputVal || inputVal < 1) {
-                alert("有効な試合IDを入力してくださいなのです！");
-                return;
-            }
-            currentMatchId = inputVal;
-            loadMatchData(currentMatchId);
-        }
+            // 検索メッセージをリセット
+            document.getElementById('searchResultSection').style.display = "none";
 
-        function moveMatch(offset) {
-            currentMatchId += offset;
-            if (currentMatchId < 1) currentMatchId = 1;
-            document.getElementById('input-match-id').value = currentMatchId;
-            loadMatchData(currentMatchId);
-        }
+            const overlay = document.getElementById('loadingOverlay');
+            overlay.style.display = 'flex';
 
-        async function loadMatchData(matchId) {
-            const statusDisp = document.getElementById('status-display');
-            const resultContainer = document.getElementById('result-container');
+            // 💡 4桁以下・3桁以下に対応するための「1000単位切り捨て」による上位フォルダ計算
+            // 例: 3000 -> 3000,  300 -> 0,  2 -> 0
+            const folderBase = Math.floor(matchId / 1000) * 1000;
             
-            statusDisp.classList.remove('hidden');
-            resultContainer.classList.add('hidden');
-            statusDisp.innerText = `試合ID: ${matchId} のデータを読込中...`;
+            // 5桁の文字列にゼロ埋めフォーマットする (例: 3000 -> "03000", 0 -> "00000")
+            const folderName = String(folderBase).padStart(5, '0');
+            
+            // ファイルパスの組み立て
+            const jsonUrl = `master_data/${folderName}/${matchId}.json`;
 
-            const folderRound = Math.floor(matchId / 1000) * 1000;
-            const jsonPath = `master_data/${folderRound}/${matchId}.json`;
-
-            try {
-                const response = await fetch(jsonPath);
-                if (!response.ok) {
-                    throw new Error(`試合データが見つかりません (ID: ${matchId})`);
-                }
-                const data = await response.json();
-                
-                renderResultScreen(data);
-                
-                document.getElementById('display-match-id').innerText = `ID: ${data.round_id}`;
-                if (data.played_at) {
-                    const d = new Date(data.played_at);
-                    document.getElementById('display-match-date').innerText = d.toLocaleString('ja-JP');
-                } else {
-                    document.getElementById('display-match-date').innerText = "日時不明";
-                }
-
-                statusDisp.classList.add('hidden');
-                resultContainer.classList.remove('hidden');
-                
-                history.replaceState(null, '', `?id=${matchId}`);
-
-            } catch (error) {
-                statusDisp.classList.remove('hidden');
-                statusDisp.innerText = `❌ 試合ID: ${matchId} のデータはまだ同期されていないか、存在しないのです`;
-            }
-        }
-
-        function drawMinimap(minimapData, isTeamMode) {
-            const canvas = document.getElementById('result-map');
-            if (!canvas || !minimapData) return;
-            const ctx = canvas.getContext('2d');
-            ctx.clearRect(0, 0, canvas.width, canvas.height);
-
-            const sz = minimapData.sz || 30;
-            const cp = minimapData.cp || {};
-            const cellW = canvas.width / sz;
-            const cellH = canvas.height / sz;
-
-            try {
-                const binaryStr = atob(minimapData.bm);
-                const bytes = new Uint8Array(binaryStr.length);
-                for (let i = 0; i < binaryStr.length; i++) {
-                    bytes[i] = binaryStr.charCodeAt(i);
-                }
-
-                const rawBytes = pako.inflate(bytes);
-                lastDecodedMapBytes = rawBytes;
-
-                let colorIndex = 0;
-                for (let y = 0; y < sz; y++) {
-                    for (let x = 0; x < sz; x++) {
-                        if (colorIndex < rawBytes.length) {
-                            const teamId = rawBytes[colorIndex];
-                            
-                            let color = cp[teamId] || '#1e293b';
-                            if (isTeamMode) {
-                                if (teamId === 1) color = "#9ca3af";
-                                if (teamId === 2) color = "#8b5a2b";
-                            }
-
-                            ctx.fillStyle = color;
-                            ctx.fillRect(x * cellW, y * cellH, cellW, cellH);
-                        }
-                        colorIndex++;
+            fetch(jsonUrl)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`試合データが見つかりません (Path: ${jsonUrl})`);
                     }
-                }
-            } catch(e) {
-                ctx.fillStyle = "rgba(255,255,255,0.1)";
-                ctx.fillRect(10, 10, canvas.width-20, canvas.height-20);
-                lastDecodedMapBytes = null;
-            }
-        }
-
-        function renderResultScreen(data) {
-            const isTeamMode = (data.game_mode === "TEAM");
-
-            if (data.minimap) {
-                drawMinimap(data.minimap, isTeamMode);
-            }
-
-            const totalPlayers = data.player_count || 0;
-            document.getElementById('result-title').innerHTML = `ラウンド終了 <span style="font-size:0.65rem; color:#94a3b8;">(参加: ${totalPlayers}人)</span>`;
-
-            const teamArea = document.getElementById('result-team-area');
-            const teamBody = document.getElementById('result-team-body');
-            
-            if (isTeamMode && data.teams) {
-                teamArea.style.display = 'block';
-                let tHtml = '';
-                data.teams.forEach((t, idx) => {
-                    const rankClass = (idx === 0) ? 'rank-1' : ((idx === 1) ? 'rank-2' : ((idx === 2) ? 'rank-3' : ''));
-                    const rankIcon = (idx === 0) ? '👑 ' : '';
-                    tHtml += `
-                        <tr class="${rankClass}">
-                            <td>#${t.rank_position}</td>
-                            <td>${rankIcon}[${t.team_name}]</td>
-                            <td class="kill-cell" style="text-align:center;">${t.kills} ⚔️</td>
-                            <td>${parseFloat(t.score).toFixed(2)}%</td>
-                        </tr>
-                    `;
-                });
-                teamBody.innerHTML = tHtml;
-            } else {
-                teamArea.style.display = 'none';
-            }
-
-            let mapPercentages = [];
-            if (lastDecodedMapBytes && data.minimap && data.minimap.cp) {
-                let counts = {};
-                let totalCells = lastDecodedMapBytes.length;
-                
-                for (let i = 0; i < totalCells; i++) {
-                    const id = lastDecodedMapBytes[i];
-                    counts[id] = (counts[id] || 0) + 1;
-                }
-
-                Object.keys(data.minimap.cp).forEach(idKey => {
-                    const id = Number(idKey);
-                    const cellCount = counts[id] || 0;
-                    const pct = (cellCount / totalCells) * 100;
-                    
-                    mapPercentages.push({
-                        id: id,
-                        color: data.minimap.cp[idKey],
-                        percentage: pct,
-                        isAssigned: false
-                    });
-                });
-            }
-
-            const tbody = document.getElementById('result-body');
-            let html = '';
-            
-            if (data.players) {
-                data.players.forEach((p, idx) => {
-                    const rankClass = (idx === 0) ? 'rank-1' : ((idx === 1) ? 'rank-2' : ((idx === 2) ? 'rank-3' : ''));
-                    const rankIcon = (idx === 0) ? '👑 ' : '';
-                    
-                    let playerColor = "#ef4444";
-                    const playerScore = parseFloat(p.score || 0);
-
-                    if (isTeamMode && p.team === "🇯🇵ONJ") {
-                        playerColor = "#9ca3af";
-                    } else if (isTeamMode && p.team === "たぬき") {
-                        playerColor = "#8b5a2b";
-                    } else {
-                        let bestMatch = null;
-                        let minDifference = Infinity;
-
-                        mapPercentages.forEach(item => {
-                            if (isTeamMode && (item.id === 1 || item.id === 2)) return;
-
-                            let diff = Math.abs(item.percentage - playerScore);
-                            if (diff < minDifference) {
-                                minDifference = diff;
-                                bestMatch = item;
-                            }
-                        });
-
-                        if (bestMatch) {
-                            playerColor = bestMatch.color;
-                            bestMatch.percentage = -999; 
-                        } else if (data.minimap && data.minimap.cp) {
-                            const keys = Object.keys(data.minimap.cp);
-                            playerColor = data.minimap.cp[keys[keys.length - 1]];
-                        }
-                    }
-
-                    html += `
-                        <tr class="${rankClass}">
-                            <td>#${p.rank_position}</td>
-                            <td>
-                                <span style="display:inline-block; width:13px; height:13px; border-radius:50%; background-color:${playerColor}; text-align:center; line-height:13px; margin-right:4px; font-size:9px; color:#fff; text-shadow:1px 1px 1px #000;">
-                                    ${p.emoji || '🐣'}
-                                </span>
-                                ${rankIcon}${p.player_name}
+                    return response.json();
+                })
+                .then(data => {
+                    renderMatchResult(matchId, data);
+                    overlay.style.display = 'none';
+                })
+                .catch(error => {
+                    console.error(error);
+                    clearMatchDisplay();
+                    document.getElementById('resultTableBody').innerHTML = `
+                        <tr>
+                            <td colspan="4" style="text-align: center; padding: 30px; color:#ef4444;">
+                                試合ID #${matchId} のデータが見つからなかったのです。<br>
+                                <span style="font-size:0.75rem; color:#64748b;">(確認パス: ${jsonUrl})</span>
                             </td>
-                            <td class="kill-cell" style="text-align:center;">${p.kills || 0} ⚔️</td>
-                            <td>${parseFloat(p.score).toFixed(2)}%</td>
                         </tr>
                     `;
+                    overlay.style.display = 'none';
                 });
+        }
+
+        function clearMatchDisplay() {
+            document.getElementById('info_match_id').innerText = "-";
+            document.getElementById('info_mode').innerText = "-";
+            document.getElementById('info_time').innerText = "-";
+            document.getElementById('info_players').innerText = "-";
+            document.getElementById('resultTitle').innerText = "RESULT";
+        }
+
+        function renderMatchResult(matchId, data) {
+            // メタ情報の書き換え
+            document.getElementById('info_match_id').innerText = `#${matchId}`;
+            
+            let modeText = "不明";
+            if (data.mode === "sp") modeText = "個人戦 (ソロ)";
+            else if (data.mode === "tp") modeText = "チーム戦 (個人)";
+            else if (data.mode === "t") modeText = "団体戦 (チーム)";
+            document.getElementById('info_mode').innerText = modeText;
+
+            // 時間フォーマット
+            if (data.time) {
+                const d = new Date(data.time);
+                if (!isNaN(d.getTime())) {
+                    document.getElementById('info_time').innerText = d.toLocaleString('ja-JP');
+                } else {
+                    document.getElementById('info_time').innerText = data.time;
+                }
+            } else {
+                document.getElementById('info_time').innerText = "-";
             }
+
+            const playersList = data.rankings || data.players || [];
+            document.getElementById('info_players').innerText = `${playersList.length} 枠`;
+            document.getElementById('resultTitle').innerText = `MATCH #${matchId} RESULT`;
+
+            const tbody = document.getElementById('resultTableBody');
+            tbody.innerHTML = "";
+
+            if (playersList.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; padding: 20px; color:#888;">リザルトデータが空欄です。</td></tr>`;
+                return;
+            }
+
+            let html = "";
+            playersList.forEach((p) => {
+                const rank = parseInt(p.rank_position, 10);
+                let rankClass = "";
+                if (rank === 1) rankClass = "rank-row-1";
+                else if (rank === 2) rankClass = "rank-row-2";
+                else if (rank === 3) rankClass = "rank-row-3";
+
+                let rankIcon = "";
+                if (rank === 1) rankIcon = ' <i class="fa-solid fa-crown" style="color:#fbbf24; margin-right:2px;"></i>';
+                
+                // カラー割り出し
+                let playerColor = "#475569"; 
+                if (p.color) {
+                    playerColor = p.color;
+                } else if (data.teams && p.team_id !== undefined && data.teams[p.team_id]) {
+                    playerColor = data.teams[p.team_id].color || playerColor;
+                } else if (data.colors && p.player_id !== undefined) {
+                    playerColor = data.colors[p.player_id] || playerColor;
+                }
+
+                // チーム名補合
+                let displayName = escapeHtml(p.player_name || "名無しさん");
+                if (data.mode === 't' && p.team_name) {
+                    displayName = `[${escapeHtml(p.team_name)}] ${displayName}`;
+                } else if (p.team_code) {
+                    displayName = `[${escapeHtml(p.team_code)}] ${displayName}`;
+                }
+
+                html += `
+                    <tr class="${rankClass}">
+                        <td>#${p.rank_position}</td>
+                        <td>
+                            <span style="display:inline-block; width:13px; height:13px; border-radius:50%; background-color:${playerColor}; text-align:center; line-height:13px; margin-right:4px; font-size:9px; color:#fff; text-shadow:1px 1px 1px #000;">
+                                ${p.emoji || '🐣'}
+                            </span>
+                            ${rankIcon}${displayName}
+                        </td>
+                        <td class="kill-cell" style="text-align:center;">${p.kills || 0} ⚔️</td>
+                        <td>${parseFloat(p.score || 0).toFixed(2)}%</td>
+                    </tr>
+                `;
+            });
+
             tbody.innerHTML = html;
         }
 
