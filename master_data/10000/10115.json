@@ -1,0 +1,57 @@
+{
+  "round_id": 10115,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-26T10:36:56.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "😀",
+      "score": "12.07",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇳カス] 〇ね",
+      "team": "🇻🇳カス",
+      "emoji": "👻",
+      "score": "0.32",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇻🇳カス] 山上徹也",
+      "team": "🇻🇳カス",
+      "emoji": "😍",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "12.07",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳カス",
+      "score": "0.41",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyVklESxCAIQxNc7n/lnW6rDYjMbL7QhwFF4BJJlOJPM1gbBF9K0l3TH7MX3piiufJbCf9Hr4TFOEMXKd+py61KnOqWFEKxWSOfBaQuEg6Pn+bg6Ggc3BHKvD+joBJwDAapSfoFwWdL7igAC8aNNmpmMFuUeoOHHrooKneli4cMbfV9n/UFCmUDcQ==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#c252eb",
+      "4": "#c252eb",
+      "5": "#613fe9"
+    },
+    "sz": 30
+  }
+}

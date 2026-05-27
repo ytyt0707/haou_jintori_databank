@@ -1,0 +1,81 @@
+{
+  "round_id": 21404,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-03-05T12:13:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無し2K",
+      "team": "",
+      "emoji": "🐱",
+      "score": "54.47",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 大家ぷゆゆ",
+      "team": "🇯🇵阪神",
+      "emoji": "🦁",
+      "score": "11.73",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇮🇹パスタ] アラビアータ",
+      "team": "🇮🇹パスタ",
+      "emoji": "🤖",
+      "score": "4.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] ぽんた",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 坂田将吾",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.98",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "11.73",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇮🇹パスタ",
+      "score": "4.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "4.04",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklGyxSAIQ7Fk0P2v+E6iVPH14/GhrYdEUM3sYRgwhmGHMYQeIsWmAMwM5N8UqV3SUbRJn+fL+aZVmhTAUGEV575c/Sg6OwLsr9jWAWga4655UprKuu6LTWdGxct6tluRznItVam7lldV2U5HB+DuHuGOLFrW6L33CT0iolLCDoS7N1JeoUJaUQ43ZcoLAW8tgvc/tbyGpHOpHR3xlKc6szmnds0saoYMNn23SF60ysvkNFgSPV8Oh1JPVv8vPfGb+1962Kd2S/V1FnWh4/cHp+cNNA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30d7e8",
+      "6": "#8B4513",
+      "7": "#e830a9",
+      "8": "#30e85e"
+    },
+    "sz": 30
+  }
+}

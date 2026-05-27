@@ -1,0 +1,48 @@
+{
+  "round_id": 31880,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-29T22:12:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇫🇷メロヴ] クローヴィス",
+      "team": "🇫🇷メロヴ",
+      "emoji": "😉",
+      "score": "52.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵闇金] ウシジマくん",
+      "team": "🇯🇵闇金",
+      "emoji": "🤓",
+      "score": "21.03",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇫🇷メロヴ",
+      "score": "52.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵闇金",
+      "score": "21.03",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVj0ESgDAIA9PQ/7/ZgQKC9dAZT3Ix7TaRiPgghBR1y6THIr0pjq2/fLjVbBftsPX7QNUKtID9CJIiQqzJ/8O8SikMGmH6VmCQBqeOR/hHnSSNbLSjJ6Ymp9FEyyYWHfmmYSw83rF7Ci2bR2CjUSzgnPOOjt4FdqmrlZuqw7u298baPOtcmf8I+A==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#af30e8"
+    },
+    "sz": 30
+  }
+}

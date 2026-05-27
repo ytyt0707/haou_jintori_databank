@@ -1,0 +1,61 @@
+{
+  "round_id": 15370,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-15T10:03:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵しね] ころす",
+      "team": "🇯🇵しね",
+      "emoji": "😈",
+      "score": "45.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 鮑大震災",
+      "team": "🇯🇵阪神",
+      "emoji": "😍",
+      "score": "44.54",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🦊",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵しね",
+      "score": "45.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "44.54",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵田中",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl01kOwCAIBNChc/87N9UubCVR+DK+AMEFACAzxgo6JAbAGZmio+SufkgGvfaswqDORUgtKtcqjdyVyqz7lhO50h5XNJ7k8RJalem5MKMR7+sfL3tP5U+fSdPG2T9S854LvAZJ",
+    "cp": {
+      "1": "#e2eb6b",
+      "2": "#6fe9eb",
+      "3": "#51f13b"
+    },
+    "sz": 30
+  }
+}

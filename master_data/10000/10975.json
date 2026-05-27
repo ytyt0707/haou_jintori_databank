@@ -1,0 +1,42 @@
+{
+  "round_id": 10975,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-02T02:40:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ロリレイプマン",
+      "team": "",
+      "emoji": "🤔",
+      "score": "85.58",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ころす] しね",
+      "team": "🇯🇵ころす",
+      "emoji": "😍",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ころす",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJzFz1EOgDAIA9Civf+ZDZZgRhwfTmP/yGPdBgDYPLwCGJRzrEyjg5AVaerIeVQWjcE8OmyjZq1FNW45NtZ0grp4epbtq75SvNQ83fjtvx0+bm6/utQsTQb3ejH6HITqDCY=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#eb2d5d",
+      "4": "#612df0"
+    },
+    "sz": 30
+  }
+}

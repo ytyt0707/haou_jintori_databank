@@ -1,0 +1,55 @@
+{
+  "round_id": 2651,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-08T19:42:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[Hko] さとる",
+      "team": "Hko",
+      "emoji": "🦄",
+      "score": "49.07",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧サトル] うんちまん",
+      "team": "🇬🇧サトル",
+      "emoji": "💩",
+      "score": "23.22",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[Hko] おまえアホやろ",
+      "team": "Hko",
+      "emoji": "🐱",
+      "score": "6.38",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "Hko",
+      "score": "55.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧サトル",
+      "score": "23.22",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJy11NsShSAIBdCN+///+UxeEgjDmhNPjS5BzBH4OERExtdqPooHrlmSN2zmJJiwCnnErkvYcBlrLivaXdrEcCJahqtq3Txd7+O/bqfjfn6X/+sXTodoOnL1WpYtt7O/DYcGVzVVvgOWFokjv3d85bBy+oJAJ6SFdJAzDFTjdK7RwNEztU2F1q64YeNw4+gjdzBu3QdOKKX4g7CuH0llgE1yfamj9/0Hda4ILw==",
+    "cp": {
+      "1": "#47fa98",
+      "2": "#47fa98",
+      "3": "#e76e9f"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 10389,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-31T18:59:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👽",
+      "score": "58.05",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵🇧] 任意で事情聴取",
+      "team": "🇯🇵🇧",
+      "emoji": "😍",
+      "score": "17.93",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] Lose dog",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "13.74",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "71.79",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵🇧",
+      "score": "17.93",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90ksSwCAIA9Bo4P5X7qDyKXbKss8IasldWopR6MZSOMqwm1fiSqoS5zvOmqo4fYU9WKfynX607WvtfOYP29OQ0rqCiqLJemVF1sxLtOI4J4rwvq2D6ufle+sa9XQb2lVE+typc84Xr/HGiKG8Qg2zr60ANkM5TNV1MsMAhx2n6Dy3Uh6mv9nWvMwv3TXWn7OayaaqFgZymjyRc1FBV4YK5coWlV/lZaZedpFRrg/DQQtR",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#e8eb42",
+      "4": "#e8eb42",
+      "5": "#e8454d"
+    },
+    "sz": 30
+  }
+}

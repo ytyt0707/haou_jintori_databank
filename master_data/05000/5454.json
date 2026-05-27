@@ -1,0 +1,72 @@
+{
+  "round_id": 5454,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-15T03:41:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "男の娘の金玉",
+      "team": "",
+      "emoji": "👽",
+      "score": "19.45",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ナチス] 馘",
+      "team": "🇩🇪ナチス",
+      "emoji": "🦁",
+      "score": "7.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🤖",
+      "score": "6.94",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵生パス] けんた",
+      "team": "🇯🇵生パス",
+      "emoji": "🐷",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ナチス",
+      "score": "7.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵生パス",
+      "score": "7.02",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵田中",
+      "score": "6.94",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0EsOwzAIBFCsDnD/G0f+4XGCKzWbskikvAwGi/yz3N2/a+oedYjR65VKPlWEVDXl+iyllLP29I+t16qa8IaVzWxTkKp1Hb/QTKEWHUYyUau4FItHfwEwpkJTmy6sQFdEui7QvqKX8tlNBatY590Q0eChtI9+5uibSuSoWuPbbb3SZ11b/Adx",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#41f14a",
+      "4": "#41f14a",
+      "5": "#eb377c",
+      "6": "#f6ce6a",
+      "7": "#99ea48"
+    },
+    "sz": 30
+  }
+}

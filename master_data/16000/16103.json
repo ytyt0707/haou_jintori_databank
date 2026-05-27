@@ -1,0 +1,59 @@
+{
+  "round_id": 16103,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-17T08:56:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤠",
+      "score": "49.21",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "金井聡太",
+      "team": "",
+      "emoji": "😀",
+      "score": "4.56",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "爆弾/自認レゼ",
+      "team": "",
+      "emoji": "🦄",
+      "score": "0.38",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "P255",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "49.21",
+      "kills": 14
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0uEOgCAIBGCg8/1fuU1LUeBWt/nHT7AlgGBEICHo2leSWVfpOlYptqT9cz5t04jfNbIZRcdUk2vN5oGx0dqpvlSC2tZYWTFUM5UXc5XR12v4W0p1+yrH1/9nYsNBR0dC8Ix1qVIX9z2iBFe9zw1HTgdk",
+    "cp": {
+      "1": "#b1f44e",
+      "2": "#f5552e",
+      "3": "#ed64db",
+      "4": "#32f152",
+      "5": "#66f4d3"
+    },
+    "sz": 30
+  }
+}

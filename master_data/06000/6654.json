@@ -1,0 +1,66 @@
+{
+  "round_id": 6654,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-17T20:34:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸CIA] パンテオン",
+      "team": "🇺🇸CIA",
+      "emoji": "😂",
+      "score": "33.23",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "😎",
+      "score": "8.02",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳チギュ] 爆弾/自認レゼ",
+      "team": "🇨🇳チギュ",
+      "emoji": "🦊",
+      "score": "3.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "😍",
+      "score": "3.57",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸CIA",
+      "score": "33.23",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳チギュ",
+      "score": "11.63",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90gEOxCAIBEB6CP9/8gUFpHWRpG3iZBWtRKWUdH2tfEz2SK0dYj50EwN1lqnKSkA5y9gbAsr66u5QRSrBkf2V7YoY28vGlmXLC10tWNVZUlc2D0pmUeD3HKdnt88H4w8VBUy3rPNzLHxkLytj9fExkOpFHcYge1ByRMFZG9W9ZjNtu5V1y8plw1lA2zts6g9M6gkX",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#35e335",
+      "4": "#9c41ec",
+      "5": "#35e335",
+      "6": "#fae052"
+    },
+    "sz": 30
+  }
+}

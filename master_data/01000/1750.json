@@ -1,0 +1,88 @@
+{
+  "round_id": 1750,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-06T17:37:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇩🇪ナチス] 男なら自死",
+      "team": "🇩🇪ナチス",
+      "emoji": "😀",
+      "score": "33.29",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵大日本] 大日本帝国",
+      "team": "🇯🇵大日本",
+      "emoji": "🦊",
+      "score": "11.12",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ナチス] ナチス",
+      "team": "🇩🇪ナチス",
+      "emoji": "👽",
+      "score": "8.32",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪ナチス] パイソン",
+      "team": "🇩🇪ナチス",
+      "emoji": "🐶",
+      "score": "4.98",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐷",
+      "score": "2.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "青森県",
+      "team": "",
+      "emoji": "🐷",
+      "score": "1.57",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ナチス",
+      "score": "46.59",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵大日本",
+      "score": "11.12",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "2.72",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl1FkOxSAIBVC5Cvtf8ksrWgcoNo+k/fFEwCmlg0AIWrjDD/EdAEHomJk140terpGC+ZQxzhxFrkrQCq0+RI6c3I4CJ1dQ5ES6m6XtsEKb6XyDPHWw3VZhKaG7/sV1aI6ISnHdPT4yw2lJLavHBjq48r+rR/o173ycN9bocu6JsLnT+5E+3aNVqeM5dlUdx46/uPqidJZzxvVF9eUaVr/69mjWyPXqdoZn2e5yO1zaeNYZ/l5M7m3T3HfciB+Ouwv1",
+    "cp": {
+      "1": "#e75aaf",
+      "2": "#e75aaf",
+      "3": "#84f967",
+      "4": "#fca440",
+      "5": "#78d0ed",
+      "6": "#e75aaf"
+    },
+    "sz": 40
+  }
+}

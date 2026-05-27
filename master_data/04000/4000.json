@@ -1,0 +1,95 @@
+{
+  "round_id": 4000,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-11T20:54:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦊",
+      "score": "29.46",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] うんこ、な？",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "22.98",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🦁",
+      "score": "15.34",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "💩",
+      "score": "1.36",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[みん²] ゆゆうた✕やす子",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "0.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵飽きた] 陣取り飽きた",
+      "team": "🇯🇵飽きた",
+      "emoji": "😀",
+      "score": "0.05",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "52.60",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵田中",
+      "score": "15.34",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "うんち",
+      "score": "1.36",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵飽きた",
+      "score": "0.05",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9k1sShSAMQ4Okmbv/Fd+h0KKA5genh9AHCECS8CI99PukJLlA7Jgn68CMQjaqA23rlXg2IZNUaxWu9Cpr80itdeZwONxq5uZ9lOWHMyY1vQF7a5IMNrx8qlMz848FikHNsMJWtgXGCilYChsWWzz37Hnd9UVTETxSLpT3k4lpYu++U6xZ85U4xalfh+E13uzYaEuNHOJO/cbHu+hz3ujQ2BSxslBMWkp5+5de9QcOoAvW",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#ed2c66",
+      "4": "#73ed8f",
+      "5": "#bef948",
+      "6": "#73ed8f",
+      "8": "#73ed8f"
+    },
+    "sz": 30
+  }
+}

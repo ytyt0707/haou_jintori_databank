@@ -1,0 +1,96 @@
+{
+  "round_id": 4473,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-12T22:33:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "🤖",
+      "score": "25.81",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[蝸牛] 八九寺",
+      "team": "蝸牛",
+      "emoji": "😈",
+      "score": "9.43",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "6.13",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "愛城華恋",
+      "team": "",
+      "emoji": "🤠",
+      "score": "5.52",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ぷゆゆ] bot1",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🦊",
+      "score": "1.32",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵ぷゆゆ] 俺‼️俺俺俺俺❗",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "😍",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ローマ",
+      "score": "25.81",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "蝸牛",
+      "score": "9.43",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "6.13",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "1.39",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0lEShSAIBVA0eN39r7gJRUGxmXc/nOiIaUWUBTqgFZeFdSRYFlVGrqyKT/W9tQZl/9i4ra40sU7lpr619iNe1DGq8UGrvhd05uW4r7fLfMuUq0NAVyZa1aqGJyVm2XV8SRGRXS3yE0m2PBg+/ykkgxL/uKWrDNgo9m1aDnNdbo0VmVnyzhN/985J4cYDB9QLGw==",
+    "cp": {
+      "1": "#41b3f1",
+      "2": "#6970f7",
+      "3": "#2eea51",
+      "4": "#f39d35",
+      "5": "#61f5d2",
+      "6": "#61f5d2",
+      "7": "#8628f0",
+      "8": "#bde75a"
+    },
+    "sz": 30
+  }
+}

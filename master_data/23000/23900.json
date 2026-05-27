@@ -1,0 +1,42 @@
+{
+  "round_id": 23900,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-11T18:43:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛牛武] 甲基",
+      "team": "猛牛武",
+      "emoji": "🤠",
+      "score": "20.72",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しi3",
+      "team": "",
+      "emoji": "🦁",
+      "score": "2.94",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛牛武",
+      "score": "20.72",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kdEWwyAIQwPy/9+8k0Spdm590NZLEqSZlwcALsc6GoQ/OMYY+ZdaffMGxj/40EtrQw/BrbFFkYc02IVSFayvV2O+qdfsiQARETuTr7mOIzyFVcMgWfOgtV0zUyd8WXfuobVz+kq+N1BnU7oRqkpBVdasVTSrdO51Ie5smbDg7VBrcKK9bFr/hSYy6QBBKPeskIGMV+LGp3s7z55mxU5PooLG+Y4V8WA4ji2Qr1PH7Zs+kGzXPmQpE3UZoin/3QdAAAWs",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d73e5",
+      "4": "#a74de5"
+    },
+    "sz": 30
+  }
+}

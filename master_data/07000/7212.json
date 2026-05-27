@@ -1,0 +1,63 @@
+{
+  "round_id": 7212,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-19T02:44:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳自民党] 武石かなえ",
+      "team": "🇨🇳自民党",
+      "emoji": "🤖",
+      "score": "9.93",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "9.30",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳ゲスト] ゲスト",
+      "team": "🇨🇳ゲスト",
+      "emoji": "🐶",
+      "score": "9.02",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳自民党",
+      "score": "9.93",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "9.30",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳ゲスト",
+      "score": "9.02",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0FEOhDAIBNDZwtz/yhsF7VSKH05iTPqANuC3BHBISPIikh5Rvq3y7N2xDIZw0WymO+XmaVKAlRUXPQoAuPNWPHO85dKCwVFSW7WiweTdoUzf96Ef+jFj5Owq+QEWaFs1M4tfp5HHnTm56og0zVOtVXSKN5VlbHuxvrmsKvUsqIts8wetSQSC",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#7cef34",
+      "4": "#e5ca43",
+      "5": "#24f540"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 11237,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-02T16:50:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "57.36",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸アメリ] 高市殺害事件",
+      "team": "🇺🇸アメリ",
+      "emoji": "💩",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "57.36",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸アメリ",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF09EKwCAIhWHTvf8zj2GRmf3sZkwIgq+TdpEIlnl9p3ahcvadtgqnPgXqa9N4om1952Tj8pCNc3c+qOTw+uiUTWd8U6kNAu2z/KI8FfqiijeTqnK26Isqdv4IIjdG8gY7",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#5ec4f7",
+      "4": "#6953f3"
+    },
+    "sz": 30
+  }
+}

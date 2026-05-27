@@ -1,0 +1,52 @@
+{
+  "round_id": 9217,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-24T10:02:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐶",
+      "score": "57.02",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] 安倍晋三",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "17.98",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] パンテオン",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "14.97",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "89.96",
+      "kills": 21
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90QEOhSAMA9D6a3f/Ixu3wYbiXzRo3ioCABiFXaXR7ttMlhX9Q2Jo5lzoDRmmJH9lr5lFKPfKnQ4O/Kv2obBQfE7suv+y1aznRk3KxZ7nOy3JxHeNbC6ql8Zp3Fsp4rGXkr8iNVEzPNtcvXNVTZ2tNfrp+S+Xij2mR3ajQv+J+vKXNtPrFCoZy+5uFWdo1DHY1PYXC9IP56FHFPmzmrPpfXHZCH9e5gUoTIVwAX8fDKc=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#ea9a3e",
+      "4": "#65a4f6",
+      "5": "#ea9a3e",
+      "6": "#ea9a3e"
+    },
+    "sz": 30
+  }
+}

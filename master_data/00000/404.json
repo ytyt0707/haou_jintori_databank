@@ -1,0 +1,108 @@
+{
+  "round_id": 404,
+  "game_mode": "TEAM",
+  "player_count": 14,
+  "played_at": "2026-01-03T16:18:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[さとる] 矢野",
+      "team": "さとる",
+      "emoji": "🐶",
+      "score": "22.82",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[草2] 草",
+      "team": "草2",
+      "emoji": "👻",
+      "score": "15.82",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[赤軍] 毛沢山",
+      "team": "赤軍",
+      "emoji": "🐱",
+      "score": "12.89",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[赤軍] 全員ぶっ倒す！",
+      "team": "赤軍",
+      "emoji": "🦄",
+      "score": "6.82",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[草] 伊達綱村",
+      "team": "草",
+      "emoji": "👻",
+      "score": "0.03",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "ぬるぽ",
+      "team": "",
+      "emoji": "🦄",
+      "score": "0.00",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[阪神] 前川右京",
+      "team": "阪神",
+      "emoji": "😍",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "さとる",
+      "score": "22.82",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "赤軍",
+      "score": "19.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "草2",
+      "score": "15.82",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "草",
+      "score": "0.03",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "team_name": "阪神",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJy91oGOwyAIBmBOFn3/N16spxX4sThvR7JkMX4FRZsS2SgFDILIPYqKHfxoU/21YO62FIAlU8HcdDXWpid66WGztMmjPCj1koWtc1aUhjVFJ98yy7yFJNbrW1q14hC9rYwTWxdpW2NKtnbVWWtla3es6s/yMEKbnfMfsu1ognsmLV1HStsWa9tG4pY0/dXGAnrjaQjYFRVj1vqUlO13UFA9B1Y8VjxkxS4lS1nUbKaALb4ksNmBqGBjs2NRxYu86ihCG8jq2KlHeoPJxfNLJ3ALUMl/ZK2HF+imukfOVpuU8P5aS47lpb2f8YlNB3Z+AqCRt07DLC1vWYQfLX1i+6rMYq0Fqdq3Bcaz/UF1TvuylRYViq2zQRH6j2nF0Tiwm1J0fpd69vU6tic1B/bqW9bHz9TH37YODtHrHaee1f+/Ade3He4=",
+    "cp": {
+      "1": "#eea78b",
+      "2": "#74e78f",
+      "3": "#eaa0ee",
+      "4": "#e873a4",
+      "6": "#8da8f2",
+      "7": "#8da8f2"
+    },
+    "sz": 60
+  }
+}

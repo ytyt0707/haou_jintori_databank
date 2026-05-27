@@ -1,0 +1,78 @@
+{
+  "round_id": 35744,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-08T09:05:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[巨人] 小笠原",
+      "team": "巨人",
+      "emoji": "🤗",
+      "score": "10.49",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきこ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "9.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[阪神] ドリス",
+      "team": "阪神",
+      "emoji": "😀",
+      "score": "6.53",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[日ハム] 細野晴希",
+      "team": "日ハム",
+      "emoji": "😃",
+      "score": "0.93",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "巨人",
+      "score": "10.49",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "9.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "阪神",
+      "score": "6.53",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "日ハム",
+      "score": "0.93",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHN0EkShDAIBdBPBu5/ZIspErFTvZRFyvjyCQps1fu2xbTSl10ru+sEYJjTgfPM0u8RJsS9ExhZCSBVPSAY6je76pDj7ixKYtJZ1iGYs2SsuiE8K65R7b2if6vF1hr/Uu61wRb5YL5/1XWWoB+19p98aMepqrIXgPZbGdxa8cgyqz7iSXHMvk2cw8UTckEgcdUL+JQEmw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83098",
+      "4": "#514de5",
+      "5": "#30e83c",
+      "6": "#30e892"
+    },
+    "sz": 30
+  }
+}

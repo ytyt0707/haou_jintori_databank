@@ -1,0 +1,47 @@
+{
+  "round_id": 3554,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-10T20:33:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸うんち] ばななうんち",
+      "team": "🇺🇸うんち",
+      "emoji": "😎",
+      "score": "33.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇮🇳賊軍] 🔰",
+      "team": "🇮🇳賊軍",
+      "emoji": "🦁",
+      "score": "1.22",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸うんち",
+      "score": "33.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇮🇳賊軍",
+      "score": "1.22",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy100sOgCAMBNAJ5f5nNlSQX4FBsQsT8WVaUAHApUIo/5TexQV9lKVLy74ppKocCIem+51eOLUWa/LSZe5QtRzPl6vLspiFaGZ2tbDhNDRTzGA3wJC1vSmHA3kvB/zu8JPDyoHMq368Y3n0+Ql5zLQjoTpmGwHOXJQiImsnyhaBmwNuvA+irX4JjFvmgXVlXdM9CRQ=",
+    "cp": {
+      "2": "#e65cbe",
+      "3": "#e6bf6b",
+      "4": "#99ef52"
+    },
+    "sz": 40
+  }
+}

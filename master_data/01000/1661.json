@@ -1,0 +1,49 @@
+{
+  "round_id": 1661,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-06T12:08:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "👻",
+      "score": "22.14",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🐱",
+      "score": "1.12",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "🐱",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "仙台藩",
+      "score": "22.14",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJztkFEOwCAIQ7G7/52XEd2GFGXZL000gi9SK/JfrS/TGzp0N70Fd122R4TjyoLfuTUZfHrDxSxLN4flOSADAoB/cxrYyXGm3F1DC+PW+9fBL06CkKH+iBs3GHPbJ8JiKpVKW51T2wGJ",
+    "cp": {
+      "1": "#f66f5a",
+      "2": "#93ed91",
+      "3": "#ac70f0"
+    },
+    "sz": 40
+  }
+}

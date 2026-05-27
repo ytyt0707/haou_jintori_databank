@@ -1,0 +1,145 @@
+{
+  "round_id": 57122,
+  "game_mode": "TEAM",
+  "player_count": 20,
+  "played_at": "2026-05-23T13:55:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] アヌケト神",
+      "team": "ラー軍",
+      "emoji": "😥",
+      "score": "21.32",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[草民] 草の民",
+      "team": "草民",
+      "emoji": "🍏",
+      "score": "11.92",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] はじまん",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "9.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[草民] 草津白根山",
+      "team": "草民",
+      "emoji": "⛰️",
+      "score": "7.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[草民] 大草原",
+      "team": "草民",
+      "emoji": "🌳",
+      "score": "7.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵自民党] 殺すぞ",
+      "team": "🇯🇵自民党",
+      "emoji": "🤡",
+      "score": "5.95",
+      "kills": 7
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[わい軍] も",
+      "team": "わい軍",
+      "emoji": "🥰",
+      "score": "4.95",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[草民] 花沢輝気",
+      "team": "草民",
+      "emoji": "🌐",
+      "score": "4.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[わい軍] わいちゃん",
+      "team": "わい軍",
+      "emoji": "😀",
+      "score": "2.19",
+      "kills": 0
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[ラー軍] ホルス神 𓅃",
+      "team": "ラー軍",
+      "emoji": "🦅",
+      "score": "1.83",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "草民",
+      "score": "31.60",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "23.52",
+      "kills": 19
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "9.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "わい軍",
+      "score": "8.96",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵自民党",
+      "score": "6.76",
+      "kills": 18
+    }
+  ],
+  "minimap": {
+    "bm": "eAFlkdt2hCAQBEcJMIzCicj/f2tOzyW6ST8sD2VXo0t0WmqtRdObh4gCnkpGKaUq7MfR2kMFeJTSe6u19wOKX1qVXuUqXXPAwL56mrmM67p66x16YqbkXMVjiAhatd93Y06fVBDQ+2YGNVywq1WngKCKnX5Ztzatvqh8DxnWDjFTSnOepeigiNG67yrmhO9FQXFlEflLvWoHsVc5zYnyJ93DPJEXxaWJo6x0TleGmXeE2WjOIuKPiBAxgwedM2eldgEitmU3a1nEJygwWnlOmJG4gLqZs+XhNqDTQec/uqHtXay7GwfRtgHvbrYjHsDX24j2T5pFllb1r6F3F/ac35QozPreKeW1MBt5aNKs9YLRXcbwm6NIjznNRZTU9KI/xNMcOA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4b611",
+      "4": "#e83030",
+      "5": "#d4b611",
+      "6": "#e83030",
+      "7": "#e86430",
+      "8": "#9ca3af",
+      "9": "#e86430",
+      "10": "#30c6e8",
+      "11": "#30e83c",
+      "12": "#d4b611",
+      "13": "#e86430",
+      "14": "#30c6e8",
+      "16": "#e83030",
+      "17": "#e83030",
+      "18": "#d4b611",
+      "19": "#e86430",
+      "20": "#d4b611"
+    },
+    "sz": 30
+  }
+}

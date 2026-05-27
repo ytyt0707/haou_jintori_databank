@@ -1,0 +1,56 @@
+{
+  "round_id": 17815,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-24T06:47:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 練習",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "30.64",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "12.78",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "💩",
+      "score": "2.37",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "43.42",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "2.37",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lESgCAIBFBiuf+ZmyIUVoKPJn1g0CiS4qIQilll1oYVV4u+C2CoBbJLpx2vk5N3pQBUs/urqi7dHF95Nnfw/FU1txeKpPivpem8G1JNmo7lYs/9Mt7MQyPleZTGwDEpDeVNFK4TRZjZrHb+jYFZrd6TjnuNkMqUyHfg47q8AQP8BOQ=",
+    "cp": {
+      "1": "#c353f3",
+      "2": "#f84fb4",
+      "3": "#f84fb4",
+      "4": "#f88d4f"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "round_id": 31208,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-03-28T09:35:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] シャクドウ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "27.46",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂ソルベ] ゴーカンマ原唯之",
+      "team": "🍂ソルベ",
+      "emoji": "🐷",
+      "score": "19.42",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 悪童",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "11.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵山本組] 山本",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "10.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 運",
+      "team": "🇯🇵ONJ",
+      "emoji": "🎰",
+      "score": "8.35",
+      "kills": 9
+    },
+    {
+      "rank_position": 6,
+      "player_name": "不殺の誓い",
+      "team": "",
+      "emoji": "🕊️",
+      "score": "5.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇸🇦ウルク] アナルアサシン",
+      "team": "🇸🇦ウルク",
+      "emoji": "⛩️",
+      "score": "1.64",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇸🇦ウルク] バビロニア帝国",
+      "team": "🇸🇦ウルク",
+      "emoji": "🛕",
+      "score": "1.63",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "38.46",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂ソルベ",
+      "score": "19.42",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵山本組",
+      "score": "10.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ONJ",
+      "score": "8.35",
+      "kills": 9
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇸🇦ウルク",
+      "score": "3.27",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkduyxSAIQ6mhiv7/B58TQNpOO7Pz0AvLBFRpIWmt2Uusul6EhU2/oXTqil2r1onZdMoFXl1BxX/kon17lg0TTxCJZAYUXWusNeyAXbAo0VoHANxo9DIbYwwzI0VN1W+UTaCqmDtAJLG/AFIVYvTeiobPoUrA3lp6z7SpQjWaT0JGniGmUpgucZmd4lhVOfQRcBbdXjC1aCc37GRvCElvmDd1I7eaFB6N9IbzF90jd6UZOHlG24qkU5NewL+qMeLYnljS7if6RByalzjnZNO33Ns/aM3GPW9vHL7fwCPK67fHA8Z1f9Aq5WQSK/9n/gPDKhEX",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8B4513",
+      "5": "#e87530",
+      "6": "#9ca3af",
+      "7": "#3081e8",
+      "8": "#8b4de5",
+      "9": "#ced411",
+      "10": "#3081e8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 20280,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-02T22:35:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🤠",
+      "score": "42.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] あの丘のマリア",
+      "team": "猛虎軍",
+      "emoji": "💩",
+      "score": "5.91",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "42.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "5.91",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk0kSxCAMA4XN/988JXnBITkMh4SikbwlANZaZoDxcS93UePyXoDr4jd1v6kPrUwASLtkTGu0ecgXV9JLrYyJmfIjr5SyolBPU+6ZdcOnLRMozFYUZaaxUhttOme9y5jsYp5571o76Lk345bdQ6ukX7XqalX0RTWkrNj23pVWvJNCfd43LgpOAYG7rpywPhozWu89R4gizEp0Bv+fKm7Err7k0Gkc1Id1h0XTHgFzlqoqe1c8f4HT/4o86XAVzpLK+mCeeMT9+r8k+AH4+gbN",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#d4c811",
+      "4": "#30a3e8"
+    },
+    "sz": 30
+  }
+}

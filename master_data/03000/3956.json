@@ -1,0 +1,63 @@
+{
+  "round_id": 3956,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-11T18:32:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇸🇦石油王] ウンコマン",
+      "team": "🇸🇦石油王",
+      "emoji": "🦁",
+      "score": "24.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ナチス] 馘",
+      "team": "🇩🇪ナチス",
+      "emoji": "🐱",
+      "score": "3.47",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵まん汁] 曼荼羅",
+      "team": "🇯🇵まん汁",
+      "emoji": "🐲",
+      "score": "0.19",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇸🇦石油王",
+      "score": "24.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "3.47",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵まん汁",
+      "score": "0.19",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0FkOgDAIBNAp4P2vbFoqstk4PxpeWFJghjQgAgj69WC8IzNJI0pubtQ2oOq7fl3U6CwwE+jax2UFM+N6ZrS6IxIVSzUiWUkBQKMAP4Mdmq6jw86sOCmoaHisbBm/VNnKB7UhXuMTpr32a91wvciRUvF40HRVnVt1nHrHjKE0OIZ1fw3+lRu0tQUI",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#c061ef",
+      "4": "#95e637",
+      "5": "#ec8f6a"
+    },
+    "sz": 30
+  }
+}

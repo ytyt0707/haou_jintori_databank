@@ -1,0 +1,41 @@
+{
+  "round_id": 19039,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-28T03:06:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[LDH] TAKAHIRO",
+      "team": "LDH",
+      "emoji": "👻",
+      "score": "39.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[LDH] Atsushi",
+      "team": "LDH",
+      "emoji": "🐱",
+      "score": "1.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "LDH",
+      "score": "40.64",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzl0sEOgCAMA9C1+/9/Nm5GEygN8eLBHXkUtmQRfyhWORN8HpGaOVVa5TcatNG9lwHAamdzVlQ2tKJMfXwrrHbXqV/umcb41fJi5MVevNDxitB4NuYADGUDBg==",
+    "cp": {
+      "1": "#ef34c0",
+      "2": "#eade3e",
+      "3": "#eade3e"
+    },
+    "sz": 30
+  }
+}

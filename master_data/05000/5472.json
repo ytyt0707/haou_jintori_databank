@@ -1,0 +1,97 @@
+{
+  "round_id": 5472,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-15T04:39:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇰🇷チョン] ばーか",
+      "team": "🇰🇷チョン",
+      "emoji": "🐶",
+      "score": "20.19",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵子犬] 山上徹也",
+      "team": "🇯🇵子犬",
+      "emoji": "👻",
+      "score": "3.58",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "これでは砂袋にも",
+      "team": "",
+      "emoji": "💩",
+      "score": "1.01",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵子犬] クロン",
+      "team": "🇯🇵子犬",
+      "emoji": "🐷",
+      "score": "0.13",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇷🇺ぷゆゆ] あなるまる",
+      "team": "🇷🇺ぷゆゆ",
+      "emoji": "😎",
+      "score": "0.11",
+      "kills": 10
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "🐷",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷チョン",
+      "score": "20.19",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵子犬",
+      "score": "10.22",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺ぷゆゆ",
+      "score": "0.11",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "team_name": "チー牛",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJytkFEOwyAMQxM8Unz/C0+UNoMSmCbNP6A87ISIBEpRsRHXlg4R5eEcaClBcNrSTVsd6mZO66n6sb/EGr0jtKcVOq52Teq97RI9XLvJmtPs8Cx9zg0gm1lu09WMEQIwAHd7meipaQsk17B0dF4gSeazrcWQEjkLLwEgQ5/rNzpiyPiEgf5DA7we+htc/apdu/obqLAJNA==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#6a32ec",
+      "4": "#44d1f8",
+      "5": "#6a32ec",
+      "6": "#6a32ec",
+      "7": "#a2f63c",
+      "8": "#ee792b",
+      "9": "#ec5194"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "round_id": 23802,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-03-11T13:23:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵さとる] 強くなる",
+      "team": "🇯🇵さとる",
+      "emoji": "🌀",
+      "score": "29.75",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵猛虎軍] 名無しgM",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "😈",
+      "score": "28.08",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しAH",
+      "team": "",
+      "emoji": "🐱",
+      "score": "8.52",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 坂田将吾",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵猛虎軍] 山上徹也",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "👽",
+      "score": "1.07",
+      "kills": 9
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵猛虎軍] 名無しfN",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🙁",
+      "score": "0.50",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵猛虎軍] help",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "😞",
+      "score": "0.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵猛虎軍] ぷゆゆ✌️🥺",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵さとる",
+      "score": "29.75",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "29.74",
+      "kills": 23
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "2.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9ktsSxCAIQ1HWC///wzshQnXsLg/W9pCA1FojBDGPkINd1LHLbukUkVoTurEowisAvlJPOSg7onbRzZnUv2PxguEcZzmpoO7KNLOiZXE2O7tqFxkiYq2VEpTWqr2PMYaYtAYc3vCEASngJl3Vnmm0VlpLLa2Tml7WyTiGbRhqyT5mZtEPnngJCnZRapXswO4zH7JS6E6rv9QkTXPjYr7N/Lht0LHHi9ab+039tNT+aGtp9aq8dYWxMi/XjWKbv4wJD/VdLBuME4kWXCjDxH026neQmV95sRBC",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#85d411",
+      "4": "#85d411",
+      "5": "#8B4513",
+      "6": "#85d411",
+      "7": "#85d411",
+      "8": "#30a3e8",
+      "9": "#e83064"
+    },
+    "sz": 30
+  }
+}

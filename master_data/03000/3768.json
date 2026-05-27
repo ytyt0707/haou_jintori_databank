@@ -1,0 +1,47 @@
+{
+  "round_id": 3768,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-11T08:10:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ぷゆゆ] よっぴ",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🤠",
+      "score": "23.67",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇵🇭楚] クソゲー",
+      "team": "🇵🇭楚",
+      "emoji": "💩",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "23.67",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇵🇭楚",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0eEOgCAIBGDw3v+dW3NY4AGtul/q5w1bIjMQATAXIbAstZ3TdXhbBr66vA1X7ZQ7e/g5cNO9nn441TCApVQIfVRsJ+h/AuccXbRh1fJGxx9mP9PxQg1HxWX1xxzvqQKc",
+    "cp": {
+      "1": "#e368ee",
+      "2": "#74a8ec",
+      "3": "#ef4d9b"
+    },
+    "sz": 30
+  }
+}

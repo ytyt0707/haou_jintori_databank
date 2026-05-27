@@ -1,0 +1,83 @@
+{
+  "round_id": 7716,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-20T06:00:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "29.86",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "20.05",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵晋] 安倍晋三",
+      "team": "🇯🇵晋",
+      "emoji": "🐱",
+      "score": "13.66",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "24歳引き籠り",
+      "team": "",
+      "emoji": "👽",
+      "score": "2.81",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵晋] でじこ",
+      "team": "🇯🇵晋",
+      "emoji": "👻",
+      "score": "0.56",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "覇王w",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "49.91",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵晋",
+      "score": "14.22",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF01EOhCAMBNDRCSP3P7GByrYFcedH44NSGwU+o3BfRmiXvPIxFHLV4jFOypn9bJJ5M5uqhw1xbRXA1ZIVsrobtYbamsvZugiqqKUX85H9do9pZSUhVLBW2hvEWfdHGpbrGoZgLrznBZPTBvbMdGJ5HKVVwwLTg1uVjkN6ZfzXNd70m6p3bOfuMyk+NeTU+aIYKJz5T7EvEKMscAMb8AvQ",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f72289",
+      "5": "#da38e5",
+      "6": "#f72289",
+      "7": "#ebf85d",
+      "8": "#da38e5"
+    },
+    "sz": 30
+  }
+}

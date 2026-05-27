@@ -1,0 +1,63 @@
+{
+  "round_id": 14678,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-13T18:32:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "💩",
+      "score": "13.76",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇸🇦過激派] イスラム教徒",
+      "team": "🇸🇦過激派",
+      "emoji": "👻",
+      "score": "10.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵おあむ] 麻原将校",
+      "team": "🇯🇵おあむ",
+      "emoji": "🐷",
+      "score": "0.27",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "13.76",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇸🇦過激派",
+      "score": "10.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵おあむ",
+      "score": "0.27",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10FEOwCAIA9BuyP2vvKDOgUp/zPqjyUsVBUb0XW2jIiJw6AII0drMu7Mq7Xorhd7Lp2oK7HntOu4jRx2eqP3ih4v2ME1PjuVMNy+aeXtp0Cvvm9ZQpd1/Dk6F6H3QPc8D5mEDvw==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#5691f0",
+      "4": "#8df26e",
+      "5": "#eeab4f"
+    },
+    "sz": 30
+  }
+}

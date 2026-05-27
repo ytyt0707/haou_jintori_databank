@@ -1,0 +1,72 @@
+{
+  "round_id": 15254,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-15T02:50:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] チギュアってて草",
+      "team": "みん²",
+      "emoji": "😍",
+      "score": "27.69",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵雑魚] うんち",
+      "team": "🇯🇵雑魚",
+      "emoji": "😍",
+      "score": "10.60",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐲",
+      "score": "1.40",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😀",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "29.09",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵雑魚",
+      "score": "10.60",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNkAsOwCAIQ5Fidv8bL/4QBJcRkykvpWVEl6q1Vr2uhq8f1HxT6UXsE3xqT2w6ROd096Ig3w+KUEQbkzlnyX7g6XXBVpssFcUtizhY0vlzMDf6nCNkUY4GuzjHGEm5jw4JodrtCkBvi5ZSFDYOpQM5CkPZ7AuDQ2TYCusqsPKE0gdNIU2/fjI+2h3gBSRTBnM=",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#e1f73b",
+      "4": "#e78d55",
+      "5": "#e78d55",
+      "7": "#47f0cb"
+    },
+    "sz": 30
+  }
+}

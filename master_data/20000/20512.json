@@ -1,0 +1,142 @@
+{
+  "round_id": 20512,
+  "game_mode": "TEAM",
+  "player_count": 23,
+  "played_at": "2026-03-03T11:30:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 正体不明",
+      "team": "猛虎軍",
+      "emoji": "🐲",
+      "score": "28.86",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🤔",
+      "score": "20.92",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] レオン",
+      "team": "猛虎軍",
+      "emoji": "🐲",
+      "score": "10.04",
+      "kills": 14
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🐶",
+      "score": "9.01",
+      "kills": 12
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇦=△=] (・3・)",
+      "team": "🇨🇦=△=",
+      "emoji": "😍",
+      "score": "2.51",
+      "kills": 11
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] ゲスト",
+      "team": "猛虎軍",
+      "emoji": "🐲",
+      "score": "2.39",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🍂たぬき] ベネット",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.16",
+      "kills": 24
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[猛虎軍] 爆弾/自認レゼ",
+      "team": "猛虎軍",
+      "emoji": "🦊",
+      "score": "2.03",
+      "kills": 8
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[小谷城] 名無しDB",
+      "team": "小谷城",
+      "emoji": "🤔",
+      "score": "2.00",
+      "kills": 5
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[猛虎軍] てすと",
+      "team": "猛虎軍",
+      "emoji": "😀",
+      "score": "1.74",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "66.13",
+      "kills": 60
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "9.01",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "team_name": "小谷城",
+      "score": "3.07",
+      "kills": 12
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇨🇦=△=",
+      "score": "2.51",
+      "kills": 11
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🍂たぬき",
+      "score": "2.16",
+      "kills": 24
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kt1uhTAMgz0ZIbOo47S96Pu/6eS0cH605Qr4asdJAd5K0npvzQ/bBgGSeu/7jqSBNqvWumnV1+6SFDEhXqmS7umd+J0i8WxsjFq329miO5Vbo261MpN2KZwupQM3lUh0A8fbgX2McG5rRWNGKELCjohRSlJUGtEnTBGuUoqHAuZ3TblHfRiPUjJ0bmJ60zAej+QJM0hap0nSNJ/O1pr2K9tk4W0Cy5R9GfCmQUDOPMg+8fCoq9guRZ90uCKONCYuKs9GGvI4jrxCO3sNoua5i7bWWvaVNyytWDFiHC40WtsFWn6FjjBszZEsy40sa98G/qDzMsgg3TWnyZ6SxtyYc5P2vWk6n+dJfh8JD65FPPuaftblrDPFH3jmPfUPzZkE3MavDbzA519MACdI/NBXgF8rQxqR",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#30a3e8",
+      "4": "#e83030",
+      "6": "#8B4513",
+      "8": "#30a3e8",
+      "9": "#e830ba",
+      "10": "#36e830",
+      "11": "#30a3e8",
+      "13": "#30d7e8",
+      "14": "#30a3e8",
+      "15": "#30a3e8",
+      "16": "#994de5",
+      "17": "#e83030",
+      "18": "#85d411",
+      "19": "#30a3e8",
+      "23": "#30a3e8"
+    },
+    "sz": 30
+  }
+}

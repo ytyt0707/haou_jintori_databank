@@ -1,0 +1,133 @@
+{
+  "round_id": 666,
+  "game_mode": "TEAM",
+  "player_count": 13,
+  "played_at": "2026-01-04T06:25:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🦀] 🐙",
+      "team": "🦀",
+      "emoji": "🦄",
+      "score": "18.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "12.37",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "😍",
+      "score": "9.62",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] ベネット",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "8.16",
+      "kills": 13
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "5.41",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] 共感性羞恥心",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "4.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] じゅじゅ",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "2.81",
+      "kills": 7
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[みん²] OGポギ",
+      "team": "みん²",
+      "emoji": "🤖",
+      "score": "0.56",
+      "kills": 3
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[デカ女] さとる(本物2)",
+      "team": "デカ女",
+      "emoji": "😍",
+      "score": "0.47",
+      "kills": 5
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[みん²] あおｈぎうｗ",
+      "team": "みん²",
+      "emoji": "👽",
+      "score": "0.16",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "27.52",
+      "kills": 29
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🦀",
+      "score": "18.13",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "6.13",
+      "kills": 14
+    },
+    {
+      "rank_position": 4,
+      "team_name": "デカ女",
+      "score": "0.47",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF00FywyAMBVD5q6gE4ftftyNAQHBw0m76s7AzfiNLBkin0D7dwELIFn+YPO5gvxZ3aQ6pkolWkIBMO4ceZur10uoUE8RxHEiXWH+zUuAAXsGp3pffLEakOH+qfdyVyfRehd2V7+f1xJlQc3Vm1VA+szl5PESclXp9CtUQMjIMSk1zyeshxohQnWWwOqz3x4gxhBAKwsqS11ONMWotlTNWVVztTJXRHHnvT4waAxtjb/6ybFSZsubmrms2F2SlzMy8ZXWn2lVEXru+9dHYPOjYqstBeXbjgNywm2M3nGzYeZaLfZK2sDtXIBO1LbB54VnD9V/O+3I1d83P8EP3jv3SvWVjkHt+np/Bf3Dff623RUPeEyL6AbV4Hx0=",
+    "cp": {
+      "1": "#f764a4",
+      "2": "#75f080",
+      "3": "#75f080",
+      "4": "#f764a4",
+      "5": "#f764a4",
+      "6": "#75f080",
+      "7": "#ecb08d",
+      "8": "#ccfc55",
+      "9": "#83f6e9",
+      "10": "#83f6e9",
+      "11": "#f764a4",
+      "12": "#75f080",
+      "13": "#9d88f1"
+    },
+    "sz": 40
+  }
+}

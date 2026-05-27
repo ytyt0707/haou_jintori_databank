@@ -1,0 +1,42 @@
+{
+  "round_id": 56328,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-21T19:00:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 屈原",
+      "team": "楚",
+      "emoji": "😣",
+      "score": "83.86",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 水",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "7.54",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "91.39",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkksSwCAIQ6Hh/mfu0BpNpZ/pdFU2xjxhULHQgLUA4O5mDYIRFO7wRmnJ2ql4XboDyNzuwIbclCmcWOYWSwzWWsQbkhSnuNORIOoLlTK/kQ/3vcX2kvLDA9sMHt+IU5iHSuEdZsIlZbXS02GQZhqRFRmVsuU8UbpiWrK8ke7blq6t1GUKGA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#e830dd"
+    },
+    "sz": 30
+  }
+}

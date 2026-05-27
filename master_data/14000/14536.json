@@ -1,0 +1,73 @@
+{
+  "round_id": 14536,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-13T10:51:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🐶",
+      "score": "25.34",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵おんj] うんち",
+      "team": "🇯🇵おんj",
+      "emoji": "👻",
+      "score": "7.25",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵荒] やったか！？",
+      "team": "🇯🇵荒",
+      "emoji": "🦊",
+      "score": "3.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵おんj] 爆弾/自認レゼ",
+      "team": "🇯🇵おんj",
+      "emoji": "😂",
+      "score": "0.09",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵おんj] 復活神",
+      "team": "🇯🇵おんj",
+      "emoji": "🐶",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵おんj",
+      "score": "7.34",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵荒",
+      "score": "3.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0lsOhSAQA9Bik7L/Hd8A5jIPBvtlPOmAAgCQRBWuzKdSaUcooVGl6l7AYFQjWSVXdQpKqruK2nvgoN2inXrVhSPzT6W5fz3uCRulk3JTUuxPqVVCpc9QEhmnjoyTW9jC5BffN635Lvm4g2uuO6+ETszPC1vitXnq8qp197ZKyg+TXAUj",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#355ff8",
+      "6": "#42f0ed",
+      "7": "#6aea43"
+    },
+    "sz": 30
+  }
+}

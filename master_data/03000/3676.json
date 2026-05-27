@@ -1,0 +1,111 @@
+{
+  "round_id": 3676,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-11T03:09:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] ベネット",
+      "team": "うんち",
+      "emoji": "🐱",
+      "score": "15.96",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] 東大医学部頭悪い",
+      "team": "🇯🇵田中",
+      "emoji": "👽",
+      "score": "5.43",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ちいか] スーザン",
+      "team": "ちいか",
+      "emoji": "🤔",
+      "score": "0.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[舞散葉] スペルマ烏龍茶",
+      "team": "舞散葉",
+      "emoji": "💩",
+      "score": "0.95",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵🇯🇵Y] うめ",
+      "team": "🇯🇵🇯🇵Y",
+      "emoji": "🦊",
+      "score": "0.39",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "0.07",
+      "kills": 4
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😂",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "15.96",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵田中",
+      "score": "5.50",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ちいか",
+      "score": "0.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "舞散葉",
+      "score": "0.95",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵🇯🇵Y",
+      "score": "0.39",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy909EOwjAIBVCuVwv7/x820+nKCi2+yMuS5uQCbSbytwJQU1hLoOKAigNKDqjA1lpDgUYugqFLYIWJNPEk36V2ff4x7vsBF3HHAUPnu5LCmmPsrvfh4SPfNgs8IPu+6wELjgSvzMysl/JCX8dT9e7ApHdmAdST3bzrFVVVkjwfp8rfnEzXUBcoad4ua24YL16YgZMxLnUylnP2cds2dScb3eX7bltwEo6X/LbzegIBZAcj",
+    "cp": {
+      "1": "#d8fb93",
+      "2": "#5497fc",
+      "3": "#f94e98",
+      "4": "#97ee96",
+      "5": "#80fadd",
+      "6": "#d556f5",
+      "7": "#9780fe",
+      "8": "#80fadd",
+      "9": "#fa8082"
+    },
+    "sz": 40
+  }
+}

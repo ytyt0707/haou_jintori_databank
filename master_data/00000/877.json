@@ -1,0 +1,116 @@
+{
+  "round_id": 877,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-04T17:50:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うおw] うおw",
+      "team": "うおw",
+      "emoji": "🤔",
+      "score": "25.01",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] さとるしね",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "7.65",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ば] もくめ",
+      "team": "ば",
+      "emoji": "💩",
+      "score": "4.17",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[舞散葉] まるでサンタ",
+      "team": "舞散葉",
+      "emoji": "🦁",
+      "score": "1.93",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[北近江] 浅井ながなが",
+      "team": "北近江",
+      "emoji": "👻",
+      "score": "0.83",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] じゅじゅ",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "0.02",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "🐶",
+      "score": "0.00",
+      "kills": 5
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[ソ連] 梨",
+      "team": "ソ連",
+      "emoji": "🦄",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うおw",
+      "score": "25.01",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "7.67",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ば",
+      "score": "4.17",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "舞散葉",
+      "score": "1.93",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "team_name": "北近江",
+      "score": "0.83",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN1FkOwyAMBNCpLC/3P3FVCITFGNqqUucv6GEbEgX4s9C4oIDqwcbBEc2lstNmx8vlpBVzHVpHs1OPpZjZJ059Z5ZdGkJ719qbxY6sPoWuO/yRQ9y3vUrHTXDlBom1w8j29XC7g3JwWTdfVG+WK1feF5FI6K7vhEjCvrWk7B1y23LRZW32khPUqQyXe2xcKbhyzCKtW4WFE9iMx8wsV/ONq1PGDu+6H8T/I36TJ+oiB6E=",
+    "cp": {
+      "1": "#9a6dee",
+      "3": "#76efed",
+      "5": "#ee5979",
+      "6": "#f26edc",
+      "7": "#9a6dee",
+      "8": "#81f8af"
+    },
+    "sz": 40
+  }
+}

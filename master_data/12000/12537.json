@@ -1,0 +1,80 @@
+{
+  "round_id": 12537,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-05T15:07:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんこ] ⠀",
+      "team": "うんこ",
+      "emoji": "😂",
+      "score": "41.43",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うんこ] a",
+      "team": "うんこ",
+      "emoji": "😂",
+      "score": "23.67",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐲",
+      "score": "0.78",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] 御奈新ヶ万出機内",
+      "team": "猛虎軍",
+      "emoji": "💩",
+      "score": "0.19",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵利殺] 利敵殺す",
+      "team": "🇯🇵利殺",
+      "emoji": "🦁",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんこ",
+      "score": "65.10",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "0.97",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵利殺",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0+EOhSAIBWAITu//yC0RgV1st86PpnxiuRnRt/BrBYC9SrBXRGKEEfFmuVEcp0KImWfJmm0EW1FUaNTXzmDcKh6rujJACEVV2LcXXPlH0asXfrTMs45nq+VUa1bVute5Ok0hafZOmqnoYZrvRcIjrgHaVNUnVVXd6/mou9d+0XqxY9X8KS7kggo0",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#e54c3e",
+      "4": "#e7ba50",
+      "5": "#e54c3e",
+      "6": "#e7ba50"
+    },
+    "sz": 30
+  }
+}

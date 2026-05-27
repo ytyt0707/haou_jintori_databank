@@ -1,0 +1,113 @@
+{
+  "round_id": 9605,
+  "game_mode": "TEAM",
+  "player_count": 12,
+  "played_at": "2026-01-25T07:01:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] いただきマウス",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "17.71",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "🤖",
+      "score": "17.48",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 野獣先輩",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "16.99",
+      "kills": 11
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "🐷",
+      "score": "2.78",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇦🇺☺︎] セロリ",
+      "team": "🇦🇺☺︎",
+      "emoji": "🦁",
+      "score": "2.49",
+      "kills": 1
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵ゲスト] 矢野智",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐱",
+      "score": "0.18",
+      "kills": 2
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤠",
+      "score": "0.16",
+      "kills": 13
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "34.83",
+      "kills": 26
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵神撫子",
+      "score": "17.48",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳チギュ",
+      "score": "2.78",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇦🇺☺︎",
+      "score": "2.49",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.34",
+      "kills": 15
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNkYEOwyAIRLE75s7+//8uICrt3LJL0xied4KKhABIVpFSvAqcCGVqn5yuzoKT7pUrBcD+J+AUyJTzCEY3yTnwOFlSS5YodImUsqGcPZc5UegBfKc+C/dUbsp0XMI0Z68XWGul0HctOrKq0RjI3uBCa834N10vmygXjT06e3Lcx74mmDnZYqkTMt5gYRFVUVOHqi8rPhe9iWyttQhZ5eNOd17d0yPTHq3/Umvcski2PtKejoE3Taky3VXyfegN2TkOFg==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#e93fcf",
+      "4": "#e93fcf",
+      "5": "#b3f051",
+      "6": "#e59e48",
+      "7": "#72f863",
+      "8": "#e59e48",
+      "9": "#e93fcf",
+      "10": "#4b84e7",
+      "11": "#6646e7"
+    },
+    "sz": 30
+  }
+}

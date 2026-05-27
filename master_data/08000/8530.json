@@ -1,0 +1,65 @@
+{
+  "round_id": 8530,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-22T02:01:24.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐶",
+      "score": "23.82",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇳チー牛] チギュりパンで草",
+      "team": "🇨🇳チー牛",
+      "emoji": "😈",
+      "score": "2.81",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵特攻隊] パンテオン",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🦊",
+      "score": "1.73",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵特攻隊] ヒロヒト",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤔",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "25.62",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳チー牛",
+      "score": "17.86",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90tsOgDAIA1Aam/X//9iMXcLA6YMxO5YxFDgvM5s3mDEhaMTzPHl5KfCjnW9K34mb7TCijcpRxRVbKknedn/oIZKNhJaO83Fwx9aar64oPDq1OwWMJR3qpUcWNYv5hnen2bMWwwunqUsKW+dvErDOznYOlWnhPJfKVz3xQ/mf3Vp+JB+ZbtncFYveu7IDWaIb9KEhV2ZtFrC3kFQRlbv6uja+PfIJaw==",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#6ef26e",
+      "4": "#f264cc",
+      "6": "#f264cc",
+      "7": "#6ef26e"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "round_id": 5310,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-14T19:53:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ワイら] ワイ",
+      "team": "🇯🇵ワイら",
+      "emoji": "👽",
+      "score": "38.21",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チギュ] チギュりパンで草",
+      "team": "チギュ",
+      "emoji": "🐷",
+      "score": "14.87",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "カミカゼ",
+      "team": "",
+      "emoji": "🦊",
+      "score": "7.77",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵アウト] aplir",
+      "team": "🇯🇵アウト",
+      "emoji": "🐷",
+      "score": "3.93",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ワイら",
+      "score": "38.21",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チギュ",
+      "score": "14.87",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵アウト",
+      "score": "3.93",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0tkShCAMRNF2buD/P3mKJaxxalLKg4eOCOrTS+WWCdoFqJZPAExWRxaWI2Yy+6GjNm3TbeN3K+y6oHYtwxNEuwKRjlXVbBit6TDrUZ4yLE/L6mYhX0GrlNKhbHgokHMu+1dxrlhuVUlS4b1xbtybztYcWl+bZle8c5YzkdKV8yPXzv3sueo/HTt07pPjnXV87zx+2FtHKU6vquU0An2vL0eaCKw=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f77636",
+      "4": "#f368c9",
+      "5": "#4def5a",
+      "6": "#7532f1"
+    },
+    "sz": 30
+  }
+}

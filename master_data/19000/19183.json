@@ -1,0 +1,80 @@
+{
+  "round_id": 19183,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-28T10:53:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤖",
+      "score": "42.49",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ヨワシ🐟",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "23.83",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇬🇧珍走団] ぷゆゆ🥺",
+      "team": "🇬🇧珍走団",
+      "emoji": "😍",
+      "score": "17.67",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ぷゆゆ] ぷゆゆ✌️🥺",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🤠",
+      "score": "0.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ぷゆゆ] 珉珉",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐷",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "60.15",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "23.83",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "0.22",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lEShCAMA9CQtXv/IztF0KZA84W+BhxGmOeawZO5tk+/mRmadnWM2Oi+m4c49BlI21A0boOO49z+2uQLqWqirJSVtkrJV39ZjUGXbtK/Yjt2/U7O6jnoXJfdWrlTrAzpjqed9p/xdO74V2tFrQh6IZlz0mgg23uXgMHESAZd0zw+iRtGjgun",
+    "cp": {
+      "1": "#df55f1",
+      "2": "#df55f1",
+      "3": "#733aee",
+      "4": "#ec8c51",
+      "5": "#ec8c51",
+      "6": "#733aee"
+    },
+    "sz": 30
+  }
+}

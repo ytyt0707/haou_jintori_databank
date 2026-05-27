@@ -1,0 +1,81 @@
+{
+  "round_id": 11589,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-03T11:51:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😍",
+      "score": "37.54",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🤠",
+      "score": "10.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵チー牛] ちぎゅりぱんで草",
+      "team": "🇯🇵チー牛",
+      "emoji": "🦄",
+      "score": "1.82",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵チー牛] 実験用",
+      "team": "🇯🇵チー牛",
+      "emoji": "🦊",
+      "score": "0.98",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵チー牛] わしょいへんてこ",
+      "team": "🇯🇵チー牛",
+      "emoji": "🐶",
+      "score": "0.28",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "37.54",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "10.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵チー牛",
+      "score": "3.08",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0lESwjAIBNA1y9L739hpTZUCjc7IX3ghpSFAijFGTv2sGANfqpcMcsFkxwRP7JQfZYJ3rigZuFMLOy7sx2pjjqluZtYJ3AtKEufv+RFbUilUO4tqHp+72QvP4tKqpop3Gj68VrTajSG2HO6aSAerneKNPq7av4A9/8L2fZRB/a1IK+IJXOoGew==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f4bb52",
+      "4": "#393eea",
+      "5": "#4dd5ea",
+      "6": "#393eea",
+      "7": "#393eea"
+    },
+    "sz": 30
+  }
+}

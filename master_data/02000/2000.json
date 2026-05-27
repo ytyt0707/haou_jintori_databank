@@ -1,0 +1,41 @@
+{
+  "round_id": 2000,
+  "game_mode": "SOLO",
+  "player_count": 3,
+  "played_at": "2026-01-07T07:47:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "アナルバトル",
+      "team": "",
+      "emoji": "🦊",
+      "score": "12.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "あそ",
+      "team": "",
+      "emoji": "🤔",
+      "score": "0.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ポケモンBBS",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJzt0UkKgEAMRNHgv/+d3ShG0ilLRFGwlp1HBjriTZlOem7a4/kAzjF4zmThKXM5uqlUNWyXX8UFWwXEasscUoTj0A1k4wrsXJgs9odcHLsWnbGpqVKI3y/cMH++khlPXAJe",
+    "cp": {
+      "2": "#dff679",
+      "3": "#cc99f0"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "round_id": 20755,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-04T01:04:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🐶",
+      "score": "15.26",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] のは",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐶",
+      "score": "9.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪生存圏] NSDAP",
+      "team": "🇩🇪生存圏",
+      "emoji": "🦊",
+      "score": "7.80",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂チーム] あっぴー",
+      "team": "🍂チーム",
+      "emoji": "🦄",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "9.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪生存圏",
+      "score": "7.80",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂チーム",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtkokOwzAIQ11g+f9PnjhMSVI0KQ0vNocmAkHEcwfE4xsDEIvwB5e2qdmNXVtiu7RerukhxpNU6gGt8XgH2Wj0HO5hnUlAlPiXaoI8NXBqRbzsHSLmDyxGurCYL8T5jhRhXbsqbfUKqHplLuOUOlUgtWfZgt804Ci8O1Oanbo9/wVgS/sQgrUis1ZuamIBVscE8a2qDcuEb6KNAbMEaexmaDtP209jnzmHd5y/tyxJnQiLnuigvLIw7+MkyvMFe37cutbI/QHhWAWU",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e881",
+      "4": "#9ca3af",
+      "5": "#e8a930",
+      "6": "#994de5"
+    },
+    "sz": 30
+  }
+}

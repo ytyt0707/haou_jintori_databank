@@ -1,0 +1,48 @@
+{
+  "round_id": 10847,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-01T19:45:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳マウス] いただきマウス",
+      "team": "🇻🇳マウス",
+      "emoji": "🐶",
+      "score": "53.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😂",
+      "score": "2.47",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳マウス",
+      "score": "53.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "2.47",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10VEOgCAMA9Cx7v5nNlECHavIj/sh8uzEYTYKxtVaegTAnnFq7kGKe61JVoh0VwDZIetINR5p2oqI2GLnrY7ZF6a/Xc6So8/gAHgZA0Xd3VdjFdGpqrEa1H/6cfP7zusgjSilVesSTq8tH7Y3FQecexfrQwYP",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#5dc0ee",
+      "4": "#6741f1"
+    },
+    "sz": 30
+  }
+}

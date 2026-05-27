@@ -1,0 +1,88 @@
+{
+  "round_id": 9203,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-24T09:17:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "52.92",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪暗殺者] †刹那の斬撃†",
+      "team": "🇩🇪暗殺者",
+      "emoji": "🐱",
+      "score": "17.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵反汁] 味噌汁まずいよな",
+      "team": "🇯🇵反汁",
+      "emoji": "😎",
+      "score": "7.85",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チー牛] チギュりパン",
+      "team": "チー牛",
+      "emoji": "😍",
+      "score": "6.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🦊",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "52.92",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪暗殺者",
+      "score": "17.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵反汁",
+      "score": "7.85",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "チー牛",
+      "score": "6.10",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF09EShSAIBNBN7pL//8WNN1QQq31p8iDOUAI9tdZ6P+EilupD8l3pMSu9xgJjka1v9S7gs4rQgi/N3JEFknQgUdLeiSw7hVMv59m2Qsa5UVVVXeeo+q2DS5wVVKdjVZmKvHdtbYqg5BjJMoumfWIiT7qPoR2VvpAeLfaydO7Fx+GL1rzQPz9//O73asvzPgHxegG4AJLTDFg=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#d6f830",
+      "4": "#53f353",
+      "5": "#6ab3ec",
+      "6": "#8534ef",
+      "7": "#e84ad0",
+      "8": "#e6a241"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 13188,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-10T09:57:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[イスラエル] 名無しwF",
+      "team": "イスラエル",
+      "emoji": "😍",
+      "score": "54.49",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "😎",
+      "score": "10.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 爆弾/自認レゼ",
+      "team": "みん²",
+      "emoji": "🦄",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "イスラエル",
+      "score": "54.49",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "10.20",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10FEOgDAIA9AC9v5XNtnclAm6mdjflwKBXA2WG9+noCdAS9VIS9VKErUX3XLF2OW62pyGew2QiasaC6UpoCOK9C5UfbdiVVy7h/a9qtcq/FWAY3czytxT/TdK4uZNGWmCfMQfdQc4FgrR",
+    "cp": {
+      "1": "#3ab5f8",
+      "2": "#f04290",
+      "3": "#e7ef71",
+      "4": "#e7ef71",
+      "5": "#ec6d32"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 34082,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-05T18:15:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ぷんす] ぷんぷん",
+      "team": "🇯🇵ぷんす",
+      "emoji": "🦄",
+      "score": "28.72",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] タコ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🌼",
+      "score": "0.23",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ぷんす",
+      "score": "28.72",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "2.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klsWAyEIQ3Gw+99yDwkgMA9/2vGSEFGRupasXL6vKqrKD7K9ZcmyHe3L8N7p16F+U+I3rRo+zrMx6Ok8Gqvuj1jaMg9ny5yZHs/7ijmrgksqsTELZ+j2k1IY8klTj4KgsELghYuk9XWB88Mpw9nWoMlZ7uMILUJDyx02vlOPzb72dn4cZJtJSU2Kt+d98x4EszJDL0KBa+1/3BC9KWfjAiHG2awg3jMk8Gjm8KAdDlIb05/l9Os0LY+JSx5+ItAf1I8EJg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e88730",
+      "4": "#8B4513",
+      "5": "#e83053"
+    },
+    "sz": 30
+  }
+}

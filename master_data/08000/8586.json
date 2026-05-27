@@ -1,0 +1,80 @@
+{
+  "round_id": 8586,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-22T05:03:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵エバ国] 〇ね",
+      "team": "🇯🇵エバ国",
+      "emoji": "🤠",
+      "score": "25.33",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵エバ国] チギュりパンで草",
+      "team": "🇯🇵エバ国",
+      "emoji": "🤖",
+      "score": "9.64",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇰🇷エバ国] 蓮舫",
+      "team": "🇰🇷エバ国",
+      "emoji": "🤠",
+      "score": "4.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇰🇷エバ国] あんこ",
+      "team": "🇰🇷エバ国",
+      "emoji": "🤠",
+      "score": "1.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇸🇦bot] 名無し👾",
+      "team": "🇸🇦bot",
+      "emoji": "🦄",
+      "score": "0.34",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵エバ国",
+      "score": "34.96",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷エバ国",
+      "score": "5.71",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇸🇦bot",
+      "score": "0.34",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0lEOxCAIBNDZAOP9b9xsrBUBzXb5MnkiKALnEDkqZImY+0blteIfDceSMXfuoJCHnj9RvZNZzVlUVevZqNTMdFQoVIeyUjNVp8yq8+Sd3rkNQPM8Lv4odrqiVyFbavpZFjOcWk34rHdhcg5r1e8TkLtf26fzk+YP0OumuAClBgW3",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#61d9fa",
+      "4": "#f6372c",
+      "5": "#f6372c",
+      "6": "#61d9fa",
+      "7": "#eff16a"
+    },
+    "sz": 30
+  }
+}

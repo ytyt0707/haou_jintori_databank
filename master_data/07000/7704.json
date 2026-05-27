@@ -1,0 +1,73 @@
+{
+  "round_id": 7704,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-20T05:21:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "32.99",
+      "kills": 11
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇷🇺チー牛] 爆弾/自認レゼ",
+      "team": "🇷🇺チー牛",
+      "emoji": "🐷",
+      "score": "4.22",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ゲスト] OMNK",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😈",
+      "score": "1.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇷🇺チー牛] チギュりパンで草",
+      "team": "🇷🇺チー牛",
+      "emoji": "😍",
+      "score": "1.80",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "55.15",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺チー牛",
+      "score": "6.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ゲスト",
+      "score": "1.82",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0AkOwzAIBMANi+3//7gC4wM3rXqsFCXRYEIAWmsNlnGHzDjOZMWtDj8U7zSR4PguzqHkZdtvFDcKkAdizGTPoc611goIoKrqldw7G4tIUS2e2TkOe2tH7Zpau6JE+Kzjm6GL+9lD80+dZ5lWwqiKqZY2H5K0ApbCrOTqtdTeOY1RuTRn9PlFR/5QfK6XZc5l187XVmn/P1fvA/iOY4197Q/PVQsx",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#6428f0",
+      "4": "#e93fcf",
+      "5": "#e93fcf",
+      "6": "#2fcdf9",
+      "7": "#6428f0"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "round_id": 14546,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-13T11:24:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🐶",
+      "score": "34.67",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[白旗↑] レスバの覇者",
+      "team": "白旗↑",
+      "emoji": "😎",
+      "score": "7.03",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "白旗↑",
+      "score": "7.03",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9kUEOwCAIBEfk/29uqqlYRaI9dC8ahsC6Qqi8UkxLg1sNqc0+HrxFdyybw7G7S8QJxxJrN2bqJ3tK6Z65/DkqTVZSradIc5luFaQPRURwqDVkF74pnyi2eF47KqaEEJQA/qsLGfgE1A==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#355ff8",
+      "4": "#e5da3e"
+    },
+    "sz": 30
+  }
+}

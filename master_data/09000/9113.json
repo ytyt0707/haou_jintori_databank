@@ -1,0 +1,90 @@
+{
+  "round_id": 9113,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-24T04:25:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[あ] パンテオン",
+      "team": "あ",
+      "emoji": "😂",
+      "score": "14.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "12.97",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵傷物語] 忍野忍",
+      "team": "🇯🇵傷物語",
+      "emoji": "👻",
+      "score": "12.49",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[あ] 山上徹也",
+      "team": "あ",
+      "emoji": "👻",
+      "score": "6.71",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] ナチス",
+      "team": "楚",
+      "emoji": "🤔",
+      "score": "1.22",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[あ] あ",
+      "team": "あ",
+      "emoji": "😈",
+      "score": "1.22",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "あ",
+      "score": "22.65",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "14.19",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵傷物語",
+      "score": "12.49",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0VsWwyAIBNCpIrj/FfeILwzEdv70OmoMcE06RmVlaEoRFl8uxTM+V7VdIopV55YGzb9UAOE5vc+iFhaNYd1rMLoK+OjWWg9kU60awlRm2+3N1eWhdMZ1zwUyLi0CX9aD8cbYXa/AY+fGumSMhBkiebNJewYB27LV8VBvmtuVlWPtT8XsFfmu8kP14qHqxtg/6an9q+KNZ5p+AeIvCZ4=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#3bf148",
+      "4": "#f4933e",
+      "5": "#8553f9",
+      "6": "#3bf148",
+      "7": "#3bf148",
+      "8": "#f4933e"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 10045,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-26T06:49:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🤖",
+      "score": "53.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳カス] Amos",
+      "team": "🇻🇳カス",
+      "emoji": "🦁",
+      "score": "6.72",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "53.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳カス",
+      "score": "6.72",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0kEOwCAIBMBV/P+bG0Cs2hUP5WCMIxEJQK1Iomr0ffO1R6CrtC1cjUSIKht9bOSmWkXAtIVyhBdFcah+EkQxOsFyccZF40IhiqBC1blYnPTw7kXTmv/krufe97vGSrW/sKtyHOqwEsXr8wUfFq4wFXnrwbyddW0JYvZdk3gAV1cIng==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#8649e9",
+      "4": "#e236a0"
+    },
+    "sz": 30
+  }
+}

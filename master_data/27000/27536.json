@@ -1,0 +1,84 @@
+{
+  "round_id": 27536,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-03-19T23:37:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[RED] スギ花粉",
+      "team": "RED",
+      "emoji": "🌲",
+      "score": "52.41",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[RED] 名無しvQ",
+      "team": "RED",
+      "emoji": "😈",
+      "score": "34.87",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[RED] なつき",
+      "team": "RED",
+      "emoji": "😎",
+      "score": "1.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[RED] 💩",
+      "team": "RED",
+      "emoji": "🦊",
+      "score": "0.87",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] シャクドウ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.20",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "ウリボー",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "RED",
+      "score": "89.27",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.20",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVktsOAjEIROkyWv//i81wmbauMZEHt+UwUyCau+OIq24GwLxizjxc11Z9UBa0NByaorV6xWw5o4w3W70LzJuWJuUMdHdyBtyaNtwH/Eq1AOfIjE0qtf+ivuinOr04ckaUZvLR7yyaZZ0/tbvFclta5R46qefOcLg+s+f0XIJg4xk7WM7iwBhj/EXDsd4cKK164Laqn/Dl3TpDIDzT6KQl7Q+1r77cvqQZN5QTae38A+w1xhA9WaZ3SmnIpQh9/QC9dWXfKPkLwg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ef4444",
+      "4": "#ef4444",
+      "5": "#ef4444",
+      "6": "#8B4513",
+      "7": "#ef4444",
+      "8": "#af30e8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "round_id": 869,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-04T17:24:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[USA] トランプ大統領",
+      "team": "USA",
+      "emoji": "😍",
+      "score": "27.71",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソ連] 共感性羞恥心",
+      "team": "ソ連",
+      "emoji": "🤖",
+      "score": "27.68",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ゲリラ] 演出中止w止まる",
+      "team": "ゲリラ",
+      "emoji": "😀",
+      "score": "3.74",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ソ連] 梨",
+      "team": "ソ連",
+      "emoji": "🦁",
+      "score": "2.98",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[舞散葉] まるでサンタ",
+      "team": "舞散葉",
+      "emoji": "😈",
+      "score": "1.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ソ連",
+      "score": "30.65",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "USA",
+      "score": "27.71",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ゲリラ",
+      "score": "3.74",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "舞散葉",
+      "score": "1.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0lsOxCAIBVC46v633PgEFaxN+ZkiJwy1EH2I0EOe8zFa1CxYMQRqdmYYueuW3HNrTu6EU98XN2aEw0oV6m18Bx2O6+Vx09gZlXGWfpaj0m93NKuW87GfrAV8F2Mgkb0h7SwGWTTOYY0XW1RXGZuOBiztAOlo9Iu9HRQUp/60TZfrjPor69JNf1tmfTVyX4rluHXE0wepZ3q2r44MRwYznQkv3bZ+TZ7aYS064x3ctqavLKXkQtw5LC79c+BLd38nfnFy++EDx/4Jww==",
+    "cp": {
+      "1": "#f372b7",
+      "2": "#f372b7",
+      "3": "#6af1ad",
+      "4": "#7ee25a",
+      "5": "#a581f3"
+    },
+    "sz": 40
+  }
+}

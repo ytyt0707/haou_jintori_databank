@@ -1,0 +1,71 @@
+{
+  "round_id": 9631,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-25T08:26:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👽",
+      "score": "45.43",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] うんこ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😍",
+      "score": "14.85",
+      "kills": 9
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ころす] 全員殺す",
+      "team": "🇯🇵ころす",
+      "emoji": "🐱",
+      "score": "0.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "😂",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "60.28",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ころす",
+      "score": "0.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵神撫子",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0dsOwyAMA1Bnc/7/lydIE27uhF+KdEgIFPgbj4ARd6Ve6ko9UevDlJ2ztdDe8rTUqlWY6rI20LWyGjgOHg/R32yrndD3wchrHZfiquuDkBarXQkzs6aci5nTd2Xph0vsYdzoFmsbxnwiNm4uvXHb8YZ8l0s9TsY3PhiDn+fXv5gWmFSn34X4AZBaCUI=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#ecbe5b",
+      "4": "#4eccef",
+      "5": "#4eccef"
+    },
+    "sz": 30
+  }
+}

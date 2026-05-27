@@ -1,0 +1,110 @@
+{
+  "round_id": 12123,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-04T16:44:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🤖",
+      "score": "30.65",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵〇ね] 彡(ﾟ)(ﾟ)",
+      "team": "🇯🇵〇ね",
+      "emoji": "🤖",
+      "score": "16.89",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "😂",
+      "score": "12.93",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵〇ね] 🐟💨💨💨",
+      "team": "🇯🇵〇ね",
+      "emoji": "🐱",
+      "score": "8.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵自民党] アベベ",
+      "team": "🇯🇵自民党",
+      "emoji": "🐶",
+      "score": "6.41",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🐲",
+      "score": "2.89",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵月火] 葬送のフリーレン",
+      "team": "🇯🇵月火",
+      "emoji": "🦄",
+      "score": "0.57",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "30.65",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵〇ね",
+      "score": "25.35",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇬🇧珍走団",
+      "score": "12.93",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵自民党",
+      "score": "6.41",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇻🇳謎の男",
+      "score": "2.89",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyFz1sSBREMBNCuuejY/4anPCch3P5R5egAGPmFFgB9ads9YY0yR4PRzbXa/nLtSIyaN4whpbQ++VMg4aZAzvmglZG9dpzlhiIiG+c+WrTGEaMtgMZsUcrhqSR9JVnQUTSlUUyFo18XPGiZAJAHbeE44aHItTv5j7pYGRd9nnP3PnnV+jxW0D+yMVvEC5IOEOw=",
+    "cp": {
+      "2": "#38f587",
+      "3": "#3b46e3",
+      "4": "#3b46e3",
+      "5": "#60d9eb",
+      "6": "#f23658",
+      "7": "#54e444",
+      "8": "#f89e59",
+      "9": "#e0e755"
+    },
+    "sz": 30
+  }
+}

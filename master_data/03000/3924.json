@@ -1,0 +1,55 @@
+{
+  "round_id": 3924,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-11T16:47:06.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ナチス] シュトロハイム",
+      "team": "🇩🇪ナチス",
+      "emoji": "😈",
+      "score": "10.08",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇷🇺ロシア] アレクサンドルⅡ",
+      "team": "🇷🇺ロシア",
+      "emoji": "😎",
+      "score": "0.45",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ナチス",
+      "score": "10.08",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ネコち",
+      "score": "1.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺ロシア",
+      "score": "0.45",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0IEKgCAMRdHHvPr/nxxaS8sp0SDITm/qJEnUB1JKSTrfMTPTvUpnQc4ZZF3lVis3rmF5zWoGMwMtykortCxBa/zIQdbj44Ui7dGuujsP2ibShuJ9H+rMc1etfglYOy2llLVuG2+3XWJdwoIJaot8wh/68UyzX1eMVS+dxxROcp79wK8PB1L+Bzs=",
+    "cp": {
+      "2": "#faf261",
+      "3": "#4ef4e9",
+      "4": "#f75593",
+      "5": "#e87645",
+      "6": "#6c77f4"
+    },
+    "sz": 30
+  }
+}

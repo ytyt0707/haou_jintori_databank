@@ -1,0 +1,64 @@
+{
+  "round_id": 2266,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-07T22:52:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 蓮舫",
+      "team": "みん²",
+      "emoji": "🐲",
+      "score": "46.00",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] JKです😺",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "19.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[☭ソ連] スターリン",
+      "team": "☭ソ連",
+      "emoji": "🐱",
+      "score": "6.00",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[☭ソ連] 彩喜",
+      "team": "☭ソ連",
+      "emoji": "🦄",
+      "score": "0.61",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "65.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "☭ソ連",
+      "score": "6.61",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl1NsShSAIBVDc2///5jNaeEHB6vBQja1BpVDkCoiwxHUTJxiH5sLBVQm8c/1SxvcOJCTKqg6n2Qf3YH3HrfR0r5xb8I/5Hjj4k84u/BsOZU41SObBWYibpcQ8ucWqSwfXYBbrUDqgbSlyUyMo9Fyz6izD0l17N7VhrtdamdDdMCea9W06vO+DBOi5ab/lI2mVPXcZXWdjpoDqVNKwW1JaQtex/FiD4zjt5twYHv2Dro/F56GOmmrs3RIL+9M9nXdXliiG9z92HQuo",
+    "cp": {
+      "1": "#fb5b9e",
+      "2": "#54e8af",
+      "3": "#54e8af",
+      "4": "#fb5b9e"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "round_id": 33056,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-01T14:18:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[金] 完顔阿骨打",
+      "team": "金",
+      "emoji": "⚔️",
+      "score": "42.63",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ワーイ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤗",
+      "score": "14.80",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] ちゅん",
+      "team": "🇯🇵ONJ",
+      "emoji": "👾",
+      "score": "2.20",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 🌊🧳唯我",
+      "team": "🇯🇵ONJ",
+      "emoji": "☠️",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "金",
+      "score": "42.63",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "17.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9koEOxCAIQ4HK/f8nX1rUY3M7ky0Lj9Y6NPu7RtGITzz0JRcSEa90ZAYAHGppc0SMd1rw5KXNQelpXnSiQyz6g4D1bKQmy93SkvO0fbFTj3puECajdfRNf9Wyohb0nUDVpVW2veVdWsk3nh8XbTctPqpUx7prV9o32uYcmuvVQDKleqVqIT2S1Z5mdqGrbdNVAPTXKkDm5C0UZwnkgEbuzo4B1KVRrb2IeRXnnWqEn+7u0j2JCX3fRdR224BQJ1JQM4KZtXzdv4rjB68=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30b4e8",
+      "4": "#9ca3af",
+      "5": "#9ca3af",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

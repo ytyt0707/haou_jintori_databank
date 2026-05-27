@@ -1,0 +1,72 @@
+{
+  "round_id": 34594,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-06T21:56:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "28.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 爆弾/自認レゼ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "26.09",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] タバコ吸いながら",
+      "team": "🇯🇵ONJ",
+      "emoji": "😭",
+      "score": "5.59",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇰🇷ヨン様] ペ・ヨンジュン",
+      "team": "🇰🇷ヨン様",
+      "emoji": "🤓",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "34.13",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "26.09",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇰🇷ヨン様",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9ktsSxCAIQ4PA/v8n74RLi66zPFTqIYFaAWAt32MpAxWTKV8mxKSZL2VViicNrXs0A9wv0odeWZv9hRdbczdbFvIfLSwiz4BjdYiYJ+OTuwDis+JDRF5asM5L1UUVH5aVsk4jCgSiKkzDPdqVshbJo1eKrU+yS4TeAJTYbDpzM/5NLnpSSt/YhwZ2qkdfFRUtf+UP7nl63b17F/RlvH3fi3VjB50y5sM3J47L+FRNvPeMkoHPmXbvY+Cfzk/DToYz096u9aBRwMuUV8q/z60IyQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#9ca3af",
+      "5": "#9ca3af",
+      "6": "#30e8a3"
+    },
+    "sz": 30
+  }
+}

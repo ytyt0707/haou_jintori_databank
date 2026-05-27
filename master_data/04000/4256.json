@@ -1,0 +1,87 @@
+{
+  "round_id": 4256,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-12T10:45:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "19.63",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇷🇺ロシア] 👁🔲🔲👁",
+      "team": "🇷🇺ロシア",
+      "emoji": "😀",
+      "score": "17.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "6.76",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ぷゆゆ] ウンコマン",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🦄",
+      "score": "4.24",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵さとる] やの",
+      "team": "🇯🇵さとる",
+      "emoji": "👻",
+      "score": "1.56",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "26.40",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺ロシア",
+      "score": "17.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "4.24",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵さとる",
+      "score": "1.56",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0FsOhSAMBNC52qH73/GNWrAP0DiJPxwGqGAPZuEjk8l3S9HDSToeay43n3qtdetcTiZ6MSns0XMdE+3pVXncMZBjkaffITN2KHWDPViibpvbILJUEkU7HbhWhmrpAmvFJ838i6ql7kxVc19CWUPdXyqtiebDzZpFg53fjW0yFvDCL+WUP/XgB8Q=",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#4bec63",
+      "4": "#3e4af4",
+      "5": "#4bec63",
+      "6": "#f06abf",
+      "7": "#b661ea"
+    },
+    "sz": 30
+  }
+}

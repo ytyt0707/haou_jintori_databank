@@ -1,0 +1,57 @@
+{
+  "round_id": 3508,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-10T18:04:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😈",
+      "score": "20.00",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪🇩🇪最] あそ",
+      "team": "🇩🇪🇩🇪最",
+      "emoji": "🐷",
+      "score": "8.34",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪🇩🇪最] 安倍晋三",
+      "team": "🇩🇪🇩🇪最",
+      "emoji": "🐲",
+      "score": "1.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "20.00",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪🇩🇪最",
+      "score": "9.45",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0sESgCAIBFAT9v9/uVGnlETAusShQ7zZLSslY7iOJQT0ZTSwsYDlvWbDXTvHcfeR4oZyXu1JuhKHcX8E3aI4rRzPTk8RbvUSxCQf8KsjcosBlDganBoGAOXisOoqgxvXwuzzv5mvwm4rzvozAd6Kc8oxjtH8yj2bYUwU/tCJG/Zp6GzOS/qH62ux838HdU75cAiU",
+    "cp": {
+      "1": "#f688f4",
+      "2": "#81a9f8",
+      "3": "#70fbc8",
+      "4": "#70fbc8",
+      "5": "#d8f877"
+    },
+    "sz": 40
+  }
+}

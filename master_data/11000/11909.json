@@ -1,0 +1,48 @@
+{
+  "round_id": 11909,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-04T05:09:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "😀",
+      "score": "64.51",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸CIA] パンテオン",
+      "team": "🇺🇸CIA",
+      "emoji": "💩",
+      "score": "5.30",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵神撫子",
+      "score": "64.51",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸CIA",
+      "score": "5.30",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy900ESgCAIBdBPcv8zNwoqIDKtYkW8vtVoQCwionXRtEbLvSMpHR2l2NnN2fB4gFd26UPVhUWfrZhpeVWrvLLzQ1LFTduRnX1IOmwxqYrbwjDBQuc9DuMueG33yjdw411RaDw5KaaKQu0BLfEvPX4bpMNP9QLioQep",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f04c64",
+      "4": "#c2f83a"
+    },
+    "sz": 30
+  }
+}

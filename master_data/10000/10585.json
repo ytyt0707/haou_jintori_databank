@@ -1,0 +1,80 @@
+{
+  "round_id": 10585,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-01T05:35:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵傷物語] 忍野忍",
+      "team": "🇯🇵傷物語",
+      "emoji": "🦊",
+      "score": "43.95",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇵🇭ぷゆ帝] ぷゆゆ🥺",
+      "team": "🇵🇭ぷゆ帝",
+      "emoji": "🤠",
+      "score": "31.86",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇵🇭ぷゆ帝] パンテオン",
+      "team": "🇵🇭ぷゆ帝",
+      "emoji": "🐷",
+      "score": "0.31",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ソ連] ぷゆゆ",
+      "team": "ソ連",
+      "emoji": "👽",
+      "score": "0.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ソ連] チギュアってて草",
+      "team": "ソ連",
+      "emoji": "😀",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵傷物語",
+      "score": "43.95",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇵🇭ぷゆ帝",
+      "score": "32.16",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ソ連",
+      "score": "0.06",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lsShSAMA9D0Turd/44dCpQ+GPPJMRVQ4QwAkr8VrFAowv96piBIEaEnWVM66MjArjqDq6prZKVq7pKnaitREVQfW9IzGbFn7BaVW2MS1pTJxfDVPYprma2Mi4ZGe2+e53jTvudevY9OF1m2FSxfB5nG1gOT31pwPLyn+uvjx1/LWzF3k1TT7KThF6DB/u/sRDg3ipIXQwoMfw==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "4": "#f64f4c",
+      "5": "#2e4cf5",
+      "6": "#f64f4c",
+      "7": "#5df646"
+    },
+    "sz": 30
+  }
+}

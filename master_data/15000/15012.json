@@ -1,0 +1,42 @@
+{
+  "round_id": 15012,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-14T12:36:03.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "足蟹",
+      "team": "",
+      "emoji": "🦄",
+      "score": "4.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵🐢] 🐢",
+      "team": "🇯🇵🐢",
+      "emoji": "😀",
+      "score": "0.20",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵🐢",
+      "score": "0.20",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzNklEKwCAMQxO7+595zE5pbfRvsCAT+2wTYYCLUsAJbyBio+x9qm3A9QoqxfyyrzYmT6joKvZ5mnZfTemUG/p2Hnz9GTFzdWj5+DvxGOqTxBSu187VSjVQM8OiTDNOv2+hHsomLLP5lk3SMTXuN+4vARg=",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#72f269",
+      "4": "#6cb3ea"
+    },
+    "sz": 30
+  }
+}

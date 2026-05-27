@@ -1,0 +1,47 @@
+{
+  "round_id": 18333,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-26T11:20:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] パンテオン",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐱",
+      "score": "38.94",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 千石撫子",
+      "team": "神撫子",
+      "emoji": "🤖",
+      "score": "3.85",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "38.94",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "3.85",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy90DEOwDAIA0DA//9z1SoDFOxkCutJtrDZlcM6QSNDKbo6waWM3d2c6ktUv9ikvTbzjKP+k4d/bKdiKTrVwcpUFYfQiOicsSlgSaNWowRTjb32WvXu+RjFHh1TBI8=",
+    "cp": {
+      "1": "#68f060",
+      "2": "#47f0ce",
+      "3": "#c2f16a"
+    },
+    "sz": 30
+  }
+}

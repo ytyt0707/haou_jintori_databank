@@ -1,0 +1,42 @@
+{
+  "round_id": 56330,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-21T19:06:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] 小泉進次郎",
+      "team": "🇯🇵自民党",
+      "emoji": "😣",
+      "score": "41.50",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] 水",
+      "team": "🇯🇵自民党",
+      "emoji": "😂",
+      "score": "40.78",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "82.28",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klkSgzAMQ02t+5+5I3kLZoCP4uZJshPifjym2uY5WJcGg5mbhbrXowAw9KEhJRe4BQRpejYYdOCOfqE51qYcu60uGr9wd21qpgqaIuallVJPV+Rr4ZVK310B3LxABHfoojhP+uHVYcp6n6j2PbtxetfcmE940TEZqjbNzWZ2dnW/9sSAxRmVRNlp06sAz3yalmwoq8PHPzNUyAZ/UuW8e5myqTr/Kn/TWpdzrlTK+F1SoXsRAsG42rXK9x90FwpC",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#994de5",
+      "4": "#994de5"
+    },
+    "sz": 30
+  }
+}

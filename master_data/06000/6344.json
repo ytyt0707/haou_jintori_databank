@@ -1,0 +1,57 @@
+{
+  "round_id": 6344,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-17T03:48:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "でじこ",
+      "team": "",
+      "emoji": "🤠",
+      "score": "26.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "🐲",
+      "score": "8.34",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[💣] 爆弾/自認レゼ",
+      "team": "💣",
+      "emoji": "👽",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵YY勢",
+      "score": "8.34",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "💣",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJydkVEOwCAIQ5Gy+195QZc5YTRz9Y9XCkSR7zIzCgd/NdlTs3xkmIZsUWm0l9LW6sZlbIZGYjcPShf9pZLUiyW9A7Rg199qxUewusoAQtUf63ULVcDoEiBhLMpBAHNEGjiiodh21k9IMwTF",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ea61ea",
+      "4": "#52d6f4",
+      "5": "#9050f7"
+    },
+    "sz": 30
+  }
+}

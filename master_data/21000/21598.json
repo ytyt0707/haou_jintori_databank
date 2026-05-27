@@ -1,0 +1,81 @@
+{
+  "round_id": 21598,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-05T22:42:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しV8",
+      "team": "",
+      "emoji": "🐶",
+      "score": "28.71",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[お魚かく] ゲスト",
+      "team": "お魚かく",
+      "emoji": "🐱",
+      "score": "15.67",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[お魚かく] 名無しRK",
+      "team": "お魚かく",
+      "emoji": "🐶",
+      "score": "3.33",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 大家ぷゆゆ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🤠",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "お魚かく",
+      "score": "18.99",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "神撫子",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkkEWxCAIQ8NAnfvfeF4CtGg348JaPwmIAu9hPV7ItXORvxjgwPcCYSSOiMg4dwcCiIcSciCZlsJlrQ2Qunv+CANYndydnDACnKRNLB2g7YwIM6y1iAllUqS0pKsoCx7DIG3KT2k7k3bE0IaZnHPK4rMzEcbSB1Xx1TdaMPrA1dQw40oZGVGZi+oOdymPVpbV6GmsuoWV9TlvWaeYDgAvea31mfo8luakE6rpHVHXsPFmtN7Oq6h/KV7aR8nHtztPdubdGcCHdRd8Qv0nbXQ/UTaLm3Ojg+r7A7iICOg=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#4d56e5",
+      "5": "#8B4513",
+      "6": "#d4b611",
+      "7": "#e83064"
+    },
+    "sz": 30
+  }
+}

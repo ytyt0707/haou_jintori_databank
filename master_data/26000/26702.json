@@ -1,0 +1,56 @@
+{
+  "round_id": 26702,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-18T02:24:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😆",
+      "score": "25.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 名無しsx",
+      "team": "🇯🇵阪神",
+      "emoji": "😎",
+      "score": "23.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "どういうゲーム？",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "25.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "23.36",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkUkSBCEIBAsJ/v/lCXbU7r4MFwnTKhZFRkDgsSIGi9T4K1X9u1Yt/qApXXdX7bseaPd0UUCwquWFOaWP2uLYzTjW2IalzIOObQZkZuQTkVp2U31Q0w0rdqW5Xy1CqYdKnLc4mVokrdpDa3w3H9LujNJ6p0xEIkQU/KCAIg2TnzRY8J2itaa+qFvjydmKVVXs4+Zn5US7cdJj3LDI2zpTHBf5ucU/kh/eRAfV",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "5": "#e830ba"
+    },
+    "sz": 30
+  }
+}

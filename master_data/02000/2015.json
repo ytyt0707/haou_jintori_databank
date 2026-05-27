@@ -1,0 +1,54 @@
+{
+  "round_id": 2015,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-07T08:37:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐷",
+      "score": "10.91",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 神",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "0.13",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "👻",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "11.03",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0jEKACAMA8BI//9nB1GqYFKKg6BZe6ZDBZYYYC3rxBky668NtGIwvukKx1jKlS3yjtY5uBczFH2Bu2fYaadYh0GnmfrvPz/vpgJHjgIh",
+    "cp": {
+      "1": "#57dffa",
+      "3": "#57dffa"
+    },
+    "sz": 40
+  }
+}

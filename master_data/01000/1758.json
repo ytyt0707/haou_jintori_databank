@@ -1,0 +1,55 @@
+{
+  "round_id": 1758,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-06T18:11:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "😍",
+      "score": "44.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[阪神] ウンハラ",
+      "team": "阪神",
+      "emoji": "🤖",
+      "score": "0.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ナチス] ハイル🖐️",
+      "team": "🇩🇪ナチス",
+      "emoji": "🦄",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "阪神",
+      "score": "0.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF1NEKwCAIheH29/7vvIsRw6nztIh5mR9HMqi1/+rIW6AEIDPFITlQHCgOFEfJsChTrtach4vuCTPmAjc579fcrnuMw2LPrj3jenf01d0yHxu61H/MC4CFVd704Epqb6I7M1lMDJsX0P7UUSeFagWI",
+    "cp": {
+      "1": "#96f8d4",
+      "2": "#aa75fa",
+      "3": "#dcf28c"
+    },
+    "sz": 40
+  }
+}

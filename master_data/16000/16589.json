@@ -1,0 +1,74 @@
+{
+  "round_id": 16589,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-18T11:12:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 浅井長々",
+      "team": "みん²",
+      "emoji": "😂",
+      "score": "52.14",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵はにわ] 徳川家康",
+      "team": "🇯🇵はにわ",
+      "emoji": "😂",
+      "score": "28.90",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 泉サキ",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "9.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] パンテオン",
+      "team": "みん²",
+      "emoji": "🐱",
+      "score": "3.68",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "😂",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "65.34",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵はにわ",
+      "score": "28.90",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0MESAyEIA1CgJP//yR2N3W4FO8vBg2/QQDIzk6N0rkoDEHnhVoGQkrSqow6dl/Yordf2xUZveFDFPeuctFfN0o1j+lPN2Fe4Akkd3qSFMN19R6xG6Y9foFTOMybp2p1mi11vaYA1qDUKMOLV9wIoTz/T8XCNxdkxh5nnITMbfKrovCj/vLy07Kr92mifIi23egNk0BDg",
+    "cp": {
+      "1": "#50ed65",
+      "2": "#d5ee49",
+      "3": "#d5ee49",
+      "4": "#58eed3",
+      "5": "#d5ee49",
+      "6": "#d5ee49"
+    },
+    "sz": 30
+  }
+}

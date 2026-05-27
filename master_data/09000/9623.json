@@ -1,0 +1,66 @@
+{
+  "round_id": 9623,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-25T08:00:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ころす] ロゼしばく",
+      "team": "🇯🇵ころす",
+      "emoji": "🦄",
+      "score": "37.03",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ころす] 全員殺す",
+      "team": "🇯🇵ころす",
+      "emoji": "🐱",
+      "score": "21.48",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ころす] 廃人/自認レゼ",
+      "team": "🇯🇵ころす",
+      "emoji": "😎",
+      "score": "20.34",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐷",
+      "score": "3.81",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ころす",
+      "score": "78.84",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "3.81",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0tsSwyAIBNA1wP7/J2dQRDT2oTvt9HJcTGsAsrVmBo/tAdrI/OL5R/vgpcdkkFa7z6FmVrvFwa73KPj5GQPUVPXe1cjWVP2t/vFU2q0cC1xJGrnj1EyZPB2Qoqu160bjvb8KUuNZWURIGbtCSzqLc6h+FBK5qB8DO852vwh/jPMlQpnaY3H6gQdHl+v/YFFY3MW+pGxblQPjalbm5L4yZ2waLWQSkd2iMd6vyPBN3ekF7I4OZQ==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#e7ee68",
+      "4": "#5de0ee",
+      "5": "#5de0ee",
+      "6": "#5de0ee"
+    },
+    "sz": 30
+  }
+}

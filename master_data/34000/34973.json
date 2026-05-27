@@ -1,0 +1,78 @@
+{
+  "round_id": 34973,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-07T12:01:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "自認レゼ",
+      "team": "",
+      "emoji": "🐲",
+      "score": "35.40",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[テスト] これは？",
+      "team": "テスト",
+      "emoji": "😀",
+      "score": "20.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しzr",
+      "team": "",
+      "emoji": "🤔",
+      "score": "1.48",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しiZ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[チーム] 😀🖐️",
+      "team": "チーム",
+      "emoji": "🦁",
+      "score": "0.01",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "テスト",
+      "score": "20.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チーム",
+      "score": "0.01",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkEsOwCAIRIHA/a/c8FGhLbpq6kJhHgxExDgiKCIj++MF6KeCn67ggBERdu6KO2vTMyYiqsW5t6Pu8KTu5PvvqdbUubn3W2qTbyN853LrP8eKRV/JnkbzKk+RiLB1J22EzEoND2m+zEGZeYr2lZolmmHERvWqrYk6LMYvPgfpArWPAxU=",
+    "cp": {
+      "1": "#d4b611",
+      "2": "#8B4513",
+      "4": "#30e881",
+      "5": "#994de5"
+    },
+    "sz": 30
+  }
+}

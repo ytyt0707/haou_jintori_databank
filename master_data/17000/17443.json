@@ -1,0 +1,104 @@
+{
+  "round_id": 17443,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-23T10:40:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト(偽)",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐷",
+      "score": "33.50",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] ベネット",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐱",
+      "score": "16.77",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😀",
+      "score": "11.56",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵死卍] ゲス殺し",
+      "team": "🇯🇵死卍",
+      "emoji": "🤖",
+      "score": "9.37",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵グリコ] けんた",
+      "team": "🇯🇵グリコ",
+      "emoji": "👽",
+      "score": "6.67",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[みん²] ぷゆゆ🥺",
+      "team": "みん²",
+      "emoji": "😎",
+      "score": "2.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "😍",
+      "score": "1.18",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "61.83",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵死卍",
+      "score": "9.37",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵グリコ",
+      "score": "6.67",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "みん²",
+      "score": "3.17",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJx10VkSxCAIBNBOa8D7n3gKEJfo8JXy2YgGwLsUjlr11VG7yY6xYaCIQE/FUL3oyH5x6gebamv/1SpUbPa9b+vsMQCnNVXEVXBJWmeInJdJlcRLa70mszNxw1CSR7bWUqqGgrtWw846w9KncizFnlHnhTIfWvMnTBX6jspE+vNO34f36KrOHFFrPJkG5IhCyDSQJqHP05Wriu/o6OqrEKJ/P1ZTI2Xn2ij46FrJH0W0QDC6isQKkZ1n/QAEMhCr",
+    "cp": {
+      "1": "#aa42f0",
+      "2": "#f06c47",
+      "3": "#6b5aed",
+      "4": "#6b5aed",
+      "5": "#eb42a5",
+      "6": "#f06c47",
+      "7": "#f06c47",
+      "8": "#7bf56b"
+    },
+    "sz": 30
+  }
+}

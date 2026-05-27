@@ -1,0 +1,57 @@
+{
+  "round_id": 12811,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-06T05:56:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[アハン] ⠀",
+      "team": "アハン",
+      "emoji": "👽",
+      "score": "26.32",
+      "kills": 20
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸CIA] v豚",
+      "team": "🇺🇸CIA",
+      "emoji": "😎",
+      "score": "2.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸CIA] オランダ語",
+      "team": "🇺🇸CIA",
+      "emoji": "😎",
+      "score": "2.12",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "アハン",
+      "score": "26.32",
+      "kills": 20
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸CIA",
+      "score": "5.09",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0EkOgDAIBdDfAve/sikBZahNlJXxQRmAFCOH/hMN+3hRaYpHPWcM8RZALDYWn+CZJ7pPCMw5jYmyIqgQGccNXYmcN8jMxMy9WJFc8+0wddNVSxtF0oqmmiC99j4G15HSA33iWBsOVZLOiqStgZQ4q2ys9k8JKbHt3Mbb32b1eNUT/YqP711PAAWc",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#6af425",
+      "4": "#6af425",
+      "5": "#e4b144"
+    },
+    "sz": 30
+  }
+}

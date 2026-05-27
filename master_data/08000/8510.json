@@ -1,0 +1,69 @@
+{
+  "round_id": 8510,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-22T00:56:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺チー牛] アベベ",
+      "team": "🇷🇺チー牛",
+      "emoji": "😎",
+      "score": "42.52",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "😀",
+      "score": "7.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸CIA] パンテオン",
+      "team": "🇺🇸CIA",
+      "emoji": "👻",
+      "score": "4.29",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺チー牛",
+      "score": "42.52",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵YY勢",
+      "score": "7.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇺🇸CIA",
+      "score": "4.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵阪神",
+      "score": "1.27",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJylkUsOwCAIRDEW7n/kBpRfi6RJZ6HG5zgiCAgsFK0JTFgq0ktUYYN6AJJ3bfMAjv1m2XMzRGrP0uB0c/novqRAW15/B/6h2MJP9HnCmqn0UNXctE6Y03+FiE6URCE1UlKaUiqva1N6eLU90xHT3Ndg5AWEAvdyoULufbMxeso6UEEw2F3Gim5eNAov",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#91ef4d",
+      "4": "#e54d75",
+      "5": "#e9ba67",
+      "6": "#7b4af7"
+    },
+    "sz": 30
+  }
+}

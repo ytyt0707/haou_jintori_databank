@@ -1,0 +1,95 @@
+{
+  "round_id": 28440,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-03-22T01:02:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "正体不明",
+      "team": "",
+      "emoji": "👀",
+      "score": "57.89",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵きゅ] きゅっきゅ",
+      "team": "🇯🇵きゅ",
+      "emoji": "🧿",
+      "score": "11.79",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] なきこ；＠；",
+      "team": "なきち",
+      "emoji": "🐶",
+      "score": "5.59",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🥺",
+      "score": "1.10",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[なきち] たきち＞＜",
+      "team": "なきち",
+      "emoji": "🦁",
+      "score": "0.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] ぷゆゆパン🥺",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵きゅ",
+      "score": "11.79",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "5.71",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "1.10",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1ktGuwzAIQ52YTPz/F08GlNL03j1MGpVaw8EkSgNcMTGPuNgCOg0NwD1aRINzzgk9wPAIrFWUgmTNDEhfazlAxYx3cWG6b5iMaXd3OBk9G0ho9tDChckcXU1JAYT1dbOGeww5Ymt+UmI8SrugyTt5CNy38Qd/lFrh0+TW9oW8Hc7hb3uutvpN2YfGdXSHu6WmaHmXwcz+cRfthtRmLHZMBi4QHc2ru7FdKX5L87ziutOsrn37aPVI3zrMCeo=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e230e8",
+      "4": "#30e8d7",
+      "5": "#7c4de5",
+      "6": "#85d411",
+      "8": "#85d411"
+    },
+    "sz": 30
+  }
+}

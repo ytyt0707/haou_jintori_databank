@@ -1,0 +1,103 @@
+{
+  "round_id": 12999,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-02-07T15:43:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[オウム] ぷゆゆ🥺",
+      "team": "オウム",
+      "emoji": "🤖",
+      "score": "29.75",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "28.40",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳謎の男] 爆弾/自認レゼ",
+      "team": "🇻🇳謎の男",
+      "emoji": "😍",
+      "score": "9.45",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] 名無し8e",
+      "team": "猛虎軍",
+      "emoji": "👽",
+      "score": "3.93",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🤔",
+      "score": "2.92",
+      "kills": 8
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵チギュ] チギュ革連",
+      "team": "🇯🇵チギュ",
+      "emoji": "😎",
+      "score": "0.66",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[オウム] 麻原彰晃",
+      "team": "オウム",
+      "emoji": "🦁",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "32.33",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "オウム",
+      "score": "29.75",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇳謎の男",
+      "score": "12.37",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵チギュ",
+      "score": "0.66",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF01EOxCAIBFA2cQTuf+ENAoWq2eWr7cso1JaoCnTU9IKVX53ouhz4pZewS4TtsVi1fWfqTJS+dK4wZ+CmGZZdP9HR7FnpTeclbUq156kGT7IppWZwjBoou6o9x7B3wcyvgdqyf5R5KV2VXemX+hG1o7PjgTXMDInPJdnfJIhFmPITQA9DbFQ8ik0NvV6KmLUevG7OCiWo6k0j7KpX1YW6LbBQtVCr3Zjo0R7qf1fegzb6AkcMEA8=",
+    "cp": {
+      "1": "#46d6ec",
+      "4": "#f04d38",
+      "5": "#76f75f",
+      "6": "#6feba7",
+      "7": "#202bf8",
+      "8": "#202bf8",
+      "9": "#76f75f"
+    },
+    "sz": 30
+  }
+}

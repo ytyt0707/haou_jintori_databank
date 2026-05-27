@@ -1,0 +1,95 @@
+{
+  "round_id": 8006,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-20T21:41:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇦🇺うんち] アベベ",
+      "team": "🇦🇺うんち",
+      "emoji": "🐶",
+      "score": "42.18",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] 妹欲しい(´；ω",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐷",
+      "score": "25.47",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤔",
+      "score": "8.92",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇰🇷チョン] ばーか",
+      "team": "🇰🇷チョン",
+      "emoji": "🐷",
+      "score": "1.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "0.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "0.07",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇦🇺うんち",
+      "score": "42.18",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "34.39",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇰🇷チョン",
+      "score": "1.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "楚",
+      "score": "0.15",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd04EKxSAIBdBbOun/v3hkpenrjTFhEB2us8YAAAJBKBERW4xKqjtv9be+ax/2s+KxMwB+wv/ZpTi9I10pDoi0dCSaW7wriPqjNZRNKRQUlZkzbspaLnXqxV6b1mrZHdvSObMRm2p0ZuFdW+uKqtnQ2jWcd8RX2HBcUJw2nlf1hLSu/oz2YZBlzyJpKaV0td+DELB3vgFKHA10",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#94e755",
+      "4": "#94e755",
+      "5": "#f82a79",
+      "6": "#f033e9",
+      "8": "#8449e9"
+    },
+    "sz": 30
+  }
+}

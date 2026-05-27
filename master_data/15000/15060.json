@@ -1,0 +1,70 @@
+{
+  "round_id": 15060,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-14T15:11:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😂",
+      "score": "22.55",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[蒙古麺] パンニバル",
+      "team": "蒙古麺",
+      "emoji": "😍",
+      "score": "16.92",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐷",
+      "score": "14.87",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "👽",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "22.55",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "蒙古麺",
+      "score": "16.92",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "14.87",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJyVzAEKACEIRNGh0PsfeZF127Qc8ENQPRSyBTuYf5AUVwlqNXTf3Va+maskLYeReC7Gwmq4p/bw74C6FFHVc/xKqnbDkca4KtcegyIoopY4y7nQUSN0DIKv3vHeA0GJCW4=",
+    "cp": {
+      "2": "#984af2",
+      "3": "#67e3f4",
+      "5": "#7aea66",
+      "6": "#f4ef6c"
+    },
+    "sz": 30
+  }
+}

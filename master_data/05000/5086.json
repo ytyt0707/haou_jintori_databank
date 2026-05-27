@@ -1,0 +1,111 @@
+{
+  "round_id": 5086,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-14T07:47:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🦄",
+      "score": "15.49",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チー牛] カミカゼ",
+      "team": "チー牛",
+      "emoji": "🤔",
+      "score": "10.53",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇪ベネズ] 千石撫子",
+      "team": "🇻🇪ベネズ",
+      "emoji": "👻",
+      "score": "4.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵アウト] 生パスタ吐瀉物",
+      "team": "🇯🇵アウト",
+      "emoji": "🐶",
+      "score": "2.85",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[チー牛] 国",
+      "team": "チー牛",
+      "emoji": "😀",
+      "score": "2.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[チギュ] チギュりパンで草",
+      "team": "チギュ",
+      "emoji": "😈",
+      "score": "0.59",
+      "kills": 6
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[チー牛] けんた",
+      "team": "チー牛",
+      "emoji": "🐷",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "15.49",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "12.71",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "6.11",
+      "kills": 12
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇻🇪ベネズ",
+      "score": "4.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵アウト",
+      "score": "2.85",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90FESwyAIBNDt7BgK3v++HUQtJkb+8LkSQpJIRYDEOFqR3pKFLLPvF0SEvUqrpCKjcWVWuvnQuOvDm0bv9v2PbpPK6CI5FOlDG2Ze1njqsj5x0LbnK8v0t3yjrtd1AfXO8UporQuvj9akEiZ7fVbN/AFgZ7V7GlAdraW0Alqr6lSzEdZcN1XdqHXVo26zZp23WTu+fFaMffY6/0Oc+fFGH/UDlRgK9A==",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#bbeb4c",
+      "5": "#bbeb4c",
+      "6": "#efc66b",
+      "7": "#4cc8f6",
+      "8": "#4cc8f6",
+      "9": "#e03fee",
+      "10": "#e33538",
+      "11": "#31f231"
+    },
+    "sz": 30
+  }
+}

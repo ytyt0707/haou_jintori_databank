@@ -1,0 +1,56 @@
+{
+  "round_id": 9295,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-24T14:15:46.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵グリコ] ポル・ポト",
+      "team": "🇯🇵グリコ",
+      "emoji": "🐲",
+      "score": "0.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵グリコ] 🤓🤓🤓🤓",
+      "team": "🇯🇵グリコ",
+      "emoji": "🐷",
+      "score": "0.07",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵グリコ] 野獣先輩",
+      "team": "🇯🇵グリコ",
+      "emoji": "🤔",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵グリコ",
+      "score": "0.80",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵😓",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYEAHzGCEA4BlWPBJ4tUJA6z4VJJgLDMDM35L8cpSCphoJUtAK3696LL4DRsFAw8ApToAPQ==",
+    "cp": {
+      "2": "#48efaf",
+      "3": "#5db7f4",
+      "4": "#5db7f4",
+      "5": "#5db7f4"
+    },
+    "sz": 30
+  }
+}

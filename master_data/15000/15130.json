@@ -1,0 +1,55 @@
+{
+  "round_id": 15130,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-14T18:59:01.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 陣ガイ",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "0.21",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦊",
+      "score": "0.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇸みん²] 全能",
+      "team": "🇺🇸みん²",
+      "emoji": "🤖",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "0.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸みん²",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYBgFeAEjIyMjXmlCmnGrYCRKGpc8UbrJ0krYz/ikKQkw/JJ45AjK4o8mOIuFZJNhgJkoVVgBAHbhAE0=",
+    "cp": {
+      "1": "#f74b59",
+      "3": "#d6f655",
+      "4": "#d6f655"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "round_id": 1362,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-05T19:59:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ICQ] ツインテメイド服",
+      "team": "ICQ",
+      "emoji": "😈",
+      "score": "26.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ICQ] HIKAKIN",
+      "team": "ICQ",
+      "emoji": "🐷",
+      "score": "18.61",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うゆ軍] 最強うゆゆ",
+      "team": "うゆ軍",
+      "emoji": "😀",
+      "score": "9.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[うゆゆ] うゆゆ🥺🤓",
+      "team": "うゆゆ",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ICQ",
+      "score": "45.60",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うゆ軍",
+      "score": "9.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "うゆゆ",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt1EEOgCAMBMDNtv7/y4YUEAuVevLiXowwtk0kAIAq9tEo3oUyW1DfuuPYOt3VI6m29+gKc90D5l08Xvsm50hGrvRka80Kg+lYoT3NMXQ95phwGDZCxnHArDMoIk+OtH8lJXPN5tq7SIU6OdwWO5ydaBlJblm6OUDWIePgHWIHzxawH+EBdTf46w74IpIwb9yfRE7EbArA",
+    "cp": {
+      "2": "#9e94f4",
+      "3": "#aaf08f",
+      "4": "#9e94f4",
+      "5": "#fd5882"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "round_id": 24768,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-13T17:46:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "🥐",
+      "score": "39.61",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ああ",
+      "team": "",
+      "emoji": "🐱",
+      "score": "5.79",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] なつき",
+      "team": "🇯🇵ONJ",
+      "emoji": "😎",
+      "score": "1.17",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しEZ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.33",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇫🇷デパ",
+      "score": "39.61",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.17",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.33",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF90VsSxSAIA9AEpftfcgeoD7h6/WlnTkPUAr2jz8W8NrFPMvKvFizZomUw5378pShyeNPH3nO29Fb1xJjw5MHbeeGfnCcDcM46ZpoCl6sKRDlQjzZetBOkyOTSa2ERntl3tWnJko23aFzkqi13FZNn61kn//SyicjpwBp/QWx9vsKqqiDRtvRQM1UlqqJ/5NosO4otuxBAk6I7+55SNinW3PjBoyWeMwi8ncIIGg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#6ae830",
+      "5": "#7c4de5",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}

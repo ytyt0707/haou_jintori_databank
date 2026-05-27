@@ -1,0 +1,98 @@
+{
+  "round_id": 12477,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-02-05T11:52:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐲",
+      "score": "28.42",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "👻",
+      "score": "13.03",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🤖",
+      "score": "8.95",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ゲスト] ガスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦊",
+      "score": "3.87",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ゲスト] 殺してくれ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐷",
+      "score": "3.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇸🇦bot] 🤠",
+      "team": "🇸🇦bot",
+      "emoji": "🤠",
+      "score": "1.76",
+      "kills": 13
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇸🇦bot] 受験生",
+      "team": "🇸🇦bot",
+      "emoji": "🐷",
+      "score": "0.25",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "36.14",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵田中",
+      "score": "8.95",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇸🇦bot",
+      "score": "2.01",
+      "kills": 17
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90oEKxSAIBdDLu7aY///BI61m1p6wDXbMRARy0D+qO5DtUVV/ZScVetSfsepZEVSzclH9uPdT2QLIKkEn41X7y879INeSfA/bXGLF4KbkQJ8iZ97IhogcwFVm7EYETo6ksiJWFGb+rxDxjLo15UN0vIS8LbbK9apVpM2l6b12VVtc0vcuFMbUUkoYedDmZSrs/rERxqVrYW/u3ZioxRtf1dkiYU8AZGhe82M8f3IKfw==",
+    "cp": {
+      "2": "#38f587",
+      "3": "#78f240",
+      "4": "#e2f934",
+      "5": "#78f240",
+      "6": "#726cea",
+      "7": "#726cea",
+      "9": "#78f240",
+      "10": "#43f4f1"
+    },
+    "sz": 30
+  }
+}

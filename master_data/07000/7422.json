@@ -1,0 +1,48 @@
+{
+  "round_id": 7422,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-19T14:06:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇪KKK] ようこそ",
+      "team": "🇻🇪KKK",
+      "emoji": "🦊",
+      "score": "15.85",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🤠",
+      "score": "3.97",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇪KKK",
+      "score": "15.85",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "3.97",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0FEOwCAIA1BGvf+ZF7O4QUFiwvrpk2IU6WVUNtPQupqPtBxWh4NkP0tKi1W9+l06kzxevzABhiMCOztRGL0CLmZcirwZb2KvVSQf0VH5RyESbsB6VJxqtvnp97kB/0sCyw==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#3af244",
+      "4": "#ed64d8"
+    },
+    "sz": 30
+  }
+}

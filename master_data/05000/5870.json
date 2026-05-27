@@ -1,0 +1,81 @@
+{
+  "round_id": 5870,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-16T02:10:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "38.14",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "31.39",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] ヘルツネ",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "9.17",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵幻魔帝] 万華卿",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "👻",
+      "score": "1.97",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇵🇭ピース] 🩵",
+      "team": "🇵🇭ピース",
+      "emoji": "🤖",
+      "score": "1.96",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "78.71",
+      "kills": 20
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵幻魔帝",
+      "score": "1.97",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇵🇭ピース",
+      "score": "1.96",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJx101kSwyAMA1ClQub+N+7YbAkY/6TThzANLkCAXsiKq4xbLT1obBdotrlms8A3KwpkrbFgqlaBCG1Z0wdDZ9S0FUbnm7a+jr9Taw2WsixcBTMlW7tCkumm7btASJ/fi57IzoyhYcmp2tPaS+KRjQ+lFI/6xawVeGgdSxnKx4uPX75GtvgB1h36gtFXh7bZmKo+EN+5acotNngen0eYwfAJu81kBl3ZFUn6pckmmA0vfTn+MEn6D0H+DDI=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#58d3ee",
+      "4": "#f958be",
+      "5": "#58d3ee",
+      "6": "#58d3ee",
+      "7": "#a359ee"
+    },
+    "sz": 30
+  }
+}

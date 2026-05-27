@@ -1,0 +1,64 @@
+{
+  "round_id": 1625,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-06T10:11:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "😀",
+      "score": "34.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "なにこれ",
+      "team": "",
+      "emoji": "🤖",
+      "score": "28.44",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[仙台藩] 共感性羞恥心",
+      "team": "仙台藩",
+      "emoji": "🤔",
+      "score": "18.75",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 立浪和義",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "1.47",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "仙台藩",
+      "score": "52.95",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "1.47",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy1k0sSxCAIRLvB+595KmgcBLScxbBIQnhpPhIAaoZuAijI7tqVJN97f1ZSRISVwULS4/MhY5Bsf+X0Vk9v8+ov9ZFHTi+5r16RuM6bBavx3eW95SzvPH6h57AKqnp/q/ds6QqyXMCxzVUocIHEjpvmX8cMcNy3gVwK6DmRxxWMH3B+VnKY1jVNOnLiMBvZKH2tb8V8i5EDKjD2Gzj1nPc2mK6DKbHWUmKOqFdqzcDEabCX8yFsuGZyPHGGtedQXKSQ642EfVkcDWPZcwsY2qibYuaO5zame7QP4dIKKw==",
+    "cp": {
+      "1": "#fdd868",
+      "2": "#fdd868",
+      "3": "#f2638e",
+      "4": "#b365e7"
+    },
+    "sz": 40
+  }
+}

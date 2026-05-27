@@ -1,0 +1,62 @@
+{
+  "round_id": 17362,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-20T02:38:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇪🇸白旗↑] 自認レズだよ",
+      "team": "🇪🇸白旗↑",
+      "emoji": "😎",
+      "score": "47.70",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ケバブ] 名無し",
+      "team": "🇯🇵ケバブ",
+      "emoji": "😍",
+      "score": "8.19",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇬🇧漢] 練習",
+      "team": "🇬🇧漢",
+      "emoji": "🐱",
+      "score": "6.77",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇪🇸白旗↑",
+      "score": "47.70",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ケバブ",
+      "score": "8.19",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇬🇧漢",
+      "score": "6.77",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0ksOgCAMBNCR6f3PbAoN0h9O4sI+KAICM6Q+5OOjNHayHeh5NR2BcSijatEmRt7VTzUL9dNLH1BMc/fkud9GV7IioVueLqvQNSexhxWKs4979RgkxlREpFOxZMWHlaLXuZ+ryo9S0K5rZ1VtybQ5lOoWonYOubC749Qn/0bnELybnAbM",
+    "cp": {
+      "1": "#32f1ea",
+      "2": "#6feb95",
+      "3": "#b6f425",
+      "4": "#5956eb"
+    },
+    "sz": 30
+  }
+}

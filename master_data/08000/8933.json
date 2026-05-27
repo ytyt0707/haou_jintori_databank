@@ -1,0 +1,78 @@
+{
+  "round_id": 8933,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-23T00:00:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "35.16",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🤖",
+      "score": "19.83",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵vor] vorugu20",
+      "team": "🇯🇵vor",
+      "emoji": "👽",
+      "score": "0.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵エバ国] 安倍晋三",
+      "team": "🇯🇵エバ国",
+      "emoji": "👽",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "35.16",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うんち",
+      "score": "22.79",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵vor",
+      "score": "0.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵エバ国",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0o0OgCAIBOALBr3/G7czTTCz1q0248OfViIMeOeo8pKas1IC3eq4UkRmq319JtVdYxDXdR/02pWHcMvcDgXhk5lNVVSdONVS9pkajXXruu+nsiJBLShgY9IrFY49etM+canD3PvGCUeNBEAuSJ+warc3xQdFUCxXHn7Ev9gYD2xrXi/dWp7xcw5nRwht",
+    "cp": {
+      "1": "#b072ee",
+      "2": "#cbf26e",
+      "3": "#e53eaa",
+      "5": "#67f496",
+      "6": "#67f496",
+      "7": "#e73c50"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "round_id": 2168,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-07T16:54:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇹🇭チリ] てすと",
+      "team": "🇹🇭チリ",
+      "emoji": "😀",
+      "score": "70.30",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇭チリ] 東大医学部頭悪い",
+      "team": "🇹🇭チリ",
+      "emoji": "😍",
+      "score": "16.57",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[さとる] おんjタウンの霊",
+      "team": "さとる",
+      "emoji": "😍",
+      "score": "1.76",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇹🇭チリ",
+      "score": "86.87",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "さとる",
+      "score": "1.76",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN1VkSgCAIAFCE+9+5yQ2RRZ38iD/hJWo5AfiRUhKjnjWipr1yDkSuxw6bM1krIuLUfnYwuyGrMihcTYJwqm85FH8fvL5+dlrbzppQLvqzG1S0jxL0hiYq4ziTUfSaDbc734pdcRA6maHNvtmsHZ3M5zt+456bx3f6njqK90s6/uQMtnTtc3adfMi8u4z6rRSXXNQV8/4IOTj1AClPB7M=",
+    "cp": {
+      "1": "#ec8ff5",
+      "2": "#98d0f5",
+      "3": "#ec8ff5"
+    },
+    "sz": 40
+  }
+}

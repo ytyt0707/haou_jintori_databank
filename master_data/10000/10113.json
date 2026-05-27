@@ -1,0 +1,71 @@
+{
+  "round_id": 10113,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-26T10:30:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳万華郷] 万華武者",
+      "team": "🇨🇳万華郷",
+      "emoji": "👽",
+      "score": "10.89",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳カス] 〇ね",
+      "team": "🇻🇳カス",
+      "emoji": "🤖",
+      "score": "10.73",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇳万華郷] パンテオン",
+      "team": "🇨🇳万華郷",
+      "emoji": "😎",
+      "score": "3.37",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤔",
+      "score": "0.07",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳万華郷",
+      "score": "14.26",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳カス",
+      "score": "10.73",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵特攻隊",
+      "score": "0.07",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0Y0OgCAIBOC7HLz/IzcqMBSrdZub8xviD/AzZJ+LiCxVJmWhslaL3pRAu2JiQ8PIwINfVRZ6KyZnbW0btjZFUj81/UpZTw7E0Fli46SOmhkT5qds/S0BHTX+wbDQntAavXGl0HL1i/6vfFO/0Aofq5/1c3bvjwQp",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#26a7f7",
+      "5": "#efa64d",
+      "6": "#efa64d"
+    },
+    "sz": 30
+  }
+}

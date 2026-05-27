@@ -1,0 +1,105 @@
+{
+  "round_id": 10635,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-01T08:17:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "チーズ",
+      "team": "",
+      "emoji": "🐷",
+      "score": "51.37",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵YY勢] パンテオン",
+      "team": "🇯🇵YY勢",
+      "emoji": "🦊",
+      "score": "10.11",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵YY勢] ローゼンフェルド",
+      "team": "🇯🇵YY勢",
+      "emoji": "🦁",
+      "score": "8.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "🤔",
+      "score": "5.51",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇵🇭ぷゆ帝] 〇ね",
+      "team": "🇵🇭ぷゆ帝",
+      "emoji": "😍",
+      "score": "4.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵自演ｗ] 中山司=自演",
+      "team": "🇯🇵自演ｗ",
+      "emoji": "😀",
+      "score": "2.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[ソ連] チギュアってて草",
+      "team": "ソ連",
+      "emoji": "🐲",
+      "score": "1.83",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵YY勢",
+      "score": "23.98",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇵🇭ぷゆ帝",
+      "score": "4.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵自演ｗ",
+      "score": "2.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ソ連",
+      "score": "1.83",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF08EWhSAIBFByDPD/f/gdQV9gVrNoc2MyLYDgoVvOSTEkQqdlpyKCZ+3Mwi9q+NTMwj1ZW5uj446bypWsrbWMnOxTfU17DYu6K4LaKy29zjyQIzY7r1r94bH4Gu0KETWcu+VGtZqyqnI/87RbNajqqkRUKShWJSovChRAt80ASinlQzGVvC5wv5jOT3ctSIr9rP71OGgdTWrBsUN3JFQTGn+YE4hUx9b8AFeeDdA=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#72aaee",
+      "4": "#d6f631",
+      "5": "#7967ef",
+      "6": "#36ece6",
+      "7": "#36ece6",
+      "8": "#36ece6",
+      "9": "#6aec51"
+    },
+    "sz": 30
+  }
+}

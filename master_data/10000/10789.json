@@ -1,0 +1,105 @@
+{
+  "round_id": 10789,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-02-01T16:37:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "22.29",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵カス] 〇ね",
+      "team": "🇯🇵カス",
+      "emoji": "😈",
+      "score": "21.11",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵カス] ぷゆゆ🥺",
+      "team": "🇯🇵カス",
+      "emoji": "🤔",
+      "score": "19.67",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🦄",
+      "score": "13.85",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵万華郷] 彡(ﾟ)(ﾟ)",
+      "team": "🇯🇵万華郷",
+      "emoji": "🤠",
+      "score": "0.06",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "0.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵万華郷] チギュアってて草",
+      "team": "🇯🇵万華郷",
+      "emoji": "🤠",
+      "score": "0.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵カス",
+      "score": "40.78",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "22.34",
+      "kills": 16
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵万華郷",
+      "score": "0.11",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx901EOxCAIBFB2EzKw9z/whgqKQp2ftr4AalKiNt8Roo+qPivxXEpDZ0zwqiqSip9+Sh37tDGycOzlaP2qkpNRSqZW8gF3JVVJ+ivalxoDoWyfZ2tTBSBq93sUA0aeuzIxH5rCEVeQLwO8cKiNCkyVnqX2yrhorVzaFIaijt3OYve04ckopTQb897b2wU3Z11at5T/qr6S/unoE54=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "5": "#d0f84f",
+      "7": "#d0f84f",
+      "8": "#4c3deb",
+      "9": "#f32bb3",
+      "10": "#4c3deb"
+    },
+    "sz": 30
+  }
+}

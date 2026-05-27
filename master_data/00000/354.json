@@ -1,0 +1,100 @@
+{
+  "round_id": 354,
+  "game_mode": "TEAM",
+  "player_count": 27,
+  "played_at": "2026-01-03T13:36:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[大東亜] wad...",
+      "team": "大東亜",
+      "emoji": "🐲",
+      "score": "22.28",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[555] ゾンビ凸",
+      "team": "555",
+      "emoji": "🦊",
+      "score": "14.19",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "🐱",
+      "score": "14.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[特攻隊] 自爆テロ",
+      "team": "特攻隊",
+      "emoji": "🦊",
+      "score": "3.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ワタミ] 唐揚げの天才",
+      "team": "ワタミ",
+      "emoji": "👻",
+      "score": "0.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[仙台藩] ヒカキン",
+      "team": "仙台藩",
+      "emoji": "🐷",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "大東亜",
+      "score": "22.28",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "555",
+      "score": "14.19",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "仙台藩",
+      "score": "14.02",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "特攻隊",
+      "score": "3.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "team_name": "ワタミ",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV1NGuwyAIBmCG/n3/R15sa6uIipjl5JD0otNvoGKJrBHOME+vVBUuSmtccevWWnY5uG6JgjPvTs1j+gcp/5m19mPTguE5bU+tlkp36N2QPhs0u0B9NvjtM9NtPTvVkZVlZjut5zDr2GwbPCsX6WFW8SQpqLS8QPFWrCzZsNa8WkPRymVl6uFLxzNC7s5crsir2RiFLanRxrBhT90vWWkugVesSCyHJ7agTVFstcPOUO9ScUjZQqXqJab3iIZpdZwbLL9Aob3EMjQLmC1wAKisiRIYOI4b974cIu7xlCThOnGLy1KuL0T67Y2xRWGvhS3Yh6eZFfzMau4FSdtu6SR2sNuytLDTpp9nK+xa0/78wC5h1cqWgrZ7Utqub/1vL/0CLpgVyw==",
+    "cp": {
+      "1": "#91ec69",
+      "2": "#91ec69",
+      "3": "#9ff4d3",
+      "4": "#f494db",
+      "5": "#fa5e42",
+      "6": "#74a4f1"
+    },
+    "sz": 60
+  }
+}

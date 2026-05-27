@@ -1,0 +1,44 @@
+{
+  "round_id": 12098,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-02-04T15:22:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "池田大作",
+      "team": "",
+      "emoji": "😍",
+      "score": "26.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "個人戦つまらん",
+      "team": "",
+      "emoji": "🐶",
+      "score": "1.40",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "矢野彩喜",
+      "team": "",
+      "emoji": "🐱",
+      "score": "0.63",
+      "kills": 0
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJy90EEOwCAIRFEocP8rNy5sSKHfGJPO0ucQUWQjNrLgD7cZ1sQRUdRELtBmviH/od2vcXdvJVQHdW/0uVI191Ed9H2oqomrNnNyFxzxSBfPEtaaG+TmA0E=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#e94470",
+      "4": "#f4a76c",
+      "5": "#815ff1"
+    },
+    "sz": 30
+  }
+}

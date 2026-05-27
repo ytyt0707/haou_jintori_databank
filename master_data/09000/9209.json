@@ -1,0 +1,96 @@
+{
+  "round_id": 9209,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-24T09:36:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "18.19",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] ロゼ殺しのショタ",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "16.83",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇩🇪\"闇\"] †刹那の斬撃†",
+      "team": "🇩🇪\"闇\"",
+      "emoji": "🦊",
+      "score": "1.39",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇪🇸血闘牛] 蘇ったチー牛🤡",
+      "team": "🇪🇸血闘牛",
+      "emoji": "😍",
+      "score": "0.71",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🦊",
+      "score": "0.06",
+      "kills": 7
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[チー牛] チギュりパン",
+      "team": "チー牛",
+      "emoji": "😈",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "39.67",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪\"闇\"",
+      "score": "1.39",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇪🇸血闘牛",
+      "score": "0.71",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "チー牛",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0kESwyAIBVAKY/ne/8IdA6JYS9lEecKokaiOXmKvuJf8V+0zRiJy025Rqci3+hqnk0eIBcYwksyZsxKnaoB25igGANcZOosB18WqmjDVqqpaZ0yVU7305dpa8y2Oxltnv43gaLMURFOFOW153TJ+6BbMUujstGtad1Wb+M/EJShqU3adLx7CjjZdtU/i+lqe0fukybd8ONEHFvIIqg==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#f9ab5d",
+      "5": "#f648f9",
+      "6": "#53ccee",
+      "7": "#9c75eb",
+      "8": "#f9ab5d",
+      "9": "#f9ab5d"
+    },
+    "sz": 30
+  }
+}

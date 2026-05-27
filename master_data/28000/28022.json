@@ -1,0 +1,96 @@
+{
+  "round_id": 28022,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-03-21T02:25:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🏛️",
+      "score": "40.83",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ずっと] いっぱい死にたい",
+      "team": "ずっと",
+      "emoji": "🥰",
+      "score": "37.38",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無し07",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] パソコンマン",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.96",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[なきち] なきこ；＠；",
+      "team": "なきち",
+      "emoji": "🐶",
+      "score": "0.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[なきち] たきち＞＜",
+      "team": "なきち",
+      "emoji": "🦊",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "40.83",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ずっと",
+      "score": "37.38",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "2.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "なきち",
+      "score": "0.16",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkFsSAyEIBNEiSu5/4RSDkMgq8UNgWl4yHw4RMbPdT3zT00stwa8kRggaUXb+UIyXczwm4iKdyulLyMRVY618bQxIvfuQu3V6wCLiNOqvNiR6jFJ3qhb6D+2geAk1Lkh91QjVHVASsUauul19PAw74dkQIYbTjEa8O02GrrSLHrWm8ELnaCh9zJ1jIDXlvq3aVKhrnnNnudCiqbKP/M21v3zcWOgDj2wQ/A==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#30e892",
+      "5": "#59e830",
+      "6": "#8B4513",
+      "7": "#8B4513",
+      "8": "#e83075",
+      "9": "#59e830"
+    },
+    "sz": 30
+  }
+}

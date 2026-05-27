@@ -1,0 +1,56 @@
+{
+  "round_id": 10851,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-01T19:58:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ローマ] 草",
+      "team": "ローマ",
+      "emoji": "🐶",
+      "score": "44.72",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "😎",
+      "score": "0.24",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🦄",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ローマ",
+      "score": "44.95",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJydklEOwCAIQxmG+195mZOKUE02vtQXCm0U+VZmYqMoBebU8V7e8XtoLT4n2M9XgRJvZnuchS2tUOdOlwUvJifNfpexiDTGK6cEj3SulFRzvFygMj236g/qkFKyEqHei3SRdYcK0TpXn/KMmLIiXlurG1IjdESNTnw6icrFV6gbjyAH/w==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#2e72ef",
+      "5": "#2e72ef"
+    },
+    "sz": 30
+  }
+}

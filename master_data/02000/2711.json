@@ -1,0 +1,61 @@
+{
+  "round_id": 2711,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-08T22:56:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[оj軍] 隊員",
+      "team": "оj軍",
+      "emoji": "🦊",
+      "score": "25.95",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇦水分] iP",
+      "team": "🇺🇦水分",
+      "emoji": "😍",
+      "score": "24.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇸🇦🤍] 彩喜",
+      "team": "🇸🇦🤍",
+      "emoji": "💩",
+      "score": "11.58",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "оj軍",
+      "score": "25.95",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇦水分",
+      "score": "24.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇸🇦🤍",
+      "score": "11.58",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl01sSgCAIBVAe+99zo6WIF3xM/FVnLgZFdFNaimulpjxUHWSCjZmbqPi40Ekt74LGsnJjy+aKVA8pdBAISOBFJii9qqMj1/cBUMDFgcBcoL6OmTdOVU+dnrp3L+BmljneOGmfIJzPs9yNQ27Ob/ibCzq+cbx1/MsJuKAvsD4XWsfFC7aPj7bOpx26IY+8S89HSR5NbKTYN3TwU07MO4O0djg75+yykoBVGt69qAcB+Aia",
+    "cp": {
+      "1": "#a5fb79",
+      "2": "#fd4e91",
+      "3": "#92cbf2"
+    },
+    "sz": 40
+  }
+}

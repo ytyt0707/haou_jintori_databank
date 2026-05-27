@@ -1,0 +1,57 @@
+{
+  "round_id": 3888,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-11T14:46:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺ロシア] アレクサンドルⅡ",
+      "team": "🇷🇺ロシア",
+      "emoji": "🐲",
+      "score": "23.82",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 偽覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "19.89",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "殺害",
+      "team": "",
+      "emoji": "🐶",
+      "score": "8.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺ロシア",
+      "score": "23.82",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "19.89",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0UESxCAIBMCJMP//ckpWFJR42bmktAPRAHhIcC4EKaRYgPGo0BOKybahzAYN5F46rYeV63AUiqXtUEBN2+o9X1GLqJWCOToi/cifqlYaVCOOWmP0/VTsCt+MvcPv9t3epF+nUo4Z1uqrUtdECw3zDnM6VbLmz276s7t+df5Hdz4v9JxnRp274mYzL8hLB18=",
+    "cp": {
+      "1": "#dcec32",
+      "2": "#6b40f7",
+      "3": "#f83f2a",
+      "4": "#2ac4ef",
+      "5": "#f5299c"
+    },
+    "sz": 30
+  }
+}

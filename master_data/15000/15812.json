@@ -1,0 +1,41 @@
+{
+  "round_id": 15812,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-16T17:09:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[山本組] 爆弾/自認レゼ",
+      "team": "山本組",
+      "emoji": "🤖",
+      "score": "95.50",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[山本組] 山本",
+      "team": "山本組",
+      "emoji": "👻",
+      "score": "1.37",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "山本組",
+      "score": "96.87",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYGDGDRiYmfBI49NJSJYKgAmNz4hfmkhAnH+ZmMAEExM+W/BKDgpASQxSQZZ2SYTmiY+KNjIwAAAM1gpJ",
+    "cp": {
+      "1": "#63e9a4",
+      "2": "#66abfa",
+      "3": "#66abfa"
+    },
+    "sz": 30
+  }
+}

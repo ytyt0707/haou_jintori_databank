@@ -1,0 +1,81 @@
+{
+  "round_id": 56178,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-21T10:53:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] なきぞら；＠；",
+      "team": "なきち",
+      "emoji": "🌧️",
+      "score": "28.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] 凍結",
+      "team": "なきち",
+      "emoji": "🥶",
+      "score": "15.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] さとる（本物）",
+      "team": "🇯🇵ONJ",
+      "emoji": "💩",
+      "score": "12.32",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[東卍] ドラケン",
+      "team": "東卍",
+      "emoji": "🐉",
+      "score": "1.38",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "44.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "12.32",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "東卍",
+      "score": "1.38",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkVsWwyAIBS8UcP877uEZ09iWH6OTEQRmZjAmGOzRezYzyx0bs3qYWWGHvTGzoBdOlP/4LY1T3jzzLEm1rm6K1m/yUDQPXJV2dZ6n9MhtUFVgx8XdRtCGa61sBE9l0FHXhqUKV3RVDlM2SOOhwEJg4Ei96hxAq9fN1fZY/lCpzFteiEioqj+oP+fsSlmi6sn7Zj+uOLiNZo12be5rSH74JKLRH+ezTVfEn/MMiik8z/OEyIha9C7cAkF9LKcgIlAM7UiDfXN7cCdT5A12AApT",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#4d56e5",
+      "5": "#4d56e5",
+      "6": "#9ca3af",
+      "7": "#e83042"
+    },
+    "sz": 30
+  }
+}

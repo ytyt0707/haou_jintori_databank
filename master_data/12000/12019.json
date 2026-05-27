@@ -1,0 +1,33 @@
+{
+  "round_id": 12019,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-04T11:06:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[VIP] ぷち",
+      "team": "VIP",
+      "emoji": "👻",
+      "score": "12.36",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "VIP",
+      "score": "12.36",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0MsKABAURdHN+f9/FiaIg6GySwbLoy40xRrznFVlzVjDPPx7uXCkyksq+5j6vOpC/dXNv3jtz9gZQAI4RQFm",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f835b4"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "round_id": 15930,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-16T23:32:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇩🇪ナチス] 矢野彩喜、死す",
+      "team": "🇩🇪ナチス",
+      "emoji": "🦊",
+      "score": "1.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🦁",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ナチス",
+      "score": "1.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYIAARnSASxxZBR7JISnLSIEsfq2jAASYmZnBNPawYoZK4whJiCzOCMQvy4jHXuJkKVKMOyuBZADexgNq",
+    "cp": {
+      "1": "#d6ed54",
+      "3": "#f14674"
+    },
+    "sz": 30
+  }
+}

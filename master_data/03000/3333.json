@@ -1,0 +1,70 @@
+{
+  "round_id": 3333,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-10T08:34:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ゆうき",
+      "team": "",
+      "emoji": "😍",
+      "score": "38.46",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇪あ] 千石撫子",
+      "team": "🇻🇪あ",
+      "emoji": "🦁",
+      "score": "25.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "5.61",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪最強] 彩喜",
+      "team": "🇩🇪最強",
+      "emoji": "🦁",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇪あ",
+      "score": "25.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "5.61",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇩🇪最強",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN1NEShSAIBNC9rf//zU0pRgjIfYuXZuQMk5sGFKvZelrHVf3huCZrhyrPtZV90WnIzAkkmbvGWZkjfYeYPQ7W0Xd2IjM3PVhxqLn7TF29QVKH7TzUnBzzrSvv45/9FpxVd0Tvi4lgmnU65d5V0I1lVuB687dz3o8lmbfCwjyoYDBS6QuxG7OaZOU5kv0+qNgWOF4zZ6+EqKJKHXO3fPMAVp3EjZydYlAO5Q==",
+    "cp": {
+      "1": "#5af551",
+      "2": "#5be6d4",
+      "3": "#d7f63c",
+      "4": "#f08ab8"
+    },
+    "sz": 40
+  }
+}

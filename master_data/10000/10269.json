@@ -1,0 +1,100 @@
+{
+  "round_id": 10269,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-31T12:30:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "30.49",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] よわい魚",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦁",
+      "score": "13.06",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[軍鶏] シャク",
+      "team": "軍鶏",
+      "emoji": "😍",
+      "score": "4.87",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🦊",
+      "score": "3.18",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🦄",
+      "score": "2.56",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "😈",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "43.55",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "軍鶏",
+      "score": "4.87",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵特攻隊",
+      "score": "3.18",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵田中",
+      "score": "2.56",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "うんち",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9k9sOxCAIRE+DRP//izcoRbxs58GknoFSoACq4qJQ7BTBpSYxg1KGzDgcHSqiPcNC5aX6Tf3dQcuNvlHdFqWBQqaGSZrBblooG5UD8kn9+qR7XpFnxeRg4PkTzCm7bq2JNOHCO2zdsDTCOjXpltpGOPEJA+9F6YTRsk8qGww8mhFWVXLsmjg2L9Fa6/tEoqPiarSuVGanE/XFyzOoXV5VbCT4AQyD6Pa9rhFtv49e5jWS/wBmjQfc",
+    "cp": {
+      "1": "#d26aec",
+      "3": "#2b62f7",
+      "4": "#62ed2c",
+      "5": "#2b62f7",
+      "7": "#efbd6c",
+      "8": "#8367e9"
+    },
+    "sz": 30
+  }
+}

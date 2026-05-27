@@ -1,0 +1,42 @@
+{
+  "round_id": 6554,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-17T15:10:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "🐲",
+      "score": "78.16",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "(´・ω・｀)",
+      "team": "",
+      "emoji": "👻",
+      "score": "0.10",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ローマ",
+      "score": "78.16",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0UEOwCAIBMAV+f+bG6NYAaU2kFQP4yKpgBT3mjvaZ1XVje5k6gkzmrmWQ2y/5D5b/3VOaGAntY8dZ4kC7eiOrJ3JXfN2nsGyV7LIwKJkkBW6oSA4lo2OWN+Ky8poeirzQLozvuoBR3MLfw==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#efe643",
+      "4": "#86ec69"
+    },
+    "sz": 30
+  }
+}

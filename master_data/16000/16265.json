@@ -1,0 +1,56 @@
+{
+  "round_id": 16265,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-17T17:41:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 千石撫子",
+      "team": "神撫子",
+      "emoji": "👽",
+      "score": "49.32",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "pc勢",
+      "team": "",
+      "emoji": "🤔",
+      "score": "35.17",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵猛虎軍] 一等兵",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🐱",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "49.32",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF09sOwCAIA9Cy8v/fvCiRDEMZjx4rxguQRYJXrWFfdUPVln+zPmXdNWPkpY9ifLNngkstqwDWajBMaHCncKT20eB+U6kiG2sLRYR1362yr+/T0HtSeg667ysUt1oTzyv8KDkrZ2XT1+oYZ2XV/Gf53OLRvRjTCvk=",
+    "cp": {
+      "1": "#6cbbf4",
+      "2": "#695cfa",
+      "3": "#edd640",
+      "4": "#cf38f5"
+    },
+    "sz": 30
+  }
+}

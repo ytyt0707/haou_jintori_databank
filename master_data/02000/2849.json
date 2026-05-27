@@ -1,0 +1,94 @@
+{
+  "round_id": 2849,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-09T06:24:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "23.50",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うんち] ベネット",
+      "team": "うんち",
+      "emoji": "😈",
+      "score": "13.99",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "13.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "8.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵うんち] あい",
+      "team": "🇯🇵うんち",
+      "emoji": "😎",
+      "score": "0.78",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "👽",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "36.73",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うんち",
+      "score": "14.07",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "8.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵うんち",
+      "score": "0.78",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0osOwyAIBVAm6P9/cuMTkKvuJmva9YSBjOiVXGNuwWP2L8wjIMjNpFQv2InIqJhq+jWl3UnLqGazNS4KI8s6uywIyuV1SLJcujnR3Jy4RIadbAj+LHC66+AyqoYb7EeOHI2P+OasIxEtO5vz/fGy/WUYdjpmXhA5ZTyKgkV4ZyqeVuEdvZxOM2ze/inMKn8O+rNjk3lGcLfsogd0qWdkWFpwTcblAsfT0dX1b5/1fHtqwRCEZwGslKIunqFhpVWkPQd4cPr8rzsEjXuGb/bMB9XoDho=",
+    "cp": {
+      "1": "#71f5f9",
+      "2": "#f49280",
+      "3": "#71f5f9",
+      "4": "#bb77f3",
+      "5": "#f49280",
+      "6": "#f580c8"
+    },
+    "sz": 40
+  }
+}

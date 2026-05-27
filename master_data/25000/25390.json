@@ -1,0 +1,63 @@
+{
+  "round_id": 25390,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-15T03:23:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] アベベ",
+      "team": "🇯🇵自民党",
+      "emoji": "👁️‍🗨️",
+      "score": "23.68",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵革命軍] ハラディあおむし",
+      "team": "🇯🇵革命軍",
+      "emoji": "🥺",
+      "score": "14.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[虫さん] かたつむり",
+      "team": "虫さん",
+      "emoji": "🐌",
+      "score": "2.26",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "23.68",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵革命軍",
+      "score": "14.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "虫さん",
+      "score": "2.26",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkVkOxCAMQ902uf+VR84CTqk0+WiDHrYhALi1rlFgTYy94U03YRdUxCfdxrhPKlLJbGdq62gRtPWdy5NnD9ELbSgYMLP6FN7GF+GqwLc4LxINxJUWk5qJ7Qc18T21NuTjVBkj5h9Usk/qHAD1mNcNY3d3zgd83NeNyIrGaBQnIwbciTddLJuc+sKfFPlG9JqV4oqfyDO3dxjpE1X7msT/DwVK+6R4aGtRtq/c3tk01j9mEgeo",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83098",
+      "4": "#6ae830",
+      "5": "#30e85e"
+    },
+    "sz": 30
+  }
+}

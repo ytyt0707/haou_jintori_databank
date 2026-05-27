@@ -1,0 +1,72 @@
+{
+  "round_id": 8919,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-22T23:15:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵エバ国] 安倍晋三",
+      "team": "🇯🇵エバ国",
+      "emoji": "🐷",
+      "score": "38.80",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チー牛] チギュりパン",
+      "team": "チー牛",
+      "emoji": "💩",
+      "score": "17.45",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "いいぼう",
+      "team": "",
+      "emoji": "🐷",
+      "score": "8.61",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇷🇺水死隊] ドザえもん",
+      "team": "🇷🇺水死隊",
+      "emoji": "👽",
+      "score": "7.52",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵エバ国",
+      "score": "38.80",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "17.45",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺水死隊",
+      "score": "7.52",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0NsOwyAMA1CzGP//J1fQAMlgvMyq1MsRJpQcQU9p8UeApNnykgKax1f/UMvlr1pQDJ37LzWMLOWBy+hP2qulWiXnMFVX1RZJpXE/rnHOPFDqzSEJNyVrUEVtn12xaZ3pc0dFVu4bLyXnxttQ7Z6aP5GX6vtEnqs6ChfFVQ9r2ztuzfNfnZt1neqq+kNxVOC9ZgQ8TxsL7g==",
+    "cp": {
+      "1": "#b072ee",
+      "2": "#cbf26e",
+      "3": "#5ff74b",
+      "4": "#e963e9",
+      "5": "#6cefce",
+      "6": "#f53d59"
+    },
+    "sz": 30
+  }
+}

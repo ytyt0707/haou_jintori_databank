@@ -1,0 +1,82 @@
+{
+  "round_id": 3666,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-11T02:36:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] ベネット",
+      "team": "🇯🇵田中",
+      "emoji": "🐱",
+      "score": "41.40",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😍",
+      "score": "28.41",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] おかあさん",
+      "team": "🇯🇵田中",
+      "emoji": "🐱",
+      "score": "11.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤔",
+      "score": "2.44",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇫🇷十字軍] ド騎士",
+      "team": "🇫🇷十字軍",
+      "emoji": "😎",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "81.12",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "2.44",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇫🇷十字軍",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNlAuOwzAIRM2uZ9S9/4UrwB+MSbujqnLwy0AIcWsquWThRlWLioj+6Ta3ao6k8FBhqEtmZW4V9cy1wF2GgSMHZ8avkhNLJhbwAh78QkhYJL4xh9QxmtbcUuKuNtTc3S6i4IbBsuqF4exriPXeZZEHt29uhvUOgDkv49P1IQBy9oUVB5WEwnd1/+AmCMAxYki3kP1sp3drX1Yc+GUyFyviQ77Liw7xzoNjShjAm+ORbYASOR/N0d0FAvsjjAUa1bQfk0PFEW5mfbOfFH5C7y1m7z9xtKmRpHRUOWd25vX3wPnLNEMc8YvDmrgTu7hBfq5vvIv27TkcLM7hIvRTRasjvIrHa1v+jnDbRDztHy+m3ixeEZE=",
+    "cp": {
+      "1": "#6ef2d7",
+      "2": "#5497fc",
+      "3": "#f94e98",
+      "4": "#97f298",
+      "5": "#6ef2d7",
+      "6": "#6ef2d7",
+      "8": "#784ee4",
+      "9": "#fc805a"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 14052,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-12T08:42:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "🦁",
+      "score": "38.92",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵猛虎軍] 珍カス",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🦊",
+      "score": "20.81",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇵🇭ぷゆ帝] ぷゆゆ🥺",
+      "team": "🇵🇭ぷゆ帝",
+      "emoji": "🤖",
+      "score": "11.02",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "20.81",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇵🇭ぷゆ帝",
+      "score": "11.02",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0oEKwCAIBNDb9P7/l0etnJlFOwiihyYRkEREypJwrDWVl6qpak8v/qnX67G1+gw4iMI4ylCaq8gZb1W9ur3NHBTOtTPpJHZjyXR/LWXLNGFR8mNEBRO+M7XupgzZK/e10Ltl1Tkfyit2ipViqe1B7DeWE2fneQDXhwpP",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#2debb2",
+      "4": "#f2ac6e",
+      "5": "#ef5dea"
+    },
+    "sz": 30
+  }
+}

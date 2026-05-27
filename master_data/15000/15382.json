@@ -1,0 +1,55 @@
+{
+  "round_id": 15382,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-15T10:42:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵しね] 鮑大震災",
+      "team": "🇯🇵しね",
+      "emoji": "🦁",
+      "score": "77.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵しね] いただきマウス",
+      "team": "🇯🇵しね",
+      "emoji": "🤖",
+      "score": "7.56",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🐷",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵しね",
+      "score": "85.30",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵田中",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzd08sOwCAIRNFrM///zY0BrRXCou2qbA/jAyPQ9mJWoHtXzaVWOFV6kH1zKmzXXplKhiheHnDtDVFHVqBVD9cZVcw2RjRoPwiWz17MFCyaaPNlFefq7eksvpjz75VLWf8UW532egPF",
+    "cp": {
+      "1": "#53f97c",
+      "2": "#f551df",
+      "4": "#53f97c"
+    },
+    "sz": 30
+  }
+}

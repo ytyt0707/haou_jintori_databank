@@ -1,0 +1,67 @@
+{
+  "round_id": 8977,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-23T02:40:17.000Z",
+  "players": [
+    {
+      "rank_position": 3,
+      "player_name": "ティンコゥ",
+      "team": "",
+      "emoji": "🤖",
+      "score": "3.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵グリコ] ベネット",
+      "team": "🇯🇵グリコ",
+      "emoji": "🦊",
+      "score": "2.39",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇷🇺中立国] 平和主義",
+      "team": "🇷🇺中立国",
+      "emoji": "😀",
+      "score": "0.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵グリコ] けんた",
+      "team": "🇯🇵グリコ",
+      "emoji": "🦁",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵グリコ",
+      "score": "2.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺中立国",
+      "score": "0.43",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV00ESwyAIBVCm9KP3P3EHKAqBLsomE58fjUmAXETkF7GiSkQQgUQ1VCIdHxTAiRX1aKx4Bh9KuWkonbLuAHaKIqvVtkbPsN8K9sa9vcpn570zmO9jNWVVxNb+VhbflzZ+NTQuURRlFEvhvHbWmIGx4svAOT9Q0+8M11xr6eC77ybpT1zVGxauqi9mVqH+Gado4JrU+w5/QI2OWRnO+ANbGgxP",
+    "cp": {
+      "2": "#cbf26e",
+      "3": "#f15fde",
+      "4": "#4df82a",
+      "5": "#364de2",
+      "6": "#364de2",
+      "7": "#4df82a",
+      "8": "#f35135"
+    },
+    "sz": 30
+  }
+}

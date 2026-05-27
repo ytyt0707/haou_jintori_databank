@@ -1,0 +1,48 @@
+{
+  "round_id": 12021,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-04T11:13:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🦁",
+      "score": "8.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵北朝鮮] 弾道🥺ミサイル",
+      "team": "🇯🇵北朝鮮",
+      "emoji": "🐲",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "8.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵北朝鮮",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0VsOABAQQ9Ga2v+aBX+S1isS9/cgA6AXNQRU3c84/OYVPp0L5kpz3YhOKJWtB8qpJj0ynNqTeaELM+vHGH4g63X/VQA/BwE1",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#382bee",
+      "4": "#f24046"
+    },
+    "sz": 30
+  }
+}

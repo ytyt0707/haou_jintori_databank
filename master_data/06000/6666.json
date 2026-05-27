@@ -1,0 +1,112 @@
+{
+  "round_id": 6666,
+  "game_mode": "TEAM",
+  "player_count": 12,
+  "played_at": "2026-01-17T21:13:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "😍",
+      "score": "37.66",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "💩",
+      "score": "8.93",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🤔",
+      "score": "8.28",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 爆弾/自認レゼ",
+      "team": "みん²",
+      "emoji": "😎",
+      "score": "5.64",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "💩",
+      "score": "4.14",
+      "kills": 9
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "🦄",
+      "score": "0.12",
+      "kills": 5
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇸🇦bot] 名無し👾",
+      "team": "🇸🇦bot",
+      "emoji": "😂",
+      "score": "0.05",
+      "kills": 10
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[みん²] ワイに負ける雑魚",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "0.05",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "14.67",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵万華郷",
+      "score": "8.28",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳チギュ",
+      "score": "0.12",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇸🇦bot",
+      "score": "0.05",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90tsShSAIBdBdHHGG///gRkAB88RDD624iBGNQEuBCEVq+ih6XcFJydXRv3AjzbNMV0QqSphClVbdOla0/tYGOaEWvu8GETnmjlSRpLqpzC/NAciMt2LM/EdjG169FM269UVWAL0nRdFuUXJT3qb2ulXGifsLnb8VADPPptuyDKv+lrLFnHjbpdpsvFVmZTDmTKaIohznzblF5898Vr+BdU9+UtXRU/UBIvcKdg==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#9c41ec",
+      "4": "#ebdd75",
+      "5": "#f75578",
+      "6": "#f75578",
+      "7": "#6850f2",
+      "10": "#f0a46a"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "round_id": 8476,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-21T23:06:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐲",
+      "score": "40.30",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チー牛] チギュりパン",
+      "team": "チー牛",
+      "emoji": "💩",
+      "score": "2.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ゲスト] 〇ね",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😈",
+      "score": "2.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ゲスト] おめんこ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤠",
+      "score": "1.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵阪神] 爆弾/自認レゼ",
+      "team": "🇯🇵阪神",
+      "emoji": "🤠",
+      "score": "0.95",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "44.22",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "2.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "0.95",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyVz1sOxCAIBVAGL7D/HTf4qKjYZEj6oYeLlJiJyL+0+CpNv5h7/GjC3rYcF92y2EfNM4jXqKrvNwbwqZgMLEupqmBmd1NVIGQxu5qqMLfVeOrLEBG/95uhdQMvqYVRAxFw0/eUZrG2bIMvGDiBwP8p6Jwsq76Pp1t9Kg0163N/WdbMUK6TazYyRSUqpeTh/lOlkN21li8As3D1AN1gB6s=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#c05eed",
+      "4": "#ef5d8d",
+      "5": "#ef5d8d",
+      "6": "#54eb3d",
+      "7": "#ef5d8d"
+    },
+    "sz": 30
+  }
+}

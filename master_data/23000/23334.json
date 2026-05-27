@@ -1,0 +1,66 @@
+{
+  "round_id": 23334,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-09T20:32:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しob",
+      "team": "",
+      "emoji": "👽",
+      "score": "29.49",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "🦁",
+      "score": "28.75",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] ゲスト(ゲイ)",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "18.50",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 🇷🇴",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.53",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇫🇷デパ",
+      "score": "28.75",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "21.03",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkwuOBCEIRAtB7n/kCT8FdzNTSceOz8KStgFuEgCQFEQmLFDjD9pwOe4Ivljozsdbi8REL+6U997T/ZXeTW3Z633p3HjSP7H6vmQasTrdm2ik1k5ZBlUdVIhItY6sqiOViMG9VTTVKlseMzcdmlkH7ZWdN+NM9Q+lU5rj847Sl1okf1pxJPYuehsbVCCDHfxQCLPdGtNz4rreCZfIaZS1Mi6/QRAtF6q4QVNYkxZ0a1sQXi1zkhiCrbX8T7O5D8JjDBs=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830cb",
+      "4": "#4d64e5",
+      "5": "#8B4513",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}

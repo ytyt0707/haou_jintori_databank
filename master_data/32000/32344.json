@@ -1,0 +1,51 @@
+{
+  "round_id": 32344,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-30T23:49:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "涼宮ハルヒ",
+      "team": "",
+      "emoji": "🙂",
+      "score": "19.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] んんんん",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "13.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] うんちょ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.43",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "14.66",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFklluBDEIRCnKvv+Vo2KVkxmFj26LR7HZZmbH1s5j8oejAh4YMnla/Yk2yzyYkPXnaUAcPtCVTr2OOsA/dPkzrKZDiSNDZ8w/eYB71ZEoHkq6t1YYT2b6AUim+jd1SSmcYz9XQA8M8N57zfCXksBR8uho96GeXHllX2gW/kpLTHIfhhszM0qci9DFu3lR9RQzSRjPxn1oQHHUEiVNY3asVWJpwfipJbjb4KjaEdmwWWujeMNaRtDqy6JyVm+tdjx4tLPJQcqtmcLIDIiC+Wlph3hscQPcI8E68vQDzz0Fmg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e830dd",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

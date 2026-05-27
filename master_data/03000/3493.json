@@ -1,0 +1,45 @@
+{
+  "round_id": 3493,
+  "game_mode": "TEAM",
+  "player_count": 2,
+  "played_at": "2026-01-10T17:13:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ナムコ] リッジレーサー",
+      "team": "ナムコ",
+      "emoji": "🐲",
+      "score": "94.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ナチス] シュトロハイム",
+      "team": "🇩🇪ナチス",
+      "emoji": "👻",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ナムコ",
+      "score": "94.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzdlDEOACAIAy/+/9EOaqILFIMOdDOeBRoD0AyZlx+k1k/nRLAK9yRogd37s3Au/KpyxDnEuiqXvhgkOx7kLA6iLsns/KLzevjkXFuWjvN4uX8SOmRZC8M=",
+    "cp": {
+      "2": "#99ea7b"
+    },
+    "sz": 40
+  }
+}

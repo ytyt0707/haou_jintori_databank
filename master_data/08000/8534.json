@@ -1,0 +1,48 @@
+{
+  "round_id": 8534,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-22T02:14:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐶",
+      "score": "19.98",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇸CIA] ぷゆゆ🥺",
+      "team": "🇺🇸CIA",
+      "emoji": "🦄",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "19.98",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸CIA",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0FEOwCAIA1Ao3v/MRpM5SJFE97t++mgiiNzEZgpKcDwZaYuttGs7RaUAUsWjIDW4cDkifToirXSq75AEWypeVf3B1txYd6pnitZedv98TgewEgLD",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#5dd7f8",
+      "4": "#f962bd"
+    },
+    "sz": 30
+  }
+}

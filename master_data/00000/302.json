@@ -1,0 +1,106 @@
+{
+  "round_id": 302,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-03T10:48:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[さとる] NoName",
+      "team": "さとる",
+      "emoji": "😎",
+      "score": "24.62",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[さとる] やきとり",
+      "team": "さとる",
+      "emoji": "👽",
+      "score": "18.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チーム] 彩喜😻",
+      "team": "チーム",
+      "emoji": "😂",
+      "score": "9.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チーム] 美衣👧",
+      "team": "チーム",
+      "emoji": "🐲",
+      "score": "5.88",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[さとる] ゴミ",
+      "team": "さとる",
+      "emoji": "👻",
+      "score": "3.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[管理人] 管理人",
+      "team": "管理人",
+      "emoji": "💩",
+      "score": "2.36",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "🦁",
+      "score": "0.94",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "🦊",
+      "score": "0.44",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "さとる",
+      "score": "45.75",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チーム",
+      "score": "15.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "管理人",
+      "score": "2.36",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy91lmOwzAIAFCKC839T1x5w4DBiTrS8DGapn6B4CUF+L8gqn+Zf5FExC2yIYip5RkpbRFZTm0bjteFEvZ75tS2oYjXwvZBa8VSdWgvsV5KwGYRS896R1sFzpYqdhpaCtpb05ZSbHcjbUaUDht19jaxpk+wLVjbe2ysodaGWuFOAWIbYNWq64xP9pqBSWJowwN7rUDE2PrcOY0sxCX3JTnWYynx9lXaXEQfud0uOhnXPDt2pJg8cD+ytoqLoxEmbseG2wcOR7YfNd42V4qjRaN50MG7R27750WpJ6zP+n47XaHNiytxowxM851g8jZcFNZ2nKl9SciH1JrdwDKe12vB7EBTtKLqDaTDJC56koSqMj12M2ysfWMe875aSN0Np9RtiGFxtGzYOfKJffV2V1l6hykq/GDH5MownutY/nEbceFxgzWtJg52hoi0WxumpePJEQzgcH26Z5Y9fY1DUGy2NDx2lsOZPSR2abNORVaXfFCRbfDz+VC4mE6UJhV8bPWNPabe6WMb0GnHDca4ndIuh12Js8wUUDLwyZFjKD+hax+5THeYtE1+MWZTbKjmIDcmAE4t2JhX4q8XhV/iD3SLL0MvKEg=",
+    "cp": {
+      "1": "#f85474",
+      "2": "#fbde37",
+      "3": "#fbde37",
+      "4": "#928dec",
+      "5": "#f85474",
+      "6": "#f85474",
+      "7": "#a2f1f1",
+      "8": "#d164ed"
+    },
+    "sz": 60
+  }
+}

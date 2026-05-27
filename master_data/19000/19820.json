@@ -1,0 +1,75 @@
+{
+  "round_id": 19820,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-01T21:40:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇰🇷イラン] うゆ",
+      "team": "🇰🇷イラン",
+      "emoji": "😈",
+      "score": "23.15",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷イラン] ハメネイ師",
+      "team": "🇰🇷イラン",
+      "emoji": "🦊",
+      "score": "22.77",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵きゅ] きゅっきゅ",
+      "team": "🇯🇵きゅ",
+      "emoji": "👽",
+      "score": "10.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵きゅ] たぬちゃん",
+      "team": "🇯🇵きゅ",
+      "emoji": "🦁",
+      "score": "3.59",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "名無しvA",
+      "team": "",
+      "emoji": "😈",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷イラン",
+      "score": "45.92",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵きゅ",
+      "score": "13.74",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGF0lmOxCAMBNCyyzD3v/GobENC0q3mA0GeF4jAnABmzloACJihxnyO0DBNiFDaMUqTv2vx59ywLzqzb1c+emqTfdf0qnzwqdqtPF0MEY/il5ohFN0B42y8NOYcYwycbFaNyDEoryJdXOoek+L0bHSpuzu36gj7WGZC9yHPkCydDmttE28FYKjcKi7l+h+8FMjeUlZjYefmM1nl1ZRB7r5+40TyT33N6ShEJbdyn6ofYHJehhTWmReCTItGoG+0AuqZrt1LC7Kulvk3ruDHSvr4dNv+yL1Fvpf/tdYKgQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#e83042",
+      "4": "#d4c811",
+      "5": "#e83042",
+      "6": "#d4c811",
+      "7": "#e830dd"
+    },
+    "sz": 30
+  }
+}

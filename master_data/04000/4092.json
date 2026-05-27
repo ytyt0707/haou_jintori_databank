@@ -1,0 +1,96 @@
+{
+  "round_id": 4092,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-12T01:53:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🦄",
+      "score": "20.99",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うんち] うんこ",
+      "team": "うんち",
+      "emoji": "🤖",
+      "score": "20.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷革命軍] サートルナーリア",
+      "team": "🇫🇷革命軍",
+      "emoji": "🦁",
+      "score": "19.47",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "6.87",
+      "kills": 9
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "👻",
+      "score": "2.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇫🇷革命軍] サボ",
+      "team": "🇫🇷革命軍",
+      "emoji": "👻",
+      "score": "0.30",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "41.36",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷革命軍",
+      "score": "19.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "6.87",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "team_name": "チー牛",
+      "score": "2.14",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0lEOxCAIBNBRsHr/E28QVqjiZuejTXxOrbaoWyBhC1ABHW+tMXPlEJlZo/Kuk9HuKpeL9jklKwO9myLp9hnp7+QqE/7VUnhIlpJzKafSa+WhAXk3HPGwLqz65aiOrnM8KJHzWvNQ5RH4VL7pXg766JGN/cnmz0/VlRPt4bX2Hfl3wmK5ZTqCyl+Rqk6REBFWrIqlr3g1Uyy8qW3pAx44DvA=",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#9c5cf0",
+      "4": "#f06ab2",
+      "5": "#69ecad",
+      "6": "#e748ef",
+      "7": "#e748ef",
+      "8": "#f06ab2"
+    },
+    "sz": 30
+  }
+}

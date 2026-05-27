@@ -1,0 +1,96 @@
+{
+  "round_id": 3980,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-11T19:49:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんこ] 安倍晋三",
+      "team": "うんこ",
+      "emoji": "🦊",
+      "score": "38.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うんこ] やったか！？",
+      "team": "うんこ",
+      "emoji": "🤔",
+      "score": "22.97",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うんこ] うんこ、な？",
+      "team": "うんこ",
+      "emoji": "😀",
+      "score": "15.20",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵👾] 矢野彩喜様",
+      "team": "🇯🇵👾",
+      "emoji": "🐷",
+      "score": "6.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[A] sasisuse",
+      "team": "A",
+      "emoji": "😍",
+      "score": "2.49",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵うんち] aplir",
+      "team": "🇯🇵うんち",
+      "emoji": "😂",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんこ",
+      "score": "76.69",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵👾",
+      "score": "6.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "A",
+      "score": "2.49",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵うんち",
+      "score": "0.30",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0AGOxSAIBNAJFma5/4U3KFp0283/JE3V56At0ERE0KIAYoxicrUWExFppcjx/rliq0xmrJNT25WNJEODVxdwKlfdZ6xLkGZks2Iri9AYmlVErEdX0CayaD3LtuhU6zs2mX9nagSNx60S4jHb1Azoi6rphQIxUNWY8buwsqEn79mTb7UHzVtRVfmiDNRulTE1y9yfsqR7iB88ju3ofmJXvmvp/JdT3Stj+95/s+/1kWL88y/rF3WIEKI=",
+    "cp": {
+      "2": "#f7dc40",
+      "3": "#ed6240",
+      "4": "#ae32ec",
+      "5": "#f457b8",
+      "6": "#ed6240",
+      "7": "#ed6240",
+      "8": "#ae32ec",
+      "9": "#3debc5"
+    },
+    "sz": 30
+  }
+}

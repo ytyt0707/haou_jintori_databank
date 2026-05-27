@@ -1,0 +1,47 @@
+{
+  "round_id": 10005,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-26T04:39:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] 都電とおでん",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😈",
+      "score": "45.45",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇸不殺隊] 糞漏らし太郎最強",
+      "team": "🇺🇸不殺隊",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "45.45",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸不殺隊",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJydkEsOwCAIRJHM/c/cKEJFxsaUBQsew2dEaiipiQg+KdECQE98GjasGlo4tREGVxr6QdWCjB8NGcbaGZsUSA1JmeaOy1dhWmraM53lRqkb0hp7x+yQpgROOzxVHLYyp8oFv+jLOcUVPWHcUtZyt5lz+rRUusawmiPv6PkBUYQG2w==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "4": "#2a57f8"
+    },
+    "sz": 30
+  }
+}

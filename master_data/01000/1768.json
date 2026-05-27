@@ -1,0 +1,127 @@
+{
+  "round_id": 1768,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-06T18:52:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇩🇪ナチス] パイソン",
+      "team": "🇩🇪ナチス",
+      "emoji": "🤔",
+      "score": "14.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇲🇽ぷゆゆ] 🥺",
+      "team": "🇲🇽ぷゆゆ",
+      "emoji": "🤠",
+      "score": "10.08",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵日本軍] おにぎりゃー",
+      "team": "🇯🇵日本軍",
+      "emoji": "😀",
+      "score": "9.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵日本軍] ロゼしか勝たん",
+      "team": "🇯🇵日本軍",
+      "emoji": "👽",
+      "score": "8.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵日本軍] 隊長まりも",
+      "team": "🇯🇵日本軍",
+      "emoji": "😈",
+      "score": "6.98",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵大日本] 大日本帝国陸軍",
+      "team": "🇯🇵大日本",
+      "emoji": "🦄",
+      "score": "2.67",
+      "kills": 7
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵大日本] 大日本帝国",
+      "team": "🇯🇵大日本",
+      "emoji": "🦊",
+      "score": "2.65",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵日本軍] 安倍晋二",
+      "team": "🇯🇵日本軍",
+      "emoji": "😀",
+      "score": "1.26",
+      "kills": 1
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇺🇸米帝] トランプ",
+      "team": "🇺🇸米帝",
+      "emoji": "🐲",
+      "score": "0.26",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵日本軍",
+      "score": "26.14",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "14.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇲🇽ぷゆゆ",
+      "score": "10.08",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵大日本",
+      "score": "5.32",
+      "kills": 10
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇺🇸米帝",
+      "score": "0.26",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0tsWAiEIBVBG52D+/w+3EFC8NLU6L2XuQaEhOifn/GFHkmR/pC44aXIKrkpm1xDE2YnOZihIIh8OjdWlHHoMfnVAFlj7ufngyCHV3F2EDVzatAfuSimlU1wXmiNChTNzWCcojKQZYFxwVAsu6bqGRkK54NLKcj679Lc7vArqqjdr/R6ddGzFrN0AZ+ZDqUApiGOOzaK59jIARKfbkTkkfWcwwzFfd3o0Hh2F621uusZQ6wVpc/jO6LdqCn9QAjf2kuxwda8PjpTdku74dDScdcjM+l03HN4jVpBZfo17M5Mlsx9sm1rzniOOmHk9aI04zbO7u3uW0ge3jp9hH7S6x3r6h7QhTjvhsTj/abHlDc1HESE=",
+    "cp": {
+      "1": "#f59e51",
+      "2": "#f499e7",
+      "3": "#ac3bfc",
+      "4": "#cbf495",
+      "5": "#ac3bfc",
+      "6": "#93e4fb",
+      "7": "#ac3bfc",
+      "8": "#93e4fb",
+      "9": "#ac3bfc"
+    },
+    "sz": 40
+  }
+}

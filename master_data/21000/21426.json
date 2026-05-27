@@ -1,0 +1,66 @@
+{
+  "round_id": 21426,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-05T13:24:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "😀",
+      "score": "37.24",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "金井聡太",
+      "team": "",
+      "emoji": "😎",
+      "score": "9.49",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵きゅ] きゅっきゅ",
+      "team": "🇯🇵きゅ",
+      "emoji": "😀",
+      "score": "7.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😂",
+      "score": "0.43",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵きゅ",
+      "score": "7.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "0.43",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9k9sOwzAIQ82K9/+fPGFuaSuNh6rNwSaQFCAAcAJ2hFZPSnJx0RbbycwelIyVcW+65mZrTfK6Yl8dW9TC+YpoBoxrpL1pJAaJB17ahoABMj6cKWVVSulByzZx0+iSGmoWDX+ssxqPnNx0+pe22VBt2ZIulHtPJBs6YdT+Txur3ZtU+27xnVRPY/6gNSOPGQN5+vxkEnTJXBG0bsynsJyTOuKIFEMlKLx0ygMs6B6T/w7Ry0Ed/D7oSt350vKBD+dsYgp7/wSZIrrQazjZen7kpHU5fqtRCX8=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#d130e8",
+      "5": "#e83042",
+      "6": "#e830a9"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "round_id": 8124,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-21T04:04:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[廃] 爆弾/自認レゼ",
+      "team": "廃",
+      "emoji": "😎",
+      "score": "14.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍌] ぺにぺに♂",
+      "team": "🍌",
+      "emoji": "💩",
+      "score": "11.55",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇷🇺KGB] 蘇ったチー牛🤡",
+      "team": "🇷🇺KGB",
+      "emoji": "😎",
+      "score": "3.68",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "廃",
+      "score": "14.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍌",
+      "score": "11.55",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺KGB",
+      "score": "3.68",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNkNEWgCAIQ7HB//9yxyJMHNaePFy3iSK/ZWZWIZF2X3Al3i5ZXMmxrflwpo+h4/UFlvpKGoOVsuXIBpnWH0NpHcxDKI3z8ZqrU9lQCKXaKQAUVBd67Ogw60Xn3ilYqy2DgntpL0nGezTkwUCaB+1GLK7h9d6NdRSH7VsnYasEtA==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ebd960",
+      "4": "#4bf74e",
+      "5": "#f78045"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "round_id": 4022,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-11T22:06:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👽",
+      "score": "19.23",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🐷",
+      "score": "16.42",
+      "kills": 23
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ぷゆ軍] ぷゆ吉",
+      "team": "🇯🇵ぷゆ軍",
+      "emoji": "😀",
+      "score": "15.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "🐒",
+      "team": "",
+      "emoji": "🤠",
+      "score": "12.74",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ぷゆ軍] 偽覇王/束音ロゼ",
+      "team": "🇯🇵ぷゆ軍",
+      "emoji": "😎",
+      "score": "4.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇹🇭うんち] アクメ王",
+      "team": "🇹🇭うんち",
+      "emoji": "😀",
+      "score": "0.85",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[SCP] SCP-4162",
+      "team": "SCP",
+      "emoji": "🐶",
+      "score": "0.63",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[oj軍] 管理人",
+      "team": "oj軍",
+      "emoji": "🤠",
+      "score": "0.19",
+      "kills": 4
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[oj軍] アベベ",
+      "team": "oj軍",
+      "emoji": "🦄",
+      "score": "0.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[oj軍] 衛生兵",
+      "team": "oj軍",
+      "emoji": "🦊",
+      "score": "0.05",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ぷゆ軍",
+      "score": "19.47",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "19.23",
+      "kills": 13
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵田中",
+      "score": "16.42",
+      "kills": 23
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇹🇭うんち",
+      "score": "0.85",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "team_name": "SCP",
+      "score": "0.63",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0QEOwyAIBdA/XCp197/vggUEdWY/adrwIqWUYWEGmjy01m8gqUk6cvMAROTa40aWRcnxvqPasb3KUBRVO7/5xfyR0ShH1Q5PmDvPR5PSSZm1Wmutq2KgOCZ9plbFRgcjM0zpt4IIS2v/zaIIikCa0brn8gztLoWAclXXa5Od4j+tx86H95ZS4si5tyDGsqyMSz89qR1dd/UodCXzMpf9zvkCAHcPIQ==",
+    "cp": {
+      "1": "#35f42f",
+      "2": "#baf561",
+      "3": "#9855f7",
+      "4": "#35f42f",
+      "6": "#f542e0",
+      "7": "#39efb8",
+      "8": "#e54d73",
+      "9": "#2ee7ea",
+      "10": "#baf561",
+      "11": "#35f42f"
+    },
+    "sz": 30
+  }
+}

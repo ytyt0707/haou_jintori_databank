@@ -1,0 +1,56 @@
+{
+  "round_id": 795,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-04T13:24:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ソロ] よっぴ絵師",
+      "team": "ソロ",
+      "emoji": "🦄",
+      "score": "34.51",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[大東亜] wad...",
+      "team": "大東亜",
+      "emoji": "🦊",
+      "score": "23.36",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "🐷",
+      "score": "3.87",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ソロ",
+      "score": "34.51",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "大東亜",
+      "score": "23.36",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV1MEShSAIBdALvP//5jcqJAom21g0NZ4IRQNAKAX1aDfgYwAkImTx4kQcPDuRGqQVXhNuMLyAPSHRj5PEMPjkywuAznjO5OhQc8wl1y4iwpujmK5DCpE6XiYbIWyPUISZm0M5VOeHokNr2zqWut5ezFbpSNvd0S3FD9eKAfwpGKdjQnXW0B76QPs8NFU8bh7aZ6NbFnCmi85Bv6bZUWe3NDjms78CP7+QFxcqKbK7c02ouQusOhTZ2C21hfle/AEQFAZO",
+    "cp": {
+      "1": "#87fe6d",
+      "2": "#93f6d3",
+      "3": "#9cb4f2",
+      "4": "#87fe6d"
+    },
+    "sz": 40
+  }
+}

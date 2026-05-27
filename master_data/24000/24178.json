@@ -1,0 +1,57 @@
+{
+  "round_id": 24178,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-12T09:45:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[獣] 山上徹也",
+      "team": "獣",
+      "emoji": "🦊",
+      "score": "50.64",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[獣] ポケモンBBS",
+      "team": "獣",
+      "emoji": "💩",
+      "score": "7.85",
+      "kills": 16
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] きつね",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.40",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "獣",
+      "score": "58.49",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "1.40",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtkgkSwCAMAmkM//9yh2iUHs601a5APIAxuBsAMk7DcNrTxDMi+EtbL2rWSxyUlCj6xcwkm35wZGZSRf15Z+Z1aGWryAAQ5EU9GDN4jC4zEIFZ3AU2PVsQUfKqStOU7FT2vTGTO4VaGH9oi7r6aV3YtHRMFSa49UbrEKncRcETzEmFt3bvRkhUL7Z+2JVQ4FqODnFa9YK91LaYDDqIFq58Hc2iHbgMCkii5qbVX//X54236a/4Qd9SbnoWaXM6135Zt8q1cXX39taNf9Me4wamVQyW",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#8B4513",
+      "5": "#6e4de5"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "round_id": 2855,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-09T06:43:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "58.51",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇦デカ女] ゆうちゃみ",
+      "team": "🇨🇦デカ女",
+      "emoji": "🦁",
+      "score": "11.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[Hko] おまえアホやろ",
+      "team": "Hko",
+      "emoji": "💩",
+      "score": "9.50",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "58.51",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇦デカ女",
+      "score": "11.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "Hko",
+      "score": "9.50",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0lEOwyAMA1Ab7n/naYVAUAxN1UnzV1K9EgoFAH4DXBUwil4TVtLlalBmWIqt4mGReeT82L0jX7nlhfZ5CM6K2dl6cG6Urg9zOR2PLu63HfON61FOvZp38SkEDU7vN1yvjv77pLpbrwKrk77W4DZswv3EmnM96PQ81fBhe1nH5y6/vb+41DmPK8k6LQWTNOmg2SJbr5WX1kv0o3wASyEG7Q==",
+    "cp": {
+      "1": "#edf849",
+      "2": "#f56251",
+      "3": "#3af879"
+    },
+    "sz": 40
+  }
+}

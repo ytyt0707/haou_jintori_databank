@@ -1,0 +1,137 @@
+{
+  "round_id": 603,
+  "game_mode": "TEAM",
+  "player_count": 17,
+  "played_at": "2026-01-04T03:02:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[優] キング",
+      "team": "優",
+      "emoji": "😍",
+      "score": "24.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[北酒場] 細川たかし",
+      "team": "北酒場",
+      "emoji": "👽",
+      "score": "10.25",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[鈴木組] ハンニバル",
+      "team": "鈴木組",
+      "emoji": "🐶",
+      "score": "5.19",
+      "kills": 11
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[鈴木組] ミロク",
+      "team": "鈴木組",
+      "emoji": "😎",
+      "score": "4.83",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 落ちすぎ",
+      "team": "みん²",
+      "emoji": "😎",
+      "score": "4.30",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[マンコ] ド騎士",
+      "team": "マンコ",
+      "emoji": "👻",
+      "score": "3.90",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[鈴木組] 俺は元トマト無双",
+      "team": "鈴木組",
+      "emoji": "🤖",
+      "score": "2.61",
+      "kills": 6
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[ぷゆゆ] 東京の獅子",
+      "team": "ぷゆゆ",
+      "emoji": "🐶",
+      "score": "1.60",
+      "kills": 4
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦄",
+      "score": "1.57",
+      "kills": 9
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[荒らし] 漢委奴国王",
+      "team": "荒らし",
+      "emoji": "😈",
+      "score": "0.27",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "優",
+      "score": "24.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "鈴木組",
+      "score": "12.62",
+      "kills": 23
+    },
+    {
+      "rank_position": 3,
+      "team_name": "北酒場",
+      "score": "10.25",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "みん²",
+      "score": "5.87",
+      "kills": 11
+    },
+    {
+      "rank_position": 5,
+      "team_name": "マンコ",
+      "score": "3.90",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN1IsOwiAMBdDG0YQVyP3/vzWU54A6m6jTnVxaMCO0IqIYyaquQFHrqFIaYdmVC4LhmIlZ04AYd6aOOTNiBhuNptScBnJzW5spJaqO2TkMFwznclh0YyjLZVIGeXXRdH3e7kREXlxjL87FCgOA6zqch25ccyEAcq2O2vnCjTFAdK3DdKdjhJxW/z7Y1q1MJAy35KVEMhyW+syu/KT7MbJq4md1QTCvWeRz3XpD1t4M95NlV3uZHJ0dUQCm3vbTbY6AJ/N/uF95W2Cu+9a3/JGam2VTKla35d2t9PKwLi2u4N35E3zM6/PLe287hb7UMa5vUHEw3D278rA8suHoOa3t8kNv/mKzpf5ks311U30BDV4nng==",
+    "cp": {
+      "2": "#fa999f",
+      "3": "#fa999f",
+      "4": "#edcf7d",
+      "5": "#edcf7d",
+      "8": "#40f774",
+      "9": "#f958b3",
+      "10": "#9467ef",
+      "11": "#9467ef",
+      "12": "#9467ef",
+      "13": "#72cafd",
+      "15": "#ee8bed"
+    },
+    "sz": 40
+  }
+}

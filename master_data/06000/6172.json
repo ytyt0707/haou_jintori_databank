@@ -1,0 +1,42 @@
+{
+  "round_id": 6172,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-16T18:30:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😎",
+      "score": "57.85",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] アルナイ",
+      "team": "🇯🇵田中",
+      "emoji": "🐲",
+      "score": "0.30",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "58.15",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10kEOwCAIBMAt+P83N9VGt4Krl3JSB4hBgSd8CnxDa3fkipPahQI+MkrZlLugej+BXqRy85803Fapro2aZjS93p2ZBR27pkCiVqOf987Uy+hzeJiFcdNJoZVW6v0YxSiWkzxTSqJ0ZN+asnEDC20GVg==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#a7f66a",
+      "4": "#a7f66a"
+    },
+    "sz": 30
+  }
+}

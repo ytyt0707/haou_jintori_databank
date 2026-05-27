@@ -1,0 +1,57 @@
+{
+  "round_id": 33590,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-04T15:39:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "涼宮ハルヒ",
+      "team": "",
+      "emoji": "⛳",
+      "score": "67.25",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇪えっど] バニコス習近平",
+      "team": "🇻🇪えっど",
+      "emoji": "🐰",
+      "score": "5.94",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] Z",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "2.45",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇪えっど",
+      "score": "5.94",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.45",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkwEShSAIRAn0/ldulhXRH9WPmVJ57kKOqc5oqiqMw0NE1YBbw9NExAwbiA810BU6HmL6wnQozYCns1vSFb4MmKMCq1KR1KD2DuEamhjdm/1HykeaB91QLoTGmdhmL7Qoush5aktim6K75Qs3xsULLRSZmgebqWV2Qzu3VLR7gBeUsEP+lYb0Wet15Wr+2JXNlq9CM9BxIkXPg9x87/8UF8T/HN6Un/cJiFUI9A==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30d7e8",
+      "4": "#9ca3af",
+      "5": "#e83064"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 8462,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-21T22:20:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "25.86",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵埼玉] 31歳無職男性",
+      "team": "🇯🇵埼玉",
+      "emoji": "😍",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "25.86",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵埼玉",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0VESgCAIBFAo7n/mJps0YXerkT98ooJmP2Prca+4UhfqrrTx2AHufZRXnZ5lGUFLrN/mdByrym0XdSwi5jThFSOFHGnfshb8rhVfNKCarJV6DlEczGvBxJP2/zkAKLUEZQ==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#7e24f5",
+      "4": "#f25ab0"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "round_id": 314,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-03T11:26:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 立浪和義",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "22.41",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[さとる] やの",
+      "team": "さとる",
+      "emoji": "🤠",
+      "score": "17.45",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[特攻隊] 自爆テロ",
+      "team": "特攻隊",
+      "emoji": "👽",
+      "score": "3.75",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "対テロ砲",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.00",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[うんち] 鳩山由紀夫",
+      "team": "うんち",
+      "emoji": "👻",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "22.41",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "さとる",
+      "score": "17.45",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "特攻隊",
+      "score": "3.75",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "うんち",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt1MESgyAMBFAo7v//cmeQoUA2sGjHkzmmPDdANYS33ppVvGMj0ceRRBuH8HSWZvvolFR827KRi509xdAGp8UIN63pidhul1qXCpbgqFo39nnLj0q0/DVSr5c1xVxa0h2pVo99zALARQsM+K821ZWUtm33jlyLtQ1w6NQW/IGhobN5qbJhEjvJ7c8UWzN3FiDYt83QwLZtU9nQRP7iFrkZ546hzm674NIol0Woa0OqrXazU0s2o1uL/ffPYgw/uLT+j0e+lnUNn0CzcOjUenmanTzAfmJ0um+bA3zU6qdErepOXL5E+/JCfQEzWxGV",
+    "cp": {
+      "1": "#f74aa1",
+      "2": "#66f986",
+      "3": "#51aef6",
+      "4": "#f97a66",
+      "5": "#ecfd96"
+    },
+    "sz": 60
+  }
+}

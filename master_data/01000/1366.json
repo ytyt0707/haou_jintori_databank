@@ -1,0 +1,79 @@
+{
+  "round_id": 1366,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-05T20:12:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] ツインテメイド服",
+      "team": "うんち",
+      "emoji": "😈",
+      "score": "30.08",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ぷゆゆ] 🥺",
+      "team": "ぷゆゆ",
+      "emoji": "😍",
+      "score": "28.75",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": " ",
+      "team": "",
+      "emoji": "🦁",
+      "score": "8.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[まてる] まーてる",
+      "team": "まてる",
+      "emoji": "🦁",
+      "score": "0.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "30.08",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ぷゆゆ",
+      "score": "28.75",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "まてる",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy109EShCAIBdB7B9z//+QdxVAUN1+Wh8bqBAUG4QiMEMiIej47Ug5x7UDewH+78/vh1oUG/nIinrP3OHWYauMAfUzL4D7vsNnPmhMrJKAaSyN3qhUeCz9Sg6sdZebUwm6O1lZXSlnSqSo1QHH2vOADG9PEBWiTrmn72CuLju7asl0XKXjYtHFUfWF3REY6MCZkT2cD38u6k3lj9Lo8OJNi3zE12o46nqHNNzjXOrM+383FP2ZiScLE7TJzrS8RMnXYIFPoLrTnykW6u1xmLvuc1CXteal7dOvwVneMuntoCwBf1JQLOw==",
+    "cp": {
+      "1": "#cefe80",
+      "3": "#cc6de9",
+      "4": "#ea765d",
+      "5": "#fc558d",
+      "6": "#96fda9"
+    },
+    "sz": 40
+  }
+}

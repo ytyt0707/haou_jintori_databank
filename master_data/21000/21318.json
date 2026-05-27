@@ -1,0 +1,65 @@
+{
+  "round_id": 21318,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-05T07:34:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 爆弾/自認レゼ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "89.66",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[敗北者] 負けたいです。",
+      "team": "敗北者",
+      "emoji": "🐷",
+      "score": "2.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] たぬきち",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤠",
+      "score": "0.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "💩",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "89.82",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "敗北者",
+      "score": "2.04",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGt08EOgDAIA1AG9f9/2eA0obg1HtzFsFfGPAyYy54F2L1Fn4vvKEEWtmx5xdqGaBKU49pBXGrl7PfKVdTdj707BM42fefUfWLsJwNoGhFR8oM5tfhgZgQjUDux0DIW7eRKeed+NLn1fyLVyNEfK/0C8vHsh9kJEIcNOA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8d7",
+      "4": "#9ca3af",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

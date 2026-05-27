@@ -1,0 +1,73 @@
+{
+  "round_id": 3065,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-09T18:04:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳中国] 安倍晋三",
+      "team": "🇨🇳中国",
+      "emoji": "🐲",
+      "score": "60.46",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ナチス] あああ",
+      "team": "🇩🇪ナチス",
+      "emoji": "🐶",
+      "score": "5.97",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ナチス] 김일성",
+      "team": "🇩🇪ナチス",
+      "emoji": "🤖",
+      "score": "0.41",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪ナチス] シュトロハイム",
+      "team": "🇩🇪ナチス",
+      "emoji": "😎",
+      "score": "0.09",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇳中国] 習近平",
+      "team": "🇨🇳中国",
+      "emoji": "🐱",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳中国",
+      "score": "60.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "6.47",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0okOxCAIBFA6dP//lzepRwcZ7B4mTQ+fiFCzevg9wstmKKeW/hPvW8dzP8Tbrvg03kOU+749x92Tzb6heVbC2GVud1ySHUHLrH2zmKxl1UD80ehBujl/nipFfqrcsqK/B0aQIjdmq0v5Ugn1jz/dK1S9cqOcpVto7TzX58n101T5eeqgO/qVzrHsbe4AKueGOYFrFPH49AwXhktiBMOkIj/AkssMkfSNsxtpsRLscA/CC3iMslGNlVO9lecQTDq9wN515gwV",
+    "cp": {
+      "1": "#78e87c",
+      "2": "#78e87c",
+      "3": "#cceb70",
+      "4": "#78e87c",
+      "5": "#cceb70"
+    },
+    "sz": 40
+  }
+}

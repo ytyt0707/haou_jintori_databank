@@ -1,0 +1,113 @@
+{
+  "round_id": 1415,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-05T22:57:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤔",
+      "score": "18.25",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[北近江] 浅井長々",
+      "team": "北近江",
+      "emoji": "👻",
+      "score": "16.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[庶民] 大日本帝国陸軍",
+      "team": "庶民",
+      "emoji": "🤠",
+      "score": "14.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[不殺] 誰も殺さない",
+      "team": "不殺",
+      "emoji": "👻",
+      "score": "9.75",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🤔",
+      "score": "7.26",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] しゃけお",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "2.49",
+      "kills": 1
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[ちん描] 絵描き まりも",
+      "team": "ちん描",
+      "emoji": "🐶",
+      "score": "0.83",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "20.74",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "不殺",
+      "score": "16.70",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "北近江",
+      "score": "16.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "庶民",
+      "score": "14.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "猛虎軍",
+      "score": "7.26",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN00sSwyAMA1DRxBjc+9+3Y8D8XJpqkQ1vZBII3i6wEGHEO4VMdF3XRS3GNs26po53uBVylfzkdC7xY98bTMzPLoFLLrbJB5cSW364NNyvuWly99GlGmruNrceCoA0+m7NAtEZkiSRoxsRjRYSKUNzGTl7JzBnfbmkDR9O2lhgcXk4iIQGCcaGC6E6CRI06lgdlrm6pK6i4sCtTrc6u6B7CwEGuTC9OoTmXsEHoV8GYzn3tTn9znT3yr4vxmgu9r7sYCypl2t2BQJYXSTS5+Ym1mHcXYVu8lc3RWaJfYP/OP9tDoPxp3Pn8ugc290KcXTLFgFU5OtOTuH+zhhsz+TQDg+QL3D57wr8hjo9Ln4Afe0gMA==",
+    "cp": {
+      "1": "#ca5df9",
+      "2": "#81cfe9",
+      "3": "#c4f3a0",
+      "4": "#7beaa4",
+      "5": "#83f687",
+      "6": "#f6c67e",
+      "7": "#83f687",
+      "8": "#fd87d0",
+      "9": "#e6ec46",
+      "10": "#ca5df9",
+      "11": "#fd5e5e"
+    },
+    "sz": 40
+  }
+}

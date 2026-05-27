@@ -1,0 +1,48 @@
+{
+  "round_id": 4264,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-12T11:11:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ぷゆゆ] ぶりりん",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🤠",
+      "score": "30.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😎",
+      "score": "8.90",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "30.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "8.90",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0lEKwCAMA9AYe/8zj9kOtbUdg+VLfESUCvQ1cOl/6QfkrgiKHEkU1bI7OFURqZWpyku3uBWlUOrBZx24abgTxypVHlUsoStbnEZcdNnUEflquwOb/XyRTcXpygDMZh5uqjgr9FjXzn7OZOSa5wLOlgS8",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#905ff1",
+      "4": "#6feb6f"
+    },
+    "sz": 30
+  }
+}

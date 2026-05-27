@@ -1,0 +1,66 @@
+{
+  "round_id": 31260,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-28T12:23:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "よくない",
+      "team": "",
+      "emoji": "😖",
+      "score": "23.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇮🇹大秦国] 安敦",
+      "team": "🇮🇹大秦国",
+      "emoji": "😀",
+      "score": "11.52",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇮🇹大秦国] 大日本帝国陸軍",
+      "team": "🇮🇹大秦国",
+      "emoji": "🇯🇵",
+      "score": "1.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] いただきマウス",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐭",
+      "score": "0.08",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇮🇹大秦国",
+      "score": "13.26",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.08",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkUEShTAIQyP2c/8jOySAOP3jQhaW8iBANRsG2kGjGwwwMzezn3sEgyrRdAAuSyh6QNiTMrdqU6AKqUthaqf+maXq4hqLCso/T7YNzMmUELcIJe0UUkmpwlWeS421qOdDHYh5a2au+6ADsbZa391uL59KXe9wezlU33dHy+/xb5H+hy/lawFrxXe3iKdFzjOhSJ8P3NFyXmnDyp5nQ845ifziO4nIVzof5b9ySe8UKAZcJskGag==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#30e8a3",
+      "5": "#9ca3af",
+      "6": "#30e84d"
+    },
+    "sz": 30
+  }
+}

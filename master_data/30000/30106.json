@@ -1,0 +1,57 @@
+{
+  "round_id": 30106,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-25T11:50:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無し4y",
+      "team": "",
+      "emoji": "👻",
+      "score": "3.34",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[亡き地] 亡き子；＠；",
+      "team": "亡き地",
+      "emoji": "👻",
+      "score": "0.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "😁",
+      "score": "0.13",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "亡き地",
+      "score": "0.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "0.13",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkEEKACAIBNey/385tKCLbgRBlzw6zK4I/Ln/gVJoJsfLrTTlDDYAShVNsIiYm1BMmmCX1Sbq3lHvjV2vtbPi5NHGWHTPm10Hr20Alg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8b4de5",
+      "4": "#e83064",
+      "5": "#30e881"
+    },
+    "sz": 30
+  }
+}

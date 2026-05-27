@@ -1,0 +1,66 @@
+{
+  "round_id": 15286,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-15T05:06:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵雑魚] ナチス",
+      "team": "🇯🇵雑魚",
+      "emoji": "🤠",
+      "score": "40.57",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵雑魚] 最弱/重音テト",
+      "team": "🇯🇵雑魚",
+      "emoji": "😎",
+      "score": "11.46",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵雑魚] 名無しBd",
+      "team": "🇯🇵雑魚",
+      "emoji": "🤔",
+      "score": "10.79",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵黒薔薇] いなみや",
+      "team": "🇯🇵黒薔薇",
+      "emoji": "🐶",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵雑魚",
+      "score": "62.81",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵黒薔薇",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJx10lESgCAIBNCFQbj/jRsMSlCdpg+fm6ARMzMRMUFHDM0Bt/ehixL5GxnWVe1N4tOVzcyIDK572MxjWHROh5ZRkwc86xiAyK7Z5hBxFilc1EdRbVg0u5wwPp4demMt6iqps5SOEsfza+y1qe/3lyIq39FqKVJjeagf0A13RVPs2fVmtPJqeV6XS31/BJxVmbngpsx8yQKevew7v9maalVp6yoh07Ekp9LxALmMDN8=",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "4": "#326aec",
+      "5": "#326aec",
+      "6": "#326aec",
+      "7": "#47f0cb"
+    },
+    "sz": 30
+  }
+}

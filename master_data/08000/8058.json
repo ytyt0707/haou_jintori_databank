@@ -1,0 +1,48 @@
+{
+  "round_id": 8058,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-21T00:30:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸CIA] パンテオン",
+      "team": "🇺🇸CIA",
+      "emoji": "🤔",
+      "score": "23.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "😎",
+      "score": "0.09",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸CIA",
+      "score": "23.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵万華郷",
+      "score": "0.09",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0VEOgDAIA1BE7n9mkxmT1daOqPwtDwZsERkmcqFpErw2ij/d/JjQ0beN99VY87nIQYlnK2KwiymrMKBb3UPXoFpslo72aibVhR9IoV76d42yn7GNMHqucQDdwQPF",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#47c6f0",
+      "4": "#742cf2"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "round_id": 24030,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-12T01:44:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] じ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "44.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "まいめろ",
+      "team": "",
+      "emoji": "🐶",
+      "score": "23.75",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "OS",
+      "team": "",
+      "emoji": "😎",
+      "score": "0.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇷🇺殺し屋] 通り魔",
+      "team": "🇷🇺殺し屋",
+      "emoji": "🦁",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "44.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺殺し屋",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kFsWxCAIQ9Fmuv8l9wQMBdupHz64JCB2aI19YQxzyB0YADN842mkQ2oEdQ8DX6ENzveSk22U7qSBnFaxU+q1rFE1948q7mfrir19U/+JUoo2Gtjo1taDWk2Q6erKfGmYR9MGyz+bfVDPLd5NW+Fk0oNKOedMugqXso2uUZSmqJU1aS0LTKrvwnGLukQ3lTKd57Tq3G3p4FRfeD3b5DJDUQN+GVyXMwPKygCAM/EbjTGUYaxv78cFSZ4JQQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83087",
+      "4": "#8B4513",
+      "5": "#e86430",
+      "6": "#30e8a3"
+    },
+    "sz": 30
+  }
+}

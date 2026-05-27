@@ -1,0 +1,56 @@
+{
+  "round_id": 19452,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-01T01:43:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しsV",
+      "team": "",
+      "emoji": "🦁",
+      "score": "26.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "👽",
+      "score": "1.75",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐱",
+      "score": "0.16",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "1.75",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "0.16",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGV0FsWwyAIBNAxZv9r7hkIZcDENn7ExwXEAAAODi76MGifjGlg20vn9KIt5B+dD7le/rfeXZz3LprP4Sr7xc0P+WpNil1w7MsceJUdY4z0QD+hCVpTGbtXYJdLzUp8r53kWWVTu88iamUcLuGcpbaig/qiinyCDtS2lSxtc692xOaWXOlY9WRgMVWr8kpbcN1+ACG8Ar8=",
+    "cp": {
+      "1": "#f97316",
+      "2": "#30e8b4",
+      "3": "#e83098",
+      "4": "#d4c811"
+    },
+    "sz": 30
+  }
+}

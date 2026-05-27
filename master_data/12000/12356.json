@@ -1,0 +1,44 @@
+{
+  "round_id": 12356,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-02-05T05:19:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "はげ",
+      "team": "",
+      "emoji": "🦁",
+      "score": "22.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "葬送のフリーレン",
+      "team": "",
+      "emoji": "🦁",
+      "score": "21.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しZZ",
+      "team": "",
+      "emoji": "😍",
+      "score": "6.68",
+      "kills": 2
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJy10sESgCAIBFAS+P9fbhQV0NVDM+2lw3MJp4hAioUKwqEYzclVgU7WmsVpvlYB+7Gb3rtQRbI6GE5Wiiw9ePJAwZNDmbnzpg05lp84uilXteeinJJnH/Ta9Z2ByneVo/KiW1nO3WSbym9avf86FtvGrhq+g+UFVjQG3w==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#9dec6f",
+      "4": "#f3c45e",
+      "5": "#ef6281"
+    },
+    "sz": 30
+  }
+}

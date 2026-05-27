@@ -1,0 +1,81 @@
+{
+  "round_id": 1374,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-05T20:38:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "14.53",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": " ",
+      "team": "",
+      "emoji": "🦁",
+      "score": "13.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[個人軍] 彩喜",
+      "team": "個人軍",
+      "emoji": "🤖",
+      "score": "7.64",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[個人軍] 常時募集中ぞ",
+      "team": "個人軍",
+      "emoji": "🤖",
+      "score": "6.78",
+      "kills": 10
+    },
+    {
+      "rank_position": 5,
+      "player_name": "まりも",
+      "team": "",
+      "emoji": "😈",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "14.53",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "個人軍",
+      "score": "14.41",
+      "kills": 19
+    },
+    {
+      "rank_position": 3,
+      "team_name": "赤軍",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzd0UESwyAIBVAKpbn/jTsKRiGAdls2ieENfiNAVK9ZYd+ZEo9WBT/JvGrg1oVyD2W5dbo+mJa5INaxO0qX5VtlyW6Ztv+6mNl+wEBI2TYiFm529w6HM5LZQ5ywPyImDp87O0e0unRbUkdUQABsjHrhlZ5Dx9EoefW7arwbNUIKmT00VjRhyKzriWMHxrVKHDjmXIfvhany+daA/ZcMtzuI3OBzoM+nF2cCwi/1BaO5B9k=",
+    "cp": {
+      "1": "#fc558d",
+      "2": "#cf52e5",
+      "3": "#cf52e5",
+      "4": "#7ad4fa",
+      "5": "#a99ff4",
+      "6": "#67f47f",
+      "7": "#49f3c6"
+    },
+    "sz": 40
+  }
+}

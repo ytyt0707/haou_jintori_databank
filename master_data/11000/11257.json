@@ -1,0 +1,57 @@
+{
+  "round_id": 11257,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-02T17:55:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "😎",
+      "score": "28.69",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😈",
+      "score": "6.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しRV",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵神撫子",
+      "score": "28.69",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "6.47",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0EEOgCAMRNFfqfe/sklBrUCBsHPCildIOjBN6ieWwjtKPviL3tCatoz9DkKtqmormT550bRExC+vtbreaPT81GqqUe0LmjaUdqPKhwqRHrfGTyfKREf421wCMQP2",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f8d630",
+      "4": "#6edaf2",
+      "5": "#86ea61"
+    },
+    "sz": 30
+  }
+}

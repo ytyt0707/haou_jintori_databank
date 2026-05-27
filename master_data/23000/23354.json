@@ -1,0 +1,81 @@
+{
+  "round_id": 23354,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-09T21:37:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧革命軍] 武闘派ぷゆゆ🥺",
+      "team": "🇬🇧革命軍",
+      "emoji": "🐲",
+      "score": "44.05",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ぷゆゆ🥺",
+      "team": "",
+      "emoji": "🤠",
+      "score": "31.44",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 🇷🇴",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] あ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.54",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵きゅ] きゅっきゅ",
+      "team": "🇯🇵きゅ",
+      "emoji": "👻",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧革命軍",
+      "score": "44.05",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "2.71",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵きゅ",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkgsOhCAMRKd00PvfeLctaimYbLaJYnjM9CMgiWYB6BK0CNoWqA/dQB3CxlWoqm7aGrnDUZDBHR3av2hy3liD9KTe2MRtNojt8a7TmikLLrR4VzrhkrfOZNFO4l/pfS79LNybV+P5iuxoarpiZG3cnHAVW15pf6GdrtvTLiL2EGYM6F0XKd2IRbBclhfUPURcmet6KHACOA73HgMjKTRpCI+ZgvSc/XKN1bTfrw+49wpR",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#60d411",
+      "5": "#8B4513",
+      "6": "#8B4513",
+      "7": "#30e8b4"
+    },
+    "sz": 30
+  }
+}

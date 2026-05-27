@@ -1,0 +1,77 @@
+{
+  "round_id": 2319,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-08T01:44:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ェポン] ウェルカ・ウェポ",
+      "team": "🇯🇵ェポン",
+      "emoji": "🐷",
+      "score": "10.66",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵大日本] アッラー",
+      "team": "🇯🇵大日本",
+      "emoji": "🤠",
+      "score": "0.35",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "😈",
+      "score": "0.10",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ェポン",
+      "score": "10.66",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵大日本",
+      "score": "0.35",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チー牛",
+      "score": "0.10",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "みん²",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0UsOwCAIBFAscP8rd2FqCI5CW5PaWRnzwvgh2iaqObXUaeeYATt6B5N1Ny6SfJdfBD0tdAx/AborZltk4maDGzFQyE9z85oL2Lj4EVs1zixSLmqty2FrWOdgzKK+3VPK1yd4kRPPuwK0",
+    "cp": {
+      "1": "#ef7262",
+      "2": "#68ed6d",
+      "3": "#6899f3",
+      "4": "#f26ede",
+      "5": "#8860e6"
+    },
+    "sz": 40
+  }
+}

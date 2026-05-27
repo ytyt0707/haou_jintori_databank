@@ -1,0 +1,48 @@
+{
+  "round_id": 4282,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-12T12:10:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵うんち] あががいのがい",
+      "team": "🇯🇵うんち",
+      "emoji": "🤖",
+      "score": "33.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇮🇳れ] 共感性羞恥心",
+      "team": "🇮🇳れ",
+      "emoji": "😀",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "33.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇮🇳れ",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10NsOwCAIA9Ba/f9vXga7EARiXNY3c1ZkAjZ0QZdEH5yn/sZxqFAQtCo8rp6vKpO4xzJQPGOjrv1Df+0nxaSt1LTr34p1mbVmSy9M3tWZ17V+jh/XyrrBQqqodD8HXP0EIQ==",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#ea5355",
+      "4": "#67f9c1"
+    },
+    "sz": 30
+  }
+}

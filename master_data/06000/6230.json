@@ -1,0 +1,78 @@
+{
+  "round_id": 6230,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-16T21:38:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 山上徹也",
+      "team": "みん²",
+      "emoji": "😀",
+      "score": "43.18",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "16.62",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵生パス] 生パスタ吐瀉物",
+      "team": "🇯🇵生パス",
+      "emoji": "🦄",
+      "score": "1.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵さとる] やの",
+      "team": "🇯🇵さとる",
+      "emoji": "😀",
+      "score": "0.48",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "43.18",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "16.62",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵生パス",
+      "score": "1.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵さとる",
+      "score": "0.48",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJydkVESgCAIRKlF73/kJtQABWvanxyfb6WRmHqYuX8kdpOX0HM0gL5oItbN1JTqqP/l5MA3GsKydUtJIDl5goCT7SSQyLI0bh4BPU3rekYj994x1F8KWcx/O6Dt1laiFWrvoBU4PVUG1KrqjuorUjASvdEjoAbzVg7aQ7jmAuo+CDo=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#cce732",
+      "4": "#54ea43",
+      "5": "#ed8c2c",
+      "6": "#f0565e"
+    },
+    "sz": 30
+  }
+}

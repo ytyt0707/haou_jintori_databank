@@ -1,0 +1,54 @@
+{
+  "round_id": 15814,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-16T17:15:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵しね] ころす",
+      "team": "🇯🇵しね",
+      "emoji": "🦄",
+      "score": "0.09",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[山本組] 山本",
+      "team": "山本組",
+      "emoji": "👻",
+      "score": "0.00",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[山本組] 爆弾/自認レゼ",
+      "team": "山本組",
+      "emoji": "🤖",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵しね",
+      "score": "0.09",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "山本組",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyVkUESwCAIA9mZ/v/NPajTSMCx3HDFxBDxu6Alx5EzvZEr7uks5Je2vqDPd1ZQ9MGsfUM508kb4XGcbCFVmN6oxUGuRhc8DflyNRtTj3Kbl6pOzTEGcyT7YBhDAyayYYk2PGFZy+obs2PnSj3PVS+ZmgEq",
+    "cp": {
+      "1": "#f6f862",
+      "4": "#e84fa1"
+    },
+    "sz": 30
+  }
+}

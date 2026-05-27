@@ -1,0 +1,110 @@
+{
+  "round_id": 5440,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-15T02:55:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[さっき] 韜晦",
+      "team": "さっき",
+      "emoji": "🦊",
+      "score": "28.55",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[余接] まままま",
+      "team": "余接",
+      "emoji": "💩",
+      "score": "23.01",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵やんj] けんた",
+      "team": "🇯🇵やんj",
+      "emoji": "🐷",
+      "score": "10.30",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[余接] 千石撫子",
+      "team": "余接",
+      "emoji": "🦄",
+      "score": "7.84",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[まんぜう] 🐷中山司🐷",
+      "team": "まんぜう",
+      "emoji": "🦁",
+      "score": "1.17",
+      "kills": 10
+    },
+    {
+      "rank_position": 8,
+      "player_name": "歯周病卍",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.38",
+      "kills": 7
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵ぷゆゆ] ぺゆゆ",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "💩",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "余接",
+      "score": "30.85",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "team_name": "さっき",
+      "score": "28.55",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵やんj",
+      "score": "10.30",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "まんぜう",
+      "score": "1.17",
+      "kills": 10
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90YsOwyAIBdBrZwjy/x+88FBQu5G0iZ4CYnvXAMCwYAsAws+DXpWIZ4jwg6JEBUnkYZDxrFaUSJ9IZi5dg1P7oYG7rtLYFDFPpNOlZWDyCc7c42CqnwttcHrR1g6dJq2pNr8LPRmAnkVbM5yJuJUZt+ZRgdnZZ/Rxt5ClvXcRPtQCcR26UYTJVoL1gzcVq+YalbKov1T1PJDkpdbYtyDxxRahbyQyB8UP/oeu+KnwufKDMUbpC1QcIxUldJUl3b5oZxPP",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f8423f",
+      "4": "#5ae761",
+      "6": "#f0c466",
+      "8": "#ca4ef4",
+      "9": "#3bcdf1",
+      "10": "#f0c466"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "round_id": 12603,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-05T18:41:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🐲",
+      "score": "0.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵珍宝] セロリ",
+      "team": "🇯🇵珍宝",
+      "emoji": "🤠",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵万華郷",
+      "score": "0.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵珍宝",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJzNzjsOwDAIA1Abcf8zVwxN+aSIdKrXFxMDvw6PXstnhETO/4onNgr2+j6LrFUwzKJ7aRHHvPt8EnchYuDczOWiiKfZaU6L825VzE8PVKm6DjNXVZduZpliqylmF1fmAU8=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "4": "#8de963"
+    },
+    "sz": 30
+  }
+}

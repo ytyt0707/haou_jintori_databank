@@ -1,0 +1,41 @@
+{
+  "round_id": 7888,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-20T15:18:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "😈",
+      "score": "29.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵下痢便] 〇ね",
+      "team": "🇯🇵下痢便",
+      "emoji": "👻",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵下痢便",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJydkAEKwCAMA2vJ/988pmWkqw1oEETPi6KZjRRLoU1Ji+tORqXUN0qzp9veaVCvhxFPIDBTL8vuFV3NXTRdzSodhaAA0BYiqBdjDlLBxpdt347OFUpalTA0jjOSalfRHbyhduj+7PjABz7UBNw=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#ebc76b"
+    },
+    "sz": 30
+  }
+}

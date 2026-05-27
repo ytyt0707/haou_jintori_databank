@@ -1,0 +1,57 @@
+{
+  "round_id": 9683,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-25T11:15:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] いただきマウス",
+      "team": "みん²",
+      "emoji": "🤔",
+      "score": "44.92",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "44.86",
+      "kills": 9
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ゲスト] あ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👽",
+      "score": "0.14",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "89.79",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.14",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN09sWhSAIBNCpaf7/l8+SwlCRDg+tcgveEvBQD5K829obRb4gGlsX19uf74+InbTtVJaqxylUEqh5VLiZ7hJNk/a+N8ucFWPSw/Q8N6oyt1TNqj021X+qrPKrylS+u6n6xHougnp6exoAQ2ULynMzVTycRK+4ZC6q9QTHyiN/KWxR6Nvi/x7aRfsBzYMMmQ==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#845ff1",
+      "4": "#9ee54d",
+      "5": "#845ff1"
+    },
+    "sz": 30
+  }
+}

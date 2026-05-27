@@ -1,0 +1,97 @@
+{
+  "round_id": 4002,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-11T21:01:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🦄",
+      "score": "27.78",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵トー横] ホ別2万でいいよ",
+      "team": "🇯🇵トー横",
+      "emoji": "👻",
+      "score": "11.37",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "💩",
+      "score": "5.97",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦊",
+      "score": "4.57",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] ぷゆゆ🥺",
+      "team": "みん²",
+      "emoji": "💩",
+      "score": "3.58",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[うんち] うんうん",
+      "team": "うんち",
+      "emoji": "🐲",
+      "score": "0.05",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "27.78",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵トー横",
+      "score": "11.37",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "8.15",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "うんち",
+      "score": "6.02",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0tsOxCAIBNBxqTv6/z/cgDekbrOT9MUDSGKRUkr4hGAkkaQduMMZWgCU8kTTC7iKBrFCUVNaTr3GreKH9glRhbI4TBYRGdcuzTnnjhpFq+JAdXGhfpzWlI1IU0TVxVp2bJO/XIlK7uh1PAN7GfzK7pmIqTjotL13sbzqYXLceWi0jR+dfvLjTtfr/41lrxp7+b8CFfXE1WVn9GX2Ns0NzBcL7g==",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#6ae3f0",
+      "4": "#35f351",
+      "5": "#9ced40",
+      "6": "#6ae3f0",
+      "7": "#f042b9",
+      "8": "#35f351",
+      "9": "#eb7975"
+    },
+    "sz": 30
+  }
+}

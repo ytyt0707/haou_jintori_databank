@@ -1,0 +1,55 @@
+{
+  "round_id": 765,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-04T11:47:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[嵐] 荒らし",
+      "team": "嵐",
+      "emoji": "😈",
+      "score": "7.50",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[嵐] ちにたい♡🫠",
+      "team": "嵐",
+      "emoji": "💩",
+      "score": "4.45",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ソロ] よっぴ殺し屋転向",
+      "team": "ソロ",
+      "emoji": "🐱",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "嵐",
+      "score": "11.94",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソロ",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0csKwCAMRNEZ8f+/ufhoFWFMKxVc5G6y8CARgVMKAA1ChhzJCU2nzSnIgQnHx6XxwpVhON7c2G/BCZZh9xrJ0F+nVaWzzVA+9VMx/us8z9vYBTzRAOM=",
+    "cp": {
+      "1": "#6efcc1",
+      "2": "#6efcc1",
+      "4": "#f2be9c"
+    },
+    "sz": 40
+  }
+}

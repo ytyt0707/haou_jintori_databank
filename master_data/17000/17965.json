@@ -1,0 +1,65 @@
+{
+  "round_id": 17965,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-25T15:27:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ゲス殺し",
+      "team": "",
+      "emoji": "🤠",
+      "score": "14.83",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👽",
+      "score": "10.75",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "あなる",
+      "team": "",
+      "emoji": "👻",
+      "score": "10.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🐱",
+      "score": "8.89",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "10.75",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "8.89",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lESxCAIA9AI4f5X3mkRBXGbH6d9CloLPBlHADMz4IpTgzHqFLOiZ4muqe7oS+Hy5qI5XUXkW+WPiif3tYrrifXAry1n192WXdGULGcRfOnaU9W6p83esp61LJZks6+qRuWkPoWPqprq7BudkVSnzrf7tFmjZ1fui/OBCZX5U4lU1HIJEBAX9VvwuklZ1obGFB7/Ez1rvIQrP81eBZU=",
+    "cp": {
+      "1": "#72eec3",
+      "2": "#e82ef5",
+      "3": "#8751ec",
+      "4": "#6380f2",
+      "5": "#66ddfa"
+    },
+    "sz": 30
+  }
+}

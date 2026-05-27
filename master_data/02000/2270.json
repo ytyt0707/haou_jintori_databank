@@ -1,0 +1,85 @@
+{
+  "round_id": 2270,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-07T23:05:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[☭ソ連] 蓮舫",
+      "team": "☭ソ連",
+      "emoji": "🐲",
+      "score": "36.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[☭ソ連] スターリン",
+      "team": "☭ソ連",
+      "emoji": "🐱",
+      "score": "28.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[サトル] さとる",
+      "team": "サトル",
+      "emoji": "👻",
+      "score": "7.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇮🇹🍰] 彩喜",
+      "team": "🇮🇹🍰",
+      "emoji": "💩",
+      "score": "3.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇩🇪ナチス] シュトロハイム",
+      "team": "🇩🇪ナチス",
+      "emoji": "🐱",
+      "score": "1.17",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "☭ソ連",
+      "score": "64.73",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "サトル",
+      "score": "7.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇮🇹🍰",
+      "score": "3.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇩🇪ナチス",
+      "score": "1.17",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd1FuShTAIBNCmw+x/y1NXAgIS58GPVXiKYIgB/hOyg+R+kCxCAXx9QlKwQ1VVYxmSFaqFSKvHDEU1nPzS7fbfnQiaqw26Iy3/6kQjJ5wdVNfyZO3x4ewVca09LGyzWu6s1pasA5GPk6hHd95ELrchezzdfTwG3lzs3uSkrtsHdnDDaIfvaJNAdWvdcC6X3Torm1qrl3ev/EmlHBvbGXfjepETEa83M/ge4N1dqjiTDxeF3WF0fLj74E/OboODywesfnAfg9zP5PwtkkPqz9dl7DxKPTm7TePcIu9zYRe1YcAhYrqHS/gnh8p24ny5/ym+ASPZCPY=",
+    "cp": {
+      "1": "#f499a0",
+      "2": "#f499a0",
+      "3": "#f294f5",
+      "4": "#88f7af",
+      "5": "#f3ef8c"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "round_id": 9215,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-24T09:56:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] パンテオン",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😀",
+      "score": "60.61",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇼bot] やのる",
+      "team": "🇹🇼bot",
+      "emoji": "🐶",
+      "score": "1.52",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐶",
+      "score": "1.13",
+      "kills": 15
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "61.74",
+      "kills": 22
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇹🇼bot",
+      "score": "1.52",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0kEOgCAMBMBV1v7/yaaAQEshHNyDESaFNBT4JQQ1SJPojtJFcq01epA/2We6NOaADjW2Ix3XfJwanGqNihh1fzKyURRFSnc72dwpRRNcrSpIIdDR1eYMalso2htimLwfKPp3rVPt2MWnvrhtRM9Xivpc2Jepuh5Fmmnd4i4vivgI8Q==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#cf66f4",
+      "4": "#cf66f4",
+      "5": "#65a4f6",
+      "6": "#ece76a"
+    },
+    "sz": 30
+  }
+}

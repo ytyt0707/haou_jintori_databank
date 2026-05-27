@@ -1,0 +1,42 @@
+{
+  "round_id": 5696,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-15T16:46:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵さとる] やの",
+      "team": "🇯🇵さとる",
+      "emoji": "🐲",
+      "score": "18.81",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵さとる] おちすぎ",
+      "team": "🇯🇵さとる",
+      "emoji": "🐱",
+      "score": "4.80",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵さとる",
+      "score": "23.60",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0FkOgCAQA9Bqe/8zG6NExlnAYH/fbABc2U3wTi6Ot4/NU5PrtTHejo7p+uPBjSvFiiYhyRVNWFKu+kND1sNRjcWBGiaddgVeTX+kdnGlEJkfNnzTeaf7qwMpLANM",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f4d867",
+      "4": "#f4d867"
+    },
+    "sz": 30
+  }
+}

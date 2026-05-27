@@ -1,0 +1,55 @@
+{
+  "round_id": 15316,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-15T07:08:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 山上徹也",
+      "team": "みん²",
+      "emoji": "💩",
+      "score": "33.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦁",
+      "score": "15.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] ハンニパン",
+      "team": "🇯🇵阪神",
+      "emoji": "💩",
+      "score": "10.96",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "49.06",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "10.96",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNkVEOwCAIQ0vo/c+8KAQBdVs/toQHpURgSYbs64LstY1e9I9CxDaf9i56c0bF1ShdlUrResazpNAbnPqkqqonKhANbaMiiXpDfh7zDaWViM6fVGeYFct+V/uddtySV9YPQ8ck6YxbLC5KskGjNChEs6ZrTAaNd2ZRC/UC0WG9l3yb9YaxYNrgAUAyBGQ=",
+    "cp": {
+      "1": "#f5ed5c",
+      "3": "#f5ed5c",
+      "4": "#47d5f5"
+    },
+    "sz": 30
+  }
+}

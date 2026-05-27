@@ -1,0 +1,71 @@
+{
+  "round_id": 5884,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-16T02:56:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "アナ",
+      "team": "",
+      "emoji": "😀",
+      "score": "5.92",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🐲",
+      "score": "4.49",
+      "kills": 15
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵田中] ソ連",
+      "team": "🇯🇵田中",
+      "emoji": "🦄",
+      "score": "0.75",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵幻魔帝] 過疎ゲー",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "🤖",
+      "score": "0.00",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "5.23",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵幻魔帝",
+      "score": "0.00",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzl0DkOgDAMRFEvU/j+J6agyEwcEBIRDS7z9JPIZr8bd/dXF2TmQ42IhjkjyLjt5fWzOxW4UYj2lF0QQIkah1WaitZcqp5svMnFlyQf8fL04zkADLYBmQ==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ed353e",
+      "4": "#a9ec6a",
+      "8": "#a9ec6a"
+    },
+    "sz": 30
+  }
+}

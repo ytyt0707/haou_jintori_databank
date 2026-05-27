@@ -1,0 +1,169 @@
+{
+  "round_id": 15500,
+  "game_mode": "TEAM",
+  "player_count": 60,
+  "played_at": "2026-02-15T17:15:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "😈",
+      "score": "21.91",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🐱",
+      "score": "11.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] 爆弾/自認レゼ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤠",
+      "score": "8.35",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 민민",
+      "team": "みん²",
+      "emoji": "🦊",
+      "score": "7.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ゲスト] うんち",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐲",
+      "score": "4.77",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😀",
+      "score": "1.91",
+      "kills": 12
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "💩",
+      "score": "0.12",
+      "kills": 5
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😀",
+      "score": "0.03",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "👻",
+      "score": "0.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵ゲスト] 山本",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦄",
+      "score": "0.02",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "21.91",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "13.28",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "神撫子",
+      "score": "11.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "みん²",
+      "score": "7.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "猛虎軍",
+      "score": "1.91",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90l9PgzAUBfBTmHPXmrj5MBUCaOLDEgkITctt/P7fy5QWKGzZebgvv57L32PRlRCfHxKyEwC+RM7MrLWbLKqqTJJkL6UhIO3zpvE6shACoLo+1kTFQWapcaKDAtDnqnjaAcZUKEujYzWHN0mElMiY/AFw4Ccz97igyvYXOAU0HqeutpbbDv3zb9sS5WZkrTEp84uARP2eJJS6KzvGXGUIkj/Y9Se4mPmeguJb4iSzV4c6jlcAZ9G018pBp2yra8V9jU6sVG3YWmuXqtq0Rw2s1C0NZbXSGSNd/LaqSMMnjtUf0FtdcazDMNzXAW6s9C/SkMDjf+XD2KArz3ity2th5u3ioHxffeLN46NFe4F/+fdztQ==",
+    "cp": {
+      "1": "#f97316",
+      "2": "#f97316",
+      "3": "#f97316",
+      "4": "#f97316",
+      "5": "#f97316",
+      "6": "#f97316",
+      "7": "#f97316",
+      "8": "#f97316",
+      "9": "#f97316",
+      "10": "#f97316",
+      "11": "#f97316",
+      "12": "#f97316",
+      "15": "#f97316",
+      "16": "#f97316",
+      "17": "#f97316",
+      "18": "#f97316",
+      "22": "#f97316",
+      "23": "#f97316",
+      "24": "#f97316",
+      "25": "#f97316",
+      "26": "#f97316",
+      "27": "#f97316",
+      "29": "#f97316",
+      "30": "#f97316",
+      "31": "#f97316",
+      "32": "#f97316",
+      "33": "#f97316",
+      "36": "#f97316",
+      "40": "#f97316",
+      "43": "#f97316",
+      "44": "#f97316",
+      "46": "#f97316",
+      "47": "#f97316",
+      "48": "#f97316",
+      "49": "#f97316",
+      "50": "#f97316",
+      "51": "#5db2f4",
+      "53": "#7a41f6",
+      "54": "#39ef9d",
+      "55": "#54e93a",
+      "56": "#e93a3a",
+      "57": "#e93a3a",
+      "59": "#e93a3a"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 24930,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-14T02:31:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵きゅ] きゅっきゅ",
+      "team": "🇯🇵きゅ",
+      "emoji": "🪰",
+      "score": "0.19",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[自殺隊] 特攻",
+      "team": "自殺隊",
+      "emoji": "☠️",
+      "score": "0.14",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵きゅ",
+      "score": "0.19",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "自殺隊",
+      "score": "0.14",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAG90kkWhCAMBNBK2fc/sy+jgcC23Qh8KiBIksTtUbzzAdv0Xa1f1aJXC6f6Xrw3cWjFrGGByq4WH5m64aK7BQIDbCC3edK0eG9TdFSLU9wXNtPDT+3Le9A1wo0jSoIiAsh16yKwGTp1PPiJ4YH0HhUFlJHzS/bSzyzcz2SGu8L+vaV+43lnDav5pWtoNuqGJ/1h5AWgBgNh",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#e830a9"
+    },
+    "sz": 30
+  }
+}

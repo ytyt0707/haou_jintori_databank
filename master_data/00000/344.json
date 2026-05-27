@@ -1,0 +1,82 @@
+{
+  "round_id": 344,
+  "game_mode": "TEAM",
+  "player_count": 16,
+  "played_at": "2026-01-03T13:04:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[誰だよ] キリン",
+      "team": "誰だよ",
+      "emoji": "😂",
+      "score": "20.15",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[誰だよ] 共感性羞恥心",
+      "team": "誰だよ",
+      "emoji": "😍",
+      "score": "7.41",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "🐱",
+      "score": "3.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "💩",
+      "score": "0.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[仙台藩] ヒカキン",
+      "team": "仙台藩",
+      "emoji": "🐷",
+      "score": "0.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[誰だよ] NoName",
+      "team": "誰だよ",
+      "emoji": "🐱",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "誰だよ",
+      "score": "27.56",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "仙台藩",
+      "score": "3.38",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt1gEKgzAMBdA06r//kUd1atcmNU3GmOBHsWifCVVBoie/CwgxfqP8Q7NfWe2Ukg+nLQ68w8bq90PRbmNTEdGimidKkWPHDnt0Xc9opIwlK9FWb3VRXVdsqu2qIc60WbVS174PPou8uew8A3l3WMxrfHZZYO647nm1Y27/fgCjbR/N9nw7hFl4Fc9Rtxwz9dK3Q7Q8oVSFZj9ov6xs2USprMJ5WbnImOUBSrq8thSxJDIbzXaanJZi1tuyim1WxEYqaTtt7AAtdB6NyUOPszO4/mVSZ0SsISEbwIjgu+UFLSgHMg==",
+    "cp": {
+      "1": "#b4ec69",
+      "2": "#b4ec69",
+      "3": "#b4ec69",
+      "4": "#e462f8",
+      "5": "#e462f8",
+      "6": "#e462f8"
+    },
+    "sz": 60
+  }
+}

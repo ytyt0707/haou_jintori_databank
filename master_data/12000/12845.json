@@ -1,0 +1,88 @@
+{
+  "round_id": 12845,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-06T07:46:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "39.76",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] ぷゆゆ🥺",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "21.45",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] はじまん",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "11.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[寒] 寒",
+      "team": "寒",
+      "emoji": "😎",
+      "score": "3.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "🐶",
+      "score": "0.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "72.65",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "寒",
+      "score": "3.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0FkOwyAMBNCRt97/xhG4OF6oVH8gwhsTAJpKRERVAECha2zoAeb1XTmUXbWjz7bS0IRDz8SRiMqpoljViGj33hNWpGV2W6zJ9xIjkg+a/hwqruHxGvmSR3m8FTNi8dXFZuatQ9XVmMMjZr2XldMJjtpNMXd+U0k7qzKSznYu2iKfi+ZQ3dow1Ks0Aih6Fn3sGqmY3RRZf+Nf9QBvzQyE",
+    "cp": {
+      "2": "#38f587",
+      "3": "#ccf070",
+      "4": "#53b9e9",
+      "5": "#ccf070",
+      "6": "#ccf070",
+      "7": "#8c61fa"
+    },
+    "sz": 30
+  }
+}

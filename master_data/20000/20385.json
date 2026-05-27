@@ -1,0 +1,48 @@
+{
+  "round_id": 20385,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-03T04:26:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇫🇷みん²] 芙羽",
+      "team": "🇫🇷みん²",
+      "emoji": "😂",
+      "score": "2.51",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸米帝] トランプ",
+      "team": "🇺🇸米帝",
+      "emoji": "😎",
+      "score": "0.37",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇫🇷みん²",
+      "score": "2.51",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸米帝",
+      "score": "0.37",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNks0OgDAIgwvy/s9sCmyRTS4mGnvwh492PUwkBIgAgBYl9Bdp5RvtvGEt2SIY9hsK1nElLDuDSVSeK8fBAiN2o94OMqPXBVW9siV8pfPU+KCXvfJRqXtztMRy6t7q+O2fX5Iv2plZd4y5XqJdLOdtIzfxBjzSCeTkAaQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#30a3e8",
+      "4": "#30e870"
+    },
+    "sz": 30
+  }
+}

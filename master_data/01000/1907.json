@@ -1,0 +1,121 @@
+{
+  "round_id": 1907,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-07T02:44:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵SCP] ベネット",
+      "team": "🇯🇵SCP",
+      "emoji": "😈",
+      "score": "26.67",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] 浅井長々",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "26.46",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] ハヤブサ",
+      "team": "猛虎軍",
+      "emoji": "😀",
+      "score": "12.52",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🤔",
+      "score": "8.76",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵SCP] ナチス",
+      "team": "🇯🇵SCP",
+      "emoji": "🐷",
+      "score": "7.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵SCP] 安倍晋二",
+      "team": "🇯🇵SCP",
+      "emoji": "🐱",
+      "score": "2.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[猛虎軍] キングぷゆーゆ",
+      "team": "猛虎軍",
+      "emoji": "🦊",
+      "score": "2.65",
+      "kills": 5
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🦊",
+      "score": "0.32",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇫🇷凱旋門] サートルナーリア",
+      "team": "🇫🇷凱旋門",
+      "emoji": "🦊",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "50.39",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵SCP",
+      "score": "36.84",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵特攻隊",
+      "score": "0.32",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇫🇷凱旋門",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF1IGuwyAIBVCYcmH//8MvoFSsXR/ZkqaeoIiVmIlEhEaY0Qp/CQD+zNw8RFTVRviQZMwnYmkzLrfD01l1N0jEy/GL48s15QE/n3CAXQvE5jRdQAQcmbGmrQ7Lyel4OgMRaN8dd3NqZfYFzj3OWsymk+aMWdXh1Y4xsWRWosYjNCR2h9NFxtVdbBDCjTIfq9Kjc5r5YnWc6vslwIrzA+Op4s+8EiL7l065LhA5qRltbmybJsNc2joPc31NGzDzreNSD85wXkB19MN592cR3HL8YBDiEjbXdTraXQz1ES8Ohb25FpP977xzIvLodhh3g/QOHG6HzuYOFdbvzrqJn6B74x6clR5urkIfvEp/cQn7mPp3He7G19xKHZC74957fvu749PNj//NmXV7dHdm+eiX8a/+WnFbIUcZNX662KX4xftyMdAf3FkX5A==",
+    "cp": {
+      "1": "#f4e471",
+      "2": "#76f263",
+      "3": "#f4e471",
+      "4": "#fda281",
+      "5": "#fda281",
+      "6": "#fda281",
+      "7": "#f4e471",
+      "8": "#fda281",
+      "9": "#5161f6"
+    },
+    "sz": 40
+  }
+}

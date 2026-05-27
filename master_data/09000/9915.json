@@ -1,0 +1,47 @@
+{
+  "round_id": 9915,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-25T23:47:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵グリコ] けんた",
+      "team": "🇯🇵グリコ",
+      "emoji": "👻",
+      "score": "70.20",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇰🇷慶尚道] ティンコゥ",
+      "team": "🇰🇷慶尚道",
+      "emoji": "💩",
+      "score": "2.48",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵グリコ",
+      "score": "70.20",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷慶尚道",
+      "score": "2.48",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0tsSgCAIBNAdl///5sbEBELUlyYOi3ZpzS8AoC4ADUYcdqbPGRtKjg5mylehmCkJPcYoIOhEplkXXfdF9qhhq7BvgUvTpvhe4xO5TxImuEqt2eSbM+/4RpH29Zpsp0AoIrZgVcRjGNwV/5QqivBRix9g6nfNdLceKr8IKQ==",
+    "cp": {
+      "2": "#48efaf",
+      "3": "#f6d76a",
+      "4": "#3eb1f9"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "round_id": 35600,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-08T05:12:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "戦場ヶ原ひたぎ",
+      "team": "",
+      "emoji": "🦀",
+      "score": "89.87",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂婦人会] サナエさん",
+      "team": "🍂婦人会",
+      "emoji": "👵",
+      "score": "0.83",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂婦人会",
+      "score": "0.83",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtklEKwDAIQ6Pp/c887AbViWEHWL6kT2MbCoBJANNBQalrLD8PgLTRhUFnvOmIYaZmBSMxusZdO13rvAHNudLTeVea5u6+N1F3kbl7RDlKU8rZn9ZYVc4kHsUvepfEBVtHCb0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#aad411",
+      "4": "#30e8a3"
+    },
+    "sz": 30
+  }
+}

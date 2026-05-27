@@ -1,0 +1,66 @@
+{
+  "round_id": 4463,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-12T22:01:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ぷゆゆ] bot1",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🦊",
+      "score": "16.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ぷゆゆ] ンゴ",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐲",
+      "score": "4.30",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "パイン",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇰🇷プーチ] ン",
+      "team": "🇰🇷プーチ",
+      "emoji": "👻",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "20.80",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷プーチ",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy90EsWwCAIA0Bs09z/yH2iVgF1V7NwM8GfiMs1xqPhiJVnkAPkggimBqCskWGys6bp03utftRowKapKxm17s0ciVoLykvVwl5p1GBhQm/Q2Xwa2bW9Scb5QcWpFlbyZ56jp53LC2dFA6o=",
+    "cp": {
+      "1": "#41b3f1",
+      "2": "#6970f7",
+      "3": "#ea619a",
+      "4": "#d7f63c",
+      "5": "#f7863b",
+      "6": "#d7f63c"
+    },
+    "sz": 30
+  }
+}

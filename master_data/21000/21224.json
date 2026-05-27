@@ -1,0 +1,72 @@
+{
+  "round_id": 21224,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-05T02:29:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楽しい] どまぎゃあ",
+      "team": "楽しい",
+      "emoji": "👽",
+      "score": "30.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しUE",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "13.69",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "大谷翔平(本物)",
+      "team": "",
+      "emoji": "😎",
+      "score": "10.38",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ぷんす] ぷんぷん",
+      "team": "🇯🇵ぷんす",
+      "emoji": "🐲",
+      "score": "3.73",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楽しい",
+      "score": "30.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "13.69",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ぷんす",
+      "score": "3.73",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNktsShCAMQ9ML/f9P3kkLpa77sB0dkWNCKCICWVoF7IGaGRAs3MkBJxU5IJ82tCIqE5NdZ8ka4knJ3MsaosBDm7ScTUWw8c4c1PKGmpCW1mpHEe6kMNIjtaZIc0pU1/pyjoCIl99a65kqIlR80IOzk6TuA6+1aHRSCeEVPykGXVWpRQT1RUudNBOyHUBs7bau7HUMefhb2/M1qB+DvRix+ptN2YvO3NAOzYXv9B41BTrSNXlRAE0HrNZyggnybVI6Z/Df1M14Vb3EZE1zPK1rG7nsDvY/5VKMfLf0Ac12CQA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830ba",
+      "4": "#8B4513",
+      "5": "#36e830",
+      "6": "#e83042"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "round_id": 9165,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-24T07:13:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "アベベ",
+      "team": "",
+      "emoji": "🐱",
+      "score": "12.38",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 中核派",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "8.47",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "8.47",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0FEOwCAIA9Aivf+ZF3WiAmqzH/NScAI9xQUxO0rOaCoiHlHQP2nZFVCo6n+MXZjBT665qtbBmk7WtlXH5rw7POiKfnFZNbzGPveqce+U7H9XPLyGoVOSSzcYyXmWiJtnyqwcNe8mTN6YD37e2/ygj6tPP/UtH+BeAyo=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#26dbf7",
+      "4": "#3f68ee"
+    },
+    "sz": 30
+  }
+}

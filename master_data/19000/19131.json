@@ -1,0 +1,65 @@
+{
+  "round_id": 19131,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-28T08:04:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "🦊",
+      "score": "90.45",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳チギュ] ヨワシ🐟",
+      "team": "🇨🇳チギュ",
+      "emoji": "👽",
+      "score": "0.24",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しEI",
+      "team": "",
+      "emoji": "💩",
+      "score": "0.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇳もこう] まかう",
+      "team": "🇻🇳もこう",
+      "emoji": "😂",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳チギュ",
+      "score": "90.68",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳もこう",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJytkQEOgCAMA7ui//+yyYKR6SiL2oSEcbAWIAnAB+Fzr/oqq9rLO5UsWWsXtYw/TsvY0FcaaJO03tk6zfGZ+VXrAp35zugWsLJdvcafqSLVvooOmZPv/aSFL0Jx0wFn/AZw",
+    "cp": {
+      "1": "#ec4be1",
+      "2": "#dbf245",
+      "3": "#dbf245",
+      "4": "#45d2f2",
+      "5": "#ef6f52"
+    },
+    "sz": 30
+  }
+}

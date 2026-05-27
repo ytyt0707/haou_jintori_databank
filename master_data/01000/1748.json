@@ -1,0 +1,103 @@
+{
+  "round_id": 1748,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-06T17:29:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨] 🇨🇴",
+      "team": "🇨",
+      "emoji": "🤔",
+      "score": "30.42",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ナチス] パイソン",
+      "team": "🇩🇪ナチス",
+      "emoji": "🐶",
+      "score": "9.07",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ナチス] ハイル🖐️",
+      "team": "🇩🇪ナチス",
+      "emoji": "😍",
+      "score": "7.28",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐱",
+      "score": "3.57",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇩🇪ナチス] 男なら自死",
+      "team": "🇩🇪ナチス",
+      "emoji": "😀",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "青森県",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[おあん] 魚",
+      "team": "おあん",
+      "emoji": "👻",
+      "score": "0.06",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨",
+      "score": "30.42",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "16.42",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "3.57",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "おあん",
+      "score": "0.06",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd1IGSwjAIBNBli97///ENJECs1EaZMc3EZ8K2HQGQhJeq6piB1LlYlQuqolki9nkcoxZlTAraTI4oLEcak6CSDg6ZarIh5ni8HqsjgQ+yupTLqT4RAeAJhCus1O5kOCuI/fxvZontbHBY2q6z6+HUjLcWe6cLKPO+eP8b7vyEGC6qV5yP3L6f+4H5Grww0iaVPlRZpkxXrTT7uRt3sm0PZ9fnIN82/BQ3wowcd25Zfm66Pm9eluUGhr9z3HD11IjWZVddjPo34HtdxfvAWvA7Ozv06mq/s4oYd2oj55dws73vcvzqrnPgRuEfZt8G9g==",
+    "cp": {
+      "1": "#e75aaf",
+      "2": "#8df7d0",
+      "3": "#ea5553",
+      "4": "#e75aaf",
+      "5": "#e75aaf",
+      "6": "#84f967",
+      "7": "#ab58fe"
+    },
+    "sz": 40
+  }
+}

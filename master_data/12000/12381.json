@@ -1,0 +1,78 @@
+{
+  "round_id": 12381,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-05T06:41:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤖",
+      "score": "27.06",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇷🇺神撫子] 池田大作",
+      "team": "🇷🇺神撫子",
+      "emoji": "😀",
+      "score": "7.66",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤔",
+      "score": "2.03",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵匈奴] いただきマウス",
+      "team": "🇯🇵匈奴",
+      "emoji": "😀",
+      "score": "0.37",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "27.06",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺神撫子",
+      "score": "7.66",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ゲスト",
+      "score": "2.03",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵匈奴",
+      "score": "0.37",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0MEKwCAMA9DaWv//k4d1tMPGwg47LCfhmSCK5JBng94rlVKty2zEuSuhYHmpO3pzrXRUVZ16O1CN6aSyFHdnm49dieXmHL9naKdGOG/1uQ66tf4nI1Ii4O+Uhl0hjBdieAVC",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#4540ed",
+      "4": "#76f042",
+      "5": "#ee63a1",
+      "6": "#f1513b"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "round_id": 57000,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-23T07:20:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "91.04",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] BOT",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1U1sOwCAII3T3P/OCyoZS2ZJlfFn6gBgFRqkqRBwBIgEZyUsATvYobZWtYxC3wtfgU92bU63ziuVW9/7CHpvUsPNG4bfBlZHNAV/YnLbt1GOSbZbPKInXRi0v2fCi11TDpfeBZXl3r3+m9qPseO3RwQmB5wnf",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#6ae830",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}

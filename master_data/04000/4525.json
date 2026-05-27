@@ -1,0 +1,96 @@
+{
+  "round_id": 4525,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-13T01:24:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵幻魔帝] ポリゴン",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "🦊",
+      "score": "35.46",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵幻魔帝] まんげ",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "🐱",
+      "score": "17.25",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵幻魔帝] パンツマン",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "👻",
+      "score": "5.60",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ソロ] 宮永咲",
+      "team": "ソロ",
+      "emoji": "🤔",
+      "score": "2.67",
+      "kills": 9
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[共産党] けんじ",
+      "team": "共産党",
+      "emoji": "🤔",
+      "score": "0.80",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇸🇦bot] bot1",
+      "team": "🇸🇦bot",
+      "emoji": "😈",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵幻魔帝",
+      "score": "58.30",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソロ",
+      "score": "2.67",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "共産党",
+      "score": "0.80",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇸🇦bot",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lEOxCAIBFCmCrP3P/FGiwjutvNT4wuIjSIR1b0Uzfsj0JS5V5XUEhEACNUXpRQmpzoCZOrNoQIMgGMw6bWJwlmUrMzVOBSHztq13Xv/o3el9qTMurDv1mUqXaU+71HLjaciRoqr7pmnnrepM+9fMdraWLVbRUgxK/PeegG4xhMw59DW2lAR59Tf2No8d70uyzzWn0Nztc8sKfaullvLEfP29+dJdy1OncX+dH4yXR4w5wucKg3W",
+    "cp": {
+      "1": "#7c62f4",
+      "2": "#5feff1",
+      "3": "#5aa0f6",
+      "4": "#52f033",
+      "5": "#ec3c9a",
+      "6": "#ec3c9a",
+      "7": "#ec3c9a",
+      "8": "#f07b38"
+    },
+    "sz": 30
+  }
+}

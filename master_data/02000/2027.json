@@ -1,0 +1,46 @@
+{
+  "round_id": 2027,
+  "game_mode": "TEAM",
+  "player_count": 2,
+  "played_at": "2026-01-07T09:16:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇰🇷민민] 민민",
+      "team": "🇰🇷민민",
+      "emoji": "😂",
+      "score": "36.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "4.50",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷민민",
+      "score": "36.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "4.50",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN1EEOgCAMRNH+3v/QblACTGONIHZBSHhMWhaYfVUAZXPrrkqyvzqbl5d9l7Szvc4m5aXej742uXdx9dzdY9ew2NE6T+ZFDpXXw3ZKX+Jkg0sdkaOvJ07MOzh0eyiqxii/MnXVarx27g751ALT",
+    "cp": {
+      "1": "#88eccd",
+      "2": "#ed54b5"
+    },
+    "sz": 40
+  }
+}

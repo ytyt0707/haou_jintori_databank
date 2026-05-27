@@ -1,0 +1,83 @@
+{
+  "round_id": 10569,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-01T04:43:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] パンテオン",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "66.43",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] ⠀",
+      "team": "みん²",
+      "emoji": "😍",
+      "score": "17.80",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐱",
+      "score": "4.34",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] いなみや",
+      "team": "みん²",
+      "emoji": "😍",
+      "score": "0.21",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵特攻隊] 雑魚",
+      "team": "🇯🇵特攻隊",
+      "emoji": "👻",
+      "score": "0.12",
+      "kills": 13
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵特攻隊] 羅王/朿咅口セ",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐶",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "88.78",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "0.23",
+      "kills": 16
+    }
+  ],
+  "minimap": {
+    "bm": "eJytk8EOwyAMQzOEN///F08xJGGAdtl8aCkvNgHU1iQLkST0AAmhZtCMywLro8GNQHEW9/mRWLjq5IKbE6/LYKrPN9eUoL0jC0e/Gz1EFMwxH1tVH1atuWjsVLBQDsyJpFPaIg0dE3LPhXbhMM7i9Kphfmwh6OznCA3ab5ljzbw6PDeYFLfcoBR9HdjqXi7mH+hX9k963sFBdW63zPoRyi7NsaPWWOgNHcAR1w==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "4": "#49ec36",
+      "5": "#49ec36",
+      "6": "#f8202b",
+      "7": "#f8202b",
+      "8": "#49ec36"
+    },
+    "sz": 30
+  }
+}

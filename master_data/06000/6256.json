@@ -1,0 +1,43 @@
+{
+  "round_id": 6256,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-16T23:03:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵うんこ] ゲスト",
+      "team": "🇯🇵うんこ",
+      "emoji": "😎",
+      "score": "43.21",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵うんこ] 安倍晋三",
+      "team": "🇯🇵うんこ",
+      "emoji": "😀",
+      "score": "27.98",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんこ",
+      "score": "71.19",
+      "kills": 14
+    }
+  ],
+  "minimap": {
+    "bm": "eJydz1ESwBAMBNDUdu9/5Q5pVJCY6f7JYyGySSlSanamMissBatiUMwKp3CKbVJEij9Vzsq0OVV2bRuuSNcXkcmPKobKqtoMfuO7xe6oYds5MnWkRx1rr7EtZgXRj47eB3atMSVWojeYMlMu+arfz07sNcpJg6g87aoJpQ==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#eed444",
+      "4": "#b255ec",
+      "5": "#eed444"
+    },
+    "sz": 30
+  }
+}

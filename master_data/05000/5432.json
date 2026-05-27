@@ -1,0 +1,81 @@
+{
+  "round_id": 5432,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-15T02:29:39.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[まんぜう] ^_^",
+      "team": "まんぜう",
+      "emoji": "🦁",
+      "score": "2.84",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "歯周病卍",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.80",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵やんj] wonj",
+      "team": "🇯🇵やんj",
+      "emoji": "👻",
+      "score": "0.18",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵うんち] 朝山東洋カープ",
+      "team": "🇯🇵うんち",
+      "emoji": "🤔",
+      "score": "0.08",
+      "kills": 5
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵やんj] けんた",
+      "team": "🇯🇵やんj",
+      "emoji": "🐷",
+      "score": "0.00",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "51.12",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "まんぜう",
+      "score": "2.84",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵やんj",
+      "score": "0.18",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyVkNsOgDAIQ1Ea5v9/sXHx0sJctNnD9Iym1EwES98sywJm/BdFoQ2NaeTZRhZxSJ03U3rh5TTsp9Ac60RXwBI6gtNnfMy+QgSv5AXbZ5r+KoUDzg/66g91d9xdmFiz74xiRtOd6bqiptf3g43vNbRSnq2Fi/MbRipv0PUgpEwIlTQ2dOnaAax2B/s=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f8423f",
+      "4": "#f43497",
+      "6": "#eed12b",
+      "7": "#a1f844",
+      "8": "#f43497"
+    },
+    "sz": 30
+  }
+}

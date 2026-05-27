@@ -1,0 +1,88 @@
+{
+  "round_id": 1316,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-05T17:30:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[庶民] あほう",
+      "team": "庶民",
+      "emoji": "🦁",
+      "score": "37.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソ連] 大日本帝国陸軍",
+      "team": "ソ連",
+      "emoji": "🐶",
+      "score": "10.28",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[庶民] 美衣💢",
+      "team": "庶民",
+      "emoji": "👻",
+      "score": "5.62",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ソ連] 梨",
+      "team": "ソ連",
+      "emoji": "😂",
+      "score": "2.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ソ連] 彩喜",
+      "team": "ソ連",
+      "emoji": "😂",
+      "score": "0.30",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[うゆ軍] 最強うゆゆ",
+      "team": "うゆ軍",
+      "emoji": "👽",
+      "score": "0.08",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "庶民",
+      "score": "43.22",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソ連",
+      "score": "12.90",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "うゆ軍",
+      "score": "0.08",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJy91O2uwyAIBmCmL+f+L3nhQwUkW38sh6RtYp8ipVqi38ScU484oHGxPDpPNCOzYQJnjc7xpXrXxTdHxaW5monbdOKQE3o2jrckgPzoYrzZyx30iI4tbPTlBzRKecHteZcjiuUxckW48v09cfO8LueuAXRBbVlpLpoKQ3s7ByHpa1gjbZ7hDlKBL8AbIgcXt6HdHmNoWqr51HFyKs/Cx3aebmxH6z1uNyFpCM64cXZdlbnj6qyJpAAgOWeXljTJNyMmu+q26De6tMznMXf+EOCSLgQHR6e6OI3D8Ehw9W+UB9aOBH2Op87gNyROFsEDJy/zyP1jvAEyBwvB",
+    "cp": {
+      "1": "#f4a09a",
+      "2": "#f4a09a",
+      "3": "#87f7bd",
+      "4": "#f4a09a",
+      "5": "#87f7bd",
+      "6": "#f5ea51"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "round_id": 10213,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-26T15:55:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺チギュ] ぷゆゆ侍",
+      "team": "🇷🇺チギュ",
+      "emoji": "🤔",
+      "score": "33.63",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇷🇺チギュ] ヘルツネ",
+      "team": "🇷🇺チギュ",
+      "emoji": "😎",
+      "score": "23.97",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇷🇺チギュ] 日清羅王",
+      "team": "🇷🇺チギュ",
+      "emoji": "😂",
+      "score": "13.82",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🦊",
+      "score": "0.63",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺チギュ",
+      "score": "71.42",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うんち",
+      "score": "0.63",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJy100sOwzAIBFDi8cz9j1yB4x91sqnKwor8BBikmK3BUvy8w1KQpRAe34xb61kDqVrroTRINMVJAUUcKpMg1TmrXwwMxl0QQEy5qt9NnihBLWMoubI0Gj+oXLEotAV7aebcqTHqQfsiXlNXtcS7CnjVc25qe22Nk139zT4S0iZiXTY3/Q/FpuOBT7r/DD9r+5Rs2gcBFQ0M",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#88ec6a",
+      "4": "#f36db9",
+      "5": "#88ec6a",
+      "6": "#88ec6a"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "round_id": 8468,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-21T22:40:08.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 犬神フウト",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "7.94",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ネコちゃん",
+      "team": "",
+      "emoji": "🐶",
+      "score": "0.29",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "7.94",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0tsOgDAIA9DW+f/fbOIlGwWq9s2cFYkTCCEBzickJUvkqU9ylRId2mrRt4ONQjRVw1Yvk3X254X1QIm4hOkGliqKC4rav9Wi39fo8DpqzR9qvwP9qYLGA1O3VSXS/anoSHZuucED3+UCKw==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#97f764",
+      "4": "#d068f3"
+    },
+    "sz": 30
+  }
+}

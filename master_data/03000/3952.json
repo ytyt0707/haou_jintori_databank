@@ -1,0 +1,66 @@
+{
+  "round_id": 3952,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-11T18:19:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇰🇷チョン] 偽覇王/束音ロゼ",
+      "team": "🇰🇷チョン",
+      "emoji": "🐶",
+      "score": "48.28",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷チョン] ばーか",
+      "team": "🇰🇷チョン",
+      "emoji": "🐱",
+      "score": "40.90",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇩🇪ナチス] 馘",
+      "team": "🇩🇪ナチス",
+      "emoji": "🐱",
+      "score": "0.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇰🇷チョン] 生活保護受給者",
+      "team": "🇰🇷チョン",
+      "emoji": "🤖",
+      "score": "0.07",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷チョン",
+      "score": "89.25",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "0.07",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyFkYEOxCAIQ+vu2v//5ItCFJjhSJYojwJ1AEBiBsEZsIsd+ApJohf2dIzRUZLOZd+mNtfVsihzR6a7xKg0KnRqHhNdp0B3ztqF4fD0oUrUs8hbUcvc1taleTrz5ckaSofOgm/xlWkeXnBQBCr/D5KenQOKOFJe6BO0zHtlR3/pyt0MBZ9XfNK4PCUapdFPS3ttgzOEx3xiCPgBXxERww==",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#ef5d95",
+      "4": "#a8ec32",
+      "5": "#a8ec32",
+      "6": "#a8ec32"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "round_id": 14908,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-14T06:58:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] は美味しいネ",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "32.56",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐱",
+      "score": "11.91",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🐲",
+      "score": "8.36",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ゲスト] パンテオン",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😍",
+      "score": "2.99",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "💩",
+      "score": "2.30",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[楚] 泉サキ",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "32.56",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "14.90",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "8.36",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇻🇳謎の男",
+      "score": "2.30",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0VEOgCAMA9BhJd39T2wcDDYgxiV+4LMNgkia+318sqSRZT71/q/+EkBQyTlisOx97OPr+qX1rETDzEPpOrkEpWvtlNS2zgrUtolSgsLStDAPzfaNNTPvSkY7gPnzSxYLHxDzcP9rfx/YfmOP4nJV1awSmuVlXbNdG2oPh4LZ7N3pwpoyqiS1M+U2M3tgicqVD+ccFn5JD3ctC+Q=",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#b4eb60",
+      "4": "#2f6ae9",
+      "5": "#b4eb60",
+      "7": "#eb47ba",
+      "8": "#e5d13e"
+    },
+    "sz": 30
+  }
+}

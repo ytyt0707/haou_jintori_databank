@@ -1,0 +1,81 @@
+{
+  "round_id": 24694,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-13T13:46:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 狼",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "31.19",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵キング] チギュりパンで草",
+      "team": "🇯🇵キング",
+      "emoji": "🥴",
+      "score": "30.02",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵キング] オオヌキ",
+      "team": "🇯🇵キング",
+      "emoji": "👻",
+      "score": "3.79",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇬🇧MI6] ぶりぶり",
+      "team": "🇬🇧MI6",
+      "emoji": "🦄",
+      "score": "2.24",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇬🇧MI6] 大日本帝国陸軍",
+      "team": "🇬🇧MI6",
+      "emoji": "🌐",
+      "score": "1.39",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵キング",
+      "score": "33.81",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "31.19",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇬🇧MI6",
+      "score": "3.64",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kdGWxCAIQ6MI/v8fz0kQW7suDyNyE4RO77dAd3c4gAv1ihst5ocZ2UkQ+Qu+kXXCrJabdeW995UV4mBF/et7iXL+o/C5nE9+4OUq/d9pSqnP9R/myIpSH2dBngTvLqF1S5HL7/0jAmZoCzsvCrWPiLBL8A0y0XYRmCCSrGPLZAvA3L7IZNQMrcG3ZSfyAmjNbM45NlDCVzl90TEGFbVDhJYjtTkJhZ8e6c3W5A9hJqrSnHan+1sMO827c7V8b07I+3aXSOei/I/WEA8WA35YCAsD",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83064",
+      "4": "#bcd411",
+      "5": "#8B4513",
+      "6": "#e83064",
+      "7": "#bcd411"
+    },
+    "sz": 30
+  }
+}

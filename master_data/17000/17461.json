@@ -1,0 +1,81 @@
+{
+  "round_id": 17461,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-23T11:39:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] 葬送のフリーレン",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👽",
+      "score": "51.20",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "💩",
+      "score": "28.31",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] パンテオン",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦁",
+      "score": "11.48",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "正体不明",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.16",
+      "kills": 10
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😀",
+      "score": "0.00",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ゲスト] ゲス殺し",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "62.69",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "28.31",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lkOhDAMA9Age5T733gEXXAWmi/Ea0xJayblscgDAlsBIKOoi5KqKdJIPMVqTr6azUlMBIpCa+mzJdAZ1IPmqqnX1evAr94S3CSv+kVlQZxyD72qfIeblKuaaFI0LjDBe8y5n7vfvnTuDYL26jgh18+Oe0j47tYuTUZ/vO1PtlpXRtXrON/EeZEmz3++0Q5g",
+    "cp": {
+      "1": "#f02864",
+      "3": "#cce732",
+      "4": "#cce732",
+      "5": "#a356f5",
+      "7": "#2bf795"
+    },
+    "sz": 30
+  }
+}

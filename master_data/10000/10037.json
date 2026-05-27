@@ -1,0 +1,48 @@
+{
+  "round_id": 10037,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-26T06:23:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵🥪] ホットサンド",
+      "team": "🇯🇵🥪",
+      "emoji": "🦁",
+      "score": "44.64",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷独島] 独島は韓国領土",
+      "team": "🇰🇷独島",
+      "emoji": "🤔",
+      "score": "6.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵🥪",
+      "score": "44.64",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷独島",
+      "score": "6.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV00sSgCAMA9AIuf+ZHRCwX8GslDdtWCjwldqiTkhSKCZzJRoO9OGqlVZpokdDPFK7l6rX1apit/ndjYJcESuPtGxnPW5UrP6vnJvbY9483sZBjC2XCPJFRvVn2YcjBDgaQlz9GSp1CHFpj131b+NyA12YBzk=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#bd64ed",
+      "4": "#55a6f7"
+    },
+    "sz": 30
+  }
+}

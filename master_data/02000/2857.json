@@ -1,0 +1,46 @@
+{
+  "round_id": 2857,
+  "game_mode": "TEAM",
+  "player_count": 2,
+  "played_at": "2026-01-09T06:50:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵過疎] ♡",
+      "team": "🇯🇵過疎",
+      "emoji": "🦄",
+      "score": "1.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵俺⁉️] 俺‼️俺俺俺俺❗",
+      "team": "🇯🇵俺⁉️",
+      "emoji": "🐶",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵過疎",
+      "score": "1.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵俺⁉️",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYBgFOAEjI3XVjYJRMAroBJiIVMZEnEKqq2MgTiETsQaC1RKrkFgTCQIAPLwALQ==",
+    "cp": {
+      "1": "#ed91cb",
+      "2": "#edef8f"
+    },
+    "sz": 40
+  }
+}

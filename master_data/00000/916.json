@@ -1,0 +1,120 @@
+{
+  "round_id": 916,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-04T19:55:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🦁",
+      "score": "19.15",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] NoName",
+      "team": "猛虎軍",
+      "emoji": "💩",
+      "score": "18.59",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "😂",
+      "score": "18.19",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] ツインテメイド服",
+      "team": "猛虎軍",
+      "emoji": "🦊",
+      "score": "15.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[仙台藩] あ？",
+      "team": "仙台藩",
+      "emoji": "😎",
+      "score": "13.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[個人軍] バナー追加しろ",
+      "team": "個人軍",
+      "emoji": "😈",
+      "score": "4.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[猛虎軍] さとる（本物）",
+      "team": "猛虎軍",
+      "emoji": "🐲",
+      "score": "1.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[うんこ] たかし",
+      "team": "うんこ",
+      "emoji": "🐲",
+      "score": "0.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[うんこ] うんこ",
+      "team": "うんこ",
+      "emoji": "🤔",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "54.34",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "仙台藩",
+      "score": "32.15",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "個人軍",
+      "score": "4.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "うんこ",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0wEOwyAIBVCQDOX+F17AIqB2I1m3xJevTAqwF/o3ItaV3rs+m9Vcxq3cdWhevsRau8tIlznVD1chn05rJmTsDW0ujr/g6mOPKyy5fnOXvIDZ4WyXeTGoPe+JcR8pE8+try63nPJ8Xy1m1hOuQA43GThjVueHZNjyeg9ozjL9fiNwc9ziln0Oej+lHTL+wWPfdMaGN0fOgHlEH3lOaxz0GGR+xmuNVVgASAOvRp+SXiXdnOyFsj7yGFRHWk8r6XzCzDXvcbZzHYT1IpOXH7HtjoiyI3Ojvsc4HX0oFSxndE5kTkpuXp1d3nRyOkpulbwHFvfCYFR2c2MMkyLy03nLIoJ/HE0miH8dyKyLgwtz+HY+kQqXK8E5z91RFD9FoOkHAL5yZxPp",
+    "cp": {
+      "1": "#91f8ee",
+      "2": "#91f8ee",
+      "3": "#5ae787",
+      "5": "#ebcf8e",
+      "6": "#91f8ee",
+      "7": "#5ae787",
+      "8": "#91f8ee",
+      "9": "#7c5aed"
+    },
+    "sz": 40
+  }
+}

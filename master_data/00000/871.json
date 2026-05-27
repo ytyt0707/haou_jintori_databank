@@ -1,0 +1,55 @@
+{
+  "round_id": 871,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-04T17:31:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ソ連] 共感性羞恥心",
+      "team": "ソ連",
+      "emoji": "🤖",
+      "score": "68.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うおw] 円堂守らない",
+      "team": "うおw",
+      "emoji": "😀",
+      "score": "13.02",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ソ連] 梨",
+      "team": "ソ連",
+      "emoji": "🦁",
+      "score": "0.16",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ソ連",
+      "score": "68.99",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うおw",
+      "score": "13.02",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy11N0OgCAIBWBkvP8zt9IUVA7YFle1vp20n0P0aZi4znvej0j6kLA3xsnW1QjjeANldbyNnJ27Nu12S1+cmzRgfUQZF7NfXLiJQ5fbbirvyMX3laTDeaUUBf3XS6Qgg8/AXEJ5aWfOvOc3Oz/PX4Uee5/RF3h0szD6N5WDP7HuKgTvJjMQuOc1B4FLnuukK+yaCWqr5YXdptZm6ry1Wm/39FwQtgt6",
+    "cp": {
+      "1": "#524aed",
+      "2": "#524aed",
+      "4": "#eca265"
+    },
+    "sz": 40
+  }
+}

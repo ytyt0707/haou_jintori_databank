@@ -1,0 +1,40 @@
+{
+  "round_id": 17583,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-23T18:15:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ｍｅｉ] 爆弾の廃人",
+      "team": "ｍｅｉ",
+      "emoji": "😀",
+      "score": "62.99",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ｍｅｉ] 正体不明",
+      "team": "ｍｅｉ",
+      "emoji": "🐲",
+      "score": "35.15",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ｍｅｉ",
+      "score": "98.14",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0UEKACAIBMDF/v/niEJK14iQIG82aWIicxQTW8xSZ28UPTXab6Cp6yDKIP3HQfC6VT9ViFg2efFHOi2iWrKoz5XzoVLOUcYV8IcJMA==",
+    "cp": {
+      "2": "#a7f547",
+      "3": "#a7f547"
+    },
+    "sz": 30
+  }
+}

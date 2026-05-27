@@ -1,0 +1,78 @@
+{
+  "round_id": 10035,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-26T06:17:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵そ] 覇王ロゼであるw",
+      "team": "🇯🇵そ",
+      "emoji": "🦁",
+      "score": "25.44",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵🥪] ホットサンド",
+      "team": "🇯🇵🥪",
+      "emoji": "😍",
+      "score": "19.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "🤔",
+      "score": "6.72",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇰🇷独島] 独島は韓国領土",
+      "team": "🇰🇷独島",
+      "emoji": "🦁",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵そ",
+      "score": "25.44",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵🥪",
+      "score": "19.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳チギュ",
+      "score": "6.72",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇰🇷独島",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0IEKgCAMBNDL3P7/k2Nb6ikqFEEHkfY8swAIVjERoQnEgnsUs3bvM386TRqr2Gs9SUqEuTscVXO2K7duad/qcVXV0LoDq7EqHGOLoRv1eE1VaUp/tjAprRDANYajWoLlmQqhZ9It9EYpn6jzsdZzq/vuPzr93guJUAnG",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#f726a0",
+      "4": "#6bf57b",
+      "5": "#95f651",
+      "6": "#efbd57"
+    },
+    "sz": 30
+  }
+}

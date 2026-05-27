@@ -1,0 +1,48 @@
+{
+  "round_id": 6840,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-18T06:38:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ルーザ] 爆弾/自認レゼ",
+      "team": "ルーザ",
+      "emoji": "🦁",
+      "score": "23.33",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵細川家] けんた",
+      "team": "🇯🇵細川家",
+      "emoji": "🐱",
+      "score": "0.47",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ルーザ",
+      "score": "23.33",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵細川家",
+      "score": "0.47",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0UESgCAIBVA+v/ufuSFFFI2WsWp4gkgiP4Va1Gp8OqIecuow6Nhfo7jo3K7Fm8qmjJF1U7IzPVMq4DcAb7UYxUlNIFmjNWKnlmVXbYgYzDX+Qtb1wWLDpheNTRozlL1zbHOuPSifdO/MNvQITN/PkVo5Kz/0SrrYVWlLu6ZY0zcd4wPR",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#a651f0",
+      "4": "#efde3e"
+    },
+    "sz": 30
+  }
+}

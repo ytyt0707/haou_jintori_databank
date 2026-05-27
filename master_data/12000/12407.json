@@ -1,0 +1,80 @@
+{
+  "round_id": 12407,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-05T08:05:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "きょんくぅ~ん",
+      "team": "",
+      "emoji": "🐶",
+      "score": "10.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🦁",
+      "score": "2.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[神撫子] 廃人のフリーマン",
+      "team": "神撫子",
+      "emoji": "🤔",
+      "score": "1.37",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[神撫子] チギュアってて草",
+      "team": "神撫子",
+      "emoji": "🤔",
+      "score": "0.08",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "👻",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "2.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "1.45",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0FEOwCAIA1Bgyv2PvMThxAE164/RJzWR6E/6ClRKvG/BnCnVuhVEgIpnQ885jVoBzZbCnV7PRlVn51SZF1VfXTmoyNLwsvjh0CuOk175nnkrccR+nZlzJmPUMZS56phaTYNRq62UkUJ0uQGmCQLT",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#bbea4d",
+      "4": "#bbea4d",
+      "5": "#6695f9",
+      "6": "#eba23d"
+    },
+    "sz": 30
+  }
+}

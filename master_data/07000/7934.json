@@ -1,0 +1,42 @@
+{
+  "round_id": 7934,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-20T17:47:58.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵うんち] 安晋三",
+      "team": "🇯🇵うんち",
+      "emoji": "🦊",
+      "score": "20.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "〇ね",
+      "team": "",
+      "emoji": "🦊",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "20.05",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10N0KwCAIBeCjzPd/5TFD1DJpsJ2LAr9+LODHCK4xS4Wiw0ihT7HnnUqKlljTq/oeS+UPdO3qUImZiKIibKV5L8Dze5wVlntdOSf+NPI3uab0aoyS+7NP9X1Xhy2XamsatNw56wUu",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#4fd6ee",
+      "5": "#e8a14a"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "round_id": 350,
+  "game_mode": "TEAM",
+  "player_count": 24,
+  "played_at": "2026-01-03T13:23:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[大東亜] wad...",
+      "team": "大東亜",
+      "emoji": "🐲",
+      "score": "21.46",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[仙台藩] ヒカキン",
+      "team": "仙台藩",
+      "emoji": "🐷",
+      "score": "12.26",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "🐱",
+      "score": "10.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[555] ゾンビ凸",
+      "team": "555",
+      "emoji": "🐶",
+      "score": "5.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[誰だよ] キリン",
+      "team": "誰だよ",
+      "emoji": "😂",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "仙台藩",
+      "score": "22.28",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "大東亜",
+      "score": "21.46",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "555",
+      "score": "5.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "誰だよ",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt1dsOgyAMBuAudD97/ydeHAUr0HJwyW7WK034/MtBJfqXrqDLG/h4uPSjB4+wLDOXq0UaCj2ecsc2+Pm07TFeMBMNbUO5zHbYdL1SybLUwmyDWJ62tGfrcyEbPGNbGqZzO1YtuGstesdurBRVdkC70ZdYAATstQwpD6s7ocG1pKSqbINrqYWW7eBu5ddp2+7lsm5aW+1jjHE6+LTHdYwWVruEqmm5iSZ+vZKFtmhpB7NYvlqU2xhNDLVY6JRDy0Kjzv2CdaYrPZNtYa6yTHdszVivZwMDSKG9PWpn/DXLyHDCNtsDGtvOCn9yT5tenhV7no5VW1r3rOmQLSxrZ46t/+0SumkTkq/TQtPIscaB9lIPfA5b67j+C02zi79vl39KaO1sKq2N7uBf2Nv1Bl6IHQI=",
+    "cp": {
+      "1": "#b1e354",
+      "3": "#9be9f8",
+      "4": "#9be9f8",
+      "5": "#6cf490",
+      "6": "#8ca1ed",
+      "7": "#e45366",
+      "8": "#9be9f8"
+    },
+    "sz": 60
+  }
+}

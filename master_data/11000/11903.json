@@ -1,0 +1,51 @@
+{
+  "round_id": 11903,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-04T04:50:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "🦊",
+      "score": "16.76",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵神撫子] 🐬",
+      "team": "🇯🇵神撫子",
+      "emoji": "👻",
+      "score": "0.24",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "👽",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵神撫子",
+      "score": "17.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0DEOwCAMA0AD5v9froBAGeJ0qFo8ZDklRgB3sgV+GiytfZLkmMSuWGpBh+wj0a5IHSXwLpdQ/eUNijWLN+NJZa/7fyFOFji/Wqu2/5M+W07x6VfFx3IBxb8CjQ==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#4454e9",
+      "4": "#4454e9",
+      "5": "#5aed4a"
+    },
+    "sz": 30
+  }
+}

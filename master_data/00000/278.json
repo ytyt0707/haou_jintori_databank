@@ -1,0 +1,61 @@
+{
+  "round_id": 278,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-03T09:30:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[管理人] 管理人",
+      "team": "管理人",
+      "emoji": "😂",
+      "score": "14.76",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チーム] 彩喜😻",
+      "team": "チーム",
+      "emoji": "😂",
+      "score": "11.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[デカ女] ゆうちゃみ",
+      "team": "デカ女",
+      "emoji": "👽",
+      "score": "8.56",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "管理人",
+      "score": "14.76",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チーム",
+      "score": "11.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "デカ女",
+      "score": "8.56",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzd1OsOgzAIBeBC3/+dF1e1F1rgUJct45/GD04vMaX/r1xqg0Zwjtv8jEVx/oZlDmC+CrdV9tRhbzhS266paasU1LLroaZVqWpZC6xbiyq2paDtKHgtVlZXUwpYDlspLxyZ6i5+wAYwb9iduU9hnPNPWEIotZaJCNCjhSbzxuABYztGAgNa4HducsUnEvTYMx+e7NddYGoasdphFlp0cGWe4YBNNhYHDAz+sF1iYf2DJZW2/f58Ol5PqI7PC1Pt2MLITNU2TeZ2XKfI5Vxvo8svqtPAGZU+xafuHt5bqtLLL+sFobQJQA==",
+    "cp": {
+      "1": "#a2e774",
+      "2": "#92b9fc",
+      "3": "#64f2b2"
+    },
+    "sz": 60
+  }
+}

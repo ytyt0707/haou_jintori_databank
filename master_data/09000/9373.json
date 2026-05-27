@@ -1,0 +1,63 @@
+{
+  "round_id": 9373,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-24T18:28:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] 🤓🤓🤓🤓",
+      "team": "うんち",
+      "emoji": "🐱",
+      "score": "15.72",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳まんこ] 女殺し",
+      "team": "🇻🇳まんこ",
+      "emoji": "😈",
+      "score": "15.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇰🇷弱者] 見逃してください",
+      "team": "🇰🇷弱者",
+      "emoji": "😈",
+      "score": "1.36",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "15.72",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳まんこ",
+      "score": "15.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇰🇷弱者",
+      "score": "1.36",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0UsOwCAIBNBpwftfuRH8FEFMl52FIT41EIEwFG8D1JJrfCBV+qHWlEzLQREoM7Nq4xWFq0p/oULVfCNP7cPJek2z3JV5z1Y957pjksGtVr9H20TktPHytFSIVUtBoxiXNE7xnsXh1zwcCAQb",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#f466bc",
+      "4": "#39c7ea",
+      "5": "#484ef9"
+    },
+    "sz": 30
+  }
+}

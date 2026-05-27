@@ -1,0 +1,63 @@
+{
+  "round_id": 13276,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-10T14:45:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇵🇭ぷゆ帝] ぷゆゆ🥺",
+      "team": "🇵🇭ぷゆ帝",
+      "emoji": "🐲",
+      "score": "12.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "👻",
+      "score": "6.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ナムコ] リッジレーサー",
+      "team": "ナムコ",
+      "emoji": "🦄",
+      "score": "3.43",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇵🇭ぷゆ帝",
+      "score": "12.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "6.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ナムコ",
+      "score": "3.43",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJylzlEOgCAMA9Dixv2vbJiLInRDQz95tAD0KRginlzNy8gvRWl+UJZnW4jK9LTIwDH+U2PlZKqqduN9XlsAvTLVmsF5nnUFKfbKMNf6URlXZ/6puxz92ctpN8IdjXF3eTGd6DonIx4C+g==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#a5e33b",
+      "4": "#66f58e",
+      "5": "#5f9aec"
+    },
+    "sz": 30
+  }
+}

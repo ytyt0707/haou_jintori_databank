@@ -1,0 +1,79 @@
+{
+  "round_id": 3077,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-09T18:43:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🤔",
+      "score": "36.85",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳中国] 習近平",
+      "team": "🇨🇳中国",
+      "emoji": "🐶",
+      "score": "18.13",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] 唐澤貴洋(48)",
+      "team": "🇯🇵田中",
+      "emoji": "🤖",
+      "score": "17.82",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "🦄",
+      "score": "6.88",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵田中] あい",
+      "team": "🇯🇵田中",
+      "emoji": "💩",
+      "score": "1.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "55.75",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳中国",
+      "score": "18.13",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チー牛",
+      "score": "6.88",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt09uOwyAMBNCxx/7/X14BDoR7VO08UJeegoMIABKRUpFgGtMn28/MqUVENbMngHIRVe3ngWlqxcLpzJbrLZ1SJ9iDlnjo7BjfJ/TeB49bqd4ht7JJz66O4Q7pzuXGiO2OY4P/4+LixPEdmcb1O7o8FpiK496oLke+sW1/qP1tLUn/8hwkpa73wFUPVHVtr2W5txB398F5a7DeMBEkCUdoVxV5u1JJTik8t1NnMrSXqgFda11iZrPr/lOd2YF1zkT2tjRmLQcov7gdHPctbn727+ul8eowunYKY6SDS/KK4eL+APPxCz0=",
+    "cp": {
+      "1": "#dcef9a",
+      "2": "#83f696",
+      "3": "#83f696",
+      "4": "#854ff3",
+      "5": "#83f696"
+    },
+    "sz": 40
+  }
+}

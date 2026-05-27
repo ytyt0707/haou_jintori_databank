@@ -1,0 +1,97 @@
+{
+  "round_id": 15289,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-15T05:19:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "39.80",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] The",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "12.64",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "2.51",
+      "kills": 7
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] 自認ロゼ",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "0.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇨🇳無駄] 時間の無駄",
+      "team": "🇨🇳無駄",
+      "emoji": "🐲",
+      "score": "0.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵みん²] Big Wave",
+      "team": "🇯🇵みん²",
+      "emoji": "🐷",
+      "score": "0.06",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "40.04",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "15.14",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇨🇳無駄",
+      "score": "0.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵みん²",
+      "score": "0.06",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90UsSwyAMA1BLNNi9/4U7dkj5mKBNFg8jMxHpMUnRJ2aWvWutZiJm/mlH/6jV9Yn3TKqD5psH3fSqnjVf7Po96vtSo556a+fP9kV1mZx2VpWTJpxVFlz17Q92JZth2UoGRdYiQgB03CgJMth91sIIwEsA6qLlRlyumLWEAq35Rf0CL05aWGL0npWFo93Zz8zYdsOTrQYz7RzPl6YEfm2NDsY=",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#47f0cb",
+      "4": "#efef67",
+      "5": "#71ef8c",
+      "6": "#3cb6e7",
+      "7": "#ea3489",
+      "8": "#3cb6e7",
+      "9": "#ea3489"
+    },
+    "sz": 30
+  }
+}

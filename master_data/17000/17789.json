@@ -1,0 +1,62 @@
+{
+  "round_id": 17789,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-24T05:22:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵安住淳] 山上徹也",
+      "team": "🇯🇵安住淳",
+      "emoji": "🤖",
+      "score": "81.66",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "😎",
+      "score": "8.77",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "🐲",
+      "score": "1.60",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵安住淳",
+      "score": "81.66",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵陽キャ",
+      "score": "8.77",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳チギュ",
+      "score": "1.60",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0lsKwDAIRFEbZ/9rLq2IgV5swfqZo0NeazVlHY70pXhYUq8XG6qiWFUKnKpQYxTNftZmU6z7npHzukbPAHVM9I9hOlAF5214NdoWHGvujjkx7DcD9roq+pFt+LGyzU48aQdU",
+    "cp": {
+      "1": "#5788fa",
+      "2": "#eff46c",
+      "3": "#a150e7",
+      "4": "#f04cd5"
+    },
+    "sz": 30
+  }
+}

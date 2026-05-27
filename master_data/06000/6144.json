@@ -1,0 +1,80 @@
+{
+  "round_id": 6144,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-16T16:59:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 中山司",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "54.67",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "22.97",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] チンチン戦法",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "8.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] アルナイ",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "3.66",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇫🇷革命軍] 盆踊り",
+      "team": "🇫🇷革命軍",
+      "emoji": "🐶",
+      "score": "1.87",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "89.48",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷革命軍",
+      "score": "1.87",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵うんこ",
+      "score": "0.07",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0+EOhSAIBeDjDgze/4mbIWrUdbv8aM1P0NCAR8geAKyHqoIkpYRZ8tJVAcZQkmYFBX3Qel7iHjE8nid9463DRUS/lSdlfo4e9XvhH4pT5so9K6l1x0WfjpeuCfjIxeS4CTUVXT2TZ5eSV20gLgxEqO7uuwrubtyvOjXRo3JUX4uPq+O+7WpyJm6qjOPbGjIry1j6ff7DmkhrrRDq3P8D2djHj4YLjEkNcg==",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#b0ef57",
+      "4": "#b0ef57",
+      "5": "#b0ef57",
+      "7": "#b0ef57",
+      "8": "#8233f0"
+    },
+    "sz": 30
+  }
+}

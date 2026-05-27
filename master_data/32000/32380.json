@@ -1,0 +1,75 @@
+{
+  "round_id": 32380,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-03-31T01:46:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[金] ちぎられパン",
+      "team": "金",
+      "emoji": "🥯",
+      "score": "49.43",
+      "kills": 20
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[金] あ",
+      "team": "金",
+      "emoji": "🥰",
+      "score": "23.21",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[金] つぶきち",
+      "team": "金",
+      "emoji": "💩",
+      "score": "8.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[金] うんちょ",
+      "team": "金",
+      "emoji": "🐶",
+      "score": "3.87",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[金] ハエ",
+      "team": "金",
+      "emoji": "🪰",
+      "score": "1.40",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "金",
+      "score": "86.36",
+      "kills": 26
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk+uuBCEIg5klKfb9X/ikxZkxqznLDwN+FPEGAIjNyhaCCIScDjyTWZlZ9rchbbXS6+oskg8lb+U1MUkYoyh/2ksbmsI4Abi08plSI4ostafgtgIIhVXF2DBgiKyiNt5tTnGmm44UHb1Sl9eoVjt66IxNbxwR1r5Ce7NP00Hm54t3KO0YY6m7pEUMjoE+uWV+uqGOTccOU1SbP9sPiln4JI74h+q16XBPwsyGZ6ZZSX3Vx5TnlZ5oL+t73fFs6kj7fzwP4hWvH6fxwrSVL2t6Tzoh4w+QDQ5O",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d130e8",
+      "6": "#d130e8",
+      "7": "#d130e8",
+      "8": "#d130e8",
+      "9": "#d130e8"
+    },
+    "sz": 30
+  }
+}

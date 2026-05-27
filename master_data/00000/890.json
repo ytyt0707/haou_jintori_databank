@@ -1,0 +1,109 @@
+{
+  "round_id": 890,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-04T18:31:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[日教組] 台湾の大根",
+      "team": "日教組",
+      "emoji": "🐱",
+      "score": "28.73",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[日教組] 太郎",
+      "team": "日教組",
+      "emoji": "🦁",
+      "score": "16.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[麻原彰] 天皇屁以下",
+      "team": "麻原彰",
+      "emoji": "😀",
+      "score": "13.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ソ連] 梨",
+      "team": "ソ連",
+      "emoji": "👻",
+      "score": "3.81",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[阪神] うに",
+      "team": "阪神",
+      "emoji": "🤔",
+      "score": "2.70",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[阪神] 前川右京",
+      "team": "阪神",
+      "emoji": "🦁",
+      "score": "2.52",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[舞散葉] げり",
+      "team": "舞散葉",
+      "emoji": "🐷",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "日教組",
+      "score": "45.36",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "麻原彰",
+      "score": "13.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "阪神",
+      "score": "5.22",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ソ連",
+      "score": "3.81",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "舞散葉",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl09kSwyAIBVAyQPH/v7gTCZYtNp3eh040R9xSAAszhKTmBOyCyDUAuQexh6kfNYzzMTkszvjPjlPnHQOOL1oGNm+fst/vDh67CEN74wJkvJ93Otu2fhr6m5akjB3TxGJWZg0KDuZ01mStB96R1fPD1vVBqpfcOpSzEBGFF+1AehGZxCKPK1rtXAV1BWGxzvk1GwOy7B1VB8Ud1eU/tLoJxMHMbCPJ1XycTDfGuM4WwuTeyanMNQV1dSIyNm7tU0wWgt6JGNyXo62jR26elnf9PihnsnrOT128fFB3c2//5A3jCg+L",
+    "cp": {
+      "1": "#6ffbd8",
+      "3": "#fe9e81",
+      "4": "#be84f1",
+      "5": "#fe9e81",
+      "6": "#92e773",
+      "7": "#357efd",
+      "8": "#357efd"
+    },
+    "sz": 40
+  }
+}

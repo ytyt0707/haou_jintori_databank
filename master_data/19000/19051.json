@@ -1,0 +1,47 @@
+{
+  "round_id": 19051,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-28T03:45:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 大日本帝国陸軍",
+      "team": "🇯🇵田中",
+      "emoji": "🐶",
+      "score": "20.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵エロ国] カウパー",
+      "team": "🇯🇵エロ国",
+      "emoji": "🤔",
+      "score": "0.19",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "20.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵エロ国",
+      "score": "0.19",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0EEOwCAIRNFxvP+dG7sSob9d1MgOXtAJ0tbyKLInN6lNzKq/NLsFq8N6n9j3CP+tPIZJyUKfgsc4i+qTutL1DvND1S2OV2usL8y7yMXsAiPsAX0=",
+    "cp": {
+      "1": "#30a2e8",
+      "2": "#dc4eef",
+      "3": "#ef3434"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "round_id": 6348,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-17T04:01:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳みん²] おちすぎ",
+      "team": "🇨🇳みん²",
+      "emoji": "🤠",
+      "score": "7.05",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵石破茂] 山上徹也",
+      "team": "🇯🇵石破茂",
+      "emoji": "🦁",
+      "score": "2.65",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[💣] 爆弾/自認レゼ",
+      "team": "💣",
+      "emoji": "👽",
+      "score": "1.29",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵👯‍] 田中やで",
+      "team": "🇯🇵👯‍",
+      "emoji": "😀",
+      "score": "0.34",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳みん²",
+      "score": "7.05",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵石破茂",
+      "score": "2.65",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "💣",
+      "score": "1.29",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵👯‍",
+      "score": "0.34",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJzFkEEKwCAQA0O3yf+fXEQrxbrBHqTjRTJmRUnCwEpufdePvnentTNNoqzcuvJv2O/YVt1BIGKI9LDx1aofestqJWkUaHkltUdmITQ7L8PMLpm7uT9qgQvfsAIz",
+    "cp": {
+      "2": "#2858f6",
+      "3": "#79e746",
+      "4": "#27c2f1",
+      "5": "#f1d255",
+      "6": "#e4683f"
+    },
+    "sz": 30
+  }
+}

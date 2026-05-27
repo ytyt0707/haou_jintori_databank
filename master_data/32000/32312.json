@@ -1,0 +1,63 @@
+{
+  "round_id": 32312,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-30T22:06:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵右翼] 愛国党",
+      "team": "🇯🇵右翼",
+      "emoji": "😎",
+      "score": "61.82",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しZw",
+      "team": "🇯🇵ONJ",
+      "emoji": "😭",
+      "score": "20.88",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵山本組] 山本",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵右翼",
+      "score": "61.82",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "20.88",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵山本組",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk4EOxCAIQxF6///Ll9LDyeLckSVTnrXgZliEMUJhAHK+Jn8sAk805aQlRmbcvWkLi0ZMnNKpL1zaTrVzMRWlFWYGC3LayrprkTL3cHlfNEekzkeF+4XzXMqT1N0XzMapne12JjprynO89i7KLblmJRxnwyoJN1NAHaXzXcd5FrUDmYv19AB82soAu36KE8NR+S/dO+yzVeWR2pG+1FwO/T0weqLNBoNfUBeDv79cdMUSm30BluELYQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e8e8",
+      "5": "#60d411"
+    },
+    "sz": 30
+  }
+}

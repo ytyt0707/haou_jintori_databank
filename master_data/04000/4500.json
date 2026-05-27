@@ -1,0 +1,91 @@
+{
+  "round_id": 4500,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-13T00:04:23.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵楚] まままま",
+      "team": "🇯🇵楚",
+      "emoji": "😀",
+      "score": "16.78",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵楚] 💩",
+      "team": "🇯🇵楚",
+      "emoji": "👻",
+      "score": "13.60",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇸🇦bot] 矢野彩喜様",
+      "team": "🇸🇦bot",
+      "emoji": "😀",
+      "score": "4.95",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵楚] やったか！？",
+      "team": "🇯🇵楚",
+      "emoji": "😂",
+      "score": "0.50",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇸🇦bot] 名無し",
+      "team": "🇸🇦bot",
+      "emoji": "😀",
+      "score": "0.22",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵楚] 共感性羞恥心",
+      "team": "🇯🇵楚",
+      "emoji": "😈",
+      "score": "0.05",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇸🇦bot] bot1",
+      "team": "🇸🇦bot",
+      "emoji": "🐱",
+      "score": "0.05",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵楚",
+      "score": "30.94",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇸🇦bot",
+      "score": "5.22",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNkYkOwzAIQ5GbFf//F08cCSGdqiFtqnjB5rjvv0JE3qnctPgJwRkip9AJO4/8DrcHfFQW5iA/HGMw27O8/8MoPFr78QYAg0rwEJRFgSzG2kv5dipHoMQRVf5VyuUtnWZ6as+YvpWX/KFcjfqSLNnq3INIzOa4NUXCjiTiQgflHAjHIQBV1U4LQ/VWXW07CuwDWKnCHrA8Ygamss5ylgFSeqMbfKFrbsNXh7UxQK6zttEHOPa5zhx3WvEFaLkLLA==",
+    "cp": {
+      "2": "#fa8a57",
+      "3": "#bde637",
+      "4": "#f9d44d",
+      "5": "#f9d44d",
+      "6": "#f9d44d",
+      "7": "#bde637",
+      "8": "#f9d44d"
+    },
+    "sz": 30
+  }
+}

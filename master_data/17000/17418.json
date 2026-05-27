@@ -1,0 +1,80 @@
+{
+  "round_id": 17418,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-20T05:52:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵🇯] Kawaii",
+      "team": "🇯🇵🇯",
+      "emoji": "👻",
+      "score": "34.81",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵🇯] 浅井長々",
+      "team": "🇯🇵🇯",
+      "emoji": "😈",
+      "score": "23.86",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵🇯] パンテオン",
+      "team": "🇯🇵🇯",
+      "emoji": "🐶",
+      "score": "16.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ローマ] 大カトー",
+      "team": "ローマ",
+      "emoji": "🤠",
+      "score": "3.02",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "😈",
+      "score": "2.95",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵🇯",
+      "score": "75.27",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ローマ",
+      "score": "3.02",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇬🇧珍走団",
+      "score": "2.95",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90wEOwyAIBVDKR+5/5AYQRO3Gksbt7aO2lqgXaqSqz/MQEbdS1aDUDeGsKiJiykfUy1D0VFZlqboU/E/H4AF86/DilqVLR2bl2K6jSPW+FaaTC+0LYElX7NH1W4ysmmJpeemGyZum2OeXAtEI0ibOdQLIecLiXDhaM9h/vc1SyskgeQNa1tIND43J7LqUUudKuJioZTM6NdaY+8mlesd6LPuZqtCsMiJcKGs/X0q8XiIcJ1boKH/kUYYvPkYI1A==",
+    "cp": {
+      "1": "#2b38f3",
+      "2": "#39d3f9",
+      "3": "#39d3f9",
+      "4": "#39d3f9",
+      "5": "#57fa52",
+      "6": "#f033c0"
+    },
+    "sz": 30
+  }
+}

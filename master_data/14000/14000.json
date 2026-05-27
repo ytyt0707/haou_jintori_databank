@@ -1,0 +1,89 @@
+{
+  "round_id": 14000,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-12T05:53:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 爆弾/自認レゼ",
+      "team": "みん²",
+      "emoji": "🤖",
+      "score": "35.23",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "😀",
+      "score": "15.68",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪ナチス] 矢野彩喜ごめん",
+      "team": "🇩🇪ナチス",
+      "emoji": "👻",
+      "score": "2.83",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 阿呆",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "0.75",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇩🇪ナチス] 泉サキ",
+      "team": "🇩🇪ナチス",
+      "emoji": "🐶",
+      "score": "0.06",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🦄",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "51.66",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "2.89",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "うんち",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90VEOwzAIA1CG7Iz7n3iigUCUdHy1fXLrEpE20BoR0W56TA8C5Jvij2Ii+b0oAGXMfN40cp03JW8cuuDTGVPJaxYVjTwIbKr+2VWsUEqLqzKqMmIWAVq/e1G0Pe64qQIjNU5zsSvH0DTG61aWrupFzLy5cVfv7dHcmIWyjk9kXTK1jVhd309hvtgMLg+OcWrmhH3TpWFe7UVbSbN+dzSyyl40gxMlOz2r8BXH6p9//QFWwQrj",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "4": "#e7f95d",
+      "5": "#e7f95d",
+      "6": "#e7f95d",
+      "7": "#3a89e4",
+      "8": "#e8a84f"
+    },
+    "sz": 30
+  }
+}

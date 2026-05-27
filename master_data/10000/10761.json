@@ -1,0 +1,66 @@
+{
+  "round_id": 10761,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-01T15:06:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "48.82",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 名無しNS",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "4.99",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "🐲",
+      "score": "3.75",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵神撫子] ロリレイプマン",
+      "team": "🇯🇵神撫子",
+      "emoji": "💩",
+      "score": "0.41",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "53.81",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵神撫子",
+      "score": "4.16",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0VEOhDAIBNBBpt7/yBu3VCiLxJ3EH59MigVUVUELAIiIwKJ7KDOlkuxUNSo154WiUzQKz7Wty/Vg13yiMP1TjOnHg85UiqVHaGarYVZNvXlfOs+ScetNmYbjzwCnkhXCXr9TJE0r7VmvvXmM4o5W9/jmQc+l5x96p2xulJnvQ/tXdn++9Aeg6gbh",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#6b68ed",
+      "4": "#6b68ed",
+      "5": "#f55bab",
+      "6": "#f55bab"
+    },
+    "sz": 30
+  }
+}

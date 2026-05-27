@@ -1,0 +1,110 @@
+{
+  "round_id": 13232,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-10T12:22:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "48.15",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] クウガ🩲",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "12.82",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵グリコ] けんた",
+      "team": "🇯🇵グリコ",
+      "emoji": "😀",
+      "score": "1.40",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] パンテオン",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "1.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐲",
+      "score": "0.95",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵自民党] アベベ",
+      "team": "🇯🇵自民党",
+      "emoji": "🤠",
+      "score": "0.13",
+      "kills": 7
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇰🇷荒らし] 弾道🤥弾",
+      "team": "🇰🇷荒らし",
+      "emoji": "🐱",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "61.96",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵グリコ",
+      "score": "1.40",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇬🇧珍走団",
+      "score": "0.95",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵自民党",
+      "score": "0.13",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇰🇷荒らし",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN040OhSAIBWCkc4e+/ws3AvzF7bJlza9DWosoLWa/ANB0GMDddB6tAYSLMlpr7LP93LMM3tTibOFRm8LD8y2jOyPqYPbsH+pON53iokWb1lrvihpsiqNqNcpVpxGN1Z8Z4+iPffZ4aNK6a87yjXQNR2MCSskX7ltKeN5wAX5auWq5irhizobqUr/oqltXLEoLx02m+6K/MNKP1OP2Qo6yv0pEXjxdDAY=",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#f9983e",
+      "4": "#e2ea53",
+      "5": "#ea62d7",
+      "7": "#e2ea53",
+      "8": "#e2ea53",
+      "9": "#6bebbe"
+    },
+    "sz": 30
+  }
+}

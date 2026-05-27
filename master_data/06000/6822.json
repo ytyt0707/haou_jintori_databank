@@ -1,0 +1,72 @@
+{
+  "round_id": 6822,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-18T05:39:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 犬神フウト",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "17.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵🐱] 安倍晋三",
+      "team": "🇯🇵🐱",
+      "emoji": "😂",
+      "score": "1.80",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "0.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[うんこ] ケツからチョコ棒",
+      "team": "うんこ",
+      "emoji": "🦊",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "17.35",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵🐱",
+      "score": "1.80",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "うんこ",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0VEKwDAIA9DMxd3/yEUoqEVlX4OF/rSPtEKBMSQIW43ujBhZdVC1tOwa8CYgku5mYtkppioU4U07znio1Ep6LWhop9apFfrIU5WoEO0HvVDMiln/kivtns8HWNfEAy8=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#8ce830",
+      "4": "#8ce830",
+      "5": "#f9d843",
+      "6": "#ea69ec"
+    },
+    "sz": 30
+  }
+}

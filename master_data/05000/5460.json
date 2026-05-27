@@ -1,0 +1,73 @@
+{
+  "round_id": 5460,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-15T04:00:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵うんち] ばななうんち",
+      "team": "🇯🇵うんち",
+      "emoji": "😀",
+      "score": "21.40",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵さとる] やの",
+      "team": "🇯🇵さとる",
+      "emoji": "😎",
+      "score": "1.37",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇷🇺ぷゆゆ] ネコちゃん",
+      "team": "🇷🇺ぷゆゆ",
+      "emoji": "😍",
+      "score": "0.32",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "男子中学生江戸杉",
+      "team": "",
+      "emoji": "😂",
+      "score": "0.06",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "34.69",
+      "kills": 23
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵さとる",
+      "score": "1.37",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺ぷゆゆ",
+      "score": "0.32",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90UkSxCAMA0BrnFHx/xenWAw2mOiSQ0dmE5FfjMR8kARhTV6sqtp+UCbKpqpTHY8etaWv8B/EGVPOrkPq83RlV4aoYS1zsn0NaWdcazqVoGM3HlPVXduBXXalRpbF4IbK/TGcpS+ZW1dgXEgQmKYIoDIAHoqVdgA5qoZnUFDKVQu6Ztb0a/CYm6mNvU4ut7Gj3q/rzAtDEAeX",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#d162f9",
+      "4": "#49c5ee",
+      "5": "#73f825",
+      "6": "#d162f9",
+      "8": "#e9512f"
+    },
+    "sz": 30
+  }
+}

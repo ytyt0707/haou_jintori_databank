@@ -1,0 +1,83 @@
+{
+  "round_id": 20150,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-03-02T15:31:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤖",
+      "score": "40.66",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵たぬき] 🌕",
+      "team": "🇯🇵たぬき",
+      "emoji": "🦄",
+      "score": "20.52",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇬🇧珍走団] ゲスト",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐶",
+      "score": "15.28",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇬🇧珍走団] 爆弾/自認レゼ",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐱",
+      "score": "11.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵たぬき] 新規",
+      "team": "🇯🇵たぬき",
+      "emoji": "👽",
+      "score": "9.33",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇬🇧珍走団] ワイらで唐澤殺す",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤔",
+      "score": "0.02",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "67.02",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵たぬき",
+      "score": "29.85",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kkEWxCAIQ50aHrn/ieclFEddjAuLfBJRSwB4NK1BkpEezj3PwSNioycDRAsvvy34UW7ZDk0tvuhQRdEI8qKWN80NzjnnBQlUgZjG7hyB1/uFxt1VhLRSzwkXKHNQq1sb0S1nUlo33nTbOFP7uq2XemHnzCR9pojadFapKASZ1cKSEqNfwS9ZPoWrf+HSUq+s9xKGeqyLxpAzjTNziv9oIH0ciYfwnOqKRPi6bdTahRuJ1t+1ZjJfmvgAK7+C1n7+UcHbOdvYDjdt2/puFDrhOXTQlVxB15S2V+vLulFTksO3dE4AvzEfEfw=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#59e830",
+      "4": "#85d411",
+      "5": "#85d411",
+      "7": "#59e830",
+      "8": "#85d411"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 10252,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-28T15:47:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] トラパ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "💩",
+      "score": "28.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵三遊亭] 圓楽",
+      "team": "🇯🇵三遊亭",
+      "emoji": "🦄",
+      "score": "20.29",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "28.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵三遊亭",
+      "score": "20.29",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10lkKxDAMA1DV0v3PPMQJk9QLhTKjH0Megmxm3+DINYeRWS/PUCM5RsLJpHuMs6FRjK5rYV4GWvXy4Fqxuk19a7ntjdn1T21RklqVK2pNeLKWliypKPOksCuSuudB8SvV6+79NOE6kDR+nA0T47NBwF7/AOvyBiM=",
+    "cp": {
+      "1": "#e9cf3f",
+      "2": "#2fb2f4",
+      "3": "#c158ee",
+      "4": "#f74a92"
+    },
+    "sz": 30
+  }
+}

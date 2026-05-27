@@ -1,0 +1,65 @@
+{
+  "round_id": 17941,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-25T14:09:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 浅井長々",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "48.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 泉サキ",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "42.27",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇦=△=] (・3・)",
+      "team": "🇨🇦=△=",
+      "emoji": "😀",
+      "score": "1.61",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] ゲス殺し",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "90.74",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇦=△=",
+      "score": "1.61",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN09sOhCAMBNChjv//yy69QAtqsm/2QUNOS4tBAELpQbYekBkAORataZZ4cq/bNMrwogydnKJvfKezr5iiFNFftCfrlpJ07rX0dd3HOlb1boZHtB8jjD6mBcpsqvKP1qlsCuZiZj3PqlqPmUFsKs+6fJjPqS42ZcLnE72r+r3Si7Gx3ovoG6F5yNcXv7/lArkDCZY=",
+    "cp": {
+      "1": "#45d0e8",
+      "2": "#5773ef",
+      "3": "#f26c3a",
+      "4": "#5773ef",
+      "5": "#5773ef"
+    },
+    "sz": 30
+  }
+}

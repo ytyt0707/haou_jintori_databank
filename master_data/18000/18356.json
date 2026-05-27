@@ -1,0 +1,86 @@
+{
+  "round_id": 18356,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-26T12:54:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "42.25",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐲",
+      "score": "17.92",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐷",
+      "score": "0.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇦=△=] (・3・)",
+      "team": "🇨🇦=△=",
+      "emoji": "😎",
+      "score": "0.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] さと",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "42.36",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "17.92",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "0.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇨🇦=△=",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9k1sSxSAIQwPl3v0vuSMoxFfz49RDgoMWACyEk4zUvqUpYVrTXpCtz5NUDtQiLNJ36hLqPFqShLwUIOPgMloztZ4UB2slXjzRCJFBz/LWy54yXb0Of0SLq5Yz4MQ+sBZGLyJIZl+EqcEGzQ5JVaGTYox9QgtYbl/LPL8rXJ3d60bs0On/22sXiAVuVNvovoKtZnH7T07JLm1lh/0X7bMHUA==",
+    "cp": {
+      "1": "#f74bcc",
+      "2": "#f1cd3b",
+      "3": "#7962ef",
+      "4": "#4dea8c",
+      "5": "#4dea8c",
+      "6": "#cc62f9"
+    },
+    "sz": 30
+  }
+}

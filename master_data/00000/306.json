@@ -1,0 +1,64 @@
+{
+  "round_id": 306,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-03T11:01:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[特攻隊] 自爆テロ",
+      "team": "特攻隊",
+      "emoji": "👽",
+      "score": "12.42",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[さとる] 巨乳ロリ",
+      "team": "さとる",
+      "emoji": "🐷",
+      "score": "11.27",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[さとる] ゴミ",
+      "team": "さとる",
+      "emoji": "👻",
+      "score": "1.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "蚊",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "さとる",
+      "score": "12.42",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "特攻隊",
+      "score": "12.42",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt1esOgyAMBeC2Z+//zItyGcMCB9yyLOH8MIh+tJKoIh+ILbIYAdIUYNRilhPtOQqrtfKoywpeE7Aurm2+0YrQPd+3Zjyu7zQeWzODve7acc/r8n2vLh3zdrpsT5PWW4CgWLcALL528fWhMY6EI5ZsmYmeLzZr6nE9rDqmfmE9smaVtF7PqkJhz0JFbhTmuvYL37AQCjcstVu+jf8IUDYMynMeJ5uOwuGybSlqsknwHFWXJlYhZua6+o3d2dn5g+wPxHfyBGJVB30=",
+    "cp": {
+      "1": "#f6c893",
+      "2": "#f6c893",
+      "3": "#d75bf5",
+      "4": "#55d4f7"
+    },
+    "sz": 60
+  }
+}

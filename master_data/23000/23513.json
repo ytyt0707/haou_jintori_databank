@@ -1,0 +1,66 @@
+{
+  "round_id": 23513,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-10T07:16:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 爆弾/自認レゼ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "78.22",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 👶🏻🎀",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "3.98",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しg8",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.35",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] あ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.17",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "79.73",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "3.98",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNUlEOxSAIA/oI97/xCyAq0S3zY0JLKZKJiBCJII+ZGa0jzg4KgJlhkqpTlRW8ClVVd+FiPAo2HLfeVeKkSrgUtN3B5ggbOkOn39lZCuC3JzFWAtbxzFT1BgdGLn5jAebqer6ZwFYssKLqyGTbbgstZ+ZHFu7LzMBpGnLXPrUeBc3ue8Jpefo+7+lj85q37i4b28tXd2plvpK7PBfm31XdosDv5NDk1R5OpfKx2v8ZyR+wXwnm",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8B4513",
+      "5": "#9ca3af",
+      "7": "#8B4513"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "round_id": 4042,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-11T23:11:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🦁",
+      "score": "23.68",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇵🇭ぷゆ帝] ぷゆゆ🥺",
+      "team": "🇵🇭ぷゆ帝",
+      "emoji": "😎",
+      "score": "19.98",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[oj軍] 共感性羞恥心",
+      "team": "oj軍",
+      "emoji": "🤠",
+      "score": "17.70",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "7.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[oj軍] やったか！？",
+      "team": "oj軍",
+      "emoji": "😍",
+      "score": "1.19",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "お",
+      "team": "",
+      "emoji": "😎",
+      "score": "0.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[さとる] メスショタ",
+      "team": "さとる",
+      "emoji": "🦊",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "23.68",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇵🇭ぷゆ帝",
+      "score": "19.98",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "oj軍",
+      "score": "18.89",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "楚",
+      "score": "7.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "さとる",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lEOhDAIBNAZu1S4/4U3orYU1Pkw0ee01CgiEFzZR65bWRLcE4iU/VX52SWrIlQpJBfUc5q7DpLIOmYGaVYXHmwImhhm9q4LlqXNLH7RWj31fAUZYxe+8XEBfKKsMzdiy6oaeJtldfNMvRZH16O26tg5qhXtvavGhS3+Ykl9uKljohE/wTzKQ/ClDr+kKNWnLqq21lqikOb8bLenZ3+2YhDy",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#c52af4",
+      "4": "#f94ec8",
+      "5": "#6ef291",
+      "6": "#4af2c3",
+      "7": "#e8504a",
+      "8": "#c52af4",
+      "9": "#6ff13b"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "round_id": 20020,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-03-02T08:29:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "侍VSオリやぞ",
+      "team": "",
+      "emoji": "🐱",
+      "score": "16.65",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[小谷城] 鯖中毒💊",
+      "team": "小谷城",
+      "emoji": "🐷",
+      "score": "14.59",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[小谷城] 新鯖♡",
+      "team": "小谷城",
+      "emoji": "😍",
+      "score": "7.87",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇦=△=] (・3・)",
+      "team": "🇨🇦=△=",
+      "emoji": "😍",
+      "score": "3.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "😂",
+      "score": "2.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇨🇳人民軍] 毛沢東",
+      "team": "🇨🇳人民軍",
+      "emoji": "🐷",
+      "score": "1.82",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "🌕",
+      "team": "",
+      "emoji": "🦄",
+      "score": "0.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "うんこ！",
+      "team": "",
+      "emoji": "👽",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "小谷城",
+      "score": "22.45",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇦=△=",
+      "score": "3.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳人民軍",
+      "score": "1.82",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkssShCAMBGfRWKn8/wdvTV5E3cvmItL0EFBABABEZC3guvjStbKaXnPBg+LyclmAov4Eo1kVLRM39Vbwdu/yVFcFAp8YTppn4/ESz31FTpawwvVzRoAkdexUGOMQlNwtuROwEJmd7PF9MKeuxvyNYtMI/ptGwIju6+GeOM/41Lmg4Rj8cjcm5b8iqntyj0JWfVMup+WsbmOLAIL9jE10d61sPZrXFAJy/ti0ss1cOLzazZ7N2Emw6VI2M2OjSYeqBZNOpKq7V17NA+ILU1UKuA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#e830cb",
+      "4": "#60d411",
+      "5": "#30e8a3",
+      "6": "#30c6e8",
+      "8": "#60d411",
+      "10": "#4d81e5"
+    },
+    "sz": 30
+  }
+}

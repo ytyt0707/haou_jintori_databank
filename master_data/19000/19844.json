@@ -1,0 +1,51 @@
+{
+  "round_id": 19844,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-01T22:58:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "艦これ",
+      "team": "",
+      "emoji": "😎",
+      "score": "31.67",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😀",
+      "score": "18.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しSu",
+      "team": "",
+      "emoji": "👻",
+      "score": "1.03",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "18.01",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVUdEOxCAMorP7/1++CBWbxd3l+rAREForwLpaAfct1t+m3i6qYwBHlRFjDIr2GJSZskmDaky3SYM91hz1WVbxtyprIAjOwcHa2fJoY9K6u4apfS5ramdTzDoBrODMTFykJ9QBJ2+KqGS5iyGXiWWOyrZswCaKNmegwaqx2QW6urj9/xqsmd/a6sZzhxE7sCF1/qGCt28uwfKeVYtH71ZP7qM6n9cP1E888AdNWghs",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#e83030",
+      "4": "#ced411",
+      "5": "#30e881"
+    },
+    "sz": 30
+  }
+}

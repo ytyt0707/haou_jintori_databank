@@ -1,0 +1,85 @@
+{
+  "round_id": 7690,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-20T04:36:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "37.22",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "9.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵温蛸] まままま",
+      "team": "🇯🇵温蛸",
+      "emoji": "😂",
+      "score": "5.77",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵温蛸] カミカゼ",
+      "team": "🇯🇵温蛸",
+      "emoji": "👽",
+      "score": "1.18",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] まぁんこ",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "0.21",
+      "kills": 17
+    },
+    {
+      "rank_position": 9,
+      "player_name": "まだ陣取り？",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.06",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "50.53",
+      "kills": 34
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵温蛸",
+      "score": "6.95",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNkuESgyAMgzO6Bfv+L7yjBVvKvFt+eOJnQqwASxdC5Li2CUwMGWutOZP8/L4btPiQ/WeqkRa5BxZpEztENorMWk6jilt9TwQFtxcqNYlIfByfKBL9VHpZjzHPw7qysVORbVtrutO9t1H6T2PFkTwnGANxd6YU6b3n7Bu+SekPVKc5Q67ztNZaWiNDqlrIy8d50uLbMWcDRcFvP8aKka/Vt9aqmebjH5h40A/v3zT0BSA6DMQ=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#e8d545",
+      "4": "#5cdbf5",
+      "5": "#e7634b",
+      "6": "#5cdbf5",
+      "7": "#e8d545",
+      "8": "#5cdbf5",
+      "9": "#5cdbf5"
+    },
+    "sz": 30
+  }
+}

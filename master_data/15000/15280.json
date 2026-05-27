@@ -1,0 +1,65 @@
+{
+  "round_id": 15280,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-15T04:40:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵万華郷] パンテオン",
+      "team": "🇯🇵万華郷",
+      "emoji": "🦁",
+      "score": "80.68",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵万華郷] 自認ロゼ",
+      "team": "🇯🇵万華郷",
+      "emoji": "😂",
+      "score": "4.36",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵万華郷] まんげ",
+      "team": "🇯🇵万華郷",
+      "emoji": "👽",
+      "score": "1.80",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🦊",
+      "score": "0.25",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵万華郷",
+      "score": "86.84",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "0.25",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0+EKwCAIBGCHXu//yAMrinVaG7tfjQ+dRYm02BoZ8W/lTiqHBli1lEgBeOmFQH0BqD6Hsv5LMO0DqeOira/W8MaKRCnNSke18JgOktduNGVJGwhZ/TTVd803ZMmFrFfylcpsZ0+Iyg3Ltgxc",
+    "cp": {
+      "1": "#47f0cb",
+      "3": "#f358ab",
+      "4": "#f358ab",
+      "5": "#f358ab",
+      "6": "#3ef967"
+    },
+    "sz": 30
+  }
+}

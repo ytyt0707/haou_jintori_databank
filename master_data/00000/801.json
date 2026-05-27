@@ -1,0 +1,55 @@
+{
+  "round_id": 801,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-04T13:44:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "🦁",
+      "score": "82.30",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソロ] 共感性羞恥心",
+      "team": "ソロ",
+      "emoji": "🤖",
+      "score": "9.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ソロ] 金正恩",
+      "team": "ソロ",
+      "emoji": "😎",
+      "score": "1.49",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "仙台藩",
+      "score": "82.30",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソロ",
+      "score": "11.22",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN1EkOwCAMA0A7/P/PVWlVlrIYRBcfEIpGEHIAUEN3hTSSvshzcxAALo6ZsRjvLHZlOOT6bN6VGfP3VhiT8fkJSufVGBkcWyy4hhly+3JzKDshixxEN3OvRF9+b+Q0+V1/j7guV6eyuD/820F3+d8eSkltAzXBBvw=",
+    "cp": {
+      "1": "#f2404c",
+      "2": "#f1fb6a",
+      "3": "#f1fb6a"
+    },
+    "sz": 40
+  }
+}

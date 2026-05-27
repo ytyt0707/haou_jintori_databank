@@ -1,0 +1,57 @@
+{
+  "round_id": 7244,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-19T04:28:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うゆ軍] 中居くん",
+      "team": "うゆ軍",
+      "emoji": "🦁",
+      "score": "31.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うゆ軍] 爆弾の廃人",
+      "team": "うゆ軍",
+      "emoji": "🤖",
+      "score": "24.41",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 犬神フウト",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "0.40",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うゆ軍",
+      "score": "55.55",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "0.40",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyVkVEOBCEIQ1uq97/yBmdAHdydbH80ebQgAoANXRcAaFhl1nvvZiZTuxVMGtZmkhIu1GVt1071B50zHelLsjZYqPROM/muwJacZi+ezgK15v6kjweNvuUPTjRzt5HTW+jaunpvs5yxJo9tiH7n/IVMHKdTkg5Y+zLhaaqxTxJRsbQVgjIC8iEzjhOH98kuHl4Ub1LfBVQwzuJV8YVGzQduGwcq",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f49e4e",
+      "4": "#f49e4e",
+      "5": "#eb60c6"
+    },
+    "sz": 30
+  }
+}

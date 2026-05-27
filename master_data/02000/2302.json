@@ -1,0 +1,46 @@
+{
+  "round_id": 2302,
+  "game_mode": "TEAM",
+  "player_count": 2,
+  "played_at": "2026-01-08T00:48:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸usa] さてろ",
+      "team": "🇺🇸usa",
+      "emoji": "🤖",
+      "score": "8.59",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "😍",
+      "score": "8.55",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸usa",
+      "score": "8.59",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "8.55",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0kEOACEIA0Do/x+9BxNDWok18bb2PAFBIl7+HsBklsOBMyAsB1x1LcvcuhxZMZAhumFTgqG4bJ3YKtu+XJGH7V6oa9GR5a4mKTsc1fg/aM1hn8vBmYZ0fSn5ABR/AZw=",
+    "cp": {
+      "1": "#f862ab",
+      "2": "#92f2c8"
+    },
+    "sz": 40
+  }
+}

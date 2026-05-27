@@ -1,0 +1,48 @@
+{
+  "round_id": 11479,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-03T05:54:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵大和] 名無し66",
+      "team": "🇯🇵大和",
+      "emoji": "🦊",
+      "score": "40.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇼国民党] 蒋介石",
+      "team": "🇹🇼国民党",
+      "emoji": "👽",
+      "score": "27.85",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵大和",
+      "score": "40.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇹🇼国民党",
+      "score": "27.85",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0VkOACEIA9BKvf+ZJxMUFxb55IUasPezAIiIQKvfKqNC7eWsRkMfCBUWnmuW/FSkK1VqEOJa1utIDa9xHvnSeaFURVr723RqEyTphrXHWV7P2tXhQ2kaGIlqktXo0sSLhV7K7ZDrvUqjZOw3DhUauz74A7R+CTY=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#3e5de5",
+      "4": "#ee5869"
+    },
+    "sz": 30
+  }
+}

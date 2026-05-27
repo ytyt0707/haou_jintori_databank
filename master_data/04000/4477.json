@@ -1,0 +1,105 @@
+{
+  "round_id": 4477,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-12T22:46:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "22.04",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ぷゆゆ] ぷゆゆ🥺",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🤔",
+      "score": "20.58",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "10.99",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[蝸牛] 八九寺",
+      "team": "蝸牛",
+      "emoji": "🐶",
+      "score": "10.88",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "愛城華恋",
+      "team": "",
+      "emoji": "🦄",
+      "score": "0.82",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "🤖",
+      "score": "0.66",
+      "kills": 5
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵ぷゆゆ] こうもり",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🤖",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "33.03",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "20.68",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "蝸牛",
+      "score": "10.88",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ローマ",
+      "score": "0.66",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN08ESwyAIBNAtG7bk/3+4Y9CKtumUi4cXZsExwF2RZDvdHe7mpeA+ND+wPEax66OxYAYEuXDvlWASIyIqD7WmsWnaEzLr6h/aek1bb409z7Mro6iAp4oyUDXrNDO7FFEW6nqNFcdxgBm9qpTKDOeu0kEmBomqEdLVkfreVGPRuNFumYZ5R6nonVfc8gTeuX3Or6o7jTbvrY7mv3TxeVNcalP8UvIfxcIzdvlHUudQyybzOWKTUi9ixgv/",
+    "cp": {
+      "1": "#41b3f1",
+      "2": "#6970f7",
+      "3": "#f16f7e",
+      "4": "#8c4be7",
+      "5": "#c0e740",
+      "6": "#f7cb45",
+      "7": "#f7cb45",
+      "8": "#f16f7e",
+      "9": "#32ecb4"
+    },
+    "sz": 30
+  }
+}

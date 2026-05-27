@@ -1,0 +1,93 @@
+{
+  "round_id": 24200,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-03-12T10:56:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 🌕",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "37.80",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] チギュりパンで草",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "20.01",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵猛虎軍] ███",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "😈",
+      "score": "3.48",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] あ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.07",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵自民党] アベベ",
+      "team": "🇯🇵自民党",
+      "emoji": "🐱",
+      "score": "0.27",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "57.80",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "3.48",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "3.07",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵自民党",
+      "score": "0.27",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklFuxDAIRAdTEPc/8WrA9po4rVQ+ooTHDOAYgDFwhOyYsCpWXaOa2fUA0Kk2DiAmT+eiNUBZiEhECGBDuzZ5YWrVbIwxVuOpjohIqhczM3qT3kLKORhHGYOtn90XNX2jFNcaL1IzybZmtn37zsjTKNw3MuPIv1snPXBX8yBP9ZMmruS1cIgwB51T978xKZO1sbq5u1vOIqVVJfxhAZm7J4UIpuigNWheoC9d0n05RfAnPZwvLU1236Lbt16SzhrAb7ocHoSfqpnkkf03PnSjCr0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#60d411",
+      "4": "#d130e8",
+      "5": "#60d411",
+      "6": "#30e8b4",
+      "8": "#8B4513"
+    },
+    "sz": 30
+  }
+}

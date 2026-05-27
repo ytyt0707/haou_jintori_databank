@@ -1,0 +1,62 @@
+{
+  "round_id": 9547,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-25T03:53:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😍",
+      "score": "11.09",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳万華郷] 万華武者",
+      "team": "🇨🇳万華郷",
+      "emoji": "🤖",
+      "score": "4.27",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵N高] 澤登",
+      "team": "🇯🇵N高",
+      "emoji": "🦄",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "11.09",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳万華郷",
+      "score": "4.27",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵N高",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJztj0EKwDAIBK1M///lQjUtKbrkmEPnEnB2JZr9BGcrbnaz4Xv7vQgZHRxLqQn0biCfKhVThCWp5GurOjTWfdb1VdLq7vOzte4FdnwCVg==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "4": "#66c7eb",
+      "5": "#6676ea"
+    },
+    "sz": 30
+  }
+}

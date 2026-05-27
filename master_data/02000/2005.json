@@ -1,0 +1,79 @@
+{
+  "round_id": 2005,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-07T08:04:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "26.96",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐲",
+      "score": "26.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] は？",
+      "team": "みん²",
+      "emoji": "😈",
+      "score": "13.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 珍",
+      "team": "みん²",
+      "emoji": "🦄",
+      "score": "10.49",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "8.26",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "32.18",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "26.96",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "26.31",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF09EShCAIBVDkwv//8o4IrmhUDzuzPORUx5uaEl2XiBwPomBXtbL2+6q71lozhN72u6aBF9efA4C2tTZoDoAAisOlPMzanbx0isUBl/Ac3+LUxYObSeOK0pEHWdNXuvgupjMSq61q/8OE5Hng+weNTudxTq2nLpWdR46548HFGunhQq5dkhr7Kl7b/CuW3di63dHKjjzf4zYgom0/B1yOhO5HIm6Guz45fqYm3JykOCLmMfYtLTnpbJT14DqPc9189oDMstWF83rrsiwdHbDMS/BnzvWtY5bgyRV9XuRN+GdXb5uoD97IEBQ=",
+    "cp": {
+      "1": "#7e98f7",
+      "2": "#76f051",
+      "3": "#7e98f7",
+      "4": "#f88bb9",
+      "5": "#7e98f7"
+    },
+    "sz": 40
+  }
+}

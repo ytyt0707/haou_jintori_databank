@@ -1,0 +1,57 @@
+{
+  "round_id": 5804,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-15T22:36:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 野獣先輩",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "73.93",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 🐷中山司🐷",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "21.36",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵生パス] 生パスタ吐瀉物",
+      "team": "🇯🇵生パス",
+      "emoji": "🐱",
+      "score": "0.32",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "95.29",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵生パス",
+      "score": "0.32",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0osOgCAIBVCK6///cjMZiTw0Vm15RNBijgM9aB5p3KwiSf30NqPyAOgk1+apjjtmmPewxF7hFdKXNMC+PaBaeVbPZDbkeGxZD2U9OtXsTIHEr1Itliv/QEqUDnJ3CsOl+n5U199r0ejr9os4KfoOg3pMJWUmjXgAt90LFg==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#49f146",
+      "4": "#49f146",
+      "5": "#814ae8"
+    },
+    "sz": 30
+  }
+}

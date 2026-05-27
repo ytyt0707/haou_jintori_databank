@@ -1,0 +1,138 @@
+{
+  "round_id": 30,
+  "game_mode": "TEAM",
+  "player_count": 26,
+  "played_at": "2026-01-02T20:03:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[正規軍] 魚",
+      "team": "正規軍",
+      "emoji": "😈",
+      "score": "17.54",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[革命軍] 神",
+      "team": "革命軍",
+      "emoji": "😍",
+      "score": "14.81",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[晋撰組] ジャイ子",
+      "team": "晋撰組",
+      "emoji": "🐷",
+      "score": "7.59",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[正規軍] 17キルされた男",
+      "team": "正規軍",
+      "emoji": "🦁",
+      "score": "5.45",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] 殺人鬼",
+      "team": "猛虎軍",
+      "emoji": "😂",
+      "score": "3.45",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[悟真教] さとる様を崇めよ",
+      "team": "悟真教",
+      "emoji": "😂",
+      "score": "2.30",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[おこめ] おめこ🥺",
+      "team": "おこめ",
+      "emoji": "😎",
+      "score": "0.79",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "川島和津実",
+      "team": "",
+      "emoji": "👻",
+      "score": "0.27",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[さとる] 矢野",
+      "team": "さとる",
+      "emoji": "🤔",
+      "score": "0.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[猛虎軍] わに",
+      "team": "猛虎軍",
+      "emoji": "🐱",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "正規軍",
+      "score": "22.99",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "革命軍",
+      "score": "14.81",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "晋撰組",
+      "score": "7.59",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "猛虎軍",
+      "score": "3.53",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "team_name": "悟真教",
+      "score": "2.30",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy91u2SgyAMBdC4dDC1nb7/4+6ofIWQkFh386eVqWdyhSIAQq0rrKnq4HZU+tikWwcWLUTExtt8Xq81HjTdJS9c44qX1HMkHGWXiBew9Q5I9STu9EIIiBA2wCNwaMrJZS+pAfe0YQoa2jvUgBt+42E4bv58PlVJ3/I1OrxMEO+UKm/2QsN9moRn8nJhDRx6L8bi1WaF9UJEJFoA2l4TWvOgtIW4IlCPcXlWZA54zpKXD4W0bHwelDbbR9Z4Cqf0RxK2nsY5QY8nqJ03idsvQnEKWtwBDjx+MfFA40a9zrwKAgAQgV4bOUhWek1SjvqmvAVkXn5jsKYtYLngnrdB0t8oos/ruLu9GXert6/BmdeBenNYDh7+Bkc21tK9lQzVByV7E1DwgG/SufSDFh2qD2jkRd0D7vW9UjB5aoOiJz/Cf/PgkqeePGTuiqcV3uv1h9MKXvLy6fdWbwdjOQ6W/9t1D0NMVT3bu0TwMFYQMRrOWqXoz5CBufr7lr2mHm9QAJdUpsgAMPEWu3eWsT2rN4vryCt4X4ADTJpgizfmmGd9hgInJ27A1+tl56TE1OtBh0fm5JQ4qHgcbP52p3SPt5SwLxeoewLo8kbt2adkrHHP2qApbOd55mPuaVrv/fyQ1TzydE7tj5IWjXnvN98OGnDKCV63v+xalPp7PkXvnbnBhhUvxG288Q7ojQvLg83IN96yPB6PGz2A5I25OcjynktQ4tzL2VP3alS9Q2rIW7m/rV+URz/F",
+    "cp": {
+      "1": "#44c6ee",
+      "2": "#44c6ee",
+      "3": "#eb606e",
+      "4": "#bfea7b",
+      "6": "#e942f5",
+      "7": "#ca8cfd",
+      "8": "#eb606e",
+      "9": "#eda15e",
+      "10": "#eb56a8",
+      "11": "#f6f862",
+      "12": "#44c6ee",
+      "14": "#6b65ec"
+    },
+    "sz": 80
+  }
+}

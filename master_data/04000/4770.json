@@ -1,0 +1,48 @@
+{
+  "round_id": 4770,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-13T14:41:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵猛虎軍] ぶりりん",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🐶",
+      "score": "24.67",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ナチス] 馘",
+      "team": "🇩🇪ナチス",
+      "emoji": "🦄",
+      "score": "5.14",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "24.67",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "5.14",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0FESwBAMBNCs7P3P3FG0wtKp/fCRJ0ZidhhgUd8ocNcxaEoNawZMWklLJaqVpCFQUWbIB6ZUpdL2ZtRn3sBqjJnP1AS3iQiYwhoTqw8YhhG6+BPLDyZ1rm+Q7t5dUOo+K1793SvxQwP7rtm8Y7mRZS6SbwS7",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f943e7",
+      "4": "#e5cd34"
+    },
+    "sz": 30
+  }
+}

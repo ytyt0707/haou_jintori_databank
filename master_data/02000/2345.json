@@ -1,0 +1,127 @@
+{
+  "round_id": 2345,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-08T03:09:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] もんも🤥",
+      "team": "うんち",
+      "emoji": "😀",
+      "score": "40.63",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤠",
+      "score": "18.57",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇪ぷゆゆ] ぷゆゆ🥺",
+      "team": "🇻🇪ぷゆゆ",
+      "emoji": "👻",
+      "score": "4.55",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🦊",
+      "score": "2.24",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] たい",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "1.44",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[NHK] 🤡",
+      "team": "NHK",
+      "emoji": "😂",
+      "score": "1.39",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "0.82",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[楚] フウト",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "0.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵大日本] アッラー",
+      "team": "🇯🇵大日本",
+      "emoji": "🦁",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "42.87",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "18.57",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇪ぷゆゆ",
+      "score": "4.55",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "楚",
+      "score": "2.55",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "team_name": "NHK",
+      "score": "1.39",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF1EsOxCAIAFDwU+r9LzwRf4hi3Q2bVvMCYkkBRESwI8YY66OH5Zb4k6Nbp2HaOiIF0+J4TRpqx5u0YbMD04HpqkQsXQg3K9MJ5jpkBt4PJ5K5HDUpIj5enk+UdDP0Pj3dyZMtzrd7UR3QYOye6nSn5MYrEhUHS7Y12H2zeoPM8AybwzsHl66vzyy2jUO6adZp39A0L2bZ2SGifYtiTPMC0epbnK/cjgHZhewCx6lwCKEx7UC5xgK9Rr5esaZ795AdCGedT+UzhzF/2+FAT0ZvpvyfFqazwncU9gPsuBoi",
+    "cp": {
+      "1": "#5f93ec",
+      "2": "#82fd49",
+      "3": "#f6989b",
+      "4": "#bc90fd",
+      "5": "#6eedcd",
+      "6": "#f6989b",
+      "7": "#5f93ec",
+      "8": "#f6ea9d",
+      "9": "#f6989b"
+    },
+    "sz": 40
+  }
+}

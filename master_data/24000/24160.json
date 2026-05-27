@@ -1,0 +1,101 @@
+{
+  "round_id": 24160,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-03-12T08:46:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本",
+      "team": "🇯🇵山本組",
+      "emoji": "🐶",
+      "score": "30.75",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "😂",
+      "score": "4.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "乳首",
+      "team": "",
+      "emoji": "🐷",
+      "score": "3.97",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] ポケモンBBS",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.13",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵焼菓⭐] foncha",
+      "team": "🇯🇵焼菓⭐",
+      "emoji": "🦁",
+      "score": "0.11",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵猛虎軍] ███",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🦄",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "30.75",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵YY勢",
+      "score": "4.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "3.13",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵焼菓⭐",
+      "score": "0.11",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlklGSwzAIQ6XCuNz/xDsIWDvbpD/LtKnNswQmJZHBCWAtrPXKONKNsTru6eCiZTvmALd4Sqp2wLOSNVZODQEREaSDhJnpxPhRlHT3vELjMWbjpIO3MUnIuLQw2hKdKdTvX21lsyVnfjQ6MzuMs+Fw3eeDikS8AYQgRgpydOWlZ/vmbNr0gMeSDM+S95EDeqYQvlfiCcox798jSPlvjYJqp3AnlDnX+VI9dS51P2uv1z+H88ReV697f119p5cerrZpU31cDffuf7RmlP90fXtk5f4D9jgHig==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e86430",
+      "6": "#514de5",
+      "7": "#30d7e8",
+      "8": "#47e830"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 23529,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-10T08:08:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵楚] 新鯖♡",
+      "team": "🇯🇵楚",
+      "emoji": "😀",
+      "score": "60.75",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 爆弾/自認レゼ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "8.49",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "安倍晋三",
+      "team": "",
+      "emoji": "👽",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵楚",
+      "score": "60.75",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "8.49",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAG90kkOhDAMBEA7bf7/ZeQlgBc4zGFyAanSncjAbItiSV5w5VkZbBveNNLOIkKPciavBqCuctwcSQCsfIO9XUlY+gdlTerJX9liInauJ4FJKXpn5XclHSTIu1szEbF+AuU8Rd16jbfl/qh1kPlW39ruPf9Pe1to63RPunZmP7daeFUuulba0XSX2jOpSKl+6HDvE1QZChM=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e87530",
+      "5": "#73d411"
+    },
+    "sz": 30
+  }
+}

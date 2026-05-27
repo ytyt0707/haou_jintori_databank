@@ -1,0 +1,58 @@
+{
+  "round_id": 6136,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-16T16:33:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チー牛] チギュりパン",
+      "team": "チー牛",
+      "emoji": "😎",
+      "score": "11.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[あああ] 妹欲しい(´；ω",
+      "team": "あああ",
+      "emoji": "🐶",
+      "score": "2.52",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[あああ] ワイ",
+      "team": "あああ",
+      "emoji": "🦄",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チー牛",
+      "score": "11.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "あああ",
+      "score": "2.63",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0UEOwCAIBEBQ8P9PbqitggKNx268mHEJiQA/TLtPqCO5+iPO2kWysW4o9uZ+aHlfdGSyWgwyLzoHE1udW/diUhWs7sqNJEsXrFIN9GEXje5PNB5rSxXFIkUcv7MrIs5LrmsugSwD6w==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f44893",
+      "4": "#a5eb42",
+      "5": "#f44893",
+      "6": "#e4a73f"
+    },
+    "sz": 30
+  }
+}

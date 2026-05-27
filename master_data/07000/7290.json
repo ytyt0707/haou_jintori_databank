@@ -1,0 +1,81 @@
+{
+  "round_id": 7290,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-19T06:58:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 爆弾の廃人",
+      "team": "みん²",
+      "emoji": "🐲",
+      "score": "26.50",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐲",
+      "score": "13.83",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵バル] 自分勝手な人",
+      "team": "🇯🇵バル",
+      "emoji": "🦄",
+      "score": "6.12",
+      "kills": 7
+    },
+    {
+      "rank_position": 6,
+      "player_name": "^-",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.44",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ｚ] 女殺し",
+      "team": "🇯🇵ｚ",
+      "emoji": "🤠",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "40.33",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵バル",
+      "score": "6.12",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ｚ",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx10+sShSAIBGBg2877v/EZRAUv7Y/G+iTRKZEtwP6k5PX49RAAeHvqc5J8ng9NnPquSgLXYpYcyiUufOe+eATk9b0je0snqxYFKrLrXGwyYqjOpZVFdVFedec4MeiqiL4qpiL6AlZ2MiszCotQzMTGNlNHW+Zvl03bYXatH48ma0cN1FjPtd2bRam2cy/ppeGqWNCLU9fCWe/6u1HfkIlZG0NzAQkUs9yOL6c54+P3GvQHCFgIbg==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ab30e8",
+      "4": "#ec74a2",
+      "5": "#ab30e8",
+      "6": "#84e94e",
+      "7": "#ef7d6b"
+    },
+    "sz": 30
+  }
+}

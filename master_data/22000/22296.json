@@ -1,0 +1,80 @@
+{
+  "round_id": 22296,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-03-07T12:25:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "イスラム教徒",
+      "team": "",
+      "emoji": "🐷",
+      "score": "32.16",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しpy",
+      "team": "",
+      "emoji": "🐷",
+      "score": "30.19",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😂",
+      "score": "10.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "😍",
+      "score": "4.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 爆弾/自認レゼ",
+      "team": "🇯🇵ONJ",
+      "emoji": "😈",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "10.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "oj軍",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlksEOwzAIQ0kwyv//8WQTFqJVvYxDG/FqQsHmFfYUhEtfPFAyBvkv7hRmFmHGd0ajBgARAExHwIoud6aiU3ukrMo6F3VJI3QtKSurZTVtwVB+Pzpdr1TaLkXr2f+lAOb8VtcSatC75TmxP9B2fK3cU0QsCkue9DwjR3xpD60F5NUnn6c94t1X5sbg1YpLzEn6GKPZB9jrhWYlmEpfdpaf1Cndkb6pcSh5Qa73oiWkLZutVPmw9FYJ0xyNtqKqQdudeKVlcur4YzJlaQue9wdfwQtG",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#60d411",
+      "4": "#a74de5",
+      "5": "#30e83c",
+      "7": "#e83075"
+    },
+    "sz": 30
+  }
+}

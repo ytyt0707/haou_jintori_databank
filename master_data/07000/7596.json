@@ -1,0 +1,48 @@
+{
+  "round_id": 7596,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-19T23:31:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐱",
+      "score": "32.81",
+      "kills": 17
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ごろす] 爆弾/自認レゼ",
+      "team": "🇯🇵ごろす",
+      "emoji": "🦁",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "32.81",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ごろす",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0NsSgCAIBNAF+v9vbrwk6IITLzUdWUhglLSi14jfVyGX7Bhgo0jFFWY8JfTyDsh1OCqNKy/d4zdNxrPu25MemGg4cWIPt1IBqNpt7GJObtk3NYNeFFMTUtNWlWqpfWHX9e9+BeruFzOeT6Fnq3pLpVy/NMemuPXOALyr4QR3",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#30daf8",
+      "4": "#ec4bc9"
+    },
+    "sz": 30
+  }
+}

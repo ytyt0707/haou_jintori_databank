@@ -1,0 +1,108 @@
+{
+  "round_id": 3660,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-11T02:17:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 🐷中山司🐷",
+      "team": "🇯🇵田中",
+      "emoji": "🦄",
+      "score": "23.28",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] ベネット",
+      "team": "みん²",
+      "emoji": "🐱",
+      "score": "15.56",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤔",
+      "score": "11.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇷🇺羆] 茶",
+      "team": "🇷🇺羆",
+      "emoji": "😈",
+      "score": "10.68",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇷🇺羆] aplir",
+      "team": "🇷🇺羆",
+      "emoji": "🐷",
+      "score": "1.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵田中] おかあさん",
+      "team": "🇯🇵田中",
+      "emoji": "🐱",
+      "score": "0.34",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇷🇺羆] 蘇ったチー牛🤡",
+      "team": "🇷🇺羆",
+      "emoji": "🤔",
+      "score": "0.20",
+      "kills": 6
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🦁",
+      "score": "0.05",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "26.60",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵田中",
+      "score": "23.68",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺羆",
+      "score": "12.43",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10+0OwyAIBVCgHZW+/wMvguIXdkuW3Sb+8QQsrQBPSZ7N5sx2zjZ+d4jIKcrq0Ld2DpGxhxuH1UV46FhcVHVgKpiZP7qSrfNjbRyEbj1f6GDrgraPThXs5zKW4+Cb9Ix9LMeT45bYMWPuxV29mRU3BY8Fho6TiBSATw5EALOsA4LYyXWBAp8kES1SBKqD+tOaM3hbRJ3VKTNLQA5PU6fKeqPcKaS8FpfzqjcPm3dH1lTX/hfqHDR3u1OpXodi51udv2kZHnkUWGd37XYTjbIVzL0/uWb/7URmd0cORERu+srVrxG5ynJ8X5+8tLwBD0AZ5Q==",
+    "cp": {
+      "1": "#f64ef9",
+      "2": "#5497fc",
+      "3": "#f94e98",
+      "4": "#b0f395",
+      "5": "#f88482",
+      "6": "#f64ef9",
+      "7": "#f88482",
+      "8": "#f88482",
+      "9": "#b0f395",
+      "10": "#b0f395"
+    },
+    "sz": 40
+  }
+}

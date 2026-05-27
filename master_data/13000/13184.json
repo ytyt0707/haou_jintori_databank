@@ -1,0 +1,42 @@
+{
+  "round_id": 13184,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-10T09:44:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[イスラエル] 爆弾/自認レゼ",
+      "team": "イスラエル",
+      "emoji": "🦄",
+      "score": "74.06",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[イスラエル] 名無しRZ",
+      "team": "イスラエル",
+      "emoji": "🐶",
+      "score": "23.34",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "イスラエル",
+      "score": "97.40",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10lkKgDAMBNCYmfufWSyoNRs24nz2ZaEQACCJR44Hjlc2IqzbWkN7A8WV2lpX8UKl1I8xQ7c/dtybVr9wnkdGC6hqcGJ1nRcjQa/upDEpgsSdVkNEiZCxPEHsr6INCg==",
+    "cp": {
+      "1": "#e94e8c",
+      "2": "#af6feb",
+      "3": "#3deb40",
+      "4": "#3deb40"
+    },
+    "sz": 30
+  }
+}

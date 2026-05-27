@@ -1,0 +1,75 @@
+{
+  "round_id": 7536,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-19T20:16:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "💩",
+      "score": "30.84",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐷",
+      "score": "11.02",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "🐱",
+      "score": "7.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "😂",
+      "score": "4.27",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] はじまん",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "1.28",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵万華郷",
+      "score": "30.84",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "12.31",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10lEOhDAIBFBcmHL/G29op9oK64fJTmJqeILaVJSRuFJ0VFU3RdIPeX1ORbmwvS/tPkWXtMjAA2AR8641epR6hvZVTkWKmT0oJrYSzeT+WgBy6fzdDZUsBYNsuFR1H3yOml582thBX7tTs7tXyrHeU9tUrZH8TpfJ8qPVZVTTqaTGHufzGiqhUiGbS/mvPuYLuQUJsw==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ea4380",
+      "4": "#ea4380",
+      "5": "#ba38e5",
+      "6": "#52fa65",
+      "7": "#f8e163"
+    },
+    "sz": 30
+  }
+}

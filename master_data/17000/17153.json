@@ -1,0 +1,56 @@
+{
+  "round_id": 17153,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-19T17:50:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] 強くなる",
+      "team": "🇬🇧珍走団",
+      "emoji": "🦄",
+      "score": "29.15",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "正体不明",
+      "team": "",
+      "emoji": "🐱",
+      "score": "1.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🐱",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "29.15",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0EsOwCAIBNABev8zN2Japh/QKDFx8QKMAl6KKDO+AFXVS7huRaJKGCpdiUhFYvKkxmDnTK1UaZWtba1vo1DfvI+9P9gU/SSa9A01ltahliIf+eKqc/iinQdjYnI5d+ufl0K5sZ6QzwMy",
+    "cp": {
+      "1": "#e84abe",
+      "2": "#68eda9",
+      "3": "#efb248",
+      "4": "#b9ea34"
+    },
+    "sz": 30
+  }
+}

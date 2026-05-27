@@ -1,0 +1,101 @@
+{
+  "round_id": 7262,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-19T05:27:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] ロゼしばく",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "19.86",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "^-",
+      "team": "",
+      "emoji": "🦁",
+      "score": "11.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 犬神フウト",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "7.96",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[グリコ] けんた",
+      "team": "グリコ",
+      "emoji": "😎",
+      "score": "7.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "爆弾の廃人",
+      "team": "",
+      "emoji": "😀",
+      "score": "7.00",
+      "kills": 5
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[楚] でじこ",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "5.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇷🇺暴風軍] 蘇ったチー牛🤡",
+      "team": "🇷🇺暴風軍",
+      "emoji": "😂",
+      "score": "3.80",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "41.44",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "グリコ",
+      "score": "7.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺暴風軍",
+      "score": "3.80",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0NGywyAIBNAtCMHk//+3A2oKpvd2nzJzXA1c14qOAHp/4do1cswU5U01KU/kbwoAceAf5T9uDuPhD10WEz2UmU+/HOndOS+GqmqDKscpHAfMVpPPcyxo5QDMzOaLzu38YHRvVqg259bQACIkReCK0K0ev6zlOFtKUSldT1bIrslFRGhXS0pEu5pAxi9RaO+9T5BQH3VpzyoSGhkTFbVbaayjdqV0H2pF67vwlb5eQ2e16KeMrYucuskNf+cNwqUSQQ==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f7f24a",
+      "4": "#ef9a6c",
+      "5": "#ef9a6c",
+      "6": "#ef9a6c",
+      "7": "#ef52f4",
+      "8": "#ef9a6c",
+      "9": "#7f4be7",
+      "10": "#ef9a6c",
+      "11": "#49f63c"
+    },
+    "sz": 30
+  }
+}

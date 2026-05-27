@@ -1,0 +1,77 @@
+{
+  "round_id": 8032,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-20T23:05:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳チギュ] 爆弾/自認レゼ",
+      "team": "🇨🇳チギュ",
+      "emoji": "👻",
+      "score": "14.98",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇪さとる] 暇人かな？",
+      "team": "🇻🇪さとる",
+      "emoji": "🦄",
+      "score": "10.51",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[餌] 4時11分",
+      "team": "餌",
+      "emoji": "🦄",
+      "score": "7.11",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇦🇺うんち] アベベ",
+      "team": "🇦🇺うんち",
+      "emoji": "😎",
+      "score": "1.83",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳チギュ",
+      "score": "14.98",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇪さとる",
+      "score": "10.51",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "餌",
+      "score": "7.11",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇦🇺うんち",
+      "score": "1.83",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0UsOwCAIBNAxYO9/5MZPCyPYpkln+wQRAUopBSGVdDlQvVJ17TGa+UnHVB6LbGulJVVAxLQ6lWZbRdfGyBRX32QZTplNdSZTEVXvvnPvSWw6b1TxvVe1avrka9Sc74dkaq8cxeDOvBBo1KOHthUVKWIWbjR+wwd8ZTwrbKgTF1YFAQ==",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#31c7ed",
+      "4": "#61fa68",
+      "5": "#e7368f",
+      "6": "#bb42eb"
+    },
+    "sz": 30
+  }
+}

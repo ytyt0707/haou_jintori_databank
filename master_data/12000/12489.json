@@ -1,0 +1,133 @@
+{
+  "round_id": 12489,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-02-05T12:31:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "🐲",
+      "score": "45.96",
+      "kills": 18
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😈",
+      "score": "13.95",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵〇ね] カス",
+      "team": "🇯🇵〇ね",
+      "emoji": "🐶",
+      "score": "9.97",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "😀",
+      "score": "2.78",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "名無しie",
+      "team": "",
+      "emoji": "😈",
+      "score": "0.36",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵〇ね] 島田兵",
+      "team": "🇯🇵〇ね",
+      "emoji": "🐲",
+      "score": "0.07",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇸🇦bot] 🤠",
+      "team": "🇸🇦bot",
+      "emoji": "🦁",
+      "score": "0.05",
+      "kills": 12
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵ゲスト] 殺してくれ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐷",
+      "score": "0.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵ゲスト] けつあな",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤔",
+      "score": "0.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[あれ] あれ",
+      "team": "あれ",
+      "emoji": "🦁",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "13.95",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵〇ね",
+      "score": "10.04",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇬🇧珍走団",
+      "score": "2.78",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇸🇦bot",
+      "score": "0.05",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0tsSgyAMBNDsNO3y/1/cEWzchMt0H3TkGIICAMCujGsOesYtQWuhEcGNtl9WKjirYtaWMtWeFRmrYqH6Up3ZkH7Z3PdYu2x8b0N0JUBWjVDSrCiT4lRLUvVzDbwKp/X2oZ2OSrsnNTJ0PJJyuJK+F0dPamUWM/Os2sPcPW8dhN07b/KHzmzKfalWv+NZ9Bdk/Aii",
+    "cp": {
+      "1": "#e8b14a",
+      "3": "#f55529",
+      "4": "#3594f3",
+      "5": "#99ee72",
+      "6": "#cbf150",
+      "7": "#f55529",
+      "8": "#62efe5"
+    },
+    "sz": 30
+  }
+}

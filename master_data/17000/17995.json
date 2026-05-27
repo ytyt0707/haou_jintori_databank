@@ -1,0 +1,40 @@
+{
+  "round_id": 17995,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-25T17:04:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "珉珉",
+      "team": "",
+      "emoji": "🐲",
+      "score": "34.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 正体不明",
+      "team": "神撫子",
+      "emoji": "🤖",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzdzUsKACAMQ8FK7n9n3fjXV8WdgW4yhJrdJlggJcSlyy/qsRNJrBsXqUrmvsGFFkHl7Rc6ohCFKLIzrMXyadflS4nhcwOm",
+    "cp": {
+      "1": "#7838f0",
+      "3": "#de22f7"
+    },
+    "sz": 30
+  }
+}

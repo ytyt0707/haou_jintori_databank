@@ -1,0 +1,64 @@
+{
+  "round_id": 14836,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-14T03:04:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐷",
+      "score": "36.03",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😀",
+      "score": "5.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] 名無しpF",
+      "team": "猛虎軍",
+      "emoji": "🦄",
+      "score": "0.07",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "名無しu7",
+      "team": "",
+      "emoji": "🐶",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "36.09",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "5.16",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0UsOgDAIBFAgcP8rG7EqU8aqszBNH/RjRf7GPeIe5+fMPoy4eMzUoEIkKoPkPolBW4/Gu5XtyhZu2PlQRxUocNeq8yKqigqumTHHDnFpfYHa3d+nbc3VX5Q9/bfWeljE+SqgQnX6sY/qVG0vOOtW2mNma82C55jR4/ZsgKQGRg==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "4": "#c1f245",
+      "5": "#ebbd60"
+    },
+    "sz": 30
+  }
+}

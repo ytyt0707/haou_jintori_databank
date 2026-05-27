@@ -1,0 +1,65 @@
+{
+  "round_id": 12351,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-05T05:03:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "😍",
+      "score": "68.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[匈奴] 冒頓単于",
+      "team": "匈奴",
+      "emoji": "😍",
+      "score": "5.52",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "桜羽エマ",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.09",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[神撫子] うんこ",
+      "team": "神撫子",
+      "emoji": "🤔",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "68.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "匈奴",
+      "score": "5.52",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJydk1ESgCAIRDcHu/+RGwY0ltCp9kfogRIooBJTtM0XIRcSvjCUkYstFVQ06SOlogv6P9eTu8rxM6YbRu7eC2qw46YIU6BUBRICMwVofisaMW3nxuQcn68C0cNU0XqS/qtFt3aK1aw3XeV6nq0n1zl633anEr0v+bAaoflU3GthEEA4VZcLtW8Kww==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "4": "#f82925",
+      "5": "#6ea3f2",
+      "6": "#7bf15b"
+    },
+    "sz": 30
+  }
+}

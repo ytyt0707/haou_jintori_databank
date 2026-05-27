@@ -1,0 +1,55 @@
+{
+  "round_id": 1245,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-05T13:38:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🤠",
+      "score": "17.34",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[htt] https://",
+      "team": "htt",
+      "emoji": "👽",
+      "score": "1.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ht] https://",
+      "team": "ht",
+      "emoji": "🐱",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "htt",
+      "score": "1.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ht",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzlzkEOgCAMRNHSf/87k2iMNFidEHSBs4G0jxazX6dMdmuH4+Lu2gsZ2htQ3E50bLlyoQoZjHVSSNvKWetAciGq6+BH84ad+kF5Xsftzp1+Px7YmqliOAN1",
+    "cp": {
+      "1": "#5bfbf0",
+      "2": "#93f486",
+      "3": "#ec88c9"
+    },
+    "sz": 40
+  }
+}

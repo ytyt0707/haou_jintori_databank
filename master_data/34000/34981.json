@@ -1,0 +1,54 @@
+{
+  "round_id": 34981,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-04-07T12:14:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[何これ] 田中",
+      "team": "何これ",
+      "emoji": "🦁",
+      "score": "39.97",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[何これ] 名無しfo",
+      "team": "何これ",
+      "emoji": "😍",
+      "score": "17.97",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[テスト] これは？",
+      "team": "テスト",
+      "emoji": "😀",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "何これ",
+      "score": "57.94",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "テスト",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVktsOgDAIQ5fy//9suKxjBDHuQZHTFoOK/DnAoAYmrPTVbRAivWCkzG29e+a+X6/PJouMmdfSUEImmuNe6mkrmj1w0rXWqvEBIfJFq1P2WC7gVpxkaT7ooWUxCk6yyVLuRT2jUG96yL10khSiZnvkSFN515KT2BAvdLAg0j/UT8QfYhVx6Yen7QJ4AAUECSE=",
+    "cp": {
+      "2": "#e89830",
+      "3": "#e89830"
+    },
+    "sz": 30
+  }
+}

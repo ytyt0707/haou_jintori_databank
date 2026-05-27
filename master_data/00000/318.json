@@ -1,0 +1,49 @@
+{
+  "round_id": 318,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-03T11:39:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[特攻隊] 自爆テロ",
+      "team": "特攻隊",
+      "emoji": "👽",
+      "score": "43.56",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[特攻隊] 対テロ砲",
+      "team": "特攻隊",
+      "emoji": "😎",
+      "score": "10.30",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "自爆",
+      "team": "",
+      "emoji": "🦁",
+      "score": "0.03",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "特攻隊",
+      "score": "53.87",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt1UsWwyAIBVCR/e+5J41G+TwwpqeTlqnegEJtKf/4kWBmvEg9EPU1ifBkIXItUWyZua2k1iu3r5nMF0Jpx3fPU097EiuKarZv1MelgEpM+VXJVWYNIis2h9RgdVch1VjahBqbAsi/abdrLkWeeMXWapMuZq61nkN4i5pEH7UzLjeotiKC9y+rOXo7T4tPm1pMUxumfWDfdxFZ9eiMM3ALrKHlEajRsEOswrVBe6Vt2UcV4TjrtO1Mg96w6zXPFtzVioVd2k27ZiF9YKOJ7hzaHF87veFM8oY2mWpc8jGn23aaEDMpa/b4oajpzjqkvzDhtLtWaxpa//94Latu2ka9qvRNevE9msYLQNwJdw==",
+    "cp": {
+      "1": "#78f789",
+      "2": "#9590f9",
+      "3": "#78f789"
+    },
+    "sz": 60
+  }
+}

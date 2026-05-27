@@ -1,0 +1,56 @@
+{
+  "round_id": 9279,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-24T13:23:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ゴミ] 爆弾/自認レゼ",
+      "team": "ゴミ",
+      "emoji": "🤖",
+      "score": "5.16",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] ベネット",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "4.30",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "0.51",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ゴミ",
+      "score": "5.16",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "4.81",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10FEOgCAMA9Bm6+5/ZYNiRKDDxNDfl9ENYE9in6Y8KpOnyV9KqDBTrrXrNandvTNthuHu/mDAGn2njFqJVCisS80wzii9XCx0rwzVig+z6tzItFi9V1UnH7nOAdHaAdA=",
+    "cp": {
+      "2": "#48efaf",
+      "3": "#f8b859",
+      "4": "#f8b859",
+      "5": "#b8f532"
+    },
+    "sz": 30
+  }
+}

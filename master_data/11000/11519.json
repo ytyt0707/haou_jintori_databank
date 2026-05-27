@@ -1,0 +1,90 @@
+{
+  "round_id": 11519,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-03T08:04:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ころす] しね",
+      "team": "🇯🇵ころす",
+      "emoji": "🐷",
+      "score": "57.42",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] ナチス",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "9.75",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チーム] チギュアってて草",
+      "team": "チーム",
+      "emoji": "🦊",
+      "score": "5.59",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "出会い厨",
+      "team": "",
+      "emoji": "😍",
+      "score": "4.21",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[チーム] 🐟💦",
+      "team": "チーム",
+      "emoji": "🤠",
+      "score": "0.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[チーム] かに",
+      "team": "チーム",
+      "emoji": "🤠",
+      "score": "0.06",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ころす",
+      "score": "57.42",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "9.75",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チーム",
+      "score": "5.75",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10FkOwyAMBFDDdKbc/8SVMQ6BKKlUqf5y8ryJWjMAVFgEIhRgyB/dGSbZaMuQJJLsGexkNtQLIrE6po11ymittTttHeWDJwoLyqqlktTaqtpblKdKJo6l3msmAG8AoSJfu2IoXXU0u2oic/lJ51q/bRymRftIP32ifx68VQcuqq30T3q56qLldy1PWr5p2Sq46tPaqZHxRu96e8H1WfKqfFJbqj4lAw/W",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#73ee68",
+      "4": "#4a34f4",
+      "5": "#4a34f4",
+      "6": "#eaca62",
+      "7": "#4a34f4",
+      "8": "#f6734c"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 56840,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-22T22:41:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "📹",
+      "score": "6.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] あ",
+      "team": "🇯🇵ONJ",
+      "emoji": "😈",
+      "score": "1.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "6.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkwEOxCAIBGHh/2++W9RqFUlNk6ZMZgGTipRHqyMV1Jrm6mcHyAOiKzAxE7fUFScpxLd01UavvDA15KRhL1VdR9/DHqtdBzqMtPDSzWBmfZPRYGpxA00I+HLVittz33ecrvPMz2j3fAb0Y6JWaHB3eWMMOem60aDPXHKlTMsod+r6cPnuyQ7OEa6uPxoA4SP4V3+T6wRT",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e8e8"
+    },
+    "sz": 30
+  }
+}

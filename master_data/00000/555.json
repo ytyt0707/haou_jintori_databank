@@ -1,0 +1,137 @@
+{
+  "round_id": 555,
+  "game_mode": "TEAM",
+  "player_count": 13,
+  "played_at": "2026-01-04T00:26:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[舞散葉] まるでサンタ",
+      "team": "舞散葉",
+      "emoji": "💩",
+      "score": "20.56",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[優] さとるに顔射",
+      "team": "優",
+      "emoji": "🐱",
+      "score": "17.54",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[北酒場] ワイ将",
+      "team": "北酒場",
+      "emoji": "😎",
+      "score": "13.27",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "おんｊ−太郎",
+      "team": "",
+      "emoji": "👽",
+      "score": "11.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[革命軍] 天皇屁以下",
+      "team": "革命軍",
+      "emoji": "😂",
+      "score": "10.05",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[革命軍] 浅井ながなが",
+      "team": "革命軍",
+      "emoji": "🐷",
+      "score": "6.29",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[北酒場] OGポギ",
+      "team": "北酒場",
+      "emoji": "🐲",
+      "score": "6.25",
+      "kills": 10
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[革命軍] ぷゆ2",
+      "team": "革命軍",
+      "emoji": "🐷",
+      "score": "5.80",
+      "kills": 5
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[優] 膝が痛い",
+      "team": "優",
+      "emoji": "🤠",
+      "score": "0.38",
+      "kills": 1
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[北酒場] 細川たかし",
+      "team": "北酒場",
+      "emoji": "😈",
+      "score": "0.17",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "革命軍",
+      "score": "22.14",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "舞散葉",
+      "score": "20.56",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "北酒場",
+      "score": "19.68",
+      "kills": 14
+    },
+    {
+      "rank_position": 4,
+      "team_name": "優",
+      "score": "18.00",
+      "kills": 14
+    },
+    {
+      "rank_position": 5,
+      "team_name": "ぷゆゆ",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN04GuwyAIBVAwdFEG//+7C6JWqva9m2w13em1ZRvAyGUBvk+UUgrEXLcrz9gVvclgZYsathV5Sln7Bpwdm4sWNn1sicQPT1aa42Xb67GtM3vHN1f7bIjM58Kq2Ecd3O4xuEFcHTxchQg4Hj72cXRYl2iJ84sO2vrsgPlmi+M5sQ5BRPpviyPk/7k7iMg4uRM0B5Ik/emYUb7flM4OmNFedoPpvRDxY3MRSe0eRUQ2je37kGdUldUzxrJxOsc3RcBt3RR3eHQ5a18cnNQPM3R2dJJzzgaaI8pn51Fqi+1cBiMi8sPsQNUOlIMj25dg7qvfSevw+8rUOmenAEA0O1cbZyeHJaEemZmO071nBOc+esnWrdfYE2pw/uDCgwq3/889FYlDz6PK8gOmXit7",
+    "cp": {
+      "1": "#42b4fa",
+      "2": "#ea6cc4",
+      "4": "#e5955d",
+      "5": "#f7df45",
+      "6": "#42b4fa",
+      "8": "#e5955d",
+      "9": "#42b4fa",
+      "10": "#8bf4c3",
+      "11": "#ea6cc4",
+      "12": "#ea6cc4",
+      "13": "#e5955d"
+    },
+    "sz": 40
+  }
+}

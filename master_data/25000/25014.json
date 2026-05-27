@@ -1,0 +1,78 @@
+{
+  "round_id": 25014,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-14T07:04:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] アベベ",
+      "team": "🇯🇵自民党",
+      "emoji": "🔪",
+      "score": "53.52",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵横綱] 御嶽海",
+      "team": "🇯🇵横綱",
+      "emoji": "🤖",
+      "score": "8.68",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵猛虎軍] けんた",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🙄",
+      "score": "7.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇸🇦ヤン子] おんちゃん",
+      "team": "🇸🇦ヤン子",
+      "emoji": "😂",
+      "score": "0.31",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "53.52",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵横綱",
+      "score": "8.68",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "7.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇸🇦ヤン子",
+      "score": "0.31",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkVESxCAIQynC3v/IOwlQqHV2/bHyDCFWpJf1qmJU8lTY3Z2ljYqYGWDgup67iCQk3iiOElr0flP5QxMftVbiI40o7m4nX04SkfQ91U1d1ExN8w46MURmJi2IqIAwjtdShbbbY85Jh3IXix4gxbTQDadHPLBo7G08v+TZeCLMrj/EQswBQrbWlBMrArK6sAaHmBQXCNeyT12I1vxpTQsapKVNaWvbtxsPY+DoW8oBmZj4hk+aQzPKI8918XfcY4VFBjC7ri/8ZApI",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e84230",
+      "4": "#994de5",
+      "5": "#e83098",
+      "6": "#30e892"
+    },
+    "sz": 30
+  }
+}

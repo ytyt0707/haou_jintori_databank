@@ -1,0 +1,42 @@
+{
+  "round_id": 20284,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-02T22:48:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "😈",
+      "score": "13.68",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🤠",
+      "score": "0.14",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "0.14",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkDEOA0EIAw3h/2+ODDpdYztlKBnGay0A1A3cLJaw+2wJAdKucrS7uywGKoUzlcVM+P/XM6HDeDrAJJygVLfHWk7l/kZVTuwe5IUwH1HiFwpzf+AuHL0TR7P7gzJaBe/uYwlBpkb9AtoYAiU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#ced411",
+      "4": "#4d81e5"
+    },
+    "sz": 30
+  }
+}

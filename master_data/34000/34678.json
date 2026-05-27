@@ -1,0 +1,57 @@
+{
+  "round_id": 34678,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-07T02:28:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] 3乳首",
+      "team": "🇯🇵自民党",
+      "emoji": "🚥",
+      "score": "51.64",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "戦場ヶ原ひたぎ",
+      "team": "",
+      "emoji": "🦀",
+      "score": "3.19",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無し6k",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.40",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "51.64",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.40",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kQsSxCAIQ0H0/lfe4ZMotl1nusS8hi06BpeIiJk/lkWEbAQLwp9NaR0CNNsdICToeMWk4875XmTUl/Vw7CRoNqhR2MMHrOXz9LQBoTIWAi7riWlC2O4Na1cfodLbPBVaN883vB1/Y1O/s8RInhTvbdbChW+qiD0az6mqH3hONcL2teyPJI0m/lL8a0two4pTWIsmRWWXL5qHiHGDvuA8i6QPXAdV9MZFvZgs3guFgx9mJAad",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8b4",
+      "4": "#8B4513",
+      "5": "#d4b611"
+    },
+    "sz": 30
+  }
+}

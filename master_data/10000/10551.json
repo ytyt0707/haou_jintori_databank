@@ -1,0 +1,111 @@
+{
+  "round_id": 10551,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-01T03:44:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 羅王/朿咅口ゼ",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "37.32",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳チギュ] チギュりパンは糞",
+      "team": "🇨🇳チギュ",
+      "emoji": "🐲",
+      "score": "18.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "9.11",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チー牛] エロアニメ",
+      "team": "チー牛",
+      "emoji": "🐶",
+      "score": "3.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵🦑] ミャウミャウ",
+      "team": "🇯🇵🦑",
+      "emoji": "💩",
+      "score": "3.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐶",
+      "score": "2.25",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[チー牛] 覇王ロゼであるw",
+      "team": "チー牛",
+      "emoji": "🐶",
+      "score": "1.72",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "46.43",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳チギュ",
+      "score": "18.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チー牛",
+      "score": "5.65",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵🦑",
+      "score": "3.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵特攻隊",
+      "score": "2.25",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt00EWhCAMA9AInVDuf+F5paClOq4m228qlScA1FoxIyKIqR6AHMiRrCRFTj0fcJWJl7p7VUKCelN6v+HofizddJwqjV7a82tJlFIW88LWWlsqXWY3oLHpONKcHNm1qHobyIqiWlQVNhvXqeZ7oR5r3zcSXYFyX8j21RAKIT/V7vFd0yUh6VaWwNy7e5k5+2TmwWmll6rq/cx/05fPceBJLcdI1O2HGnbG7QviShD3",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#708beb",
+      "4": "#ef4da1",
+      "5": "#708beb",
+      "6": "#ef4da1",
+      "7": "#faae52",
+      "8": "#56d7f0",
+      "9": "#99f254"
+    },
+    "sz": 30
+  }
+}

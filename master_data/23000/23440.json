@@ -1,0 +1,72 @@
+{
+  "round_id": 23440,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-10T02:16:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 名無し8L",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "34.49",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🧠] 🧠",
+      "team": "🧠",
+      "emoji": "😀",
+      "score": "11.92",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猫好き] 子猫飼いたい",
+      "team": "猫好き",
+      "emoji": "😂",
+      "score": "0.21",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猫好き] ぱいお",
+      "team": "猫好き",
+      "emoji": "🤔",
+      "score": "0.10",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "34.49",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🧠",
+      "score": "11.92",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猫好き",
+      "score": "0.31",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkVEOwjAMQ90GfP8jIztp6GBDfCEqbUrzYidtAYwxoBX+K+iVmy/okr5p48w21KqaVONuqWDBanxgklIZDb35uMgJGttnU2Y/gAuvAUroetzZfNNWKO01/kgB3q61nsr4ZKhgOfexIph3pOpXml3Wk7GtqZcQlJYEdY/6MmeBvJzp50yKOTNT28ZZPKeM7GXLDQN40hPYzkfNH+zqSL+Y5AGmKgY2",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e83075",
+      "5": "#e83075",
+      "6": "#8b4de5"
+    },
+    "sz": 30
+  }
+}

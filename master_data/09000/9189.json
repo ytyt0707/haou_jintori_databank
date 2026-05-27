@@ -1,0 +1,111 @@
+{
+  "round_id": 9189,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-24T08:31:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵聖帝] アベベ",
+      "team": "🇯🇵聖帝",
+      "emoji": "😍",
+      "score": "30.70",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "14.82",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵傷物語] 忍野忍",
+      "team": "🇯🇵傷物語",
+      "emoji": "😍",
+      "score": "10.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦄",
+      "score": "7.76",
+      "kills": 10
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇩🇪ナチス] 矢野彩喜",
+      "team": "🇩🇪ナチス",
+      "emoji": "🦄",
+      "score": "1.94",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦄",
+      "score": "1.40",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇻🇪チーム] 名前を入力(任意",
+      "team": "🇻🇪チーム",
+      "emoji": "🦄",
+      "score": "0.33",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵聖帝",
+      "score": "30.70",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "14.82",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵傷物語",
+      "score": "10.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ゲスト",
+      "score": "7.76",
+      "kills": 10
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇩🇪ナチス",
+      "score": "1.94",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0dkShCAMRNErCYL//8MWMbIJU9NveNIsJWEKQEp4Av5VRAIUTikp1UMQTxn2qtpAqUhT2xjTy7lpO/bBUal6fZRO0Umpmt5bdYyWABlyzpMa5po/VMadt7royk/dHuu3KsdJjDFO+v4njU9GtKfHlqH7UdvbJ3TVHULHs3WKstRaPM9z0bWBvaoab9XyIqP6cm6q0nOfo+HMZX00ZLSaGxF5C5w=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#e6e84f",
+      "4": "#417af6",
+      "5": "#40c9e7",
+      "6": "#8756f0",
+      "7": "#6eef6b",
+      "8": "#e172ee",
+      "9": "#fa61b5"
+    },
+    "sz": 30
+  }
+}

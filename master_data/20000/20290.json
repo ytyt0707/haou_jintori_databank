@@ -1,0 +1,80 @@
+{
+  "round_id": 20290,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-02T23:08:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵大東亞] 大日本帝国陸軍",
+      "team": "🇯🇵大東亞",
+      "emoji": "🦄",
+      "score": "45.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🦄",
+      "score": "4.11",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵大東亞] wad...",
+      "team": "🇯🇵大東亞",
+      "emoji": "🦄",
+      "score": "0.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] BOT",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "アジフライ",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵大東亞",
+      "score": "45.44",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "4.11",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF90UkSwzAIBEBQOfj/P04NOziOLpHpDNqI/g55H0T0jiI/tRJPLkO4f61lsGGUYuOTtdp0NopM/o5wVm2yzjDUVm/pqZu7xt4rvFXPdoc/lOjGMDfV9byguJXtzsw8W41NAzVbSMLojBXzWUqZVQUYd11Khkin+suxDj9knMbujcjMW/t/8lEjGL393J79gEWYJbajnnuKDaMgcl0JPkG81dD1nHOstBBFoCuNpDcJaz3bFPoF21sKug==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "4": "#30a3e8",
+      "5": "#8B4513",
+      "6": "#30a3e8",
+      "7": "#aad411"
+    },
+    "sz": 30
+  }
+}

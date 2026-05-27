@@ -1,0 +1,93 @@
+{
+  "round_id": 32360,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-03-31T00:41:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] 頂き鼠",
+      "team": "なきち",
+      "emoji": "👾",
+      "score": "23.21",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきこ",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "18.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] おはよう",
+      "team": "🇯🇵ONJ",
+      "emoji": "😪",
+      "score": "15.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 城いんげｎ",
+      "team": "🇯🇵ONJ",
+      "emoji": "😂",
+      "score": "3.75",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[なきち] なきなき",
+      "team": "なきち",
+      "emoji": "🦊",
+      "score": "1.64",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🐱",
+      "score": "1.49",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ONJ] 雑魚",
+      "team": "🇯🇵ONJ",
+      "emoji": "😏",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "43.15",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "19.36",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkFsSAyEIBDFCgPtfOMUgumweFT6sXdtpEXKUmVMrRVHSvZrloU6f/liSwMlUd2h9WIQLajcb4GcarGev5kREyqW+UTRc7NYVHn1YpxhJwDHCoarsLszC7m7ujj06lIVR0cCSjqjMJou1IBHEMB9a7SSdk4gOtMpCDLipsMgK0xhjzp6VogHvVGVheAPHk/e9qmGmeCsOYKab5uSxd5b/qYS51cmyKjM3eLpax37THr6Y8fktG7f25GUaH5I32rX192Ys8AJqyg6B",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#4d81e5",
+      "5": "#4d81e5",
+      "6": "#9ca3af",
+      "7": "#4d81e5",
+      "8": "#9ca3af",
+      "9": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

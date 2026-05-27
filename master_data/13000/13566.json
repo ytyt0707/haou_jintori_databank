@@ -1,0 +1,42 @@
+{
+  "round_id": 13566,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-11T06:25:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ゾルトラーク",
+      "team": "",
+      "emoji": "😈",
+      "score": "18.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵　] 🐢",
+      "team": "🇯🇵　",
+      "emoji": "🦊",
+      "score": "11.51",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵　",
+      "score": "11.51",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0VkOgDAMA9GUyf3PjFgECCVT8O+TrS4Rv5PJlg731Jqm+VELzkXLt6YtT7Rafqhy81gBpgeLgizLJwWh2nfHxaUO0RHanSjIqUAYUegVRN/o2t33zAovXAOU",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#38e5c8",
+      "4": "#e03be3"
+    },
+    "sz": 30
+  }
+}

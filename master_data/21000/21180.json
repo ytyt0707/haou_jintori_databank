@@ -1,0 +1,63 @@
+{
+  "round_id": 21180,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-05T00:06:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楽しい] どまぎゃあ",
+      "team": "楽しい",
+      "emoji": "🐷",
+      "score": "27.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 大日本帝国陸軍",
+      "team": "🇯🇵阪神",
+      "emoji": "🦁",
+      "score": "12.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[白旗↑] レスバの覇者",
+      "team": "白旗↑",
+      "emoji": "🤠",
+      "score": "4.91",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楽しい",
+      "score": "27.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "12.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "白旗↑",
+      "score": "4.91",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklsSAyEIBEH0/ldOwTg8skkq/rhF04C6YlyizyWEZgLesgDXcgZ6N9QJda2AYTlN3emCG+leIqHCNTOGBs6pLg3ITC3KUC9dlKfttI5rwB1iKqboOWfQrOwZ51KOMF2nQ2bRaw4qrXCIsPPWyi16RNWH++xG6zcaE6MyxOH+plKNm7s3JvtIt6/giVMV+4OGDbdEn3lL2nyDlhAMnesWkqPxnSuj/DALfk/FKPd6Bv9tH8tDX0x5AYTuBrw=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#d130e8",
+      "5": "#73d411"
+    },
+    "sz": 30
+  }
+}

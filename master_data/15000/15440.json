@@ -1,0 +1,134 @@
+{
+  "round_id": 15440,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-02-15T13:50:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🤔",
+      "score": "32.46",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しWe",
+      "team": "",
+      "emoji": "👻",
+      "score": "11.90",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "🤓",
+      "team": "",
+      "emoji": "🦁",
+      "score": "7.69",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] 999",
+      "team": "猛虎軍",
+      "emoji": "👻",
+      "score": "1.87",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] 山上徹也",
+      "team": "猛虎軍",
+      "emoji": "😍",
+      "score": "1.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[蘇我氏] 蘇我入鹿",
+      "team": "蘇我氏",
+      "emoji": "🐷",
+      "score": "0.76",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "😈",
+      "score": "0.05",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇹🇼🇹🇼楚] 泉サキ",
+      "team": "🇹🇼🇹🇼楚",
+      "emoji": "😈",
+      "score": "0.04",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "ちぎりミサイル",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.00",
+      "kills": 6
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "32.46",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "2.96",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "蘇我氏",
+      "score": "0.76",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵陽キャ",
+      "score": "0.05",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇹🇼🇹🇼楚",
+      "score": "0.04",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0OEOgzAIBOAbJD2yvf/7Loi0UDXZ+FP146gtXsDLCyDhZfmAU05GfiVHrBVncYzBpmscMFzJppwNh5px09MjyqXs6kF/63jwAIxV/YwlXCfFUtKxvlPnLcwRZU7B6g1RY9G26yfFzECQ91mzmtu57/mfxh+JyJPzUHnCUMmWy2WJVC+id5obqOpF1/6AatPa4DMUm0pV7trP5ro69nvLx4v9Ul+aFgoj",
+    "cp": {
+      "1": "#4b84e7",
+      "2": "#ef4eb9",
+      "3": "#f83f7d",
+      "6": "#ef8671",
+      "7": "#9f65f1",
+      "8": "#ef8671",
+      "10": "#d23de6",
+      "11": "#41ec7d"
+    },
+    "sz": 30
+  }
+}

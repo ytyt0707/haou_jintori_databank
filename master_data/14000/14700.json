@@ -1,0 +1,33 @@
+{
+  "round_id": 14700,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-13T19:43:50.000Z",
+  "players": [
+    {
+      "rank_position": 3,
+      "player_name": "[おうむ] 麻原将校",
+      "team": "おうむ",
+      "emoji": "🐷",
+      "score": "0.35",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "おうむ",
+      "score": "0.35",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYBgegAmfHNOAyDIx4NULBoyMBOTxSzLjUcCI13RGRmZ8siAFOKXxmkzIR6MAAwAAexsAPA==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#77f73b"
+    },
+    "sz": 30
+  }
+}

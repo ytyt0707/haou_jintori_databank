@@ -1,0 +1,103 @@
+{
+  "round_id": 8600,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-22T05:50:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ぷゆゆ] さとる",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐷",
+      "score": "26.18",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 眠眠",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "23.43",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🤔",
+      "score": "22.13",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦁",
+      "score": "6.60",
+      "kills": 13
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ぷゆゆ] よっぴ",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "😈",
+      "score": "2.61",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ぷゆゆ] 〇ね",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🦁",
+      "score": "1.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🐱",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "30.75",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "30.04",
+      "kills": 23
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵万華郷",
+      "score": "22.13",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "うんち",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0kmOxTAIBNCSytDm/hf+MsQDHtQsssgzU2IA5oE9tD0sx0TVA1c9U1Ouqhnu7PpKNsVNvwOm18YR3vSlaHXtW0lkOYS/mMlcxcRjnSq2UYVsseqB0ldtffWi2tVO/Qj3XBmZTffOnUIfqRFz0n+UfKuQFDIh5lQ7trvj1dCdKKVoHQc4P5IE1loHDwVZCuCYlFG1FC+7Khx8XseksQlJbcntzZKpAGfo+HlJATDd8o4/aEsSPQ==",
+    "cp": {
+      "3": "#ec32d3",
+      "4": "#a241ec",
+      "5": "#ec32d3",
+      "6": "#a241ec",
+      "7": "#f7e04a",
+      "8": "#a241ec",
+      "9": "#b0f862"
+    },
+    "sz": 30
+  }
+}

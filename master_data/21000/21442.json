@@ -1,0 +1,72 @@
+{
+  "round_id": 21442,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-05T14:16:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[妖怪] ダークニャン",
+      "team": "妖怪",
+      "emoji": "🦁",
+      "score": "68.77",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ころす] しね",
+      "team": "🇯🇵ころす",
+      "emoji": "😈",
+      "score": "11.03",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[妖怪] カス",
+      "team": "妖怪",
+      "emoji": "👽",
+      "score": "2.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しsz",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "妖怪",
+      "score": "71.76",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ころす",
+      "score": "11.03",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "1.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1ksESxCAIQ9ON+v+fvAOE6trqoZ310IIPEnUAcPjSLxJtAcBRLKmVFFJAZketRhn79vUkyktJ6DxI1pqsWjvwKKwWUMor6ieWbJxrFAdQcG9K0i78DBIYbeZ4T/m33o2yeW59X1F7gBZrfgvloq21u4JOrxypPBnkbcbeq/wvnb1HOrPzRl60ep7P2Zbnibmy2erLh00T9wXqTgqI",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#8B4513",
+      "5": "#e83053",
+      "6": "#a74de5"
+    },
+    "sz": 30
+  }
+}

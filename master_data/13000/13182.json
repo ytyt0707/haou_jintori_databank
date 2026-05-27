@@ -1,0 +1,47 @@
+{
+  "round_id": 13182,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-10T09:37:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵PC] 名無しxZ",
+      "team": "🇯🇵PC",
+      "emoji": "🐷",
+      "score": "10.01",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵PC",
+      "score": "10.01",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ローマ",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJztzTEKwEAQQtE/ev87B1IFFs0WW6SITPfQARASKQIV/vPJuKKd/RWjuqmr9u6WHno898XyzNJN267sB1/5OgEq",
+    "cp": {
+      "1": "#e94e8c",
+      "2": "#af6feb",
+      "3": "#3b94e8"
+    },
+    "sz": 30
+  }
+}

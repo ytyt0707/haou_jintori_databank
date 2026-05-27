@@ -1,0 +1,55 @@
+{
+  "round_id": 1659,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-06T12:01:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "👻",
+      "score": "27.16",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[謎の男] 謎の男",
+      "team": "謎の男",
+      "emoji": "🐲",
+      "score": "5.38",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[仙台藩] 地球人チャンネル",
+      "team": "仙台藩",
+      "emoji": "🐱",
+      "score": "3.57",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "仙台藩",
+      "score": "30.73",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "謎の男",
+      "score": "5.38",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0MEOwzAIA1Bs/v+fq2xZR1sCltodlkuk8GQCZv93yF6MMy4IjqR7CYNzV6DXEKpDdGsITOlo8j6u6wvhf5xxADpHvPAbLh0navJsZ6jHZYRrNuY1QcXGtYPo7AGHFGYRqoul0s11hC1n8FCuBvmdY+HyONldpMhuO7XvGaruSw8vJ7MByF4DAQ==",
+    "cp": {
+      "1": "#fa4292",
+      "2": "#908bf9",
+      "3": "#fa4292"
+    },
+    "sz": 40
+  }
+}

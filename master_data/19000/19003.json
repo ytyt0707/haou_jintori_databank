@@ -1,0 +1,47 @@
+{
+  "round_id": 19003,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-28T01:09:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 新鯖♡",
+      "team": "みん²",
+      "emoji": "🐱",
+      "score": "17.50",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😎",
+      "score": "8.70",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "17.50",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "8.70",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzdz0EKgDAMRNHJ9P53FoRUM0lD1Z1/ZXkWpkCIJDE8IOmFlXKsmFGzLZQeMvLWU52MydWm81MfGrRoA1/ph6s7m/xk1qiiqoUfqNotFm4X/6oDmugCQA==",
+    "cp": {
+      "1": "#37aaf1",
+      "2": "#f08e51",
+      "3": "#dd46f1"
+    },
+    "sz": 30
+  }
+}

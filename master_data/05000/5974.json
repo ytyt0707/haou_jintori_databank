@@ -1,0 +1,80 @@
+{
+  "round_id": 5974,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-16T07:48:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "47.03",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "25.28",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵哲無能] ステージ増やせ！",
+      "team": "🇯🇵哲無能",
+      "emoji": "🐲",
+      "score": "1.53",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵さとる] やの",
+      "team": "🇯🇵さとる",
+      "emoji": "🦁",
+      "score": "0.85",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵さとる] カミカゼ",
+      "team": "🇯🇵さとる",
+      "emoji": "😎",
+      "score": "0.84",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "72.30",
+      "kills": 20
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵さとる",
+      "score": "1.68",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵哲無能",
+      "score": "1.53",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyFk1ESxCAIQ5kF5P437qhFE7Sz+VH7MKJQE5YNrZVccYqDtIupmYyRyJwvM60QPcbik+ZB7xgYWhX3va9vQBY1KmLvrXfsdGWlJx059W+yqRK1n22qxXnd70wtEksenPag8cqfVLNoVypMi6jgc8LHQrMQ3d1lZu7us8hw/YXdWwMLogIQq5K4bZodB5T7OF/1aHOKq7+C/KcZcoFgIQ8U9Qo0",
+    "cp": {
+      "2": "#2858f6",
+      "3": "#ea6699",
+      "4": "#ea6699",
+      "5": "#d45bec",
+      "6": "#d45bec",
+      "7": "#91f769"
+    },
+    "sz": 30
+  }
+}

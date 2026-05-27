@@ -1,0 +1,48 @@
+{
+  "round_id": 7300,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-19T07:30:33.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷生パ] 卑怯者",
+      "team": "🇰🇷生パ",
+      "emoji": "👻",
+      "score": "11.80",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇷🇺チー牛] チギュりパンで草",
+      "team": "🇷🇺チー牛",
+      "emoji": "🤔",
+      "score": "0.57",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷生パ",
+      "score": "11.80",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺チー牛",
+      "score": "0.57",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy90tsSgCAIRVHa+v/f3KRmgKi91HnTNeBlEPkzsMRL05WFQqAgG4UM4fFlL280oS/FnbpMsYrXQ2nH+lzaYQ15rNRi4moty6D+uhP1qNT8yBvVjSe1I5riYFh0a/HpnQlQTdVqAHf6VU42mwJn",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f7e13b",
+      "4": "#f538b3"
+    },
+    "sz": 30
+  }
+}

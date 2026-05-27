@@ -1,0 +1,62 @@
+{
+  "round_id": 19432,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-01T00:38:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "👽",
+      "score": "41.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵大東亞] wad...",
+      "team": "🇯🇵大東亞",
+      "emoji": "👻",
+      "score": "11.81",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[LDH] TAKAHIRO",
+      "team": "LDH",
+      "emoji": "😀",
+      "score": "1.32",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "41.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵大東亞",
+      "score": "11.81",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "LDH",
+      "score": "1.32",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkFkOAzEIQ81y/zNXNpOEUqV/VSPNKOJh42B2TmZEoJ/DAMLCq2dTSiIkXz2AmcFgJr/SbgcQ11daOjdKLdCkYuxhe9XlW6KHzvQMFe6+vCOzREfqwsHwmWhYlpsKN6r3ukfthNp3qEr/9bm9Xvff0fWmz5mqoHLfKZdyObgSCvAVPw++Onc+x5xlaefD41Dd/kVH6JGqoq0evADtvgeM",
+    "cp": {
+      "1": "#f97316",
+      "2": "#3092e8",
+      "3": "#6ae830",
+      "4": "#e83087"
+    },
+    "sz": 30
+  }
+}

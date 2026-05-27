@@ -1,0 +1,78 @@
+{
+  "round_id": 3562,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-10T20:59:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "14.85",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵🇯🇵Y] うめ",
+      "team": "🇯🇵🇯🇵Y",
+      "emoji": "👻",
+      "score": "7.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪ナチス] シュトロハイム",
+      "team": "🇩🇪ナチス",
+      "emoji": "🦊",
+      "score": "2.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇺🇸うんち] ばななうんち",
+      "team": "🇺🇸うんち",
+      "emoji": "😎",
+      "score": "1.02",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "14.85",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵🇯🇵Y",
+      "score": "7.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇩🇪ナチス",
+      "score": "2.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇺🇸うんち",
+      "score": "1.02",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd00EOAyEIBVCrwP2P3Fh1CshXWjZO9AVEMqVEUWtd6/oEbBw/68E936Gr1deqIB0zmwN0Q2Y2+6gP5u0mADoH23XpEugWRERJloBEOXhgrxk8A8CBPrNQMM5XinZdhoUd28anHNtALqFGTNHamZXFnBMR2bMNV66u/edEQFnbrIiCfR88inNmEPoH0e7wvmLyfe02Ve96NR73PDo4VetuTFTNcPbbuwQmrHtxsrqF8ZvD50Zm2Ig3uy4IpA==",
+    "cp": {
+      "1": "#84f5b0",
+      "2": "#e65cbe",
+      "3": "#f5d384",
+      "4": "#a4f844",
+      "5": "#7099e6",
+      "6": "#b977f3"
+    },
+    "sz": 40
+  }
+}

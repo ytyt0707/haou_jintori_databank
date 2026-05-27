@@ -1,0 +1,76 @@
+{
+  "round_id": 2681,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-08T21:19:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵🇯🇵猛] はじまん",
+      "team": "🇯🇵🇯🇵猛",
+      "emoji": "🐲",
+      "score": "3.53",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なーず] うみ",
+      "team": "なーず",
+      "emoji": "😂",
+      "score": "3.07",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵サッカ] 割リーヨ！",
+      "team": "🇯🇵サッカ",
+      "emoji": "🤔",
+      "score": "1.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ぶがー] 落ちすぎ",
+      "team": "ぶがー",
+      "emoji": "😂",
+      "score": "0.87",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵🇯🇵猛",
+      "score": "3.53",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なーず",
+      "score": "3.07",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵サッカ",
+      "score": "1.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ぶがー",
+      "score": "0.87",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzd0DEOwCAMBME72/9/M0rhJgVeJJpkJbrRIZD+XUKWDEKXl/cEGSsCMgahiwMHryVM2jN7XrD9nFG6uwabzg7Ds0HgBNkXq6qCbIbVISbopj3I4Bvef7IAt/ABfA==",
+    "cp": {
+      "1": "#e85f4a",
+      "2": "#51a1f0",
+      "3": "#dd7dfc",
+      "4": "#8afe86"
+    },
+    "sz": 40
+  }
+}

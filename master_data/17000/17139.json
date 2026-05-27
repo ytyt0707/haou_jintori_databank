@@ -1,0 +1,41 @@
+{
+  "round_id": 17139,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-19T17:05:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇰🇷チョン] ばーか",
+      "team": "🇰🇷チョン",
+      "emoji": "😎",
+      "score": "12.86",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "正体不明",
+      "team": "",
+      "emoji": "🐶",
+      "score": "9.86",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷チョン",
+      "score": "12.86",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJztzlEOgCAMA9Cuvf+dTUBthM3Mf5vAB29dAP58jCQBqnWOZANyViLJCjlT8KpmWu1Zt6njMa4r14hxzI+1ERNd5vnP2zfd0lHkiLpnLhXp1rf5Vg7rhAH+",
+    "cp": {
+      "1": "#47f581",
+      "2": "#f641f6",
+      "3": "#45ede7"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 23368,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-09T22:22:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ころす] しね",
+      "team": "🇯🇵ころす",
+      "emoji": "🐲",
+      "score": "55.64",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ころす] りょふ",
+      "team": "🇯🇵ころす",
+      "emoji": "😈",
+      "score": "32.85",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 承認欲求",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.51",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ころす",
+      "score": "88.49",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.51",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkAsOxCAIREHw/lfeDIjRMHVJWlveDB9lZBgJERk2xiDIxAxPQHz3KNoJMn8pt0WW9yvDm+osHTt1KkuvnE5V9y+BTk9IFXA+vKDmZhA1WXoTrfcxBKFHiWh7WeNn+YWRPX+jcO3rpXTPJe63IEiVvhGyYlg/o1NczIMe+/aFkCkvo8VMoi9rDknSu0BZ3R9UPiJqBvsBwwIK1A==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83098",
+      "4": "#e83098",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

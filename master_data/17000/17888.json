@@ -1,0 +1,41 @@
+{
+  "round_id": 17888,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-25T11:16:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵楚] 雑魚",
+      "team": "🇯🇵楚",
+      "emoji": "🦊",
+      "score": "60.81",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵楚] パンテオン",
+      "team": "🇯🇵楚",
+      "emoji": "👽",
+      "score": "35.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵楚",
+      "score": "95.89",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0lEOgCAMA1C33v/OhkAEpm0/jHF/8AYlQCYrAKCYBrm5lSpWosvtPFvqXm24xhfHdbo+PzsxNgWtN4oHPTYuGBFCmy8scn9Uyfa2PnoIr9w3vf31Ez8nCTU=",
+    "cp": {
+      "1": "#4a4af7",
+      "2": "#f8ce62",
+      "3": "#f8ce62"
+    },
+    "sz": 30
+  }
+}

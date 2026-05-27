@@ -1,0 +1,57 @@
+{
+  "round_id": 32728,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-31T20:35:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] 爆弾/自認レゼ",
+      "team": "なきち",
+      "emoji": "🤠",
+      "score": "56.66",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵眼鏡] がめら",
+      "team": "🇯🇵眼鏡",
+      "emoji": "🧐",
+      "score": "1.36",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "rensyu",
+      "team": "",
+      "emoji": "😀",
+      "score": "1.05",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "56.66",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵眼鏡",
+      "score": "1.36",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1klsSwyAIRS+i+99yh4uikNh+lZkY8MhTgUPEBFBVcLUf0PyEQETU4BJA0SYFRJCpamuBhVGXpwU2GM4BqJCyCKbOkEW1KyUuHof5FnBjo9uqWtAxKvJyuDte6A47MmY2UmqVcmi3ktjKjlxK+k79Zm+Rf9A5+5IwTM8c5kOJMSbCxwPPnIAZ9tL8O/rtfZ5bXmfi3gOvbiZm00F9M62qdE17fzU+m5QGlQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#8b4de5",
+      "5": "#e830dd"
+    },
+    "sz": 30
+  }
+}

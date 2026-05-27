@@ -1,0 +1,49 @@
+{
+  "round_id": 15252,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-15T02:41:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] チギュアってて草",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "18.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵さとる] 朝山東洋カープ",
+      "team": "🇯🇵さとる",
+      "emoji": "😂",
+      "score": "0.97",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "18.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵さとる",
+      "score": "0.97",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0VkOxCAMA1A7hvtfuUpRNylOZ+ovpFcHCgBiD0iiyq5k1IoIBvODmklkd06jXJoxe89O6bs5vcF0AFbdD926dcYYXfFkSV6lknGhc3Wqj6pnWnxR9frC/5zrlwtZXAvcI90He0UzdtWP5QYZgAL/",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#6473f7",
+      "4": "#e84f68",
+      "5": "#47f0cb"
+    },
+    "sz": 30
+  }
+}

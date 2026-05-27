@@ -1,0 +1,56 @@
+{
+  "round_id": 19444,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-01T01:17:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵しね] ころす",
+      "team": "🇯🇵しね",
+      "emoji": "😈",
+      "score": "83.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵しね] 大日本帝国陸軍",
+      "team": "🇯🇵しね",
+      "emoji": "🦄",
+      "score": "8.42",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🤖",
+      "score": "2.01",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵しね",
+      "score": "92.29",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "2.01",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkFEOwCAIQwf1/mdeQECMaNz2A+O1FQWAB5tvC0zv3OuIWSeDeXejce2PSgcPER3wmXos1/u31hoAZtdp7VphQplnbEmJZkVNPSInW7SY7XjzQlba01hVnd3rzmB97UhOc2vTsSvUO89vkkVnL7B3ylvnpOjraWBtikvOguu/70nD8QK/dgoZ",
+    "cp": {
+      "1": "#f97316",
+      "2": "#e83042",
+      "3": "#e83042",
+      "4": "#d4c811"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "round_id": 21320,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-05T07:40:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[敗北者] 負けたいです。",
+      "team": "敗北者",
+      "emoji": "🐷",
+      "score": "43.61",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ころす] 爆弾/自認レゼ",
+      "team": "🇯🇵ころす",
+      "emoji": "🦊",
+      "score": "7.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無し7a",
+      "team": "",
+      "emoji": "🤠",
+      "score": "3.62",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ころす] しね",
+      "team": "🇯🇵ころす",
+      "emoji": "🐲",
+      "score": "0.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂どあら] けーし",
+      "team": "🍂どあら",
+      "emoji": "🐷",
+      "score": "0.36",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "敗北者",
+      "score": "43.61",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ころす",
+      "score": "8.01",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂どあら",
+      "score": "0.36",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klsWhDAIQ9NGZP87nhMebZ0Z+an0koAouWISE3NyrpvzIW7nfIFNJ18qyESt98PbrJKGPKgV/e+76LbDVpsRAsuXRFwAgJkhM2YVdbpQQEMWK033YkUBjCxumqeM5YwxNl8eX7QqGoNbOxTPFqTpDdI7+TmB+j/ouC7lOdeiMZnUSRcOaVhUW0etoKV9jgGH5ybDvKWku9biXrtrRU+h3u53bDJKQtkjuA9vmmAb0xX3ndqi+8sF/dXGdJoq4vDUY8JiGvwRJW2xVnFE0PhN0/lBy1jHC20nYXwAp5EIBA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#e83064",
+      "5": "#30a3e8",
+      "6": "#30e892",
+      "7": "#30e892"
+    },
+    "sz": 30
+  }
+}

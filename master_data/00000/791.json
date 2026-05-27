@@ -1,0 +1,40 @@
+{
+  "round_id": 791,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-04T13:11:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "🦁",
+      "score": "19.38",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[大東亜] wad...",
+      "team": "大東亜",
+      "emoji": "🦊",
+      "score": "18.78",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "大東亜",
+      "score": "18.78",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0kEOgDAIBEDg/4/20NpG2AXUmMiBpGS6XBD5V6nunrKzmix1qi2oPddkzlGovjiqVoeoe+4lBJ45nw5ceEJYrVjDMJHqtrK/X5aVwGz1DNkku3E3sAkLtVAtJ0xeBU+Me6EDaRCiOAAJ68OHju61pkv2jocQOC8kzg/cXANK",
+    "cp": {
+      "1": "#ef4d86",
+      "2": "#e64fe8"
+    },
+    "sz": 40
+  }
+}

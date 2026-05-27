@@ -1,0 +1,63 @@
+{
+  "round_id": 34344,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-06T08:25:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇰🇷ヨン様] ペ・ヨンジュン",
+      "team": "🇰🇷ヨン様",
+      "emoji": "🤓",
+      "score": "51.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] あーん",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "8.40",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[は] 春",
+      "team": "は",
+      "emoji": "🍡",
+      "score": "1.35",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷ヨン様",
+      "score": "51.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "8.40",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "は",
+      "score": "1.35",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdk8ESxCAIQ4nW///lnUTjMivuoRxsZx6BCG1EGWiKiDHM/QYs2EgXHgwAPKe0EWY6MXOitU0HO1gcIDZVzXUQBNA7qyv/l/b/tDOuWlHcKt+oPAnS1uFq0BGDE6voxhpkvpBmaW1Bv6V7Td26olzE5G+ptnHeSK5VHFGVnohTS9rnSStWRkk5xJd0S8u+iaYN2FSiybMTtdrDlWlsMadh+Xz6p9In9AG26ws7",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e87530",
+      "5": "#30e8a3"
+    },
+    "sz": 30
+  }
+}

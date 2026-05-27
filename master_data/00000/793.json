@@ -1,0 +1,79 @@
+{
+  "round_id": 793,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-04T13:18:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "🐷",
+      "score": "26.50",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "🦁",
+      "score": "17.63",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ソロ] 共感性羞恥心",
+      "team": "ソロ",
+      "emoji": "🤔",
+      "score": "14.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ソロ] よっぴ絵師",
+      "team": "ソロ",
+      "emoji": "🦄",
+      "score": "1.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[大東亜] wad...",
+      "team": "大東亜",
+      "emoji": "🦊",
+      "score": "0.19",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "仙台藩",
+      "score": "17.63",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソロ",
+      "score": "16.07",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "大東亜",
+      "score": "0.19",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl01sOxCAIBVDqlf1veUKsTy7qzPDTtD0BRRQRAHITMImzBojLNYgDc5k4MNfkncMUGydHl106oHbTLW+FJtk2nHuDOYb3++3VmSP4uGFftsAvnG/i0ueornNR3d9cfCDjCZMxpQtk89yzFaihE2lDmLOq8ou0XDlzMocRXb4xx0I3TnV29kxBjiaqI1CHKC9np4FTxjRJWiBBli+lG0jYP471Zfj9PIMLeyJbFpWlsA9mnkbgAxD/DaA=",
+    "cp": {
+      "1": "#8afef5",
+      "2": "#71fb56",
+      "3": "#9cb4f2",
+      "4": "#b73ff8",
+      "5": "#71fb56"
+    },
+    "sz": 40
+  }
+}

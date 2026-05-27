@@ -1,0 +1,48 @@
+{
+  "round_id": 11703,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-03T18:01:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "50.03",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵分際] 足りない頭活かせ",
+      "team": "🇯🇵分際",
+      "emoji": "👻",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "50.03",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵分際",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzlkDEOACAIxJD6/zc7mKiAIXHQxRsYrpQBkecBuEI5pswyUlxS+CfVSItzwbhi3XC2U1DnLXRbQx2u3R8jca9T90pbNJXgBUk=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#e54381",
+      "4": "#2875f0"
+    },
+    "sz": 30
+  }
+}

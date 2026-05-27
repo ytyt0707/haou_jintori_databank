@@ -1,0 +1,81 @@
+{
+  "round_id": 35105,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-07T15:48:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😄",
+      "score": "34.72",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "⚔️",
+      "score": "25.93",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] パソコンマン",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "21.71",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] も",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "4.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] でんちゃ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.96",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "34.72",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "26.69",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "25.93",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kUuSxCAMQw3I8f1v3CUZQ2Cmetde8MlDRiIAEBFmZlHFjZn33iF6Qp51QkvKfSnVyUW96IvxHhee9C0srXcveuOUOuDy/LdzX9qYWk1y7ITsnHE5KnZaYqB9rxKbBc3u2q+RzTfhauZdpr7Rk93a39Er0O35upiJWluBLrHgxjjFwPO0pz1SI/DCGAPEyQKkC89XLEjEyuaDpR+XpiZMCuB/SqyT0lac0q75TddHLpoaewmjPOnQaDJFV1mHdDQrz6QHo9uh4QMaNhFG",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8B4513",
+      "5": "#97d411",
+      "6": "#8B4513",
+      "7": "#d130e8"
+    },
+    "sz": 30
+  }
+}

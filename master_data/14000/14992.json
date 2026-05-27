@@ -1,0 +1,65 @@
+{
+  "round_id": 14992,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-14T11:31:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "うんち",
+      "team": "",
+      "emoji": "🤔",
+      "score": "45.59",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[共産党] けんじ",
+      "team": "共産党",
+      "emoji": "😍",
+      "score": "4.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵万華郷] 最弱/重音テト",
+      "team": "🇯🇵万華郷",
+      "emoji": "😈",
+      "score": "0.09",
+      "kills": 8
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[共産党] いただきマウス",
+      "team": "共産党",
+      "emoji": "😀",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "共産党",
+      "score": "4.13",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵万華郷",
+      "score": "0.09",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJydktsOgDAIQ+uE//9lM+PQso4l8sYOZdyAx+w2LGwPBbUXztSUIQLzM6epxd05VIDQgrFMHNp/dPkrqCGl53bzVMph6EHD0i6yKm2KtYKCk3+ge1EU3BPn6wh6jroy9sgwndagEyBe0uG0tgqr2YYyvAAhsAcx",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#62def3",
+      "4": "#f8a663",
+      "5": "#f6f939"
+    },
+    "sz": 30
+  }
+}

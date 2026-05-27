@@ -1,0 +1,73 @@
+{
+  "round_id": 5490,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-15T05:37:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵特攻隊] カミカゼ",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐶",
+      "score": "24.74",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チー牛] 山上徹也",
+      "team": "チー牛",
+      "emoji": "🤠",
+      "score": "4.82",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チー牛] 野獣先輩",
+      "team": "チー牛",
+      "emoji": "🐷",
+      "score": "3.31",
+      "kills": 8
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[チギュ] チギュりパンで草",
+      "team": "チギュ",
+      "emoji": "🐷",
+      "score": "0.38",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "43.00",
+      "kills": 23
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "10.55",
+      "kills": 15
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チギュ",
+      "score": "0.38",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0ssOxCAIBVAyXCj//8UTEBUfmTQZFl309FJFiY7CrBNf6wUvWf6lHPpsVpSBB5v2xgyAH+AWJS61q7+62NRr9NSX2U8wr0qrZjY/iXkIoKoZLVmJP4loaB9wRxF3M1PVOf6JIqRNe+fUhurYdZ2kq2m0bkvmoX5SEkkzy2nENsZuqGjGxrOtN9APur5vJWTwZLsHtKKH5wEcCnhw3NWtM+ADqbpyjvPv+gKt2AgN",
+    "cp": {
+      "2": "#2858f6",
+      "3": "#46bbf6",
+      "4": "#46bbf6",
+      "5": "#f77364",
+      "6": "#f77364",
+      "7": "#f14ef4",
+      "8": "#f77364"
+    },
+    "sz": 30
+  }
+}

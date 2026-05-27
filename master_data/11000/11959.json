@@ -1,0 +1,77 @@
+{
+  "round_id": 11959,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-04T07:52:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ナチス] いなみや",
+      "team": "ナチス",
+      "emoji": "👽",
+      "score": "13.49",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[VIP] 名無しeF",
+      "team": "VIP",
+      "emoji": "🦄",
+      "score": "5.65",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "0.83",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇳伊藤] セロリ",
+      "team": "🇻🇳伊藤",
+      "emoji": "🤔",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ナチス",
+      "score": "13.49",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "VIP",
+      "score": "5.65",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "0.83",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇻🇳伊藤",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10VEOwCAIA9AyA/c/8uJwQUOZ/ow/89bKIpBGYzIeK8Fd9nXQsMdRVEf7XqXkjgKR9IWrSKY2HCwWv4YVW1vKn6xwJvdO7DuTjSpdt6qxeoS5+ZdsHb7w8fpeXKkZLOk4m0/KqlpMbrZTZVtNprgBeYUD9A==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#7045e8",
+      "5": "#c5ea57",
+      "6": "#2673f7"
+    },
+    "sz": 30
+  }
+}

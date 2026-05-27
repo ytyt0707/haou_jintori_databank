@@ -1,0 +1,46 @@
+{
+  "round_id": 16109,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-17T09:15:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しk6",
+      "team": "",
+      "emoji": "🦁",
+      "score": "0.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤠",
+      "score": "0.09",
+      "kills": 13
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.09",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYBiOgGUwW8/Cgk8er+SgBYyM+KUJaMYnz4hXGr9eglYPCgAATE4AKw==",
+    "cp": {
+      "1": "#f943b9",
+      "4": "#f9f94e"
+    },
+    "sz": 30
+  }
+}

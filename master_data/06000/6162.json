@@ -1,0 +1,57 @@
+{
+  "round_id": 6162,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-16T17:58:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "アナ",
+      "team": "",
+      "emoji": "🐱",
+      "score": "22.11",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵楚] 阿部慎之助",
+      "team": "🇯🇵楚",
+      "emoji": "💩",
+      "score": "2.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵楚",
+      "score": "2.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0eEKwCAIBOCbufd/5ZETUkvHYrAj6MfXVRQw5+iRGWgjAE7FOxbbaCpaZXZ754qXXf5GdYFRdhq7lhB29i8Zu3DNQruHW02KVPGs5nsXKNlUqpRkFLp9Lhkuuxn+lQsoAwMd",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#d0f83f",
+      "4": "#f1b650",
+      "5": "#f25ae5"
+    },
+    "sz": 30
+  }
+}

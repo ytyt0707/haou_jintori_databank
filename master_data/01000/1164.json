@@ -1,0 +1,70 @@
+{
+  "round_id": 1164,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-05T08:40:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "バナー追加しろや",
+      "team": "",
+      "emoji": "👻",
+      "score": "9.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[革命軍] 神",
+      "team": "革命軍",
+      "emoji": "💩",
+      "score": "1.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[妨害や] 1位妨害します",
+      "team": "妨害や",
+      "emoji": "🦊",
+      "score": "0.86",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[妨害隊] テポドン",
+      "team": "妨害隊",
+      "emoji": "🤔",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "革命軍",
+      "score": "1.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "妨害や",
+      "score": "0.86",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "妨害隊",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0kEKwCAMRNFMnPufuSAFU8RkFi0V2r8THkpUs79P5SKTnPvNTkGPR/INp6huCsfe7NqMWOzFkWIyJ7LhAGTTRgesb+/iDMuTo8segwGey2qU8gvkN7J1B2GFAnI=",
+    "cp": {
+      "1": "#89f5d3",
+      "2": "#fcab59",
+      "3": "#c6e765",
+      "4": "#f83f8c"
+    },
+    "sz": 40
+  }
+}

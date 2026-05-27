@@ -1,0 +1,52 @@
+{
+  "round_id": 6262,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-16T23:22:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "あ",
+      "team": "",
+      "emoji": "😎",
+      "score": "15.48",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "😎",
+      "score": "13.07",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😂",
+      "score": "2.16",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "2.16",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0AkOwCAIBECKq/9/cuOBF0e7SZOGCYgS3UkrW5VrvX3ysynzKKU14lQ17z4xm8o1VW3pk3POypmY+0YGtm451tyI5R36foYuhnellADnyvOFEXR7SlNtph8acykuE5VIgcah6qokVgx9XL2bcSYYrRRRb4gfg4286RwEcw==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f0834c",
+      "4": "#b0e33b",
+      "5": "#e335c3",
+      "6": "#48f83f"
+    },
+    "sz": 30
+  }
+}

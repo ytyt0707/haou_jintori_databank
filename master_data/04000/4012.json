@@ -1,0 +1,96 @@
+{
+  "round_id": 4012,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-11T21:33:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[oj軍] 二段階右折",
+      "team": "oj軍",
+      "emoji": "😈",
+      "score": "28.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦊",
+      "score": "24.75",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤔",
+      "score": "7.43",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵特攻隊] おーんとぷーゆ",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐱",
+      "score": "0.46",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[oj軍] 管理人",
+      "team": "oj軍",
+      "emoji": "🦄",
+      "score": "0.04",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[oj軍] 衛生兵",
+      "team": "oj軍",
+      "emoji": "🦁",
+      "score": "0.04",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[oj軍] ゴスロリトイレ",
+      "team": "oj軍",
+      "emoji": "🤖",
+      "score": "0.04",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "oj軍",
+      "score": "28.69",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "24.75",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵特攻隊",
+      "score": "7.89",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJx10lEOxCAIBNBpIZl4/wtvEBClLj9dfTuUaIFbvVG5HjqW0bYlVVV1DOwsVq8YTmb1JSUqoqrkXZ0Hw0lSUIoIr8Inmzwfm3LHpo+yNy42nfP80eeiq7OvgGNmnKqtc8R914aS2q/3+qrFkpEYZzhPk4jWyKRrnEUoPoo1sM+eytT1B/uxzaNqbSX5OCS7Lg/AL/jIXj5O2Waora4ydfbcsus+cpa7Jh7FQnO9TZUrbXpWwx9i6Asi",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#68f36f",
+      "4": "#f79b4a",
+      "7": "#3f5fee",
+      "9": "#f79b4a"
+    },
+    "sz": 30
+  }
+}

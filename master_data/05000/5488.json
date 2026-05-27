@@ -1,0 +1,106 @@
+{
+  "round_id": 5488,
+  "game_mode": "TEAM",
+  "player_count": 13,
+  "played_at": "2026-01-15T05:31:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チー牛] 野獣先輩",
+      "team": "チー牛",
+      "emoji": "🐷",
+      "score": "32.61",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チー牛] はじまん",
+      "team": "チー牛",
+      "emoji": "🐶",
+      "score": "7.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チギュ] チギュりパンで草",
+      "team": "チギュ",
+      "emoji": "🐷",
+      "score": "6.39",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[チー牛] まままま",
+      "team": "チー牛",
+      "emoji": "😎",
+      "score": "5.59",
+      "kills": 7
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[チー牛] マネモブ",
+      "team": "チー牛",
+      "emoji": "🐶",
+      "score": "5.24",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇻🇪ベネズ] でじこ",
+      "team": "🇻🇪ベネズ",
+      "emoji": "🐲",
+      "score": "3.71",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チー牛",
+      "score": "52.28",
+      "kills": 31
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "16.72",
+      "kills": 13
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チギュ",
+      "score": "6.39",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇻🇪ベネズ",
+      "score": "3.71",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵うんち",
+      "score": "0.26",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx10wGOhDAIBdBfMnwtOPe/7gYoTp3dJdGkfYKVWqDiBZAAxhiM6OkKVjQufu3qYwznxs9UfrC89f2udIafEcGJUM8k99TzVnd11aWs+1IAhaHXdVE90hefgByHqkbGdV2a6mwMPQ7eqniqtHporswbQ8mY1YzS5GitCEm1UleKdOXoRzemFu6ST5c91Z2S8UsDydS90+wOcqEIJ+c0M8aeN92MCZjZnPFF26YVAlIcKl9aG29mtuXifm0MAm1WbjQJWFq1OrdGwg3N4so+i2+00IyxqGSRD8oqu367mrkR/VLLLXpoLj3N0OrSdfK42Domrfg7Fv+nPzZTESs=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#9aef62",
+      "4": "#f76636",
+      "5": "#e74ff8",
+      "6": "#e74ff8",
+      "7": "#e74ff8",
+      "8": "#64cfed",
+      "9": "#e74ff8",
+      "10": "#e74ff8",
+      "11": "#e74ff8",
+      "12": "#f1417f",
+      "13": "#e9ec51"
+    },
+    "sz": 30
+  }
+}

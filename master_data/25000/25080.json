@@ -1,0 +1,128 @@
+{
+  "round_id": 25080,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-03-14T10:38:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤓",
+      "score": "18.79",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵小谷城] 浅井長々",
+      "team": "🇯🇵小谷城",
+      "emoji": "💀",
+      "score": "17.50",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] ハラディあおむし",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "16.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵小谷城] 浅井久政",
+      "team": "🇯🇵小谷城",
+      "emoji": "⚔️",
+      "score": "15.73",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 石破",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "9.01",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] み。",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐰",
+      "score": "0.82",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "😂",
+      "score": "0.75",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[自殺] 自殺",
+      "team": "自殺",
+      "emoji": "💀",
+      "score": "0.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇬🇧MI6] ぶりぶり",
+      "team": "🇬🇧MI6",
+      "emoji": "😀",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵小谷城",
+      "score": "33.23",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "25.62",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵陽キャ",
+      "score": "18.79",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.82",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "team_name": "自殺",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGN0EtyxDAIBNCOy4Ag979vqgEJu2YWYTGa8hMfAZtAhtaRv2NmBs0Y3grwX6l2utbHvEJWVVOb2ju3T+pOhQIRrwuHqnnEy7/owznXzMxURg2GGjuZ1xqTwRecF6vqz6emA06FtfO1/XrWdFd3tLIta5qIiKp6xiigaqZUKXvnQs2Yu83de2jDWiA/zblJBlYqumGnb421IFyCuE/60Qh+r5jGZ1kid+Pk7qkirvsuflR+6LV1Ch+Va1d+YOtviMiVfV+jnamCF3JRNVy2/6Y4RUY7hbsvFpH/aWVm30mt3W7KcwoDf9QaFUc=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#ced411",
+      "6": "#8B4513",
+      "7": "#8B4513",
+      "8": "#3092e8",
+      "9": "#ced411",
+      "10": "#e89830",
+      "11": "#59e830"
+    },
+    "sz": 30
+  }
+}

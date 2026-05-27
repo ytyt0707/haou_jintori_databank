@@ -1,0 +1,92 @@
+{
+  "round_id": 10067,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-26T08:01:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵正義] あんこ",
+      "team": "🇯🇵正義",
+      "emoji": "🐱",
+      "score": "17.65",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "🤖",
+      "score": "13.93",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇳万華郷] 万華武者",
+      "team": "🇨🇳万華郷",
+      "emoji": "🦁",
+      "score": "4.24",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵特攻隊] 爆弾/自認レゼ",
+      "team": "🇯🇵特攻隊",
+      "emoji": "😈",
+      "score": "4.00",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇰🇷慶尚道] ティンコゥ",
+      "team": "🇰🇷慶尚道",
+      "emoji": "🐷",
+      "score": "2.88",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵正義",
+      "score": "17.65",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳チギュ",
+      "score": "13.93",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳万華郷",
+      "score": "4.24",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵特攻隊",
+      "score": "4.00",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇰🇷慶尚道",
+      "score": "2.88",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0VEShCAMA9BsIL3/kZ2WBYu4LPlwtK+tjAIoLbhj46IvFkXg3XffrAgtZyo9F+fVTb08cNI+NBBYVH807Vy0gHGEH1qostM4PHKsWa0Sgdlg5pVaXQEqKvlnxKSHpOPNfic0rACjZHn5mFVXmzXe2bc9hkFS1LDJ2bJFZlzZprwjXmdtp/bMoX4A9udVkT7um61dh7kAf5cH1g==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#a5f26e",
+      "4": "#51e660",
+      "5": "#4dbcef",
+      "6": "#f14bb7"
+    },
+    "sz": 30
+  }
+}

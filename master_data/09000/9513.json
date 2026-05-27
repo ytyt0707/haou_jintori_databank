@@ -1,0 +1,81 @@
+{
+  "round_id": 9513,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-25T02:03:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳チー牛] チギュりパンで候",
+      "team": "🇨🇳チー牛",
+      "emoji": "😎",
+      "score": "26.73",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳チー牛] ベネット",
+      "team": "🇨🇳チー牛",
+      "emoji": "🤖",
+      "score": "19.03",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵傷物語] 忍野忍",
+      "team": "🇯🇵傷物語",
+      "emoji": "🐷",
+      "score": "12.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "😍",
+      "score": "6.87",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "😀",
+      "score": "5.16",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳チー牛",
+      "score": "45.77",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵傷物語",
+      "score": "12.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵YY勢",
+      "score": "6.87",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lEOwyAMA1AvOHD/G0+BBEKbzR+txMNQUEVEBAAaPGMMkBz2hqyx1hpicMe0eUoVhJtSg0hCHqqViqlXfYLq3Z06MzdVwFlkqUaGPTCPK+Irh2E9Ab+NT4Omqk8KBcCnxr6h1wRk1ULPwpP7W1f47Gqt3bLPu7L37Ul3XbOZ4kREJ/efap6UPLzwaGdoHOHSPlU3PrTz9Fwv/qvkS5OXyvTNhUa07J4gX1i6nPWzfAHdFgzM",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#ec69ba",
+      "4": "#795cf0",
+      "5": "#795cf0",
+      "6": "#c9e746",
+      "7": "#4ff849"
+    },
+    "sz": 30
+  }
+}

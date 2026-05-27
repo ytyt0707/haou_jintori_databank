@@ -1,0 +1,46 @@
+{
+  "round_id": 11069,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-02T07:45:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵幼児] 🐟💦",
+      "team": "🇯🇵幼児",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🤔",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵幼児",
+      "score": "0.00",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵万華郷",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYBgFo2AwAka8kmTKMjExMOKRxe8iJgLy5AIADbUAEw==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587"
+    },
+    "sz": 30
+  }
+}

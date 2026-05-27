@@ -1,0 +1,46 @@
+{
+  "round_id": 6462,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-17T10:11:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳清] 皇太極",
+      "team": "🇨🇳清",
+      "emoji": "🐲",
+      "score": "4.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳清",
+      "score": "4.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYCAImAgrGQWjgDBgYWHBL4tbmoWwLE5pQrJ43YXXXkJeIhIAAGvmAJM=",
+    "cp": {
+      "2": "#2858f6",
+      "4": "#7ee543"
+    },
+    "sz": 30
+  }
+}

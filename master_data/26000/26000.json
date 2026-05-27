@@ -1,0 +1,63 @@
+{
+  "round_id": 26000,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-16T12:26:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] ぷゆゆ✌️🥺",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "51.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "⚾",
+      "score": "4.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵自民党] BBS様の弟子",
+      "team": "🇯🇵自民党",
+      "emoji": "🐲",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "51.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "4.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵自民党",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kgkSwzAIAwVy///ljjhSaNIyGSfxIoEPuDsiPCK/r9Hd2ZSMn/zXpNcMoLSO1n4oBmXJg4bf1Mrjci7gjraOt+q6nk/JydVLRU4v9Y1OKf9TlpPcl2zV8b3aSkRq7Yc0qBmffAkjaWb2XNYs6ENH2kx7kdKjOjhnJKK02nKC55wzakA1FYCIYrT/RZUyuveSWku7flYvKuO8LuuM0d5Nq/fUbhqXdy7ppu1jU1JDs6w7hLFHV1+xI4uGNIdoecE0honnghYuLYrFcjItxjcGogcp",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#60d411",
+      "5": "#af30e8"
+    },
+    "sz": 30
+  }
+}

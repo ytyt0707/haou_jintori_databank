@@ -1,0 +1,106 @@
+{
+  "round_id": 8488,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-21T23:45:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チー牛] チギュりパン",
+      "team": "チー牛",
+      "emoji": "🤠",
+      "score": "27.05",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇦🇺うんち] アベベ",
+      "team": "🇦🇺うんち",
+      "emoji": "😎",
+      "score": "25.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] 爆弾/自認レゼ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👽",
+      "score": "12.10",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐷",
+      "score": "2.56",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ゲスト] ソ連",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤠",
+      "score": "0.25",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇷🇺😇] ドザえもん",
+      "team": "🇷🇺😇",
+      "emoji": "😍",
+      "score": "0.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[チー牛] 阿良々木暦",
+      "team": "チー牛",
+      "emoji": "🦊",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チー牛",
+      "score": "27.11",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇦🇺うんち",
+      "score": "25.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ゲスト",
+      "score": "14.91",
+      "kills": 13
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇷🇺😇",
+      "score": "0.15",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0tEOwyAIBVDWsSDl//93QaUCyrL7YJseb2OtAC6tB05prV1thkb+VgC4EifVgcruVBl2VBH50ZXBei/bl0XNbm9W1ASUrrKyBOzBvOrAGgBglhx2iUJP8agUNU4goko/IgTg9e2UnG4Lm/ssBSKqVs1SOyAiZuWOpkicY+VbR+bXadW9TMdu51unFDh3JMD2I4qaHYql7vTYefkC+sQXZA==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#e74684",
+      "4": "#f8c668",
+      "5": "#7d30f8",
+      "7": "#f8c668",
+      "8": "#59e0f7",
+      "9": "#e74684",
+      "10": "#f8c668",
+      "11": "#a4eb66"
+    },
+    "sz": 30
+  }
+}

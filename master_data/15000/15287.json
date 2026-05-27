@@ -1,0 +1,72 @@
+{
+  "round_id": 15287,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-15T05:10:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵雑魚] 最弱/重音テト",
+      "team": "🇯🇵雑魚",
+      "emoji": "😎",
+      "score": "19.39",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "player_name": "うゆゆ",
+      "team": "",
+      "emoji": "🐷",
+      "score": "18.45",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵みん²] Big Wave",
+      "team": "🇯🇵みん²",
+      "emoji": "🐷",
+      "score": "0.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇨🇳無駄] 時間の無駄",
+      "team": "🇨🇳無駄",
+      "emoji": "🐲",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵雑魚",
+      "score": "19.39",
+      "kills": 15
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵みん²",
+      "score": "0.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇨🇳無駄",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0ksOwCAIBFBGJ+X+N27wV/8x7aaz9AFGIgA4kJRZ4CwBJwXW6RyFwpRWATZRi2hU32FWNSf9TDVqP/fBoNwqZKPPO46UvcY1DbPjWdrLXMva8horrZMKdcGfVY9Uar3Ori0F71QaHH/juvH3uQHpywd7",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#47f0cb",
+      "4": "#326aec",
+      "6": "#994eef",
+      "7": "#d1f566"
+    },
+    "sz": 30
+  }
+}

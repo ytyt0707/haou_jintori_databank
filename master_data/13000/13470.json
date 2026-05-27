@@ -1,0 +1,51 @@
+{
+  "round_id": 13470,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-11T01:14:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🐱",
+      "score": "3.13",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.10",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵阪神] ナチス",
+      "team": "🇯🇵阪神",
+      "emoji": "😎",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "3.23",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYKAyYMQQYWbGIQGRhEgTIYuhhBkqDZJgxC7LjKSNEUUNRA6LNiQKu6Pg5uGRY8Uuy4xfLxMTExNl9tIAsNDXuhEIADgxAHg=",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#629aea",
+      "4": "#e859b9",
+      "5": "#629aea"
+    },
+    "sz": 30
+  }
+}

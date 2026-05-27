@@ -1,0 +1,41 @@
+{
+  "round_id": 17579,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-23T18:02:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵グリコ] 爆弾の廃人",
+      "team": "🇯🇵グリコ",
+      "emoji": "🤠",
+      "score": "60.24",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵グリコ] けんた",
+      "team": "🇯🇵グリコ",
+      "emoji": "💩",
+      "score": "36.82",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵グリコ",
+      "score": "97.07",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJytkVEOwDAIQhXvf+cla2NcHTTNxu8DsTbiRwGQUFCd3eIi+0AD2YaybynHqxSblMGBT6jtRpuka5YZ8t23w3oW9CR5TDT6uDRjUTc/+vzh5fa1qFNXk92dcTVXyy5SPgkq",
+    "cp": {
+      "1": "#4be777",
+      "2": "#6f71ec",
+      "3": "#6f71ec"
+    },
+    "sz": 30
+  }
+}

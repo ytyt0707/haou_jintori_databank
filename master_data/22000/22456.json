@@ -1,0 +1,42 @@
+{
+  "round_id": 22456,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-07T21:05:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 武闘派ぷゆゆ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "33.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🐲",
+      "score": "5.50",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "33.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkVkOwzAIRIFw/zNXM6x2I1WqP1KLxyxyRc6jcfbwwcHgeb4hpnG0qOpSFy3tAVs79E2bnVTV3b3N2cq9KeCmIsJRLJyUJhw5HW5qJa6d5SxmZmENbWx0KyEuWeKh0FrR/G1KmKV7Z1Hp3Ew9WmERqqqEO8WGSkNbS8pMYibisTI6gkMJ5/WO5Rwr+BKm8J0OnD8p9CsTS2PKG3L/1F6lbucfuS8vOdVOeJdefXkdHW43/QDXXgYT",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}

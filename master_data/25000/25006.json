@@ -1,0 +1,72 @@
+{
+  "round_id": 25006,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-14T06:38:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "⚔️",
+      "score": "47.65",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 👶🏻🎀",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐹",
+      "score": "27.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しtd",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] ワタリ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "47.65",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "27.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.19",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkgsSAyEIQyk0vf+R2wRYXW2tM/sZngEDmmmFhVlE8IkI5PIgVKQA/60oBtWWejUm7VBntoaICbd60BZeRNu77kq567f2Px2O9syMnOqetLR40J7p2VFrHegeTV9Rd1+o3Bn9PAFslFiUZ16o7gEHag/BW2azV96idHuvW+TqxTc6yqruNYXSmtUIpN1oDcjhAJq2FEgt/Wy0h5Nw1RbNPm5aei3dnJk+s/2SqyqgWKHEpLLzOdUbVgYKOQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e88730",
+      "4": "#8B4513",
+      "5": "#9ca3af",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}

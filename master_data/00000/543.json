@@ -1,0 +1,143 @@
+{
+  "round_id": 543,
+  "game_mode": "TEAM",
+  "player_count": 19,
+  "played_at": "2026-01-03T23:47:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[黒羊朝] コータカハシ",
+      "team": "黒羊朝",
+      "emoji": "🦁",
+      "score": "20.18",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ぷゆゆ] OGポギ",
+      "team": "ぷゆゆ",
+      "emoji": "🐲",
+      "score": "18.94",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[vor] vorugu20",
+      "team": "vor",
+      "emoji": "😀",
+      "score": "9.25",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ちんぽ] あ",
+      "team": "ちんぽ",
+      "emoji": "🐷",
+      "score": "5.76",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ぷゆゆ] MJドギーユ",
+      "team": "ぷゆゆ",
+      "emoji": "🐱",
+      "score": "5.06",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "チギュりパン",
+      "team": "",
+      "emoji": "🐱",
+      "score": "4.78",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[十字軍] 共感性羞恥心",
+      "team": "十字軍",
+      "emoji": "💩",
+      "score": "4.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[ぷゆゆ] 魚人小笠原",
+      "team": "ぷゆゆ",
+      "emoji": "😎",
+      "score": "3.75",
+      "kills": 5
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[十字軍] ヘブライ",
+      "team": "十字軍",
+      "emoji": "🤠",
+      "score": "2.16",
+      "kills": 6
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[革命軍] うんちまん",
+      "team": "革命軍",
+      "emoji": "🐷",
+      "score": "1.99",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ぷゆゆ",
+      "score": "27.99",
+      "kills": 28
+    },
+    {
+      "rank_position": 2,
+      "team_name": "黒羊朝",
+      "score": "20.18",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "vor",
+      "score": "9.25",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "team_name": "十字軍",
+      "score": "6.30",
+      "kills": 12
+    },
+    {
+      "rank_position": 5,
+      "team_name": "ちんぽ",
+      "score": "5.93",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF1OGuwiAMBeD2dF4hRLvJ+7/rDS0MmCyeH+i2L4UylKgkBPqV0GIXdisyc3369kzu/BbYIHNjBYZFmLnUxLLeVC3GyPyH98oxs03vrozojMIVhjKp1RvddUIuI8UiGbhpg2vKPHuMEb3fpWM2dud4yL7HuO+0Wl/Z2c4sG8G7HSFN5Xa3wLZdtqW7p6W7bft2ON2zuW12Iey7UXUmXtDdYgdDSOa09WLu+xyEJKrPpwz1luclJRFREYOwBa6dtMAZUHdmwvAIiaCl/0pUL65Qq2luq04BBTAgT8Lk2m0dn6bBz6y5eielOwdyk5ylJDcOdlWEjWdHtYcJGvOcrvShqmO5nHFRtV9VqMeWkTMV4853kHxfGlO11Wai8i7IHaTN2523lXN+kYh1ZKj2YSvs9XI2SO2diWzN0TRtfr1ypnpiUAca5eRIjgM4bInd9di8uTw4Djwe3szNn3Gun4LPB+tyU85j+MOJux9qzD/vMh9f",
+    "cp": {
+      "1": "#e8fc36",
+      "2": "#f29b87",
+      "3": "#8ff5ac",
+      "4": "#8ceec0",
+      "5": "#8ff5ac",
+      "6": "#a3e552",
+      "7": "#f83ad8",
+      "8": "#d664ed",
+      "9": "#a3e552",
+      "11": "#f29b87",
+      "13": "#9cf58a",
+      "14": "#b46df3",
+      "15": "#f29b87",
+      "16": "#8ceec0",
+      "17": "#f29b87",
+      "18": "#8ff5ac",
+      "19": "#9cf58a"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "round_id": 1901,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-07T02:24:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵特攻隊] 五条さとる",
+      "team": "🇯🇵特攻隊",
+      "emoji": "💩",
+      "score": "28.75",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "17.77",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 浅井長々",
+      "team": "猛虎軍",
+      "emoji": "🦄",
+      "score": "17.41",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐱",
+      "score": "8.56",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ふたば] ( ﾟｰﾟ)",
+      "team": "🇯🇵ふたば",
+      "emoji": "😍",
+      "score": "8.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ふたば] あにまん",
+      "team": "🇯🇵ふたば",
+      "emoji": "🐷",
+      "score": "1.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵倭国] 忍野忍",
+      "team": "🇯🇵倭国",
+      "emoji": "🐱",
+      "score": "0.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵日帝] 万歳",
+      "team": "🇯🇵日帝",
+      "emoji": "😎",
+      "score": "0.06",
+      "kills": 4
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵特攻隊] てすと",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤔",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "43.74",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "28.75",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ふたば",
+      "score": "10.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵倭国",
+      "score": "0.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵日帝",
+      "score": "0.06",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN1NGOxCAIBVDIAtL//+GNiIhim+FlmnpyFaYtsKoqgIjAZ7F0KL2Yed6My3kHFpNY5VQ1zhwLMyLi6XQxobGCXhsUBWtiBuJWKVBSkbllIefZtmNr2POY+S/tG+cTobot91DA3ohEIzc3WgORyAOgIiYDTX3E+fjb2YyJ6OJ0c2MwRBfXl5/Hnc+ODrnck09ZEq3dWqWTFye3wby4nzaW6vTFHQf0MZ865eGcc590cWsw/iTe+5iD7tt/OCKH68m2F/zqiIrbUltDigon/sEYRluv6XB3S6k5jTzc86Lcadn26Bfa7vDqFGAwh3LL0/EZTM7ePzqcTjculqO7y4wIItGdFmf/SR8sfju6uWH8s9nUzpUdDLeYQfudLPJ+rH/Jxxjh",
+    "cp": {
+      "1": "#ee72df",
+      "3": "#b3e561",
+      "4": "#ee72df",
+      "5": "#ee72df",
+      "6": "#79e4f6",
+      "7": "#98a5fb",
+      "8": "#98a5fb",
+      "9": "#ee4452"
+    },
+    "sz": 40
+  }
+}

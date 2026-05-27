@@ -1,0 +1,41 @@
+{
+  "round_id": 18145,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-26T01:11:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵漢] 雑魚",
+      "team": "🇯🇵漢",
+      "emoji": "👽",
+      "score": "95.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵漢] ゲス殺し",
+      "team": "🇯🇵漢",
+      "emoji": "🤠",
+      "score": "0.63",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵漢",
+      "score": "96.35",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYIICBgYmDAASwyJMFzBQ9o5owEiBLHUAMzNeWXKNxZ+ayDaWGoCZGQAz2wb9",
+    "cp": {
+      "1": "#9851f5",
+      "2": "#ee5d7d",
+      "3": "#ee5d7d"
+    },
+    "sz": 30
+  }
+}

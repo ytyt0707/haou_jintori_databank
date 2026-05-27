@@ -1,0 +1,48 @@
+{
+  "round_id": 7296,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-19T07:17:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 卑怯者",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "50.48",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵グリコ] けんた",
+      "team": "🇯🇵グリコ",
+      "emoji": "🤠",
+      "score": "4.65",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "50.48",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵グリコ",
+      "score": "4.65",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0+EOgCAIRtGr8P7P3DItUKLa+n445xlD3ESOIADSVqDuaQcjfX9prbLEoFVVHaWdsdY4U41VXW31qqeOmZhVVMRNzIV+JsuGAg0exDUOlFg5r50qPyv3Sqp5rccPWma0WlJ9qF3aMmGk7ke8nyjNBrGXBoI=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#e845e3",
+      "4": "#f0c528"
+    },
+    "sz": 30
+  }
+}

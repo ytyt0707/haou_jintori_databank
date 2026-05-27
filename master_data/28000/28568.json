@@ -1,0 +1,72 @@
+{
+  "round_id": 28568,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-22T07:57:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] うゆ",
+      "team": "🇯🇵自民党",
+      "emoji": "😎",
+      "score": "78.18",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] ガーシー",
+      "team": "🇯🇵自民党",
+      "emoji": "🌚",
+      "score": "14.89",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ゆかり",
+      "team": "",
+      "emoji": "💩",
+      "score": "0.83",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[よし！] 不殺の誓い",
+      "team": "よし！",
+      "emoji": "🕊️",
+      "score": "0.72",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "93.07",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "よし！",
+      "score": "0.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵たぬき",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtUcsWxRAMxBz8/x/fQzIRV7SbWpTMSxqArjYXUGy1kkgCpFFKK1JErDDjS6sZmTGBxQIiXU7npUx2leygr4bAdUWXlyhm0Oq0994nvO4fLVOppHZL1PaMNGdkwHbIMr8NsyLnPBq3+u+g7PFflD15gdTSNVlehDnn/pZ87/ktmY9+3vkpUmsUp5OsMasOx14nH4UHWAJmxJbjix9V9gv1",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#994de5",
+      "5": "#e88730",
+      "6": "#994de5",
+      "7": "#30d7e8"
+    },
+    "sz": 30
+  }
+}

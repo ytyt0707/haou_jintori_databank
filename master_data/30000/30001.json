@@ -1,0 +1,44 @@
+{
+  "round_id": 30001,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-03-25T06:09:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ぶりぶり",
+      "team": "",
+      "emoji": "🤖",
+      "score": "14.88",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "運",
+      "team": "",
+      "emoji": "🎰",
+      "score": "1.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "鯖ウォ呪",
+      "team": "",
+      "emoji": "😍",
+      "score": "0.74",
+      "kills": 6
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eAGFkFEWQBEIBa+w/y2/U1IoXl9qjFKBR63VEzkVz6uE5wDKgjcw3PLiT4g3xbNvOlZrrcURucJEIsUTXuRpp669faEqp9T66tihv19I/B9ov85UrqkfsYzBFNk6+3SjCKB3fdgo2YlpH22tRgvO6LISftqC67TKRvRARMOVbx6UTJVfRqoVXsEB967Zgk5B8w83TQKi",
+    "cp": {
+      "1": "#e830ba",
+      "2": "#30e8e8",
+      "3": "#e83053",
+      "4": "#30e892",
+      "5": "#d130e8"
+    },
+    "sz": 30
+  }
+}

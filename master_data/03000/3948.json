@@ -1,0 +1,81 @@
+{
+  "round_id": 3948,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-11T18:06:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🦊",
+      "score": "40.47",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] 福永活也（アホ）",
+      "team": "🇯🇵田中",
+      "emoji": "😂",
+      "score": "5.84",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇹🇼国民党] 中田英寿(公式)",
+      "team": "🇹🇼国民党",
+      "emoji": "😈",
+      "score": "4.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵田中] 生活保護受給者",
+      "team": "🇯🇵田中",
+      "emoji": "🦄",
+      "score": "0.69",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇩🇪ナチス] 馘",
+      "team": "🇩🇪ナチス",
+      "emoji": "🐱",
+      "score": "0.26",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "47.01",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇹🇼国民党",
+      "score": "4.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇩🇪ナチス",
+      "score": "0.26",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90tsSgCAIBNDNWPn/P268oQbKg9Nw3CILsHpclS57LV27IL3O7KLQs2qp0hGJsp1FjIeq7UCg1BYlNt3vy6bBC1Wkaqxjjynmc7HqOFb8w1krxlqSYh/FaR4YaR4az8w8h/JTMVPnD7FoqutbzjrURL4HTSn1uaMoPfqpFM9Zt6Q7qxsSP8VVr1m0Tl0DvdYHlecJ+w==",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#8039ea",
+      "4": "#28f654",
+      "5": "#74ecca",
+      "6": "#74ecca",
+      "7": "#74ecca"
+    },
+    "sz": 30
+  }
+}

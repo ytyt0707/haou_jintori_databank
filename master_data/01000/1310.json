@@ -1,0 +1,80 @@
+{
+  "round_id": 1310,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-05T17:10:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[阪神] さとる神",
+      "team": "阪神",
+      "emoji": "🐶",
+      "score": "30.19",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[阪神] 前川右京",
+      "team": "阪神",
+      "emoji": "🤔",
+      "score": "19.99",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[阪神] 彩喜",
+      "team": "阪神",
+      "emoji": "😂",
+      "score": "10.26",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[特攻隊] 大日本帝国陸軍",
+      "team": "特攻隊",
+      "emoji": "🦁",
+      "score": "9.74",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ソ連] 干し柿",
+      "team": "ソ連",
+      "emoji": "😎",
+      "score": "1.66",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "阪神",
+      "score": "60.66",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "特攻隊",
+      "score": "9.74",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ソ連",
+      "score": "1.66",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd1FsOxCAIBVCuFfe/5ImAD5RqM/enTecI0jElsiQNETFTlOTDcyDL6sIUsYGp+6gaejh2Wi01RdZ2ayxrzZUijrwDDCZ9glKKzmmVHUt9VeRQyzSRsjZtbYebauWMOm0RpnMgdECrtrp6M2YFSBiWiOuvvz3d2IvbY/0nGGN1/ME9zr019+VeN1nHeBYXUJbtLUfz7I4FWV7ftW3sgjHEXauZeza329FXLuRclshlnC+3zfrnZZfmZjYVCx1sqrNrnxvbxcqCgHjd36tjws3pKaRrQR367qRzn4ROTtJ+/+CcP8BR+OT+yg8J8wyg",
+    "cp": {
+      "1": "#eccb8d",
+      "2": "#eccb8d",
+      "3": "#eccb8d",
+      "4": "#99ec8e",
+      "5": "#eccb8d",
+      "6": "#82fcdc"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "round_id": 18350,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-26T12:18:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇰🇷みん²] 민민",
+      "team": "🇰🇷みん²",
+      "emoji": "😀",
+      "score": "24.53",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "さと",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.73",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷みん²",
+      "score": "24.53",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYsIBGHBJDHbAwMCAyoMCOBtZEFOWHMCIV5KREbc8SA6fLH5zKbCVgCweg/FYOpQAM15JArJ4pUkGAKe0AfM=",
+    "cp": {
+      "1": "#35e364",
+      "2": "#e3f524",
+      "3": "#c26feb"
+    },
+    "sz": 30
+  }
+}

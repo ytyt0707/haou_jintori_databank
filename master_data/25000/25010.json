@@ -1,0 +1,66 @@
+{
+  "round_id": 25010,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-14T06:51:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 廃古参レゼ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "19.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] おんちゃん",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "9.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しIR",
+      "team": "",
+      "emoji": "🐷",
+      "score": "5.39",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵自民党] アベベ",
+      "team": "🇯🇵自民党",
+      "emoji": "👁️‍🗨️",
+      "score": "2.67",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "29.88",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "2.67",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklESxCAIQ2MTuP+Rd0Cp2ro7S3/U15AUCwAtCvEsdV1X7hJKbYUNA3Zp1y/ae9nF0f1UiraSjgwBAx+oZAPySEvKqP2NNEzfhC8aeSR1SLZVP0bxL928b+3des12olbZrE952la4NPhOnYRl5/bWujthZPAX9SjYgFtikkndSOWwMk0MucdCYqs5AjYuYHxv4KLL1QwKd8BEYLv3dZQmYf8ralDRzmaV73SZLFZ5Xuksgiafrz9Wt+Zx3re/6VFShx9RjgWi",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8B4513",
+      "5": "#30e8b4",
+      "6": "#d4c811"
+    },
+    "sz": 30
+  }
+}

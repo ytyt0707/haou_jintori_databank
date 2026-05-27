@@ -1,0 +1,89 @@
+{
+  "round_id": 15295,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-15T05:44:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "27.78",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "16.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] ナチス",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "8.85",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 最弱/重音テト",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "8.26",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦁",
+      "score": "0.06",
+      "kills": 7
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵ゲスト] 自認ロゼ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👻",
+      "score": "0.06",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "33.11",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "27.78",
+      "kills": 11
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.12",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90QkOxCAIBdCvwOTf/8QToC5YZ0jamjxZtCIiAuQTSyBe8ZWx3GJu8xWkyYVDRGBNIBecFUqHAyHvwkhtOTHUzFQvuWIa+HDKZzYzS0zec9XDRuhR2fdXxZ5b9LgOYKnuQ/un0ZQkjUrGCFoqw8hI5OSpDQDXSFW9i2qeNhNJ3QuvmfLgZFUrURVP2aHn342LHpn6R/3oE8mLclzH1GcDfyry2kKxtPfe1oaNY9GK4lD0flZ35avvyF7z/YjQL28RCX8=",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#e3f63c",
+      "4": "#ea3489",
+      "5": "#ea3489",
+      "6": "#8246f1",
+      "8": "#ea3489"
+    },
+    "sz": 30
+  }
+}

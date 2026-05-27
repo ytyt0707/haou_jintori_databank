@@ -1,0 +1,68 @@
+{
+  "round_id": 10605,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-02-01T06:40:11.000Z",
+  "players": [
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵みん²] いなみや",
+      "team": "🇯🇵みん²",
+      "emoji": "😎",
+      "score": "4.71",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇩🇪ナチス] 矢野彩喜",
+      "team": "🇩🇪ナチス",
+      "emoji": "🤖",
+      "score": "0.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵三遊亭] 圓楽",
+      "team": "🇯🇵三遊亭",
+      "emoji": "🦁",
+      "score": "0.63",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵みん²",
+      "score": "4.71",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇩🇪ナチス",
+      "score": "0.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵三遊亭",
+      "score": "0.63",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eJx101EOxCAIBFC6U2XY+x94I4i16vJRDS9CsanIvyCZ2+93ZFWVPXbVoyYPep+9Nhwqcl0iZqanyh5mpOp937pqadpx01JECKUXtkVLUwD6TwvQmcJVDTB/5cNEBbDQFdszDraJSAIDSVprOCNylVhcM+fqa5uy64PNd8Ua4pcQxT4HtcRd/cNES/lE5VpRax1nU6Nvjej63AImnJWhnLTOaszJNpUojYnx6htqh3k7b/QMHDHnU7t7av3VfnDzD6c=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#6cefe4",
+      "4": "#dcf863",
+      "5": "#6cefe4",
+      "6": "#f65195",
+      "7": "#6cefe4",
+      "8": "#6cefe4",
+      "9": "#6cefe4",
+      "10": "#f9ae53"
+    },
+    "sz": 30
+  }
+}

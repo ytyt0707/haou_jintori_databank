@@ -1,0 +1,99 @@
+{
+  "round_id": 5852,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-16T01:12:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "a",
+      "team": "",
+      "emoji": "👻",
+      "score": "14.95",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "🤔",
+      "score": "12.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "アナ",
+      "team": "",
+      "emoji": "😀",
+      "score": "8.28",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "7.18",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] 山上徹也",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "1.65",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "1.48",
+      "kills": 6
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵幻魔帝] カミカゼ",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "😀",
+      "score": "0.05",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "23.53",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "12.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵幻魔帝",
+      "score": "0.05",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0eEOBBEMBODZNoPw/u97KarIXnI3//i0qzalBCQPrqQzv2prrX3RNvKX4lZ8L23Xze7a59nYIOccChiLJIzC3HMqRLChs+mzNEfOziLIQEYGDx0mUkqxBUmv9gkEgqnm3j60LI36+Cdd+wa5uk9T1aKqtmZ0zo5mWo6ZRyf1kLTG+wFLHTSVvLTWqRxqz7IrPf3KiNpqGjxbTK3aaX2ZUTzGodLv5Wc29XnINderUulPe+roT+I188yx+QEqAA3y",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#af5fec",
+      "5": "#af5fec",
+      "6": "#eb3db7",
+      "7": "#6cf830",
+      "8": "#af5fec",
+      "10": "#af5fec",
+      "11": "#64e1f2"
+    },
+    "sz": 30
+  }
+}

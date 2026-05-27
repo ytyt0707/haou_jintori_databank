@@ -1,0 +1,48 @@
+{
+  "round_id": 7760,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-20T08:23:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚蓮] 雑魚の悪魔",
+      "team": "楚蓮",
+      "emoji": "🐷",
+      "score": "35.73",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳😪] 🧠",
+      "team": "🇨🇳😪",
+      "emoji": "💩",
+      "score": "1.04",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚蓮",
+      "score": "35.73",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳😪",
+      "score": "1.04",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyVkgsOgCAMQ6nb/c9smHy6j0QXg4XnKkVb+1nAZyrShykMm5BBrez+TAHxlK0EUlHZThKcx9KBPoX1wCtdCSIEO6dmUIbLjqGglJId4NYzpZNcuF87rqM+X1fKjYGqqqbWVsG4ubwrj91XzbnO8G8r44rOSKde/n2j7dAVXbp+r6sbeSoEAw==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#71ef7f",
+      "4": "#f28b69"
+    },
+    "sz": 30
+  }
+}

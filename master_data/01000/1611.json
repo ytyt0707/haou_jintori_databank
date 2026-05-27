@@ -1,0 +1,94 @@
+{
+  "round_id": 1611,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-06T09:25:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[庶民] 五条さとる",
+      "team": "庶民",
+      "emoji": "🐶",
+      "score": "30.85",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[真理教] 松本智津夫",
+      "team": "真理教",
+      "emoji": "🦊",
+      "score": "13.57",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "🐱",
+      "score": "1.98",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] ブーン",
+      "team": "猛虎軍",
+      "emoji": "🦄",
+      "score": "0.62",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🤠",
+      "score": "0.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "😍",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "庶民",
+      "score": "30.85",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "真理教",
+      "score": "13.57",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "仙台藩",
+      "score": "1.98",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "猛虎軍",
+      "score": "0.87",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzd00kOgCAMBdBfq97/yAZkKGUqRjf+FYFn02ABABwxbo0y6SArmXIfXVd9teRmdqmeATp1LvRngmqn67Y5i+6+HIRFz2179T99iKQrmZRESXqnJqQFS8cjlxUz145aTDgE1nYHhwHC2KWa8jFk5061Sw00SimnnxUP4AP3sFwfvt4hbOpbN2CwKTfJRsdhav6eC4sbDLQ=",
+    "cp": {
+      "1": "#e8e87d",
+      "2": "#87e963",
+      "3": "#afa2f1",
+      "4": "#87e963",
+      "5": "#fe8f85",
+      "6": "#48d1ea"
+    },
+    "sz": 40
+  }
+}

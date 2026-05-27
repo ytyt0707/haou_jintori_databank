@@ -1,0 +1,63 @@
+{
+  "round_id": 34841,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-07T08:26:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵きゅ] きゅっきゅ",
+      "team": "🇯🇵きゅ",
+      "emoji": "🧿",
+      "score": "25.45",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しae",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥶",
+      "score": "1.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しiO",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵きゅ",
+      "score": "25.45",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtklkOwCAIRIel979yg1oqok2MnfghPGdcIjBIARtVI2vtfRqNqtonJ/gXzcF98gl9HujN6C/k7+c40lI568/k6x7qjThpODa9miY63ZmcJBUv2W+aiwAC0QIS0ZrCqC1YqNLrk87NwjU7WxkQ02pfYywi2WkdZrDdd6Ybnu4D9w==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e83098",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

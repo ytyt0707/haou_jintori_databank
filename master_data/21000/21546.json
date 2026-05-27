@@ -1,0 +1,72 @@
+{
+  "round_id": 21546,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-05T19:53:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "😂",
+      "score": "31.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "大家ぷゆゆ",
+      "team": "",
+      "emoji": "🦊",
+      "score": "11.07",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😈",
+      "score": "9.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[たぬぬ] たぬたぬ",
+      "team": "たぬぬ",
+      "emoji": "🦊",
+      "score": "2.49",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "31.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "9.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "たぬぬ",
+      "score": "2.49",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkVsWxCAIQ1HQ/S+5J+CDdKrDT5VrIFDRGSLFo5XWWpMmiAlVFRAEcISq1vEipJkCTAqxyIvWSvhMpZTQjs4onKXLlxtLlsn08H3Gr3lDjKQ7Q23S9t577AH8l44dzbFJu9gnVV08lkJaovhNTJfUbZ8pOv+hXJhM3foOB6TeruYp4Zmir4/pK96LpgdIp9jMzCSBOC5sZnah8oFJm7igzYJ+QHUvz+n77QGMpwgT",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#bcd411",
+      "5": "#30e881",
+      "6": "#6e4de5"
+    },
+    "sz": 30
+  }
+}

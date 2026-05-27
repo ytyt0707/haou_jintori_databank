@@ -1,0 +1,48 @@
+{
+  "round_id": 10965,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-02T02:07:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇹🇼南関東] 松井宏佑",
+      "team": "🇹🇼南関東",
+      "emoji": "🐷",
+      "score": "16.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐱",
+      "score": "0.60",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇹🇼南関東",
+      "score": "16.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "0.60",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJzdz+EOgCAIBOA75P2fuSmuAqGaP7vp3PxEBfgWnYvaDKgY+zOLugQlXxjKkpXdC1V4zK5ureXYFTnS8OosFhKP6modc4wa7UDVkPD+qFcBKOe3Yq8iwrjntEa7ezP7lb/KAYlLAp4=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#30c2f8",
+      "4": "#ea61b3"
+    },
+    "sz": 30
+  }
+}

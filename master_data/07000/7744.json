@@ -1,0 +1,62 @@
+{
+  "round_id": 7744,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-20T07:31:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😈",
+      "score": "40.63",
+      "kills": 14
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "0.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇷🇺チー牛] チギュりパンで草",
+      "team": "🇷🇺チー牛",
+      "emoji": "🐷",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "40.63",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "0.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺チー牛",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9ktsOgCAMQ0vs/v+XjQ4cxUGMMS4kPJyV7gKgQeJdrHVf0LKiJaMkeyw5VikdH1GBmTWx60uPOVCBMIBbo+BgSY2k2qc06/QPLfveeceRd5459dVN6GWdJSxtK431SEWh9Y/TWwZNGsdVVdxRHHRqFDmQjFyexw6pxgYW",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#b0ef5d",
+      "4": "#e74659",
+      "5": "#ef4dd2"
+    },
+    "sz": 30
+  }
+}

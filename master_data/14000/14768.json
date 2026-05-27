@@ -1,0 +1,46 @@
+{
+  "round_id": 14768,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-13T23:24:21.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸CIA] パンテオン",
+      "team": "🇺🇸CIA",
+      "emoji": "👻",
+      "score": "0.09",
+      "kills": 12
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇹🇼楚] 泉サキ",
+      "team": "🇹🇼楚",
+      "emoji": "🤠",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸CIA",
+      "score": "0.09",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇹🇼楚",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYBjhgImANBNeFfh145RlYiJb6ygYvICRPH0AMAsAFg==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2"
+    },
+    "sz": 30
+  }
+}

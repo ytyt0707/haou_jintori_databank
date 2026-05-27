@@ -1,0 +1,73 @@
+{
+  "round_id": 2443,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-08T08:27:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ぷゆゆ] 安倍晋三",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🤖",
+      "score": "29.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ぷゆゆ] 蓮舫",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🦁",
+      "score": "29.20",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ぷゆゆ] よっぴ",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐲",
+      "score": "8.74",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ぷゆゆ] だぼす",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🤠",
+      "score": "5.86",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵みん²] 女です💕",
+      "team": "🇯🇵みん²",
+      "emoji": "👻",
+      "score": "2.64",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "73.16",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵みん²",
+      "score": "2.64",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJy11EmSwzAIBdCPQfe/cpeYhMbKplkkLucFJIQN/HMwc//Y7jeqwRGbo3ZiC2TgnO7m2ub4x3zrCq+OH+6yQNncuTEvd15f2+sm1EsD7eRIafyleRCRzFQvXSZrRFIdkoto3QzpQRSlvLI5nhw0IxqhVmYRKc7T2ZaCkf8SCQ35Arszm04TikSugXp9MPv+upMR2UN3UCeLo0iD0fNcE1bHNxfQN0gMXSEOjkwZ1JM45dNmfd/3eWdjH/3bz93yOTM5jWJezm5mdYTFTv2Ybpr0hRXI9Q+cDk+Xw7blm58v34ZCrm5aqdaNFpchLvM33A7LgzRa2c/tCfFycW9MDurzNVhMUER5EfoLYg+9/Qej+Au4",
+    "cp": {
+      "1": "#ec88d2",
+      "2": "#fef13e",
+      "3": "#ec88d2",
+      "4": "#ec88d2",
+      "5": "#ec88d2"
+    },
+    "sz": 40
+  }
+}

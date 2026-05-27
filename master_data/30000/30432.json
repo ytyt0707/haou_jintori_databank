@@ -1,0 +1,81 @@
+{
+  "round_id": 30432,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-26T06:44:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😀",
+      "score": "60.23",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ベネット",
+      "team": "猛虎軍",
+      "emoji": "🤗",
+      "score": "25.79",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "董卓",
+      "team": "",
+      "emoji": "🍖",
+      "score": "5.67",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しpg",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[十字軍] ド騎士",
+      "team": "十字軍",
+      "emoji": "🦄",
+      "score": "0.08",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "86.02",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "十字軍",
+      "score": "0.08",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkksSg0AIRBmDcP8bp7r5TJw4cRE2go+GplSVIeoIiUrV1BBZk3mxQPfU3Sk0M7aH0l1jflG90upKbS6Kt9bQTTBbla7m68xi747CdB/wpQWBx4PJigFx/T3Nbj2AV2nX1G4xtRuq8muyCH31nmsCunf1B5VHLYxw+Y0D/G2TrXeL4FtUzIOiLxcTT9ZZH/wx9VX0wTRNVW8+MY/pkIWgbBdFy7Xq3DUGqSAmz7nnGOcbqwQUEg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83042",
+      "4": "#47e830",
+      "5": "#8B4513",
+      "6": "#30e8e8",
+      "7": "#47e830"
+    },
+    "sz": 30
+  }
+}

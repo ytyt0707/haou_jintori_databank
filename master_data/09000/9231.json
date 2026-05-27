@@ -1,0 +1,42 @@
+{
+  "round_id": 9231,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-24T10:48:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵おんj] ホスト",
+      "team": "🇯🇵おんj",
+      "emoji": "🐷",
+      "score": "5.83",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "まんこ",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵おんj",
+      "score": "5.83",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYCAImAkrGVSAhYWFBb8sbmkWvNJgObyyhIzG7y4yZQnbC6KZmJhItha3ZykFjBTIDjcAANfWAOA=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#8b4ff3",
+      "4": "#e9ba63"
+    },
+    "sz": 30
+  }
+}

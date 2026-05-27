@@ -1,0 +1,57 @@
+{
+  "round_id": 15004,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-14T12:10:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵グリコ] けんた",
+      "team": "🇯🇵グリコ",
+      "emoji": "🐱",
+      "score": "82.85",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "さとる",
+      "team": "",
+      "emoji": "🤠",
+      "score": "1.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵しね] ころす",
+      "team": "🇯🇵しね",
+      "emoji": "🐲",
+      "score": "0.66",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵グリコ",
+      "score": "82.85",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵しね",
+      "score": "0.66",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9k0sOwCAIBR8V7n/lxmowVD5Nm/QtNDKO6EIAQJvByJz7uhdbEITkCRURsaU1Xq74pkNtp7RvTr+96DVF5fqYaorK9TsSEVm6b9xdZtbNCY3cpbu3yml88g/00J9zyxAjqjkBe50JAw==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#4979f3",
+      "4": "#45f2d2",
+      "5": "#f3c33f"
+    },
+    "sz": 30
+  }
+}

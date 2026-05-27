@@ -1,0 +1,55 @@
+{
+  "round_id": 384,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-03T15:13:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[もんも] ゆめちゃん🤥",
+      "team": "もんも",
+      "emoji": "🦄",
+      "score": "27.24",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[もんも] 伊達綱村",
+      "team": "もんも",
+      "emoji": "🤠",
+      "score": "3.86",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[草] 草",
+      "team": "草",
+      "emoji": "🦊",
+      "score": "1.36",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "もんも",
+      "score": "31.11",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "草",
+      "score": "1.36",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt1usOgyAMBeBT+v7vvOgEC3SnMJZME88PE5RvFPAygESEXaUR10oOk2c3TzK7XRQaQhHQj1Yq6/8MsVWnCdt2mqk5mCnBY/JSdmXYUfzrZQ6xUnti1TJMbuQzoa3G0/0QWThqY6r7kVs0tkowrl+2pbPWzJa/B+1+9MsuyizagQR7CyMWZW1zicZqbAvGYXWsZrNcKRWrxxoEFo2t9jeyOGZqSs42mu/b2naxGtv2e2ZsSLvP6HlTD9rk+JhuNrXnBqmfBXrhLPzLQfredltzh6RbVv3k31l5xlbsk8m8AB3yBO8=",
+    "cp": {
+      "1": "#ea7577",
+      "2": "#75ee68",
+      "3": "#ea7577"
+    },
+    "sz": 60
+  }
+}

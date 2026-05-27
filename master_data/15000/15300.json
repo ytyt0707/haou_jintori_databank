@@ -1,0 +1,90 @@
+{
+  "round_id": 15300,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-15T06:05:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新鯖♡] 自認ロゼ",
+      "team": "新鯖♡",
+      "emoji": "🐷",
+      "score": "17.13",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "1.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[新鯖♡] 新鯖♡",
+      "team": "新鯖♡",
+      "emoji": "🐶",
+      "score": "0.42",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[テスト] テスト",
+      "team": "テスト",
+      "emoji": "🦁",
+      "score": "0.30",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[テスト] 覇王/束音ロゼ",
+      "team": "テスト",
+      "emoji": "😎",
+      "score": "0.17",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[テスト] 最弱/重音テト",
+      "team": "テスト",
+      "emoji": "😈",
+      "score": "0.10",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新鯖♡",
+      "score": "17.55",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "1.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "テスト",
+      "score": "0.57",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJzlkM0OwCAIgxvtJr7/Cy8yRYxmP6cd1pPpJxQAPlYI9iS5pKyaYTHZZUQMqxvtl0IR9qZEHBIK9YquOz2Em0zn2JJA7QUlU9rR3Lou2hgl1W7gNzxLpVdgpnXbWauTPaU/V86X8Aa/jTsAYBgDag==",
+    "cp": {
+      "2": "#47f0cb",
+      "3": "#4e6ff4",
+      "4": "#4e6ff4",
+      "5": "#b3f52e",
+      "6": "#b3f52e",
+      "7": "#b3f52e",
+      "8": "#47f0cb",
+      "9": "#e68c3d"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "round_id": 12469,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-05T11:26:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐲",
+      "score": "42.79",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤔",
+      "score": "29.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ハゲ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😀",
+      "score": "9.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇸🇦bot] 🤠",
+      "team": "🇸🇦bot",
+      "emoji": "👽",
+      "score": "0.31",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "😂",
+      "score": "0.06",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "82.23",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇸🇦bot",
+      "score": "0.31",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵万華郷",
+      "score": "0.06",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9kwsOwzAIQ715uPe/8UQICgnZLKWV+mp+pWYukAAYwpIzscJK5VSiwUgkzZecUKSZ0ViV1COP9PF43p0yrJJVJXafH+oXZaOWeUk+TyaO5g8aZm1eoEamtJf2n9qigo/M7jR8y4wLNT+f3YtJt5KX9/1Ww6vmGKYdsNY8gl+9926HKu1YMdHRbMfA2KPZRPO+clWudK1ZTvBO2aNXekav37dRnHT9PXNWrrhKOPUFamsNMg==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#75b6eb",
+      "4": "#67f34f",
+      "5": "#75b6eb",
+      "6": "#75b6eb",
+      "7": "#7162f3"
+    },
+    "sz": 30
+  }
+}

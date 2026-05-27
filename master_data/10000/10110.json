@@ -1,0 +1,43 @@
+{
+  "round_id": 10110,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-01-26T10:19:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "万華武者",
+      "team": "",
+      "emoji": "🤠",
+      "score": "18.46",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "大日本帝国陸軍",
+      "team": "",
+      "emoji": "🦁",
+      "score": "8.04",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "パンテオン",
+      "team": "",
+      "emoji": "😍",
+      "score": "0.07",
+      "kills": 5
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJzNzFEKACAIREEt73/moMSidCPqoweCMLBEblLzTdFVsV4rYSWs6hE2jnXHSwliwtxf5rPljX5ZtmJZfKZBHbrUd9P2t9MKgU4DJA==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#8045ed",
+      "4": "#5596f6"
+    },
+    "sz": 30
+  }
+}

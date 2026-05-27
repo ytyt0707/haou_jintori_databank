@@ -1,0 +1,79 @@
+{
+  "round_id": 12429,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-05T09:16:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] いなみや",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "59.94",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "24.14",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵特攻隊] 大日本帝國陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "👽",
+      "score": "3.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "💩",
+      "score": "0.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🤖",
+      "score": "0.05",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "84.08",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "3.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵万華郷",
+      "score": "0.05",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJydk4EOgCAIRFk38P//uGFCoLSsW83N53GYSaRCFCUBENFXdMirMOZNAeojhdxcQXH7b0qWe+zmUsRl5R36tKNOLeUzDR1WtLW26aV7ZnzFuTLS6V7UMSZpLadYMMjpCtUZC+eElAvm/PPNlJnvduOOeuwr7QtW6rCitVXS8TNzNtllkkp0ArqfEEU=",
+    "cp": {
+      "2": "#38f587",
+      "3": "#f6557b",
+      "5": "#ed50a1",
+      "6": "#f6557b",
+      "7": "#2eeef5"
+    },
+    "sz": 30
+  }
+}

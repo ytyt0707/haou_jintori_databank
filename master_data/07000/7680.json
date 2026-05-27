@@ -1,0 +1,96 @@
+{
+  "round_id": 7680,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-20T04:03:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸CIA] パンテオン",
+      "team": "🇺🇸CIA",
+      "emoji": "🦊",
+      "score": "19.18",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇷🇺チー牛] チギュりパンで草",
+      "team": "🇷🇺チー牛",
+      "emoji": "🦊",
+      "score": "14.26",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵うゆ軍] 地球人chつべ",
+      "team": "🇯🇵うゆ軍",
+      "emoji": "🐲",
+      "score": "4.03",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇸CIA] 茶",
+      "team": "🇺🇸CIA",
+      "emoji": "🐷",
+      "score": "1.95",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🦊",
+      "score": "1.51",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇷🇺チー牛] あそ",
+      "team": "🇷🇺チー牛",
+      "emoji": "👽",
+      "score": "0.53",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸CIA",
+      "score": "21.14",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺チー牛",
+      "score": "14.79",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵うゆ軍",
+      "score": "4.03",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵阪神",
+      "score": "1.51",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy1z1EOxCAIBNBZ6oD3P/EGrRZTarLZdD4M4QlRgCSA48CIl2zx+pZaaz35Vw2Yz6pSVZv2e4yuHuaqOnW8/q7zi6eWUp7U2Q+SCcZEHb1RmFn/7aogzZFNrRvAazmAPmtTkSliLkXTDNfmwpgoD5e2KCKymdzu/CevLQY+762O+QJxhgbj",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#b3f52e",
+      "4": "#b3f52e",
+      "5": "#dc32ec",
+      "6": "#eeb52f",
+      "7": "#dc32ec",
+      "8": "#f9544e"
+    },
+    "sz": 30
+  }
+}

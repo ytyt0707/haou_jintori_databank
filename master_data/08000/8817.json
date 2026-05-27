@@ -1,0 +1,47 @@
+{
+  "round_id": 8817,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-22T17:44:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵エバ国] 安倍晋三",
+      "team": "🇯🇵エバ国",
+      "emoji": "🐷",
+      "score": "57.78",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "😍",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵エバ国",
+      "score": "57.78",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵万華郷",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0VEOgDAIA9CGev8zm+BUYECm64dR3upmBK5QLyTuZ425TfJH0arFXsttuaHbnws3iFiVe+0YT8bgyLnvghSRUkE1vD/PK8WMpwXhvXM7WjhZLK6rW4FOkaear+RL9wQc0AYs",
+    "cp": {
+      "2": "#cbf26e",
+      "3": "#28f3f6",
+      "4": "#ee689b"
+    },
+    "sz": 30
+  }
+}

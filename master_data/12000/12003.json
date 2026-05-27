@@ -1,0 +1,71 @@
+{
+  "round_id": 12003,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-04T10:14:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] パンテオン",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😂",
+      "score": "38.40",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] やの",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "27.44",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👽",
+      "score": "5.78",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇦=△=] (・3・)",
+      "team": "🇨🇦=△=",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "44.18",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "27.44",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇦=△=",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNz1sORCEIA9BqmO5/yRNUfFzLnekPMQdQzXqKlVJIoxm9sFavoW796JXVs9S4eoOnnhmzFVo7Uqu1S1Id+a1ZB0OvBpKoyZM8AOV/GcG1Ehvj5kOTpUrxrsgVLYd6Pj1PHJrxX7qx2LyUSjXjwU1xK+JZcnbLu84GBVD3zqlt9gsZ1gyF",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "4": "#aae755",
+      "5": "#aae755",
+      "6": "#f26431"
+    },
+    "sz": 30
+  }
+}

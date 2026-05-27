@@ -1,0 +1,118 @@
+{
+  "round_id": 12497,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-05T12:57:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ゴミチーム] a",
+      "team": "ゴミチーム",
+      "emoji": "👽",
+      "score": "30.79",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ゴミチーム] ゲスト",
+      "team": "ゴミチーム",
+      "emoji": "🐲",
+      "score": "26.05",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ゴミチーム] 島田兵",
+      "team": "ゴミチーム",
+      "emoji": "🐶",
+      "score": "18.68",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ゲスト] ガスト",
+      "team": "ゲスト",
+      "emoji": "🦁",
+      "score": "1.84",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😍",
+      "score": "1.19",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🤔",
+      "score": "0.94",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "😀",
+      "score": "0.33",
+      "kills": 6
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[ゲスト] 利敵する殺して",
+      "team": "ゲスト",
+      "emoji": "😍",
+      "score": "0.05",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ゴミチーム",
+      "score": "75.52",
+      "kills": 21
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ゲスト",
+      "score": "1.89",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵田中",
+      "score": "1.19",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇻🇳謎の男",
+      "score": "0.94",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇬🇧珍走団",
+      "score": "0.33",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJx10VsSxCAIBMBBWPD+J97CVyBB/mI7okQklaaCSMVYHOEb/mZR6+iSEMgoqhI13YuZhcqsx5k5oD9Jw9kejYx4M+b2S4x9cYyu3EQH0+ybn9XanhYREc7M5hZb0yJS19Oid8ADfqbnVJ+o9qVmM+p8tA9VVTObPaMqul4VezJqRrue33XOEJFCZT6LQgXF9KgYfSkvBsQYS6UYRbUevB1757eiQnwWsPamhctHUUf/3O0LIg==",
+    "cp": {
+      "1": "#7c4cf6",
+      "2": "#f5bf5c",
+      "3": "#62d8f9",
+      "4": "#7c4cf6",
+      "5": "#62d8f9",
+      "6": "#7c4cf6",
+      "7": "#f02d57",
+      "8": "#e76540"
+    },
+    "sz": 30
+  }
+}

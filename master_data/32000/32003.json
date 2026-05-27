@@ -1,0 +1,73 @@
+{
+  "round_id": 32003,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-30T05:14:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] 山上徹也",
+      "team": "🇯🇵自民党",
+      "emoji": "😂",
+      "score": "36.95",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 👶🏻🎀",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐹",
+      "score": "13.17",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.51",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 爆弾/自認レゼ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🎀",
+      "score": "0.19",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] うんちょ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐱",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "36.95",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "13.45",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkdsOwzAIQw1Rxf//8WRza9c9DGlawjGOmwBdjqPlwWE5f80AblVJc7n41i1dmpVipk+5PyhwGzdqxziyyhPufnxTFY0ICkA2dFlEsJ8FRASi/lLEQRNWm03Mame3NfEQjOTU5MR15TC1pVIo1/BVuE6g4EzmCsx8PcuvorVZdktSvC+lqI5LRRqLm5mOvtF0lzeExfYEbYlJ7Qvq5vRcAHOpNlfou/ONflHe/DzRa1ZvQ0nXzTifbK6Gir/pSNu3RvW3Tk3l+9iw82jkJgOMC5uVaVdvs9aUNOIDbhkLTA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "5": "#30a3e8",
+      "7": "#aad411"
+    },
+    "sz": 30
+  }
+}

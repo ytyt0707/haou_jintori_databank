@@ -1,0 +1,48 @@
+{
+  "round_id": 10803,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-01T17:22:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳まんこ] 女殺し",
+      "team": "🇻🇳まんこ",
+      "emoji": "😈",
+      "score": "64.24",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳みん²] 爆弾/自認レゼ",
+      "team": "🇨🇳みん²",
+      "emoji": "🐱",
+      "score": "9.74",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳まんこ",
+      "score": "64.24",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳みん²",
+      "score": "9.74",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl01kOgCAQA9A65f5nNuzDULfYP/IoQhAghISNRATJYVaGI3VknFXusVullTrrNuSEDLr7qETGlK6YGdO1v9GVj039BKeNk+5GBXlsSy/dHN/Fy5XXE6kjfVONTdU94U7RVd0xmvbfNJhThb8U+rvz0Szvx0vNCTOACGc=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#6350f1",
+      "4": "#dbec46"
+    },
+    "sz": 30
+  }
+}

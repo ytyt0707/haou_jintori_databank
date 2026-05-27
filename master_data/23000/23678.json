@@ -1,0 +1,57 @@
+{
+  "round_id": 23678,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-11T06:40:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "😍",
+      "score": "29.42",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 🎀",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐹",
+      "score": "7.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "⚾",
+      "score": "7.37",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "7.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "7.37",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kUsSgCAMQ0OB+1/ZSVOKfLQbHV+TQCwlBvUYAHB6EH34pdICtV6cq6xvxK3pDGpvE9oPSutSvmDQsOZWe0cU5TKaKbW21uZCAXiqHMLEaioZgEn51YvcsbJpS8wt35BxBPMoIXa6wDqhvJN6AxGcsaI2YoV3KrxLdZ0Gc7wp47Ktd8dx3TRWGejEFv9+aRIg7GbdNUdX1Nmgo6thL6V1abPEwKQ+Y30JHnBqr3ho+fTz8+XQvrf+6Sp9AOP6BiA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e230e8",
+      "4": "#30e8e8",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

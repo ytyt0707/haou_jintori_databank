@@ -1,0 +1,46 @@
+{
+  "round_id": 12563,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-05T16:31:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[最強猛虎軍] a",
+      "team": "最強猛虎軍",
+      "emoji": "🤠",
+      "score": "0.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[⚤] 御奈新ヶ万出機内",
+      "team": "⚤",
+      "emoji": "🦁",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "⚤",
+      "score": "0.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "最強猛虎軍",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYBgFowATMNFDKyMFsvikGaGAbLMpAGSYDAARlAAS",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587"
+    },
+    "sz": 30
+  }
+}

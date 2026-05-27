@@ -1,0 +1,64 @@
+{
+  "round_id": 1158,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-05T08:18:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[妨害隊] 1位妨害するだけ",
+      "team": "妨害隊",
+      "emoji": "🤖",
+      "score": "33.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "18.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[妨害隊] 股開け",
+      "team": "妨害隊",
+      "emoji": "🦊",
+      "score": "0.09",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[妨害隊] マドロック",
+      "team": "妨害隊",
+      "emoji": "🦊",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "妨害隊",
+      "score": "33.72",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "18.21",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0ksOgDAIBNAZ6v3PbLQ/FFqJbiobE/IESgu8CBI8ItVA/WqUzcUl66gi6AzznWXf3BRmIQG3hQ4SdGo6kWFfXphIu69xPTldiT6BaSsanhlwMF5zJQPc11dlOTLzOxu5thxbz2Fkd7eH7HPtckVTGdZNBljdeXAp58CSn7vpJryWAYdH13+IsX/GDpOaBVY=",
+    "cp": {
+      "1": "#a9fa6b",
+      "2": "#a9fa6b",
+      "3": "#5e52fe",
+      "4": "#a9fa6b"
+    },
+    "sz": 40
+  }
+}

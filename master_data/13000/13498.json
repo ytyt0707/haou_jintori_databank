@@ -1,0 +1,83 @@
+{
+  "round_id": 13498,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-11T02:45:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] スマホ勢",
+      "team": "猛虎軍",
+      "emoji": "🦁",
+      "score": "28.35",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ゾルトラーク",
+      "team": "",
+      "emoji": "🤖",
+      "score": "19.75",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "パンニバル",
+      "team": "",
+      "emoji": "🤖",
+      "score": "15.63",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "👻",
+      "score": "7.58",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[猛虎軍] 新鯖..何回目や",
+      "team": "猛虎軍",
+      "emoji": "🐷",
+      "score": "0.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[ガイジ] チギュアってて草",
+      "team": "ガイジ",
+      "emoji": "🦁",
+      "score": "0.04",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "35.98",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ガイジ",
+      "score": "0.04",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNkuESwyAIg+NtIb7/E+9AaZV13vjDlc8Q0AJAR8eP6HcUYrbRXmCh/Uz7n9TsQO2J4qSdRIIkw04lACQVUbWS6OFN1ZQ0zRaoJtKw+SX15iBb3PSX1Ny4tRYPsWkdxmROOebMpEnpRxFlBOW1TMSQxAlG48JCPPIOxWk38Q4V3jnMBbmkm7o/orJ6IxeyA32/suWjtk61+661bEDlRuUe5tgTlrvIz9nXHmydghq/WTyrxblL+gGwiRCh",
+    "cp": {
+      "1": "#f74b59",
+      "3": "#96f529",
+      "4": "#5bcff5",
+      "5": "#556af1",
+      "6": "#5bcff5",
+      "7": "#5bcff5",
+      "8": "#ea66af"
+    },
+    "sz": 30
+  }
+}

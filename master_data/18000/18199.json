@@ -1,0 +1,41 @@
+{
+  "round_id": 18199,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-26T04:06:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[おから] パンテオン",
+      "team": "おから",
+      "emoji": "🤠",
+      "score": "65.37",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[おから] パソコンマン",
+      "team": "おから",
+      "emoji": "😎",
+      "score": "30.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "おから",
+      "score": "95.46",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJzdzjsOwCAMA1Cb3P/OFXQgVLHFQBcsZXr5ResJlVph1c9mlfizDi57NrS7U3H9fqXQ4SQLxdTsbR3muvuj8quzCq+W8RaAKIIH41IJUg==",
+    "cp": {
+      "1": "#2ff933",
+      "2": "#6353f3",
+      "3": "#6353f3"
+    },
+    "sz": 30
+  }
+}

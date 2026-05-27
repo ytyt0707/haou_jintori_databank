@@ -1,0 +1,141 @@
+{
+  "round_id": 1020,
+  "game_mode": "TEAM",
+  "player_count": 15,
+  "played_at": "2026-01-05T01:33:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🦄",
+      "score": "22.03",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[サム8] 八丸くん",
+      "team": "サム8",
+      "emoji": "😂",
+      "score": "15.12",
+      "kills": 14
+    },
+    {
+      "rank_position": 3,
+      "player_name": "?",
+      "team": "",
+      "emoji": "😎",
+      "score": "13.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[革命軍] 神",
+      "team": "革命軍",
+      "emoji": "🐱",
+      "score": "11.72",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐲",
+      "score": "9.04",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "👻",
+      "score": "4.91",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[革命軍] ケセド",
+      "team": "革命軍",
+      "emoji": "🤖",
+      "score": "1.96",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "🤖",
+      "score": "1.79",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "1.60",
+      "kills": 6
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[覚醒] 蘇ったチー牛",
+      "team": "覚醒",
+      "emoji": "🐱",
+      "score": "1.29",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "26.93",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "サム8",
+      "score": "15.12",
+      "kills": 14
+    },
+    {
+      "rank_position": 3,
+      "team_name": "革命軍",
+      "score": "13.68",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "team_name": "みん²",
+      "score": "9.04",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "team_name": "楚",
+      "score": "2.02",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90tuygyAMBdBtqUHQ2P//2zOBBAjo2S916ppcEACpBi36mFrknzSmgutKcyaX1I1w3/fVpdrvqrSQvWR2NdXtGryxyblyPEPn3gqmpPM9OOa2R9t0dWxMQiRH+9yXuX0SIpKfz8e7ssK2MQZH9cmx0nHbtuZ+DU5tWViJazxM2FcFzNFSTuuxBAWqsvmMokPr55nAfhsHNzNg75eW9UxiXNhhlxtlDR5dR5Ji3R7NER0+gLHibptPXjk31Rvc8eyS9o3vzqoVGIM6WlyMMXanjX1NACwvBcbRTWO2KtXG/1x0uekJrsw7grmZOWefrjmYenXsq913UBNCaOwA88QQYGx0cXR62KG54VyG+dRlKRi+4QzheD6XnIGccyb6AufZ2QSzRcqeJ7wbIbrDKRf+6fPapUHGkj/XqSS/",
+    "cp": {
+      "1": "#e76455",
+      "2": "#63eeeb",
+      "3": "#93f099",
+      "4": "#93f099",
+      "5": "#ade869",
+      "6": "#85eab4",
+      "7": "#ef4888",
+      "8": "#d460e6",
+      "9": "#f887df",
+      "10": "#ebdd84",
+      "11": "#93f099",
+      "12": "#a972e9",
+      "13": "#f887df",
+      "14": "#ef4888",
+      "15": "#8282fc"
+    },
+    "sz": 40
+  }
+}

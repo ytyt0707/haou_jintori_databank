@@ -1,0 +1,56 @@
+{
+  "round_id": 34518,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-06T17:49:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] あずにゃん",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "⚔️",
+      "score": "0.11",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しeE",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "0.34",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "0.11",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYMALmPHKjkqSEQKsOPQwMjLikGFgYGDELwtSgFszAwNeSXwah6QcyxBzNQAu+gAY",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#8B4513",
+      "4": "#e830dd",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

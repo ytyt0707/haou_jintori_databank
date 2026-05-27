@@ -1,0 +1,94 @@
+{
+  "round_id": 1783,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-06T19:41:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "z",
+      "team": "",
+      "emoji": "😎",
+      "score": "32.08",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵日帝] 万歳",
+      "team": "🇯🇵日帝",
+      "emoji": "🦄",
+      "score": "14.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ニート] 男なら自死",
+      "team": "🇯🇵ニート",
+      "emoji": "🐶",
+      "score": "2.59",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇸🇦アラー] アラーアクバル",
+      "team": "🇸🇦アラー",
+      "emoji": "🤖",
+      "score": "0.06",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ニート] 31歳 男性",
+      "team": "🇯🇵ニート",
+      "emoji": "🦄",
+      "score": "0.06",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[エロ国] カウパー",
+      "team": "エロ国",
+      "emoji": "🤠",
+      "score": "0.06",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵日帝",
+      "score": "14.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ニート",
+      "score": "2.65",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇸🇦アラー",
+      "score": "0.06",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "エロ国",
+      "score": "0.06",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd01ESgyAMBNC0S7n/kZ1CpCRZApYfR3kuiaCIG6X4J78ZNyAAcOBw5ro8WPiRO68wwFMXKMrC8bxIGaNd0zhSn7E5G04kZQM2sXcaNTsQF1b0NbQ7XdUg4sJp9k7vvfP7Au78/iG8aBVI0e0iwJqZGTv+cxGy7xdcaHcFP9S9kwrzPAA1dWLZa5dXa60kjyiFe9WhdRZ382X23MPGjijW71yDtpAykanV9F++G00IGxeWbgqE",
+    "cp": {
+      "1": "#ec8991",
+      "2": "#e9f282",
+      "3": "#fc92c7",
+      "4": "#50ed5a",
+      "5": "#ce64fc",
+      "6": "#ec8991"
+    },
+    "sz": 40
+  }
+}

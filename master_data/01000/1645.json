@@ -1,0 +1,55 @@
+{
+  "round_id": 1645,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-06T11:16:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 蓮舫",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "34.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "😀",
+      "score": "31.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 立浪和義",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "8.96",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "43.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "仙台藩",
+      "score": "31.08",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy11FsOhDAIBdAL3f+eTacPiiBg4twPo80R29oAEEohZiaAMs49dCZwGrqvhO6gXISpI+VSGDtsqRSeS2YfVS6F3nrhTKCyL8pNOY5G6HrWGSo6A/HgHOg7gYgdivVaq7pWcj8oVjtoN1N3iFwfGBc7v03n0y45+sGNyu1y7Dm2roG+dhH7p3u7DrPjJxOnm9IcM+7WDKWJHo70/9dZrJwLFVYH8A==",
+    "cp": {
+      "1": "#fd8077",
+      "2": "#e872f8",
+      "3": "#e872f8"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "round_id": 10175,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-26T13:51:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👻",
+      "score": "28.40",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵特攻隊] 眠眠",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤖",
+      "score": "24.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐷",
+      "score": "16.43",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵🥺] ベネット",
+      "team": "🇯🇵🥺",
+      "emoji": "🐶",
+      "score": "1.22",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵🥺] フェラチオ侍",
+      "team": "🇯🇵🥺",
+      "emoji": "😎",
+      "score": "0.05",
+      "kills": 6
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵🥺] ぷゆゆ🥺",
+      "team": "🇯🇵🥺",
+      "emoji": "😍",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "41.03",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "28.40",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵🥺",
+      "score": "1.27",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lsOxSAIBNAphIz7X/GNenlorfPVegqoKWAeGHqekfGYZtOcXxq5qz3A813rM+AbqmhV0Tf0F+0x24qtquKq4YuNOar5yVwWkbyRwuacF9aXvb3zoTZHS8xeEVvrXQExgV+ZbgxAJM6mqi2PNFHqZbamylodqq5UpSvZe9NIJXvnXku3NW1O/lCtukrmpPEN+W4aHXjQ6M+Ljhz2u+qF8+8bL3UBBH5RPg1O",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#4085ed",
+      "5": "#9be967",
+      "7": "#4085ed",
+      "8": "#4feaf8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "round_id": 10505,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-01T01:15:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵傷物語] 忍野忍",
+      "team": "🇯🇵傷物語",
+      "emoji": "🤠",
+      "score": "42.78",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵傷物語] Lose dog",
+      "team": "🇯🇵傷物語",
+      "emoji": "🐱",
+      "score": "14.82",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] チギュアってて草",
+      "team": "みん²",
+      "emoji": "🤔",
+      "score": "0.99",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇹🇼南関東] 松井宏佑",
+      "team": "🇹🇼南関東",
+      "emoji": "🤔",
+      "score": "0.67",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵傷物語",
+      "score": "57.60",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "0.99",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇹🇼南関東",
+      "score": "0.67",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9kkkSBSEIQ4MS73/kLnECyu/yZ9GDL6QRGwqojgtN41lh0iMq6V41UjNE7G+dev+iviDDGOc+mzGeNCZfoh8UblvXUhtYt1yT50Cf1Ab+K7oL+yS8L1HQHRdD9NbYSFmIGij6YtmFGuhYLCyUCQ/VRQsvlMTssoisHyjlGhdZ7QeKXm9YNDXlEgSb1FqrnwnZ5NgdHZbWGjzO+f/QB1lTCOA=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#9066f9",
+      "4": "#e9678e",
+      "5": "#e9678e",
+      "6": "#b0f362"
+    },
+    "sz": 30
+  }
+}

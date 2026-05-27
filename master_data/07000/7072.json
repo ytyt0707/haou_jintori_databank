@@ -1,0 +1,48 @@
+{
+  "round_id": 7072,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-18T19:10:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵みん²] 蓮舫",
+      "team": "🇯🇵みん²",
+      "emoji": "😎",
+      "score": "17.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵アヘン] 仕事は？",
+      "team": "🇯🇵アヘン",
+      "emoji": "🐲",
+      "score": "15.14",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵みん²",
+      "score": "17.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵アヘン",
+      "score": "15.14",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0NsKgDAMA9Cs6f9/s7CbHUuLD+ZF9JgwBhxpDTqtBwBJzf0pdY9qffFnxaXqp6VygVOzfa6MV/dAQv0uLvZUOVArONDT4aOc6PS+ZxaOHHnehJGWKmL3ZXV9vlOrV3ZjXT269fKl4btWcZZPeQAF0gQO",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ee6ef2",
+      "4": "#66e1fa"
+    },
+    "sz": 30
+  }
+}

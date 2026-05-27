@@ -1,0 +1,75 @@
+{
+  "round_id": 5006,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-14T03:27:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[無敵] 最大派閥妨害",
+      "team": "無敵",
+      "emoji": "🤠",
+      "score": "37.78",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[無敵] 蘇ったチー牛🤡",
+      "team": "無敵",
+      "emoji": "👽",
+      "score": "35.31",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[無敵] おんJ代表",
+      "team": "無敵",
+      "emoji": "🤖",
+      "score": "3.83",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "1.25",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[みん²] ワイ",
+      "team": "みん²",
+      "emoji": "😍",
+      "score": "0.32",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "無敵",
+      "score": "76.93",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "1.57",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0FsOxCAIBdBbLJf973iiImKtzfjRNBx5qbof9KNARLY7JPfgtKOSfyiPirPqZ+6HUklnve97sYtmpIV6uI/Py4w8zxyIvnApb7v6c5Ssxl3LC9bCa2WfCI93NlNjPD4wfhxzv6rtQugyS0UgabufU+MLoDLXtj3Z1dbeY6V+Z0cv0xqM0hKDZYVnSl4YQ2mSdCncwiLfKu0jInm5qSK+YM5tJ9mc6QeHoA+O",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#80f83f",
+      "4": "#80f83f",
+      "5": "#ef845d",
+      "6": "#ef845d",
+      "7": "#ef845d"
+    },
+    "sz": 30
+  }
+}

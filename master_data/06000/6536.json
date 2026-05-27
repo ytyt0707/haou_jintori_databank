@@ -1,0 +1,42 @@
+{
+  "round_id": 6536,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-17T14:11:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "アナ",
+      "team": "",
+      "emoji": "🐶",
+      "score": "12.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵裏会] 水月",
+      "team": "🇯🇵裏会",
+      "emoji": "💩",
+      "score": "4.74",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵裏会",
+      "score": "4.74",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0VEOgCAMA9Bt5f5nNpOhgh0S6QckvpQRETHxmNV9iD0z00mXnXspxxVNLHiKn7f6f2dOWj0pbqhqPlo1NGkuaqHoWmr2FIB/x7kDMTcUQ/ruGzWt3nOljSMa4QdTG7R3ac+X/2dfD83tAwU=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#e755b1",
+      "4": "#4ac5f2"
+    },
+    "sz": 30
+  }
+}

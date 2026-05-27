@@ -1,0 +1,110 @@
+{
+  "round_id": 8026,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-20T22:46:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "27.99",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇦🇺うんち] アベベ",
+      "team": "🇦🇺うんち",
+      "emoji": "🐶",
+      "score": "5.05",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵雑な魚] 爆弾/自認レゼ",
+      "team": "🇯🇵雑な魚",
+      "emoji": "💩",
+      "score": "2.95",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "4時11分",
+      "team": "",
+      "emoji": "😂",
+      "score": "2.54",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] 偽覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "1.83",
+      "kills": 8
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😀",
+      "score": "0.06",
+      "kills": 4
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "29.82",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇦🇺うんち",
+      "score": "5.05",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵雑な魚",
+      "score": "2.95",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵阪神",
+      "score": "0.06",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9kQEOxSAIQyv98eP9L7wIbKLTNSbbfECrA9BaaziphfyLJHclAfsCWVd+t7JW2MoVD7VtL5opJ9sX/cj+gS01ISLhX3NuemgREd5aBlCMdo4DxakX4Sp7CrFIMjf7C6FihgtVQrU/NQLNo9UVeyvlgEnI+AjDcwzN9BfCtndLsVLa2f8HDGTnhQIFu9HOO8W4rJkSpRQv2P+jgmz9whj4wB5dtNkF7g==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#e3de35",
+      "4": "#42eb45",
+      "6": "#e3de35",
+      "7": "#f236e9",
+      "8": "#ee5149",
+      "9": "#b4eb6f"
+    },
+    "sz": 30
+  }
+}

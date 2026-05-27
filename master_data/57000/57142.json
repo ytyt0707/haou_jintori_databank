@@ -1,0 +1,84 @@
+{
+  "round_id": 57142,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-05-23T15:00:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] ポケモンBBS",
+      "team": "🇯🇵自民党",
+      "emoji": "🦊",
+      "score": "52.82",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] お前ら雑魚w",
+      "team": "🇯🇵自民党",
+      "emoji": "🎽",
+      "score": "6.81",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[東卍] 名無しlG",
+      "team": "東卍",
+      "emoji": "😡",
+      "score": "5.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵自民党] 爆弾/自認レゼ",
+      "team": "🇯🇵自民党",
+      "emoji": "💣",
+      "score": "3.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[東卍] ドラケン",
+      "team": "東卍",
+      "emoji": "🐉",
+      "score": "1.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[東卍] ぼっけもんBBS",
+      "team": "東卍",
+      "emoji": "🤠",
+      "score": "0.77",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "63.09",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "東卍",
+      "score": "8.10",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAFlkoESgzAIQ6N1kf//4l0CWNw4T9u+JlAqsOOuoAMANwOa6kvyh+Lz6Q1S/1PhtaT8p7B2LUOy8+ZW4E5tUckVnsJ1rfVoi+ZeAAIbhpOnVDbbkmSIKnt+Br0FkyZ0CTWkqQ/VK9vFK+rXTjU2eRg/9LUTpl0KZNMTiRE+b+ab4Eny3CCDet6RfbTtG3iWbQZ5kbz0GvFcwZUh9+HfzQVwSRqvBg4K+UaEjpKhf8cjpZA4Ar6cWq1m4mzrpCWuBgHnCdeszO1d7fPBTA0HzQZn4iz6USu79busYe3a0tdVH8cxaZM6IjES4ws67Q+U",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#4d73e5",
+      "5": "#e85330",
+      "6": "#4d73e5",
+      "7": "#e85330",
+      "8": "#4d73e5"
+    },
+    "sz": 30
+  }
+}

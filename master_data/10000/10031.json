@@ -1,0 +1,47 @@
+{
+  "round_id": 10031,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-26T06:04:17.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "👽",
+      "score": "10.28",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇰🇷独島] 独島は韓国領土",
+      "team": "🇰🇷独島",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "10.28",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷独島",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0EkOACAIA8BK+P+bTTSyWFx600mNgNYQI4CI2LHNmFrAkaveu49yQOJROJbnTVLVOO3Opuvi0E1WKqGr0MCausLqn16KqpyqQ/WpWpmrVmp41/Llz+6PHgbKXV9U/Fbc7wq/i43DIrFH6eYvHXG1A/w=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "4": "#f3c239"
+    },
+    "sz": 30
+  }
+}

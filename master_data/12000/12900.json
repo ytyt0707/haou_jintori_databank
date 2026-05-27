@@ -1,0 +1,112 @@
+{
+  "round_id": 12900,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-02-06T15:10:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] チギュアってて草",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "50.83",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 名無し57",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "18.98",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 韓非子",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "7.95",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵オウム] 麻原彰晃",
+      "team": "🇯🇵オウム",
+      "emoji": "😎",
+      "score": "1.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇦つむり] つむり",
+      "team": "🇨🇦つむり",
+      "emoji": "🐱",
+      "score": "0.05",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] ⠀",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "0.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "名無しvj",
+      "team": "",
+      "emoji": "👽",
+      "score": "0.05",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[楚] ヘルツネ",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "0.05",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "77.88",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵オウム",
+      "score": "1.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇦つむり",
+      "score": "0.05",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "猛虎軍",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJydkdsOwyAMQz3Viyft//93IreiwqppfoCQA4mbEiAwFmPriPWIHbChRGDBCg0nPimKnpCjVWDfnwENbqCp611PE6fNsXEq3JhyVY30bPTWKqqiSFNxDioKAdHD8EPTkrhgEuVFmmnioj0NbOjwuaMwgzsYVDJ7TL4Ay49TBFbo5VQXzZmVVgo+zIWWGDfW10uwFfS1NHvZlb0Rf2l7l/3nbdPCF+c5zPl3qsMIgA9S3REu",
+    "cp": {
+      "1": "#ed68d9",
+      "3": "#2beed4",
+      "4": "#f23a75",
+      "5": "#f23a75",
+      "6": "#f23a75",
+      "7": "#f23a75",
+      "8": "#9762f8",
+      "11": "#f23a75"
+    },
+    "sz": 30
+  }
+}

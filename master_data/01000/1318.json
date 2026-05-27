@@ -1,0 +1,103 @@
+{
+  "round_id": 1318,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-05T17:36:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[庶民] あほう",
+      "team": "庶民",
+      "emoji": "🦁",
+      "score": "20.42",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[阪神] 前川右京",
+      "team": "阪神",
+      "emoji": "🤖",
+      "score": "11.87",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[庶民] 美衣💢",
+      "team": "庶民",
+      "emoji": "👻",
+      "score": "5.85",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ソ連] 大日本帝国陸軍",
+      "team": "ソ連",
+      "emoji": "🦁",
+      "score": "0.27",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[庶民] 彩喜",
+      "team": "庶民",
+      "emoji": "😍",
+      "score": "0.17",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[ソ連] 梨",
+      "team": "ソ連",
+      "emoji": "😂",
+      "score": "0.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[うゆ軍] 最強うゆゆ",
+      "team": "うゆ軍",
+      "emoji": "👽",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "庶民",
+      "score": "26.45",
+      "kills": 21
+    },
+    {
+      "rank_position": 2,
+      "team_name": "阪神",
+      "score": "11.87",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ソ連",
+      "score": "0.43",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "うゆ軍",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0gsKxCAMBNB0ppr733hxtVs/UUMpbChF6WNipKKqIvJ9rUpTnXrV2u1Z57x5TrebY8/88IHz9n3bFUhXHoQkRciJS5sQwF9ZLv9YgaycIcuKwNKVBdC6bqI6rYb2/QCdG0FpWVyGGIOu77jdcUB6mYdMzw1jjME4WV8S4xBnQHvQ7GTvxr62fNkZzA29ee6+jluewfaO59BxtBbOxR/rA+ecCRY=",
+    "cp": {
+      "1": "#acf49a",
+      "2": "#fca18d",
+      "3": "#fca18d",
+      "4": "#71ebf4",
+      "5": "#fca18d",
+      "6": "#acf49a",
+      "7": "#fe77e5"
+    },
+    "sz": 40
+  }
+}

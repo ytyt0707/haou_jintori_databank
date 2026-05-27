@@ -1,0 +1,111 @@
+{
+  "round_id": 9003,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-23T04:04:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🔰] 初心者",
+      "team": "🔰",
+      "emoji": "🦊",
+      "score": "19.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "🦁",
+      "score": "13.09",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[新撰組] 近藤勇",
+      "team": "新撰組",
+      "emoji": "😎",
+      "score": "9.18",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "🦁",
+      "score": "3.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "👻",
+      "score": "0.27",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵神撫子] 名無し774",
+      "team": "🇯🇵神撫子",
+      "emoji": "🐲",
+      "score": "0.17",
+      "kills": 5
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "💩",
+      "score": "0.06",
+      "kills": 12
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🔰",
+      "score": "19.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵神撫子",
+      "score": "13.32",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "新撰組",
+      "score": "9.18",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵阪神",
+      "score": "0.27",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.06",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0VsOhCAMBdArA7Vh/wueQCuivRD7RXroAwW2cbawYylHaYGiFq52pdyBqBiuQb15Mw2dxyKqRM+IijfrSx+9Najzj9dinkt0+nRR8VVlrzLXh87Sbqy1hzdgf9x4o74eUwhqFdE+gDWuuMbzvZjmp5Linl2pJTnmsQ6vzVeO6ci1Q1q/J6XEHjzFH1X/CxQ=",
+    "cp": {
+      "1": "#b072ee",
+      "2": "#cbf26e",
+      "3": "#ea4856",
+      "4": "#f1a44b",
+      "5": "#ed2cdd",
+      "6": "#f1a44b",
+      "7": "#67f9ba",
+      "8": "#5e63f7",
+      "10": "#41d9e6"
+    },
+    "sz": 30
+  }
+}

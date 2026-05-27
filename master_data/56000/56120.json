@@ -1,0 +1,51 @@
+{
+  "round_id": 56120,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-21T07:45:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "😀",
+      "score": "55.46",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[東卍] 名無しvc",
+      "team": "東卍",
+      "emoji": "😁",
+      "score": "5.49",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[東卍] タケミッチ",
+      "team": "東卍",
+      "emoji": "😠",
+      "score": "1.08",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "東卍",
+      "score": "6.58",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkVkOBCEIRFHk/leesBQo0cxk/OiOPKvYiPQMHKJBMtiC+DAH1YciIhyc45T8Rhl4iawFLaXY8VpmjMygkVqphqKkTl0K/KKuvlCzNpow8no/GtXMRR0ntbI2athdpZesz8bwdgB356RypboBtXhQslEIBnXUrEGJVFtVE4VXiz/SmVK1QBMuZp4njiyg/AeNLcy7s9MXSy26bf9qvgG/ntvvT77SGCjVlGpDRB/QoAed",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e881",
+      "4": "#e83053",
+      "5": "#e83053"
+    },
+    "sz": 30
+  }
+}

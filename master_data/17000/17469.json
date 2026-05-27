@@ -1,0 +1,62 @@
+{
+  "round_id": 17469,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-23T12:05:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵不明] 不明推し☺️",
+      "team": "🇯🇵不明",
+      "emoji": "🤔",
+      "score": "11.03",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 電波ゴミ",
+      "team": "神撫子",
+      "emoji": "👻",
+      "score": "3.43",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 正体不明",
+      "team": "🇯🇵阪神",
+      "emoji": "🐲",
+      "score": "0.82",
+      "kills": 13
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵不明",
+      "score": "11.03",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "3.43",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "0.82",
+      "kills": 13
+    }
+  ],
+  "minimap": {
+    "bm": "eJy90ksOwCAIBUDgcf8zN8S0FPk0cVGWjgioRD8EjrdhSAUmPakWVVV11oaBR5k5oWtmm8lPLvTdFXPIt4FUvKeYbSoirvtAkbMSCVYUaotActwPmGnp8hLhhZuir1vpomx44wnbzLnsx8/d4gKtiAHC",
+    "cp": {
+      "1": "#b9ea48",
+      "2": "#f84fb4",
+      "3": "#69abf2",
+      "4": "#552eef"
+    },
+    "sz": 30
+  }
+}

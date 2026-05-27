@@ -1,0 +1,48 @@
+{
+  "round_id": 34208,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-06T01:04:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😎",
+      "score": "48.17",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇫🇷ネフタ] ネフタリ",
+      "team": "🇫🇷ネフタ",
+      "emoji": "☄️",
+      "score": "11.17",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "48.17",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷ネフタ",
+      "score": "11.17",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFklsSxSAIQ2nJ/td8J4EqjI/rTxmOIalqdlzufmTmN0q406rXYd8mtpWaHLu2pEvhwbZSoMisjJUtJmayKSQF8L6p9sa4F8LzF4s2KXCiEhMX0VdO8dcZX2MqpzGA0a1FxDrhKx2+29E8hvDdGeuQAtc0WYtm7AUH9Bv2f/Sh9XqW32jO7nerFMTuj9aKgwbOumQfb0UejcclxWsatBU/F+4GzA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#97d411",
+      "4": "#47e830"
+    },
+    "sz": 30
+  }
+}

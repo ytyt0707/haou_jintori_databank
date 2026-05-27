@@ -1,0 +1,132 @@
+{
+  "round_id": 18777,
+  "game_mode": "TEAM",
+  "player_count": 13,
+  "played_at": "2026-02-27T12:07:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 正体不明",
+      "team": "猛虎軍",
+      "emoji": "🐲",
+      "score": "34.54",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "19.57",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] BOT",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "14.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 大日本帝国陸軍",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "10.25",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🦄",
+      "score": "8.56",
+      "kills": 14
+    },
+    {
+      "rank_position": 6,
+      "player_name": "いいぼう",
+      "team": "",
+      "emoji": "👽",
+      "score": "2.75",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ゲスト] BOT",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "0.58",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[楚] 大日本帝国憲法",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "0.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤖",
+      "score": "0.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵ゲスト] ベネット",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "44.21",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "43.19",
+      "kills": 26
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.78",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵陽キャ",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90esShSAIBGDkIFtMvf/rnhFSsZr2n32ut0hTiEhVeUYfmSaf+tLNyPD9PnXm96nHsSruKkmpMfqc4zxFEuulwcISGRpVlHZ2GZn7Ar08usEUX/vKzEubWsugalF90da0wPb0iQPNMd80BkmXd4gUV7YWebArMy86ZpXiyK9dKgVm5hjTblosAmBf0ah2NAPv926tSe9ItU7Pi7ZRaM16PS0RU1JAFvSM6gYIRqbOG/nfzLoFVkPOhfQHq2IQKQ==",
+    "cp": {
+      "1": "#2af4cf",
+      "2": "#5fea4d",
+      "3": "#6681fa",
+      "4": "#5fea4d",
+      "5": "#a64be7",
+      "6": "#dff05c",
+      "7": "#dff05c",
+      "8": "#dff05c",
+      "9": "#f532e8",
+      "10": "#dff05c",
+      "12": "#6681fa",
+      "13": "#6681fa"
+    },
+    "sz": 30
+  }
+}

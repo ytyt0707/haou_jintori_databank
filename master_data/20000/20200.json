@@ -1,0 +1,78 @@
+{
+  "round_id": 20200,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-02T18:16:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "32.98",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "24.75",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ナユタ] ナユタガイジ",
+      "team": "ナユタ",
+      "emoji": "🐱",
+      "score": "2.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇳油一族] 赤の他人💩真央",
+      "team": "🇨🇳油一族",
+      "emoji": "🦄",
+      "score": "1.51",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "32.98",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "24.75",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ナユタ",
+      "score": "2.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇨🇳油一族",
+      "score": "1.51",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klkSwyAMQ1UUc/8jd7xik2mdjwAPCZkEqPpYLatazEGHKxexAZA6Vb7WwjowqOJ0LiHITa+bPo+ZOm7W5mwQ2DvV6ozM/Lh2F45UGgzitBhJi6xiEXFnljEZtj+odmslWh75JYZBp6djszb3o+2UpDq7VgRxUfayCQ6cNG40lHp5XevjtM1UHHtuat83TIpFv7EchzTaMmeEv3TA1pElu+BIywnl6nfSjHJdgwj0GXQKDda5F3OYND547KnfXY+syWvwBURrCVY=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#d130e8",
+      "4": "#85d411",
+      "5": "#30e870",
+      "6": "#e83087"
+    },
+    "sz": 30
+  }
+}

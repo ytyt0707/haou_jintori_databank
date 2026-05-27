@@ -1,0 +1,48 @@
+{
+  "round_id": 8899,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-22T22:10:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵グリコ] 爆弾/自認レゼ",
+      "team": "🇯🇵グリコ",
+      "emoji": "👽",
+      "score": "45.15",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳チー牛] チギュりパンで草",
+      "team": "🇨🇳チー牛",
+      "emoji": "🤖",
+      "score": "4.77",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵グリコ",
+      "score": "45.15",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳チー牛",
+      "score": "4.77",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0lEKACEIBNDRuv+Zl2RLHaON9S8fJopAipbiZKSe3ShXZr5UkMZMrd3Sl0br/aB9RNWWFGclDsqD577vCFo56khJiztcfaE6HBJXPCeCqqplhdRaTYRI2eT62DUwvHKncK13sY7hh7YrFfF18KHZKlxRS6OaI4XkJynwAK/bBb8=",
+    "cp": {
+      "1": "#b072ee",
+      "2": "#cbf26e",
+      "3": "#f967d2",
+      "4": "#55f1e9"
+    },
+    "sz": 30
+  }
+}

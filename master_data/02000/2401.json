@@ -1,0 +1,89 @@
+{
+  "round_id": 2401,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-08T06:11:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👽",
+      "score": "44.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇷🇺中立国] 資本主義陣営",
+      "team": "🇷🇺中立国",
+      "emoji": "💩",
+      "score": "7.01",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵特攻隊] ムホホ",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤠",
+      "score": "5.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国万歳",
+      "team": "🇯🇵特攻隊",
+      "emoji": "😀",
+      "score": "2.26",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "おーんとぷーゆ",
+      "team": "",
+      "emoji": "🐷",
+      "score": "2.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[みん²] 女です💕",
+      "team": "みん²",
+      "emoji": "😍",
+      "score": "1.12",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "45.83",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "8.03",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺中立国",
+      "score": "7.01",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd1FEShCAIAFAVhPvfeAc1FYRylp+26YlAbildB44L3ihxEp9JZ8RCMZwFmDX90R61VqcMdKLWeuXw1jk99fVfKkwnvbwxNaJ/y/P2/TPfA88F1Z2fk7iqrt29BtyHE5Q07piZX10/wiSOSbtkzyhRd5zeT/J0bI6yVd2BuKi6qRgAjCulKBa4shxpp8oThjZdDhwe2wautUNEaXMcOJouf7q+cc4Z4n2Hyi0AgIx7finH1uG60U6q9V3CUVx3ybrtM9WGLEEAJh+Ov8kz6Zatzfl0K/d6IbT3cSyYb661YQtcler4AcFQEbA=",
+    "cp": {
+      "1": "#65ece3",
+      "2": "#f97b84",
+      "3": "#e462c6",
+      "4": "#65f16e",
+      "5": "#65f16e",
+      "6": "#8d64ed",
+      "7": "#65ece3"
+    },
+    "sz": 40
+  }
+}

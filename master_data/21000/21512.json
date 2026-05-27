@@ -1,0 +1,63 @@
+{
+  "round_id": 21512,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-05T18:03:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂麦わら] チョッパー",
+      "team": "🍂麦わら",
+      "emoji": "😂",
+      "score": "60.41",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[たぬぬ] たぬたぬ",
+      "team": "たぬぬ",
+      "emoji": "🤖",
+      "score": "3.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂ソルベ] ゴーカンマ原唯之",
+      "team": "🍂ソルベ",
+      "emoji": "🦄",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂麦わら",
+      "score": "60.41",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "たぬぬ",
+      "score": "3.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂ソルベ",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVkSAyEIRFnC/a+cAmxgJhg/RHnQdClRLlkXmZn5JmJZQKMuqFeM1XyjoRQKKyU77WT2GaI4NkVmRBhblY97kTs1sZ2KSIzZqD9eQIpnGnb8WDQf8UohMgqY+Si7ygA5hxmp+L64EBF7nmM/HBaizMkbunpAb2Zq4ZM93FK3xjaFvUY+OiXBYBYRFPdH/ANV9U5VtcY+BOOi3btD9P5Q76y5TfEpGw2TNbY8w3vGeqUvnZQLuQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#a74de5",
+      "5": "#6ae830"
+    },
+    "sz": 30
+  }
+}

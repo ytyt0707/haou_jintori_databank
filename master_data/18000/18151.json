@@ -1,0 +1,41 @@
+{
+  "round_id": 18151,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-26T01:30:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ゲス殺し",
+      "team": "",
+      "emoji": "💩",
+      "score": "49.23",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] パンテオン",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦁",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzl0dsRwCAIRNGL6b/njHmQICwpIPunR2RQgCHT2ad2OM626sx6c1xixVWq9tZr12LtEqnM2ItTEw5MT7K5mhqX7gtoFB7NU0elRFdKxZcVzu2lB2VyXUBtP8kO5OYDlQ==",
+    "cp": {
+      "1": "#63f868",
+      "2": "#eb4a47",
+      "3": "#49f3d7"
+    },
+    "sz": 30
+  }
+}

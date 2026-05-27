@@ -1,0 +1,49 @@
+{
+  "round_id": 1204,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-05T11:23:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[伊達綱] 仙台藩",
+      "team": "伊達綱",
+      "emoji": "🐷",
+      "score": "92.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "猿",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[伊達綱] さとる（本物）",
+      "team": "伊達綱",
+      "emoji": "🤔",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "伊達綱",
+      "score": "92.36",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJztlTsOwCAMQ224/51ZiopQCA4K6lKP0cPhExngEUESa9HWWx99NnL8jjiqHL/ilFuZuFJy/XI4Vbf2B7sc97s6COtFgfPGnqTWEO70/bkczh2d/L5iUmrcEKh2/vd/oQHQWwXQ",
+    "cp": {
+      "1": "#8dfb9a",
+      "2": "#8dfb9a",
+      "3": "#94acfa"
+    },
+    "sz": 40
+  }
+}

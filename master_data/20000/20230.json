@@ -1,0 +1,48 @@
+{
+  "round_id": 20230,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-02T19:53:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ナユタ] ナユタガイジ",
+      "team": "ナユタ",
+      "emoji": "😈",
+      "score": "21.80",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳油一族] 赤の他人💩真央",
+      "team": "🇨🇳油一族",
+      "emoji": "🐲",
+      "score": "18.54",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ナユタ",
+      "score": "21.80",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳油一族",
+      "score": "18.54",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkUEWxCAIQwN6/zP3BQSRsVMWFvkmoIW2wBGKvxiGuYhAD6VvVBVQERkYY7QDtIaAVMcVg1AMujotxLqRUhkRDUSEaZTXd9ML3M5g1yZNCuHAdzqnjdvpajvn7OOWO0/HzTgmJgVonHcKBBASl/tuuChxewU741qnHL4IEc7uzR91p9aa73LEco7RPuipLlo3f3MO98KrNvPkWSkJdo9SPdKlP2q5SfOfU5287B/3QgWm",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#30e8e8",
+      "4": "#ced411"
+    },
+    "sz": 30
+  }
+}

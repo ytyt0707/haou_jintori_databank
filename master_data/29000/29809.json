@@ -1,0 +1,57 @@
+{
+  "round_id": 29809,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-24T19:15:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] あいす",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "55.11",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] みいちゃん",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.22",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] FX",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "0.36",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "58.32",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.36",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkksOwzAIRAczuf+VK8B8LKvdpF4khMcMEBkAQT8AxA+ZL2AzLtlZoQemQOHQiRjMYzTUnle96EPiWUYVCcMhtACWQQUivYuc2mMpqdTsOLTVWw+qPnO4k3QYFbYepZwt6cpNpajXRNYMLIpfU9ocx/+rc5F2LpqBzL69TGKOqTrX0Q9nK7qnaumfaF6Radx9D5ofNVVekS/arC+MMXPdzaJz33f0anz0fUXv3T8c6AiQ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8B4513",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "round_id": 6522,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-17T13:26:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] ニート🥺",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "47.60",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] シリケツ",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "41.35",
+      "kills": 9
+    },
+    {
+      "rank_position": 5,
+      "player_name": "いいぼう",
+      "team": "",
+      "emoji": "🦄",
+      "score": "0.23",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "88.95",
+      "kills": 19
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9kdEWRSEEBXc5/v+X70KE6nqpTFkTYA2SsB00mAFPXYOI35QOOiOvCwqbcxkIPaoGFNzp5CsdY4ztIjYmBBXvqryyaMUFfh+HVG1IGO8a28Q7CtsBnCHvdi/KmW5JzSDPR1TsQ+t+k6YamUodZPj/7aZ0CYDe0Cng3e/U2k03/KB+VFr/kZ2thN+pfuyvkIdNqxgQ15DnRZXKFk2qUDqHkMKqx0ngDzqJDHI=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#43f443",
+      "4": "#f344d9",
+      "5": "#43f443"
+    },
+    "sz": 30
+  }
+}

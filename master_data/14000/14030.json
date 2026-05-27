@@ -1,0 +1,110 @@
+{
+  "round_id": 14030,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-12T07:30:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇩🇪楚] うんち",
+      "team": "🇩🇪楚",
+      "emoji": "👽",
+      "score": "8.79",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🐱",
+      "score": "7.49",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "レッドスター",
+      "team": "",
+      "emoji": "🤖",
+      "score": "7.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😈",
+      "score": "7.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ゲスト] 爆弾/自認レゼ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤠",
+      "score": "1.64",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😂",
+      "score": "0.76",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐷",
+      "score": "0.00",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪楚",
+      "score": "8.79",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "7.49",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "7.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ゲスト",
+      "score": "1.64",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇻🇳謎の男",
+      "score": "0.76",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0EESgCAIBVBMRuX+F24EMUBqE5tGnx+YAD4LpfosOQBGBdZO6xSziEidiPhBpkgkfM7dSk51h4fz7Vc01yJThVtrHl3YaJnFvdeDiSY8oMjoWmeLFnSFa62ws0dvUQjKnQtP5m+iZntIVFd/V8uKrrMPD674YxePoVw+NKSbDk0V/ull+VTD/p5r906HqmbX13tC9AbP/QgP",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#75f16a",
+      "4": "#eda531",
+      "6": "#dbf820",
+      "7": "#6aecc5",
+      "8": "#657dec",
+      "9": "#2bc1f3"
+    },
+    "sz": 30
+  }
+}

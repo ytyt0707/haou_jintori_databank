@@ -1,0 +1,84 @@
+{
+  "round_id": 7692,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-20T04:42:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] まぁんこ",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "42.45",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "37.77",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] はじまん",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "7.41",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "6.13",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "😈",
+      "score": "1.71",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "たまご",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.88",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "93.75",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "1.71",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyFktEWwyAIQ+0SlP//4h0FFLa148H2cBsSrQBAEgAaoq5rPbgIHXs14II16QVA0hemAjalZBTN8xKuzNT62/nAF1sJVCm5t2GuylJVp6oPFEExxoMWY+FPeKtVPZTj21f/pBJ5ottASVXmQ7dPp1pLhkLXcG1t0cZYDJuzSetYFmq+CJq0rWSmX5WU8QSRRfJlcTpXsUswFxE5uzHae+8SYwqdNWnPJ+X4UI2TFp0DJGfO1OvXX5jde+pbssFvaU4N4Q==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#9ef958",
+      "4": "#9ef958",
+      "5": "#9ef958",
+      "6": "#f8945d",
+      "7": "#f05c7c",
+      "8": "#9ef958"
+    },
+    "sz": 30
+  }
+}

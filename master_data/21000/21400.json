@@ -1,0 +1,75 @@
+{
+  "round_id": 21400,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-05T12:00:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "👽",
+      "score": "30.32",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しIt",
+      "team": "",
+      "emoji": "😍",
+      "score": "7.74",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 試作スクリプト",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "4.83",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しp1",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.49",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵阪神] 大家ぷゆゆ",
+      "team": "🇯🇵阪神",
+      "emoji": "😈",
+      "score": "2.25",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "7.32",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "2.25",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkdEShSAIREEg/v+P7yyQYuXDdZqmPK7Lwhhj0NdSbI4jVdUzVlBov64GPFAlavSpVj3R6wpZvsJ3aS+shXcasNE98EOqlShj6X4vIlE8yLz86gtk9rNRJ49G5wTi5k7dEyy806YNhzN91OTu3fgfCulWVzPVhL2sN0UYrlyNphSBmVmii4aVR4o6EYuIQK4vil0pHtoUhzYMhxnUJkFrTLMTYsY3mcY6RwBp6FbRlQK2JsLMZvf0FwIdCJV0A/HzA/epCGo=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30e8d7",
+      "5": "#8B4513",
+      "6": "#e830dd",
+      "7": "#73d411"
+    },
+    "sz": 30
+  }
+}

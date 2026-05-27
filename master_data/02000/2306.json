@@ -1,0 +1,64 @@
+{
+  "round_id": 2306,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-08T01:01:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🤠",
+      "score": "25.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇭チリ] おめこ🥺",
+      "team": "🇹🇭チリ",
+      "emoji": "🦁",
+      "score": "2.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸usa] さてろ",
+      "team": "🇺🇸usa",
+      "emoji": "🤖",
+      "score": "0.08",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇸usa] ちんぽ",
+      "team": "🇺🇸usa",
+      "emoji": "🐶",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇹🇭チリ",
+      "score": "2.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸usa",
+      "score": "0.16",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0+EOgCAIBGCie/9nbporanicm/z12yGRZqy8FRUDVWZEaWG7lNjTPTigdCtxgtvLuBukhB5KdNrtpLx6va8zCt21zu0UQAlvBoF1By0uumMyBAIkg+Kfl6HvFN2dOXucJV09K3K3crm/nOmnE38m7U2IWWuOk3WnQoFlm8ydxC5JugO/",
+    "cp": {
+      "1": "#a5fc59",
+      "2": "#4343f4",
+      "3": "#a5fc59",
+      "4": "#8ed9ec"
+    },
+    "sz": 40
+  }
+}

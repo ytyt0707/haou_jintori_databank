@@ -1,0 +1,42 @@
+{
+  "round_id": 7294,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-19T07:11:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 卑怯者",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "51.33",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] シャドバビヨンド",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "39.22",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "90.55",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0EEOgCAMRNGP7f3PbMSgtMAQnR15mUIBcPzK0WIt3idZ0uq+VovRSkRVtqFscrRJTCpfbe4AE+XRdTdWuUteSn0UQQnfMWjap7/zOgn1Xm3Ud9GJpsEbtQ/K/274562y1FlVqx6MxBPxpAtR",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ecb86f",
+      "4": "#ecb86f"
+    },
+    "sz": 30
+  }
+}

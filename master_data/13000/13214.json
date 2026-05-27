@@ -1,0 +1,96 @@
+{
+  "round_id": 13214,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-10T11:23:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 名無しvc",
+      "team": "神撫子",
+      "emoji": "😀",
+      "score": "62.65",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🦊",
+      "score": "30.10",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵自民党] アベベ",
+      "team": "🇯🇵自民党",
+      "emoji": "🐷",
+      "score": "1.11",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵エバ国] しゃけお",
+      "team": "🇯🇵エバ国",
+      "emoji": "🐷",
+      "score": "0.67",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[神撫子] わしょいへんてこ",
+      "team": "神撫子",
+      "emoji": "🤖",
+      "score": "0.53",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "💩",
+      "score": "0.07",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "93.29",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "1.11",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵エバ国",
+      "score": "0.67",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇬🇧珍走団",
+      "score": "0.07",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyFktEShSAIRJcWbv3/FzeljmDg5aFaDpCumtE2wRlNGokuPI3aKbQE11Kf6bPb/II+cRwZlZFMKaW353R0F70iNZW52PbwK5a5ldcxRAdo8A6bgVR12v/w/VLFh07DFBj18fjaCzPzc4SwIr53QqvSTf8Z9xGHnhXllma9HsHDZCsLXeO6/lBablo/ndQ7M8BdgDDg0TdXDg8b",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#61f854",
+      "4": "#61f854",
+      "5": "#61f854",
+      "6": "#c1ed5a",
+      "7": "#e54db3",
+      "8": "#26f28c"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "round_id": 7132,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-18T22:25:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ゲスト] ゲスト",
+      "team": "ゲスト",
+      "emoji": "🦄",
+      "score": "20.09",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🤠",
+      "score": "17.92",
+      "kills": 12
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵告発] 駿河湾暴行事件",
+      "team": "🇯🇵告発",
+      "emoji": "😎",
+      "score": "0.36",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵温蛸] たこ焼き器",
+      "team": "🇯🇵温蛸",
+      "emoji": "🐷",
+      "score": "0.10",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ゲスト",
+      "score": "22.58",
+      "kills": 20
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵万華郷",
+      "score": "17.92",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵温蛸",
+      "score": "0.38",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵告発",
+      "score": "0.36",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0tsSwyAIBNC1Rbf//8UdFRGFZspDJs7J4iUCD1UAWVWrBMQ2iWrJ+fDoG1uPfNqge1qBTn3oMgB1FLIooR886F2mlGDFbSimvcYs/tfQ+uisYZJnlr0mvsa7z1JrBr3CKQmPqm+6siWVMu5GY6Z6cxrYUhxqS0k7X9zHn+NQ3HJ5UUfsrdwILE3+w8jqWfykPLg6I0niCwRrB88=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ef6bad",
+      "4": "#f35bf5",
+      "5": "#f35bf5",
+      "6": "#ef6bad",
+      "7": "#e3ef62",
+      "8": "#6a33eb"
+    },
+    "sz": 30
+  }
+}

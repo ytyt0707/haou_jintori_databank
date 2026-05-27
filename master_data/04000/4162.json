@@ -1,0 +1,49 @@
+{
+  "round_id": 4162,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-12T05:40:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 偽覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "13.80",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇰🇷민민] 민민",
+      "team": "🇰🇷민민",
+      "emoji": "🐲",
+      "score": "1.36",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "16.53",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷민민",
+      "score": "1.36",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0UkOACEIBEBA/P+XJ7KJAT1Pn0wKFAMAEBARXEIPU+0ZDZfOl85O49aqiAaaVIErcKhUJJYDd+r3AnNVTMpTKjhpPCsucUVLPLNae9XPKBeNid5qM+PORcfomiF0pKF1rP3XU/N+XctGs/boQ99UNnDlV+P/8wHQPAO1",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#5a47eb",
+      "4": "#3ee581",
+      "5": "#3ee581"
+    },
+    "sz": 30
+  }
+}

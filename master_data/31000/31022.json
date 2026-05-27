@@ -1,0 +1,57 @@
+{
+  "round_id": 31022,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-27T23:31:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] なきこ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "43.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] 嘘の神",
+      "team": "なきち",
+      "emoji": "🐱",
+      "score": "42.33",
+      "kills": 18
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 愚愚",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "85.93",
+      "kills": 21
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk4EOgzAIRLse+/9fXo4DCp1LRqLVPu5A1GVmtnh4YAZhiwnRSFz2BG7R2GObGeHCSzlFhPfm9vsdBjeF44CY1LbEP6hh4Etr6ezdYX3hdOV6085IpzipnpvTjVlwgeplzk1zX+ukgMQxUdY9zhTIOgfeaRb1RpiaWqC3pFc1aLoe/9IatRV5nc4NsbW4raZK58YxlkeqqRn4oWqQTasNnv+jTXq+4nqDj7Sc+WSRccrq94kGIF5Uk2RnTduKfAB/XQrF",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e89830",
+      "4": "#e89830",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

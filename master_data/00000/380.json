@@ -1,0 +1,63 @@
+{
+  "round_id": 380,
+  "game_mode": "TEAM",
+  "player_count": 21,
+  "played_at": "2026-01-03T15:00:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[草] キングぷゆーゆ",
+      "team": "草",
+      "emoji": "🐷",
+      "score": "27.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[草2] 草",
+      "team": "草2",
+      "emoji": "👻",
+      "score": "4.95",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ちんぽ] 安倍晋三",
+      "team": "ちんぽ",
+      "emoji": "😈",
+      "score": "3.11",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "草",
+      "score": "27.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "草2",
+      "score": "4.95",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ちんぽ",
+      "score": "3.11",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzl1ksSgzAMA1Ac3PtfuUMKTEgs2RhoF822vEohn2Ga/nTIBZq3InkseSx5K/IjLHfgBFVVdWwpmH70A7bUwaxSiwptWEln/JMq9qWQzssiVQQ0tyLSWKM6k9K27i1JXbcUxpy+FjzPtsWx7TkAwQVN93CGkEULfDyABq6hdu0VdrX7+Xqt2+Rjabq87dG3cgHtb5zhEiCd67O6a+v24Y11J+ftMO6z9CRwfNKClqHYCzj0IQBTA8mwc8KO2zuV63rPMh6wED9qyTdfKBPgUFdQOzbP71pxNjV/U0LflqcYdme7LbGB/ReFN5Zru3+K2P4pbvHVBdcXzCUw3gGQBrs=",
+    "cp": {
+      "1": "#49e99e",
+      "2": "#fbce8d",
+      "3": "#49e99e",
+      "4": "#f57ab4",
+      "5": "#49e99e"
+    },
+    "sz": 60
+  }
+}

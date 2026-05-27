@@ -1,0 +1,54 @@
+{
+  "round_id": 30050,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-25T08:49:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 納豆",
+      "team": "🇯🇵ONJ",
+      "emoji": "⛩️",
+      "score": "71.12",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵デカ女] デカ女同好会",
+      "team": "🇯🇵デカ女",
+      "emoji": "🤠",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "71.12",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵デカ女",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlk9sSAyEIQyWT/v8vdxLAZW1n2k592IsHgkQlCXpgrbXy879n/Jhe9b/I+qAcr3xoix4RZ7vR4QB4QhaFxqRZtWobDtoVF6QHyO2hXFk5AwcMfKegxHOPIoIn7Y0kucQ9rAz11b3JhUkT+qnSF/RCnJUtN5Vy8DorpnZEuZIe1H7IL8Vn3RgOyMrsCnhP7RqSuuftnqUL78PTtCGzcvGmj2zXyT03VqV90pg3Inac1mw07stFvcFKvFP91Wy/XEKGPQFqSwtA",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#8b4de5"
+    },
+    "sz": 30
+  }
+}

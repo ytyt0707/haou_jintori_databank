@@ -1,0 +1,95 @@
+{
+  "round_id": 13152,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-10T08:00:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "31.02",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵特攻隊] 大日本帝國陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐶",
+      "score": "20.69",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "12.50",
+      "kills": 11
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵みん²] 紅白歌合戦",
+      "team": "🇯🇵みん²",
+      "emoji": "👻",
+      "score": "5.86",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "うんこぶちこむ蔵",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.73",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇵🇭ぷゆ帝] ぷゆゆ🥺",
+      "team": "🇵🇭ぷゆ帝",
+      "emoji": "😀",
+      "score": "0.24",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "43.52",
+      "kills": 21
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "20.69",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵みん²",
+      "score": "5.86",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇵🇭ぷゆ帝",
+      "score": "0.24",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0kEOxSAIBNCJ6OD9T9xU/BWoNvmki9rHYBcA2yqlhLOIJC5LVhmOx6nqQksDULXPOl/i/RrrUxNGFeFZx2+RHyik84xDKSc1hjW8VcjZsVV3/UGZVL6ystHFf+rt6L33nTY6xVlHODTUljSka41Kv3xMk6lpNWUpVF+L6zTsNX9ZBMUzcmoPOsbd1RAW6NHZYecLSkUMtg==",
+    "cp": {
+      "2": "#af6feb",
+      "3": "#4de563",
+      "4": "#dbee2f",
+      "5": "#87f55c",
+      "6": "#4de563",
+      "7": "#3e73ef",
+      "8": "#3cecb4"
+    },
+    "sz": 30
+  }
+}

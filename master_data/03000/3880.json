@@ -1,0 +1,42 @@
+{
+  "round_id": 3880,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-11T14:20:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺ロシア] アレクサンドルⅡ",
+      "team": "🇷🇺ロシア",
+      "emoji": "🐲",
+      "score": "40.28",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "殺害",
+      "team": "",
+      "emoji": "🐶",
+      "score": "20.30",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺ロシア",
+      "score": "40.28",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzFzlESgCAIBNBd5f5nbkpURKJ+mvhyfLsK8GYEkrJMLpEOL6WAFK6orlV6sw+ADFCZcVV5qEdV9VC3fY0yY9e399wCtnSus7pFALXNpe0kItUPZjKYrnEEaflb/enbB71lZIzOYQg4AEcmB1g=",
+    "cp": {
+      "1": "#dcec32",
+      "2": "#6b40f7",
+      "3": "#f64ca6",
+      "4": "#2ac4ef"
+    },
+    "sz": 30
+  }
+}

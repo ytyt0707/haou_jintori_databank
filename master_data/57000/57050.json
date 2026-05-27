@@ -1,0 +1,48 @@
+{
+  "round_id": 57050,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-23T10:02:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[東卍] タケミッチ",
+      "team": "東卍",
+      "emoji": "😠",
+      "score": "53.16",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ぴーぽ] ぱーりーぴーぽー",
+      "team": "ぴーぽ",
+      "emoji": "🦄",
+      "score": "1.41",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "東卍",
+      "score": "53.16",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ぴーぽ",
+      "score": "1.41",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdktEOxSAIQ8vw/795AVaBXO5ixgu1x6ImXpcXrBTQLNMBwyNjVzjNQFcw3C2u/LB/1GG7CGPWP9MnOA/ecL8tz0w2ZV/pMRwm1+zvrc5pPoTqLLuWfYheTK41UEIMdDMAHm2TKw1dj32n/BC5q2YrDV1pZqiCijd62R/qOF0qpyJGafWuKiLSvVjdYJcGCw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#30e8a3"
+    },
+    "sz": 30
+  }
+}

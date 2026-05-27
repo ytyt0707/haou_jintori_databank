@@ -1,0 +1,66 @@
+{
+  "round_id": 12912,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-06T15:49:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] チギュラパン",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "13.67",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐱",
+      "score": "10.35",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵オウム] 麻原彰晃",
+      "team": "🇯🇵オウム",
+      "emoji": "🦄",
+      "score": "9.32",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵オウム] さとる",
+      "team": "🇯🇵オウム",
+      "emoji": "🐶",
+      "score": "8.37",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "24.02",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵オウム",
+      "score": "17.69",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0FsOxCAIBVAYHvtfcqNFBMFmbvrRcHorkcHCDDVsGS8f3GLQhg1EhKGyteTNmPxOFd5YlUO1+3VSjSqSVEk1qWfqyFLbCEQ0pHTnlLIyo6Bj6SLCpyL6MleFThlDQGmuRUS0uwsBKOVPtYMOjcXCfrDf+6njueq6scb3uOM0Ldzr8pu+H9zI8gD56wah",
+    "cp": {
+      "1": "#ed68d9",
+      "2": "#bbf13b",
+      "3": "#f77255",
+      "4": "#ad6feb",
+      "5": "#ad6feb",
+      "6": "#f77255"
+    },
+    "sz": 30
+  }
+}

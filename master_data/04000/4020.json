@@ -1,0 +1,87 @@
+{
+  "round_id": 4020,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-11T21:59:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤔",
+      "score": "21.29",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇭うんち] アクメ王",
+      "team": "🇹🇭うんち",
+      "emoji": "😀",
+      "score": "20.05",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ぷゆ軍] ぷゆ吉",
+      "team": "🇯🇵ぷゆ軍",
+      "emoji": "😀",
+      "score": "8.76",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[oj軍] 管理人",
+      "team": "oj軍",
+      "emoji": "🤠",
+      "score": "1.74",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[oj軍] アベベ",
+      "team": "oj軍",
+      "emoji": "🦄",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "21.29",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇹🇭うんち",
+      "score": "20.05",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ぷゆ軍",
+      "score": "8.76",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "oj軍",
+      "score": "1.81",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0UsSxCAIBNDGHvD+N07hhPjD1AwLFz5FQODnEIgvSaiqQDwy8sgxtPlZ3xKroqkdVEXMDObLSW1UGasy21h6WbDdoSp3u8lt4CbvJ1FPL/eMKyYl235XPMoCknG/aX1aZimFznGkaaTmHKMiU6udY3fQT/B2l17vETlPI3l34OnVXDvPuKbG/IV/VfWm3zkv30vEByxxASZbCLw=",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#35e384",
+      "4": "#5b48ea",
+      "5": "#f2775f",
+      "6": "#d051e6",
+      "7": "#5b48ea"
+    },
+    "sz": 30
+  }
+}

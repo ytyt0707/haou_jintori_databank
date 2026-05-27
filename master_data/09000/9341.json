@@ -1,0 +1,55 @@
+{
+  "round_id": 9341,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-24T16:45:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳チー豚] 屁漏らし太郎",
+      "team": "🇨🇳チー豚",
+      "emoji": "🤖",
+      "score": "9.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇳チー牛] 🤓🤓🤓🤓",
+      "team": "🇨🇳チー牛",
+      "emoji": "🐱",
+      "score": "0.09",
+      "kills": 9
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇳チー牛] 女殺し",
+      "team": "🇨🇳チー牛",
+      "emoji": "😍",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳チー豚",
+      "score": "9.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳チー牛",
+      "score": "0.09",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eJzl0cEOgCAMA9C67P+/2cygrFvBg0fLxfjsAgJwLFYkHlviVVZ3965I6uUTG/WJVYGmxqgGX87KO79Po7B2xamnqn+y0meu7matY7mLY61o+BYTV0ujN76tftLf5gTn/wHV",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "4": "#b9ec5f"
+    },
+    "sz": 30
+  }
+}

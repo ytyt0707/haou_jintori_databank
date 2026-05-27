@@ -1,0 +1,56 @@
+{
+  "round_id": 4102,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-12T02:25:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 初めてです",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "49.17",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] アハンオケツイク",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "4.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇹🇼国民党] OMG",
+      "team": "🇹🇼国民党",
+      "emoji": "🐶",
+      "score": "0.00",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "54.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇹🇼国民党",
+      "score": "0.00",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0eEOgCAIBOArxvu/cpOhCYPT+9FcH2dWAASyghxJ2e42KkTjYBuKYZ+j5lHSBXswkA+Na5X53ciZGQfNY4c/RpV3O/V1qSiLrnbRkrG9V+kYzaTvWulI1ImPxQa0rQb9bff6VFAFUe/3avkArT8GEw==",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#ab69f7",
+      "5": "#ab69f7"
+    },
+    "sz": 30
+  }
+}

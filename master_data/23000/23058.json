@@ -1,0 +1,50 @@
+{
+  "round_id": 23058,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-09T05:37:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "よくない",
+      "team": "",
+      "emoji": "🐷",
+      "score": "26.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇼ONJ] 習近平",
+      "team": "🇹🇼ONJ",
+      "emoji": "🤖",
+      "score": "1.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無し0C",
+      "team": "",
+      "emoji": "😍",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇹🇼ONJ",
+      "score": "1.02",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkN0WgCAIg6cH3/+VSwwc/tWJmwbfhqbIU1iVQVlBOBVBARBdREspaqYtkWr3j7ZF66wf0rGPWDjmoWmH4B9+6BGG9xCRaYGnFY7rndrD2pn67XRSYoGJjIOU0jiiXuHWkFqRn+UR4jWrDt7X9e7OGRmouW4llfOJQinZo2zhOPve1YP3ddMLu90ESw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#e230e8",
+      "5": "#30e881"
+    },
+    "sz": 30
+  }
+}

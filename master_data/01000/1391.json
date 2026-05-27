@@ -1,0 +1,61 @@
+{
+  "round_id": 1391,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-05T21:36:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[庶民] 美衣💢",
+      "team": "庶民",
+      "emoji": "🤖",
+      "score": "22.36",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[個人軍] まりも",
+      "team": "個人軍",
+      "emoji": "🐱",
+      "score": "13.07",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[超最強] 最強",
+      "team": "超最強",
+      "emoji": "👽",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "庶民",
+      "score": "22.36",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "個人軍",
+      "score": "13.07",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "超最強",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0dsOgCAIgGGk93/nlodFS+VH5cZm3ziIyHKoKkJP5BO4qvOF7wwPOQ3n2ymL8g3m3WivB/tusJi2Ns/9E9c76EpcEziu+4H9/wvuPWZl2wdi84As4A6lIxswb3uMOW2lBFzyIuhcSEvTHukwdHrnUYU6Gze+lgOo",
+    "cp": {
+      "1": "#5041f6",
+      "2": "#a1ea62",
+      "3": "#6deee5"
+    },
+    "sz": 40
+  }
+}

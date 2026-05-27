@@ -1,0 +1,73 @@
+{
+  "round_id": 839,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-04T15:47:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[阪神] バルチック海軍",
+      "team": "阪神",
+      "emoji": "👻",
+      "score": "39.87",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "コーヒー",
+      "team": "",
+      "emoji": "🤠",
+      "score": "10.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[阪神] 前川右京",
+      "team": "阪神",
+      "emoji": "😎",
+      "score": "3.98",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "演出追加",
+      "team": "",
+      "emoji": "👻",
+      "score": "0.41",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[舞散葉] キング",
+      "team": "舞散葉",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "阪神",
+      "score": "43.86",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "舞散葉",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0lEOwyAMA9A0Hve/cgWNCsQGoTU/27JXcKOY/Ve/VqjVvj2NlctFDP2MvXsv3DrgI2TnrigHdAkVCzdSEW903Sp26jA32QHF2ZlyxZ1GYMmhVCbd/Lu0eOxyob3HmbO1i0HFp3KAGa5prOriygw4cMi3Zvh26bwpI7bOBxf/cz4Mw+6nqffwxw09Wzqf+soFRHYyYSo1qC9OQ/WU2ht2ar9UCrE+Mq3aHwVp06L80KUDN4xS3/9LCho=",
+    "cp": {
+      "1": "#8eec89",
+      "2": "#c393f1",
+      "3": "#c393f1",
+      "4": "#80cdfa",
+      "5": "#fb544b"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "round_id": 11120,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-02-02T10:29:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "万華武者",
+      "team": "",
+      "emoji": "🤖",
+      "score": "8.68",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "クソ",
+      "team": "",
+      "emoji": "😎",
+      "score": "2.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🐱",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJzdzksOwCAIBNBR4f5XblDxD2lddhJXLzMCgBkloT7EGjFJxh4BCasqoJRNDejR4an7UvXkUePYnQ4+Vlv/+G3j/SqYybpeOqmJcIfhDu9KRM7yovioNChvSLhJumr9Jg9WEwIn",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f36b59",
+      "4": "#fa5cc0",
+      "5": "#2af4ed"
+    },
+    "sz": 30
+  }
+}

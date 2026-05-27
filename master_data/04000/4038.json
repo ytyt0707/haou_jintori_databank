@@ -1,0 +1,65 @@
+{
+  "round_id": 4038,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-11T22:58:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[oj軍] アベベ",
+      "team": "oj軍",
+      "emoji": "🦄",
+      "score": "21.62",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[oj軍] 🐷中山司🐷",
+      "team": "oj軍",
+      "emoji": "😍",
+      "score": "20.68",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[oj軍] やったか！？",
+      "team": "oj軍",
+      "emoji": "😍",
+      "score": "1.79",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[さとる] メスショタ",
+      "team": "さとる",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "oj軍",
+      "score": "44.09",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "さとる",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyVkcESxCAIQ9MNw/9/8s4ihaDtYTko+kjA0V0CgP8RW7GZ2Ss148SjKcknzKCwgE2hWoCM2oz1hLhLGimRtBSZxeYUitv6J11HodU2tAE+wxkckC7OWDBWNsYWpdWpQO8CZpOihFeht/1h3EKR1koZ7FBG120ozhrRHh5z4rOD97teqJwmXT/S/yeUqJ+p4ul1N9yya9DtGbgyTqeizyjxuPgCfikHQg==",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#f36dcb",
+      "4": "#f36dcb",
+      "6": "#f36dcb"
+    },
+    "sz": 30
+  }
+}

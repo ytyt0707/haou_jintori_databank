@@ -1,0 +1,81 @@
+{
+  "round_id": 7208,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-19T02:32:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇪ばん] 東京の獅子",
+      "team": "🇻🇪ばん",
+      "emoji": "🦄",
+      "score": "35.04",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇪ばん] 仕事は？",
+      "team": "🇻🇪ばん",
+      "emoji": "😍",
+      "score": "7.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇪ばん] 大和田輝彦",
+      "team": "🇻🇪ばん",
+      "emoji": "💩",
+      "score": "3.84",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "😎",
+      "score": "0.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵うんち] Adolf",
+      "team": "🇯🇵うんち",
+      "emoji": "👽",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇪ばん",
+      "score": "46.04",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵万華郷",
+      "score": "0.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵うんち",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJylkdsOAyEIRIcdSv//jxtBVrxs06TzYCLHYVCBkEAAWYRbcqAy4ElfraW1h99tbGmcEGJNIqJ3ycuMg4UWKSOtU11oxwZTF/DazWadjlTBO72aGpSxH6htauom/Eb5h7ddp9TNb/Vk9eea6Oqt+ORNeh1ogXi0Xq5WJFmsSduiqiRpQf1Yt3Y6d6ZG5jR0v1gLeX5JEgsFmR/tM2xPmVNHQKVj9S8F8AH5WQds",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#42f04b",
+      "4": "#42f04b",
+      "5": "#b2f462",
+      "6": "#42f04b",
+      "7": "#f25f45"
+    },
+    "sz": 30
+  }
+}

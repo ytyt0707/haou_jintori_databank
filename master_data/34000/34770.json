@@ -1,0 +1,81 @@
+{
+  "round_id": 34770,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-07T06:30:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] クローヴィス",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐺",
+      "score": "33.71",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] タコ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "6.63",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵共産党] 鯖ウォ呪",
+      "team": "🇯🇵共産党",
+      "emoji": "😀",
+      "score": "6.58",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無しIb",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "0.09",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 爆弾/自認レゼ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐬",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "33.88",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "6.63",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵共産党",
+      "score": "6.58",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF90oEOgyAMBNDD9bb//+Ol5VoKGkmmyONKjSN8mP/MjIxHaoAWy7r6LgCppGXOjBYPneduwEgbw8v3eCqJiV0TQY7RsvPwUiBVrXlvpQzW0Q7eeGlMdLJe/NAx95pih6pQ4VF5sg68nRta7TxWLsVTZVcfeFBR8D3b9Hdqs0jrHavbzV9xVW6Z9c+pbNM1fdVr6ldjpWL22fW788xmNO5tg6JIL8JVHzBNhdXpdR2Vtb7fKrsvA39uHgiR",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#8B4513",
+      "5": "#9ca3af",
+      "6": "#aad411",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

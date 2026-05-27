@@ -1,0 +1,88 @@
+{
+  "round_id": 5896,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-16T03:35:01.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "アナ",
+      "team": "",
+      "emoji": "😀",
+      "score": "6.69",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵田中] 千石撫子",
+      "team": "🇯🇵田中",
+      "emoji": "🐱",
+      "score": "1.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😈",
+      "score": "0.07",
+      "kills": 7
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵田中] おちすぎ",
+      "team": "🇯🇵田中",
+      "emoji": "👽",
+      "score": "0.07",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇺🇸南関東] 爆弾/自認レゼ",
+      "team": "🇺🇸南関東",
+      "emoji": "🦄",
+      "score": "0.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[うんこ] やったか！？",
+      "team": "うんこ",
+      "emoji": "🤔",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸南関東",
+      "score": "2.02",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵田中",
+      "score": "1.60",
+      "kills": 13
+    },
+    {
+      "rank_position": 3,
+      "team_name": "うんこ",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0NEOgzAIhWHyQ5bu/V/YFNxSCjXLTrwwfh7QitxRVZVT1CMqggCMUXXWiST+TVUbXFkdB/JqX5gItF/uc+l0hk96VZdWoXTxazNqZe9asBWWRcEs7pvN85mZWZqdF7t2GPpwENiDpm5mtsm8U2/9j/2sCiVuNZZz5HvpWQ9TF+3fka/+lQsqywR1",
+    "cp": {
+      "2": "#2858f6",
+      "3": "#ed353e",
+      "4": "#f651ab",
+      "6": "#f3963f",
+      "8": "#f3963f",
+      "9": "#c962ef"
+    },
+    "sz": 30
+  }
+}

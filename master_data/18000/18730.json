@@ -1,0 +1,74 @@
+{
+  "round_id": 18730,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-27T09:27:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] あなるセェクスマ",
+      "team": "みん²",
+      "emoji": "😈",
+      "score": "34.67",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[あああ] 田中やで",
+      "team": "あああ",
+      "emoji": "🐲",
+      "score": "20.94",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦄",
+      "score": "9.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] ぷゆゆ🥺",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "4.95",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[あああ] 正体不明",
+      "team": "あああ",
+      "emoji": "😂",
+      "score": "0.15",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "49.39",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "あああ",
+      "score": "21.09",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0kEWwyAIBNARZ3r/I/epqIhNWxZZ+DMYjKXMgiQA4CxJC4u8Aiom/1ElRQEulSt6fVV+aix4lBIT1jHhUF59t66NIz7ole0rZhYVQUmzyVtrL29pRqx5sLlWM3p0jM+kDddvILHTqJbYPwg7a4x17HzxrZa1/lbOF3LjDiTH85qIGuuJ1zG3zs86gmfjrWKC47TihbrC/scavqTc+bwJq97icgoy",
+    "cp": {
+      "1": "#79f556",
+      "2": "#3ff8d0",
+      "3": "#3ff8d0",
+      "4": "#3ff8d0",
+      "5": "#9c5bf1",
+      "6": "#9c5bf1"
+    },
+    "sz": 30
+  }
+}

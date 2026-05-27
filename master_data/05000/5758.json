@@ -1,0 +1,58 @@
+{
+  "round_id": 5758,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-15T20:07:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ガイジ] ウンハラ",
+      "team": "🇯🇵ガイジ",
+      "emoji": "😎",
+      "score": "25.78",
+      "kills": 10
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵幻魔帝] 万華武者",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "🤠",
+      "score": "0.20",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵幻魔帝] は？",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "🐶",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ガイジ",
+      "score": "25.78",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵幻魔帝",
+      "score": "0.29",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0lEOxCAIBNDZwvb+R25sUWZUusuHaXhiQAu0MIo78bkDEYYBG8UPBankIzyV1o7ugpgwuEI3TpnoqcwzeJ48SkW/oa2Gri2wK+ROteNKMWuy9Sw/2LJ/fB38KPLEc+kzvK2/gV7Aiz7dvbpOtO74v7ZAFH2VXVHHm9qE3bF04IappJwo4wKQ9QPE",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ef62d2",
+      "4": "#f43734",
+      "5": "#f5a742",
+      "6": "#f5a742"
+    },
+    "sz": 30
+  }
+}

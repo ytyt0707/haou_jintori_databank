@@ -1,0 +1,83 @@
+{
+  "round_id": 7726,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-20T06:32:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ぷゆゆ] よっぴ",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "😈",
+      "score": "28.92",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵うんち] アベベ",
+      "team": "🇯🇵うんち",
+      "emoji": "🤠",
+      "score": "27.11",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵うんち] 爆弾/自認レゼ",
+      "team": "🇯🇵うんち",
+      "emoji": "🐷",
+      "score": "15.50",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ぷゆゆ] はじまん",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐷",
+      "score": "9.35",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ぷゆゆ] まままま",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐷",
+      "score": "7.56",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ぷゆゆ] 千石撫子",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐷",
+      "score": "1.38",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "47.21",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵うんち",
+      "score": "42.60",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90tGOhTAIBNCm02H4/y/eANW2Xl0e1HgcA6RNUdyqVdHrUfWBGW2ku3tenKmUZAAMA6DDERWqNqP5ZmBVZgthZjZfX/dQkjLZpisdaldFJy/aEscRdiIGu6MjelrhUH5o3pcCY+z/ZSkvxZYlZjY4rmjPiUqrIiF9aawldv6/Mnf8oqydR2/pD+WteNEhac2lh0Iaa5e7qg7JtrB2ar8H9l/tvfdrXD81o1TvdaZioqWax09Kcndp11l+o84/L0r8yR74qZo6K5uaT9VQ1B8yaBAW",
+    "cp": {
+      "2": "#2858f6",
+      "3": "#71cdef",
+      "4": "#71cdef",
+      "5": "#db3bf7",
+      "6": "#71cdef",
+      "7": "#db3bf7",
+      "8": "#71cdef"
+    },
+    "sz": 30
+  }
+}

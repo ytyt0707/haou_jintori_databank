@@ -1,0 +1,86 @@
+{
+  "round_id": 5876,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-16T02:30:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐲",
+      "score": "16.29",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 山上徹也",
+      "team": "みん²",
+      "emoji": "🤖",
+      "score": "15.34",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇷🇺中立国] 平和主義",
+      "team": "🇷🇺中立国",
+      "emoji": "🦁",
+      "score": "6.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇩🇪ナチス] ナチス",
+      "team": "🇩🇪ナチス",
+      "emoji": "👽",
+      "score": "0.07",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[鳥取] ラクダ",
+      "team": "鳥取",
+      "emoji": "👻",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "31.71",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺中立国",
+      "score": "6.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇩🇪ナチス",
+      "score": "0.07",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "鳥取",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lkOwzAIBNApU+T737hq7cbs/MWPAUcJeQpVkYFfgfFonkFXbw4Ys16OLqfuFjEL3DNi7TJqug8uqRSjrqhldC/eyEafMK0CEBHJo++crSi/nvgXJqGjFtn/ozb/x1FVqmqvv0pAgwr4hu9CTXWVSU2UbBEF+s2zpo5R0bI9+wAsSgZL",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#c550f7",
+      "4": "#c550f7",
+      "5": "#c550f7",
+      "7": "#ea8e48"
+    },
+    "sz": 30
+  }
+}

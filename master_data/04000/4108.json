@@ -1,0 +1,63 @@
+{
+  "round_id": 4108,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-12T02:45:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "28.34",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ナチス] 馘",
+      "team": "🇩🇪ナチス",
+      "emoji": "😂",
+      "score": "25.03",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪楚] キングぷゆーゆ",
+      "team": "🇩🇪楚",
+      "emoji": "👻",
+      "score": "0.20",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "28.34",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "25.03",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇩🇪楚",
+      "score": "0.20",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10cESgCAIBNAN5P9/udEkYXM4NLVHH8tBzMxMKPDYiCAOATriOmdEVXd6dNT5qLrpuq5kNcJYhnG1qw8IdupV2XZvjd3WKn10AbzU69tZQYqs9wS4nu/I25FPmDTWwmqEtesGBa5mTImojL/q0/J/WuYE8N0H/g==",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#85eb3d",
+      "4": "#5538f5",
+      "5": "#c855f1"
+    },
+    "sz": 30
+  }
+}

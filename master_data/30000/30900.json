@@ -1,0 +1,75 @@
+{
+  "round_id": 30900,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-27T16:56:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🧠] アベベ",
+      "team": "🧠",
+      "emoji": "🏺",
+      "score": "47.68",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🧠] 穂信",
+      "team": "🧠",
+      "emoji": "⚙️",
+      "score": "14.48",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] パソコンマン",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "6.02",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 悪童",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "名無しHx",
+      "team": "",
+      "emoji": "😍",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🧠",
+      "score": "62.16",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "9.39",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGV0VEOwjAMA1C3dcL9b4ychTbdKgT9YJMeTkxBa62NMYa7t+buznVAcqnQx1LixYhGVh+7kvRrsMf4sWWXklSBm8Y2t1i3I0FWLY30qtJiPR/HkHxSMwDo7t2uvVs8tOuclBGF8J41kAb0flTtkGrzM5uq4bDJtXyQpk+trVNjvFLqttLxe6MZ4l726h/N5TxqorpVz2zVUuvTqnDR79l/tQzWPc+TjddlVL1w+yNL9jfNb8Vjbl0vhd+dOwtT",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8b4de5",
+      "5": "#8b4de5",
+      "6": "#8B4513",
+      "7": "#e830cb"
+    },
+    "sz": 30
+  }
+}

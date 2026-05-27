@@ -1,0 +1,88 @@
+{
+  "round_id": 6714,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-17T23:49:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ソ連] ソ連",
+      "team": "ソ連",
+      "emoji": "🦄",
+      "score": "11.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 大栄翔",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "11.08",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] ベネット",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "5.76",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "いいぼう",
+      "team": "",
+      "emoji": "🦁",
+      "score": "3.66",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "1.93",
+      "kills": 10
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇨🇳パパ] ガチさとる",
+      "team": "🇨🇳パパ",
+      "emoji": "🐲",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "18.77",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソ連",
+      "score": "11.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳パパ",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9kFEOwCAIQyEo4f4nXsbEAXbrl/poAYn+NZfqqzaauLq+zImC5JeeuYu2vgnRB9UtNFSj86CSvatid72hiAigj006LctUWj5YzXtCWuY5YToja7n7QBNg3MFicjs3IrJQjXcx80FrtJkppvyGI8o7O57GKObad9w0V/hWgUdoo7RNg8nm1nDjBb0A6gLawway",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#47ea39",
+      "4": "#eb8c52",
+      "5": "#47c7f5",
+      "6": "#47ea39",
+      "8": "#47ea39"
+    },
+    "sz": 30
+  }
+}

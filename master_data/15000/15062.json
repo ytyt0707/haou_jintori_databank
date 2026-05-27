@@ -1,0 +1,84 @@
+{
+  "round_id": 15062,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-14T15:18:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 李自成",
+      "team": "猛虎軍",
+      "emoji": "🤖",
+      "score": "14.30",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[蒙古麺] ぷゆゆ🥺",
+      "team": "蒙古麺",
+      "emoji": "🤖",
+      "score": "10.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😂",
+      "score": "9.90",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] ベネット",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "7.41",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "👽",
+      "score": "0.34",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[蒙古麺] パンニバル",
+      "team": "蒙古麺",
+      "emoji": "😍",
+      "score": "0.11",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "31.61",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "蒙古麺",
+      "score": "10.83",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eJydz1sOxCAIBdDL1KHsf8WNCohIf3qTPuIBVKDKb6T/3Zqm34mjRrGNBLUhC5Vnk8WowRWFhuYvejAzJ8Wu/dGSG7lVY70o1I6w32dTJEzqITpU+ut6UZlKBCJTLJTVppxbhbSk1h4f7RpQ6EV993hfbCqnamq1gfVkXzz0z/OwtTLbPbOCfb/pXrbFuFZfjvgAhXEJXQ==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#5e94f7",
+      "4": "#5bf1c9",
+      "5": "#6ce750",
+      "6": "#5bf1c9",
+      "7": "#5bf1c9",
+      "8": "#6ce750"
+    },
+    "sz": 30
+  }
+}

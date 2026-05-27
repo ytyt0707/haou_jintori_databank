@@ -1,0 +1,57 @@
+{
+  "round_id": 6374,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-17T05:26:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] チギュりパンで草",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "31.11",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "11.14",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[さとる] メスショタ",
+      "team": "さとる",
+      "emoji": "🤖",
+      "score": "2.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "42.25",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "さとる",
+      "score": "2.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJylkFkOwyAMRMcec/8rV3gBkkKUqvOD7Ie3AV0AKegvKACkkvFC7gL4SB2amT1SkjuanXv5T7SzxAttrnd0rL1iuLhMlkkxaRzEcXNrkhbRodVs1LqS1U6t3EQdU9g0aIblw57epbPzgZ6rNRaDXbLmoWrUWoT5ExVP+qU594T/oPu5GFSPi72ieSjWtrFU0r2Pmo5tf3wAQ1wG/g==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f03d2d",
+      "4": "#f03d2d",
+      "5": "#6af547"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "round_id": 12399,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-05T07:39:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "かに",
+      "team": "",
+      "emoji": "😍",
+      "score": "31.70",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "😎",
+      "score": "16.45",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐱",
+      "score": "12.68",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] ソ連",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "3.15",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇻🇳神撫子] 廃人のフリーマン",
+      "team": "🇻🇳神撫子",
+      "emoji": "🦁",
+      "score": "0.22",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "16.45",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "15.83",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇳神撫子",
+      "score": "0.22",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90gEOhTAIA9DuU/H+N/7BCQOHNsYYn1SXCVVVIA7PuAItuUREpEN1lCFD5FUNN7UHJNIpPjS68aYx3porNjssXl6QwEHyIK9nqpIAODMryijpuKkVVgz9YUGcyKXO62LTuVqvyZryUG0xVNvhmx4IzMWhHb23Anhl24XgeaNsYNLE6ceqzZJN4sW18qEmZ4fNt35ozh825wr2",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#e55b38",
+      "4": "#504ae8",
+      "5": "#504ae8",
+      "6": "#49e0ee",
+      "7": "#b8ea62"
+    },
+    "sz": 30
+  }
+}

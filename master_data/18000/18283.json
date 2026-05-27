@@ -1,0 +1,71 @@
+{
+  "round_id": 18283,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-26T08:38:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐱",
+      "score": "51.83",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] ぷゆゆ🥺",
+      "team": "みん²",
+      "emoji": "🐷",
+      "score": "23.88",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤖",
+      "score": "5.90",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵死] カウパー薄め",
+      "team": "🇯🇵死",
+      "emoji": "🐷",
+      "score": "0.97",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "51.83",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "29.78",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵死",
+      "score": "0.97",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJx10gsOwCAIA9A6yv2vvABiRKXJss8bIsvGmIFFMnGHMUSS5cqQ0FtS0atDg9G4TV21bAy+ddtvV2v6GiZ1pVXBt2O5hgDfc2md5+/VW1Wn38V0Df4OJslOyaXZG3MGe8xau03oGEdlr4yndy2gM3df1YVnX60pqldI2kqyavHS/asWRp3WX2BqDHBoosL4rM0do9X8mfxasXD/0fADMlQK1Q==",
+    "cp": {
+      "1": "#8849ee",
+      "2": "#f22c54",
+      "3": "#f0b92d",
+      "4": "#2eeac8",
+      "5": "#2eeac8"
+    },
+    "sz": 30
+  }
+}

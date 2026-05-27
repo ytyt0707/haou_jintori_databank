@@ -1,0 +1,56 @@
+{
+  "round_id": 19290,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-28T16:58:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] test",
+      "team": "🇯🇵ONJ",
+      "emoji": "😂",
+      "score": "55.44",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チー] 名無しba",
+      "team": "チー",
+      "emoji": "😈",
+      "score": "1.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チー] チギュアってて草",
+      "team": "チー",
+      "emoji": "🤖",
+      "score": "0.92",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "55.44",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー",
+      "score": "2.04",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkUsOxDAIQ4Fw/zNX/BpgQJpFs6jiPGxIA1QXlgUVutISAJgpIaLAhZKylToe+xKRRcccvaq0RWzYqU22UCDSuWe8XancqbYVi924TZOlFGRd90GXGsP6Pac6395iPX/RPIlk6mJmTxbpPZwBMPNP2/gjQtNQYX69Ke9mjDSsN/l6726glmbpJTkLefas2z7esB1/JB8n8gRN",
+    "cp": {
+      "1": "#f97316",
+      "2": "#f97316",
+      "3": "#e89830",
+      "4": "#e89830"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "round_id": 19053,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-28T03:51:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 大日本帝国陸軍",
+      "team": "🇯🇵田中",
+      "emoji": "🤠",
+      "score": "31.27",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵田中] ソビエト共和主義",
+      "team": "🇯🇵田中",
+      "emoji": "🤠",
+      "score": "11.58",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇮🇹ETR] フレッチャロッサ",
+      "team": "🇮🇹ETR",
+      "emoji": "🦁",
+      "score": "1.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "42.85",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇮🇹ETR",
+      "score": "1.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJydkVEOwzAIQ8Hm/mee0qTgKGGa5q9WLwYD7u7Wyv+gENqbrxQwAC0lGgpyGMmz8rA8vmndM3MgUqj50fARV2rkjCyI6rXSDO0UCCASFn5pRNjMqvytGxEZBTudpZOWl2Mf2CSlW0q8q8S8h/ZdkuUe9iutufXaOcQ8wkkN9U3iCpNC6f6UkG0pzZDybwe1Vt/pj/oAVVQDxg==",
+    "cp": {
+      "1": "#8452ef",
+      "2": "#49ee54",
+      "3": "#49ee54",
+      "4": "#ed5f40"
+    },
+    "sz": 30
+  }
+}

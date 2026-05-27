@@ -1,0 +1,65 @@
+{
+  "round_id": 16279,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-17T18:27:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🐶",
+      "score": "41.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "一等兵",
+      "team": "",
+      "emoji": "🐱",
+      "score": "23.84",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ころす] 全員殺す",
+      "team": "🇯🇵ころす",
+      "emoji": "👽",
+      "score": "14.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "pc勢",
+      "team": "",
+      "emoji": "👽",
+      "score": "3.42",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "41.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ころす",
+      "score": "14.28",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0FESgCAIBNBN2/tfuYFRQcCm9rMHBAJoFrRGkiBwSbCphpqhETdNOPxi2bq6yVK59MWkl2e0XhT4VavBP1SvC+r31xJsBX1GGEcVRuTueL5QqaugbAXPmjYKK0fGb7US7KPHRbDT0lb+D/7UOdlmy/dbQyS9LXSTC12r2tLIagc/aFELVA==",
+    "cp": {
+      "1": "#f056a6",
+      "2": "#42ebb6",
+      "3": "#dbf14b",
+      "4": "#75eb88",
+      "5": "#bf26f2"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "round_id": 3049,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-09T17:12:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🦁",
+      "score": "95.25",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ナチス] シュトロハイム",
+      "team": "🇩🇪ナチス",
+      "emoji": "😂",
+      "score": "1.33",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "95.25",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "1.33",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJztkUEKACAIBFf8/58jiIjK3EDwUHvoENOsoYgb1PjYXQzhUkQUg+RY3092opf0ytK9f4LkjCjXpKoZ3IiRtqPT14Fo7XJuOvN5NIfN3cy14+RGAXRuBk0=",
+    "cp": {
+      "1": "#e0525b",
+      "3": "#6dbcfe"
+    },
+    "sz": 40
+  }
+}

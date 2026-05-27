@@ -1,0 +1,48 @@
+{
+  "round_id": 3872,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-11T13:54:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵まん汁] おまんこｲｸッ！",
+      "team": "🇯🇵まん汁",
+      "emoji": "😀",
+      "score": "11.34",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇷🇺ロシア] アレクサンドルⅡ",
+      "team": "🇷🇺ロシア",
+      "emoji": "👽",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵まん汁",
+      "score": "11.34",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺ロシア",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0kEOgCAMRNE/tfc/s4GAViwksnZWhJehXYBC7A64uxNFDUr8UpAwU1DvioCi9RCrVcudeilTrnmkCpm22FB+6tD2l9pKk7FrnWDQY7+6sRLzd1f052vGP5rlBKRAAis=",
+    "cp": {
+      "1": "#dcec32",
+      "2": "#6b40f7",
+      "3": "#ee598a",
+      "4": "#71ee44"
+    },
+    "sz": 30
+  }
+}

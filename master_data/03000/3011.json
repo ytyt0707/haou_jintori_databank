@@ -1,0 +1,40 @@
+{
+  "round_id": 3011,
+  "game_mode": "TEAM",
+  "player_count": 2,
+  "played_at": "2026-01-09T15:09:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵🇯🇵ぷ] さとる大好きだよ",
+      "team": "🇯🇵🇯🇵ぷ",
+      "emoji": "🐶",
+      "score": "3.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "うんこちんちん",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵🇯🇵ぷ",
+      "score": "3.94",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJztz6ERADAMw0BH+w9dUl6BktxZ+IGdbAiwTkEc5CbZw4GDksWN829ba6qZv25vB2kwAIE=",
+    "cp": {
+      "1": "#9c72f8",
+      "2": "#e75f8d"
+    },
+    "sz": 40
+  }
+}

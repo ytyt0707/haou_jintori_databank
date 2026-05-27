@@ -1,0 +1,41 @@
+{
+  "round_id": 2803,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-09T03:55:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵猛虎軍] キングぷゆーゆ",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "👽",
+      "score": "1.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵猛虎軍] さとるのハメ撮り",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🦊",
+      "score": "1.20",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "2.83",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJztzLENACAMxMDPZ/+dEWSAuKBAKK5Plqbp47IntmX30LtkQyeAxYhDTIcBJ6amCwVkAeFjLTjEAHI=",
+    "cp": {
+      "1": "#f8b782",
+      "2": "#5af2a6",
+      "3": "#5af2a6"
+    },
+    "sz": 40
+  }
+}

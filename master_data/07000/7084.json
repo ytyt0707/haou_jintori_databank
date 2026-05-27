@@ -1,0 +1,48 @@
+{
+  "round_id": 7084,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-18T19:49:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ネコち] ねこちゃん",
+      "team": "ネコち",
+      "emoji": "😎",
+      "score": "34.43",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵チー牛] 仕事は？",
+      "team": "🇯🇵チー牛",
+      "emoji": "🤖",
+      "score": "7.64",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ネコち",
+      "score": "34.43",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵チー牛",
+      "score": "7.64",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJy90kkOgDAIBVCGf/8zm45SoLiTHTyBSEo0Ai0oBmiVsYPUsEftAaselVLVQ/3gpSiQVEY53arauf8nEhU5ug4FIBGn46ptV6nzm0qvg8PpbRbUZuGAppAcP3kW33p9UYZ3wtVsDvr2Mcdeo8nkYye7PPb/EQ9BNwXW",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f8f120",
+      "4": "#f7597c"
+    },
+    "sz": 30
+  }
+}

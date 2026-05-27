@@ -1,0 +1,43 @@
+{
+  "round_id": 11572,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-02-03T10:55:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "パンテオン",
+      "team": "",
+      "emoji": "🤔",
+      "score": "5.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "前川右京",
+      "team": "",
+      "emoji": "🐱",
+      "score": "3.84",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "山上徹也",
+      "team": "",
+      "emoji": "😍",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJzNj0EOABAMBJe0//+y0JCmdBMn5tgxFGoHOdQyya+9QelYdRtrJ8usiFU4sKwMojUvk2h9ym368EG6OP0WsUy+4YeVyusFADRdmwF0",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "4": "#5287ef",
+      "5": "#48eff4"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "round_id": 10077,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-26T08:33:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵正義] あんこ",
+      "team": "🇯🇵正義",
+      "emoji": "🐱",
+      "score": "78.75",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ナチス] ナチス",
+      "team": "🇩🇪ナチス",
+      "emoji": "🤠",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵正義",
+      "score": "78.75",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJydklEOwCAIQ19g9z/z4nQLU6jZ+mEMjzYQNesCd2jnrXY1t1CI9JKZ/5V26mBJ2UWPrtwsvZQ+FSnpACJWQ3x5lIKubes64NR0+gDf6BtzKJyMilwkakspIXN+QrW3gmS1RyetWwiL",
+    "cp": {
+      "2": "#48efaf",
+      "3": "#d763f8",
+      "4": "#5d99f4"
+    },
+    "sz": 30
+  }
+}

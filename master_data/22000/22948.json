@@ -1,0 +1,75 @@
+{
+  "round_id": 22948,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-08T23:40:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ttn] ttn",
+      "team": "ttn",
+      "emoji": "💩",
+      "score": "16.26",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しGz",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "11.80",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ttn] 爆弾/自認レゼ",
+      "team": "ttn",
+      "emoji": "🤖",
+      "score": "6.42",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "🦄",
+      "score": "1.28",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ttn] 謎の男",
+      "team": "ttn",
+      "emoji": "🤠",
+      "score": "0.53",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ttn",
+      "score": "23.20",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "11.80",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9j0kOhDAMBBvaMf//8chbcJA1PoRD0dt11Uke2hmD2huwIQClTCgzxeAbWlUt469W4+bgK6kVEw8/kzv28BPj4y1n+KY1q+O0NsNhVtAGD+tNRSTUvVdRs11rHUpkZU24VleicDaaafVdfY7bWDKy0SfWuKq9IkL+obSbrQGHFDBq33d8PRiJRZzeSOijNiT5ALhLGgYhtdkkDW5t8mglgDg9McEnbF+4FzC83Wcwrk20Tm/lqpWLh8L7j3S2zw/3XQYn",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830cb",
+      "4": "#e830cb",
+      "5": "#73d411",
+      "6": "#8B4513",
+      "7": "#e830cb"
+    },
+    "sz": 30
+  }
+}

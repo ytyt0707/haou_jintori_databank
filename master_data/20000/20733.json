@@ -1,0 +1,57 @@
+{
+  "round_id": 20733,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-03T23:52:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "29.33",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チーム] ・",
+      "team": "チーム",
+      "emoji": "🦁",
+      "score": "2.32",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.15",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "29.33",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チーム",
+      "score": "2.32",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdkUkWxCAIRMGU979yP4ZSMFkk23bD8KmSGJHHo6qPfWsCqgCwB0qOG62TTk28tNXIpGrepAazirRRiR5sIz8uppZNRHI4L0plbJbi9KuhPEhtW55ep7ZfEfSUsubSrHt8R32qC/l4aTDnnCIYY3A3OlsMGp2w2dSYafM4ZpHSRmX9wpza9IaKz7+k17cP+QFZGQS1",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83042",
+      "4": "#e830cb",
+      "5": "#6e4de5"
+    },
+    "sz": 30
+  }
+}

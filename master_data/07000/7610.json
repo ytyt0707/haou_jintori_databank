@@ -1,0 +1,81 @@
+{
+  "round_id": 7610,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-20T00:16:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "55.02",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇸🇦bot] 雑なお魚さん",
+      "team": "🇸🇦bot",
+      "emoji": "😈",
+      "score": "8.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "4.29",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇸🇦bot] 膣夫",
+      "team": "🇸🇦bot",
+      "emoji": "😂",
+      "score": "2.53",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇸🇦bot] 陣地あげます",
+      "team": "🇸🇦bot",
+      "emoji": "🐱",
+      "score": "1.20",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "55.02",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇸🇦bot",
+      "score": "11.84",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "4.29",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lESgCAIBNCtRbj/jRsFU4raj8Z8oowFABARGQ/x8Ux+ewXSi9Fa09Zan6FwZpRP78o9Sz1j0sxqBQGrlHOwKZZy4a35yKn2QESfm/KF0fOPOutS5gxV/VCaqapKjTSoN923f2k/NbSIajRNpgVYehA4PTy3QnUVkJM3jFFXZrxzYChrHed+K+/aCo+/Ut84NyWPNR8tc13xyepGEV2VlYzPNzn/usAFnjUJTw==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#aef868",
+      "4": "#f05c33",
+      "5": "#f05c33",
+      "6": "#f05c33",
+      "7": "#eed144"
+    },
+    "sz": 30
+  }
+}

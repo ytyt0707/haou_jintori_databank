@@ -1,0 +1,78 @@
+{
+  "round_id": 312,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-03T11:20:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] 鳩山由紀夫",
+      "team": "うんち",
+      "emoji": "👻",
+      "score": "17.51",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[特攻隊] 自爆テロ",
+      "team": "特攻隊",
+      "emoji": "👽",
+      "score": "10.68",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "🦁",
+      "score": "1.33",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[さとる] やの",
+      "team": "さとる",
+      "emoji": "🤠",
+      "score": "0.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "一発逆転屋",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "17.51",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "特攻隊",
+      "score": "10.68",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "さとる",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt1NEOgzAIBVAg9v9/ealzxtJboNRsMRlvWo8XpUr0r2eU1FqgSS/XWqBzWtNqSynZ2LJXAh8yE13K96zCMkP79xWngE/Iu2w9yMZOuYfam2Kn9cJwV/4dJJJvO2SZAy0PArhWjq5bjeMdO9ZIhecjgxnQt7YpWTQbu9JyyA5wzCIsrt02uKfO78CPBVj83HNXdTSyixk+sW2ZG8vQ4gZZF7Ioirm3bNr+cmUv91DWoU3+Dk/brHqURqFOIx8LJ3I9CXo6LHjFhGzfFZpsO0TQPuEyltSdsDaXf14vebIGQg==",
+    "cp": {
+      "1": "#88fca9",
+      "2": "#ea61c6",
+      "4": "#84d2f1",
+      "5": "#bca2f1"
+    },
+    "sz": 60
+  }
+}

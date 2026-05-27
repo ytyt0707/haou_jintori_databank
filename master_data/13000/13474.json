@@ -1,0 +1,42 @@
+{
+  "round_id": 13474,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-11T01:27:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🐱",
+      "score": "24.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🦄",
+      "score": "1.27",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "1.27",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0NsSgCAIBNAl+P9vbnAyQS427ZN2XHMAAAIRCBqisbehF3U5Y303q8+NlY4/hxiOd/vXuXeeteCDzjHk1UbXbNIujyzVnTdl9wUsIkb38yLCEb8qN7ql5b5bK5aB+SpqWTefLQr0o865w6b5IzcXrgNK",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#28bbf0",
+      "4": "#82f060"
+    },
+    "sz": 30
+  }
+}

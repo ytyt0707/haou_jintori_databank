@@ -1,0 +1,48 @@
+{
+  "round_id": 4846,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-13T18:48:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇰🇷チー牛] 韓国人",
+      "team": "🇰🇷チー牛",
+      "emoji": "🐱",
+      "score": "14.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳ぷゆゆ] 安倍晋三",
+      "team": "🇨🇳ぷゆゆ",
+      "emoji": "🐱",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷チー牛",
+      "score": "14.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳ぷゆゆ",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzNklEKwCAMxeLW+595IFihtQ/p1/Kn0VBBAMZiLojknVv6N8FMW6FtUkXc7mPJOmcb0q+0IXwe/tqCttVztS2I9km+6rrv0y/Lz/E/PjtkAg4=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ce3cec",
+      "4": "#64f028"
+    },
+    "sz": 30
+  }
+}

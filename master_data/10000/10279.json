@@ -1,0 +1,138 @@
+{
+  "round_id": 10279,
+  "game_mode": "TEAM",
+  "player_count": 15,
+  "played_at": "2026-01-31T13:02:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[軍鶏] シャク",
+      "team": "軍鶏",
+      "emoji": "😍",
+      "score": "11.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] ハンニバル",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "9.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🤔",
+      "score": "8.53",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ゲスト] 都電とおでん",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😍",
+      "score": "8.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "5.73",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] 偽覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "4.90",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵万華卿] 万華武者",
+      "team": "🇯🇵万華卿",
+      "emoji": "🦄",
+      "score": "4.30",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "1.53",
+      "kills": 6
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵矢野へ] ブースト押しずら",
+      "team": "🇯🇵矢野へ",
+      "emoji": "😍",
+      "score": "0.32",
+      "kills": 10
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🦄",
+      "score": "0.04",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "19.84",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "軍鶏",
+      "score": "11.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ゲスト",
+      "score": "9.59",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵阪神",
+      "score": "8.57",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵万華卿",
+      "score": "4.30",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90dtuAyEMBNCRMgLcxvX//23lCw67TTovRDqMgQ3wfx4eEREAglheWZ7YAJjVLo+1+oYFM5OnCMx2VVazebx8qCe50JeLlgfbW/0Clv0g1W4aF0RVT413lnb6zq041E6VQ/0HCZLxXqyzm+jZ33JfIpc5SxmKl44xdCu5/KpVE5GRWrNx1UCdPbqPFKx1V17/6aGe0HnoStWt08/GtetjFcm4KfJUQFHatVYgZ5d873Orq2PwUzdCflbV0st7yRqtJN+op5Q3Zev+jH81VxT9Ahs5EBw=",
+    "cp": {
+      "3": "#f127d6",
+      "4": "#5dea5d",
+      "6": "#5ac5ed",
+      "7": "#694bf1",
+      "8": "#5ac5ed",
+      "9": "#f127d6",
+      "10": "#f764b0",
+      "11": "#6892ee",
+      "12": "#f127d6",
+      "13": "#5ac5ed",
+      "14": "#abf660",
+      "15": "#abf660"
+    },
+    "sz": 30
+  }
+}

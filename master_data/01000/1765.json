@@ -1,0 +1,70 @@
+{
+  "round_id": 1765,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-06T18:41:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳阪神] 前川右京",
+      "team": "🇻🇳阪神",
+      "emoji": "🦁",
+      "score": "26.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ナチス] 大日本帝国陸軍",
+      "team": "🇩🇪ナチス",
+      "emoji": "😍",
+      "score": "24.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳阪神] ロゼしか勝たん",
+      "team": "🇻🇳阪神",
+      "emoji": "🐶",
+      "score": "6.92",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[日本軍] 隊長まりも",
+      "team": "日本軍",
+      "emoji": "👽",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳阪神",
+      "score": "33.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "24.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "日本軍",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt1FsOxSAIBNCZ4v7XfBNfVXHQpJe/xhMQ1AI6zILFkY0wtdixAaa0l5WZZ7O0HqEzm2FZJxk4y441ZN0MpYNyLM6OjhzdukGOIbbnHFUbVw7O6bInh0v3HhyJSxeP5XmcE/Pz/frC7TsxhFCuy6OboWm3ZKz3Wbq5YemWQb8OoYPKtz7hUx/f820OuThs0eKSShY4RC7D9twhXfuzHV2/D+nG/St+xbgH5w==",
+    "cp": {
+      "1": "#f84bfb",
+      "2": "#e6e660",
+      "3": "#e65c5e",
+      "4": "#f84bfb"
+    },
+    "sz": 40
+  }
+}

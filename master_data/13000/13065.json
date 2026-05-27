@@ -1,0 +1,63 @@
+{
+  "round_id": 13065,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-07T19:17:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[☭] 爆弾/自認レゼ",
+      "team": "☭",
+      "emoji": "😀",
+      "score": "58.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] ぷゆゆ侍",
+      "team": "🇬🇧珍走団",
+      "emoji": "🦊",
+      "score": "2.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "👽",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "☭",
+      "score": "58.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "2.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "うんち",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0VESgCAIBNCFtftfuVEQkaz/9qPGeYBmAAAhBSKAlkAiFNFREEUA6WbRpegqSGjaMxAczQxFsCuT0vqycqmJqZq21ta+VVvSdax5qoyh9nzoHHtURJwzUrFlb+2fNF7sfbV13oCvirIqyYvnoA6rc+xsx4qpZ/yRIinfWq3s8zbSqOfG8Z/z2t83EU8HQQ==",
+    "cp": {
+      "1": "#46d6ec",
+      "2": "#b85ae7",
+      "3": "#437cef",
+      "4": "#bfea61",
+      "5": "#f09b33"
+    },
+    "sz": 30
+  }
+}

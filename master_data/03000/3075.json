@@ -1,0 +1,79 @@
+{
+  "round_id": 3075,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-09T18:37:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳中国] Владимир",
+      "team": "🇨🇳中国",
+      "emoji": "🐱",
+      "score": "38.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳中国] 習近平",
+      "team": "🇨🇳中国",
+      "emoji": "🐶",
+      "score": "22.70",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "👻",
+      "score": "0.91",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[うんち] うんうん",
+      "team": "うんち",
+      "emoji": "😈",
+      "score": "0.51",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵田中] あい",
+      "team": "🇯🇵田中",
+      "emoji": "🐲",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳中国",
+      "score": "61.66",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵田中",
+      "score": "0.99",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "うんち",
+      "score": "0.51",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0lsOxSAIBNAZ6N3/lm80tioPkcR+HUfQAq20LUVZOoqqdIX+mSiCI4cw7uUWeubDWh59WuAYuYnDUQsXsyGXBlPX6E0gqdvJB6d3eVcDq7nDUxxJuXMiIhf3J9Nl1Oad3TZLzlDOvMb9chf9+9Ph7Iq4F1bKjUvPJDqVXSZpmwvY5561NWRvATwbtA6LszBSUaB71+Siw7SFjg04uc8TV66XZeEOepekjcT62FJ8/Xn9B2nrCQ4=",
+    "cp": {
+      "1": "#94f97b",
+      "2": "#efd29f",
+      "3": "#94f97b",
+      "4": "#77b1f3",
+      "5": "#efd29f"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 21522,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-05T18:35:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[たぬぬ] たぬたぬ",
+      "team": "たぬぬ",
+      "emoji": "🤖",
+      "score": "23.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵きゅ] 養分伊藤容疑者",
+      "team": "🇯🇵きゅ",
+      "emoji": "😀",
+      "score": "15.99",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "たぬぬ",
+      "score": "23.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵きゅ",
+      "score": "15.99",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkesOxSAIgwvy/s98UiibGt2PQ7J4+dIWGZAVgfAqaHWHN4yIxg/1okSs6V4+AMQSD3fnV/4TKjpYzKP61eUu2YtXbYSwxGeaL2H60fpCJ2P2tWo36Gbk/eaFAm5mGVLxG0XTdNghqf7EGDjRdG6iOdUdFCsVF4Fcil4gcw1pK+9ZKmqPeIFJW72netNP7T/OUFfV9Z6LB3dw9azh8pADWen6LjlzIDuoc4nP7HL7A042BZk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83042",
+      "4": "#30e8c6"
+    },
+    "sz": 30
+  }
+}

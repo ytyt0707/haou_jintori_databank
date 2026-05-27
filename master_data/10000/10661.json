@@ -1,0 +1,85 @@
+{
+  "round_id": 10661,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-01T09:41:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "😀",
+      "score": "25.46",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自演ｗ] パンテオン",
+      "team": "🇯🇵自演ｗ",
+      "emoji": "😀",
+      "score": "22.73",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "😂",
+      "score": "21.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵自演ｗ] カウパー濃いめ",
+      "team": "🇯🇵自演ｗ",
+      "emoji": "🦄",
+      "score": "0.00",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[カル蛸] ハンニバル",
+      "team": "カル蛸",
+      "emoji": "😈",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "25.46",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自演ｗ",
+      "score": "22.73",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵万華郷",
+      "score": "21.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "カル蛸",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJy90sEOAyEIBFDWzIT//+MGrSzjtvTWORiSFxSjZm3IudB3eCfAJVT1Vu0r7l5r9ez15twslw4AhbM0I+CKU5k6MG6GTjUiqYAMvbSwKinqpzLwcjy56GacO0M0GLHOp40S1/vayKie6XX9nF/Kot5q31st01C6Geyz/jcv/AINIg==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "4": "#f15f95",
+      "5": "#e3733b",
+      "7": "#dff862"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "round_id": 18327,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-26T11:01:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "36.27",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] PCパンテオン",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "10.18",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "6.40",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[共産党] けんじ",
+      "team": "共産党",
+      "emoji": "🐷",
+      "score": "0.16",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "36.27",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "16.58",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "共産党",
+      "score": "0.16",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0csWwyAIBNApTP7/l3MijyDYLjor5WqCClg+ERzjdgEgs8oY506riIiNueZVScriV+E/DWTZm/0wUya1kV1RmFUTnTnViw1TY8o9GBuiHI0cdoHzBPUoHdflNKwqml0eVEWjz66i+ty8P1z7tggWD7XnFv2qKIqmK4+q47+qnrZCjV9lXWDF1HanumcqfqjMl+mt73oDOmoGtg==",
+    "cp": {
+      "1": "#d9e949",
+      "2": "#6befd5",
+      "3": "#6befd5",
+      "4": "#ef48ce",
+      "5": "#5df464"
+    },
+    "sz": 30
+  }
+}

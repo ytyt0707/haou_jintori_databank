@@ -1,0 +1,56 @@
+{
+  "round_id": 13270,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-10T14:25:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[匈奴] 冒頓単于",
+      "team": "匈奴",
+      "emoji": "💩",
+      "score": "8.06",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇳謎の男] クウガ🩲",
+      "team": "🇻🇳謎の男",
+      "emoji": "😍",
+      "score": "0.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "匈奴",
+      "score": "8.06",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "0.16",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYCAMmCEAnxx2WWZ8snglUWSZwIBoW6HyDKys+GRxAvyywxXg9/OgDBJGRkZGwirwKMGvnYDZVAQAsx0A+w==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#9af434",
+      "5": "#e647d1"
+    },
+    "sz": 30
+  }
+}

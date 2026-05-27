@@ -1,0 +1,57 @@
+{
+  "round_id": 10095,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-26T09:32:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🦊",
+      "score": "46.42",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳万華郷] a",
+      "team": "🇨🇳万華郷",
+      "emoji": "🤔",
+      "score": "33.91",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳万華郷] あんこ",
+      "team": "🇨🇳万華郷",
+      "emoji": "🐱",
+      "score": "2.50",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "46.42",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳万華郷",
+      "score": "36.41",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt01sOxCAIBdA7wN3/lieKj0KxzSTDj8YjKjQlSBIE+oRtArsEzbjCijgpXtWXMRRRx+pMDsoU4cGW0FM/R8VT7qnUZpFhJnJMbt39h9rW8W6IzHv9gaGefPCuFl5QvDY3Uth6rRWuXFUtlZis90Zi491HZte2MeZifX7XyBh7QEWhM541/wO/KAuMej2kD1//rg0R",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#ccef43",
+      "4": "#e543d2",
+      "5": "#ccef43"
+    },
+    "sz": 30
+  }
+}

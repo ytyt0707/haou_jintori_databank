@@ -1,0 +1,63 @@
+{
+  "round_id": 6740,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-18T01:13:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵不祥事] 中居くん",
+      "team": "🇯🇵不祥事",
+      "emoji": "🤠",
+      "score": "32.22",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵細川家] 生麦",
+      "team": "🇯🇵細川家",
+      "emoji": "😀",
+      "score": "27.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "🤠",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵不祥事",
+      "score": "32.22",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵細川家",
+      "score": "27.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳チギュ",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd00sOwCAIBFB0pve/cqMGBVSSlk2JD8H+RL4EoFdoamwubQr8VliNcwHLToGl8HXiRFJtUXOtfmzUHrs+o7PdvG+9d66p6rGuOm9IUxKgRkvdSyAXjorZuWsPWbyUh5h6QtU40epR9FQ3ZCkJkrn6p3Gaaz9LQ9x+lFAr8gK+ZAdN",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#66f472",
+      "4": "#a8ee53",
+      "5": "#f7c626"
+    },
+    "sz": 30
+  }
+}

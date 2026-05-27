@@ -1,0 +1,72 @@
+{
+  "round_id": 4132,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-12T04:03:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵トー横] 💩",
+      "team": "🇯🇵トー横",
+      "emoji": "💩",
+      "score": "29.99",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😀",
+      "score": "11.78",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵トー横] 👈こいつアホ",
+      "team": "🇯🇵トー横",
+      "emoji": "😍",
+      "score": "11.39",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] 千石撫子",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "1.61",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵トー横",
+      "score": "41.37",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "11.78",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "1.61",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0lEOxCAIBNChZbj/kTeiUsDuJstHY/JEwCqAQDzGqofkOPWrW0utuZbYVwRJ6kKL0gAowhlV/UtSEobiL6WSOiLbo74jKXnfZEPLWvynetloi+1o1Ui+vKcjdevl2pvaeK2JyjTzNhwbjx2ub+h3VbVtQNZ+8sClCqieOFUVPsEEM9ON8AGwxteVtGLVCyRQFF1RFA++KzW6QuL4fXuieOhWH91rfAA4mgoi",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#ea6f62",
+      "4": "#f759a8",
+      "5": "#f759a8",
+      "6": "#90f542"
+    },
+    "sz": 30
+  }
+}

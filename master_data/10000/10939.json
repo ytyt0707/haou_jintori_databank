@@ -1,0 +1,48 @@
+{
+  "round_id": 10939,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-02T00:43:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵チー牛] チギュりパン",
+      "team": "🇯🇵チー牛",
+      "emoji": "🦁",
+      "score": "12.03",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇮🇹ベネチ] しね",
+      "team": "🇮🇹ベネチ",
+      "emoji": "🤖",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵チー牛",
+      "score": "12.03",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇮🇹ベネチ",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0EEOgCAQQ9Ev9f5nNgoKONDgyi55LSRAzjYKVI0N2vRi1W8/au+EWFzRWrJ6Hel9c7uVpF5PJyUKSpTGgySq5kZ9OaqIkWU7XdMR3bpb9Vur+G3+pkmD2fSvHBOlAhk=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f94e73",
+      "4": "#33f0e9"
+    },
+    "sz": 30
+  }
+}

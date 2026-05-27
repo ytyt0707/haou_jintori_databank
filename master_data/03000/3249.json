@@ -1,0 +1,123 @@
+{
+  "round_id": 3249,
+  "game_mode": "TEAM",
+  "player_count": 17,
+  "played_at": "2026-01-10T04:01:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵さとる] 蓮舫",
+      "team": "🇯🇵さとる",
+      "emoji": "🐶",
+      "score": "20.50",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🐱",
+      "score": "10.55",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[不眠症] 月曜日",
+      "team": "不眠症",
+      "emoji": "😍",
+      "score": "4.78",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇺🇸USA] トランプ",
+      "team": "🇺🇸USA",
+      "emoji": "🦊",
+      "score": "4.25",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇹🇼ぷゆ帝] ぷゆゆ🥺",
+      "team": "🇹🇼ぷゆ帝",
+      "emoji": "🤖",
+      "score": "3.35",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵精子] ドピュッ！ドピュ",
+      "team": "🇯🇵精子",
+      "emoji": "😍",
+      "score": "2.61",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇺🇸USA] HIKAKIN",
+      "team": "🇺🇸USA",
+      "emoji": "💩",
+      "score": "1.97",
+      "kills": 2
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤖",
+      "score": "1.02",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵さとる",
+      "score": "20.50",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵田中",
+      "score": "10.60",
+      "kills": 14
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇺🇸USA",
+      "score": "6.25",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "team_name": "不眠症",
+      "score": "4.78",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇹🇼ぷゆ帝",
+      "score": "3.35",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN1N2ygyAMBOAdzkwGLMr2/V/2TCBIqGK7N170Mwk/VaARfItMgazekEteP7kQQvjBhbCAcspSJMbmbqaUwUopBmfGOxevfZ3Dk+t9MQpa38f1qlvtyp17hKXFuZTcKoaLMRoLeshJ05w9e7kY+y5DJFlq3QbrtpRSgA6R0sqhtCFiHS9dAkgRd5raXGbXC4p3iFHGdBpisPl6eIeEpdMdW7SdJeFgLUeOczN0HAc5SWqG2/dqDw3h4Ox2dQKwOuZ6YAPCrt9uobm/DJKf9faRnHMmmbOCrs6+s8uV1aXy0VnRmoe+k7N6/M2R56609S6Y/yPVbQHIu3Lzh+jzVz8guTu3LRj6iCJv4Wb54rZtBb2T93aF56VU1+Vg1+9Ge8Pf5xsE/APX4irs",
+    "cp": {
+      "2": "#f24099",
+      "3": "#6588fb",
+      "6": "#caf58e",
+      "8": "#f24099",
+      "9": "#6588fb",
+      "10": "#f2f679",
+      "11": "#f24099",
+      "12": "#fb6251",
+      "13": "#5f51fb",
+      "14": "#c38eeb",
+      "15": "#b1fa99",
+      "16": "#8afec2",
+      "17": "#7be6f9"
+    },
+    "sz": 40
+  }
+}

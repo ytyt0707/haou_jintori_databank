@@ -1,0 +1,86 @@
+{
+  "round_id": 14818,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-14T02:06:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐲",
+      "score": "18.47",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵楚] 最弱/重音テト",
+      "team": "🇯🇵楚",
+      "emoji": "😎",
+      "score": "8.12",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🐱",
+      "score": "3.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[神撫子] 泉サキ",
+      "team": "神撫子",
+      "emoji": "🦄",
+      "score": "2.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👽",
+      "score": "0.07",
+      "kills": 14
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "18.47",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵楚",
+      "score": "8.12",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "神撫子",
+      "score": "5.28",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.07",
+      "kills": 14
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0ksOwCAIBFBqhLn/jRvsB61ATJ2lLwQkEM1h5+0bYIP/KeOKj7EWYo2vRymIlQglUwInjdtYPKuIaXOjSiI3s6Py6IvLKrnWse+g1dB+1KkmUvVpHb32y0oWqWcB+LcBS1QY82qxOxNvqOUEYtQGsg==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "4": "#ec6fe8",
+      "5": "#5797ef",
+      "6": "#ec6fe8",
+      "7": "#3df590"
+    },
+    "sz": 30
+  }
+}

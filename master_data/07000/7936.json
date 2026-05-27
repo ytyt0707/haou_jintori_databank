@@ -1,0 +1,65 @@
+{
+  "round_id": 7936,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-20T17:54:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵うんち] 安晋三",
+      "team": "🇯🇵うんち",
+      "emoji": "😍",
+      "score": "22.30",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] シリケツ",
+      "team": "🇯🇵阪神",
+      "emoji": "🦊",
+      "score": "13.99",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "🦄",
+      "score": "0.09",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "〇ね",
+      "team": "",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "22.30",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "13.99",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0csOgCAMRNGRMP3/T3ZRREofmHg3Lk4GEwBGrTXMLmyt6NRMXauSTJVP0W9Jz73Utz+Kr3o+WlIkICLq+qHXUaU6tipix+nBgeaMUomzwqDTuR93tV/tpLBacdICVw2evJym3WlPBzc=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#54e866",
+      "5": "#f47348",
+      "6": "#eede68"
+    },
+    "sz": 30
+  }
+}

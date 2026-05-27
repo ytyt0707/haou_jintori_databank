@@ -1,0 +1,120 @@
+{
+  "round_id": 3524,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-10T18:55:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[不眠症] 月曜日",
+      "team": "不眠症",
+      "emoji": "🤖",
+      "score": "23.49",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ナチス] 蓮舫",
+      "team": "🇩🇪ナチス",
+      "emoji": "🦁",
+      "score": "14.57",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵🇯🇵Y] うめ",
+      "team": "🇯🇵🇯🇵Y",
+      "emoji": "🦊",
+      "score": "10.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵飽きた] あんこ",
+      "team": "🇯🇵飽きた",
+      "emoji": "🤖",
+      "score": "9.61",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵飽きた] 陣取り飽きた",
+      "team": "🇯🇵飽きた",
+      "emoji": "🦊",
+      "score": "9.43",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "😀",
+      "score": "1.48",
+      "kills": 5
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇩🇪ナチス] シュトロハイム",
+      "team": "🇩🇪ナチス",
+      "emoji": "🦄",
+      "score": "0.63",
+      "kills": 7
+    },
+    {
+      "rank_position": 10,
+      "player_name": "タイマン",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.06",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "不眠症",
+      "score": "23.49",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵飽きた",
+      "score": "19.05",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇩🇪ナチス",
+      "score": "15.21",
+      "kills": 11
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵🇯🇵Y",
+      "score": "10.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "猛虎軍",
+      "score": "1.48",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10kkSAyEIAEDiiAv/f3DKhREUjZdwMSm6EGQAthEjRA6VCCEEyUS8eY7y/3kWF2cXIEhHhkOm1cVNPUTEKyfufkym+yst4syMevVE00FLY29zds5J1/J1HEQ1hytQOBl6EPfubQATRprd6+PRiQ47ICLDQRsbERyrCpf++HEcDbZz9Sxjrg6Eq0dJdwekPmhusD0OqdAfft1DCzo5EX925ZnTJ6X0yxGkHmc2nKJnl3bKe1AubZSn1a1XGvXSzvk7B7Ve/nUxu3zlch5w77Jk9sOsbrcNf+l6PWPDY9P8y0ga8QVybiHn",
+    "cp": {
+      "1": "#7b8ff4",
+      "2": "#ddf39b",
+      "3": "#fe6c90",
+      "4": "#74bcec",
+      "5": "#a989fb",
+      "6": "#a989fb",
+      "7": "#ddf39b",
+      "8": "#98fbc3",
+      "9": "#f2ae6e",
+      "10": "#f844ec"
+    },
+    "sz": 40
+  }
+}

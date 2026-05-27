@@ -1,0 +1,72 @@
+{
+  "round_id": 57186,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-23T17:23:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵お亀軍] 🐢",
+      "team": "🇯🇵お亀軍",
+      "emoji": "🐲",
+      "score": "39.00",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] tkb",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "10.33",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵お亀軍] 爆弾/自認レゼ",
+      "team": "🇯🇵お亀軍",
+      "emoji": "💣",
+      "score": "2.26",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[か] ちまき",
+      "team": "か",
+      "emoji": "🦁",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵お亀軍",
+      "score": "41.26",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "10.33",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "か",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG10dkSwiAMBdALMfn/T+5kuRCsOvogD0zgNEvbOdfCfS2b80CNU1OyqiogAmDi5gpVFQluytKe/KMylYW9cazozQOAKLzVu4dmP99zqpXinNe1L2FAPUtTz+x9y0iGscAaiwaY2SDv24rMlfysjmYDEtOXRoeU0JEv51pdNprVYO80U5pKT/6sj2jXc3tyzuLKsaSY38J/0o4jWvP66abHw39S4HXfeJEvtgssxAdl",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3092e8",
+      "4": "#85d411",
+      "5": "#3092e8",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}

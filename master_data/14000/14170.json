@@ -1,0 +1,110 @@
+{
+  "round_id": 14170,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-12T15:04:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] ベネット",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "19.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "19.06",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] いただきマウス",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "16.49",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ワイ将] 彡(ﾟ)(ﾟ)",
+      "team": "🇯🇵ワイ将",
+      "emoji": "😈",
+      "score": "13.89",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "11.61",
+      "kills": 8
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵しね] ころす",
+      "team": "🇯🇵しね",
+      "emoji": "😎",
+      "score": "2.66",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵最強] 避けろカス",
+      "team": "🇯🇵最強",
+      "emoji": "👻",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "54.78",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ワイ将",
+      "score": "13.89",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "11.61",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵しね",
+      "score": "2.66",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵最強",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90+sOwyAIBeCzAKfu/V94QQFx7caPNvGTizUFVFXxKzQDgHjE+hgjNLcs9g1jIVSvKzE6iEgq9Np8aJROXkuDYa6+fM3ItcJQ7XjTE+8KjDyOVHJ+DEAoO0IteH2myuaZ66dpuaVoSko0yMaZ6xkzGu7SDO1j7crkTnV8l/a8XrpUyNcMUnz64btDZ148Z4GY0a8zO+bLzGwxQFC4rtzR7FSuGqUZstVb2oFm1nTNdaj91ZpYcubH3LifZ62LJc7K9XN4fLf9AFuXD2c=",
+    "cp": {
+      "1": "#f74b59",
+      "3": "#e9f033",
+      "4": "#ef5dc1",
+      "5": "#83e53e",
+      "6": "#e9f033",
+      "7": "#f0a651",
+      "8": "#e9f033",
+      "9": "#61faa8"
+    },
+    "sz": 30
+  }
+}

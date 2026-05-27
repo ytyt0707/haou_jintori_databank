@@ -1,0 +1,48 @@
+{
+  "round_id": 24118,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-12T06:30:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵猛虎軍] ███",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "😍",
+      "score": "28.69",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 甘兎心愛",
+      "team": "神撫子",
+      "emoji": "🐱",
+      "score": "0.11",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "28.69",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "0.11",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdktsSgCAIRBft/7+5QcPlYjaTL8IeF5ECuHpcAJbgQtM20kDT9Eav5zqrEvfVS5RntqDewNYUohNGkq2VOucZZuqNflbaT1n2IC1S4BzWkEVEIPGEsyhOFCy4pWisVrytNeJK4c0sMyMaM9H8gxLn5wwv8a62abtJGhtfayU1OHrrcafEv82Bv+ENoIwDOQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#59e830",
+      "4": "#e86430"
+    },
+    "sz": 30
+  }
+}

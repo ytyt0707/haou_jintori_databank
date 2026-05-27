@@ -1,0 +1,81 @@
+{
+  "round_id": 21210,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-05T01:44:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[紅魔郷] レミリア",
+      "team": "紅魔郷",
+      "emoji": "🐲",
+      "score": "29.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵しね] ころす",
+      "team": "🇯🇵しね",
+      "emoji": "😂",
+      "score": "24.45",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "おはよう",
+      "team": "",
+      "emoji": "😎",
+      "score": "16.72",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵しね] 大日本帝国陸軍",
+      "team": "🇯🇵しね",
+      "emoji": "👻",
+      "score": "3.84",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[白旗↑] レスバの覇者",
+      "team": "白旗↑",
+      "emoji": "🤖",
+      "score": "1.30",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "紅魔郷",
+      "score": "29.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵しね",
+      "score": "28.29",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "白旗↑",
+      "score": "1.30",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkVESxCAIQ6MI3P/GOwR0bHV3+XCsz4RIRe4FEQzcmchg/aetSXvf2rQHK+Mh4n4qF/WghziNAXf3NwSSDuLS9hWt4ADgrSUOamJxZ2kBYePeU2sikLIGXtQs8KYF0FrvnCqhoHKFNqqlsbEmjFRRnZXMVHXrW6z3SaHLOWWxqpmahXSKpymPNAn3TP2keWen5NtxbZkrE58wx0F6QtXqC+BGl/MNch6AXpX14C9str3a1rDuiQJGqt90/kE+ey6U8uMD0VAL0g==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#30e83c",
+      "5": "#3081e8",
+      "6": "#e83053",
+      "7": "#73d411"
+    },
+    "sz": 30
+  }
+}

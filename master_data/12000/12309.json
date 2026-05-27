@@ -1,0 +1,41 @@
+{
+  "round_id": 12309,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-05T02:47:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[匈奴] いただきマウス",
+      "team": "匈奴",
+      "emoji": "👻",
+      "score": "68.92",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[匈奴] 冒頓単于",
+      "team": "匈奴",
+      "emoji": "🐲",
+      "score": "13.29",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "匈奴",
+      "score": "82.21",
+      "kills": 15
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt09EOgCAIBdA7L///zY0UZIE8VGz1wEFKKQAQvfSWQqrQrGlZMQvKteaNnrr+oy1/WvtSSR6VPCqJW6nj6zRPkR5TUejskd3QFZAxksrSMTaWWnRWnamg4cG2o16rHbkisaxvOh9kfOenhjpdvA+WK7vU/yfuYwsDugBhsws8",
+    "cp": {
+      "2": "#38f587",
+      "3": "#f4c734",
+      "4": "#f4c734"
+    },
+    "sz": 30
+  }
+}

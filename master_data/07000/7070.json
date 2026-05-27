@@ -1,0 +1,47 @@
+{
+  "round_id": 7070,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-18T19:04:17.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵みん²] 蓮舫",
+      "team": "🇯🇵みん²",
+      "emoji": "🤖",
+      "score": "2.51",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇸CIA] ワクテカさん",
+      "team": "🇺🇸CIA",
+      "emoji": "😎",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵みん²",
+      "score": "2.51",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸CIA",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9klEKwCAMQ2PJ/c881IGtbUQYLF/i69NSBT7Fes7U5urdSXTVIByVqHS91to9ZeKFu/WU8KVZ0cL1VSymrN1A93tjB4zUlY2hoEilrvcgaVKFscegvsmgwp2UgmH/MxkeTNnQ73kA5uwCZQ==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#f63e37"
+    },
+    "sz": 30
+  }
+}

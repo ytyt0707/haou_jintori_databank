@@ -1,0 +1,81 @@
+{
+  "round_id": 9389,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-24T19:20:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "たまご",
+      "team": "",
+      "emoji": "🐲",
+      "score": "26.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うんち] 妹欲しい(´；ω",
+      "team": "うんち",
+      "emoji": "😈",
+      "score": "20.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🐶",
+      "score": "14.17",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇧🇷ウマ娘] おんjゲーム部",
+      "team": "🇧🇷ウマ娘",
+      "emoji": "🤖",
+      "score": "13.90",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇨🇳濡れ漫] 🤓🤓🤓🤓",
+      "team": "🇨🇳濡れ漫",
+      "emoji": "😈",
+      "score": "0.00",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "34.33",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇧🇷ウマ娘",
+      "score": "13.90",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳濡れ漫",
+      "score": "0.00",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0VEKxCAMBNBJyZi9/4mXxKhVa+l8VPA5USgAFPinlBILrkzbnYMLXXf2zSeVz2rPg11FxADdVKSqmch790WROg6odlXl0tWIRJTPiuiSwZ/1l+zTqcH9pa2rqmRVYh0cSKnLUNyVvqApzMxmzXcZwoZqdl2tq2nsRqtyFw+HZtfuqagHtfnak2awjiZPyokW5Rb/X+/aThAnrcx5AP61lA8h",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "4": "#a747f5",
+      "5": "#a747f5",
+      "6": "#96f245",
+      "7": "#27b1f1",
+      "8": "#f7a840"
+    },
+    "sz": 30
+  }
+}

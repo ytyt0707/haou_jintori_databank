@@ -1,0 +1,57 @@
+{
+  "round_id": 15296,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-15T05:48:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ハンニバル",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐶",
+      "score": "39.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦁",
+      "score": "36.20",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] 自認ロゼ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👻",
+      "score": "20.54",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "95.84",
+      "kills": 18
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9kwsOwCAIQ3W097/yguCn7EOyRfYAqTKymJmRbCQAuOcGqyY0zcQnlapRC0MDGe5jx0VR6bGvSTPWJIDaalX0TvugF/GK+3gvClHWu+MLH7mR/U3toLPNeHJpULlIkZwf69VEuZS7Ku+7IvzEBm0+CRjzMCiNuwkSxByaCMK+zZN6ourbibGqdOLR4h/Fkx5wD0y2llRI+KE8nPJDZGRbEW80D/2XJm6twhtceg1P",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#8246f1",
+      "4": "#8246f1",
+      "5": "#8246f1"
+    },
+    "sz": 30
+  }
+}

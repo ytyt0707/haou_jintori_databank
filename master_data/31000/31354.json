@@ -1,0 +1,48 @@
+{
+  "round_id": 31354,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-28T17:35:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "🥐",
+      "score": "70.06",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ねこ] ねこ",
+      "team": "ねこ",
+      "emoji": "🐱",
+      "score": "0.74",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇫🇷デパ",
+      "score": "70.06",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ねこ",
+      "score": "0.74",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHF0ksWgCAIBdCnvP2vucNHi1Qa5qTwChkKzNHTAPoUAMk0eOLKb0W/K6CTzAsG6ixXdfYUVZKSK9D2o6mqImKvHgOmPpPUvkXVWD6ed7ZvZuYmsACtFcrB28pkmfuhwYfKsdOfdHZ0bZh11Fu3RT/fA8Xpn7WSuhdVplqZPf53vyhubr7zdoGt8AX17QqR",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e86430",
+      "4": "#e83075"
+    },
+    "sz": 30
+  }
+}

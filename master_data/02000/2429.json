@@ -1,0 +1,45 @@
+{
+  "round_id": 2429,
+  "game_mode": "TEAM",
+  "player_count": 2,
+  "played_at": "2026-01-08T07:42:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ぷゆゆ] よっぴ",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "😈",
+      "score": "23.12",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇷🇺中立国] 資本主義陣営",
+      "team": "🇷🇺中立国",
+      "emoji": "🦄",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "23.12",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺中立国",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0jsOACAIA1C4/6UddBBTWxLjr6svhRjMHo3fXuCrZH/r4K/6yiyvIW+d4jBEzNvm8htCiByCWacGw57RUUSYQdZOU9ZNasNdcIdvU4wL0jIs1Er3awpFXQFv",
+    "cp": {
+      "1": "#f2829c"
+    },
+    "sz": 40
+  }
+}

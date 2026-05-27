@@ -1,0 +1,79 @@
+{
+  "round_id": 12507,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-05T13:30:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "😂",
+      "score": "4.38",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦄",
+      "score": "1.04",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ゴミチーム] a",
+      "team": "ゴミチーム",
+      "emoji": "🦄",
+      "score": "0.43",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇰🇷自民党] アベベ",
+      "team": "🇰🇷自民党",
+      "emoji": "💩",
+      "score": "0.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 貢物する愛して",
+      "team": "みん²",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "1.04",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ゴミチーム",
+      "score": "0.43",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇰🇷自民党",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzd0EsKwCAMBNBJJHj/G5e0UpjSjLZLB3ThM34CUOwMzACDyLWtZlXtLs+eqKtbXXA++K8mC9W9Ejpp43p6r6RpbTlyfsURXo4gfWJQ8Telu6s339/aJQeoOwEG",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f98e66",
+      "5": "#5f34f9",
+      "7": "#37f722"
+    },
+    "sz": 30
+  }
+}

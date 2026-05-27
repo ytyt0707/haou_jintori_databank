@@ -1,0 +1,48 @@
+{
+  "round_id": 13974,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-12T04:29:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🦄",
+      "score": "27.93",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇮🇹逮捕] 爆弾/自認レゼ",
+      "team": "🇮🇹逮捕",
+      "emoji": "👽",
+      "score": "9.24",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "27.93",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇮🇹逮捕",
+      "score": "9.24",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0EsSgCAMA9Bgcv8zOwMiNBQx20c/FCRqCrKQZGnJseWkKwctvkHUYuvR2NpH9o95MXdaZ0pK8am6JiecG2pTK0hQNrdPVrrVq3qexNbjGI1NZ5SCjkvoS7UqltJJ5/OawhLUsa+MhI46LnnWzZNspd+dP3MDYJIEaQ==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#e7ac5a",
+      "4": "#46e9ec"
+    },
+    "sz": 30
+  }
+}

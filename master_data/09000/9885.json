@@ -1,0 +1,48 @@
+{
+  "round_id": 9885,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-25T22:10:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐷",
+      "score": "28.65",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇰🇷慶尚道] ティンコゥ",
+      "team": "🇰🇷慶尚道",
+      "emoji": "👻",
+      "score": "0.16",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "28.65",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷慶尚道",
+      "score": "0.16",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0YEKgDAIBNBT+/9vjpmDzZ0yuiCIt3PVVD3IERn3AoFFCV8oVDGuSuPJzHiXq6TuSKwSD+KNbMvk2T00JqPSCm1Hsm3ZtBWzpe8+0Dp1fFolXZxI/gRTclDL6dBUI2+0n3ylBX4rOvyXF13mA20=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#96e94e",
+      "4": "#6451f6"
+    },
+    "sz": 30
+  }
+}

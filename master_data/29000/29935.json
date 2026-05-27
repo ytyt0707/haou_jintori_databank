@@ -1,0 +1,84 @@
+{
+  "round_id": 29935,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-03-25T02:30:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "よくない",
+      "team": "",
+      "emoji": "😖",
+      "score": "21.95",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "🥐",
+      "score": "18.89",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] （　^ω^）",
+      "team": "🇯🇵ONJ",
+      "emoji": "©️",
+      "score": "15.71",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "不殺の誓い",
+      "team": "",
+      "emoji": "🕊️",
+      "score": "6.74",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇫🇷デパ] YK",
+      "team": "🇫🇷デパ",
+      "emoji": "😈",
+      "score": "1.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] 杂鱼鱼",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤩",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇫🇷デパ",
+      "score": "20.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "15.85",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGN0dEShSAIBFBwVrT//+EGFcoGuZeHHjrthiMzMx0nRWLmWrNsPTOATLmOictZo0f/oQmL4NHPwUREoOO/BuDruZqPT41VebzZH9MjJS9/aWtECmM0q6bNjDYm0kXqlqULKyozN5/WjGv2yqYWLoi0Wdhwy5qWVL34/2xfzXo3q/t9om5bGW7NHXqmAkTaPRvt/GiejdR3gsi6whsaRw0s",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#3081e8",
+      "5": "#97d411",
+      "6": "#9ca3af",
+      "7": "#604de5",
+      "8": "#604de5",
+      "9": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

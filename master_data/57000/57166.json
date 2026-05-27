@@ -1,0 +1,48 @@
+{
+  "round_id": 57166,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-23T16:18:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[アク禁] 爆弾/自認レゼ",
+      "team": "アク禁",
+      "emoji": "💣",
+      "score": "4.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵お赤軍] 暴力革命バンザイ",
+      "team": "🇯🇵お赤軍",
+      "emoji": "😀",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "アク禁",
+      "score": "4.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤軍",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdkkESgCAMA0Pj/9/sJEipoBeP9kSzkKYztOZCVkRENh227IGdFiic7WqM2+NHmm9RMGm5GxOgIHomQnRmUifqosr0CiUjGYsaktp2Rl6o4SvV2AgkH3M9VMv6Qo9SUg2hBpvaL071v/xioX2JY5e+KyfUDwEU",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30c6e8",
+      "4": "#36e830"
+    },
+    "sz": 30
+  }
+}

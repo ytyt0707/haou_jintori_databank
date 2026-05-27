@@ -1,0 +1,48 @@
+{
+  "round_id": 35500,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-08T02:30:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵明日へ] チャーハン美味い",
+      "team": "🇯🇵明日へ",
+      "emoji": "😇",
+      "score": "2.64",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[新鯖♡] 新鯖♡",
+      "team": "新鯖♡",
+      "emoji": "❤️",
+      "score": "0.47",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵明日へ",
+      "score": "2.64",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "新鯖♡",
+      "score": "0.47",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAHt0MEOgDAIA9AW+//fbCoDDXr2NC5jewMSSPAOjLDYJRKID7UtHUzqMoGMiFGddVK2DH94hpv2/aUwHstnaT63jrkA6NLyHlIJK9nn3sA/GzgBQqcAvA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#47e830",
+      "4": "#e83042"
+    },
+    "sz": 30
+  }
+}

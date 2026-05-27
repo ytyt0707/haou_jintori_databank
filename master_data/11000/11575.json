@@ -1,0 +1,57 @@
+{
+  "round_id": 11575,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-03T11:06:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🤔",
+      "score": "20.02",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🤖",
+      "score": "14.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😍",
+      "score": "13.83",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "14.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "13.83",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0ksShCAMBNDGDve/8hR2gBjIZnphCU8+QYBvSFShlGxs9Qdsb0bb3jhRWWoedSMoDjWirQQV6yUvG8NY1Y1DDd4zNm4+NbwIH+uLauFVoZghTr33ebT8slAcxady7Uuhh/ZxqEYuxV3NSt2ncJk549y0//SEPVylQveF4//6TL7pM1IqMmZFrQ+24hyby73rzg8w/wa8",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f5de6b",
+      "4": "#51e0f0",
+      "5": "#baf561"
+    },
+    "sz": 30
+  }
+}

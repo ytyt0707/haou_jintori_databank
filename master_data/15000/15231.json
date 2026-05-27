@@ -1,0 +1,58 @@
+{
+  "round_id": 15231,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-15T01:12:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵うんち] うんち",
+      "team": "🇯🇵うんち",
+      "emoji": "💩",
+      "score": "67.94",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇰🇷ｽピｷ] 矢野彩喜、死す",
+      "team": "🇰🇷ｽピｷ",
+      "emoji": "🦊",
+      "score": "0.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇰🇷ｽピｷ] 神",
+      "team": "🇰🇷ｽピｷ",
+      "emoji": "😍",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "67.94",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇰🇷ｽピｷ",
+      "score": "0.09",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJydklkOxDAIQx1XlPvfeJSlYUoJXfyBEE8mBAERSBUAy9CzDyKFJIM6ewypmWtMut+//xK3AjL4fRhNoUqwZB4w86o2Xkrk1an/r52sqsX1hzivrL2r2QwyPJ85FpngfY/3OujieIb1SjGoO7xWxjh0JbEZxUmcekA9rFw7hZdZ+QMuXQ9v",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#b451f6",
+      "5": "#7eef61",
+      "6": "#47f0cb",
+      "7": "#47f0cb"
+    },
+    "sz": 30
+  }
+}

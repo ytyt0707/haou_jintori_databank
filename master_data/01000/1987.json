@@ -1,0 +1,134 @@
+{
+  "round_id": 1987,
+  "game_mode": "TEAM",
+  "player_count": 12,
+  "played_at": "2026-01-07T07:06:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🤠",
+      "score": "37.62",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "🐶",
+      "score": "18.74",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇸🇦アラー] ムハンマド",
+      "team": "🇸🇦アラー",
+      "emoji": "🦄",
+      "score": "12.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇦デカ女] ヘルツネ",
+      "team": "🇨🇦デカ女",
+      "emoji": "🦁",
+      "score": "1.58",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇳人民軍] ポケモンBBS",
+      "team": "🇨🇳人民軍",
+      "emoji": "🤠",
+      "score": "0.45",
+      "kills": 8
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "😍",
+      "score": "0.26",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇨🇦デカ女] パイソン",
+      "team": "🇨🇦デカ女",
+      "emoji": "🐲",
+      "score": "0.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "0.05",
+      "kills": 10
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇨🇦デカ女] ぷゆりません",
+      "team": "🇨🇦デカ女",
+      "emoji": "🦊",
+      "score": "0.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇸🇦アラー] ウンハラ",
+      "team": "🇸🇦アラー",
+      "emoji": "🐶",
+      "score": "0.05",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "37.89",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "18.74",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇸🇦アラー",
+      "score": "12.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇨🇦デカ女",
+      "score": "1.77",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇨🇳人民軍",
+      "score": "0.45",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0gEOgyAMBdDGRZp8vP95F2wtpVQ0W5NFB8+PBYmGAuT6oVXhqqWDr2kyskN/OlSVuGdDnlwr/GRUCM/Y9Mr1rVhk1bRLF6Ksxj6TqNHdwKO52hwwOxpcbQ7Dric9at7g5j7kNIShsywQpH7RiY33byBt17vVvsg4v3N8/306CGaBLDe5A/aX7pxmY5Mj5046utIqxA3QscnJqs4V78i9X3dNlswZuhyZ05LDmBhRcKVFvnJoHcCzSGztEPevK+H9fnF045brEvO2bc+uGHtwhbnHBef/kp4wpaUm1BeeDyWg",
+    "cp": {
+      "2": "#67f9fe",
+      "3": "#ef85ac",
+      "5": "#e7715a",
+      "6": "#f4b043",
+      "7": "#e7715a",
+      "10": "#b661ea",
+      "11": "#ef85ac",
+      "12": "#b661ea"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "round_id": 20375,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-03T03:53:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しVS",
+      "team": "",
+      "emoji": "🦊",
+      "score": "42.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] くわばら",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "18.90",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] あの丘のマリア",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "6.35",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 🍔🫧🍟",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.34",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇳油一族] 赤の他人💩真央",
+      "team": "🇨🇳油一族",
+      "emoji": "🤖",
+      "score": "0.64",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "26.58",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳油一族",
+      "score": "0.64",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkuESwyAIgwPE8f5vvAtond1644d4/UxArLu7WwfBGaggBGkws0V2xqQkfmJJaZT1Fq0dvHdPtHGmZS7JlSFjMjPNvijg9IKi99LVM3KGne4AHD7preuehztYPeVZuMelYUGeqVsB5zRd3ib3SReWWEqgxDfK6gpA68xsjNO6pLpR3dc+KfWC3VxGZgTH7oqiDRGZYwT3D6ABw4eCjEilWzSNQEQUOs6gtOeyDbzFD3gWPml1Igf8sn6ir2VStXXb9UG56WqrKMZ1ouiCeoc197L4Ty/p1E55G32ub/5QC7Y=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#8B4513",
+      "4": "#e830ba",
+      "5": "#8B4513",
+      "6": "#6e4de5",
+      "7": "#8B4513"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 21244,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-05T03:34:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ころす] しね",
+      "team": "🇯🇵ころす",
+      "emoji": "💩",
+      "score": "25.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] あの丘のマリア",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.47",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ころす",
+      "score": "25.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "2.47",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkUkOwDAIA9n+/+YKyAKE9FaVQ0UzGDsKQFdkBdQxPRv8gl18gVUrkgezuKNhHgURwz9RiCwismGNrHRaO8tSxCnuqKixe+fAFmZQ7TVQWOwYTK09MxAz23H8aG6eFcHqJzy1UdrRpWx8AztpgsfmV5ph1f5EP7Mti+t198vaIDw4sAPI",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#aad411",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "round_id": 20014,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-03-02T08:10:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "😂",
+      "score": "28.19",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇫🇷デパ] おくすち💊いぃ",
+      "team": "🇫🇷デパ",
+      "emoji": "🤖",
+      "score": "19.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷デパ] うんこ",
+      "team": "🇫🇷デパ",
+      "emoji": "🦊",
+      "score": "5.69",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "😀",
+      "score": "4.37",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 名無し34",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "4.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[小谷城] 浅井長々",
+      "team": "小谷城",
+      "emoji": "😎",
+      "score": "1.38",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇫🇷デパ",
+      "score": "29.57",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "4.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "小谷城",
+      "score": "1.38",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkguOxCAMQ/kZuP+JV3YCBGY1Y6kt4cVpiCglCgBSkLOk7wtt17JLSi+W59T6r3KgZ8lV8Yfrty53TvY3WgmZWynzAAr4AsahhjcdEtzqZmAMGg0OC0JlMMG0C60/q5XsdLdwaKZGUv2I1wRIP6CaZuWco2cf0ae345ikM6HmMefUMG7I0gDmoteB7L+1koKDpIKfXoaz1mbwpR7/oG1x9N5VX101LdumneKeUeHW5RUybJNsrTZKbR2qywFAzOgDdQ8t4fLatUqXFWDD1KZe2aaRUtcInf4B0tUKKA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#30d7e8",
+      "4": "#3081e8",
+      "5": "#3081e8",
+      "6": "#3081e8",
+      "7": "#8B4513",
+      "8": "#e83053"
+    },
+    "sz": 30
+  }
+}

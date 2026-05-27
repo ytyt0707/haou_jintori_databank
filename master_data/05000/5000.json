@@ -1,0 +1,65 @@
+{
+  "round_id": 5000,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-14T03:07:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸ワイら] ワイ",
+      "team": "🇺🇸ワイら",
+      "emoji": "😀",
+      "score": "27.82",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "22.64",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] ソ連",
+      "team": "みん²",
+      "emoji": "🦁",
+      "score": "11.40",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "わしじゃよ",
+      "team": "",
+      "emoji": "🤠",
+      "score": "7.82",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "34.04",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸ワイら",
+      "score": "27.82",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNkQEOxCAIBKdB+f+TL9hWAam5SUwThlW0QO+dgdiajFKfqKiqBJbs6ODTSoIYzZaTdeF8prOgxcjy3tbqeWReSilO/hFdGmcnZXaX4Oyz9dNIwKxdmNLKKgTZaO3+504vOxCxnp0WcbXCps6jHPYqzP2xmZ1l7VlkKXY4jeWPTVm4iM3RstnDg9nTT378sAo9",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#f5c542",
+      "4": "#ef5e3e",
+      "5": "#f32bbd",
+      "6": "#f5c542"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "round_id": 6346,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-17T03:55:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵👯‍] 田中やで",
+      "team": "🇯🇵👯‍",
+      "emoji": "🐱",
+      "score": "28.88",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "🐲",
+      "score": "15.29",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[💣] 爆弾/自認レゼ",
+      "team": "💣",
+      "emoji": "👽",
+      "score": "7.84",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "でじこ",
+      "team": "",
+      "emoji": "😎",
+      "score": "5.86",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵VIP] ヘルツネ",
+      "team": "🇯🇵VIP",
+      "emoji": "😍",
+      "score": "4.16",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵👯‍",
+      "score": "28.88",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵YY勢",
+      "score": "15.29",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "💣",
+      "score": "7.84",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵VIP",
+      "score": "4.16",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0eEOgzAIBODb2I33f2NTSintWBMTLzH++DyoCsLiN+CTg2/EHiJZYuhkJObIVG4IMu0muVcTw5k5fnaYMmGbzPFufsq1edb4LgX+0deOVXcgqrVY8pziBgZDtVL0jmrjX7U/alpYz8miKYDIAkZdpQd+CYaprHmHtglSxceXJpADjvJZZ9ZluABd1Aog",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#eda76e",
+      "4": "#ebef6b",
+      "5": "#5bd7f5",
+      "6": "#69f628",
+      "7": "#b355f7"
+    },
+    "sz": 30
+  }
+}
