@@ -86,6 +86,12 @@
             gap: 8px;
             width: 100%;
         }
+        .filter-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 8px;
+            width: 100%;
+        }
         .filter-item {
             display: flex;
             align-items: center;
@@ -135,7 +141,10 @@
 </head>
 <body>
     <header>
-        <h1 class="site-title">陣取り データバンク</h1>
+        <h1 class="site-title">
+            陣取り データバンク 
+            <span id="dataPeriodDisplay" style="font-size: 0.75rem; color: #888; margin-left: 10px; font-weight: normal;"></span>
+        </h1>
         <div class="nav-links">
             <a href="index.html" class="active">総合ランキング</a>
             <a href="archive.html">過去試合記録</a>
@@ -166,11 +175,11 @@
             </select>
         </div>
         <div class="control-group" style="margin-left: auto;">
-            <button class="active">全期間</button>
-            <button>本日</button>
-            <button>直近7日間</button>
-            <button>今月</button>
-            <button title="カスタム期間指定">📅 期間指定</button>
+            <button id="period_all" class="active" onclick="switchPeriod('all')">全期間</button>
+            <button id="period_today" onclick="switchPeriod('today')">本日</button>
+            <button id="period_weekly" onclick="switchPeriod('weekly')">直近7日間</button>
+            <button id="period_monthly" onclick="switchPeriod('monthly')">今月</button>
+            <button id="period_custom" title="カスタム期間指定" onclick="switchPeriod('custom')">📅 期間指定</button>
             <button id="toggleFiltersBtn" onclick="toggleAdvancedFilters()" style="margin-left: 10px; border-color: var(--deep-blue);">▼ 詳細絞り込み</button>
         </div>
     </div>
@@ -231,6 +240,7 @@
 
     <script>
         let currentMode = 'personal'; 
+        let currentPeriod = 'all';
         let rawRankings = []; 
         let rawJsonUpdatedAt = ""; 
         let currentSortKey = 'total_area'; 
@@ -240,7 +250,22 @@
         const BATCH_SIZE = 200;       
 
         window.onload = () => {
-            fetch('public_data/all_period/summary.json')
+            loadDataForPeriod(currentPeriod);
+        };
+
+        // 🟢 期間に応じたJSONの読み込み関数（データ内の期間表示の制御もここで行うのです）
+        function loadDataForPeriod(period) {
+            const loader = document.getElementById('loadingIndicator');
+            if (loader) loader.style.display = 'block';
+
+            let jsonPath = 'public_data/all_period/summary.json';
+            
+            // 将来的に期間ごとのJSONを切り替える場合のパス設計
+            if (period === 'today') jsonPath = 'public_data/today/summary.json';
+            else if (period === 'weekly') jsonPath = 'public_data/weekly/summary.json';
+            else if (period === 'monthly') jsonPath = 'public_data/monthly/summary.json';
+
+            fetch(jsonPath)
                 .then(response => {
                     if (!response.ok) throw new Error('Network response was not ok');
                     return response.json();
@@ -248,14 +273,50 @@
                 .then(data => {
                     rawJsonUpdatedAt = data.updated_at || "";
                     rawRankings = data.rankings || [];
+                    
+                    // 📅 データの対象期間（何時から何時までか）をタイトル横に表示するロジック
+                    const periodDisplay = document.getElementById('dataPeriodDisplay');
+                    if (data.start_date && data.end_date) {
+                        periodDisplay.innerText = `[ 対象期間: ${data.start_date} ～ ${data.end_date} ]`;
+                    } else if (rawJsonUpdatedAt) {
+                        periodDisplay.innerText = `[ 更新日時: ${rawJsonUpdatedAt} ]`;
+                    } else {
+                        periodDisplay.innerText = '';
+                    }
+
                     updateView(); 
                 })
                 .catch(error => {
                     console.error('データの取得に失敗したのです:', error);
                     document.getElementById('rankingBody').innerHTML = 
-                        `<tr><td colspan="9" class="col-center" style="color:#ff4444; padding:20px;">データの読み込みに失敗しました。</td></tr>`;
+                        `<tr><td colspan="9" class="col-center" style="color:#ff4444; padding:20px;">データの読み込みに失敗しました。(${period})</td></tr>`;
+                    if (loader) loader.style.display = 'none';
                 });
-        };
+        }
+
+        // 🟢 期間ボタンの切り替え処理
+        function switchPeriod(period) {
+            currentPeriod = period;
+            
+            // すべての期間ボタンから active クラスを一旦削除
+            const periods = ['all', 'today', 'weekly', 'monthly', 'custom'];
+            periods.forEach(p => {
+                const btn = document.getElementById('period_' + p);
+                if (btn) btn.classList.remove('active');
+            });
+
+            // クリックされたボタンをアクティブ化
+            const activeBtn = document.getElementById('period_' + period);
+            if (activeBtn) activeBtn.classList.add('active');
+
+            if (period === 'custom') {
+                // 期間指定（カスタム）が押された際、プロンプト等での拡張を考慮
+                const customPrompt = confirm("特定のカスタム期間を読み込みますか？\n(現在は開発中のため、全期間データへフォールバックしますのです)");
+                loadDataForPeriod('all');
+            } else {
+                loadDataForPeriod(period);
+            }
+        }
 
         function toggleAdvancedFilters() {
             const panel = document.getElementById('advancedFilters');
@@ -474,7 +535,6 @@
                 const searchRank = i + 1;
                 const killRate = p.kill_rate.toFixed(2);
                 
-                // 💡 モードに合わせて「?name=〇〇」パラメーターを正しく引き継ぐ形に修正したのです
                 const analysisUrl = currentMode === 'personal' 
                     ? `personal.html?name=${encodeURIComponent(p.name)}` 
                     : `team.html?name=${encodeURIComponent(p.name)}`;
