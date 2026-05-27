@@ -13,9 +13,10 @@
     
     <style>
         /* ==========================================
-            🎨 陣取りデータバンク 共通サイバーダークUI（ランキングページと統一）
+            🎨 陣取りデータバンク 共通サイバーダークUI
         ========================================== */
         :root {
+            /* ランキングページ (index.html) と完全に統一した配色 */
             --bg-base: #1a1d24;
             --bg-panel: #222;
             --text-main: #e0e0e0;
@@ -32,7 +33,6 @@
             background-color: var(--bg-base);
             color: var(--text-main);
             font-size: 0.85rem;
-            min-height: 100vh;
         }
 
         header {
@@ -68,19 +68,12 @@
             color: #fff;
         }
 
-        /* コントロールパネルの統合デザイン */
         .control-panel {
             background-color: var(--bg-panel);
             margin: 8px 10px;
-            padding: 8px 12px;
+            padding: 6px 10px;
             border-radius: 4px;
             border: 1px solid var(--border-color);
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
-
-        .control-row {
             display: flex;
             flex-wrap: wrap;
             gap: 10px;
@@ -89,7 +82,7 @@
 
         .control-group {
             display: flex;
-            gap: 6px;
+            gap: 4px;
             align-items: center;
         }
 
@@ -100,7 +93,6 @@
             padding: 3px 6px;
             border-radius: 3px;
             font-family: 'Yomogi', sans-serif;
-            font-size: 0.85rem;
         }
 
         input[type="number"] {
@@ -116,68 +108,37 @@
             background-color: #333;
             color: #fff;
             border: 1px solid #555;
-            padding: 3px 10px;
+            padding: 3px 8px;
             border-radius: 3px;
             cursor: pointer;
             font-family: 'Yomogi', sans-serif;
             font-size: 0.8rem;
             transition: all 0.2s;
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
         }
 
         button:hover {
             background-color: #444;
         }
 
-        button.primary-btn {
+        button.active {
             background-color: var(--deep-blue);
             border-color: var(--deep-blue);
         }
 
-        button.primary-btn:hover {
-            background-color: #006696;
-        }
-
-        .divider {
-            height: 20px;
-            width: 1px;
-            background-color: var(--border-color);
-            margin: 0 5px;
-        }
-
-        /* 試合情報カード */
-        .match-info-card {
+        .match-info {
+            margin: 10px;
+            padding: 10px;
             background-color: var(--bg-panel);
-            margin: 8px 10px;
-            padding: 10px 15px;
             border-radius: 4px;
             border: 1px solid var(--border-color);
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 10px;
         }
 
-        .info-item {
-            display: flex;
-            flex-direction: column;
-            gap: 2px;
-        }
-
-        .info-label {
-            font-size: 0.75rem;
-            color: #888;
-        }
-
-        .info-value {
-            font-size: 0.95rem;
-            font-weight: bold;
-            color: #fff;
+        .match-info p {
+            margin: 4px 0;
         }
 
         /* ==========================================
-            🏟️ リザルト画面再現部（※配色は元のデザインを維持）
+            🏟️ リザルト画面再現部（元の色・デザインを完全に維持）
         ========================================== */
         .result-container {
             margin: 10px;
@@ -235,7 +196,6 @@
             border-bottom: none;
         }
 
-        /* 順位ごとの特殊行カラー */
         .rank-row-1 { background-color: rgba(251, 191, 36, 0.15); }
         .rank-row-2 { background-color: rgba(148, 163, 184, 0.15); }
         .rank-row-3 { background-color: rgba(180, 83, 9, 0.15); }
@@ -243,44 +203,6 @@
         .kill-cell {
             font-weight: 500;
             color: #ef4444;
-        }
-
-        /* 補助コンポーネント */
-        #loadingOverlay {
-            display: none;
-            position: fixed;
-            top: 0; left: 0; width: 100%; height: 100%;
-            background-color: rgba(26, 29, 36, 0.8);
-            z-index: 2000;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-            gap: 10px;
-        }
-
-        .spinner {
-            width: 30px;
-            height: 30px;
-            border: 3px solid #333;
-            border-top: 3px solid var(--deep-blue);
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-        }
-
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-
-        #searchResultSection {
-            margin: 5px 10px;
-            padding: 6px 12px;
-            background-color: rgba(239, 68, 68, 0.1);
-            border: 1px solid rgba(239, 68, 68, 0.2);
-            border-radius: 4px;
-            color: #f87171;
-            display: none;
-            font-size: 0.8rem;
         }
     </style>
 </head>
@@ -296,50 +218,28 @@
     </header>
 
     <div class="control-panel">
-        <div class="control-row">
-            <div class="control-group">
-                <label for="matchIdInput">試合ID:</label>
-                <input type="number" id="matchIdInput" value="3000" min="1" placeholder="例: 3000">
-            </div>
-            <button class="primary-btn" onclick="loadMatchData()">
-                <i class="fa-solid fa-download"></i> 読み込み
-            </button>
-            <div class="divider"></div>
-            <button onclick="stepMatch(-1)"><i class="fa-solid fa-chevron-left"></i> 前の試合</button>
-            <button onclick="stepMatch(1)">次の試合 <i class="fa-solid fa-chevron-right"></i></button>
-            <button id="saveBtn" onclick="redirectToMasterData()" style="margin-left: auto; background-color: #2e7d32; border-color: #1b5e20;">
-                <i class="fa-solid fa-floppy-disk"></i> 保存
-            </button>
+        <div class="control-group">
+            <label>試合ID:</label>
+            <input type="number" id="matchIdInput" value="3000">
+            <button onclick="loadMatchData()">読み込み</button>
         </div>
+        <button onclick="stepMatch(-1)">前の試合</button>
+        <button onclick="stepMatch(1)">次の試合</button>
+        <button id="saveBtn" onclick="saveMatchData()">保存</button>
         
-        <div class="control-row" style="border-top: 1px dashed var(--border-color); padding-top: 8px; margin-top: 2px;">
-            <div class="control-group">
-                <span style="font-size:0.75rem; color:#888;"><i class="fa-solid fa-magnifying-glass"></i> 検索補助:</span>
-                <input type="date" id="searchDateInput" value="2026-01-02">
-            </div>
-            <button onclick="executeDateSearch()" style="font-size:0.75rem; padding:2px 6px;">この日の試合を探す</button>
+        <div class="control-group" style="margin-left: 20px;">
+            <label>検索補助:</label>
+            <input type="date" id="searchDateInput" value="2026-01-02">
+            <button onclick="searchMatchByDate()">検索</button>
         </div>
+        <span id="searchStatus" style="margin-left: 10px; color: #ff4444;"></span>
     </div>
 
-    <div id="searchResultSection"></div>
-
-    <div class="match-info-card">
-        <div class="info-item">
-            <span class="info-label">試合ID</span>
-            <span class="info-value" id="info_match_id">-</span>
-        </div>
-        <div class="info-item">
-            <span class="info-label">ゲームモード</span>
-            <span class="info-value" id="info_mode">-</span>
-        </div>
-        <div class="info-item">
-            <span class="info-label">試合日時</span>
-            <span class="info-value" id="info_time">-</span>
-        </div>
-        <div class="info-item">
-            <span class="info-label">参加人数 / チーム数</span>
-            <span class="info-value" id="info_players">-</span>
-        </div>
+    <div class="match-info">
+        <p>試合ID: <span id="info_match_id">-</span></p>
+        <p>ゲームモード: <span id="info_mode">-</span></p>
+        <p>試合日時: <span id="info_time">-</span></p>
+        <p>プレイヤー数: <span id="info_players">-</span></p>
     </div>
 
     <div class="result-container">
@@ -356,8 +256,8 @@
                 </thead>
                 <tbody id="resultTableBody">
                     <tr>
-                        <td colspan="4" style="text-align: center; padding: 30px; color:#64748b;">
-                            試合IDを入力して読み込んでくださいなのです。
+                        <td colspan="4" style="text-align: center; padding: 20px; color: #64748b;">
+                            試合IDを入力して読み込んでください。
                         </td>
                     </tr>
                 </tbody>
@@ -365,187 +265,121 @@
         </div>
     </div>
 
-    <div id="loadingOverlay">
-        <div class="spinner"></div>
-        <div style="color: #fff; font-size: 0.85rem;">試合データを取得中なのです...</div>
-    </div>
-
     <script>
-        // =========================================================
-        // ⚙️ 運営・管理用設定フラグ
-        // =========================================================
-        // この値を false に書き換えると、画面上の「保存」ボタンが完全に非表示になります！
+        // ==========================================
+        // ⚙️ 表示・非表示設定フラグ
+        // ==========================================
+        // ここを false に書き換えるだけで、保存ボタンは綺麗に非表示になります
         const SHOW_SAVE_BUTTON = true;
 
-        window.addEventListener('DOMContentLoaded', () => {
-            // 保存ボタンの表示制御
+        window.onload = function() {
+            // 保存ボタンの非表示制御
             const saveBtn = document.getElementById('saveBtn');
             if (saveBtn) {
-                saveBtn.style.display = SHOW_SAVE_BUTTON ? 'inline-flex' : 'none';
+                saveBtn.style.display = SHOW_SAVE_BUTTON ? 'inline-block' : 'none';
             }
-            
-            // 初回自動読み込み
             loadMatchData();
-        });
+        };
 
-        // 保存ボタンが押された時のジャンプ先設定
-        function redirectToMasterData() {
-            window.open('https://github.com/ytyt0707/haou_jintori_databank/tree/main/master_data', '_blank');
+        // 保存ボタンを押した時の飛び先URL設定
+        function saveMatchData() {
+            window.location.href = "https://github.com/ytyt0707/haou_jintori_databank/tree/main/master_data";
         }
 
-        // 🔍 検索補助のボタンが押された時の処理（メッセージ固定表示）
-        function executeDateSearch() {
-            const resultSection = document.getElementById('searchResultSection');
-            resultSection.innerText = "検索結果：まだ参照できるデータを作ってないので見つかりません。";
-            resultSection.style.display = "block";
+        // 検索補助ボタンが押された時の挙動
+        function searchMatchByDate() {
+            document.getElementById('searchStatus').innerText = "見つかりません";
         }
 
         function stepMatch(amount) {
             const input = document.getElementById('matchIdInput');
-            let currentId = parseInt(input.value, 10);
-            if (isNaN(currentId)) currentId = 3000;
-            input.value = Math.max(1, currentId + amount);
+            let val = parseInt(input.value);
+            if (isNaN(val)) val = 3000;
+            input.value = val + amount;
             loadMatchData();
         }
 
-        // 🟢 4桁以下・3桁以下のID階層に完全対応したパス生成＆読み込みロジック
         function loadMatchData() {
-            const input = document.getElementById('matchIdInput');
-            const matchId = parseInt(input.value, 10);
-            
-            if (isNaN(matchId) || matchId < 1) {
-                alert("有効な試合IDを入力してくださいなのです。");
-                return;
-            }
-
-            // 検索メッセージをリセット
-            document.getElementById('searchResultSection').style.display = "none";
-
-            const overlay = document.getElementById('loadingOverlay');
-            overlay.style.display = 'flex';
+            const matchId = document.getElementById('matchIdInput').value;
+            if (!matchId) return;
 
             // 💡 4桁以下・3桁以下に対応するための「1000単位切り捨て」による上位フォルダ計算
-            // 例: 3000 -> 3000,  300 -> 0,  2 -> 0
-            const folderBase = Math.floor(matchId / 1000) * 1000;
-            
-            // 5桁の文字列にゼロ埋めフォーマットする (例: 3000 -> "03000", 0 -> "00000")
+            const folderBase = Math.floor(parseInt(matchId) / 1000) * 1000;
             const folderName = String(folderBase).padStart(5, '0');
             
-            // ファイルパスの組み立て
-            const jsonUrl = `master_data/${folderName}/${matchId}.json`;
+            // パス組み立て
+            const url = `master_data/${folderName}/${matchId}.json`;
 
-            fetch(jsonUrl)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error(`試合データが見つかりません (Path: ${jsonUrl})`);
-                    }
-                    return response.json();
+            fetch(url)
+                .then(res => {
+                    if(!res.ok) throw new Error("試合データが見つかりません");
+                    return res.json();
                 })
                 .then(data => {
-                    renderMatchResult(matchId, data);
-                    overlay.style.display = 'none';
+                    renderResultScreen(data, matchId);
                 })
-                .catch(error => {
-                    console.error(error);
-                    clearMatchDisplay();
-                    document.getElementById('resultTableBody').innerHTML = `
-                        <tr>
-                            <td colspan="4" style="text-align: center; padding: 30px; color:#ef4444;">
-                                試合ID #${matchId} のデータが見つからなかったのです。<br>
-                                <span style="font-size:0.75rem; color:#64748b;">(確認パス: ${jsonUrl})</span>
-                            </td>
-                        </tr>
-                    `;
-                    overlay.style.display = 'none';
+                .catch(err => {
+                    document.getElementById('resultTableBody').innerHTML = `<tr><td colspan="4" style="text-align:center; padding:20px; color:#ef4444;">データが見つかりません (${url})</td></tr>`;
                 });
         }
 
-        function clearMatchDisplay() {
-            document.getElementById('info_match_id').innerText = "-";
-            document.getElementById('info_mode').innerText = "-";
-            document.getElementById('info_time').innerText = "-";
-            document.getElementById('info_players').innerText = "-";
-            document.getElementById('resultTitle').innerText = "RESULT";
-        }
-
-        function renderMatchResult(matchId, data) {
-            // メタ情報の書き換え
-            document.getElementById('info_match_id').innerText = `#${matchId}`;
+        function renderResultScreen(data, matchId) {
+            document.getElementById('info_match_id').innerText = matchId;
+            document.getElementById('info_mode').innerText = data.mode || '-';
+            document.getElementById('info_time').innerText = data.time || '-';
             
-            let modeText = "不明";
-            if (data.mode === "sp") modeText = "個人戦 (ソロ)";
-            else if (data.mode === "tp") modeText = "チーム戦 (個人)";
-            else if (data.mode === "t") modeText = "団体戦 (チーム)";
-            document.getElementById('info_mode').innerText = modeText;
-
-            // 時間フォーマット
-            if (data.time) {
-                const d = new Date(data.time);
-                if (!isNaN(d.getTime())) {
-                    document.getElementById('info_time').innerText = d.toLocaleString('ja-JP');
-                } else {
-                    document.getElementById('info_time').innerText = data.time;
-                }
-            } else {
-                document.getElementById('info_time').innerText = "-";
-            }
-
-            const playersList = data.rankings || data.players || [];
-            document.getElementById('info_players').innerText = `${playersList.length} 枠`;
+            const players = data.rankings || data.players || [];
+            document.getElementById('info_players').innerText = players.length;
             document.getElementById('resultTitle').innerText = `MATCH #${matchId} RESULT`;
 
             const tbody = document.getElementById('resultTableBody');
-            tbody.innerHTML = "";
+            let html = '';
 
-            if (playersList.length === 0) {
-                tbody.innerHTML = `<tr><td colspan="4" style="text-align: center; padding: 20px; color:#888;">リザルトデータが空欄です。</td></tr>`;
-                return;
+            if (players.length === 0) {
+                html = `<tr><td colspan="4" style="text-align: center; padding: 20px; color: #64748b;">データが空です。</td></tr>`;
+            } else {
+                players.forEach(p => {
+                    const rank = parseInt(p.rank_position);
+                    let rankClass = '';
+                    if (rank === 1) rankClass = 'rank-row-1';
+                    else if (rank === 2) rankClass = 'rank-row-2';
+                    else if (rank === 3) rankClass = 'rank-row-3';
+
+                    let rankIcon = '';
+                    if (rank === 1) rankIcon = '👑 ';
+
+                    let playerColor = '#475569';
+                    if (p.color) {
+                        playerColor = p.color;
+                    } else if (data.teams && p.team_id !== undefined && data.teams[p.team_id]) {
+                        playerColor = data.teams[p.team_id].color || playerColor;
+                    } else if (data.colors && p.player_id !== undefined) {
+                        playerColor = data.colors[p.player_id] || playerColor;
+                    }
+
+                    // 元のコード通りの表示名組み立て
+                    let displayName = escapeHtml(p.player_name || "名無しさん");
+                    if (data.mode === 't' && p.team_name) {
+                        displayName = `[${escapeHtml(p.team_name)}] ${displayName}`;
+                    } else if (p.team_code) {
+                        displayName = `[${escapeHtml(p.team_code)}] ${displayName}`;
+                    }
+
+                    html += `
+                        <tr class="${rankClass}">
+                            <td>#${p.rank_position}</td>
+                            <td>
+                                <span style="display:inline-block; width:13px; height:13px; border-radius:50%; background-color:${playerColor}; text-align:center; line-height:13px; margin-right:4px; font-size:9px; color:#fff; text-shadow:1px 1px 1px #000;">
+                                    ${p.emoji || '🐣'}
+                                </span>
+                                ${rankIcon}${displayName}
+                            </td>
+                            <td class="kill-cell" style="text-align:center;">${p.kills || 0} ⚔️</td>
+                            <td>${parseFloat(p.score || 0).toFixed(2)}%</td>
+                        </tr>
+                    `;
+                });
             }
-
-            let html = "";
-            playersList.forEach((p) => {
-                const rank = parseInt(p.rank_position, 10);
-                let rankClass = "";
-                if (rank === 1) rankClass = "rank-row-1";
-                else if (rank === 2) rankClass = "rank-row-2";
-                else if (rank === 3) rankClass = "rank-row-3";
-
-                let rankIcon = "";
-                if (rank === 1) rankIcon = ' <i class="fa-solid fa-crown" style="color:#fbbf24; margin-right:2px;"></i>';
-                
-                // カラー割り出し
-                let playerColor = "#475569"; 
-                if (p.color) {
-                    playerColor = p.color;
-                } else if (data.teams && p.team_id !== undefined && data.teams[p.team_id]) {
-                    playerColor = data.teams[p.team_id].color || playerColor;
-                } else if (data.colors && p.player_id !== undefined) {
-                    playerColor = data.colors[p.player_id] || playerColor;
-                }
-
-                // チーム名補合
-                let displayName = escapeHtml(p.player_name || "名無しさん");
-                if (data.mode === 't' && p.team_name) {
-                    displayName = `[${escapeHtml(p.team_name)}] ${displayName}`;
-                } else if (p.team_code) {
-                    displayName = `[${escapeHtml(p.team_code)}] ${displayName}`;
-                }
-
-                html += `
-                    <tr class="${rankClass}">
-                        <td>#${p.rank_position}</td>
-                        <td>
-                            <span style="display:inline-block; width:13px; height:13px; border-radius:50%; background-color:${playerColor}; text-align:center; line-height:13px; margin-right:4px; font-size:9px; color:#fff; text-shadow:1px 1px 1px #000;">
-                                ${p.emoji || '🐣'}
-                            </span>
-                            ${rankIcon}${displayName}
-                        </td>
-                        <td class="kill-cell" style="text-align:center;">${p.kills || 0} ⚔️</td>
-                        <td>${parseFloat(p.score || 0).toFixed(2)}%</td>
-                    </tr>
-                `;
-            });
-
             tbody.innerHTML = html;
         }
 
