@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Yomogi&display=swap" rel="stylesheet">
     <style>
         /* ==========================================
-            🎨 超高密度サイバーダークUI
+            🎨 超高密度サイバーダークUI (※デザイン変更なし)
         ========================================== */
         :root {
             --bg-base: #1a1d24;
@@ -86,12 +86,6 @@
             gap: 8px;
             width: 100%;
         }
-        .filter-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-            gap: 8px;
-            width: 100%;
-        }
         .filter-item {
             display: flex;
             align-items: center;
@@ -142,7 +136,7 @@
 <body>
     <header>
         <h1 class="site-title">
-            陣取り データバンク 
+            陣取り データバンク
             <span id="dataPeriodDisplay" style="font-size: 0.75rem; color: #888; margin-left: 10px; font-weight: normal;"></span>
         </h1>
         <div class="nav-links">
@@ -170,8 +164,7 @@
         <div class="control-group" style="margin-left: 10px;">
             <select id="killrate_type" class="dropdown-select" onchange="updateView()" title="キルレート計算方式設定">
                 <option value="normal">K/G (キル/試合数)</option>
-                <option value="dummy1">K/D (キル/デス数・仮)</option>
-                <option value="dummy2">K/R (キル率・仮)</option>
+                <option value="per_minute">K/M (キル/分)</option>
             </select>
         </div>
         <div class="control-group" style="margin-left: auto;">
@@ -179,7 +172,7 @@
             <button id="period_today" onclick="switchPeriod('today')">本日</button>
             <button id="period_weekly" onclick="switchPeriod('weekly')">直近7日間</button>
             <button id="period_monthly" onclick="switchPeriod('monthly')">今月</button>
-            <button id="period_custom" title="カスタム期間指定" onclick="switchPeriod('custom')">📅 期間指定</button>
+            <button id="period_custom" title="カスタム期間指定" onclick="promptCustomPeriod()">📅 期間指定</button>
             <button id="toggleFiltersBtn" onclick="toggleAdvancedFilters()" style="margin-left: 10px; border-color: var(--deep-blue);">▼ 詳細絞り込み</button>
         </div>
     </div>
@@ -240,7 +233,7 @@
 
     <script>
         let currentMode = 'personal'; 
-        let currentPeriod = 'all';
+        let currentPeriod = 'all'; // 現在選択中の期間
         let rawRankings = []; 
         let rawJsonUpdatedAt = ""; 
         let currentSortKey = 'total_area'; 
@@ -253,17 +246,19 @@
             loadDataForPeriod(currentPeriod);
         };
 
-        // 🟢 期間に応じたJSONの読み込み関数（データ内の期間表示の制御もここで行うのです）
+        // 🟢 期間ごとのデータ取得関数
         function loadDataForPeriod(period) {
             const loader = document.getElementById('loadingIndicator');
             if (loader) loader.style.display = 'block';
+            document.getElementById('rankingBody').innerHTML = `<tr><td colspan="9" class="col-center" style="padding: 20px;">データをロード中なのです...</td></tr>`;
 
-            let jsonPath = 'public_data/all_period/summary.json';
-            
-            // 将来的に期間ごとのJSONを切り替える場合のパス設計
-            if (period === 'today') jsonPath = 'public_data/today/summary.json';
-            else if (period === 'weekly') jsonPath = 'public_data/weekly/summary.json';
-            else if (period === 'monthly') jsonPath = 'public_data/monthly/summary.json';
+            let jsonPath = '';
+            if (period === 'all') jsonPath = 'public_data/all_period/summary.json';
+            else if (period === 'today') jsonPath = 'public_data/today/summary.json';
+            else if (period === 'weekly') jsonPath = 'public_data/last_7days/summary.json';
+            else if (period === 'monthly') jsonPath = 'public_data/this_month/summary.json';
+            else if (period.startsWith('monthly/')) jsonPath = `public_data/${period}/summary.json`;
+            else if (period.startsWith('daily/')) jsonPath = `public_data/${period}/summary.json`;
 
             fetch(jsonPath)
                 .then(response => {
@@ -274,47 +269,76 @@
                     rawJsonUpdatedAt = data.updated_at || "";
                     rawRankings = data.rankings || [];
                     
-                    // 📅 データの対象期間（何時から何時までか）をタイトル横に表示するロジック
-                    const periodDisplay = document.getElementById('dataPeriodDisplay');
-                    if (data.start_date && data.end_date) {
-                        periodDisplay.innerText = `[ 対象期間: ${data.start_date} ～ ${data.end_date} ]`;
-                    } else if (rawJsonUpdatedAt) {
-                        periodDisplay.innerText = `[ 更新日時: ${rawJsonUpdatedAt} ]`;
-                    } else {
-                        periodDisplay.innerText = '';
-                    }
-
+                    calculateAndDisplayDataPeriod();
                     updateView(); 
                 })
                 .catch(error => {
                     console.error('データの取得に失敗したのです:', error);
                     document.getElementById('rankingBody').innerHTML = 
-                        `<tr><td colspan="9" class="col-center" style="color:#ff4444; padding:20px;">データの読み込みに失敗しました。(${period})</td></tr>`;
+                        `<tr><td colspan="9" class="col-center" style="color:#ff4444; padding:20px;">データが存在しないか、まだ生成されていないのです。</td></tr>`;
+                    document.getElementById('dataPeriodDisplay').innerText = '[ データなし ]';
                     if (loader) loader.style.display = 'none';
                 });
         }
 
-        // 🟢 期間ボタンの切り替え処理
+        // 🟢 対象期間を配列の中身から自動算出して表示するロジック
+        function calculateAndDisplayDataPeriod() {
+            if (!rawRankings || rawRankings.length === 0) {
+                document.getElementById('dataPeriodDisplay').innerText = '[ データなし ]';
+                return;
+            }
+            let minDate = "9999-99-99";
+            let maxDate = "0000-00-00";
+
+            for (let i = 0; i < rawRankings.length; i++) {
+                const firstD = rawRankings[i][10]; // first_date
+                const lastD = rawRankings[i][9];   // last_date
+                if (firstD && firstD !== "-" && firstD < minDate) minDate = firstD;
+                if (lastD && lastD !== "-" && lastD > maxDate) maxDate = lastD;
+            }
+
+            if (minDate === "9999-99-99") {
+                document.getElementById('dataPeriodDisplay').innerText = '[ 期間不明 ]';
+            } else {
+                const formatD = (d) => d.includes('T') ? d.substring(0, 10).replace(/-/g, '/') : d.replace(/-/g, '/');
+                document.getElementById('dataPeriodDisplay').innerText = `[ 対象期間: ${formatD(minDate)} ～ ${formatD(maxDate)} ]`;
+            }
+        }
+
+        // 🟢 期間切り替えボタン処理
         function switchPeriod(period) {
             currentPeriod = period;
             
-            // すべての期間ボタンから active クラスを一旦削除
             const periods = ['all', 'today', 'weekly', 'monthly', 'custom'];
             periods.forEach(p => {
                 const btn = document.getElementById('period_' + p);
                 if (btn) btn.classList.remove('active');
             });
 
-            // クリックされたボタンをアクティブ化
-            const activeBtn = document.getElementById('period_' + period);
-            if (activeBtn) activeBtn.classList.add('active');
-
-            if (period === 'custom') {
-                // 期間指定（カスタム）が押された際、プロンプト等での拡張を考慮
-                const customPrompt = confirm("特定のカスタム期間を読み込みますか？\n(現在は開発中のため、全期間データへフォールバックしますのです)");
-                loadDataForPeriod('all');
+            if (period.startsWith('monthly/') || period.startsWith('daily/')) {
+                document.getElementById('period_custom').classList.add('active');
             } else {
-                loadDataForPeriod(period);
+                const activeBtn = document.getElementById('period_' + period);
+                if (activeBtn) activeBtn.classList.add('active');
+            }
+
+            loadDataForPeriod(period);
+        }
+
+        // 📅 期間指定（プロンプト）の処理
+        function promptCustomPeriod() {
+            const input = prompt("取得したい過去の期間を半角数字で入力してください。\n\n【月別データの場合】\n例: 2026-01\n\n【日別データの場合】\n例: 2026-01-02");
+            if (!input) return; // キャンセル時
+
+            const isMonth = /^\d{4}-\d{2}$/.test(input);
+            const isDay = /^\d{4}-\d{2}-\d{2}$/.test(input);
+
+            if (isMonth) {
+                switchPeriod(`monthly/${input}`);
+            } else if (isDay) {
+                switchPeriod(`daily/${input}`);
+            } else {
+                alert("入力形式が正しくありません。\nYYYY-MM または YYYY-MM-DD の形式で入力してくださいなのです。");
             }
         }
 
@@ -388,6 +412,7 @@
             setTimeout(() => {
                 const query = document.getElementById('searchInput').value.trim();
                 const filterType = document.getElementById('filter_type').value;
+                const killRateType = document.getElementById('killrate_type').value; // 💡 キルレート設定取得
                 let activeData = [];
 
                 if (currentMode === 'personal') {
@@ -399,6 +424,7 @@
                             if (filterType === 'team' && isSolo) return;
 
                             activeData.push({
+                                typeCode: type, // キルレート計算用に記録
                                 name: row[1], 
                                 team: isSolo ? '' : row[2], 
                                 isSolo: isSolo, 
@@ -418,6 +444,7 @@
                     rawRankings.forEach(row => {
                         if (row[0] === 't') {
                             activeData.push({
+                                typeCode: 't',
                                 name: row[1], team: '', isSolo: false, icon: '', 
                                 matches: row[4], total_area: row[5], total_kills: row[6], max_area: row[7], max_kills: row[8],
                                 last_date: row[9] || '-', first_date: row[10] || '-',
@@ -427,8 +454,18 @@
                     });
                 }
 
+                // 💡 キルレートの計算ロジック
                 activeData.forEach(p => {
-                    p.kill_rate = p.matches > 0 ? (p.total_kills / p.matches) : 0;
+                    if (killRateType === 'per_minute') {
+                        // K/M (キル/分) の計算: ソロは2分、チーム(個人・団体)は4分
+                        const minsPerMatch = (p.typeCode === 'sp') ? 2 : 4;
+                        const totalMins = p.matches * minsPerMatch;
+                        p.kill_rate = totalMins > 0 ? (p.total_kills / totalMins) : 0;
+                    } else {
+                        // K/G (キル/試合数)
+                        p.kill_rate = p.matches > 0 ? (p.total_kills / p.matches) : 0;
+                    }
+
                     let days = 1;
                     if(p.first_date !== '-' && p.last_date !== '-') {
                         const d1 = parseToDate(p.first_date);
