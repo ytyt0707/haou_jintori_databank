@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>おんj陣取り 覇王軍特設データバンク</title>
+    <title>総合ランキング - 陣取りデータバンク</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Yomogi&display=swap" rel="stylesheet">
@@ -229,7 +229,7 @@
         </div>
     </div>
 
-    <div id="loadingIndicator">⏳ 覇王軍データベース計算中...</div>
+    <div id="loadingIndicator">⏳ データベース計算中...</div>
 
     <script>
         let currentMode = 'personal'; 
@@ -273,9 +273,9 @@
                     updateView(); 
                 })
                 .catch(error => {
-                    console.error('データの取得に失敗したのです:', error);
+                    console.error('データの取得に失敗しました:', error);
                     document.getElementById('rankingBody').innerHTML = 
-                        `<tr><td colspan="9" class="col-center" style="color:#ff4444; padding:20px;">データが存在しないか、まだ生成されていないのです。</td></tr>`;
+                        `<tr><td colspan="9" class="col-center" style="color:#ff4444; padding:20px;">データが存在しないか、まだ生成されていません。</td></tr>`;
                     document.getElementById('dataPeriodDisplay').innerText = '[ データなし ]';
                     if (loader) loader.style.display = 'none';
                 });
@@ -338,7 +338,7 @@
             } else if (isDay) {
                 switchPeriod(`daily/${input}`);
             } else {
-                alert("入力形式が正しくありません。\nYYYY-MM または YYYY-MM-DD の形式で入力してくださいなのです。");
+                alert("入力形式が正しくありません。\nYYYY-MM または YYYY-MM-DD の形式で入力してください。");
             }
         }
 
@@ -634,5 +634,9 @@
             updateView();
         }
     </script>
+    <script>
+      window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+    </script>
+    <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>

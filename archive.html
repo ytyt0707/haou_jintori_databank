@@ -319,8 +319,8 @@
         <h1 class="site-title">陣取り データバンク</h1>
         <div class="nav-links">
             <a href="index.html">総合ランキング</a>
-            <a href="plot.html">複数データプロット</a>
             <a href="archive.html" class="active">過去試合記録</a>
+            <a href="plot.html">複数データプロット</a>
         </div>
     </header>
 
@@ -452,16 +452,46 @@
             loadMatchData(currentMatchId);
         };
 
-        function assistDateSearch() {
-            const hintSpan = document.getElementById('date-assist-result');
-            // 💡 固定のメッセージを表示するように変更しました
-            hintSpan.innerText = "❌ まだ参照できるデータを作ってないので見つかりません。";
-        }
+        // 💡 JSONデータを一度だけ読み込んで保持するための変数
+        let timelineCache = null;
 
+        async function assistDateSearch() {
+            const hintSpan = document.getElementById('date-assist-result'); // [cite: 94]
+            const inputDate = document.getElementById('input-match-date').value; // [cite: 67, 94]
+            
+            if (!inputDate) return;
+
+            hintSpan.innerText = "⏳ 検索中...";
+            hintSpan.style.color = "#94a3b8";
+
+            try {
+                // 💡 Vercelの同階層（ルート）から正しくフェッチするようにパスを修正
+                if (!timelineCache) {
+                    const response = await fetch('./analysis_data/id_timeline.json');
+                    if (!response.ok) throw new Error("データ取得失敗");
+                    timelineCache = await response.json();
+                }
+
+                // 選択された日付のデータがあるかチェック
+                const range = timelineCache[inputDate];
+                
+                if (range) {
+                    // 見つかった場合はID範囲を表示
+                    hintSpan.innerText = `💡 この日の試合ID: ${range[0]} ～ ${range[1]}`;
+                    hintSpan.style.color = "#fbbf24"; // 見やすくゴールド色に
+                } else {
+                    hintSpan.innerText = "❌ この日付の試合記録は見つかりません。"; // [cite: 95]
+                    hintSpan.style.color = "#f87171"; // エラーの赤色
+                }
+            } catch (error) {
+                hintSpan.innerText = "❌ データの読み込みに失敗しました。";
+                hintSpan.style.color = "#f87171";
+            }
+        }
         function searchByInputId() {
             const inputVal = parseInt(document.getElementById('input-match-id').value);
             if (!inputVal || inputVal < 1) {
-                alert("有効な試合IDを入力してくださいなのです！");
+                alert("有効な試合IDを入力してください");
                 return;
             }
             currentMatchId = inputVal;
@@ -512,7 +542,7 @@
 
             } catch (error) {
                 statusDisp.classList.remove('hidden');
-                statusDisp.innerText = `❌ 試合ID: ${matchId} のデータはまだ同期されていないか、存在しないのです`;
+                statusDisp.innerText = `❌ 試合ID: ${matchId} のデータはまだ同期されていないか、存在しません`;
             }
         }
 
@@ -680,5 +710,9 @@
             return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
         }
     </script>
+    <script>
+      window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+    </script>
+    <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
