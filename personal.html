@@ -219,7 +219,7 @@
             try {
                 const safeName = getSafeFilename(playerName);
                 const response = await fetch(`analysis_data/personal_analysis/${safeName}.json`);
-                if (!response.ok) throw new Error("ファイルが見つからないのです");
+                if (!response.ok) throw new Error("ファイルが見つかりません");
                 const data = await response.json();
                 
                 document.getElementById('player-name-title').innerText = `👤 個人分析: ${data.name}`;
