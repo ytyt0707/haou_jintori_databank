@@ -452,10 +452,41 @@
             loadMatchData(currentMatchId);
         };
 
-        function assistDateSearch() {
+        // 💡 JSONデータを一度だけ読み込んで保持するための変数
+        let timelineCache = null;
+
+        async function assistDateSearch() {
             const hintSpan = document.getElementById('date-assist-result');
-            // 💡 固定のメッセージを表示するように変更しました
-            hintSpan.innerText = "❌ まだ参照できるデータを作ってないので見つかりません。";
+            const inputDate = document.getElementById('input-match-date').value;
+            
+            if (!inputDate) return;
+
+            hintSpan.innerText = "⏳ 検索中...";
+            hintSpan.style.color = "#94a3b8";
+
+            try {
+                // 初回検索時のみ id_timeline.json をフェッチしてキャッシュに保存
+                if (!timelineCache) {
+                    const response = await fetch('../haou_jintori_databank/analysis_data/id_timeline.json');
+                    if (!response.ok) throw new Error("データ取得失敗");
+                    timelineCache = await response.json();
+                }
+
+                // 選択された日付のデータがあるかチェック
+                const range = timelineCache[inputDate];
+                
+                if (range) {
+                    // 見つかった場合はID範囲を表示
+                    hintSpan.innerText = `💡 この日の試合ID: ${range[0]} ～ ${range[1]}`;
+                    hintSpan.style.color = "#fbbf24"; // 見やすくゴールド色に
+                } else {
+                    hintSpan.innerText = "❌ この日付の試合記録は見つかりません。";
+                    hintSpan.style.color = "#f87171"; // エラーの赤色
+                }
+            } catch (error) {
+                hintSpan.innerText = "❌ データの読み込みに失敗しました。";
+                hintSpan.style.color = "#f87171";
+            }
         }
 
         function searchByInputId() {
