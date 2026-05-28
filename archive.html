@@ -456,8 +456,8 @@
         let timelineCache = null;
 
         async function assistDateSearch() {
-            const hintSpan = document.getElementById('date-assist-result');
-            const inputDate = document.getElementById('input-match-date').value;
+            const hintSpan = document.getElementById('date-assist-result'); // [cite: 94]
+            const inputDate = document.getElementById('input-match-date').value; // [cite: 67, 94]
             
             if (!inputDate) return;
 
@@ -465,9 +465,9 @@
             hintSpan.style.color = "#94a3b8";
 
             try {
-                // 初回検索時のみ id_timeline.json をフェッチしてキャッシュに保存
+                // 💡 Vercelの同階層（ルート）から正しくフェッチするようにパスを修正
                 if (!timelineCache) {
-                    const response = await fetch('../haou_jintori_databank/analysis_data/id_timeline.json');
+                    const response = await fetch('./analysis_data/id_timeline.json');
                     if (!response.ok) throw new Error("データ取得失敗");
                     timelineCache = await response.json();
                 }
@@ -480,7 +480,7 @@
                     hintSpan.innerText = `💡 この日の試合ID: ${range[0]} ～ ${range[1]}`;
                     hintSpan.style.color = "#fbbf24"; // 見やすくゴールド色に
                 } else {
-                    hintSpan.innerText = "❌ この日付の試合記録は見つかりません。";
+                    hintSpan.innerText = "❌ この日付の試合記録は見つかりません。"; // [cite: 95]
                     hintSpan.style.color = "#f87171"; // エラーの赤色
                 }
             } catch (error) {
@@ -488,7 +488,6 @@
                 hintSpan.style.color = "#f87171";
             }
         }
-
         function searchByInputId() {
             const inputVal = parseInt(document.getElementById('input-match-id').value);
             if (!inputVal || inputVal < 1) {
