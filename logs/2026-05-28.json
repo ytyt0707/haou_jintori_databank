@@ -2,6 +2,55 @@
   "date": "2026-05-28",
   "task_history": [
     {
+      "timestamp": "2026-05-28T19:01:43.379858",
+      "status": "success",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "最新試合IDの確認および差分履歴データの取得完了",
+          "previous_last_id": 59239,
+          "current_last_id": 59269,
+          "target_limit": 30
+        },
+        "step2": {
+          "status": "success",
+          "message": "新着試合データの個別ダウンロード完了",
+          "success_count": 30,
+          "skip_count": 0,
+          "error_count": 0
+        },
+        "step3": {
+          "status": "success",
+          "message": "マスターデータのビルドが正常に完了しました。",
+          "new_created_count": 30,
+          "skip_count": 59239,
+          "rescued_count": 0,
+          "created_id_ranges": "59240-59269"
+        },
+        "step4": {
+          "status": "success",
+          "message": "新着試合分の個人分析データを高速アペンドしました。",
+          "updated_players_count": 22,
+          "new_players_count": 2,
+          "skipped_nanashi_count": 14
+        },
+        "step5": {
+          "status": "success",
+          "message": "新着試合分のチーム分析データを高速アペンドしました。",
+          "updated_teams_count": 11,
+          "new_teams_count": 4,
+          "processed_team_rounds": 15
+        },
+        "step6": {
+          "status": "success",
+          "message": "新規試合分の時間統計データを正常に累積集計しました。",
+          "processed_files_count": 30,
+          "updated_time_buckets_count": 2
+        }
+      }
+    },
+    {
       "timestamp": "2026-05-28T17:21:44.718646",
       "status": "success",
       "error_reason": null,
