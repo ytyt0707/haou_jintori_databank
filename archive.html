@@ -319,8 +319,8 @@
         <h1 class="site-title">陣取り データバンク</h1>
         <div class="nav-links">
             <a href="index.html">総合ランキング</a>
-            <a href="plot.html">複数データプロット</a>
             <a href="archive.html" class="active">過去試合記録</a>
+            <a href="plot.html">複数データプロット</a>
         </div>
     </header>
 
@@ -491,7 +491,7 @@
         function searchByInputId() {
             const inputVal = parseInt(document.getElementById('input-match-id').value);
             if (!inputVal || inputVal < 1) {
-                alert("有効な試合IDを入力してくださいなのです！");
+                alert("有効な試合IDを入力してください");
                 return;
             }
             currentMatchId = inputVal;
@@ -542,7 +542,7 @@
 
             } catch (error) {
                 statusDisp.classList.remove('hidden');
-                statusDisp.innerText = `❌ 試合ID: ${matchId} のデータはまだ同期されていないか、存在しないのです`;
+                statusDisp.innerText = `❌ 試合ID: ${matchId} のデータはまだ同期されていないか、存在しません`;
             }
         }
 
