@@ -1,0 +1,72 @@
+{
+  "round_id": 58396,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-26T10:48:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[錬金術] トトリ",
+      "team": "錬金術",
+      "emoji": "😖",
+      "score": "39.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "和田",
+      "team": "",
+      "emoji": "🥺",
+      "score": "12.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[東卍] 稀咲鉄太",
+      "team": "東卍",
+      "emoji": "🤓",
+      "score": "1.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🌱] 草の民",
+      "team": "🌱",
+      "emoji": "🍏",
+      "score": "0.88",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "錬金術",
+      "score": "39.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "東卍",
+      "score": "1.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🌱",
+      "score": "0.88",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klsOxCAMAx2ncP8jr/KiUIXNR4uYjFNBAdkKWWPkYmNSECjc0mEFvLnYTAQruiHXUi23Ji4Wg31sMfuaVbYZlM4X8IVtUUQIcreiywWKkKf1UpLSiHkaJGe43+xInnN2wX7S5Jzt2LgHo1ds7vM8bfZAqA32myDJcZOR9JZs7q3cxRiqXYdTHaotNmrIymytn9HPES/MntjOZ08rgUinXoeLL9UDl7Pef+kBgYjSMzF7flYaCXY=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#30b4e8",
+      "5": "#85d411",
+      "6": "#30e892"
+    },
+    "sz": 30
+  }
+}

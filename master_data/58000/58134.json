@@ -1,0 +1,48 @@
+{
+  "round_id": 58134,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-25T20:38:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "63.70",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] ꧁バステト神꧂",
+      "team": "ラー軍",
+      "emoji": "🐈",
+      "score": "0.25",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "63.70",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "0.25",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFk0EOwCAIBFns/9/cIK6iQZKeykVgYEWatkYTOn6K2Z46opoexRZ+bnCN55SqdX6j5brqbfZlXwd3uteociuRUkKJNxiod9/okN7wyE3lFqlDNUt6J5UrVZW011oFqkCm3IVFAGBcG6byDGl/exg5UH63k1oM+F8giTDrbcRlFF6Z6HUaE+a/HZcHGg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#30e8c6"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 58520,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-26T17:30:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チキン] びっくりチキン",
+      "team": "チキン",
+      "emoji": "🐓",
+      "score": "11.17",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "🐣",
+      "score": "1.28",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チキン",
+      "score": "11.17",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "1.28",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kEESwzAIAwXy/9/cAUwAe9pOD+WShEUSQfUfhZ9MSb6bB0ASUWMIqtZ94IjcmoKdsmobIzDsWbDUHhxpDaPvdVEmNnFR2QaZPCCFQpA+79uE1I9AilUcYW+cgyZyPk+UIaZ38aNPX59IVLSEaHBnN22HInXG0E9q6lXaA4roWitzL/idpnQs7D5avrhoLeQGR/Bjmi/FYf97lvVs5Ox//n4BcMgEVA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#30d7e8"
+    },
+    "sz": 30
+  }
+}

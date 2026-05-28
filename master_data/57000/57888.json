@@ -1,0 +1,48 @@
+{
+  "round_id": 57888,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-25T07:20:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無し4D",
+      "team": "🇯🇵ONJ",
+      "emoji": "😇",
+      "score": "16.53",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵草] もみじもみもみ",
+      "team": "🇯🇵草",
+      "emoji": "😀",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "16.53",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵草",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kkkOwCAMA4PT/7+5CghiUQf10HKyMvKELmYfHJwcOFILCrg2BPSSGmBA7Q/mXqhjaT/FZner8Whq92JqM0F1L8LiWm9pVq+Mq5wjSmc63oR6nq6YZfJRnLSoT0yNjB3G9hxtKT7TGLW2ofh3VlFQ0gr6lP02uQGFswH5",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e870"
+    },
+    "sz": 30
+  }
+}

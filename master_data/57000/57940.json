@@ -1,0 +1,48 @@
+{
+  "round_id": 57940,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-25T10:09:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無し6h",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦊",
+      "score": "3.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸宣教師] ルイス・フロイス",
+      "team": "🇪🇸宣教師",
+      "emoji": "😆",
+      "score": "0.12",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "3.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸宣教師",
+      "score": "0.12",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1klEKwDAIQ9Xu/mceRleKtRZa5s90z8QFRmJFRN6Nj+zdyP/sT2+f6i6z1GeptcKfmlfcgWmnqYWumDqKdYYB8JKqHPAJK5tEJU7/JmZhu5Fo2Ur5TB1CvaTh8/sIcZ9iU1PZ4uiH2WN+cedECMFCqBcjtQbA",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#af30e8"
+    },
+    "sz": 30
+  }
+}
