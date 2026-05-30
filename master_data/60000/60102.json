@@ -1,0 +1,75 @@
+{
+  "round_id": 60102,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-30T07:01:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しDg",
+      "team": "",
+      "emoji": "🐷",
+      "score": "12.86",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[革命軍] 神",
+      "team": "革命軍",
+      "emoji": "😎",
+      "score": "12.52",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しvk",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐶",
+      "score": "3.87",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[革命軍] 名無しu2",
+      "team": "革命軍",
+      "emoji": "😝",
+      "score": "1.25",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 名無しuu",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "0.99",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "革命軍",
+      "score": "13.76",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "4.87",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHV0VkOwyAMBFAHe+D+N66Mt4ol6m+RoiS8jDGB6G8H89b68zXD5fPDZ8FM50OEWUe8bPdXJJrha/oH3Ra0iZm8mK960TFesuOkgJc6IQUSHQpjzwIZKY2WQVhG77p4tLwgTJXntbCr58HFIiJdbFt2CGWAanP1EyxWLLXWQqeJtJb/XovnniyZlS1L5O5h+QAqYgSy",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#9ca3af",
+      "5": "#30e84d",
+      "6": "#9ca3af",
+      "7": "#4d81e5"
+    },
+    "sz": 30
+  }
+}
