@@ -1,0 +1,42 @@
+{
+  "round_id": 60000,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-30T01:30:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しzq",
+      "team": "",
+      "emoji": "👻",
+      "score": "29.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[1%] 名無しQ9",
+      "team": "1%",
+      "emoji": "🦄",
+      "score": "23.56",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "1%",
+      "score": "23.56",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVESxCAIQwN6/zPvAALBtstHp+MjISLwUcuKmR+MD1OshQFZq945cGtVFd5AvKhGAWx+U1WiBXG0KqSe1FsIJ91WgCrkSR0ahYjhE3to939q5iaWV61RIFk/Qgz2ZJDa9pnL0I6Gc0F3bmpv1CxhateAkYq1pPRfT1Jzb+ru33RX5OWROJePPtKgZX5u35GLxJ6Cp3YRTeU1NzoaPp1Re7qXQarzm/flMLPLnuAH0GwGvA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#97d411"
+    },
+    "sz": 30
+  }
+}
