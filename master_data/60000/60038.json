@@ -1,0 +1,90 @@
+{
+  "round_id": 60038,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-05-30T03:33:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新鯖♡] 新鯖♡",
+      "team": "新鯖♡",
+      "emoji": "❤️",
+      "score": "25.27",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[中立] 不殺の誓い",
+      "team": "中立",
+      "emoji": "🕊️",
+      "score": "9.84",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[新鯖♡] ぷゆゆパン🥺",
+      "team": "新鯖♡",
+      "emoji": "🥺",
+      "score": "6.74",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵自民党] 麻生太郎",
+      "team": "🇯🇵自民党",
+      "emoji": "😴",
+      "score": "3.37",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[中立] 名無しUX",
+      "team": "中立",
+      "emoji": "🦊",
+      "score": "1.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵自民党] 拓也",
+      "team": "🇯🇵自民党",
+      "emoji": "😎",
+      "score": "0.82",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新鯖♡",
+      "score": "32.02",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "中立",
+      "score": "11.73",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵自民党",
+      "score": "4.19",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkUsSxCAIBYnI5/4nnnoIRpyazbDR2DaPJEStuFcy5rXpMA+JmEkVS9bzPFwKRFVlLcgBtwsTvArm5VK23gE1sSpij+DugvEhNRriq1ZEtl7jhZDjYEkH73uk1j5pzHTGrgnWpNl+2eshQuD6C6EcdAx3B551mFfDHYEPubZFh4jNWVMXjXWg3OackVipeQdQ3M0sWr3/DN+VxjARB/6iRCRZsHGhxZLgVER+U+i4ZLe6Oye9O1dwYPtFs/c1VYTu5A53bs71JyUzu1T6AA7MB5g=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e88730",
+      "4": "#d130e8",
+      "5": "#30e8c6",
+      "6": "#d130e8",
+      "7": "#e88730",
+      "8": "#30e8c6"
+    },
+    "sz": 30
+  }
+}
