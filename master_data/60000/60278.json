@@ -1,0 +1,48 @@
+{
+  "round_id": 60278,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-30T16:32:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] ねむねむ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "38.34",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[九三軍] 九三軍",
+      "team": "九三軍",
+      "emoji": "🌱",
+      "score": "37.24",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "38.34",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "九三軍",
+      "score": "37.24",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlk9EWwyAIQ4Ph/795ByQWtnZ7mA+2ck1Aas0MOdzd9bIjAMwi7MhZE2opqvh8/kXdKvP03Cu477LuoN/kVcFxki++P6lLXP0Z+aGST/OEd4BqNADiKulQ4zUOLkozM5q2vDmTDCJKMjeE1lGmoW9DH1uhARk3IS7DEw37Q8O4yXdtjWbpcsqn96rWQLH4oM2dbM5rrXmqTlnGEofu0ippb8uhAVONZj9oyh+1QZsy8s5hqJ9uh1/ObQli",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#4d56e5"
+    },
+    "sz": 30
+  }
+}

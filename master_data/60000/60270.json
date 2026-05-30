@@ -1,0 +1,81 @@
+{
+  "round_id": 60270,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-30T16:06:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "25.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤍",
+      "score": "17.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] ルイス・フロイス",
+      "team": "みん²",
+      "emoji": "😆",
+      "score": "9.66",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[九三軍] 大麻",
+      "team": "九三軍",
+      "emoji": "🌱",
+      "score": "9.19",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] 名無しeS",
+      "team": "猛虎軍",
+      "emoji": "😀",
+      "score": "1.88",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "27.38",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "26.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "九三軍",
+      "score": "9.19",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkQsKAzEIBV9iNPe/cfEb026hFRaWDG/UBAAwgamFYaVHUcvK4F+UAJwsQjzMSkSUdJ2uBz7RSl7ZEPuw6r3oNfE3emV95LXmfDInXUE9ijA7FVl6PIavE5D8MkREYuHe1vdVKOJhAHtX1klRg3t7W0JRU2rbRHobNwVSaumiAJj1C+k7Za8mPuZg3OEn7WZU38wytXRRSdzgMSftI/9KU9zbniyLmJw6rqkObZ2TMrNmxW7Sx9ZnqVcwsz3UBrb9AC/YngqL",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#7c4de5",
+      "4": "#30e84d",
+      "5": "#30d7e8",
+      "6": "#d4c811",
+      "7": "#7c4de5"
+    },
+    "sz": 30
+  }
+}
