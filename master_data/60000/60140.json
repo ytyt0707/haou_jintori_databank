@@ -1,0 +1,81 @@
+{
+  "round_id": 60140,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-30T09:04:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新鯖♡] グスト",
+      "team": "新鯖♡",
+      "emoji": "❤️",
+      "score": "28.26",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] も",
+      "team": "なきち",
+      "emoji": "😍",
+      "score": "14.14",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "厂",
+      "team": "",
+      "emoji": "🎗️",
+      "score": "2.38",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[なきち] ぷゆゆパン🥺",
+      "team": "なきち",
+      "emoji": "🥺",
+      "score": "0.71",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新鯖♡",
+      "score": "28.26",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "14.84",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "1.05",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1ktsWwyAIBNcuxP//454FvERbHlLiMEi0wBYtY1uplATA1pq1dlB3JwmymdkPGJikmdmtDvoAByU9W5N8njJ775kxMCMEe0dXBNWqZA32iGVUjwE9ikQLDDfUerwhqu+s2E1c1N23gtN9U4B5FrP37ur0I/5RfFZ7oFRdmuKjSJP0iS+qe8Q51nS1/+lG69E5C6rrai6stxOHprmiVHc15s0Fd9fQG90KxDRq4HBf/vhcfez4i63uObBkZRK1d+4UQhZUWgcbc4RQ+spZU8659R5V+klxPq8F4Asx4Qe9",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3081e8",
+      "4": "#8B4513",
+      "5": "#e830cb",
+      "6": "#3081e8",
+      "7": "#e83053"
+    },
+    "sz": 30
+  }
+}
