@@ -1,0 +1,57 @@
+{
+  "round_id": 60604,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-31T10:09:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸カード] スペード",
+      "team": "🇺🇸カード",
+      "emoji": "🐷",
+      "score": "30.47",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[九三軍] いただきマウス",
+      "team": "九三軍",
+      "emoji": "😀",
+      "score": "20.50",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[九三軍] 九三軍",
+      "team": "九三軍",
+      "emoji": "🌱",
+      "score": "10.52",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "九三軍",
+      "score": "31.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸カード",
+      "score": "30.47",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkdsOwzAIQx3w/v+XJ+5J11WqH6JUB4NLyCfpZ9e18qRROTUPFOQDJfGC4sVckvv/xB34lxmuC1WNcAHbC+hHXdXVCsoLJGvzWkPJoHYus621Vnt3CrMZvqVmc22tc7CqRlvzjllEqmBwhSZEKliG8vHJ5YZO78PbsXI0JHXGKtq4duFjf6j4E1hvv3gstHeo4wg9tPDsgqxUEtC69i5o2yj5vAttXPDwIoM1DBqfX4J6Ch0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#30e85e",
+      "5": "#e8ba30"
+    },
+    "sz": 30
+  }
+}
