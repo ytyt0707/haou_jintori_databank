@@ -1,0 +1,57 @@
+{
+  "round_id": 60486,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-31T03:46:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新鯖♡] いただきマウス",
+      "team": "新鯖♡",
+      "emoji": "😂",
+      "score": "36.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[新鯖♡] クー子",
+      "team": "新鯖♡",
+      "emoji": "🔥",
+      "score": "28.35",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[甲殻類] ザリガニ",
+      "team": "甲殻類",
+      "emoji": "🦞",
+      "score": "13.67",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新鯖♡",
+      "score": "65.05",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "甲殻類",
+      "score": "13.67",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klkSwzAIQ0mB+1+5g0AY6rb+8JJnCayJyD2sRzNVFXd3kWZmSRUj4OagCZXwyEWkmB7a3jooMMyIWxibrDra+qQhpdLsG218WlJ94eYSL20cVhxTnDf9lDVSd7oMytfGW0pKOlJEiMTIGjCdBzx5Bq+IXNPZK+6UCsMvCJeYEvMYRbnHCswvF4W66A2D/pZG6f+0MIJwx6mbo3VBGnFNa8CWkHXhre1mqq0SL/mztSrKPtyfDpN/fCU/ljcJVguL",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#604de5",
+      "4": "#e8ba30",
+      "5": "#604de5"
+    },
+    "sz": 30
+  }
+}
