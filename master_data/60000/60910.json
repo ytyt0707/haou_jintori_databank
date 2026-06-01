@@ -1,0 +1,57 @@
+{
+  "round_id": 60910,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-01T02:42:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "😍",
+      "score": "63.52",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[菌類] 菌類",
+      "team": "菌類",
+      "emoji": "🤖",
+      "score": "7.02",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ちんこ] ぼくちんぷゆゆ",
+      "team": "🇯🇵ちんこ",
+      "emoji": "😳",
+      "score": "0.13",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "菌類",
+      "score": "7.02",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ちんこ",
+      "score": "0.13",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kssWhDAIQ9NB/v+X55DynNHudKHAbQKtBcajqir1DAYcqTxS+k1jAYTm3mtSAFbfbxFzrpmqHLXXqO2odeZQ0ZRTHajIWqvETWvhwdmx3Gl5MNRW5+4MOzRAs5ZH6GOT3jmTm1RTTO2n9uuXIZ2K7K75PzPIpS7lWGdKq+YcSt+RpY3uO9RKLeQFGosFuJr436tBOs88s5xpBz+NgsZskT9/vyw5B+0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3092e8",
+      "4": "#6e4de5",
+      "5": "#30e8a3"
+    },
+    "sz": 30
+  }
+}

@@ -2,6 +2,145 @@
   "date": "2026-06-01",
   "task_history": [
     {
+      "timestamp": "2026-06-01T16:28:06.190956",
+      "status": "success",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "最新試合IDの確認および差分履歴データの取得完了",
+          "previous_last_id": 60749,
+          "current_last_id": 60998,
+          "target_limit": 249
+        },
+        "step2": {
+          "status": "success",
+          "message": "新着試合データの個別ダウンロード完了",
+          "success_count": 249,
+          "skip_count": 0,
+          "error_count": 0
+        },
+        "step3": {
+          "status": "success",
+          "message": "マスターデータのビルドが正常に完了しました。",
+          "new_created_count": 249,
+          "skip_count": 60749,
+          "rescued_count": 0,
+          "created_id_ranges": "60750-60998"
+        },
+        "step4": {
+          "status": "success",
+          "message": "新着試合分の個人分析データを高速アペンドしました。",
+          "updated_players_count": 37,
+          "new_players_count": 6,
+          "skipped_nanashi_count": 43
+        },
+        "step5": {
+          "status": "success",
+          "message": "新着試合分のチーム分析データを高速アペンドしました。",
+          "updated_teams_count": 20,
+          "new_teams_count": 6,
+          "processed_team_rounds": 125
+        },
+        "step6": {
+          "status": "success",
+          "message": "新規試合分の時間統計データを正常に累積集計しました。",
+          "processed_files_count": 249,
+          "updated_time_buckets_count": 14
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-01T16:22:35.382423",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T16:22:10.208700",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T16:00:02.158021",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T15:00:02.124088",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T14:00:02.203648",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T13:00:02.218747",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T12:00:02.014835",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T11:00:02.017908",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T10:00:02.050933",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T09:00:01.954915",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T08:00:01.985831",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T07:00:02.037474",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T06:00:01.985700",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T05:00:02.043994",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-01T04:00:02.157531",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
       "timestamp": "2026-06-01T03:00:02.597596",
       "status": "success",
       "error_reason": null,
