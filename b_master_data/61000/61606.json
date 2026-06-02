@@ -1,0 +1,42 @@
+{
+  "round_id": 61606,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-02T16:18:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] なきちの魂",
+      "team": "なきち",
+      "emoji": "😂",
+      "score": "4.47",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] 停電中",
+      "team": "なきち",
+      "emoji": "😢",
+      "score": "0.13",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "4.60",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdk8EOgCAMQ9vK/3+zAebE0HDAeHEHGH2jQACoBlo7Jk1N+cKP/g19GP1xUHr4owUsG/TQyljq2BsHNZASpVInGyoSnPS8foqZT1Vqzk7+RFtu5H7mdu39uRh+kLMGECU1i8hCnLi1BxQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#e830a9"
+    },
+    "sz": 30
+  }
+}
