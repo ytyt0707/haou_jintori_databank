@@ -1,0 +1,87 @@
+{
+  "round_id": 9291,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-24T14:02:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 野獣先輩",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "30.88",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵グリコ] 🤓🤓🤓🤓",
+      "team": "🇯🇵グリコ",
+      "emoji": "🤖",
+      "score": "12.78",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵あほほ] でじこ",
+      "team": "🇯🇵あほほ",
+      "emoji": "😈",
+      "score": "4.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] ポル・ポト",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "3.95",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇹🇼bot] やのる",
+      "team": "🇹🇼bot",
+      "emoji": "💩",
+      "score": "1.20",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "34.83",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵グリコ",
+      "score": "12.78",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵あほほ",
+      "score": "4.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇹🇼bot",
+      "score": "1.20",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0YEOhSAIBVCKC/z/HzdR1BTbe2y5yQkkI1JV6nHfZdWR0wjXluqv68xeOzd7a00l2k8lOtRu8aP+XQpgt76BNkeqHkUBEExl6excFjMzEiF/Zq1IBUTO6izBJ5VVYf75J0X7e4OxsEbzvRZg9lsTOijXE7aZG39rcpMl3+fO9Lu2DRV65TMzEwdnOhokGLNd+1R4Tf4A7mQI5Q==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#f29a63",
+      "4": "#f29a63",
+      "5": "#99f15b",
+      "6": "#63f874",
+      "7": "#f566d1"
+    },
+    "sz": 30
+  }
+}

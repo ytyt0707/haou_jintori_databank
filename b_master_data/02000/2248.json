@@ -1,0 +1,61 @@
+{
+  "round_id": 2248,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-07T21:53:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵🇯🇵猛] 浅井長々",
+      "team": "🇯🇵🇯🇵猛",
+      "emoji": "😍",
+      "score": "7.61",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[阪神] 前川右京",
+      "team": "阪神",
+      "emoji": "🐲",
+      "score": "0.11",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸usa] 犯行予告します",
+      "team": "🇺🇸usa",
+      "emoji": "🦄",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵🇯🇵猛",
+      "score": "7.61",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "阪神",
+      "score": "0.11",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇺🇸usa",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJztzrENACAMA8EY9t8ZQUFJHgQKRb4+WTbLrlWiD5xUow9kX6YedQBKTEpMTuUtbu55Ejo9dPDeig3qAVADp4AAfw==",
+    "cp": {
+      "1": "#9e56e1",
+      "2": "#80f988",
+      "3": "#8db2ec"
+    },
+    "sz": 40
+  }
+}

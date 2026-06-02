@@ -1,0 +1,63 @@
+{
+  "round_id": 11889,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-04T04:04:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "珉珉",
+      "team": "",
+      "emoji": "🐷",
+      "score": "47.14",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[個人戦] 宇月幸成",
+      "team": "個人戦",
+      "emoji": "👽",
+      "score": "9.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸CIA] パンテオン",
+      "team": "🇺🇸CIA",
+      "emoji": "🦁",
+      "score": "2.46",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "個人戦",
+      "score": "9.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸CIA",
+      "score": "2.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "VIP",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10UsOxSAIBdDLJ2H/O24QrVD1pW9QBmo8ghhV+RzQCBFmZcC34FMbgaE+YgRTX3SNaSC2GkwA8a3ikZVSrjyUPOLQSankqlbulaVyLr101ZhoFi/3pkdter6LDw00s8xVzSqvuZOXe80MKXk+SHtPubamL8odF163y09/oPpLG/ynKEX3uW/01BVexgVBQAiQ",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f8636b",
+      "4": "#2869f6",
+      "7": "#eaa157"
+    },
+    "sz": 30
+  }
+}

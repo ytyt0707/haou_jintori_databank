@@ -1,0 +1,70 @@
+{
+  "round_id": 1595,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-06T08:34:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "30.03",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "千石撫子",
+      "team": "",
+      "emoji": "🤔",
+      "score": "28.10",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "19.40",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ソ連] 安倍晋三",
+      "team": "ソ連",
+      "emoji": "🐷",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "30.03",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "19.40",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ソ連",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0lEOhDAIBNBBvP+ZN1gVoYOtxo+dRBPrE0os4FnOm0XVrhZbz1EazKCOfe4qOD3Gy3kfOA57xuGkI20tIiKjeQ8XaGZwCFxg0bcrWPSFRMjOn5eDQFQxdF5wO+e3rlmMC7YdFOyl87bpA8nZXyNstFPRoXbIDjcOIbStBGJPDGX3N2xdmSuqZVeyWUfaMjycAkzZ38gVKANdPPMDAKsJQQ==",
+    "cp": {
+      "1": "#be8bf9",
+      "2": "#9df0e9",
+      "3": "#aef19d",
+      "4": "#fe3474"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "round_id": 17255,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-19T23:21:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🦊",
+      "score": "26.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "😂",
+      "score": "22.87",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しyw",
+      "team": "",
+      "emoji": "🦊",
+      "score": "8.31",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵陽キャ",
+      "score": "26.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "22.87",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0UEOgCAMRNFhhvuf2ShB2wIV/TvzbJMqAKDaYKuxTNFYq9n6e3NHzfSGiT4bJa1VV16xo+rNVKZBtatwyo7tLX+xOzRcTIT8bGOejf+BtqAkVsohu/qrMlemyBRflFuzsA+llPi9TcEOqDIGLg==",
+    "cp": {
+      "1": "#25f45c",
+      "2": "#5df8dc",
+      "3": "#acf939",
+      "4": "#db65f6"
+    },
+    "sz": 30
+  }
+}

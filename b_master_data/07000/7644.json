@@ -1,0 +1,71 @@
+{
+  "round_id": 7644,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-20T02:06:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😎",
+      "score": "21.87",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[負け組] 雑なガイジ",
+      "team": "負け組",
+      "emoji": "😀",
+      "score": "13.85",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵埼玉] 31歳無職男性",
+      "team": "🇯🇵埼玉",
+      "emoji": "🐷",
+      "score": "1.54",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "🌸🤚",
+      "team": "",
+      "emoji": "😈",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "21.87",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "負け組",
+      "score": "13.85",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵埼玉",
+      "score": "1.54",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0FkOhEAIBFBEwv2PbBToLhZnIl/Gl6IBoi91/lZjkRc9TUc3FZl5RwP1KfvcUepKVKOkVFiEhZGQmZiZnzgocAwNpuXlpG0uVIKsuFrLGqWtsXE+2sqOT/eh6tDW2Rfqx8ShRrVwRtD7SquxNrXu8779ju+qSf1S/ve4KytkQtclHTXsgOfTOMX+1QVzSwby",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#5dc8ef",
+      "4": "#f63f31",
+      "6": "#be5ff1"
+    },
+    "sz": 30
+  }
+}

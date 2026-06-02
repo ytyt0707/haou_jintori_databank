@@ -1,0 +1,56 @@
+{
+  "round_id": 49549,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-06T12:29:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ミサル] も",
+      "team": "ミサル",
+      "emoji": "😍",
+      "score": "24.57",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ミサル] 人間革命",
+      "team": "ミサル",
+      "emoji": "👤",
+      "score": "22.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "1.51",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ミサル",
+      "score": "47.34",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.51",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkEsOxDAIQ62Y3P/KLb/UVKNuhk1DH3ZMAJ7CyoLWQ0GuvZbAw/Kw9/6m+1MrENBYpApz7Fwdg2a/xWZG8kVD6qCpitO3ZDEitGGYemNqXb6tFZ2Hm1R1Tt3R3TIujbpPSCttDQkWZUCjis+1tfCk8CuzSivGeGjC10at7K9e6yt1tZjQZP50PZF7U7AQP+YLjGw5HXNBFXaSkILoXmcq4PwlXThLP4//0Ol0dxfC6wYO",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#36e830",
+      "4": "#36e830",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

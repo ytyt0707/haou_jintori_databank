@@ -1,0 +1,90 @@
+{
+  "round_id": 13220,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-10T11:43:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵特攻隊] パンテオン",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🦊",
+      "score": "37.87",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵特攻隊] 大日本帝國陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐷",
+      "score": "24.66",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵特攻隊] 名無しvc",
+      "team": "🇯🇵特攻隊",
+      "emoji": "😀",
+      "score": "24.57",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🦊",
+      "score": "3.04",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵自民党] アベベ",
+      "team": "🇯🇵自民党",
+      "emoji": "🤠",
+      "score": "0.56",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵特攻隊] わしょいへんてこ",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🦊",
+      "score": "0.37",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "87.46",
+      "kills": 25
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "3.04",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵自民党",
+      "score": "0.56",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNktGOhDAMA83F7PD/X3xqEyDdY1fnBxQxspO0JYbAji5AkvgXhViVdJpI7HeMbewBPUr+0Pk3i54Pcqkq/EhdVQRPdOiIa7I550rtw7cTKTo62pmMUU7vHDmpC/pOroXOyWr3dV/JLTjplpRqNKGUFLbBMzqi3B7Xk3TjvW3kV5QanYe10BsNKoeuA2uT54njfBXAC9j3do0/ON8MBK996m5RVebuC12kr1iX+9GravExmXOxZ8UHXMFfzSq1ZkV+Aa4UEG8=",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#6b71eb",
+      "4": "#6b71eb",
+      "5": "#f07e38",
+      "6": "#6b71eb",
+      "7": "#6b71eb",
+      "8": "#cfea57"
+    },
+    "sz": 30
+  }
+}

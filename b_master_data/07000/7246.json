@@ -1,0 +1,75 @@
+{
+  "round_id": 7246,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-19T04:35:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 犬神フウト",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "35.95",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "進撃の巨人",
+      "team": "",
+      "emoji": "😂",
+      "score": "15.13",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 爆弾の廃人",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "5.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵うんち] 太鼓の達人",
+      "team": "🇯🇵うんち",
+      "emoji": "👽",
+      "score": "2.63",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] 韓非子",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "0.58",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "41.69",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵うんち",
+      "score": "2.63",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0osOgCAIBVDoIvz/HzcVzRet7tbWPAFmEX2M4k1BBAEkqCXURK1fVFUjFZF8ZZQVeoD8WImt5rGas9ontaPirCn5zrC31hznfa4reu9I5W+tpDK2nFbX9ZUgJBbq35Pk40Feh1p7dOJ263R1ZVcayquWVJ57P8zMy+DWeqiuH68tDZp3sPyrs+65ATo/Cis=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#dfed45",
+      "4": "#dfed45",
+      "5": "#dfed45",
+      "6": "#6aee63",
+      "7": "#ef6bd1"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "round_id": 12980,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-07T12:46:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[オウム] 爆弾/自認レゼ",
+      "team": "オウム",
+      "emoji": "😈",
+      "score": "27.91",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[オウム] 麻原彰晃",
+      "team": "オウム",
+      "emoji": "🐶",
+      "score": "17.39",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵特攻隊] 大日本帝國陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🦁",
+      "score": "11.86",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇦=△=] (・3・)",
+      "team": "🇨🇦=△=",
+      "emoji": "😀",
+      "score": "2.93",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[さむい] さむい",
+      "team": "さむい",
+      "emoji": "🤔",
+      "score": "1.93",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵チー牛] スマホ太郎",
+      "team": "🇯🇵チー牛",
+      "emoji": "🤠",
+      "score": "1.43",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "名無しx3",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "オウム",
+      "score": "45.30",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "11.86",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇦=△=",
+      "score": "2.93",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "さむい",
+      "score": "1.93",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵チー牛",
+      "score": "1.43",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90dsOxCAIBNBxYVz7/z+88QZIzU4fmuYIJQIAKKUUSGutYeZZbynj6WkreHYgHizM+h0InIpQC9PHa2FkSUheFUP5X1Pn7UNByudWPDT1jQj7rVwQ6No96cI0cyBTP3Cgq50IiIiv6cEzmXdriUrHuQgbjt4QvmC+s5X/lVG9tUitue+ptfLSuq8WXa+D9emlylaSqoqgIp2tVlXjvS3lVNXA+VaBifb9A0wnC9s=",
+    "cp": {
+      "1": "#e3f264",
+      "2": "#9c6eed",
+      "3": "#4c74eb",
+      "4": "#f53864",
+      "5": "#4c74eb",
+      "6": "#60f0a4",
+      "7": "#eb845c",
+      "8": "#43def9",
+      "9": "#5def34"
+    },
+    "sz": 30
+  }
+}

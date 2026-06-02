@@ -1,0 +1,71 @@
+{
+  "round_id": 27858,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-20T17:02:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] ROZEBOT",
+      "team": "楚",
+      "emoji": "☯️",
+      "score": "29.88",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] R",
+      "team": "楚",
+      "emoji": "💻",
+      "score": "25.40",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸共和党] アピ",
+      "team": "🇺🇸共和党",
+      "emoji": "😍",
+      "score": "1.67",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🧠] 🧠",
+      "team": "🧠",
+      "emoji": "😀",
+      "score": "0.00",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "55.28",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸共和党",
+      "score": "1.67",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🧠",
+      "score": "0.00",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klsOBCEIBBmD6fvfeNPd6Mo8/JglFgWom3lfFxf0vXCH+UHhTFsPF0Ai7VYKt2opRHUst1PkGkjYrnxUXFX5U1ssXlX+pYN09V3tlxt3yqm5mBAR0V2hD7pY0KVKd+ubRhh26qay/DldHgrAJxUmnVM53bU8tYhf6Cyx0fBtAlX0cMfwPcaeSYErjzEGj62BNI/TTGGsfRcOnQzQVYNcqk1OtKdi1ZGdMq0qA3ijPj9z+O84GzP+U778blrBSR/w6Ntf53wFNX2q8QMHzAvs",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#e830a9",
+      "5": "#aad411",
+      "7": "#e830a9"
+    },
+    "sz": 30
+  }
+}

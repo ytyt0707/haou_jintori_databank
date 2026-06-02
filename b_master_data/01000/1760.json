@@ -1,0 +1,46 @@
+{
+  "round_id": 1760,
+  "game_mode": "TEAM",
+  "player_count": 2,
+  "played_at": "2026-01-06T18:20:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸米帝] トランプ",
+      "team": "🇺🇸米帝",
+      "emoji": "🦄",
+      "score": "80.52",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇪猛虎軍] ムホホ",
+      "team": "🇻🇪猛虎軍",
+      "emoji": "🐶",
+      "score": "3.92",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸米帝",
+      "score": "80.52",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇪猛虎軍",
+      "score": "3.92",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJydlFESgCAIRJH7H7qprGmBxTW+1Hk9sAgzMfwT7wEcZ87jnp2nByVuIGc1N87gPgduoqxuAAfhTOSicJXXhfpGvG7mDEzXlr1+/7iob+aFDP09wJhqw0XNbfuiMfWB6GNg0afhl2k4ywU23KpwlStjxdEP9NO3y6l5Ow5nlmbLHBtYf30EUzjSGyVG57Hdg+BpNbvWc7A2cQBBzQo7",
+    "cp": {
+      "1": "#5cc4f5",
+      "2": "#fc9e92"
+    },
+    "sz": 40
+  }
+}

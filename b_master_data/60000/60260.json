@@ -1,0 +1,51 @@
+{
+  "round_id": 60260,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-30T15:34:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[九三軍] tkb",
+      "team": "九三軍",
+      "emoji": "🔅",
+      "score": "59.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[九三軍] 大麻",
+      "team": "九三軍",
+      "emoji": "🌱",
+      "score": "29.79",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[九三軍] バケモンBBS",
+      "team": "九三軍",
+      "emoji": "🐯",
+      "score": "4.55",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "九三軍",
+      "score": "94.10",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFklESxCAIQ7Uh97/yDqJuoLZlphV4JPih2Qie4xUyqIW0VQezSSoYdYK3QTVLk+plpAuhPcn9dgS6tCQ1MwDoE99MBu4dAOlfjRD7/4kG+6IHay7l0Vrpu7he2etlXdnqj7PCrYopxUkHH7wmzmRW15mqo+dZO+hWflJRT9+1NKSb160O2n81qa+QFASgPtlCC2410u4fVmgOug==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#d4c811",
+      "5": "#d4c811"
+    },
+    "sz": 30
+  }
+}

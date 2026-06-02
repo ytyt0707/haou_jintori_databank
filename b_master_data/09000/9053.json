@@ -1,0 +1,33 @@
+{
+  "round_id": 9053,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-23T15:57:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ネコち] ねこちゃん",
+      "team": "ネコち",
+      "emoji": "🐱",
+      "score": "35.50",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ネコち",
+      "score": "35.50",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0VEKwCAMA9DU3v/OsnUF3dI48MP86SMSsLUIaCQmQ5eLun56RyHoKQs+F9/sOvyTywwEEmvV3R9675ouperuoGYvxajB9SyrLJTuzVU2nZmC7l/8bwfe7AQl",
+    "cp": {
+      "1": "#f97453",
+      "2": "#7bf75f",
+      "3": "#f0f06a"
+    },
+    "sz": 30
+  }
+}

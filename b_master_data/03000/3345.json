@@ -1,0 +1,86 @@
+{
+  "round_id": 3345,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-10T09:13:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[VIP] ヘルツネ",
+      "team": "VIP",
+      "emoji": "😂",
+      "score": "39.40",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ねこななし。",
+      "team": "",
+      "emoji": "😂",
+      "score": "10.54",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[k] s",
+      "team": "k",
+      "emoji": "👽",
+      "score": "0.67",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵VIP] あいら",
+      "team": "🇯🇵VIP",
+      "emoji": "🤔",
+      "score": "0.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[VIP] うっちゃん",
+      "team": "VIP",
+      "emoji": "🦄",
+      "score": "0.00",
+      "kills": 7
+    },
+    {
+      "rank_position": 6,
+      "player_name": "抜化忍",
+      "team": "",
+      "emoji": "👽",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "VIP",
+      "score": "39.40",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "k",
+      "score": "0.67",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵VIP",
+      "score": "0.07",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNkwkOhDAMAy2x9f+fvEJtITE5aolLTJ3EFGBq3MdAqzFVM79NFeAQtSX7yglHEmRvyKmDwiXHhdjLvBeOL+AwCua4dA7OMR8lHEVxfgWEtVHUKGEzjIdY5WefEgye00F0eV9UO+g43SufYbFaRMvBnjvQzv/ylMQka0aGX6ycpPULOONn6CQnmP/FvrecDwfGIPaLsnDGJ5wrfN1KOAj31ghDecg9y/6W0d7ySdqWY65adqI/FS0STw==",
+    "cp": {
+      "3": "#9cf7bd",
+      "4": "#e76ec3",
+      "5": "#eaf87c",
+      "6": "#9bfc6e"
+    },
+    "sz": 40
+  }
+}

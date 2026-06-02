@@ -1,0 +1,77 @@
+{
+  "round_id": 7258,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-19T05:14:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 膣夫",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "59.96",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 犬神フウト",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "26.64",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] ツインテメイド服",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "2.45",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "爆弾の廃人",
+      "team": "",
+      "emoji": "😀",
+      "score": "1.89",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] でじこ",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "1.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[楚] なん",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "0.05",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "90.81",
+      "kills": 19
+    }
+  ],
+  "minimap": {
+    "bm": "eJy1kFEOwyAMQ93VOPe/8RQIEKCV9jNLpcBz6jT3HSIREtQ3ldhtdIFDZqZG6cy4ylSpNauvEqmgMhEoPKRmEae3k9Aw9hfyjWoMuy0V+Ams50ExvqYIsElTJ5rhjSJPI9OnHwqhj2AGeM1GZ8dK2pNWIVp9pbtK2r+V/ULxV/o5bovrrbY80ivxM3dSPdAj+aR5kkjrtWPAH6zugfEF21gRpg==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f7f24a",
+      "4": "#f26385",
+      "5": "#f26385",
+      "6": "#f26385",
+      "7": "#f26385"
+    },
+    "sz": 30
+  }
+}

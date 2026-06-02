@@ -1,0 +1,48 @@
+{
+  "round_id": 56972,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-23T05:49:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "68.81",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] 阿呆太郎",
+      "team": "🇯🇵自民党",
+      "emoji": "😂",
+      "score": "1.57",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "68.81",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "1.57",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklEShDAIQzFw/zM7UGip0F3lQ5FHAnVK9AyxGNWRH55EB+AGQbu2t9rwSG/atVdCmi56aXyislZttH9omlTGJiby3GmDh4+1WGn4gfR3eD+KTguTouFkNQjQUaspaqmAnMFvUoyyPYIBjt9T82VmNg8zT0fbaLnDkzJAsdhUj42Zh6xx1gYrF6mQGsZZurkU85J7pDd2YAqQ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

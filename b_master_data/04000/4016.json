@@ -1,0 +1,93 @@
+{
+  "round_id": 4016,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-11T21:46:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[oj軍] 管理人",
+      "team": "oj軍",
+      "emoji": "🦄",
+      "score": "29.43",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[oj軍] 二段階右折",
+      "team": "oj軍",
+      "emoji": "😈",
+      "score": "16.21",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[oj軍] 茶",
+      "team": "oj軍",
+      "emoji": "💩",
+      "score": "6.67",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤔",
+      "score": "4.29",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[oj軍] Js犯したい",
+      "team": "oj軍",
+      "emoji": "😀",
+      "score": "0.83",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[oj軍] 衛生兵",
+      "team": "oj軍",
+      "emoji": "🦁",
+      "score": "0.21",
+      "kills": 4
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵特攻隊] 馘",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐱",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "oj軍",
+      "score": "53.35",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "4.35",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90tsSwyAIBFAoWYr//8MdXS9onPKUyRFcE8NnfXrJqoiIxFINAF9IILGX4j6taeJSNZVEa568YGhjIE2cS2owDC3HEgYHqMBDxK6z/NWLrbbM/1TjNhg8kmqE37ranlWvM4feduRJdNPdqJXTd5Sp2jS2zvTrqQGY2bGjTjX7dk5DtauZ2dNUsupSO9NyeIRQLSXK2jnHXZmp/tK9993JB97AF1KtX88TO/uVZYy+FOUHNt4MWw==",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#40ed45",
+      "4": "#423bf1",
+      "5": "#423bf1",
+      "6": "#423bf1",
+      "7": "#40ed45",
+      "8": "#423bf1",
+      "9": "#423bf1"
+    },
+    "sz": 30
+  }
+}

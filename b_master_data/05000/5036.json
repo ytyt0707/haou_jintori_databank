@@ -1,0 +1,71 @@
+{
+  "round_id": 5036,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-14T05:04:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チー牛] 国",
+      "team": "チー牛",
+      "emoji": "🦊",
+      "score": "25.38",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵チー牛] ぶりりん",
+      "team": "🇯🇵チー牛",
+      "emoji": "🦊",
+      "score": "8.91",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チー牛] アハンオケツイク",
+      "team": "チー牛",
+      "emoji": "🤔",
+      "score": "6.34",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "👻",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チー牛",
+      "score": "31.72",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵チー牛",
+      "score": "8.91",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0FkOwzAIBNARS+9/5CoG1xgI6nxElp4JGIAB8BM8B3jOgZ2vIGZU5uxd6eevWr11/HGubNuaaR1qf1SX5qlWlB353pihpewqopbOpfZNw4ubvlGv6XpdO1CohsWcGtcSZhHZt6ioeGaVn1JSbCWiqnIUFFWSWnmv1jfciDPXjAgb+E3HfAEd3wVF",
+    "cp": {
+      "2": "#2858f6",
+      "3": "#f6f943",
+      "4": "#eb607c",
+      "5": "#f6f943",
+      "6": "#7cf966"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "round_id": 1712,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-06T14:56:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "なにこれ",
+      "team": "",
+      "emoji": "💩",
+      "score": "21.83",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵関東組] 埼玉",
+      "team": "🇯🇵関東組",
+      "emoji": "🦄",
+      "score": "11.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳人民軍] 奇跡バグ修正🌟",
+      "team": "🇨🇳人民軍",
+      "emoji": "🦊",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵関東組",
+      "score": "11.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳人民軍",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0lEKwDAIA1C197/z/krVqBkdLN+PiLYidzEXTiEXRQW/doVklqj2vXcruOp+K3W276Gq1fDAGKd6woFB58XoBLnTAgdvM7ANkxPsrHdWuVi35ehgX2K0wwsDJ+5xG+dyspbDn9Awai7DBvHK8XUUo90/eQBQIAN/",
+    "cp": {
+      "1": "#d6eb70",
+      "2": "#9ee4f0",
+      "3": "#f19da4"
+    },
+    "sz": 40
+  }
+}

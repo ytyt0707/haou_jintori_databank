@@ -1,0 +1,47 @@
+{
+  "round_id": 9777,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-25T16:20:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "9.04",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸不殺隊] 糞漏らし太郎最強",
+      "team": "🇺🇸不殺隊",
+      "emoji": "💩",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "9.04",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸不殺隊",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJztkMEOwDAIQjHs/795adIpXdU0O4+Dl2cFCqQiyJw8Cw2nQxvaIQMq5vZUKCmwvFy3CVsfS6SJzWArnXcdJ2U5HDIqtmh+InKVdfquqe87qXKZB7pOF3990Q3ktAEp",
+    "cp": {
+      "1": "#ee7278",
+      "3": "#66f475",
+      "4": "#f443ad"
+    },
+    "sz": 30
+  }
+}

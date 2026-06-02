@@ -1,0 +1,33 @@
+{
+  "round_id": 5264,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-14T17:24:33.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[まんぜう] ^_^",
+      "team": "まんぜう",
+      "emoji": "🐲",
+      "score": "0.85",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "まんぜう",
+      "score": "0.85",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYBgqgIkoafyqcMoyMTHhlGUCyYIV4DIRpyyS4WTKguTxyuLXS4Hs0AOMWMSYmZlxSyPksGumEwAAmX4AUQ==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#75e84f"
+    },
+    "sz": 30
+  }
+}

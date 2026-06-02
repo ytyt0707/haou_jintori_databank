@@ -1,0 +1,86 @@
+{
+  "round_id": 11577,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-03T11:12:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😍",
+      "score": "43.20",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🦊",
+      "score": "5.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "😈",
+      "score": "0.37",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🤔",
+      "score": "0.29",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵幼児] ロリレイプマン",
+      "team": "🇯🇵幼児",
+      "emoji": "🦊",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "43.20",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "5.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵神撫子",
+      "score": "0.37",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵幼児",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0UEOgCAMRNFGvuX+NzYBBZMODcZZ9nWIoNk77u7YIt4CagHcH/+hCpMuUwnfBZ2hIQL7BoEJUUevNPiXcqr3rJSozKrU7ErRgp773YPs3NHViH5AVa11TNuCrTR54PzHKbWFmRzu5QJzggd3",
+    "cp": {
+      "2": "#38f587",
+      "3": "#f5de6b",
+      "4": "#2424f5",
+      "5": "#56f844",
+      "6": "#5db9ee",
+      "7": "#ed5a8d"
+    },
+    "sz": 30
+  }
+}

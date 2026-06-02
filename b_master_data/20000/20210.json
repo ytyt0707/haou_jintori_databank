@@ -1,0 +1,57 @@
+{
+  "round_id": 20210,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-02T18:48:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "38.87",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 梅原裕一郎",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "38.80",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳油一族] 赤の他人💩真央",
+      "team": "🇨🇳油一族",
+      "emoji": "🐶",
+      "score": "1.35",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "77.66",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳油一族",
+      "score": "1.35",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtkwkWwjAIRKcB7n9lnWFLfcZnRD7LhLRuZs5lBuDMMi6Ae1FzQssI4dyUyyDg4Jid48qtEFZmDaiLGz+mbwdk/xIhp1IaZ16KkE+iki7LNtRceX2uDnkegqXt16+ZcEpl3C9lopdsf1G1A13Z2AvnP+4gzcaMYumBADiYkpV4oDkvwFc0Fdy5KbTjX1RNfHN5AZM9p9u+qjv+y5hZjHHB12Fv/9w2nRJ407V7pOsZq9D/tjuGib8NnUvDA59LILih56xLqdFHFEQ+7RSrYN0MIgKqsLgp/UGuypU9kEZ2Zd9ZMiUV+Up8yQdZ1Apd",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#30e8c6",
+      "4": "#30e8c6",
+      "5": "#bcd411"
+    },
+    "sz": 30
+  }
+}

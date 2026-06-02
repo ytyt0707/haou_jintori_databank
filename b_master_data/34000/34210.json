@@ -1,0 +1,48 @@
+{
+  "round_id": 34210,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-06T01:10:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳公明党] たぬき殺しのマサ",
+      "team": "🇨🇳公明党",
+      "emoji": "🐻",
+      "score": "88.19",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇫🇷ネフタ] ネフタリ",
+      "team": "🇫🇷ネフタ",
+      "emoji": "☄️",
+      "score": "1.45",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳公明党",
+      "score": "88.19",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷ネフタ",
+      "score": "1.45",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkFEOwCAIQ9vZ+595AYeS6fB7/TJ9lGDJkAC9BFISyRVJinEfykkHQWUrFvXNi/0YJ/qVc/+6KnyiVZgsKKiK2k1WyaglH7k1x8BfKfaftRLKL+3g9A7ZOTj6m49TNoebK2czVcctOMrVcG3rAIQbfG4MzA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3092e8",
+      "4": "#30e8c6"
+    },
+    "sz": 30
+  }
+}

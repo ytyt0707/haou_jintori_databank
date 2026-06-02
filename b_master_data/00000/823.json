@@ -1,0 +1,61 @@
+{
+  "round_id": 823,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-04T14:55:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[vor] vorugu20",
+      "team": "vor",
+      "emoji": "🤔",
+      "score": "25.86",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[日教組] 台湾の大根",
+      "team": "日教組",
+      "emoji": "🤠",
+      "score": "1.97",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うんこ] ウンコ侍",
+      "team": "うんこ",
+      "emoji": "😀",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "vor",
+      "score": "25.86",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "日教組",
+      "score": "1.97",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "うんこ",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV08sKwCAMRFGb+f9/LlSkvqI3tBuz9TDGEFM6ryTIEBRzYk4aobrjinmJ6osprz/IBggeGnELBmYSdXkBKPz9ZhpINmsyQ/vihgbNkDPzYHO3rdzzfSv2umuemtVmRCUQjdLvrYV7AnIC7sC6AQxNA6M=",
+    "cp": {
+      "1": "#d8e85e",
+      "2": "#f5b394",
+      "3": "#7be6ea"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "round_id": 4080,
+  "game_mode": "TEAM",
+  "player_count": 12,
+  "played_at": "2026-01-12T01:14:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🦄",
+      "score": "19.22",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "18.50",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "15.42",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇫🇷革命軍] ピン",
+      "team": "🇫🇷革命軍",
+      "emoji": "😂",
+      "score": "4.73",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] 蓮舫",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "3.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇫🇷革命軍] おちすぎ",
+      "team": "🇫🇷革命軍",
+      "emoji": "🐶",
+      "score": "3.71",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇬🇧=3=] (・3・)",
+      "team": "🇬🇧=3=",
+      "emoji": "😎",
+      "score": "2.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[oj軍] おdり",
+      "team": "oj軍",
+      "emoji": "😀",
+      "score": "0.56",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "37.80",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うんち",
+      "score": "19.27",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇫🇷革命軍",
+      "score": "8.44",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇬🇧=3=",
+      "score": "2.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "oj軍",
+      "score": "0.56",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90OuuhCAQA+COVevC+7/vyQwgl2VPE/7w2YYoSToiAHDNcRQKp5T8ihyV5OEO1yB2JSkgHUyh8zI9SE2vjTIlElxexbLsDOzezH+1lrdqTbnXuszd8KIDW1nm5I9/4cdw2aik/3J3j5ldhkWl5wn7mBnGrka10Crn2dTXq1rXkxJnbN2zpbA0dDWrp3aD73vSXB2+It4vqyfU+dUm+VXA1dOboWgJjJmCv5XK2dlWblUsqlL2eo6u1zO+kxtqg5UtG/AHR94OPg==",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#ef5948",
+      "4": "#42ebe5",
+      "5": "#75e637",
+      "6": "#42ebe5",
+      "7": "#ef5948",
+      "8": "#4646e7",
+      "9": "#75e637",
+      "10": "#cdf849",
+      "11": "#ef5948"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "round_id": 873,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-04T17:37:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うおw] 円堂守らない",
+      "team": "うおw",
+      "emoji": "😀",
+      "score": "20.94",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うおw] うおw",
+      "team": "うおw",
+      "emoji": "🤔",
+      "score": "15.21",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[管理人] さとる@アプデ中",
+      "team": "管理人",
+      "emoji": "🤠",
+      "score": "6.89",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ソ連] 梨",
+      "team": "ソ連",
+      "emoji": "🦁",
+      "score": "4.39",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ゲリラ] 西山ダディダディ",
+      "team": "ゲリラ",
+      "emoji": "🤠",
+      "score": "0.37",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[ゲリラ] 演出中止w止まる",
+      "team": "ゲリラ",
+      "emoji": "😍",
+      "score": "0.28",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うおw",
+      "score": "36.15",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "管理人",
+      "score": "6.89",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ソ連",
+      "score": "4.39",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ゲリラ",
+      "score": "0.64",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt1NEOwyAIBVDEy/r/f7wUO6Qq1GzjoW3iyRWJKdF3xZsMaG9mfcZwqCRy0w1yF/4h798n2R1NWwa2HM56djCX96eMngcDC0wdzMWqkrHc1frZ87qNIbSZpO3Vij7lDMLlMbPIlhNZwn7UzgJ3jG7VJHB4J4HDwk0MruI4r14K5SpdLmVmGijiXdH6zfmNi8HxIJ3ljmnhinPnW2//3N89sH1HDoMjotv4pn2748nR0vl/tKEGF1eIiN6ycwhv",
+    "cp": {
+      "1": "#d398f6",
+      "2": "#ed8cb8",
+      "3": "#f78f69",
+      "4": "#ed8cb8",
+      "5": "#70f58f",
+      "6": "#ed8cb8",
+      "7": "#f78f69"
+    },
+    "sz": 40
+  }
+}

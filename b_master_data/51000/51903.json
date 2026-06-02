@@ -1,0 +1,48 @@
+{
+  "round_id": 51903,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-11T19:45:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] tkb",
+      "team": "🇯🇵ONJ",
+      "emoji": "🔅",
+      "score": "42.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "1.57",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "42.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソ連",
+      "score": "1.57",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkksSwzAIQwFz/zN3JPGJM1nVi9jxqwQozdQKbhEZEZFmx7AKZjRuSty0drLIko62Kfc2ftOCdj7rgqIdwdVWW01vrSYp6WktB7E0Ur1wUj3GECGkqaq5O7FCgCMxW7KlhSN1oMSxcGI4nPJNgUVBHhTOo9U9DbYu8c459FD6RTVmtaa664zriphTbUZwvqTuj4k6p/oFZ1ZC09GIFcjkfBsT+n5fylsq6C7PfjZlw77/2OKDdejb3m/M26l+s7fznxRRPZOkzQ/urAc+",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e89830",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "round_id": 22238,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-03-07T09:17:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂一匹狼] 一匹狼",
+      "team": "🍂一匹狼",
+      "emoji": "🤖",
+      "score": "26.39",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵YY勢] 爆弾/自認レゼ",
+      "team": "🇯🇵YY勢",
+      "emoji": "🦁",
+      "score": "15.40",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "🐱",
+      "score": "8.74",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "まらら",
+      "team": "",
+      "emoji": "🤔",
+      "score": "6.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇦=△=] (・3・)",
+      "team": "🇨🇦=△=",
+      "emoji": "💩",
+      "score": "3.70",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵YY勢] おっぱい魔人",
+      "team": "🇯🇵YY勢",
+      "emoji": "😂",
+      "score": "1.91",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂一匹狼",
+      "score": "26.39",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵YY勢",
+      "score": "26.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇦=△=",
+      "score": "3.70",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kFESxCAIQyOIev8T7wREre3yUZm8BLSlPEtKESmYRWZmlh6R7GhISgctCSP8oBCJ7D3Zszbh2mvFfO+iPjqzoeZXRGqtyYDUM1tZC1PdFo8edBMzm3BnP+nG5+LM/qO8sldc7IzuxXmxb5pPuijlCvTeuzseGJBAxOQXxUF7f0PEUA+fdG7qZt7RdWBqZmOMoWydtiyzhuZMNdJAsnVqU6gO9fxSZ6PatGnUOxt68L/U8Xst5ZGT77Utd9KDkRiz5a2y/KcAI05aVQeNymfhBwURC+U=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30c6e8",
+      "4": "#6ae830",
+      "5": "#e83075",
+      "6": "#30c6e8",
+      "7": "#ced411",
+      "8": "#30c6e8"
+    },
+    "sz": 30
+  }
+}

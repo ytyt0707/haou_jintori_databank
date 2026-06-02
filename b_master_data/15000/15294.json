@@ -1,0 +1,98 @@
+{
+  "round_id": 15294,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-02-15T05:40:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦁",
+      "score": "17.08",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] 自認ロゼ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👻",
+      "score": "15.80",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "9.91",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] 最弱/重音テト",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "3.45",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "3.39",
+      "kills": 5
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵雑魚] うんち",
+      "team": "🇯🇵雑魚",
+      "emoji": "👽",
+      "score": "0.66",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "32.88",
+      "kills": 14
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "13.36",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "猛虎軍",
+      "score": "3.39",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵雑魚",
+      "score": "0.66",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lGOBCEIBFBABdz7H3gDguBsZvmYpPNSJfY0IiB8HcR/EBB/vhpzRVcMACcyZvWqsQdHV3wU1pxrMV/FJztffc+dphyqqvruZZxa7JIsTfXZq7L0qbOpRNbdrwrWO0JJSe+c5ebkMcZwJSrm84aYg4Xodhtz0+Ha0iLyqKqaXzXae3M2KzblpkMESL2aKiuyt3eL7YwW9lFylHMyp2K8MhLDXM2aTzg155SYehr96Mga2w+okp7yityBuDAR3UQh+HGpLwo0/tMbSufbvhdpCgChwPYXQqNfS3EO+A==",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#33eb45",
+      "4": "#ea3489",
+      "5": "#ea3489",
+      "6": "#8246f1",
+      "7": "#8246f1",
+      "8": "#47f0cb",
+      "9": "#4199e6",
+      "10": "#47f0cb"
+    },
+    "sz": 30
+  }
+}

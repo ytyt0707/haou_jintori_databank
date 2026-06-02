@@ -1,0 +1,103 @@
+{
+  "round_id": 1160,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-05T08:25:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[妨害隊] NoName",
+      "team": "妨害隊",
+      "emoji": "😈",
+      "score": "36.79",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "6.31",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[妨害隊] 1位妨害するだけ",
+      "team": "妨害隊",
+      "emoji": "🤖",
+      "score": "6.27",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🦊",
+      "score": "5.67",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[妨害隊] 股開け",
+      "team": "妨害隊",
+      "emoji": "🦊",
+      "score": "4.13",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[妨害隊] テポドン",
+      "team": "妨害隊",
+      "emoji": "🤔",
+      "score": "2.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[庶民] マドロック",
+      "team": "庶民",
+      "emoji": "🐷",
+      "score": "2.55",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "妨害隊",
+      "score": "49.81",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "6.31",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "5.67",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "庶民",
+      "score": "2.55",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy11EESwyAIBVAQ0PvfuCMERSVNuiiTaRd9/QqOAWBmBma4K7Ivtoo/JJWwB8cpQ1wdpw4JLzgciyQOkTYn7mhztnh0Mh2E3THzdIhoLvYYMqcTTRyI9UEihA6hxoVFZB2bNoyzkVqrM59YHB944HToAXNvllev0k66I5YyWhkjGE6h/pVltq0OzeGE6kSSQ17yDB5OD8QQONRAOgt4zcN5aqsD5o1l1dtZ4nK4MID+QWOHPsVSShmuHtcDQIVVZ/s9tHV6O4Gd19XjrhWfHAV3y2BhiYvsS9w6tZTV3fkLKKvjEN7AP7vW2hvXWoQPrrl+5VqDW7Y5SM0P9QHF+g2E",
+    "cp": {
+      "1": "#fa7f38",
+      "2": "#fa7f38",
+      "3": "#fa7f38",
+      "4": "#9df0e1",
+      "5": "#fa7f38",
+      "6": "#fe48e9",
+      "7": "#86fd8e"
+    },
+    "sz": 40
+  }
+}

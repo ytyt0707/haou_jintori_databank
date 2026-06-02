@@ -1,0 +1,48 @@
+{
+  "round_id": 14790,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-14T00:35:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇹🇼🇹🇼楚] 泉サキ",
+      "team": "🇹🇼🇹🇼楚",
+      "emoji": "😎",
+      "score": "70.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🐶",
+      "score": "4.98",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇹🇼🇹🇼楚",
+      "score": "70.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "4.98",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10UEWwyAIRdFXYP9rzjGRNET8p5My9IIC4vgMcAwHy7jpEV+1Rk2p/UtNacF1ItPzwulstnHtYyT16lrzhb2OhB18hi0aojZCaLz0dzxV1xYuXXeaK4notZSutfP+panUPnCadd6qf0koOVC9gnkOBwq0CTc=",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#f736d0",
+      "4": "#3bf1a6"
+    },
+    "sz": 30
+  }
+}

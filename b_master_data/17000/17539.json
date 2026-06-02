@@ -1,0 +1,65 @@
+{
+  "round_id": 17539,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-23T15:52:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "🤔",
+      "score": "23.54",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵小谷城] 浅井長々",
+      "team": "🇯🇵小谷城",
+      "emoji": "🐷",
+      "score": "4.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "うゆゆ",
+      "team": "",
+      "emoji": "😀",
+      "score": "2.76",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ゲスト] ゲスは死ね",
+      "team": "ゲスト",
+      "emoji": "👽",
+      "score": "0.08",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵小谷城",
+      "score": "4.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ゲスト",
+      "score": "0.08",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0VEOwCAIA9CicP8rL5qpoEC2bP0zL42CwKMUm1wHU6bk66i2xNWulCkFOjya5qWeqNlRuDgHnlMbFJEb29IKLEuL/g2A16nuDGa2XelXLva0BF1AlVnxgV3Vw2AHPXRbUlJ18kWR6/+5ABFzAvQ=",
+    "cp": {
+      "1": "#8b63f8",
+      "2": "#ed45a1",
+      "3": "#d93df5",
+      "4": "#4aeb2d",
+      "5": "#f0b056"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "round_id": 60700,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-05-31T15:21:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] ぶりぶり",
+      "team": "神撫子",
+      "emoji": "😇",
+      "score": "26.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] アルカイ",
+      "team": "神撫子",
+      "emoji": "🖥️",
+      "score": "10.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] ちんぽっぽ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.89",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "すお",
+      "team": "",
+      "emoji": "👽",
+      "score": "2.10",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 名無しpI",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "1.06",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] 陸遜",
+      "team": "🇯🇵ONJ",
+      "emoji": "😃",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "36.32",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "3.89",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.19",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkFsSQyEIQwNaZf8r7vASvG1n6oc6HkKCwL0YADPHcTOARUQM6/6gonRrha0vdP+kk2XvwrdWpi6nLxEJOvMMujxbvgIwnW4cxkxJXSzWWqZhZtbaqACQk+hQay2rLZpYbdci086J08CDrjVk0BgeRRNFhxiDaIxOD7cyZTdNOQBTJo1RMx4BXauxyhrkrqM+qFOE9qZlbL2JwjGPdNaTimYTx2T/X9T+6wQjIuraZ2uDlB2f1Gxv2jKFtokbVFNots+ePg5gwU/Srq17fVG9/XN7A7bmCBU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#36e830",
+      "5": "#9ca3af",
+      "6": "#9ca3af",
+      "7": "#73d411",
+      "8": "#36e830"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "round_id": 2017,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-07T08:43:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐷",
+      "score": "56.97",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 神",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "15.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[エロ国] なにこれ",
+      "team": "エロ国",
+      "emoji": "👽",
+      "score": "2.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🦄",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "72.86",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "エロ国",
+      "score": "2.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJy11EEOgCAMBMBt8f9vNoBESxcKRnvwUMZFTCgAqKoiKh1UWamPkjJy5K0NF/HFOO58869jvHFCnYfMscBFRxk/CGm6D0y1vBPGHLQOt0sz9wgM9lXFyOUynczQM+LIrWlOxPzfw7PmulS3QejwsVPHmEXs7OCZxOEaMcQ9L68dV8M4zFyWNbQff71roQtO2HhlTsjYXVPG0XUL52SnTjBbCKo=",
+    "cp": {
+      "1": "#7174f4",
+      "2": "#7174f4",
+      "3": "#fa89fa",
+      "4": "#83e34f"
+    },
+    "sz": 40
+  }
+}

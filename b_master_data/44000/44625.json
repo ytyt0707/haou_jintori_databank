@@ -1,0 +1,72 @@
+{
+  "round_id": 44625,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-25T09:51:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] ハッピーロケット",
+      "team": "楚",
+      "emoji": "⭐",
+      "score": "3.41",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🧠] 名無しD0",
+      "team": "🧠",
+      "emoji": "🦄",
+      "score": "1.65",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] タコピー",
+      "team": "楚",
+      "emoji": "🐙",
+      "score": "0.84",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] お前を消す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👹",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "4.24",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🧠",
+      "score": "1.65",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkEsSwCAIQyOQ3v/IHcD66YJpN12VjaMviVHgn6c/ILXQKi5yFG4REdguIMfeKbAJSEJD4N7EM4A5ADqDOUyBklTS3YLsbIEjTgNf0b3CSJ7Bt+gQemx3+MVZ6zpY1wXOXougsHrpz2a8+/WNrXK0nZ76fQFP",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#af30e8",
+      "4": "#e8a930",
+      "5": "#af30e8",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

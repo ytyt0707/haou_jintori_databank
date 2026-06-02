@@ -1,0 +1,49 @@
+{
+  "round_id": 1703,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-06T14:24:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[舞散葉] ぷゆりパン",
+      "team": "舞散葉",
+      "emoji": "🐷",
+      "score": "1.18",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[舞散葉] キング",
+      "team": "舞散葉",
+      "emoji": "🦊",
+      "score": "1.13",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[舞散葉] オールスターは僕",
+      "team": "舞散葉",
+      "emoji": "🐱",
+      "score": "0.51",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "舞散葉",
+      "score": "2.82",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJztkcsKwDAIBNfZ///nQl/kkIiB3upcAnGyipGm2ELMa9vYHwWNmffJYsjtltUHZa8oeiG+15wtUUQeBFx/ZmcmPCuLNHHYay42TfNXDtlRAGA=",
+    "cp": {
+      "1": "#54a0fc",
+      "2": "#54a0fc",
+      "3": "#54a0fc"
+    },
+    "sz": 40
+  }
+}

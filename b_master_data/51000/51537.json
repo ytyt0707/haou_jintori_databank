@@ -1,0 +1,48 @@
+{
+  "round_id": 51537,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-10T23:58:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇰🇷慶尚道] ティンコゥ",
+      "team": "🇰🇷慶尚道",
+      "emoji": "👻",
+      "score": "7.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[テスト] テスト",
+      "team": "テスト",
+      "emoji": "💣",
+      "score": "0.15",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷慶尚道",
+      "score": "7.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "テスト",
+      "score": "0.15",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kEEWxCAIQ4H2/mfuCxBEnBEXip9EUCTCIjI7th2/BxcUxO2LGAWkzk6c1aSnGgWkw9pTM+KgD7bsRxbsfRWlb0ETrAgrmhc+aI5aI5NJUGppsmEmp5ifhNZLqqqhWLQpG6Vv0wqwbT01qqoK03oKDpmpQDsYMYT+8JKGB8wSZtPVlGsvtEt/aCFP525Z54szpOLj1GeVzA9riv0+4fY9s+IKZ/Hf/AMQ6AJA",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#7c4de5",
+      "4": "#d130e8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "round_id": 16273,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-17T18:07:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "pc勢",
+      "team": "",
+      "emoji": "🦊",
+      "score": "88.67",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 千石撫子",
+      "team": "神撫子",
+      "emoji": "🤖",
+      "score": "1.54",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "一等兵",
+      "team": "",
+      "emoji": "🐱",
+      "score": "0.08",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "胃が痛い",
+      "team": "",
+      "emoji": "🤔",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "1.54",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9k0sKACEMQ9Oxc/8rDypFGNsEXJiN6OsnFgWG2lSsse3kbYVWWo4ZvEtBqaxcTOfMlTuJ8nPqKpfaSyVvRAJ4rnFKBx4072BmmlYP17qE9UTPv99WYR1g/zX4AIblCfM=",
+    "cp": {
+      "1": "#5b9cec",
+      "2": "#42ebb6",
+      "3": "#ee49d8",
+      "4": "#5334ef",
+      "5": "#cbf62c"
+    },
+    "sz": 30
+  }
+}

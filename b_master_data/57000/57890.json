@@ -1,0 +1,66 @@
+{
+  "round_id": 57890,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-25T07:27:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵草] もみじもみもみ",
+      "team": "🇯🇵草",
+      "emoji": "😀",
+      "score": "40.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵草] ニャル子",
+      "team": "🇯🇵草",
+      "emoji": "🏁",
+      "score": "36.14",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵草] 端っこくん",
+      "team": "🇯🇵草",
+      "emoji": "😀",
+      "score": "14.15",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] たぬぴ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵草",
+      "score": "90.96",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk1EOwzAIQ9mA3f/Ikw0EQictP636auM4irurqrvgwSVjEYK+8BOw9ZKgKVvQin70BfGlNLMzLuVti7c/1PfkqfYHnaGflNp3OLj+dA4qHhVk4t4TcRR4B+9YaAOjLw6MXlQoXpgMvUmCW8xGoS5ZWtOzd1zHEJQTOxW0azetpPOkEsI6yVur4sN3a8u1njXW0j+d06FoQhqXcjt70IOR6ugTnmBs8uQOemA0iTajk3s/myqxzLmU9imYSTTG+4QbVuMd38ct+wJkUAxd",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30b4e8",
+      "4": "#30b4e8",
+      "5": "#30b4e8",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}

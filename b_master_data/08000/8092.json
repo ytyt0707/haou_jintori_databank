@@ -1,0 +1,80 @@
+{
+  "round_id": 8092,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-21T02:20:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "😀",
+      "score": "83.86",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "？？？",
+      "team": "",
+      "emoji": "😀",
+      "score": "5.19",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👽",
+      "score": "3.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵グリコ] けんた",
+      "team": "🇯🇵グリコ",
+      "emoji": "😈",
+      "score": "0.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵万華郷] パカ",
+      "team": "🇯🇵万華郷",
+      "emoji": "👻",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵万華郷",
+      "score": "83.93",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "3.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵グリコ",
+      "score": "0.94",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzNkt0OgCAIhVFg5/3fuFlkocha3XSugI9fp6oT3UzaPagqM1sQOuc3ShoJBunyB7GfWWvYp0tEJIWv8Weazz2OxPwA10lAgMtIXVJRG2sxuB7Ft0JK+3KIac9agZPGPyGqdW5S9ls93pma1mQD65wRDg==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#c6eb70",
+      "4": "#ed5464",
+      "5": "#5ddef8",
+      "7": "#efae71"
+    },
+    "sz": 30
+  }
+}

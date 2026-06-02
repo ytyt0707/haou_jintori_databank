@@ -1,0 +1,61 @@
+{
+  "round_id": 837,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-04T15:40:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ソ連] バルチック海軍",
+      "team": "ソ連",
+      "emoji": "😀",
+      "score": "12.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[阪神] 前川右京",
+      "team": "阪神",
+      "emoji": "😍",
+      "score": "4.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ソロォ] 明日仕事じゃ？",
+      "team": "ソロォ",
+      "emoji": "🤖",
+      "score": "3.86",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ソ連",
+      "score": "12.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "阪神",
+      "score": "4.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ソロォ",
+      "score": "3.86",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0MESgCAIBFCE///nRrIRcR0wD7WHOvRiRaJvU0rRR42+l8wl6w4HInjY/XzKODf30PmDLlZ2CwWqOWYm4hgyq0yw1LgQWRfR6jh3QH1HjrKONhhQguHsMNxwY7l0KIbU+xvLRe6ZYv5A1yw9i8qXzq4AqgGDe9DMWrEvBw4nyf6aCypaAhY=",
+    "cp": {
+      "1": "#80abf5",
+      "2": "#b580fe",
+      "3": "#fe9790"
+    },
+    "sz": 40
+  }
+}

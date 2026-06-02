@@ -1,0 +1,62 @@
+{
+  "round_id": 41241,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-17T07:25:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ピカ] ピカチュウ",
+      "team": "ピカ",
+      "emoji": "🐣",
+      "score": "67.56",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しD5",
+      "team": "🇯🇵ONJ",
+      "emoji": "👹",
+      "score": "1.39",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "🐣",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ピカ",
+      "score": "67.56",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.39",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "なきち",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klEOwCAIQ5GG+195KahTA/Az5VEsZCIr4AdABABkMDZj6oyDnul13tqVuL495cvTyqXyi2zqLp+C3pWPFBM9Ol5/mkDSUsmVdXgsWjTu5sVgdw9kE/80a86xQtvSvDG1lBfS9bsUuH3WtYVwWgageUVYUlLzisvh9KuqGvRqEqUOzewt+GkiPxqn1HflRFUvSzEtF6Km9lCmPx+FB/I=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6ae830",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

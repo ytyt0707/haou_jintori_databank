@@ -1,0 +1,48 @@
+{
+  "round_id": 21432,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-05T13:43:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] まめ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦁",
+      "score": "25.85",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇮🇹パスタ] アラビアータ",
+      "team": "🇮🇹パスタ",
+      "emoji": "😍",
+      "score": "6.80",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "25.85",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇮🇹パスタ",
+      "score": "6.80",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkVsSxSAIQ6Ow/zXfAQwU7PTyw+M0ES2A1QM9Olwdgmo3uVhY32NO1rr9yI71o52lbzaH7M36w7wOFqGkcgnlBX9RTRMVj+xboYe+nA3gH1ULUa3DaO5Kx6q3d1FbjZqTzVLMNIrJJ51yEdkpnWIYNRxvMrQi2/A+sKgt6cMHTJpfs/Ccl2pTNknDlmPmiblu8Empiq+e1N2buCjgfy6fwu7zA7pPBBg=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e8d7"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "round_id": 18402,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-26T15:43:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ONJ] boost",
+      "team": "ONJ",
+      "emoji": "👽",
+      "score": "1.76",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ONJ",
+      "score": "1.76",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJztzjkOwDAMA8EV+P8/B76AOBLYuElhlhzoACBS2DK7GlcthWqmqyQSQjA4wRtrHdsNNnWYv/led9NeHZ/c1YHe/DIPibwAhA==",
+    "cp": {
+      "1": "#4ae8cd",
+      "3": "#ee7281"
+    },
+    "sz": 30
+  }
+}

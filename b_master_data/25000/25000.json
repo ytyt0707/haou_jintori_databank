@@ -1,0 +1,63 @@
+{
+  "round_id": 25000,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-14T06:18:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 爆弾/自認レゼ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "41.54",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ちぎゅ] おんちゃん",
+      "team": "🇯🇵ちぎゅ",
+      "emoji": "🐱",
+      "score": "2.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] うんち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.39",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "41.54",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ちぎゅ",
+      "score": "2.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.39",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kUESxCAIBCeg///y1iAguGVqL8vRTg+jEXAkRm3sbIFGZWFV/0CKyYRmRyRPRd/pkdv65NLYCvU0T3Y5SkeR7WkWBqDt3NwwSb/nZ1rlJ0uxrEWU5Ccwn8bzHc9ZvktoxaAdFgoo5tm+FD8LtBfZBUbuPl3ebdwxvU3zR60UCy1yx6aOgvtq23ulAMbdXfR+J7ovNP8nX/ef8wHQ2QVl",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e8d7",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

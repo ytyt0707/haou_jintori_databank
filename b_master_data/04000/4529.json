@@ -1,0 +1,57 @@
+{
+  "round_id": 4529,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-13T01:37:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵フサ] ハゲ",
+      "team": "🇯🇵フサ",
+      "emoji": "👻",
+      "score": "63.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ぷゆゆ] 蓮舫",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐷",
+      "score": "3.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ぷゆゆ] キングぷゆーゆ",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "👽",
+      "score": "0.20",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵フサ",
+      "score": "63.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "3.45",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl00sOgDAIBNAB7P2vbIppY2EgJrKqPKefWIFdlsp7LqU+A8rxtSLMlbbb9d5aMjBmmQ229tYm28/8eg7sM8fmEV67TpsHMMiZdCs78amBVbXRyep6NWF+cXSp8HuVFN/VkqYPeGp2kTqNoPijh7sKy/sPdgMlawe3",
+    "cp": {
+      "1": "#7c62f4",
+      "2": "#5feff1",
+      "3": "#eaa96c",
+      "4": "#52fa98",
+      "5": "#52fa98"
+    },
+    "sz": 30
+  }
+}

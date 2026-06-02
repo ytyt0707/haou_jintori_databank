@@ -1,0 +1,63 @@
+{
+  "round_id": 9901,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-25T23:02:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "72.85",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷慶尚道] ティンコゥ",
+      "team": "🇰🇷慶尚道",
+      "emoji": "👻",
+      "score": "5.02",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇳チギュ] チギュりパン",
+      "team": "🇨🇳チギュ",
+      "emoji": "😈",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "72.85",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷慶尚道",
+      "score": "5.02",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳チギュ",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV01EOgCAMA9Bq6/2vbAhTBm6LNP64lw2IAuRReyTpkgVSq9sLesWltw1dsq2YOe+dNHK/5009K33Q6eH1LNRNRqCaNNs4yiNtKVb9drBSgpWSTJQ9paaTfyjtrE7h131/+GgyMpWmyzLG2geL71RQvwGoJArb",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#ed68dc",
+      "4": "#793ef9",
+      "5": "#7ef42a"
+    },
+    "sz": 30
+  }
+}

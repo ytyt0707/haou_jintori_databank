@@ -1,0 +1,104 @@
+{
+  "round_id": 52587,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-05-13T08:44:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵西軍] 島津豊久",
+      "team": "🇯🇵西軍",
+      "emoji": "🙂",
+      "score": "46.15",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[阪神] 前川右京",
+      "team": "阪神",
+      "emoji": "🥱",
+      "score": "9.19",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しDu",
+      "team": "",
+      "emoji": "😀",
+      "score": "3.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[阪神] ヤリチン",
+      "team": "阪神",
+      "emoji": "🎾",
+      "score": "2.07",
+      "kills": 19
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] コロコロ遠藤",
+      "team": "🇯🇵ONJ",
+      "emoji": "⚽",
+      "score": "0.28",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] ヤス",
+      "team": "🇯🇵ONJ",
+      "emoji": "⚽",
+      "score": "0.07",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🍂たぬき] 君のおやちゅ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵西軍",
+      "score": "46.15",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "阪神",
+      "score": "11.26",
+      "kills": 25
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkduOwyAMRAdKZfv/f3g1vgHRVmp5gMDxGZxkTuyhgHKnCuUA3gf2I5/W+obOCRGRCAwB0JXyfBGS+pXRRFM3XUXM5CJ1cWCBZn5QybZYuUcki2x68jRFdK1qZLtSpaTVyIHzUbXd6+rApOVW3iMjevRXfBBuScfoTu+KgJ+o0Bwul3Z2GMH80YBVQa+AYEANZnZRj6ADKNlN3Q/qpp03RjgMgey/d6bL0MzoftLN41gecH9nx0m7gUvt08r4gZbiK4Mu96LcXLQ3VfYH/GUPaw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#73d411",
+      "5": "#9ca3af",
+      "7": "#30e8a3",
+      "8": "#73d411",
+      "9": "#30e83c"
+    },
+    "sz": 30
+  }
+}

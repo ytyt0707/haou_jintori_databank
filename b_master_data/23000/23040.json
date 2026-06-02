@@ -1,0 +1,57 @@
+{
+  "round_id": 23040,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-09T04:39:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵しね] ころす",
+      "team": "🇯🇵しね",
+      "emoji": "🤔",
+      "score": "66.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇸🇦南関東] 深谷知広",
+      "team": "🇸🇦南関東",
+      "emoji": "🐱",
+      "score": "7.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵しね] イスラム教徒",
+      "team": "🇯🇵しね",
+      "emoji": "🦁",
+      "score": "0.47",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵しね",
+      "score": "66.48",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇸🇦南関東",
+      "score": "7.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlklsOxSAIRIGx+9/yzaA8bE3T5PJhsYcZsNWshWTAQxozm3ASrk+qCgl+owBUVQOLFReZb1VXAnZaBQGhCG+nnMwH8n60Xo0p9SiKhMCJxshxJGnOxailNX1jlBv1bRyxM8TJ8uVWtW2yJJK/qC2XMcKuPdN5nPB3+vR+07avNxjwpcZqWvGCbbikLpsGBy3GdU1xwfbXRuBO03p17X3zHjZBpe+UF6dqmfnd9IvE9AcmJQjd",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e881",
+      "4": "#e230e8",
+      "5": "#30e881"
+    },
+    "sz": 30
+  }
+}

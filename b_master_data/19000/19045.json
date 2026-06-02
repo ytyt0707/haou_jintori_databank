@@ -1,0 +1,62 @@
+{
+  "round_id": 19045,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-28T03:25:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] フェラン",
+      "team": "神撫子",
+      "emoji": "😍",
+      "score": "28.52",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] さとる（本物）",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "0.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🦄",
+      "score": "0.18",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "28.52",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇳謎の男",
+      "score": "0.18",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0d0OgCAIBeAD9P7P3DTlxwG1zk0bnxgqsMMziNHCNF0gJOSUo9LI3tBH1Zpg66zTofKjoopECaUOXzPrGf1YQiSprpF3KetF/JQaD7TciuHaOTzIqcUjwfY79irzqtc/9RdQct9bMLfMLX/U9sfF0Oiszw2xLAI5",
+    "cp": {
+      "1": "#2feea8",
+      "2": "#f02d2d",
+      "3": "#2feea8",
+      "4": "#6c31ed"
+    },
+    "sz": 30
+  }
+}

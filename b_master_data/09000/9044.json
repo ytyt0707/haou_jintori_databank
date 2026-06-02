@@ -1,0 +1,44 @@
+{
+  "round_id": 9044,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-01-23T15:26:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "a",
+      "team": "",
+      "emoji": "😈",
+      "score": "40.81",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "よっぴ",
+      "team": "",
+      "emoji": "🦊",
+      "score": "6.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "〇ね",
+      "team": "",
+      "emoji": "👽",
+      "score": "3.07",
+      "kills": 0
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJzV0UsSgCAMA9AUmvtf2fED1tLWlQuz9E2EDMCv05e8qnyjHRApVGZyvbq+L7cmg6VVirI7ZtnvJAe2dRLBE9se91/arlcemr2QrU7SR9WojkRddWrXLtoz1UDDsrlzrcF5wAb3yAYF",
+    "cp": {
+      "1": "#f97453",
+      "2": "#7bf75f",
+      "3": "#4196f6",
+      "4": "#f03d9c",
+      "5": "#c962f9"
+    },
+    "sz": 30
+  }
+}

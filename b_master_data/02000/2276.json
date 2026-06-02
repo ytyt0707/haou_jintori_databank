@@ -1,0 +1,100 @@
+{
+  "round_id": 2276,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-07T23:24:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤔",
+      "score": "36.33",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸usa] てすと",
+      "team": "🇺🇸usa",
+      "emoji": "💩",
+      "score": "17.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[サトル] さとる",
+      "team": "サトル",
+      "emoji": "😀",
+      "score": "6.95",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[☭ソ連] スターリン",
+      "team": "☭ソ連",
+      "emoji": "🐱",
+      "score": "4.86",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇺🇸🫄] 彩喜",
+      "team": "🇺🇸🫄",
+      "emoji": "🐲",
+      "score": "2.03",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇺🇸usa] さてろ",
+      "team": "🇺🇸usa",
+      "emoji": "🐷",
+      "score": "0.23",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "36.33",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸usa",
+      "score": "17.41",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "サトル",
+      "score": "6.95",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "☭ソ連",
+      "score": "4.86",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇺🇸🫄",
+      "score": "2.03",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl1FsSwyAIBdCr8Xb/S+74iIBg4rR8xhMIhBH4PYrEqXuQpby5POLUxTLVGBB7l5JAyWft6lRlA5VrtBy5ZPPFdUftgMHX1Z2sLVdBupYjR5IJ0xUfw8nQc87rDx6QpEydzH4T+uF0/Qm5WZnB7mgu3ECjcOTYP2KBeoHb8UXyGkcbV1qi5qC6Mg6tXi3J2VRYmBJ+dAJF4cl18vm85OPtqoxZsWzr4FwosXNmMZSDsD5FAa7byVTx7uCnYp25exiFU386d+M1py02LMwXOdC+FRoAX+kVEGI=",
+    "cp": {
+      "1": "#55bef6",
+      "2": "#ae9aef",
+      "3": "#7489f1",
+      "4": "#ed45a7",
+      "5": "#7489f1",
+      "6": "#5ceb89"
+    },
+    "sz": 40
+  }
+}

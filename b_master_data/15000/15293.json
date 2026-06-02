@@ -1,0 +1,75 @@
+{
+  "round_id": 15293,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-15T05:36:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 自認ロゼ",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "28.71",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "28.53",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 最弱/重音テト",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "10.24",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] Big Wave",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "1.15",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "0.13",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "67.48",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "1.28",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0cEOwyAMA1AnJeb//3gKJAwoSDvMF6Q+HFoKeOoWVEzZ1UPyJz35v9XM7Ka+pl8mR/mqa5cTPmbIcjQ5NR+zm9KslOVckpzOLKWV2ZQ97Xsqa6hZe4ov9smBodNgX5Yq+7nVfIevmaHtLmL+UeE9UlEXHFfpKkO5qnhU0ZlHFWC2VAlVcEkg2mB5o2RV1F8Oe5cDty7zVFXhO22/nGT8XxFM15IriQ+fvg9L",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#7362f9",
+      "4": "#7362f9",
+      "5": "#ea3489",
+      "6": "#ea3489",
+      "7": "#ea3489"
+    },
+    "sz": 30
+  }
+}

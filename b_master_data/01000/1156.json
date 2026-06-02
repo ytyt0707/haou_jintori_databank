@@ -1,0 +1,58 @@
+{
+  "round_id": 1156,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-05T08:12:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[妨害隊] 1位妨害するだけ",
+      "team": "妨害隊",
+      "emoji": "🤖",
+      "score": "32.62",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[妨害隊] NoName",
+      "team": "妨害隊",
+      "emoji": "🐱",
+      "score": "20.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "テポドン",
+      "team": "",
+      "emoji": "😎",
+      "score": "1.71",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[妨害隊] 殺意",
+      "team": "妨害隊",
+      "emoji": "🤠",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "妨害隊",
+      "score": "53.06",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV09sOwyAIBmDYz/s/86IVx8nDdjeSpgY/obaWqArmKlk5BrcgwOTMbQxnAEr7Mk0TkbB3LcLiDvnKpfjVYcOskxYLBtO2O1cUk7F/PnmSOgvT1TksIr39raPLekdH4bsfyqmTMC0SWHav58Zgyyi2lXE1lsoxMHT/MFi7WVXZbMv5nJsHYL+LdAL3TpJD2G4+0so4/MeF06FzcOfzs4xCODfrR+XbaiIp64rJyu0Z0ZfuxFb7q+kV+/t4A49YBko=",
+    "cp": {
+      "1": "#a7f38c",
+      "2": "#a7f38c",
+      "3": "#a7f38c",
+      "4": "#5ff7ad"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "round_id": 4759,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-01-13T14:05:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "前川右京",
+      "team": "",
+      "emoji": "🐱",
+      "score": "7.85",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "まんげ",
+      "team": "",
+      "emoji": "👻",
+      "score": "1.62",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "山上徹也",
+      "team": "",
+      "emoji": "💩",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJzFzUEKACAIRNFUvP+VW7SRwh8K0Sx9zDhGNSKo7aqQIt7e/oizOnlXjR8zm101lQxtBfGdcrW2rBp5L2lsH5N6XLZMU0sBNA==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f66593",
+      "5": "#79f863"
+    },
+    "sz": 30
+  }
+}

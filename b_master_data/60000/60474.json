@@ -1,0 +1,57 @@
+{
+  "round_id": 60474,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-31T03:08:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[九三軍] チェホン",
+      "team": "九三軍",
+      "emoji": "😝",
+      "score": "64.88",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸宣教師] 親鸞",
+      "team": "🇪🇸宣教師",
+      "emoji": "😌",
+      "score": "20.66",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇪🇸宣教師] アルメイダ",
+      "team": "🇪🇸宣教師",
+      "emoji": "😣",
+      "score": "0.77",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "九三軍",
+      "score": "64.88",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸宣教師",
+      "score": "21.43",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kkEWxCAIQ1GT+195BhQRnpVN0W8CYoVkY2tsmpQQ4YpMu55zBFgW0t6Xne5jYfUm2XufwumMFVra/fRb6FEtTm3tjToE7GKh0iwgkMpa3ZNmnXYVdMx77yPWc+BMdZIH85ktsYhcaDhLko4NLJErnRNkgchaVR53GoUuj9l5LupPNHezTve2tMpsXagt/T+5ayE+z6I1PwA2BJ3jZwAvyjclHs58UXvZb7H84wfFYQ7a",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#aad411",
+      "4": "#aad411",
+      "5": "#30e870"
+    },
+    "sz": 30
+  }
+}

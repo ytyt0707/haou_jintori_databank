@@ -1,0 +1,43 @@
+{
+  "round_id": 5061,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-01-14T06:24:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "安倍晋三",
+      "team": "",
+      "emoji": "🤖",
+      "score": "19.26",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "山上徹也",
+      "team": "",
+      "emoji": "😈",
+      "score": "9.41",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "殺します",
+      "team": "",
+      "emoji": "😎",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJzFz+EKgDAIBGA99P1fOTY3ynYWrB8dBNbXzRL5Le7t8gojbaw11UG0MyAAUGhuf1CnytZ2zb9VnMzK4b7TJaiqeqpqUo0MbePt4KkL9kR7TkQv8/Jp5FHi642N0DfNKracfX3Y+bJXzOQAMYwFCA==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#7729f5",
+      "5": "#5eed6d"
+    },
+    "sz": 30
+  }
+}

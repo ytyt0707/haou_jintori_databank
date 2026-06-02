@@ -1,0 +1,65 @@
+{
+  "round_id": 12813,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-06T06:02:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しRe",
+      "team": "",
+      "emoji": "🐲",
+      "score": "55.06",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🤔",
+      "score": "12.92",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸CIA] v豚",
+      "team": "🇺🇸CIA",
+      "emoji": "😎",
+      "score": "0.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇸CIA] オランダ語",
+      "team": "🇺🇸CIA",
+      "emoji": "😎",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "12.92",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸CIA",
+      "score": "0.16",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0gEOwyAIBVAw+9z/yAuIoAPNaFKjr1BsJYoAoHe9QL+BEv9io3hicsw7bTPnFvDK1eHTaqnq0zkUPJIuOpstCmZXkYeKcqPmJHKqrXLRMXyV7QlTWaoY6nWk6Hpl4NkVB0vyuKvsmptNRjBw1dWRf0YPwJve/yJtmjUbLZG67Zc2DW5zM5mwDsIRhl9vAAzc",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "4": "#e6593d",
+      "5": "#f6f351",
+      "6": "#6eef43"
+    },
+    "sz": 30
+  }
+}

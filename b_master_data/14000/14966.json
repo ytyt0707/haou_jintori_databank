@@ -1,0 +1,51 @@
+{
+  "round_id": 14966,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-14T10:06:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しHL",
+      "team": "",
+      "emoji": "👽",
+      "score": "13.51",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐶",
+      "score": "0.09",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "名無し1v",
+      "team": "",
+      "emoji": "😍",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10EkOgDAMA0DHhv9/GQlxaLOVIuHrKCsASUIRPek1MDfUMUmwUt6pit9pflRUea1O5qhno3EwQZrT+U1mwxrhkzZxyJI7RaPWa9t4oV9X+lXTHPsleS4I1wH1",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#e69751",
+      "4": "#66f966",
+      "5": "#67f9c3"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "round_id": 26262,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-17T02:36:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "⚾",
+      "score": "24.37",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しfA",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐶",
+      "score": "4.52",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無し87",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "2.73",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] いただきマウス",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐁",
+      "score": "1.52",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "24.37",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "8.77",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kVsWxCAIQyOg+1/ynIDgq0N/hGsgWABoGfiKhG2HZjPzKq9s1Bhb3hpHzILDkxYMdmjp7lCaoYVlAAomHqm18Mua6ktj2ZOW1NYwrdYbjUnReZ6LFoNSO30n3mlALv1SbsSd+DkF9realHf+aV2edI2FKHqmqa3WItqDNrSHQro69f+cOJt1ipmMsVxtnUUCEk9fKUUXEYwxhosf1ypCyChtdh4i0qn7pECH9Bum1uc79dO9EYv1VrDbdLlfno7Gi381fijwAymrBU0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#60d411",
+      "5": "#9ca3af",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

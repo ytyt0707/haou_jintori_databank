@@ -1,0 +1,50 @@
+{
+  "round_id": 46239,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-29T01:27:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸ベイ軍] ターミネーター",
+      "team": "🇺🇸ベイ軍",
+      "emoji": "🤖",
+      "score": "11.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸ベイ軍] パットン戦車団",
+      "team": "🇺🇸ベイ軍",
+      "emoji": "🐶",
+      "score": "10.72",
+      "kills": 14
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸ベイ軍] ぬむむ",
+      "team": "🇺🇸ベイ軍",
+      "emoji": "🐺",
+      "score": "4.88",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸ベイ軍",
+      "score": "27.27",
+      "kills": 15
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kVsShTAIQxkC+9/ynfAoFr38VHsSgigiYvK/bEpVoWaqeuQX1KkUmJlIShQ0Vx3KYGNHAIdGezOhmThi25rh2TOtD8LH9FToYhdVm4FKN16IyDYfSojNaYhUUvflTgrAxFk3jl5mQDB3v6I3fSwqvpf7obfsLy8JK5p/ULeg5BdVYWOOBSxCHdfhQfcqmkYq7k/NBHqT9m9/qkgLn4GGv+mwnOryhrzbfHh5NUN1bt2GPng9xdB0PC/51pxnLafv9jnqJj/fBQas",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#e830ba",
+      "4": "#e830ba",
+      "5": "#e830ba"
+    },
+    "sz": 30
+  }
+}

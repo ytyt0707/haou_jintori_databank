@@ -1,0 +1,57 @@
+{
+  "round_id": 5604,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-15T11:47:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵幻魔帝] 万華",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "👻",
+      "score": "27.02",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "6.55",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵幻魔帝] おちすぎ",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "😈",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵幻魔帝",
+      "score": "27.10",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "6.55",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0VESwyAIBNB1ofe/cicQZUm0M+VLfaKCQIavyDHJOXTVmPuFzsfyHczwl0JZlEHApK76rK2CzAKIVK0GqzwGeyt2KqIe/9QCsDRf6HnwWVsuRMlnrj6K3SBPjsyGMBPNAlzV1imzZ2f9nRs6NlppG43ss1bLxxhjc2/hX6p/qfc21g9KtVul6aq14dpy0uiHb5KrJXiFtekX24kFUA==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ad62ea",
+      "4": "#ed3ba3",
+      "5": "#ed3ba3"
+    },
+    "sz": 30
+  }
+}

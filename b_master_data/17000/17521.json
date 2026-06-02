@@ -1,0 +1,49 @@
+{
+  "round_id": 17521,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-23T14:53:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ゲスト] ゲスト",
+      "team": "ゲスト",
+      "emoji": "🐷",
+      "score": "50.50",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "うんｋ",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.32",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ゲスト] ゲスは死ね",
+      "team": "ゲスト",
+      "emoji": "😂",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ゲスト",
+      "score": "50.50",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJzNj0EKACAIBFX6/5sDqSjTNQiiwZOjK4o0SJEIKNUj+w/4TXXYev012Z9J726WHMt8nkwTUFpNFijH057pA1qYIKBke4ir5WdUF7wDrQ==",
+    "cp": {
+      "1": "#90f141",
+      "2": "#9a3bed",
+      "4": "#f0e438"
+    },
+    "sz": 30
+  }
+}

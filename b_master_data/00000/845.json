@@ -1,0 +1,84 @@
+{
+  "round_id": 845,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-04T16:06:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[舞散葉] キング",
+      "team": "舞散葉",
+      "emoji": "🤠",
+      "score": "33.50",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うんこ] たかし",
+      "team": "うんこ",
+      "emoji": "😂",
+      "score": "8.98",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[阪神] バルチック海軍",
+      "team": "阪神",
+      "emoji": "😍",
+      "score": "8.20",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[阪神] 演出追加",
+      "team": "阪神",
+      "emoji": "😂",
+      "score": "0.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[大東亜] wad...",
+      "team": "大東亜",
+      "emoji": "🤠",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "舞散葉",
+      "score": "33.50",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うんこ",
+      "score": "8.98",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "阪神",
+      "score": "8.66",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "大東亜",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt1AsKxCAMBNBJgve/clHjpxpjlu1AwdLHSNUW+CEpYBjMzIGuzPjeWPvukDXlRmogouPdlfk767Edy5bVaXYn433huN5ZJk0vBgsmd9ql0GcKU8TNnUe2rPe7wHbTtsUdAaCza5CKI8cVCiLK19lpaCTq6ANHIdeeR51I1EnASXN1aLtpYxTa65IdOvPd6Duv83xyyNkPYP3i/nbueT5Dz5m/rYu8OATZyAPy/AeT",
+    "cp": {
+      "1": "#688eee",
+      "2": "#86f9c9",
+      "3": "#eccf6f",
+      "5": "#86f9c9"
+    },
+    "sz": 40
+  }
+}

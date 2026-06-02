@@ -1,0 +1,48 @@
+{
+  "round_id": 38343,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-11T18:05:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵でんき] 名無しIV",
+      "team": "🇯🇵でんき",
+      "emoji": "🦊",
+      "score": "51.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[星] くみこ",
+      "team": "星",
+      "emoji": "🤔",
+      "score": "27.15",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵でんき",
+      "score": "51.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "星",
+      "score": "27.15",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlk1ESgCAIRNHl/mduQINF6qOJDyd97IJFIhbwlRf1cIY71lmuJqRIsLXEAFRcpYY5odEiL1VXETJ/oGQt6DzFtWPfJexC8tWvVMi4X7fQcbRFUEVkjJqQxtohNNWhnVEgtKK6jed8wOrWACZh9a/k/iKrp4kUxwwcc3MW72/DM2wW1epGPj346P6hdt935xfKP4w1s/fRLnN+vhP32QXycAld",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#30e84d"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "round_id": 924,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-04T20:21:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🦁",
+      "score": "36.90",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[あ] あ",
+      "team": "あ",
+      "emoji": "🐶",
+      "score": "10.55",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] さとる（本物）",
+      "team": "猛虎軍",
+      "emoji": "🐲",
+      "score": "3.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "😂",
+      "score": "3.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "ド騎士",
+      "team": "",
+      "emoji": "😂",
+      "score": "2.74",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[鈴木組] のあ",
+      "team": "鈴木組",
+      "emoji": "💩",
+      "score": "2.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "😀",
+      "score": "0.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[うんこ] たかし",
+      "team": "うんこ",
+      "emoji": "🤖",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[仙台藩] あ？",
+      "team": "仙台藩",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[革命軍] ツインテメイド服",
+      "team": "革命軍",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "40.36",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "あ",
+      "score": "10.55",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "仙台藩",
+      "score": "3.22",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "鈴木組",
+      "score": "2.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "team_name": "みん²",
+      "score": "0.16",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl09EOgyAMBdAbulZx//+/C50MLC247T5owJMWCAIARHAjIpKSFPuYK2lSk0sCV2RSLDl7UAIoklcOU6csAXJOw3UpVVfn/Y3cZCLp6BkAZvYccLTJfW+Qoe/mOqVhhcynH10PzzQIR1ZFVM9KnxRVpO6LaV4dvWP3bRwtnUL6xB5kN6Y+Zdy5QNl6dYaGDH0uDKPrF+LkS2e6hJCInrRtzsIGN3z4ybHdx8pFZS9t19I6X17/vNCx50ZYLr7jVvdlCgM3u6dT+H89kxdO7A2Y",
+    "cp": {
+      "2": "#c267fe",
+      "3": "#cdf297",
+      "4": "#c267fe",
+      "5": "#cdf297",
+      "6": "#f396a2",
+      "7": "#5ef383",
+      "8": "#92fce8",
+      "9": "#ef9fdb",
+      "10": "#6868ed",
+      "11": "#93f58a"
+    },
+    "sz": 40
+  }
+}

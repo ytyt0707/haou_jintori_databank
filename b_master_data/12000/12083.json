@@ -1,0 +1,105 @@
+{
+  "round_id": 12083,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-04T14:34:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] カウパー濃いめ",
+      "team": "猛虎軍",
+      "emoji": "😂",
+      "score": "19.41",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧エルフ] フリーレン",
+      "team": "🇬🇧エルフ",
+      "emoji": "🤖",
+      "score": "17.09",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇬🇧珍走団] 大魔神ぷんJ",
+      "team": "🇬🇧珍走団",
+      "emoji": "😍",
+      "score": "8.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇬🇧珍走団] 足手まとい",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐶",
+      "score": "8.33",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇬🇧珍走団] パンテオン",
+      "team": "🇬🇧珍走団",
+      "emoji": "💩",
+      "score": "7.66",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇬🇧珍走団] 弾道🥺弾",
+      "team": "🇬🇧珍走団",
+      "emoji": "👽",
+      "score": "1.76",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵VIP] 🐟💦",
+      "team": "🇯🇵VIP",
+      "emoji": "👻",
+      "score": "0.16",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "26.66",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "19.41",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇬🇧エルフ",
+      "score": "17.09",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵VIP",
+      "score": "0.16",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90ksShDAIBNBGPob7X3gqAWLiqL1w89LEQoElqoCZmVZARKBC1UuGbtWlphjdTbem2qcCBCJc996VptrdFz1P++t2bK2Z7UVTZmYL7Wg692DGAzGrA2t2KFtriWXjmdhVJIyvTYUySJpIeBy3hUGSqavWNgqFHwJ8K03NfT52pRSPirt6qYu4d6FVvbQnETUV9VKhFF9zV8/Qp9aPwAzGEUq+dcfFQCoedOR46/b46+SJeWIGe34rugt1",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f1dc55",
+      "4": "#f57e47",
+      "5": "#6c7aea",
+      "6": "#f57e47",
+      "7": "#b6f141",
+      "8": "#f57e47",
+      "9": "#f57e47"
+    },
+    "sz": 30
+  }
+}

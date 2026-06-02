@@ -1,0 +1,42 @@
+{
+  "round_id": 42595,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-20T08:38:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "イスラム教徒",
+      "team": "",
+      "emoji": "😆",
+      "score": "75.03",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チ甘] チームは甘え",
+      "team": "チ甘",
+      "emoji": "😈",
+      "score": "0.54",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チ甘",
+      "score": "0.54",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkdEWgCAIQ6fz/7+5sFqgyal4Eb3b5ChAXziqnBXhJYRRllKvg2EtJMgVPcS11kQwwTBI5iRTGnLi2IaWI2EyxgPMAqWDAJbJJBOvUQW9bOwLo9Rvzx+OAu08NZd32qAqOe5GbLy+SxKK/8mttZYk98cVv0dVJ/Z15pj84HbJ1urG8TF2uAGtzwgn",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#e83098"
+    },
+    "sz": 30
+  }
+}

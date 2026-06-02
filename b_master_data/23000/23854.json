@@ -1,0 +1,57 @@
+{
+  "round_id": 23854,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-11T16:13:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵獣] ハム太郎",
+      "team": "🇯🇵獣",
+      "emoji": "🐷",
+      "score": "0.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ꪔ̤̻] 甘兎心愛",
+      "team": "ꪔ̤̻",
+      "emoji": "👻",
+      "score": "0.13",
+      "kills": 16
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵獣] 強くなる",
+      "team": "🇯🇵獣",
+      "emoji": "🐶",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵獣",
+      "score": "0.26",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ꪔ̤̻",
+      "score": "0.13",
+      "kills": 16
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkksSwzAIQxFt73/lDvJHwk2yajZheJIwTgA9EZGRmRnrAfB5U8BmMaMRi2L4SEtQCcoFhpHeFj40m+5w98rcRyOdrNj57mznrr2Ca9pcgaocVN2oweR93dLD14OfYseIlhtPG73akecB3e5ntrokgK97wBJYS6XC1VPF70+JeqpEr7KV/DvaGen6Ayqow22ekhvKWz3ZXLou5wL9v/UFyOYDeA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e230e8",
+      "4": "#30e870",
+      "5": "#30e870"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "round_id": 9111,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-24T04:18:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "41.96",
+      "kills": 17
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵傷物語] 忍野忍",
+      "team": "🇯🇵傷物語",
+      "emoji": "👻",
+      "score": "0.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[あ] お子さん",
+      "team": "あ",
+      "emoji": "😈",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "41.96",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "あ",
+      "score": "0.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵傷物語",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0VEOgCAMA9Bqev8zmwhK1pUa97e9AQMA4HwCuxhKACRpcRC7z12jcqOFzMkMSgZVrNyVWRkUCFrf0+Gth+hKzMong8U2sh3JLZ3Vrb4VVbl+VX0b02oK/j9Xhh+qQ0NZC11zy1dcuFMGEg==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "4": "#eccb46"
+    },
+    "sz": 30
+  }
+}

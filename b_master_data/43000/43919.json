@@ -1,0 +1,105 @@
+{
+  "round_id": 43919,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-04-23T08:12:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "35.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇫🇷メロヴ] クローヴィス",
+      "team": "🇫🇷メロヴ",
+      "emoji": "😉",
+      "score": "28.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "⚔️",
+      "score": "18.04",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "1.47",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "クンニバル",
+      "team": "",
+      "emoji": "🈲",
+      "score": "1.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇮🇹大秦国] ネロ帝",
+      "team": "🇮🇹大秦国",
+      "emoji": "🗡️",
+      "score": "0.64",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] 名無しut",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "35.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷メロヴ",
+      "score": "28.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "18.13",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇮🇹大秦国",
+      "score": "0.64",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkkEWwyAIRCdAnHr/C7eiIpr32k1dBORnGIyB3beZGYAWzJgXBu3opGYuDRja6yK5yiOLxhc5zNI7QVuS6qf4z7S5Ibx3X9UAnmz0hJLoySjpRPxKy5Omzj9oOQYWWVpqKftxgqqZJgr/HiLzjrStpQUASv9dHDVt4EZB91UMnMQEpFPT+uo8TQUSTau11jrUfkF9JpICrZm6n84bFLesOrVzgG4hMvcr+rgDr+rMvLs/eudZ73FQaXEnqkv5oDv67N7iOg/B",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d64e5",
+      "4": "#7c4de5",
+      "5": "#30e83c",
+      "6": "#e830ba",
+      "7": "#9ca3af",
+      "8": "#4d64e5",
+      "9": "#aad411"
+    },
+    "sz": 30
+  }
+}

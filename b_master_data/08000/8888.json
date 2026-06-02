@@ -1,0 +1,44 @@
+{
+  "round_id": 8888,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-01-22T21:33:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "パンテオン",
+      "team": "",
+      "emoji": "🤠",
+      "score": "15.27",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "チギュりパン",
+      "team": "",
+      "emoji": "🐲",
+      "score": "11.53",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "チギュりパンで草",
+      "team": "",
+      "emoji": "🦁",
+      "score": "0.28",
+      "kills": 1
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJyl0UEOwCAIBEBQ9v9fbhRELWpsypEB3ESi/8W8p6InZuNEqdbrsOFR68BeS78pLCzzlCqBCEDWsOyqI9DKbW3cBVw7ugOwCb+2WFWl/uBkgy42o+KkuNbw6DLvrfrIzvRvbktEjrhXkcDakK4yjnqFxie1kz35mOEBfzUEug==",
+    "cp": {
+      "1": "#b072ee",
+      "2": "#cbf26e",
+      "3": "#ee728f",
+      "4": "#51ec60",
+      "5": "#eaa157"
+    },
+    "sz": 30
+  }
+}

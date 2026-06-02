@@ -1,0 +1,81 @@
+{
+  "round_id": 7590,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-19T23:11:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐱",
+      "score": "29.91",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] 膣夫",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😈",
+      "score": "20.58",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[💣] 女殺し",
+      "team": "💣",
+      "emoji": "😎",
+      "score": "8.75",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[💣] 爆弾/自認レゼ",
+      "team": "💣",
+      "emoji": "🐱",
+      "score": "0.79",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😍",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "50.49",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "💣",
+      "score": "9.55",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJx901EOxCAIBNBZEHv/G28KKINulo/W9Amh2AJXCCAi4guoqnkAmB6OEjtUdaeFCppqzw0oda/KR+7iuSKNci8VcK7hwqUvF/qG2Srb7sovuCvHe485MWLNbSWOJNA4SnWYkrbUXY+aZiyNOxc3s666nlpu24Wx2PI5pb72eaN0B08y1Rh5Vl3xTxmJCXGiGuFZmMu2MZdaH2lvic7jKf11HO1XWR82KdrpMn4BadMJLw==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f631b8",
+      "4": "#e97749",
+      "5": "#f631b8",
+      "6": "#e97749",
+      "7": "#f0d147"
+    },
+    "sz": 30
+  }
+}

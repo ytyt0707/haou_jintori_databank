@@ -1,0 +1,63 @@
+{
+  "round_id": 10925,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-01T23:58:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵猛虎軍] ゲスト狩のゾロ",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "😍",
+      "score": "3.30",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇮🇹ベネチ] しね",
+      "team": "🇮🇹ベネチ",
+      "emoji": "😍",
+      "score": "1.27",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇰🇷慶尚道] ティンコゥ",
+      "team": "🇰🇷慶尚道",
+      "emoji": "🤔",
+      "score": "1.16",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "3.30",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇮🇹ベネチ",
+      "score": "1.27",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇰🇷慶尚道",
+      "score": "1.16",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9z9EOwDAEBVBa/v+Xl1np2nJflsybHFdoLYqSCkq5jDkSVbwmRUTKxbLrck2q7nLq69ckem+eWr1m+oyPtoNR6lM5QefTTMtk7GRm4KYoDBXgN0U4VFVRViuH4WB4wK91ASesAVo=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#77f457",
+      "4": "#f6f34c",
+      "5": "#f4876c"
+    },
+    "sz": 30
+  }
+}

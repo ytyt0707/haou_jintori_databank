@@ -1,0 +1,120 @@
+{
+  "round_id": 42201,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-04-19T11:20:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チ甘] チームは甘え",
+      "team": "チ甘",
+      "emoji": "😈",
+      "score": "17.15",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "不殺の誓い",
+      "team": "",
+      "emoji": "🕊️",
+      "score": "14.88",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[金] チギュアってて草",
+      "team": "金",
+      "emoji": "😅",
+      "score": "13.86",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🧠] 🧠",
+      "team": "🧠",
+      "emoji": "🧠",
+      "score": "5.04",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 仕舞っちゃう",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐶",
+      "score": "3.99",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] 名無しP1",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "アイマスク",
+      "team": "",
+      "emoji": "🐱",
+      "score": "0.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🧠] も",
+      "team": "🧠",
+      "emoji": "😍",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チ甘",
+      "score": "17.15",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "金",
+      "score": "13.86",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🧠",
+      "score": "5.12",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ONJ",
+      "score": "3.99",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🍂たぬき",
+      "score": "0.14",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF10FF2wyAMRNEXgYra/S+4ZwTEInb0YWMuIwy8agG9FhcC/H5TzOQ12lcWMBPbswpVpyqcPUW3ziA1IyY/ZN09ph7YgRfgfmsc0aVEBKlWDhRFY+mfOkf0yFI2B6nuuowp+VRnZmd397XRXpAKhplUvEm/s0rnuYeryp+z86rc47Hz0I3klZVtA4aaj5GvKhrn/Bg/g3ZumQulWa1tvlZlz63y9xHn6Io21T7herd2RdOPFVPX/Ce31C/IOZ9fZeu7FoRb+tTDP+gfMSgLVA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#e230e8",
+      "5": "#9ca3af",
+      "6": "#d4c811",
+      "7": "#d4c811",
+      "8": "#30e8c6",
+      "9": "#8B4513",
+      "10": "#e83075"
+    },
+    "sz": 30
+  }
+}

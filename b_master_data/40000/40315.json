@@ -1,0 +1,57 @@
+{
+  "round_id": 40315,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-15T05:22:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "烈海王",
+      "team": "",
+      "emoji": "😇",
+      "score": "36.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "⚔️",
+      "score": "4.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[たかし] たかし",
+      "team": "たかし",
+      "emoji": "🍘",
+      "score": "3.76",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "4.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "たかし",
+      "score": "3.76",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFklESxCAIQ1OF+195B0MQbWeWHzo8A0ELDACzB3q86Nx0jDEubaMIeHaesFK/lNMOeClvena2S3sM7pCmttgi6Mkdopot6CvWTcXZvCxSotDmaqQBiQDHB3V3XtaiXYxpZtElGgYtW5pcMCZsnL6YQku43qFcs61a8wn3TvV+IX3PzRWV6FpjVVXm3KQqPvmxfp0ylcWnaGyvvuVJtMD6oPYp7QeVsO3JU3Kl/KEV+qc9peVZ8o5VU/4BUTwFeg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#3081e8",
+      "5": "#e8a930"
+    },
+    "sz": 30
+  }
+}

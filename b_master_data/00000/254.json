@@ -1,0 +1,79 @@
+{
+  "round_id": 254,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-03T08:12:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] キリン",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "48.05",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] ちんちん",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "45.76",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[管理人] うんちまん",
+      "team": "管理人",
+      "emoji": "😀",
+      "score": "2.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[管理人] 彩喜🤍🤍🤍",
+      "team": "管理人",
+      "emoji": "🐶",
+      "score": "1.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[関東軍] あ",
+      "team": "関東軍",
+      "emoji": "😂",
+      "score": "0.97",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "93.81",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "管理人",
+      "score": "3.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "関東軍",
+      "score": "0.97",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl19GSwyAIBVCvJP//yx2jMcIFQ1sedjeNR5DobFNKEREpLVDycRHp0X4DUHdVGHl9IunoZklXkMfLDL/ZdZqMDRb2xXp/yxtEjvrV/ZH2H1sQ4tcubuwrze8NTvJicbsrUrbWOs31o3i4OAuuPbqtiCweO+rCUWc8Fk7V7ayrmzgWexipPGDpao/jcOjsAVtgoZHFu6177Fg8aZ/MwsPgUAhbIdv67BXTutgqRrTivqFcO+rW89nZv7GiLu49maN0JNw+WzvPn6KuFTFp52B1xXZ8rCoexxiBLcrydOC03Gi2I4noa/chGftUmLBm+5Gdf7ubw017162a5jxfCSyV4G0Od3E5a1a3lqzuBnbtiNPoXc3PaKbzgQcHKWHH9ysDi9sjLuv6L+skZmzvXc/Xt7Qv6E5sN2nvVnvrZWrH9Llia76k8nKTeb2TZex5nmeyUZT37GGxW8/W3iOjpXSLnY3boC3YbjvIVg3eUW1h6Dartfsg29+KftKUNyyDSh7vctBvc/Y6ig/IUBqu",
+    "cp": {
+      "1": "#84f599",
+      "2": "#65d9f6",
+      "3": "#84f599",
+      "4": "#65d9f6",
+      "5": "#eff382"
+    },
+    "sz": 60
+  }
+}

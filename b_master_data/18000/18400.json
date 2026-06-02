@@ -1,0 +1,56 @@
+{
+  "round_id": 18400,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-26T15:37:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] マスターニャーダ",
+      "team": "神撫子",
+      "emoji": "😍",
+      "score": "50.43",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 正体不明",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐶",
+      "score": "0.40",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 爆弾/自認レゼ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦁",
+      "score": "0.30",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "50.43",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.69",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNzlEOwCAMAlAq3v/MS6bTpkMiXyYvVBAjkLEIZSRB7m7FGdXNil496bzdnepqUZbM2WeNcxlAx/5XXE6nIRStma6etDQ0fhpKYdV31yqt/8mQrA7TIm3Tqu86xe3k5O8TV3kAoOYFkA==",
+    "cp": {
+      "1": "#6efa5c",
+      "2": "#6efa5c",
+      "3": "#f939e6",
+      "4": "#6efa5c"
+    },
+    "sz": 30
+  }
+}

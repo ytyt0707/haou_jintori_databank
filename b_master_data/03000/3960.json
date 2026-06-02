@@ -1,0 +1,57 @@
+{
+  "round_id": 3960,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-11T18:45:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵飽きた] 山上徹也",
+      "team": "🇯🇵飽きた",
+      "emoji": "😂",
+      "score": "38.49",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵飽きた] 陣取り飽きた",
+      "team": "🇯🇵飽きた",
+      "emoji": "👽",
+      "score": "34.59",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪ナチス] 馘",
+      "team": "🇩🇪ナチス",
+      "emoji": "🐱",
+      "score": "1.69",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵飽きた",
+      "score": "73.08",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "1.69",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90EcSwCAMA0A5yP//csYNDCk6ERZRAvEAIsgRAI1gJZaJtoAnbypLVYRd2bv2TYrSB7mATZVepsWXTGWpsGLX0lK4kk2Zr2J1A8bgGF2DU69hsU5iXFNidBkr+intqZexAm/ozMGp+lD/Ua/dmJ16NDOpPvGl2pVrAaD1l166bBNVWwztiTOm4lQqT7W5/bxt53XfHZ9bn4pvxG8Vh+FL0VP8lxswxwv6",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#832fe9",
+      "4": "#757deb",
+      "5": "#757deb"
+    },
+    "sz": 30
+  }
+}

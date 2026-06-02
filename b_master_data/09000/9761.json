@@ -1,0 +1,48 @@
+{
+  "round_id": 9761,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-25T15:28:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳万華郷] 万華武者",
+      "team": "🇨🇳万華郷",
+      "emoji": "🤠",
+      "score": "4.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳a] 爆弾/自認レゼ",
+      "team": "🇻🇳a",
+      "emoji": "😍",
+      "score": "2.07",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳万華郷",
+      "score": "4.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳a",
+      "score": "2.07",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eJzl0NkNwCAMA1An8f4zV6XqkZMB6i/E4zAAVyhIUX2GItE9BtePQs4VzdYiATlqXwr5QUHvkzmW4nAvyWr6VRrMrGVbqa4DmMhlxHV2/DlfrG8+4k6HTjv9bw4j4gEG",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#ed2cac",
+      "4": "#2ddfeb"
+    },
+    "sz": 30
+  }
+}

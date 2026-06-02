@@ -1,0 +1,62 @@
+{
+  "round_id": 52099,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-12T06:21:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[てすと] 名無しci",
+      "team": "てすと",
+      "emoji": "🤠",
+      "score": "90.39",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しSY",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "🤬",
+      "score": "0.00",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "てすと",
+      "score": "90.39",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵山本組",
+      "score": "0.00",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kUsOwCAIBcFM73/l1r9GwUWbshHf8ACj0EOH6GrLVBVQSCcgDWUtYrgGtaTVuJKoZNuenWh3rV3qmrlm5dU711W1vc42ptIDbu1+SMb/+GDcm3aTd7rYi4VgM3ChZwRKZzEWOQx2JwfX3OludKTyxA05dg1Q",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#e83064",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

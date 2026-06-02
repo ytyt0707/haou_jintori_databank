@@ -1,0 +1,54 @@
+{
+  "round_id": 54267,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-17T03:33:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[錬金術] トトリ",
+      "team": "錬金術",
+      "emoji": "😖",
+      "score": "3.24",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[………] 最近は………",
+      "team": "………",
+      "emoji": "😀",
+      "score": "2.93",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "錬金術",
+      "score": "3.24",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "………",
+      "score": "2.93",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "混沌",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHl0EEOgCAMRNEPDfe/spECUwXZmLixq4ZH6yD8oFJK8ytLO1pjEWvUvC1neZvQ5lkDIu37YqihHbmoufdM3LW6lBDLao3A536trgbEUSnWvjtCEX9Wyyxk8d4cWb3P5vzA9eIW2U3Cm1ml/Kg7AODeAQU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "5": "#30e892"
+    },
+    "sz": 30
+  }
+}

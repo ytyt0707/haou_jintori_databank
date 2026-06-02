@@ -1,0 +1,63 @@
+{
+  "round_id": 7168,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-19T00:22:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳ゲスト] ゲスト",
+      "team": "🇨🇳ゲスト",
+      "emoji": "💩",
+      "score": "44.95",
+      "kills": 17
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇷🇺チー牛] チギュりパンで草",
+      "team": "🇷🇺チー牛",
+      "emoji": "🐶",
+      "score": "1.05",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇷🇺京結界] HIKAKIN",
+      "team": "🇷🇺京結界",
+      "emoji": "💩",
+      "score": "0.19",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳ゲスト",
+      "score": "44.95",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺チー牛",
+      "score": "1.05",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺京結界",
+      "score": "0.19",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0FEOwyAMA1AHvPtfeaJAcRKg/qjUPZyyAJLSoj+A3rySvHQ5mKu9UR3udaajnnZKFn7q+lpSRYA/PVA8Bg2IMfKgaC93xVH7Eq/dYzlNtnDp0DSz/TIJ69krp44j3Gl9HlFtpdZ6qE5ljGiqCucL66U3av7/5h4WIs0kDLLIN2GFLX/sEQcz",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#eaa948",
+      "4": "#f226b9",
+      "5": "#ed5e74"
+    },
+    "sz": 30
+  }
+}

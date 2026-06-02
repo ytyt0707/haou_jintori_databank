@@ -1,0 +1,76 @@
+{
+  "round_id": 1722,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-06T15:39:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵大東亜] wad...",
+      "team": "🇯🇵大東亜",
+      "emoji": "🐶",
+      "score": "25.78",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸米兵] 国旗機能🌟",
+      "team": "🇺🇸米兵",
+      "emoji": "😎",
+      "score": "19.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇹🇼国軍] ぷゆりパン",
+      "team": "🇹🇼国軍",
+      "emoji": "💩",
+      "score": "0.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇸🇦中東] イエメン",
+      "team": "🇸🇦中東",
+      "emoji": "🦊",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵大東亜",
+      "score": "25.78",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸米兵",
+      "score": "19.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇹🇼国軍",
+      "score": "0.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇸🇦中東",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10kkOwCAMA8Ck7v/fXCG6EGIq08UnBCMnB8z+ju8xl1iRmtPGynUVjriH2LDXcyQnDh4WEsYgMQzSNpn1bsRcIcGF2xgAntsyBIDO8SVOt67E2WQfsqvnch9Q4+z6FscTGna5JqIDi+SWhc6ljSqkjkDusnzrPi98OPf1ftOFds9SNklkBSw=",
+    "cp": {
+      "1": "#78c8ed",
+      "2": "#e7ab50",
+      "3": "#7df79e",
+      "4": "#7d64ed"
+    },
+    "sz": 40
+  }
+}

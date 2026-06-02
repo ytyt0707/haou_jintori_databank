@@ -1,0 +1,46 @@
+{
+  "round_id": 1276,
+  "game_mode": "TEAM",
+  "player_count": 2,
+  "played_at": "2026-01-05T15:20:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[さとる] さとる神",
+      "team": "さとる",
+      "emoji": "🐲",
+      "score": "67.69",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[高専] 高専ガイジ",
+      "team": "高専",
+      "emoji": "🤔",
+      "score": "0.14",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "さとる",
+      "score": "67.69",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "高専",
+      "score": "0.14",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0kkOwCAIBVD89z9000Fa62doykI2Gn2AMYgsHkCRu0DkgFP01WEH0I3noBtLTo7L+w6uBKlHJF5uOBkFr6cy4cjpnMgj64y+Zc7Myj/wc183I2wrla5PSeE/Z9/3rNdawpUOFpnwX26ZgXZcHLvbADFFCFs=",
+    "cp": {
+      "1": "#9aefc3",
+      "2": "#fd72cc"
+    },
+    "sz": 40
+  }
+}

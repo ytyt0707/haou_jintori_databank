@@ -1,0 +1,61 @@
+{
+  "round_id": 2505,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-08T11:48:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵革命軍] 神",
+      "team": "🇯🇵革命軍",
+      "emoji": "🦊",
+      "score": "60.45",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "💩",
+      "score": "2.71",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ぷゆゆ] おまんちゅ",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐷",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵革命軍",
+      "score": "60.45",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "仙台藩",
+      "score": "2.71",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy11EsOgDAIBNCp3P/ORuNnSoePC4kLU56UGgVohp3RZKF7U6W7kqkz7ZYnXO68t7tVatkXGSYCMLfxGMc1I6pMzrOl9OHG5dBxaUHaN4XP2XOHz87YASFbC0I7+aLZxS/tI1Nu20KH9XyR+6+/yjUazMXP/ZUffaOgGw6cqdzzZ9OiHzbzGvVdODEaNRMjVLJpqqXRdg3jYweblwuL",
+    "cp": {
+      "1": "#f36d73",
+      "2": "#c1ee58",
+      "3": "#9576f9"
+    },
+    "sz": 40
+  }
+}

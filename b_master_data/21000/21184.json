@@ -1,0 +1,72 @@
+{
+  "round_id": 21184,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-05T00:19:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ころす] しね",
+      "team": "🇯🇵ころす",
+      "emoji": "👽",
+      "score": "76.32",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "👽",
+      "score": "3.79",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] otk",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤠",
+      "score": "0.23",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ころす] イスラム教徒",
+      "team": "🇯🇵ころす",
+      "emoji": "🐱",
+      "score": "0.14",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ころす",
+      "score": "76.46",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "3.79",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.23",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkgsOhDAIRJFZe/8jG2j5uYFNlkQtPAYMhVmN5I0vY2YSS5Qi6cBMAedbKeJQxIk+Wpg8PRAAoyXojtSkRglMdY16qXK4Z7xpURRHGpdAdUZYU1tvrTWxf+lS6yr/hJ0QEGlDZVQdayQWnqaMccz7hvyeXoUkvrfHOuXv2at0y1fgBOsPaAuyxdK0oxKiDz02wglI",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e892",
+      "4": "#9ca3af",
+      "5": "#30e892",
+      "6": "#e83053"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "round_id": 8508,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-22T00:49:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺チー牛] アベベ",
+      "team": "🇷🇺チー牛",
+      "emoji": "😎",
+      "score": "23.42",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "22.80",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺チー牛",
+      "score": "23.42",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "22.80",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJydkQEOhDAIBPdg+f+XL1isiLQxTmwNDFtjCgCqUPjToINZtjYG0twLm3RgZtZp74/dmqzBMvVk21pVkjRiJeF+aQdfrF5ynb1+eXeww2IRr7BU3rNJxigXFuzY2nTHbbh+eZVOTTlvoloQFBGIiPxudiwZeCfbc5t2InnkYZGrp53NY0VVbU3gD2ISB4g=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#9c2bf3",
+      "4": "#f0a26a",
+      "5": "#55cbec"
+    },
+    "sz": 30
+  }
+}

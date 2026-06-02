@@ -1,0 +1,57 @@
+{
+  "round_id": 55622,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-20T04:49:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[田中] 田中ぷにえ",
+      "team": "田中",
+      "emoji": "👁️‍🗨️",
+      "score": "20.69",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] tkb",
+      "team": "なきち",
+      "emoji": "🔅",
+      "score": "16.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] も",
+      "team": "なきち",
+      "emoji": "😜",
+      "score": "2.24",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "田中",
+      "score": "20.69",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "18.39",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkUkSxCAMA8X2/y9PCe9AajgRNy2Mg3UtTF/ASWema61yAEDgy82U+xrNish7J9TPAOOmfjnGGINNi+qW3ECYacFbFez2tM4Yd8pu612553iTQR/HLuRcFtKcPZYjFfui+4wmO2TXzNX6odqbPmjfq0B9D/MzbHpIh8xR99612FoTHr8A5IKd5ntcNjXDcKHBJ7XoWtcva+sNra0nBV5yTPGP/MwM+4mBHz1wBnk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d130e8",
+      "4": "#d130e8",
+      "5": "#d4c811"
+    },
+    "sz": 30
+  }
+}

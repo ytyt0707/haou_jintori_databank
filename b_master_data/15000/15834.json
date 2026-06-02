@@ -1,0 +1,55 @@
+{
+  "round_id": 15834,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-16T18:20:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しlg",
+      "team": "",
+      "emoji": "🤔",
+      "score": "50.78",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵神撫子] 爆弾/自認レゼ",
+      "team": "🇯🇵神撫子",
+      "emoji": "🐲",
+      "score": "0.27",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ローマ] 大カトー",
+      "team": "ローマ",
+      "emoji": "😀",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵神撫子",
+      "score": "0.27",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ローマ",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10kkKwDAMA0CZ6P9vLoUU5EXNKbqOZXBIRA0kVazihYTKmKJru5JEq4YoOa/daBXkniBdF4ap+VEcy9VZmb6KwrWZ+1d0WQVztd+1tNpeZaq0iStq7/10+zQ1fCE98pAH3SIHaQ==",
+    "cp": {
+      "1": "#67f4bb",
+      "3": "#eb6437",
+      "4": "#f64ce7"
+    },
+    "sz": 30
+  }
+}

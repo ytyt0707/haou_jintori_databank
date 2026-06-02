@@ -1,0 +1,71 @@
+{
+  "round_id": 5820,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-15T23:28:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "22.77",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ポロリ] お絵かきします",
+      "team": "🇯🇵ポロリ",
+      "emoji": "🦄",
+      "score": "10.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "アナ",
+      "team": "",
+      "emoji": "🦄",
+      "score": "4.03",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛牛武] 甲基",
+      "team": "猛牛武",
+      "emoji": "💩",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "22.77",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ポロリ",
+      "score": "10.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛牛武",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0FsSgCAIBVAMhv0vuWFE3tn9KO0ohgD3ICKeUfreFEdF1NeZFK05lWbVJRf1879V89QlU+/fCneFpszMe2DsF8emwOEyA26WB1E+iT2ChQMSma7GEPb+qCQxbNZNK2zWbqM62z9OpUMLyss1pykntcqxqVSgdtTRjy26F/jkri2CLy4LBTo=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f443f1",
+      "4": "#ea6ca7",
+      "6": "#dff24a"
+    },
+    "sz": 30
+  }
+}

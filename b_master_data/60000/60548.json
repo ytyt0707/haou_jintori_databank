@@ -1,0 +1,48 @@
+{
+  "round_id": 60548,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-31T07:08:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬぴ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "88.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸カード] スペード",
+      "team": "🇺🇸カード",
+      "emoji": "😈",
+      "score": "4.34",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "88.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸カード",
+      "score": "4.34",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlkDEOwDAMAgPm/2+OUnepIhgidYpHn8BgaZ+qffduas0hlZL2T6rhM2sdto0upOkXnoGAp2TAJOmlihgA/V0ghcpUj63xHp03ubfe9foEm/8pDXk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}

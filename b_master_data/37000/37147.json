@@ -1,0 +1,57 @@
+{
+  "round_id": 37147,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-10T06:44:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] ぴ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "34.72",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "不殺の誓い",
+      "team": "",
+      "emoji": "🕊️",
+      "score": "7.24",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵脱糞] 糞まみれ",
+      "team": "🇯🇵脱糞",
+      "emoji": "💩",
+      "score": "0.13",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "34.72",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵脱糞",
+      "score": "0.13",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkVkOwzAIRAdq7n/lCuMB4jpSlPIRIx7DFiBMIAdb0MzETCQ+M89Di0Kc0ugSAmCIKV0LtCjd0jLSXyA7z8TOzEob3r+0ht8r++gnKhyvtf7Vom3+gubZUsuuHsjOJ5pwv1UtM1NS687GHt35kxXUzGoo8z+YzVW1IU/0BSh1esEE/mpYLTRlcf/F1FuPyMBIMenoVnRV7rC07HtLp/qOhvpCv5/CB8A=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#514de5",
+      "4": "#30e870",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

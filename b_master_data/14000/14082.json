@@ -1,0 +1,42 @@
+{
+  "round_id": 14082,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-12T10:19:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵菅直人] 山上徹也",
+      "team": "🇯🇵菅直人",
+      "emoji": "🦁",
+      "score": "87.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "🐱",
+      "score": "0.85",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵菅直人",
+      "score": "87.12",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0zEOwCAIBVAU7n/mpgyEjwgDgyQm1heotkLkgpltSkRbV0Lsf2gkyIagcvgl1yrfXDfonhZa0CS50uKtebKABhY4NaCUip+r31ajhc8KV8uT3/BIR1enU20o9g3mOu4DQksJUw==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#ccf830",
+      "4": "#e94edc"
+    },
+    "sz": 30
+  }
+}

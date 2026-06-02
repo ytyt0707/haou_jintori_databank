@@ -1,0 +1,65 @@
+{
+  "round_id": 3886,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-11T14:40:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "殺害",
+      "team": "",
+      "emoji": "🐶",
+      "score": "51.72",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇷🇺ロシア] アレクサンドルⅡ",
+      "team": "🇷🇺ロシア",
+      "emoji": "🐲",
+      "score": "21.51",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 汗明",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "7.22",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] 偽覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺ロシア",
+      "score": "21.51",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "7.22",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9kusOxSAIg6st7//KJ4AOdSb7d5rMZHyUixuwq22CQn1K6mykJBQt3Hs384jDg5pZHOEFwJNaHGryMcjostBUDEVuuKh3TtonFHn3egILWmsSoEHjSQp54aQeHGsx8XhrevadkE+qwosI32B4B37DrIxJQmsvpRcL3kh0/KB4U6AoDpq/yuFdynKaa+ztXvAkjo23a6vliuJGdXrnRmvKn4QzcGmNV1J+2h+RYQtO",
+    "cp": {
+      "1": "#dcec32",
+      "2": "#6b40f7",
+      "3": "#f8a63a",
+      "4": "#2ac4ef",
+      "5": "#ef43db"
+    },
+    "sz": 30
+  }
+}

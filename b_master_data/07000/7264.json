@@ -1,0 +1,109 @@
+{
+  "round_id": 7264,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-19T05:33:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ゲスト] 深谷知広",
+      "team": "ゲスト",
+      "emoji": "💩",
+      "score": "6.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "爆弾の廃人",
+      "team": "",
+      "emoji": "😀",
+      "score": "4.73",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "^-",
+      "team": "",
+      "emoji": "🦁",
+      "score": "2.33",
+      "kills": 9
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[グリコ] けんた",
+      "team": "グリコ",
+      "emoji": "😎",
+      "score": "0.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[グリコ] OMNK",
+      "team": "グリコ",
+      "emoji": "🐲",
+      "score": "0.64",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[ゲスト] カミカゼ",
+      "team": "ゲスト",
+      "emoji": "💩",
+      "score": "0.54",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[ゲスト] ゲスト",
+      "team": "ゲスト",
+      "emoji": "🦄",
+      "score": "0.11",
+      "kills": 18
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[グリコ] 猿",
+      "team": "グリコ",
+      "emoji": "🤖",
+      "score": "0.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 10,
+      "player_name": "イキスギウム",
+      "team": "",
+      "emoji": "👻",
+      "score": "0.06",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ゲスト",
+      "score": "6.82",
+      "kills": 24
+    },
+    {
+      "rank_position": 2,
+      "team_name": "グリコ",
+      "score": "1.36",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10eEKgCAMBOBbVmN7/weOSRnUboHQ/RI/dooCeaSHIFepNXbD1rQ5ONcW6ZUisqXaWp964YdOhb4LAFVAc7gyrezEIIL3aH5pPa/scFIQDXCqwc4O78xHx0uRf1mKydB9rB8FZlj4sFnZW+sPOQCX3gKG",
+    "cp": {
+      "1": "#f7f24a",
+      "2": "#ed73a4",
+      "3": "#49f63c",
+      "4": "#bff863",
+      "5": "#bff863",
+      "6": "#ed73a4",
+      "7": "#bff863",
+      "9": "#ed73a4",
+      "10": "#53dbf3"
+    },
+    "sz": 30
+  }
+}

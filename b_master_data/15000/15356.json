@@ -1,0 +1,73 @@
+{
+  "round_id": 15356,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-15T09:18:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇪チー] 名無しC5",
+      "team": "🇻🇪チー",
+      "emoji": "🐶",
+      "score": "65.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇪チー] チギュアってて草",
+      "team": "🇻🇪チー",
+      "emoji": "🐱",
+      "score": "21.79",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😈",
+      "score": "2.38",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇪チー] 中山司",
+      "team": "🇻🇪チー",
+      "emoji": "🐷",
+      "score": "1.97",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "さとる",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇪チー",
+      "score": "89.53",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "2.38",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0lEOwyAMA1B7Mfe/8hRo1nTDzF9VnlwiAZAh7kjiypRndGt6jdZU92dqIdZQ6g69ZDLV5r+yn9Xo6nKr1fWKo5IeV/ugsDqXtivnHDodnH8ew2p2z2rbpXu+FJ0jFF05BrpGTOZH9aXRVRtl6c8+s2pVS2GVJ6VT1sOAv+C8ozeXXAr1",
+    "cp": {
+      "1": "#bff070",
+      "2": "#6549f3",
+      "3": "#66ebd5",
+      "4": "#bff070",
+      "5": "#bff070"
+    },
+    "sz": 30
+  }
+}

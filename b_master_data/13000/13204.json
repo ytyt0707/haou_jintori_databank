@@ -1,0 +1,55 @@
+{
+  "round_id": 13204,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-10T10:50:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "😎",
+      "score": "54.64",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[野獣先輩] 名無しEV",
+      "team": "野獣先輩",
+      "emoji": "🤠",
+      "score": "29.44",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] クソデバフ",
+      "team": "みん²",
+      "emoji": "😎",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "54.71",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "野獣先輩",
+      "score": "29.44",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJylklEOwCAIQ2vg/mdehtqBAj/rjwkPSgBFqGGSoZ/k0ApkdEaqWj31h2qkaDovWjjMKtwpZWfPO3ZRWKTyNdptIymFp/EwCuyhVtBTXFS9MSGyq1Kj24/VzoRs/+B9eto4B7hdAPCTclJOa9TtMdD3FX8CnDh8SAQMj1Pa6gEjIwrs",
+    "cp": {
+      "1": "#3475ef",
+      "3": "#5cf0b7",
+      "4": "#70ef6b"
+    },
+    "sz": 30
+  }
+}

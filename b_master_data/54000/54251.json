@@ -1,0 +1,80 @@
+{
+  "round_id": 54251,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-17T02:41:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[錬金術] トトリ",
+      "team": "錬金術",
+      "emoji": "🪄",
+      "score": "47.98",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[東卍] ドラケン",
+      "team": "東卍",
+      "emoji": "⛩️",
+      "score": "24.81",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[東卍] ニャル子",
+      "team": "東卍",
+      "emoji": "🐱",
+      "score": "2.03",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵菊兵団] 第十八師団戦友会",
+      "team": "🇯🇵菊兵団",
+      "emoji": "👾",
+      "score": "0.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵菊兵団] 増田順一",
+      "team": "🇯🇵菊兵団",
+      "emoji": "😃",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "錬金術",
+      "score": "47.98",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "東卍",
+      "score": "26.84",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵菊兵団",
+      "score": "0.21",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk1kOwzAIRLHJqPe/cTXsTtqqfMTEj2FxHBGBm0i4dMICzUVk/6J77+BTFL4UzKIz6Bu1WJXGU+S+qhZuqpemyd7ed9OrqWZfkzYGsEXroABcLQYUgCqfYUlj23oYA7fWVMSp5Np1s/n/aSp6ndralfQm5QyHjZZ9QlU/UaH+pBVAwixHZkAyu2nv1A4qhB8yG+alY+JHXVbyG6n8RutWuShjsJ44bzO/73rywsvszO7wZX8OsdEcnw2nmpnX4pv1WvvG31dCC8M=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#4d81e5",
+      "5": "#30e8a3",
+      "7": "#d130e8"
+    },
+    "sz": 30
+  }
+}

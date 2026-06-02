@@ -1,0 +1,85 @@
+{
+  "round_id": 865,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-04T17:11:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんこ] あ？",
+      "team": "うんこ",
+      "emoji": "😎",
+      "score": "43.73",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソ連] 共感性羞恥心",
+      "team": "ソ連",
+      "emoji": "🤖",
+      "score": "6.95",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ゲリラ] 演出中止w止まる",
+      "team": "ゲリラ",
+      "emoji": "👻",
+      "score": "3.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ソ連] 梨",
+      "team": "ソ連",
+      "emoji": "🦁",
+      "score": "3.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[VIP] ヘルツネ",
+      "team": "VIP",
+      "emoji": "🦊",
+      "score": "1.88",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんこ",
+      "score": "43.73",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソ連",
+      "score": "9.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ゲリラ",
+      "score": "3.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "VIP",
+      "score": "1.88",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd1YsOhSAIAFAe8v+/fBcPrwY+FmvN6gTKmgGUgfXtxBCvJBo8Yhzj1q0lfnQdxoBqNickIndEz4FQOuoOHkaLfDS6WWFSBoleUxyYL+GB72xVYyzvYcEB49m+0znZvSvY2rXWoPV3dkzjVPXoYkLGymWaY/nDNUMWkW3TRIP1vIHOWARunJzzgaUbWAWjqlY+OLM8uBpqWWYXK+vJmN8fTDlDluQgO5V842TrAIDXru+QMLnEwvmFu8yisg69eSW738Prv8IPS9IGBw==",
+    "cp": {
+      "1": "#936bfa",
+      "2": "#73cfe8",
+      "3": "#51f67d",
+      "4": "#ed73be",
+      "5": "#51f67d"
+    },
+    "sz": 40
+  }
+}

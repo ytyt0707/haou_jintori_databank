@@ -1,0 +1,63 @@
+{
+  "round_id": 7606,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-20T00:03:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵うゆ軍] 雑なお魚さん",
+      "team": "🇯🇵うゆ軍",
+      "emoji": "💩",
+      "score": "45.41",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "2.24",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇸🇦bot] 名無し👾",
+      "team": "🇸🇦bot",
+      "emoji": "👻",
+      "score": "0.79",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うゆ軍",
+      "score": "45.41",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "2.24",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇸🇦bot",
+      "score": "0.79",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyVk1ESgCAIRDGW+1+5Sak0VrT9YngsoI4iREZy2KRMcOUUYkZ6I3OjL2HeqwKAPfiIjbl1wVf2jO539kwpmbcEMHSuYaB7OOZ7TJIhio72JBKpqraAUa2aTG0U/6mvIpjcQmXSHehT5Nu+dJix+Ba3TqAjBsE=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f85dad",
+      "4": "#e950f7",
+      "5": "#b9e755"
+    },
+    "sz": 30
+  }
+}

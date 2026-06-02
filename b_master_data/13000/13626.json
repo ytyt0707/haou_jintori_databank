@@ -1,0 +1,63 @@
+{
+  "round_id": 13626,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-11T09:40:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐷",
+      "score": "44.47",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🐷",
+      "score": "14.92",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵猛虎軍] やの",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "💩",
+      "score": "0.08",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "44.47",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "14.92",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "0.08",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10lEOgCAMA9C62ftf2TASQZgNRu0fPAaMAETckca7SHyjD4/9SmW7CTZOEbmRZCudLdxjQVJZmSgrcA46KxMqvynKRUQphBJQvKB3PD7dshrHd63ZA80u/WxDqelurds5+zkHtiQJjQ==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#5bf5ee",
+      "4": "#346cef",
+      "5": "#eeb668"
+    },
+    "sz": 30
+  }
+}

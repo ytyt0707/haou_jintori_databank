@@ -1,0 +1,87 @@
+{
+  "round_id": 6288,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-17T00:47:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😈",
+      "score": "13.01",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "🦄",
+      "score": "12.49",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵🇯🇵楚] ポル・ポト",
+      "team": "🇯🇵🇯🇵楚",
+      "emoji": "🐱",
+      "score": "10.78",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵はい〜] やす子",
+      "team": "🇯🇵はい〜",
+      "emoji": "👻",
+      "score": "0.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵🇯🇵楚] やったか！？",
+      "team": "🇯🇵🇯🇵楚",
+      "emoji": "🤠",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "13.01",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵YY勢",
+      "score": "12.49",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵🇯🇵楚",
+      "score": "10.89",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵はい〜",
+      "score": "0.18",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10EsSgCAMA9CASb3/jR0/dVoo7syqM49qAICdgaGK5fyhmGjYXWrZ+H+95zYpX2yFmpGrTYB0jZEkZ2C7xt5c9HDYvVARg/bzz1pqb1JWxlaT5s6lEuCH+vdHzFpVDpreadqt3pn7Xtp445LXCL9siqpzd+d3PgCG5gaJ",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f25d2c",
+      "4": "#f25d2c",
+      "5": "#98e732",
+      "6": "#d861ea",
+      "7": "#ebd52d"
+    },
+    "sz": 30
+  }
+}

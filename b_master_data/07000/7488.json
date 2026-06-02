@@ -1,0 +1,48 @@
+{
+  "round_id": 7488,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-19T17:40:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵うんち] 安倍晋三",
+      "team": "🇯🇵うんち",
+      "emoji": "😍",
+      "score": "54.78",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵埼玉] 31歳無職男性",
+      "team": "🇯🇵埼玉",
+      "emoji": "🦁",
+      "score": "22.28",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "54.78",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵埼玉",
+      "score": "22.28",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt00sOgCAMBNDiZO5/ZSMi9GdDjN0YeVMSqohsFfk8V4ldshziOunDnd3OfK3Y67l8rbb6ri6LcHgBcAEJIJkkVOV6zIw7b187kKmUWvcGpVUY5Q8qO70wylzzVsqO3jMLP+BS+62bUnVfBrYxyHihZq+cBrkMMA==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f862c1",
+      "5": "#9843f9"
+    },
+    "sz": 30
+  }
+}

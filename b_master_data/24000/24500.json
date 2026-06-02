@@ -1,0 +1,98 @@
+{
+  "round_id": 24500,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-03-13T03:16:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵きゅ] よわしﾁｬﾝ",
+      "team": "🇯🇵きゅ",
+      "emoji": "🐟",
+      "score": "39.66",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵きゅ] きゅっきゅ",
+      "team": "🇯🇵きゅ",
+      "emoji": "🪰",
+      "score": "7.41",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] えへへ",
+      "team": "🇯🇵阪神",
+      "emoji": "😎",
+      "score": "6.31",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "⚾",
+      "score": "1.42",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵きゅ] 統合失調症",
+      "team": "🇯🇵きゅ",
+      "emoji": "🦊",
+      "score": "1.27",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] み。",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🍂たぬき] 名無し6Z",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 16
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵きゅ",
+      "score": "48.34",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "7.73",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkouOhTAIRAebsuX/f3gzA1rUvTfZxihyGB5tgYgA4ABMD/ry4PJw9zCzn85AKWlBu0NPraTU3rFo5o2kj4BKzCQUd+ruyLIq8absiE2ldj20Ec5xr8S9MffgTuRoNiw6xDmSpDAbIzcvB6+KqqqmP1HJg1RbT/XWGqnQhY/jOOTZ/gxQ3daUvGsl5BuoQyjXWhhquv7vNNb6B91VZA2uy1dX42xFsNHEd4qIKf15rypZacecwi/KicaTMoq7k2LyPCMWLmt/5jxpqTZ6WG9tC/gjc6NfzF9i5A9q",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#af30e8",
+      "5": "#af30e8",
+      "6": "#30e8d7",
+      "7": "#8B4513",
+      "8": "#30e8d7",
+      "9": "#30e8d7"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "round_id": 21344,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-05T08:58:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😂",
+      "score": "40.60",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵小谷城] 浅井長々",
+      "team": "🇯🇵小谷城",
+      "emoji": "🤖",
+      "score": "8.43",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] ぷゆゆ🥺",
+      "team": "猛虎軍",
+      "emoji": "😂",
+      "score": "7.34",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 爆弾/自認レゼ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 怖いよ嫌だよ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "47.94",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵小谷城",
+      "score": "8.43",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.21",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFktEShSAIRBe92P//8Z0FQSybeGhqDntEUySrWaFWMhGnrRW8aGtoGwIgv+AkNUdFMBE84U7xMGeYJg4GaJZcE/ukpKpjDH9EtGyD0EuDiioblNqAo9JYLeFYMwcr0WPWhqJAT2amfWRN9TLPN7YklTseamZruDP/lt5756aPmPCDvmGY2ejBDTMf3DxvFPoYi39lhTdsBznXPait9y3rokJ5dLf6oBP7/yzX0Sw2tl05rVfVV8AfU2QKxA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#59e830",
+      "4": "#8B4513",
+      "5": "#3081e8",
+      "6": "#3081e8",
+      "7": "#8B4513"
+    },
+    "sz": 30
+  }
+}

@@ -2,6 +2,85 @@
   "date": "2026-06-01",
   "task_history": [
     {
+      "timestamp": "2026-06-01T17:13:35.602631",
+      "status": "running",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "最新試合IDの確認および差分履歴データの取得完了",
+          "previous_last_id": 0,
+          "current_last_id": 61012,
+          "target_limit": 61012
+        },
+        "step2": {
+          "status": "success",
+          "message": "新着試合データの個別ダウンロード完了",
+          "success_count": 2,
+          "skip_count": 61010,
+          "error_count": 0
+        },
+        "step3": {
+          "status": "success",
+          "message": "マスターデータのビルドが正常に完了しました。",
+          "new_created_count": 2,
+          "skip_count": 61010,
+          "rescued_count": 0,
+          "created_id_ranges": "61011-61012"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-01T17:07:21.643666",
+      "status": "running",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "最新試合IDの確認および差分履歴データの取得完了",
+          "previous_last_id": 0,
+          "current_last_id": 61010,
+          "target_limit": 61010
+        },
+        "step2": {
+          "status": "success",
+          "message": "新着試合データの個別ダウンロード完了",
+          "success_count": 3,
+          "skip_count": 61007,
+          "error_count": 0
+        },
+        "step3": {
+          "status": "success",
+          "message": "マスターデータのビルドが正常に完了しました。",
+          "new_created_count": 12,
+          "skip_count": 60998,
+          "rescued_count": 0,
+          "created_id_ranges": "60999-61010"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-01T16:59:45.687073",
+      "status": "running",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "最新試合IDの確認および差分履歴データの取得完了",
+          "previous_last_id": 0,
+          "current_last_id": 61007,
+          "target_limit": 61007
+        },
+        "step2": {
+          "status": "success",
+          "message": "新着試合データの個別ダウンロード完了",
+          "success_count": 9,
+          "skip_count": 60998,
+          "error_count": 0
+        }
+      }
+    },
+    {
       "timestamp": "2026-06-01T16:28:06.190956",
       "status": "success",
       "error_reason": null,

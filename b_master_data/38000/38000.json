@@ -1,0 +1,44 @@
+{
+  "round_id": 38000,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-04-11T08:49:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ムーミン",
+      "team": "",
+      "emoji": "👺",
+      "score": "11.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ぴ",
+      "team": "",
+      "emoji": "👽",
+      "score": "11.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "悪童",
+      "team": "",
+      "emoji": "🏍️",
+      "score": "0.37",
+      "kills": 0
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eAF9klsWgCAIRMeg/W+5MzwS1KMfqV1mgAKiqgpgCCAigrYIjY76OoMmHYUHNUgtRqNMImi0iL0Gp6qDq2Vu2gV6YGgtbRe/QOTVoMX7vVFBo0tLS172W4wL5bHC/I5elQdikzYaQWVjv+XKo+B32emfNL6G/fZm8Dx+De0+FYYntes6OW4R2jNkndvEuY5POUMqKKR2BufJpstCLvQstdHzek4th7OVvHs7ZdXHjlKQe5Zr+weYlANh",
+    "cp": {
+      "1": "#60d411",
+      "2": "#8b4de5",
+      "3": "#ced411",
+      "4": "#e88730",
+      "5": "#4d73e5"
+    },
+    "sz": 30
+  }
+}

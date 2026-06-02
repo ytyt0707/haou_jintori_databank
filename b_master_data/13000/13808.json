@@ -1,0 +1,41 @@
+{
+  "round_id": 13808,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-11T19:30:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "90.57",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] ぷゆゆ🥺",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "1.62",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "92.19",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9k1EOgDAIQ7u09z+z8QOjYmGLRj55b2NdAhVF6l7ILVMAKrrYbwRmfBLzGf82+CF7ogJH/3+qCdq4o9THKyy0Rohlhpq6/CvfYm/mFwMu4sNu6dgabFKfDUQ=",
+    "cp": {
+      "1": "#f74b59",
+      "3": "#36f77a",
+      "4": "#36f77a"
+    },
+    "sz": 30
+  }
+}

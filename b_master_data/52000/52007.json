@@ -1,0 +1,71 @@
+{
+  "round_id": 52007,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-12T01:22:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しrB",
+      "team": "🇯🇵ONJ",
+      "emoji": "💩",
+      "score": "11.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無し9H",
+      "team": "",
+      "emoji": "🦄",
+      "score": "8.25",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.14",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵自民党] えんぴつ",
+      "team": "🇯🇵自民党",
+      "emoji": "🦃",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "11.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソ連",
+      "score": "0.14",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵自民党",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kEEOxSAIREdI5/5HbkAEjG2av/gsCvJmkAr8HKr64tEZjUrVAZtXRMAQLGoZAEl58BalIPnppY3OUMWUWIc+WsTyUuzUiEdg39g/C2zYVPkipA9us9cdlpP2ZtacS9VaSbwI897MU184m1kcCwMYSf1N8jFmexQmzpUK+68e5nLXLVGN8u5sRPRuDX6AJrym2mk3ftU1+Ev5f34DAQcDiQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e88730",
+      "5": "#ced411",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

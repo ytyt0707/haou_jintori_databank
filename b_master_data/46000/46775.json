@@ -1,0 +1,75 @@
+{
+  "round_id": 46775,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-30T06:25:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[魔眼] 名無しAc",
+      "team": "魔眼",
+      "emoji": "🐱",
+      "score": "35.10",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[魔眼] 遠野志貴",
+      "team": "魔眼",
+      "emoji": "🔪",
+      "score": "17.98",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "正体不明",
+      "team": "",
+      "emoji": "👀",
+      "score": "3.31",
+      "kills": 17
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[なきち] なきこ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "1.23",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "🐣",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "魔眼",
+      "score": "53.08",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "1.32",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkdsOwzAIQx3KyP//8YS5lFadtPKU5GATJ2ZmtllShS6zbYaJIQ3h0qv4ZPiXunsMXqvl4ZzuQv5E42JryXpPI/Ty6rF5504lF+N3dIsM46Ht1/bkOfrMmzSSJR60njs41Rc6OYA957IxjVN/0071vmlVtT6bd7w6Bz0n1PfzRFW12iFg6jFZUd2eZ1tvvefjNMT5VtVs5p1RXB4HN+1cEMDB8oMHGpDi39TxI3VzBGXDmMplXAqZ6k65/wKdggzg",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#994de5",
+      "4": "#e83064",
+      "5": "#e83064",
+      "6": "#47e830",
+      "7": "#47e830"
+    },
+    "sz": 30
+  }
+}

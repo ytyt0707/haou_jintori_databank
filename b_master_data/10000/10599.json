@@ -1,0 +1,61 @@
+{
+  "round_id": 10599,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-01T06:20:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "👻",
+      "score": "31.12",
+      "kills": 17
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[カル蛸] ハンニバル",
+      "team": "カル蛸",
+      "emoji": "👽",
+      "score": "4.93",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "名無し5l",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.58",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[カル蛸] マリファナ",
+      "team": "カル蛸",
+      "emoji": "🤔",
+      "score": "0.05",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 2,
+      "team_name": "カル蛸",
+      "score": "4.99",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0eEOgyAMBOCL17G+/xMvMLHX4lhs/KF8vUIQAMBRiDIbqwg8laT1kv6taliVgkmZFL+UmuXQ91yh1Nk5kzlLm++yLWr2GllVBrVWNJ1gVZDuTu/X3JYkOvaKH6LqVXnodl+04ANr1uRno0TdkoLjwTU5a7S9Nno/OdlyrIrpQu60NjzT/eQn+u/U6v3zA0SGCgs=",
+    "cp": {
+      "2": "#38f587",
+      "3": "#7ff651",
+      "4": "#60abf0",
+      "5": "#f95b43",
+      "6": "#6af0da",
+      "7": "#60abf0",
+      "8": "#f95b43"
+    },
+    "sz": 30
+  }
+}

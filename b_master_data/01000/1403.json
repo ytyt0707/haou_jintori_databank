@@ -1,0 +1,136 @@
+{
+  "round_id": 1403,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-05T22:15:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🤖",
+      "score": "30.04",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] はじまん",
+      "team": "猛虎軍",
+      "emoji": "🐱",
+      "score": "16.63",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "x",
+      "team": "",
+      "emoji": "😀",
+      "score": "11.49",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] 働けよ",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "9.86",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] 彩喜",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "5.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[彩の国] 埼玉",
+      "team": "彩の国",
+      "emoji": "💩",
+      "score": "3.38",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[日本軍] まりも",
+      "team": "日本軍",
+      "emoji": "🐶",
+      "score": "3.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "SCP-4162",
+      "team": "",
+      "emoji": "🤔",
+      "score": "1.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[冷笑軍] うゆゆ",
+      "team": "冷笑軍",
+      "emoji": "🤔",
+      "score": "1.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[　　] 　　",
+      "team": "　　",
+      "emoji": "😂",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "62.23",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "彩の国",
+      "score": "3.38",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "日本軍",
+      "score": "3.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "冷笑軍",
+      "score": "1.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "　　",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN09GSwyAIBVBuVVb5/w/eQZCgSbbLQ9upJ+jFluhLsb19Hkq0iHjVi5tMONWj4xtT6IslOb47dldKWVKE7yy7Eqfj6frhiJRRKR+RD3j1SnntgFRWiQC4Vs5+weBMYu/tfGp+9AUG51x6F+Z91BS72kAux7sjY3o88eq9W17KzsJaYXdbP70WaVNoEAC9d6TwHKxpmcN0fLp5D2050XWC1/2HcGXAVv91My8Q7hoJbg2JlrOLenRIfxBAot0BfSBwB7C0f7nWbNCP7HI6vmnxl2M2cDKHtVkOZr51SrDW6q41enNADWe3+7StM5sztxzAPo0xBobOS9l0vFIs19wNdU3ZjMN21YtZ83D13VE0nC7G46xFO524ndDb+bzTjpubWWPf5eBXl9I/u9zVTnG4DVL6rlZsjg433h7+Wr9xExSP",
+    "cp": {
+      "1": "#6a80fb",
+      "2": "#90effd",
+      "3": "#f457bd",
+      "4": "#a7f179",
+      "5": "#6a80fb",
+      "6": "#6a80fb",
+      "7": "#57f493",
+      "8": "#f4ec9f",
+      "9": "#b36aec",
+      "10": "#6a80fb"
+    },
+    "sz": 40
+  }
+}

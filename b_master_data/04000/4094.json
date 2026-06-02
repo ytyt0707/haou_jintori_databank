@@ -1,0 +1,78 @@
+{
+  "round_id": 4094,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-12T01:59:59.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "15.29",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "👻",
+      "score": "13.04",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] あそ",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "5.36",
+      "kills": 9
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🦄",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "20.65",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇵🇭うんち",
+      "score": "13.74",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チー牛",
+      "score": "13.04",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "うんち",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90QsKBSEIBVCfou5/x48y81PNhWHAkxUG8BlVPWqUtS8IXDqZR0SIeq862gpqyiVdC0vfubQeOx+98taRh0rgVcFxq6bWYxqmwCR3VeYxQ4pDx/wSkyXQlVWBPPWBVXm+3I0BEYPWoaPkWFRmBa1sP0oq9NTJVfONKDb2XspJivCpKzfcGlQ02L4ScG7yc53zgr1sFxHxD/O8CgM=",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#6bf64c",
+      "5": "#d833eb",
+      "6": "#6bf64c",
+      "7": "#34e5c7"
+    },
+    "sz": 30
+  }
+}

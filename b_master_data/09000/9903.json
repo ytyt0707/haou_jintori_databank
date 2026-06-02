@@ -1,0 +1,72 @@
+{
+  "round_id": 9903,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-25T23:08:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🦄",
+      "score": "65.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] ロゼ様の肉便器",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "9.72",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "2.29",
+      "kills": 8
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇰🇷慶尚道] ティンコゥ",
+      "team": "🇰🇷慶尚道",
+      "emoji": "👻",
+      "score": "0.20",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "65.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "12.01",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇰🇷慶尚道",
+      "score": "0.20",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNkwsSwyAIRLd04f5H7kCiEcS2m8nPl0WBCExpCElaNMYSxYJ1p3ucPyk6qs9K6+ISLXp/p/BoFzVrot65mauN4N4jfGj7xaAH/2+KI8ZAHUXQktVrsV4PxsOab6w0Guu0cRe/kKrMVouKippTxpm9IipiQpJI7jGvuMjSz6W/iON5q92nbdaZ0Vas+A9nmWo5Mm0qVXYUkEc/nxEOMQ==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#20b4f8",
+      "4": "#903bf1",
+      "5": "#8bf859",
+      "6": "#903bf1"
+    },
+    "sz": 30
+  }
+}

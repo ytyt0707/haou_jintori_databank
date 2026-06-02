@@ -1,0 +1,87 @@
+{
+  "round_id": 10565,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-01T04:30:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐱",
+      "score": "19.29",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵🦑] ミャウミャウ",
+      "team": "🇯🇵🦑",
+      "emoji": "😎",
+      "score": "17.39",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] パンテオン",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "3.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 羅王/朿咅口ゼ",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "2.66",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵特攻隊] いなみや",
+      "team": "🇯🇵特攻隊",
+      "emoji": "😍",
+      "score": "2.34",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "23.00",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵🦑",
+      "score": "17.39",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "2.66",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵特攻隊",
+      "score": "2.34",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0lEOxCAIRdFrpbj/HU+0WAHbzosfJkdQo+fpQs/hcm4Kx70kqoiIbxC0tWZ6OVmbLIzarpj27dm1mRLV8eib9FqgqocdLSt0VVVUNwVu7JxVXabSB7XW+qB2hqS2L0tda2LqP4XFnxpImI/3VCtS5jRzryqlJJ0uA40D3n8JcnHUzLBo5eXGE3m1obzihwz9QpcfyLMJKw==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#ea8839",
+      "4": "#f45767",
+      "5": "#633af8",
+      "6": "#cfe732",
+      "7": "#633af8"
+    },
+    "sz": 30
+  }
+}

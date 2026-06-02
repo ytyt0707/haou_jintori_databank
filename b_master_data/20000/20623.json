@@ -1,0 +1,87 @@
+{
+  "round_id": 20623,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-03T17:56:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[あんあ] ジェットは？",
+      "team": "あんあ",
+      "emoji": "🐶",
+      "score": "62.69",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "正体不明",
+      "team": "",
+      "emoji": "🐲",
+      "score": "19.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😀",
+      "score": "2.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "😈",
+      "score": "1.43",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] あっぴー",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "あんあ",
+      "score": "62.69",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "2.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇫🇷デパ",
+      "score": "1.43",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9k9EWhCAIRIecjf//4w5gKym1p5f1IZHLOGJHwIYIREQ89g9j9ITTnkoToBpqOeszVTVs+wpSPkIYVacLI4OasoBBfeeCgqrK1bDbFop/pIrz7MMXrY2FR3sa9xRW1dqkTtKflJPxRTudiXymF7xoX9CtFHd7u8nPWpBoBcO9+AupqZcUwOhp1vrD+V4XvKMNZH9Q5+QVOABZAQ4A",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6ae830",
+      "4": "#e83053",
+      "5": "#9ca3af",
+      "6": "#994de5",
+      "7": "#30e8d7"
+    },
+    "sz": 30
+  }
+}

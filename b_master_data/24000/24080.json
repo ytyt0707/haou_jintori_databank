@@ -1,0 +1,71 @@
+{
+  "round_id": 24080,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-12T04:27:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵焼菓⭐] 甘兎心愛",
+      "team": "🇯🇵焼菓⭐",
+      "emoji": "🐱",
+      "score": "81.70",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵焼菓⭐] はんなり",
+      "team": "🇯🇵焼菓⭐",
+      "emoji": "🐱",
+      "score": "7.04",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂卍] 尊師",
+      "team": "🍂卍",
+      "emoji": "🐲",
+      "score": "0.32",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 🇷🇴",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵焼菓⭐",
+      "score": "88.73",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂卍",
+      "score": "0.32",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9k1EOwCAIQ9lovP+RF0BNHIX9jY9NebY1mwpkFQTv8o6kvsa61Acg4aLIKqeAWpGs8HRKtRbqVFmuqVsasNJOKXeWnva5HzS2bbvn2RZdU1xB49sxB9aL1eVzjBIZWJQ63630B0iPzs61o74n50DgN+Fs7llP7e811pOue5beDzewDGk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e85e",
+      "4": "#30e85e",
+      "6": "#e83098"
+    },
+    "sz": 30
+  }
+}

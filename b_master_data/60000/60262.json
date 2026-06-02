@@ -1,0 +1,42 @@
+{
+  "round_id": 60262,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-30T15:40:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[九三軍] 大麻",
+      "team": "九三軍",
+      "emoji": "🌱",
+      "score": "21.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[九三軍] tkb",
+      "team": "九三軍",
+      "emoji": "🔅",
+      "score": "1.47",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "九三軍",
+      "score": "22.49",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtj1EOgDAIQ8vK/c9scMucDSxG5W88HmXAozLYZs7sPcVHmfVdTiORDBDu7hwlE9G9ICk+p9d1iZ+0teBCgcELihGcu4CDZAtZju4540NZLhDqWnLaipIFdyxu7F7XC75cAf05cU1TEs3T3dISdn2Pt/Q3eAB6JwKB",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#e85330"
+    },
+    "sz": 30
+  }
+}

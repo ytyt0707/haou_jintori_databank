@@ -1,0 +1,62 @@
+{
+  "round_id": 4952,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-14T00:32:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸Hey] Hey",
+      "team": "🇺🇸Hey",
+      "emoji": "🤠",
+      "score": "19.12",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵猛虎軍] 蓮舫",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "😍",
+      "score": "2.48",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇺🇸ぷゆゆ] 弾道💩ミサイル",
+      "team": "🇺🇸ぷゆゆ",
+      "emoji": "🦁",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸Hey",
+      "score": "19.12",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "2.48",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇺🇸ぷゆゆ",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0MEOgDAIA9BK+f9vNmzR4SwcPdnLEh7dAQBwhwjn45E1TFk8F8iX4lJS6VjYKetdRKtFV3BMjw6f1bynz6Nx/6Z0dOXBsBINtEYjLdbdP1/mBNYlAnk=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f27431",
+      "4": "#f85986"
+    },
+    "sz": 30
+  }
+}

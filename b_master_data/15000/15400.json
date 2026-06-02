@@ -1,0 +1,49 @@
+{
+  "round_id": 15400,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-15T11:40:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳チギュ] 99いこ！",
+      "team": "🇨🇳チギュ",
+      "emoji": "🤖",
+      "score": "96.43",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳チギュ] 練習",
+      "team": "🇨🇳チギュ",
+      "emoji": "🦊",
+      "score": "1.42",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しg1",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.36",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳チギュ",
+      "score": "97.86",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9kbENADAIw0j4/+euHZBViYJHogwx9k3YltwlqmMmVTg1p/OwE1amD0Z7lP9YgHazlWVlM4JeNxxG7Ab3",
+    "cp": {
+      "1": "#62f37b",
+      "2": "#62f37b",
+      "3": "#f759c8"
+    },
+    "sz": 30
+  }
+}

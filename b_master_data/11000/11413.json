@@ -1,0 +1,42 @@
+{
+  "round_id": 11413,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-03T02:21:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 安倍晋三",
+      "team": "みん²",
+      "emoji": "🐷",
+      "score": "15.78",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐷",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "15.87",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy1z1EOwCAIA1Bk3P/MRsdQklLjx/plfLGgyGXMxN5ArMhyOOO5tZ3YGI9LoqucTy7U/Tf1Y2MKcHKNn7aZcVIFbyOBT9pqZy9AH9IoxxjtoHlTsJamteu5EOlLgtfpjOECgQ==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f3603f",
+      "4": "#f3603f"
+    },
+    "sz": 30
+  }
+}

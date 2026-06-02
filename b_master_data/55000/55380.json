@@ -1,0 +1,48 @@
+{
+  "round_id": 55380,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-19T15:44:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] アムラー",
+      "team": "ラー軍",
+      "emoji": "🤠",
+      "score": "80.47",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵お赤軍] 栄養分析表",
+      "team": "🇯🇵お赤軍",
+      "emoji": "👽",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "80.47",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤軍",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtklEOwCAIQ1vW+595EVk0ymb4Hz+aPiiNUeqFuUIbxwwx5Lg5ZfRklDzQ4C+zMZ5RACSa+0Yl9WBOLeENu7dkZmvHmQK8JK2Dz2KIje7YY0Web5qHTtRfKr1A+ltKDpXm07YbZq4Lwg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8c6",
+      "4": "#30e85e"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "round_id": 35348,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-07T22:23:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "戦場ヶ原ひたぎ",
+      "team": "",
+      "emoji": "🦀",
+      "score": "17.44",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ぬぬぬ] 爆弾/自認レゼ",
+      "team": "ぬぬぬ",
+      "emoji": "🐬",
+      "score": "0.15",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ぬぬぬ",
+      "score": "0.15",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklEOxSAIBFef9z9zs7Iogn2pP00YBxZTAEDvHUCLh2WdnjGaI36Flx6Z0dD8hBknys48Fi1BT+25TyxvFrnWSemqop1PbguzdsMeSrS+xtJt7hhjqL+pml2oreTJAIrbZYvNbjQuUd3PVKpnjh7W2At1L2WmH9F6DDWebN94GacOiW7NuvzFGUa5MDSbWMBvVowWiEnr7xYvln8RDwg9A1U=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830cb",
+      "4": "#60d411"
+    },
+    "sz": 30
+  }
+}

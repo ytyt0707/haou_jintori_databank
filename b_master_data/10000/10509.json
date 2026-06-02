@@ -1,0 +1,47 @@
+{
+  "round_id": 10509,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-01T01:28:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] チギュアってて草",
+      "team": "みん²",
+      "emoji": "🤔",
+      "score": "23.41",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵傷物語] Lose dog",
+      "team": "🇯🇵傷物語",
+      "emoji": "🐱",
+      "score": "15.60",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "23.41",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵傷物語",
+      "score": "15.60",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0EsOgCAMBNAxnfuf2Rgg/aPGhbMBeRQLgI1cGSN02uWjbth00+GNzi3A7jvkJ5XUptdXtQF7FTlUScbCpZyJLhadrhvQJN+ILqAejcykq02cFCWjLB5/t09V9/1MywcLHpZOlKIEvQ==",
+    "cp": {
+      "1": "#d26aec",
+      "3": "#f5eb61",
+      "4": "#f764bc"
+    },
+    "sz": 30
+  }
+}

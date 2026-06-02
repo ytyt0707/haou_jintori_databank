@@ -1,0 +1,48 @@
+{
+  "round_id": 10021,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-26T05:31:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳まんこ] いただきマウス",
+      "team": "🇻🇳まんこ",
+      "emoji": "🐲",
+      "score": "60.35",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "👻",
+      "score": "5.69",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳まんこ",
+      "score": "60.35",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳チギュ",
+      "score": "5.69",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10ksOgDAIBFAqc/8zG6xakKF+Ell00UeBJkjrIYAI7Aixa8MR/2lgpJDIbaJSAqvev41CU6F7zSlOSQH/dkkc2lLlE23JRN3Fax1ZRV/Vy8DBdDBF86nqB421a+VLZ4zq6Zn1ZGEnugKI/QlF",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#f8b359",
+      "4": "#68cef3"
+    },
+    "sz": 30
+  }
+}

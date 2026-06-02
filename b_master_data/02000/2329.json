@@ -1,0 +1,85 @@
+{
+  "round_id": 2329,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-08T02:17:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸俺] てすと",
+      "team": "🇺🇸俺",
+      "emoji": "👽",
+      "score": "25.75",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🦊",
+      "score": "17.49",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "🦁",
+      "score": "0.09",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪ナチス] ド騎士",
+      "team": "🇩🇪ナチス",
+      "emoji": "🤖",
+      "score": "0.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇺🇸うんこ] うんこアメリカ",
+      "team": "🇺🇸うんこ",
+      "emoji": "🐲",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸俺",
+      "score": "25.75",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うんち",
+      "score": "17.49",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇩🇪ナチス",
+      "score": "0.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇺🇸うんこ",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzd00kOgEAIBEAU/f+XzeDWQIN6lYtRKsAsivhQCJeYLfankvBuD8iSqrcTSEaI9QRS2FqjE+rsw4t644PlF++CKR3bnZn27V0cqlhHGr52xxmLtvsClyFeCu7y5Qnn27qDrl3BcBfsbZqyHKgbkc+XHF9vcn68GmoN6/G6DaQLyehyrl7N8Di6cvizU5YdZ6e8XMkMNtkTPZMv7k3LL23/FxvWQQce",
+    "cp": {
+      "1": "#62f9db",
+      "2": "#f1e0a2",
+      "3": "#ef8f99",
+      "4": "#98f782",
+      "5": "#ec87f7"
+    },
+    "sz": 40
+  }
+}

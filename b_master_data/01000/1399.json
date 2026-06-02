@@ -1,0 +1,103 @@
+{
+  "round_id": 1399,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-05T22:02:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "x",
+      "team": "",
+      "emoji": "😀",
+      "score": "13.54",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🤖",
+      "score": "13.32",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 彩喜",
+      "team": "猛虎軍",
+      "emoji": "👽",
+      "score": "10.81",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[彩の国] 埼玉",
+      "team": "彩の国",
+      "emoji": "💩",
+      "score": "9.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] キングぷゆーゆ",
+      "team": "猛虎軍",
+      "emoji": "👽",
+      "score": "9.29",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[日本軍] まりも",
+      "team": "日本軍",
+      "emoji": "🐶",
+      "score": "3.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "😂",
+      "score": "1.37",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "33.42",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "彩の国",
+      "score": "9.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "日本軍",
+      "score": "3.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "チー牛",
+      "score": "1.37",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt09uuhCAMBdC6N8f+/x9PpC2Uyzg8nEYDicsWKorM8VevmE5RpJR4uAlUk0MEWBkwse+uTHGYb+dwVBfILobFYXQlOezY2pbs0J2sDgxGUgZ3XXXw10kSxhZ3jYzDxL/uw5JDPMbkHqaq2pzfMEYmV0pJjtVpDbqL1XVIPpm0Mfo+Lm+LO4UiVGWRL5g2hoHF+sqYz7Sr+26uwQ0bnGRX+6OqtweTM6ktEVSZWHJiZ7k17at7QjuLuty5DiW75Xc3u+TbO2kNfuyLM1m/r61OX5wfg/02ElyOy96xr/LNpfK/mZU/ckdlReSQGfw/duwk1AcWjQ8S",
+    "cp": {
+      "1": "#557cfc",
+      "2": "#e84ae0",
+      "3": "#e84ae0",
+      "4": "#90effd",
+      "5": "#e47258",
+      "6": "#8eec6f",
+      "7": "#e84ae0"
+    },
+    "sz": 40
+  }
+}

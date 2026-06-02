@@ -1,0 +1,111 @@
+{
+  "round_id": 5910,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-16T04:20:26.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🦊",
+      "score": "11.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😎",
+      "score": "10.29",
+      "kills": 12
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤔",
+      "score": "7.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "0.76",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦄",
+      "score": "0.18",
+      "kills": 5
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "0.08",
+      "kills": 5
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[みん²] すもすかめん",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "45.17",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵万華郷",
+      "score": "11.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵田中",
+      "score": "10.29",
+      "kills": 12
+    },
+    {
+      "rank_position": 4,
+      "team_name": "楚",
+      "score": "0.84",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "team_name": "みん²",
+      "score": "0.18",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyFktsOwzAIQ52gAsv/f/AEuRGaaVafOLFx2kJMAEBEVLvgKoAEnbTgpEKHNXlFah3xBrPZGNFwFs9Oqx0XV9+Q8aQDY+99iFRVA1v8qV5Li9qjk1ke99jaza5IuXeijaOZmH/QOZ8UkepJSYKZwRa6T4jIory06fKOId+D08rUmV8Y4XVwxn4JQ7NUxhbeoKPxe3Vrrb0pNqVr8OjtZ3/QDy16d9OMvtL+8e4w/FW4jP7rC6V7DDQ=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#de50f1",
+      "5": "#8ce43a",
+      "6": "#de50f1",
+      "7": "#58f362",
+      "8": "#9755e7",
+      "9": "#ecd674",
+      "10": "#ecd674"
+    },
+    "sz": 30
+  }
+}

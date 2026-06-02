@@ -1,0 +1,57 @@
+{
+  "round_id": 41759,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-18T11:26:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] も",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "29.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "1.87",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[泳者] 鹿紫雲一",
+      "team": "泳者",
+      "emoji": "🙂",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "30.93",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "泳者",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkgsOxCAIRIFZ7n/lzQBa0G6ypAnC46tVDZFUqipdtpeHDuL8P71Sq1+ogmhBKioa33Z2jG4wYjgwLNJdZMbCwj6ou9PjVjSq9eWdUhRXMzJ6ASk16m8KwM5BRWAWfqbanFsEbpQsm8M/tYEOkfMtzGF2Zsy1SFxedqu6oURi+007i06VP/3LWrkvQTHk4CsptZ2D5z3Bcr1Bn8ysOmDdfsUwoK089/octzUpH+J37vX+/BlPmZ0v6wsqwgQ6",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e8d7",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "round_id": 12501,
+  "game_mode": "TEAM",
+  "player_count": 14,
+  "played_at": "2026-02-05T13:10:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ゲスト] ゲスト",
+      "team": "ゲスト",
+      "emoji": "🐲",
+      "score": "26.44",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 前川右京",
+      "team": "みん²",
+      "emoji": "🦄",
+      "score": "16.74",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇰🇷慶尚道] ティンコゥ",
+      "team": "🇰🇷慶尚道",
+      "emoji": "🤔",
+      "score": "9.78",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵オウム] 島田兵",
+      "team": "🇯🇵オウム",
+      "emoji": "🐶",
+      "score": "9.39",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦄",
+      "score": "8.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🦊",
+      "score": "4.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "😀",
+      "score": "4.32",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "😂",
+      "score": "3.06",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵オウム] 麻原彰晃",
+      "team": "🇯🇵オウム",
+      "emoji": "💩",
+      "score": "3.02",
+      "kills": 1
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🐱",
+      "score": "2.20",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ゲスト",
+      "score": "26.44",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "26.26",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵オウム",
+      "score": "12.41",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇰🇷慶尚道",
+      "score": "9.78",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵万華郷",
+      "score": "4.50",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJx901mSxCAMA1CB0wYD9z/vlAxhSXdGn3klMBQBkBkASEgJMyGETteVgTRD6HG7yEvTplfPv7qvPBljZZ/ju3zvG/FradfILA7bvjmOYCFOra5yX8PWzbVWVwgO9muMQ00fXQAZ1RVUFZFDI+KomnaemgK/mql55NCUAuyOuOpUHo1FVTURV9lX7lX1dD02DhNV7+6uurBr2VT1wUXKm3q7LMZ3eVN9Ktq7mrRS1ly/dI39QJPWfLKXfRvn4ty8FT1Y5NM4NOPKu+Wx+AjEWhv/WOEjwR+/Cg8f",
+    "cp": {
+      "1": "#6a53e9",
+      "2": "#efe76b",
+      "3": "#f8b659",
+      "4": "#f98e66",
+      "5": "#f83058",
+      "6": "#375beb",
+      "7": "#f070d9",
+      "8": "#31f2e2",
+      "9": "#375beb",
+      "10": "#f8b659",
+      "11": "#aaf344",
+      "12": "#375beb"
+    },
+    "sz": 30
+  }
+}

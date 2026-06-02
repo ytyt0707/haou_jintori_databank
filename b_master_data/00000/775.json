@@ -1,0 +1,76 @@
+{
+  "round_id": 775,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-04T12:19:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ソロ] よっぴ絵師転向",
+      "team": "ソロ",
+      "emoji": "😈",
+      "score": "19.25",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[V8] 荒らし",
+      "team": "V8",
+      "emoji": "😍",
+      "score": "2.88",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[444] 🦷",
+      "team": "444",
+      "emoji": "🐷",
+      "score": "1.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] ムホホ",
+      "team": "猛虎軍",
+      "emoji": "🐱",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ソロ",
+      "score": "19.25",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "V8",
+      "score": "2.88",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "444",
+      "score": "1.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "猛虎軍",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN01EKgDAMA9Aae/8zi5vQdrZbfpQFPx8JFSbyQ5RkSkH90h3tK6CpJ0Q7Y3oh6YSRra50CLt5H+BdHdzxdZIVnsPu/L8EFyDcnB8eHGAQiDBh7VbOgXO+eR+XwJSZm9+bFBbuBUlXsQHWLMAZ80evwqkOGca9tC1zAXofApg=",
+    "cp": {
+      "1": "#fb4bfb",
+      "2": "#f15063",
+      "3": "#96aced",
+      "4": "#a0f58e"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "round_id": 7134,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-18T22:31:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ゲスト] ゲスト",
+      "team": "ゲスト",
+      "emoji": "🦄",
+      "score": "41.78",
+      "kills": 16
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🐷",
+      "score": "7.26",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🦄",
+      "score": "1.26",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ゲスト",
+      "score": "42.97",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "7.26",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵万華郷",
+      "score": "1.26",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0wEOhDAIBMDdUsP/f3wplAq2eiQadVwwWgGICGzvBTutJbnmNU6qGDdw4h89Ms9zR5HkK34rk+5TicV7X9x40NT5gJ/qjfkSvXVdurLikb2WjiP6e1RV0ZLFZYWpqnVm+ri3oqqNzdkeyKHjkbICTSKY1bp2oEWQW+eitslD/RV4MFRFeu+ttca71lxNWW/qvHc2jTVTkD43rSjTWH2t/CODsf9VoT9xtQct",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f9679d",
+      "4": "#f9679d",
+      "5": "#d6f127",
+      "7": "#edaa45"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "date": "2026-06-02",
+  "task_history": [
+    {
+      "timestamp": "2026-06-02T23:45:29.087997",
+      "status": "success",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "最新試合IDの確認および差分履歴データの取得完了",
+          "previous_last_id": 61546,
+          "current_last_id": 61577,
+          "target_limit": 31
+        },
+        "step2": {
+          "status": "success",
+          "message": "新着試合データの個別ダウンロード完了",
+          "success_count": 31,
+          "skip_count": 0,
+          "error_count": 0
+        },
+        "step3": {
+          "status": "success",
+          "message": "JST時刻変換済みのマスターデータビルドが正常に完了しました。",
+          "new_created_count": 31,
+          "skip_count": 61546,
+          "rescued_count": 0,
+          "created_id_ranges": "61547-61577"
+        },
+        "step4": {
+          "status": "success",
+          "message": "新着試合分の個人分析データを高速アペンドしました。",
+          "updated_players_count": 34,
+          "new_players_count": 11,
+          "skipped_nanashi_count": 28
+        },
+        "step5": {
+          "status": "success",
+          "message": "新着試合分のチーム分析データを高速アペンドしました。",
+          "updated_teams_count": 10,
+          "new_teams_count": 2,
+          "processed_team_rounds": 15
+        },
+        "step6": {
+          "status": "success",
+          "message": "新規試合分の時間統計データを正常に累積集計しました。(ユニーク数バグ修正完了)",
+          "processed_files_count": 31,
+          "updated_time_buckets_count": 2
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-02T22:04:34.352349",
+      "status": "running",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "最新試合IDの確認および差分履歴データの取得完了",
+          "previous_last_id": 61469,
+          "current_last_id": 61546,
+          "target_limit": 77
+        },
+        "step2": {
+          "status": "success",
+          "message": "新着試合データの個別ダウンロード完了",
+          "success_count": 77,
+          "skip_count": 0,
+          "error_count": 0
+        },
+        "step3": {
+          "status": "success",
+          "message": "JST時刻変換済みのマスターデータビルドが正常に完了しました。",
+          "new_created_count": 77,
+          "skip_count": 61469,
+          "rescued_count": 0,
+          "created_id_ranges": "61470-61546"
+        },
+        "step4": {
+          "status": "success",
+          "message": "新着試合分の個人分析データを高速アペンドしました。",
+          "updated_players_count": 77,
+          "new_players_count": 25,
+          "skipped_nanashi_count": 61
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-02T17:56:58.673696",
+      "status": "running",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "最新試合IDの確認および差分履歴データの取得完了",
+          "previous_last_id": 2054,
+          "current_last_id": 61469,
+          "target_limit": 59415
+        },
+        "step2": {
+          "status": "success",
+          "message": "新着試合データの個別ダウンロード完了",
+          "success_count": 457,
+          "skip_count": 58958,
+          "error_count": 0
+        },
+        "step3": {
+          "status": "success",
+          "message": "JST時刻変換済みのマスターデータビルドが正常に完了しました。",
+          "new_created_count": 61469,
+          "skip_count": 0,
+          "rescued_count": 0,
+          "created_id_ranges": "1-61469"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-02T17:54:46.689648",
+      "status": "running",
+      "error_reason": null,
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-02T17:39:38.554936",
+      "status": "running",
+      "error_reason": null,
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-02T17:32:14.025578",
+      "status": "running",
+      "error_reason": null,
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-02T17:29:32.443301",
+      "status": "running",
+      "error_reason": null,
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-02T17:00:54.118536",
+      "status": "running",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "最新試合IDの確認および差分履歴データの取得完了",
+          "previous_last_id": 2054,
+          "current_last_id": 61452,
+          "target_limit": 59398
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:57:31.246643",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザ自動操縦システムエラー",
+          "previous_last_id": 2054,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:55:30.853784",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "システムエラー発生",
+          "previous_last_id": 2054,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:54:16.566171",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-02T16:51:13.299454",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "HTTPError発生",
+          "previous_last_id": 2054,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:47:03.660466",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "HTTPError発生",
+          "previous_last_id": 2054,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-02T16:45:20.417641",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "HTTPError発生",
+          "previous_last_id": 2054,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    }
+  ]
+}

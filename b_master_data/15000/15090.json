@@ -1,0 +1,81 @@
+{
+  "round_id": 15090,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-14T16:49:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇹🇼🇹🇼楚] 泉サキ",
+      "team": "🇹🇼🇹🇼楚",
+      "emoji": "🤔",
+      "score": "24.40",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 千石撫子",
+      "team": "神撫子",
+      "emoji": "🦄",
+      "score": "13.46",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👻",
+      "score": "1.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇹🇼🇹🇼楚] イスラム教徒",
+      "team": "🇹🇼🇹🇼楚",
+      "emoji": "😍",
+      "score": "0.57",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[神撫子] 初心者🔰",
+      "team": "神撫子",
+      "emoji": "😈",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇹🇼🇹🇼楚",
+      "score": "24.96",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "13.53",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ゲスト",
+      "score": "1.88",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0kEShSAMA9DyTcP9b+wgCBUi4+/CzZsUSjX7v35b3OuHxry+AHSWrAqDO6KyICsC7u5z56GP9kMhNEStx2dNRToHSomWamcZJm9VJ7NdWSBrhYEiK50xqO00LoM5r9mRzI1NvWTR4oe6M2+dJkJX5nVePG78dm4zvXzxVsvqL21ub7XF9t/KOgEgwgbx",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#5194e6",
+      "4": "#efb052",
+      "5": "#efb052",
+      "6": "#5194e6",
+      "7": "#32ec9e"
+    },
+    "sz": 30
+  }
+}

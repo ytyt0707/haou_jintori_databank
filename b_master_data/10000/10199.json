@@ -1,0 +1,100 @@
+{
+  "round_id": 10199,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-26T15:09:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 日清羅王",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "29.18",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "28.58",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 山上徹也",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "15.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵グリコ] けんた",
+      "team": "🇯🇵グリコ",
+      "emoji": "😎",
+      "score": "7.25",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵🥺] フェラチオ侍",
+      "team": "🇯🇵🥺",
+      "emoji": "💩",
+      "score": "3.18",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "😍",
+      "score": "0.28",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "44.52",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "29.18",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵グリコ",
+      "score": "7.25",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵🥺",
+      "score": "3.18",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇨🇳チギュ",
+      "score": "0.28",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0sEOhCAMBNBJmLb+/xdvbAULlD3szkl9DNQoCQCXvbnvoaoKgCSNNqs+ceVfykn1rNdXRVb43HboxkvVQ+lWNXDrJie13tkvCuVQVspAT6Epk94PxgpUmiPy0PuFLaGs3Vclq4JYcenO+y4a1k7d0Nb2Ywc350O3eeR35UnZj0WpHEN1RWgsQI/0fxX4AG6MD9k=",
+    "cp": {
+      "3": "#ef6d3e",
+      "4": "#da5ceb",
+      "5": "#58e9ee",
+      "6": "#f6ae31",
+      "7": "#da5ceb",
+      "8": "#3df078"
+    },
+    "sz": 30
+  }
+}

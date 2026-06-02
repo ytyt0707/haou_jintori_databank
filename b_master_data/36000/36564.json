@@ -1,0 +1,48 @@
+{
+  "round_id": 36564,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-09T07:16:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[野獣] 爆弾/自認レゼ",
+      "team": "野獣",
+      "emoji": "😈",
+      "score": "12.64",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] チンポジ侍",
+      "team": "🇯🇵ONJ",
+      "emoji": "💩",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "野獣",
+      "score": "12.64",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkIsOgCAIRa/m/39zA7whmLpia0pnRx7AE0XCstbjYQAIyVpLVGVSBCpywANVZJiy02JmcKey2jTdkXrTUIzYM/q0gGD9os1sT3VUb5lSP1PJL/SkLmv2gVItT2UZng03W+L1Dm1BotZBma71QDe8akwv8kcTzCSf5q6wiiuIzbNSZl00N/EvvwFBMwIz",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e83053"
+    },
+    "sz": 30
+  }
+}

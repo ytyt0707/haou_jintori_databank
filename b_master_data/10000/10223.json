@@ -1,0 +1,62 @@
+{
+  "round_id": 10223,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-26T16:27:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵うんち] ぷゆゆ侍",
+      "team": "🇯🇵うんち",
+      "emoji": "🐱",
+      "score": "46.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵大阪や] 大阪府民",
+      "team": "🇯🇵大阪や",
+      "emoji": "💩",
+      "score": "0.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵阪神] うんこ",
+      "team": "🇯🇵阪神",
+      "emoji": "😀",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "46.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵大阪や",
+      "score": "0.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJylz0sOwCAIBNCRzv3P3EhagyiTxhI3+vgIkMNgPZb3l0foBKkVQk1G8TFKrYpJMmDr0ycMbGzGrMNJNs7i6iemsoyMqZMvKWqn5munevSy0l63fK44V0D9GapvqdeP2g/bho1y+nO9AXCnBvk=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#9a22f7",
+      "4": "#c3ee6d"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "round_id": 23416,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-10T00:58:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "練習中",
+      "team": "",
+      "emoji": "🦁",
+      "score": "41.56",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[白旗↑] レスバの覇者",
+      "team": "白旗↑",
+      "emoji": "👽",
+      "score": "6.88",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しTI",
+      "team": "",
+      "emoji": "🦁",
+      "score": "0.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無し8L",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.89",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇬🇧革命軍] ┃ᶜʳᵃᶻʸ┃",
+      "team": "🇬🇧革命軍",
+      "emoji": "🐷",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "白旗↑",
+      "score": "6.88",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.89",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇬🇧革命軍",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkAsOhEAIQwvT8f5H3vAfd81GEg3yaAEVvyEdqth7A/ZMBOaC7oxhAEhvGBpiVesSiqwlYp4Rrg0YUnI1TKn3sKJoTA1bFGTSgP6WBfK6vCOolVWR0i/qTD0A27S15VkQIhznojCcv+GB2mBfJcSxVWsB7UsqOeCcaRA8kY08I9n0HLB0UYqvwXfqBgPb7yhN6lJrmdJk5ftIBz5o/8Le6Da2XV5rW3HfuOyn2tlra9Ju9rsPTaYf8lsHqg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30e84d",
+      "5": "#af30e8",
+      "6": "#e87530"
+    },
+    "sz": 30
+  }
+}

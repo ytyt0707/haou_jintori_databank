@@ -1,0 +1,66 @@
+{
+  "round_id": 9541,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-25T03:34:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "49.77",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] パンテオン",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "32.66",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[自民党] アベベ",
+      "team": "自民党",
+      "emoji": "🐶",
+      "score": "1.73",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[自民党] 忍野忍",
+      "team": "自民党",
+      "emoji": "🐲",
+      "score": "1.20",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "82.43",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "自民党",
+      "score": "2.92",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNk1sOxSAIRIfy2P+SG0S9qNTc+dDIYRAaq7rr0cc3wFdRFfFTwkA/QZp6SlCgYV9lqqc/Qbu8esIRNItddPU2bobAqfJIAdgTDIyIq4waDTPAZmxOfZpou2Pu8okCTiqRz4ygmsHS4GxHtKBIkdOdqR5mp/ikudh5sdTary1H+oBy8x7j/kN/r6ui2/ssafGdFy9dKCnRhVLtFSc0KMqmKRfGJhr/AV59bQ1V",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#7540e7",
+      "4": "#ea53b5",
+      "5": "#ea53b5",
+      "6": "#7540e7"
+    },
+    "sz": 30
+  }
+}

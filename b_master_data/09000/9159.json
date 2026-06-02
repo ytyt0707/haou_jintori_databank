@@ -1,0 +1,81 @@
+{
+  "round_id": 9159,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-24T06:54:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😂",
+      "score": "51.16",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳チー牛] 中核派",
+      "team": "🇨🇳チー牛",
+      "emoji": "🐱",
+      "score": "10.76",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳チー牛] チギュりパンで草",
+      "team": "🇨🇳チー牛",
+      "emoji": "🤖",
+      "score": "4.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇳チー牛] 爆弾/自認レゼ",
+      "team": "🇨🇳チー牛",
+      "emoji": "😂",
+      "score": "2.29",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "👽",
+      "score": "0.64",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "51.16",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳チー牛",
+      "score": "17.14",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵田中",
+      "score": "0.64",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0lEShCAMA9AASbn/jXcq3QWhOps/fbRFBNhTImSZL8mpIOkLpl1ZH0M5A6C11kjLlGjmbD/lXdtQS9Q701mSzs6+gjRdykQJmplJRKZRW/JaMhqH9n4gZd/SfmdJZir6Ne47+r4extrQ46xizx6gPqtUak1V5s3rgzJ03RZ29dn5UfrkoQdbBPl/WDX7JL2o+FZLYtHkgkze7vxQbHg7mj/yAZF0Csg=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#5496f2",
+      "4": "#f55bc2",
+      "5": "#5496f2",
+      "6": "#5496f2",
+      "7": "#d758f3"
+    },
+    "sz": 30
+  }
+}

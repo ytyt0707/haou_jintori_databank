@@ -1,0 +1,47 @@
+{
+  "round_id": 16949,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-19T06:48:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ｍｅｉ] 正体不明",
+      "team": "ｍｅｉ",
+      "emoji": "🦄",
+      "score": "78.86",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "10.22",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ｍｅｉ",
+      "score": "78.86",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "10.22",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzd0dEKwCAIheHffP93Hg0lWdPGusuboK8TZgC0XjoKfHWMOk6Z/VAtMSq5Pvcl6oSl1lkL5yorTcconW+d32l9QdNE7a9eZuSayllKqR9v3giXWRZ1Aeq0CRQ=",
+    "cp": {
+      "1": "#ec5b7f",
+      "2": "#e5c243",
+      "3": "#2bf3e9"
+    },
+    "sz": 30
+  }
+}

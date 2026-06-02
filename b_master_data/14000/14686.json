@@ -1,0 +1,48 @@
+{
+  "round_id": 14686,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-13T18:58:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[おうむ] 麻原将校",
+      "team": "おうむ",
+      "emoji": "😍",
+      "score": "28.48",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇸🇦過激派] イスラム教徒",
+      "team": "🇸🇦過激派",
+      "emoji": "😈",
+      "score": "24.30",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "おうむ",
+      "score": "28.48",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇸🇦過激派",
+      "score": "24.30",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0FEOgCAMA9DCev8zG0BwbGMx/tgYE/YoREmSAEgKZAQrVBGTXOW7wmhNulITdc1NPSr1pj84RbvB/0qPWmFtO7mtjzpH5Xnb7oJyLPeEF08cG4Iu2nw8ASK4F4nCRqvDW3FQvNF/cgHHzwbG",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#a0f934",
+      "4": "#4ef9ac"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "round_id": 58000,
+  "game_mode": "TEAM",
+  "player_count": 17,
+  "played_at": "2026-05-25T13:24:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "27.94",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無し無名",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦄",
+      "score": "24.23",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しa9",
+      "team": "🇯🇵ONJ",
+      "emoji": "😄",
+      "score": "8.31",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ラー軍] ホルス神 𓅃",
+      "team": "ラー軍",
+      "emoji": "🦅",
+      "score": "4.62",
+      "kills": 10
+    },
+    {
+      "rank_position": 5,
+      "player_name": "たぬ",
+      "team": "",
+      "emoji": "😂",
+      "score": "4.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[東卍] マイキー",
+      "team": "東卍",
+      "emoji": "😄",
+      "score": "3.63",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[ラー軍] セクメト神",
+      "team": "ラー軍",
+      "emoji": "🌟",
+      "score": "2.34",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[ラー軍] ポジマンディアス",
+      "team": "ラー軍",
+      "emoji": "💖",
+      "score": "1.27",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[東卍] ペケJ",
+      "team": "東卍",
+      "emoji": "🐱",
+      "score": "1.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[東卍] ドラケン",
+      "team": "東卍",
+      "emoji": "🐉",
+      "score": "0.66",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "32.55",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "27.94",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ラー軍",
+      "score": "8.27",
+      "kills": 14
+    },
+    {
+      "rank_position": 4,
+      "team_name": "東卍",
+      "score": "5.38",
+      "kills": 9
+    },
+    {
+      "rank_position": 5,
+      "team_name": "ぬと殺",
+      "score": "0.33",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kUuSxCAMQ5VOOZ2yMKHvf9kpm29YjDcJPEsyIAIA6VU2SkTM7AVThzTpuG5FW6fW6dhwPBb/0l/QGAxN8ezaSht+nmkcWj8T0MUzNi20SypNydJOz9ES6cnP243Pc6ER5FRAAjSnrGoN/09QkpkshYWs16rqXUFB5qAlk0YyqdOUIlcYVXIuhWakqar6nSKsxa1LdgcPdm3gRjMzyJLrUJ+P85QQ1ERyK9j3a2a3qqLCai5CSgZwRwXupH9xTKottjORQav3BPGHo1vfkbzJcRw1uN7+Nhqw05cc/mbXdQ3ti8aTrnSbzJeLNtq3lmmMyFr9V+Zj+3rKG/0D8tYadQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "5": "#e83098",
+      "6": "#4d56e5",
+      "7": "#e85330",
+      "8": "#30e881",
+      "10": "#4d56e5",
+      "11": "#e88730",
+      "12": "#9ca3af",
+      "13": "#9ca3af",
+      "14": "#e88730",
+      "15": "#73d411",
+      "16": "#e88730",
+      "17": "#e88730"
+    },
+    "sz": 30
+  }
+}

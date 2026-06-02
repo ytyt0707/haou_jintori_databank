@@ -1,0 +1,65 @@
+{
+  "round_id": 14626,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-13T15:43:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しVZ",
+      "team": "",
+      "emoji": "🐶",
+      "score": "56.28",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵陽キャ] 蒙驁",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤖",
+      "score": "2.30",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤠",
+      "score": "0.25",
+      "kills": 11
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "😈",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵陽キャ",
+      "score": "2.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "0.25",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0VEOgDAIA1Amjfc/skHcJKMQbfwweyubUeQNANkCi6iq+htRTNwYu4Io2i4Qu6h0bYKrPTLXdVfECSFLGbo+x+cdQUl9rq7uyfQ+OddDmcxeCnYx9rdalUodDq7tYHrlEvEJs8Tmf23OHJaSR/etkkKWLBfeLghN",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#57efa1",
+      "4": "#52ea34",
+      "6": "#f344ca"
+    },
+    "sz": 30
+  }
+}

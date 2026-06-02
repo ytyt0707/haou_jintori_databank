@@ -1,0 +1,41 @@
+{
+  "round_id": 7248,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-19T04:41:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "進撃の巨人",
+      "team": "",
+      "emoji": "🤔",
+      "score": "48.38",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 爆弾の廃人",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "0.93",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "4.38",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJylkIsKwCAIRS/o/f9fHhWZpsXGZMTweHscQGdhfFgd7b++4QttFGOt6YCnbJ0zWqMrxY/sO3qEO6Xs1EOGK3fDa8BHTTFCFst9tEyGbtAMtGyGs0gmuOZratdM1L2vZXmK3ml1cFCez4U2f5I1zKyoFJJsZ3FZJnrcWs3y53oAveQHtA==",
+    "cp": {
+      "3": "#6dd0ee",
+      "4": "#49f849",
+      "5": "#6dd0ee"
+    },
+    "sz": 30
+  }
+}

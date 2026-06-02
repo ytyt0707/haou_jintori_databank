@@ -1,0 +1,57 @@
+{
+  "round_id": 13756,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-11T16:41:53.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵🌊] 爆弾/自認レゼ",
+      "team": "🇯🇵🌊",
+      "emoji": "🐲",
+      "score": "33.55",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵猛虎軍] 珍カス",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "😎",
+      "score": "0.21",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵🌊] Big Wave",
+      "team": "🇯🇵🌊",
+      "emoji": "😍",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵🌊",
+      "score": "33.63",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "0.21",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9k1kOxCAMQ23quf+VR1CyoVB/VILXEJIYgABFSWj0kqW5OqiSuFQobd8oLWp96ULQnUoZ+2/6omRQfNAu0mlPkEtMhA9fOBfXnDc6gbWti6XhPYpeyLTcced2mivwoVnPe8pNRz7Y/BDzGopSnU5fYS2He0hB0xXDQ+G0jrJQllO7EZ5ZVfrc0Hvsr9Iz9fRmHa15RvEawOOBmP56mgaa",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#bff73b",
+      "4": "#bff73b",
+      "5": "#2f7cee"
+    },
+    "sz": 30
+  }
+}

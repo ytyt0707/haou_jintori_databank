@@ -1,0 +1,55 @@
+{
+  "round_id": 1718,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-06T15:22:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵倭国] 国旗機能🌟",
+      "team": "🇯🇵倭国",
+      "emoji": "😈",
+      "score": "15.02",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "👻",
+      "score": "0.61",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇷🇺ソ連] 囲う",
+      "team": "🇷🇺ソ連",
+      "emoji": "🦄",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵倭国",
+      "score": "15.02",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺ソ連",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzdlNsOgCAMQ2f3//9svEScD9uZ0ZjYR3IoBQpmf5P0dYK3JMnA5rSJMAUoY9gud3dit2DZNWkYpisPLg+oqGN8WjMF6owndtcplTBoGLSG47OG/IWFw2UJVJYcVfIWh8JxLsfaXIFhrtPG+ruZATuAAfg=",
+    "cp": {
+      "1": "#353ffd",
+      "2": "#fa6679",
+      "3": "#3ff375"
+    },
+    "sz": 40
+  }
+}

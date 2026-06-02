@@ -1,0 +1,57 @@
+{
+  "round_id": 54720,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-18T04:04:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 爆弾/自認レゼ",
+      "team": "🇯🇵ONJ",
+      "emoji": "💣",
+      "score": "65.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "19.68",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "😉",
+      "score": "1.69",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "84.89",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "1.69",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9k0kWxCAIRLHA+1+5XzFEJWbbbCR8C1CMSDejVVCbOcyYCJ0556xNpGrx1SjjjjdqqfWklJa5ljQ0wQnHUGhkVs2MiyqGqnpXpLtRDGDRHROaGRSl3SnTqAFYtOOT7nXDp9a93lZgSfoWeqTTSFWbUc51/TP11ljzWtev7ZPGWVP7uuGTtunG0YGom+O83Ed2dU9+7/nJ0qfwAHcg51ROWn9TW/mm+DR+RTAL6w==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#e830dd"
+    },
+    "sz": 30
+  }
+}

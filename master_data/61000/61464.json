@@ -1,0 +1,56 @@
+{
+  "round_id": 61464,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-02T17:38:31.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "厂",
+      "team": "",
+      "emoji": "🩸",
+      "score": "21.37",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[Yやで] わいやでー",
+      "team": "Yやで",
+      "emoji": "👾",
+      "score": "13.97",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 🥺",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "2.12",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "Yやで",
+      "score": "13.97",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.12",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklsORCEIQxvl7n/LE15WIDO5w4/CoUWNIlegBxmkM4BUZPKbinT5oFo4I4KWCYNWi679gx5pnecOhEa3hvcB9dKGlB58aZHUGqpwrYQuuB4CwFqhDTe+g8NK6fxooNHEyroxT+vK0LIcO7Mdxtn2+CZulNW2vqFNwtTFzOvuJ425u0oye3GqbB2raUc1C3tD/8WX+AAHnATq",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#30e892",
+      "4": "#e83064",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "round_id": 51456,
+  "game_mode": "SOLO",
+  "player_count": 4,
+  "played_at": "2026-05-10T19:35:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "トラック",
+      "team": "",
+      "emoji": "🚚",
+      "score": "0.89",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "爆弾/自認レゼ",
+      "team": "",
+      "emoji": "💣",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eAFjYMAOmMAAuxwDAxMTMxMTEy5ZBga8soT0MuM2l4GBmQJZfOaOyg3pEGBkxHA+C5IIFmmiZRkwjUbSSw0mAM8fAEs=",
+    "cp": {
+      "1": "#e8a930",
+      "2": "#47e830",
+      "3": "#8b4de5",
+      "4": "#e83064"
+    },
+    "sz": 30
+  }
+}

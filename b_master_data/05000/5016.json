@@ -1,0 +1,63 @@
+{
+  "round_id": 5016,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-14T03:59:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🐲",
+      "score": "27.30",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "😈",
+      "score": "13.78",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵共犯者] おなにーすもす",
+      "team": "🇯🇵共犯者",
+      "emoji": "🐱",
+      "score": "0.79",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "27.30",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "13.78",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵共犯者",
+      "score": "0.79",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0tEShSAIBNCV4P9/+Q5d0oXQ9qEczyCmAR8xDwBVjZk5CHTWf563EhJvFHuNhoXJvrSyHZQ29dpX+t6bzbJhQWqRFFmlHnOPRR2klM6ICCQrGCmlVg5K89dLueq6GbJZNpTut9P117EXtUfRrCxdVt9Wcap1XzrGaIrjxOeWElMkbs+fPvoBCBwIsA==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#94f35e",
+      "4": "#f0884c",
+      "5": "#f966c1"
+    },
+    "sz": 30
+  }
+}

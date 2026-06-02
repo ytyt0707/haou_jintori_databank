@@ -1,0 +1,57 @@
+{
+  "round_id": 48593,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-04T08:41:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵亡鬼血] 亡き亡き",
+      "team": "🇯🇵亡鬼血",
+      "emoji": "💀",
+      "score": "16.08",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵亡鬼血] ぬぬ",
+      "team": "🇯🇵亡鬼血",
+      "emoji": "😂",
+      "score": "2.72",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しJE",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.95",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵亡鬼血",
+      "score": "18.80",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.95",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9keEaBREIRAfT+7/y/SYXseHP4nQqLXCucl6Ec2ktnMKWJFtrN9ccllLAIEEWACOLVkTOBBVjPGCnQjRTjsQN9JuYhFTb2lGYW45EL1jIeu8x9d/1lu5UUfWTeJUma60xbd+PxvCiBBJ1PIrIEkOj0Nrc0CB9KpbLs9Gs7oJPuhWezto85fRJ063ptAZ+QmjSr9JPmP6HUff4/gAahAMo",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30e8a3",
+      "5": "#30e8a3"
+    },
+    "sz": 30
+  }
+}

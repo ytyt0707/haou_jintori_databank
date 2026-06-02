@@ -1,0 +1,78 @@
+{
+  "round_id": 26360,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-17T07:54:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新鯖♡] 新鯖♡",
+      "team": "新鯖♡",
+      "emoji": "❤️",
+      "score": "56.15",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "5.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵粘着茸] 利敵します",
+      "team": "🇯🇵粘着茸",
+      "emoji": "😃",
+      "score": "4.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🧠] 🧠",
+      "team": "🧠",
+      "emoji": "🤠",
+      "score": "0.58",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新鯖♡",
+      "score": "56.15",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "5.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵粘着茸",
+      "score": "4.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🧠",
+      "score": "0.58",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkMESxCAIQ4GC///JnQACdreHnVkOreaRoDJ3mVaJCIlIM2YrLFHKBm7+a6qiIqIaXvOeYcaITQGJWG24/QjkwcZERKA12qknmwEelJoiF1Xe63KIU8XUNIe6qRs4kiMN/KAJm0aCagz071pbrP8PdOnDfngXwmdD01VVY/tUkJK/0MANy5sS3A/a2weEtyFWbt3aB43exLjRaZ47v+8UjnW8xiGNTb7VUObyD/Tl3JmMe33puAH0UgqV",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30c6e8",
+      "4": "#514de5",
+      "5": "#8B4513",
+      "6": "#e83064"
+    },
+    "sz": 30
+  }
+}

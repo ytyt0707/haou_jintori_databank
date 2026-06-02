@@ -1,0 +1,51 @@
+{
+  "round_id": 9041,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-23T15:18:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] a",
+      "team": "みん²",
+      "emoji": "👽",
+      "score": "48.28",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦊",
+      "score": "33.64",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ティンコゥ",
+      "team": "",
+      "emoji": "🐷",
+      "score": "1.37",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "81.92",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0VkOxCAMA1APJve/8qhhMwkVUv1TqkdYAnALPT4wahbSPIt+WRlrOzGZasN63LdpraKQfbPGM5O7ynVTCvHOpZgN9cuYdMVKsXAjm9b+t04FowGzQ4mf2jD9rr3rZruuR+y1AQa3T9fDCofakG+K1zPLnItSGsTQLHlcH86lfKD4JKyslBhEztgU+AOJ2Qwb",
+    "cp": {
+      "1": "#f97453",
+      "2": "#7bf75f",
+      "3": "#ec51b3",
+      "4": "#f5d547",
+      "5": "#ec51b3"
+    },
+    "sz": 30
+  }
+}

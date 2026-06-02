@@ -1,0 +1,42 @@
+{
+  "round_id": 6542,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-17T14:31:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "愚愚",
+      "team": "",
+      "emoji": "👽",
+      "score": "23.92",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵楚] シリケツ",
+      "team": "🇯🇵楚",
+      "emoji": "💩",
+      "score": "3.67",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵楚",
+      "score": "3.67",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0MEOgDAIA9Bq+f9vNpkjASwcvGhP2x5kG8CLnL2sjCXYFR+HBH0hMGSdHKO2vZXJiYtlfuDEWkMRzMx030brbs5Yp6HVn5sxKm7VX0Kvvs2IOp+iv8oFILoDKA==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ee6758",
+      "4": "#f127ea"
+    },
+    "sz": 30
+  }
+}

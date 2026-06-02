@@ -1,0 +1,61 @@
+{
+  "round_id": 2717,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-08T23:16:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[⚔️] 平和こそ戦争",
+      "team": "⚔️",
+      "emoji": "👻",
+      "score": "10.08",
+      "kills": 13
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸うんこ] うんこアメリカ",
+      "team": "🇺🇸うんこ",
+      "emoji": "🦊",
+      "score": "0.09",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "🦄",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "⚔️",
+      "score": "10.26",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸うんこ",
+      "score": "0.09",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チー牛",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJzl0kEKwCAQQ9FEev8zly60INj54IBFs5SHCai0XUqyOyDOcewa2wRebvlkQqw1M1ntEgfWPY6xqCrexd7hddHEwWX9waiUOjAwx/20VvSnT+UGjEMAsQ==",
+    "cp": {
+      "1": "#f38cc6",
+      "2": "#9b9bed",
+      "4": "#f38cc6"
+    },
+    "sz": 40
+  }
+}

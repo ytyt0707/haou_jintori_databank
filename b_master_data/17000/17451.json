@@ -1,0 +1,65 @@
+{
+  "round_id": 17451,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-23T11:06:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😀",
+      "score": "54.06",
+      "kills": 20
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] 正体不明",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦄",
+      "score": "13.75",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "あいう",
+      "team": "",
+      "emoji": "🦁",
+      "score": "1.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "💩",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "67.81",
+      "kills": 29
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJylzksSgCAMA9AQzf2v7ABSbQX8ZaPja1pBCyypvZCO60hKHbUNY81JjfvYuxsPfFXOlXPlR8Xd5rf/jIDD8hOlZwV1ptg921VxRtkGSa5s1fwoo81hZYmGAtaSckUxANY6MdCazO3LbsuhNfIX0MsfpekGKXwGhw==",
+    "cp": {
+      "1": "#4ef33f",
+      "2": "#c7ed31",
+      "3": "#f524e3",
+      "4": "#56f5b3",
+      "5": "#c7ed31"
+    },
+    "sz": 30
+  }
+}

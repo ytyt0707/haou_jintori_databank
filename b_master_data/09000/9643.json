@@ -1,0 +1,80 @@
+{
+  "round_id": 9643,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-25T09:05:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] パンテオン",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "30.69",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "🦊",
+      "score": "7.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤠",
+      "score": "2.51",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "😂",
+      "score": "2.35",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "0.46",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "31.15",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "2.51",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵神撫子",
+      "score": "2.35",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0cEOgCAMA9DGMfv/f2wwJq5sIx7tgcujsADw33BnDHokY/SjQOlXWu1Y1d179TuNksq1eqPKPGeyeqlA7p5BIfeq2lMOU71qhvgiMu8gTI5WHbZR4u6iUbMPmn8Bj9qimAJUXT0BKzKsfSq/AHkLCaM=",
+    "cp": {
+      "2": "#48efaf",
+      "3": "#54b7e8",
+      "4": "#6778f9",
+      "5": "#91ee3f",
+      "6": "#f764bc",
+      "7": "#6778f9"
+    },
+    "sz": 30
+  }
+}

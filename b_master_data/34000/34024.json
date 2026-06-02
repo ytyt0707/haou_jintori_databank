@@ -1,0 +1,70 @@
+{
+  "round_id": 34024,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-05T15:07:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[剣] 無限の剣製",
+      "team": "剣",
+      "emoji": "⚔️",
+      "score": "27.04",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇫🇷メロヴ] 名無しfP",
+      "team": "🇫🇷メロヴ",
+      "emoji": "😀",
+      "score": "20.46",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "はい",
+      "team": "",
+      "emoji": "😃",
+      "score": "2.29",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] パソコンマン",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "剣",
+      "score": "27.04",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷メロヴ",
+      "score": "20.46",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlktsOwzAIQ1GA///lydycNJU2aTy0SQ4Yp0VkC40QUcmVkpnUWb9VN4q8Kb5qm7YqElrZEu6I1IJmaqmy1hAtQ8tQBlnrwF0ecK2goRBZT9okW5BK6ZLTePUlgnKXqoiFrQNv9Ib2D51ifKCjJza78tOX+5iejxsieLjHf46Mg8amKQboDs8ZuQFOvGo5GFseIUeD+Bud0RxtuoOn9+umfnl+azsG9PW2g39YfACq+AY+",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#60d411",
+      "4": "#e830dd",
+      "5": "#30e870"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "round_id": 9257,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-24T12:12:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] ベネット",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "28.46",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 苦",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "24.63",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "11.91",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 初心者",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "11.45",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 爆弾/自認レゼ",
+      "team": "みん²",
+      "emoji": "🦁",
+      "score": "4.01",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ガマト] ガマト",
+      "team": "🇯🇵ガマト",
+      "emoji": "🐷",
+      "score": "2.03",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐶",
+      "score": "1.65",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵ゲスト] ぷゆゆ🥺",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤔",
+      "score": "1.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[楚] Twitter",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "0.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 10,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "😎",
+      "score": "0.05",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "65.15",
+      "kills": 18
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "15.46",
+      "kills": 13
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ゲスト",
+      "score": "2.75",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ガマト",
+      "score": "2.03",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90FsShCAMRNFOKpMecP/7nQpBHjrKl+XhGtDsZcHM3F82uL+wu+OZ3d/iliarPrR0U1UVEZN40Iu6UtVE2q6uMEMOJkN7md/5wphtWzFbNDdARNBembGz6tIK+vC7ytTRbozQz8DLl4EtjWOvY7FjKtDxriQAyF+l0gHSGXjTgNgzdcfz7qHjXf+d469iqj8oiBMHO0spju61Lk07VqFPPcLnKpGeehxHrXW2iaNtujM5NGtu8arANpgzxXLvebnUH+VgD9I=",
+    "cp": {
+      "1": "#5fc7ec",
+      "2": "#5fc7ec",
+      "4": "#f79c2b",
+      "5": "#5df86f",
+      "6": "#f79c2b",
+      "7": "#f79c2b",
+      "8": "#f79c2b",
+      "9": "#e83bcb",
+      "10": "#7028f6",
+      "11": "#7028f6"
+    },
+    "sz": 30
+  }
+}

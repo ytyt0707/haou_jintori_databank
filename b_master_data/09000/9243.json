@@ -1,0 +1,66 @@
+{
+  "round_id": 9243,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-24T11:26:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸VU軍] 山上徹也",
+      "team": "🇺🇸VU軍",
+      "emoji": "🤖",
+      "score": "71.43",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸VU軍] ぷゆゆ🥺",
+      "team": "🇺🇸VU軍",
+      "emoji": "💩",
+      "score": "19.85",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳チー牛] チギュりパンで草",
+      "team": "🇨🇳チー牛",
+      "emoji": "🦄",
+      "score": "2.61",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇳チー牛] Mr.rain",
+      "team": "🇨🇳チー牛",
+      "emoji": "👽",
+      "score": "1.02",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸VU軍",
+      "score": "91.28",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳チー牛",
+      "score": "3.62",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0ksOgCAMBNDB6fT+RzYVEho+xhiXDit4LXSBu8PfBbfbXY7npX++TCmlrM5JsvIksa6kXkt9Tem+0p57rUeS9ip15siSbFB0lplJXLSG0uLmtsVUkpCYx0uYvvT4Smg4UlFMCOCaFCfRXBIN",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#334ff0",
+      "4": "#64cdf7",
+      "5": "#64cdf7",
+      "6": "#334ff0"
+    },
+    "sz": 30
+  }
+}

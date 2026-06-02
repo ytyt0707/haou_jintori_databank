@@ -1,0 +1,49 @@
+{
+  "round_id": 5412,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-15T01:24:45.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵うんち] 🐷中山司🐷",
+      "team": "🇯🇵うんち",
+      "emoji": "😎",
+      "score": "4.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵チー牛] 蓮舫",
+      "team": "🇯🇵チー牛",
+      "emoji": "🐱",
+      "score": "1.79",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "21.84",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵チー牛",
+      "score": "1.79",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy90TsSwCAIBFBQ9v5XzoifoFkss4WFT1BGkb9T+W6LrwCjEbNaExUxM9sVwOjsejQGAFf02lybJ0rHWXjO4i+eSNR3B370HbWXglCTvXE9s1D9N17woRAw2ugVUCRIUFVVNnZnjquz8FJWElKuWErqJeR2ILnhVjlP3J7W8wAfOQMm",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#aeea3e",
+      "4": "#57f467",
+      "5": "#aeea3e"
+    },
+    "sz": 30
+  }
+}

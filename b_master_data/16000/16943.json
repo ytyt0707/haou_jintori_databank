@@ -1,0 +1,56 @@
+{
+  "round_id": 16943,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-19T06:29:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ｍｅｉ] 正体不明",
+      "team": "ｍｅｉ",
+      "emoji": "👽",
+      "score": "40.62",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無し24",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🤔",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ｍｅｉ",
+      "score": "40.62",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzd0cEOwCAIA1Cw/v83L9M5SWybnceRV+BAxM+rNSVdKPas33xOggZHZWJGQFKZ8SLjgjWCpeA1NqfAqQpvdopIdfXZbdXgdyU5ebf8yCnj88sGw2Ll3bwAzAkEYw==",
+    "cp": {
+      "1": "#f3f722",
+      "2": "#30f891",
+      "3": "#35c1e3",
+      "4": "#6a6aec"
+    },
+    "sz": 30
+  }
+}

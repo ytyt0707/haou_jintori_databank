@@ -1,0 +1,47 @@
+{
+  "round_id": 4996,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-14T02:55:01.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[ワイら] ワイ",
+      "team": "ワイら",
+      "emoji": "🦁",
+      "score": "0.76",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "0.00",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ワイら",
+      "score": "0.76",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "0.00",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYBhgwEgjWUYIwCdNtr1DDLCw4JXEL00D95AImPDL4pXGL0uRxdQDAF40ADg=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#5bec60"
+    },
+    "sz": 30
+  }
+}

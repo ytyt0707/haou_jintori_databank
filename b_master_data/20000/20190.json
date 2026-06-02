@@ -1,0 +1,63 @@
+{
+  "round_id": 20190,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-02T17:44:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ナユタ] ナユタガイジ",
+      "team": "ナユタ",
+      "emoji": "🐷",
+      "score": "24.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵最強] 避けろカス",
+      "team": "🇯🇵最強",
+      "emoji": "🐲",
+      "score": "21.17",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] G",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "18.93",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ナユタ",
+      "score": "24.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵最強",
+      "score": "21.17",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "18.93",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVkWhTAIQxnC/rf8DpOg1seHlt4mDQpwl4jkEvBNEBGqmNlpt2BW1aSMYCIshVWHApAqIA5o1OUMuLOkNlk7p93gEw1/eLCiK7SVAfOiPYKZwQ8YUQxzS2VRRHakSGxOiV6pijpbtAc+a//TzHwp896+uH7SmUYGn3Jqx4r1oOdEjj+pbnEd2/MexP2pUnrz7mn8SBhvOrZnusSlndi+8bw3qT+/aNsscW/V1++2vLsNx27yPZnv+9P9AEFvCVc=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#e89830",
+      "4": "#8B4513",
+      "5": "#30e84d"
+    },
+    "sz": 30
+  }
+}

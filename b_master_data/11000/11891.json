@@ -1,0 +1,42 @@
+{
+  "round_id": 11891,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-04T04:11:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "珉珉",
+      "team": "",
+      "emoji": "🐷",
+      "score": "53.48",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[個人戦] 宇月幸成",
+      "team": "個人戦",
+      "emoji": "👽",
+      "score": "6.74",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "個人戦",
+      "score": "6.74",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy1z9sOxCAIRdENnP//5kabtuCl6TwMD8a4PApQy0sxK45L1SLaKpeQOnrGCKUia/ym9emV1n+h8ptqUnK09bbTs3Owu+mY1OwZqWfZaegtO6LAWnERg3bXInhNZLaiZ97Vs1UZFeXoLvs/nY6rbvyjLvmr1mvn/gABKQiq",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f868ae",
+      "4": "#2869f6"
+    },
+    "sz": 30
+  }
+}

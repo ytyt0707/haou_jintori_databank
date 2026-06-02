@@ -1,0 +1,41 @@
+{
+  "round_id": 15003,
+  "game_mode": "SOLO",
+  "player_count": 3,
+  "played_at": "2026-02-14T12:05:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しqL",
+      "team": "",
+      "emoji": "🐲",
+      "score": "8.52",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ナチス",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しeZ",
+      "team": "",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJxjYoICBmyACRngl8ahG8rAajpCGV5ZfHrJBcxQk3EajjtM4P7GK0kgSPE4Db8sjcJjFAwgAADNgACk",
+    "cp": {
+      "2": "#984af2",
+      "3": "#b3f55b"
+    },
+    "sz": 30
+  }
+}

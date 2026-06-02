@@ -1,0 +1,84 @@
+{
+  "round_id": 61100,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-06-01T21:58:17.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] tkb",
+      "team": "🇯🇵ONJ",
+      "emoji": "🔅",
+      "score": "55.02",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 奈良",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦌",
+      "score": "26.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しvb",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "6.51",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[誓い] 確殺の誓い",
+      "team": "誓い",
+      "emoji": "🕊️",
+      "score": "3.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] ニャル子",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏁",
+      "score": "1.35",
+      "kills": 7
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[誓い] 遠い",
+      "team": "誓い",
+      "emoji": "😇",
+      "score": "0.52",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "89.26",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "誓い",
+      "score": "3.58",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklEOxCAIRKeLON7/xBuwoDQ2m/UH4TmAqOppsQRb8f5yWgNwVpCtGb5pLWke2VRvzB1PxyKzM7LiqHekAS/fmHRPXejnhV6upXV40qoqoNTeI9vJOn070WPNJpdebBuwdwBYLYiI8cSVqogAaiXtBExMzRuYeA7bqWtzOAY99xQDBHw4HKqWOKm926YdYwhJb3vegoanlhz3BPMTkL33oNlbKCtdU/HPwp0WpvSCmbnAKJbU5xnRsFEh/If1r/CILfeHmF8X0RKl",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83098",
+      "4": "#9ca3af",
+      "5": "#9ca3af",
+      "6": "#9ca3af",
+      "7": "#9ca3af",
+      "8": "#e83098"
+    },
+    "sz": 30
+  }
+}

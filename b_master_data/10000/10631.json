@@ -1,0 +1,111 @@
+{
+  "round_id": 10631,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-02-01T08:04:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ゲスト] ゲスト",
+      "team": "ゲスト",
+      "emoji": "🦊",
+      "score": "41.63",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "チーズ",
+      "team": "",
+      "emoji": "🐷",
+      "score": "4.68",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵傷物語] 忍野忍",
+      "team": "🇯🇵傷物語",
+      "emoji": "👽",
+      "score": "4.26",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ゲスト] 名無しKN",
+      "team": "ゲスト",
+      "emoji": "😈",
+      "score": "0.13",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵チー牛] ベネット",
+      "team": "🇯🇵チー牛",
+      "emoji": "😀",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🤔",
+      "score": "0.06",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵チー牛] エロアニメ",
+      "team": "🇯🇵チー牛",
+      "emoji": "👻",
+      "score": "0.06",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[ソ連] チギュアってて草",
+      "team": "ソ連",
+      "emoji": "🐲",
+      "score": "0.05",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ゲスト",
+      "score": "41.75",
+      "kills": 18
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵傷物語",
+      "score": "4.26",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵チー牛",
+      "score": "0.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵田中",
+      "score": "0.06",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyVkuEOxCAIg4mEZe79H/gCKmvV2936i+STAo0iv6V6V5pFlDrEtPcgXCi0QmkWVLcSM6P3qcu9LfGwONA4sORG6Au07XjA2jKs6WqIp8/VLW5UprmJ6SLPBp2ltYIj0QK9lHDAMmVLY4trDpJpM1hYh9yLn+WRuuobSrjWhZ7AnO6t64au8F86rfRMeypfrg19AGpjBtA=",
+    "cp": {
+      "2": "#38f587",
+      "3": "#e5943e",
+      "5": "#72aaee",
+      "6": "#e5943e",
+      "8": "#51f830",
+      "9": "#3ff3e7",
+      "10": "#ed73ce"
+    },
+    "sz": 30
+  }
+}

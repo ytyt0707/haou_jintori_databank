@@ -1,0 +1,90 @@
+{
+  "round_id": 51845,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-05-11T16:37:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "20.29",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無し無名",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "12.14",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しTD",
+      "team": "🇯🇵ONJ",
+      "emoji": "💩",
+      "score": "8.82",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "名無しGU",
+      "team": "",
+      "emoji": "😍",
+      "score": "2.64",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] tkb",
+      "team": "🇯🇵ONJ",
+      "emoji": "🔅",
+      "score": "2.19",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.11",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "23.14",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "20.29",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ソ連",
+      "score": "0.11",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kdu2xCAIQyMnqP//xbMS7EXPrOGhtWwSkAJoXwJPtDaPgocdYn2+4T/8BaKhUTPsTF97kmfBjk+KOSewng8MoFfM6feNBoBFc5X0XibAGMM0ema+8FKbhvKZEZda/RWm0+mIG0+CIIvaUjCi7CdJuu+AjftctLqk8PBYFpQWOmtCYYpGZvSClI9hdlOKZsHL3NeTmET8vSiX1FrTW0vdqYzdd6fXjddQdvZY1XgtqyauvmBCiwhem9wpw0N33eIMkLTxG+gneNfQwiPeTFtWut7X+alQxrI6uPKkC1XhD1h9VsEj+gBK3QlQ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#604de5",
+      "4": "#30a3e8",
+      "5": "#9ca3af",
+      "6": "#9ca3af",
+      "7": "#bcd411",
+      "8": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

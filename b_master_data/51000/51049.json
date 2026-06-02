@@ -1,0 +1,48 @@
+{
+  "round_id": 51049,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-09T21:35:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵安藤] 安藤",
+      "team": "🇯🇵安藤",
+      "emoji": "👽",
+      "score": "92.99",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ぷち",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤠",
+      "score": "0.25",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵安藤",
+      "score": "92.99",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.25",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kEsWwCAIA8F4/zO39QPFIrwudKHAhIgCBADMz25Wq/cKM3eZEWjidCv0vJV+71W2iygc5jX3zmCtS4sEq6Ll/6hVz6xUz3rQWjwotZiKLAnmJIkMCH85o7n7GUX8umOUQmdqmMbqD5/ZfV7Q1gn0",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83064",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

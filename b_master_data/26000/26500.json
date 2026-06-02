@@ -1,0 +1,57 @@
+{
+  "round_id": 26500,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-17T15:28:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[おから] けんた",
+      "team": "おから",
+      "emoji": "🙄",
+      "score": "24.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] み。",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐰",
+      "score": "0.40",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[おから] パソコンマン",
+      "team": "おから",
+      "emoji": "💻",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "おから",
+      "score": "24.92",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.40",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVz1EShCAMA9C0mvtfeSfFtS0r7LeMo8IjpZjlAABvI80s8LyZ9KIlSKd7VZWNxQHUyCxweCzly1MNx8xdMxV/cHy7imMLY2wQQ8+Ylw0klQHEs+pKl+rTY5oV/KM/XKO1ts5sdQH28JSM6d3aE2bnz3qVX+DQFUqXFvfa6g6xLbxNvgA/0cwFRw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#6ae830",
+      "5": "#6ae830"
+    },
+    "sz": 30
+  }
+}

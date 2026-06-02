@@ -1,0 +1,57 @@
+{
+  "round_id": 56098,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-21T06:34:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 奈良",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦌",
+      "score": "34.14",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😆",
+      "score": "5.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "34.14",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "5.68",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkYEOxCAIQwuH///Ll4JFXbzLzDaR16K4iBq4jgnjCvHXutGbfVWOhTsSDRQNBPjUaKoA1KmOK3ub4e4t6EDKkz4xkFx+d246xhhp59Hc4UDmw4GiiRtmB7OpNBNn0qs52hhN81Bb72jd0i9v1XhJteE5l/l5KGmS8jqU+CjIOWLd1QG40E9o71KY2UbNbCFGZm3OlTGTL4zi3Vt6KYgXTXF/TmtkKebonXNbL3Qr3LQ3r3Opiy/EcwZP",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#bcd411",
+      "4": "#9ca3af",
+      "5": "#e83053"
+    },
+    "sz": 30
+  }
+}

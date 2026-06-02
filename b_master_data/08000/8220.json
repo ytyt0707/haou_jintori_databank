@@ -1,0 +1,42 @@
+{
+  "round_id": 8220,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-21T09:15:36.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[百合] 爆弾/自認レゼ",
+      "team": "百合",
+      "emoji": "🐱",
+      "score": "12.81",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[百合] 友情百合ならギリ",
+      "team": "百合",
+      "emoji": "😍",
+      "score": "3.55",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "百合",
+      "score": "16.36",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0FEOwCAIA9BCuf+ZF8VMEOO2z/XDZHnpQEGSiJEZgCkJi/KsPCstqBS01vH53hXSXFpGrZ/3LBOZOJIWXdWXksjhTmNuWwJDS3e+Xx67fd6vusOD4rEr7zSw7pbGLaqq5UrOCu3BmuVfleMXVz00f5MLOMQDRg==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f3ad62",
+      "4": "#f3ad62"
+    },
+    "sz": 30
+  }
+}

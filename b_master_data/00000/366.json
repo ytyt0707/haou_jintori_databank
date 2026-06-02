@@ -1,0 +1,61 @@
+{
+  "round_id": 366,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-03T14:15:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "🐱",
+      "score": "22.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[特攻隊] 自爆テロ",
+      "team": "特攻隊",
+      "emoji": "🐶",
+      "score": "7.43",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[💩] 💩💩💩💩",
+      "team": "💩",
+      "emoji": "🐱",
+      "score": "0.18",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "仙台藩",
+      "score": "22.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "特攻隊",
+      "score": "7.43",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "💩",
+      "score": "0.18",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt00ESwyAIBVCQ+9+502kSq3yRfBtXZdGZgi8YoiI/jPL5LX26nClXatZ8h0vUytSOg4bO3qKbrJlZhMM2zs5ndeWsmEQW4Pz3XbGTUTflnD0KbdlRqWvrf/hsTwXNHm0MUGDxW/F2WJnYcD/bafAqj7clcXBiMpL8RtFBfcyGVytN71p3z1nbYeWtqsZ6xQaz0hxGdyFBj6Pop5yyo4OcojhybYeUsG+jhNU2Fii2wzTZ+Fre0CmH/XJt6a2eWBjYP4ONBbqv0bZN/mN7vAATOAaH",
+    "cp": {
+      "1": "#f7e48d",
+      "2": "#85eb66",
+      "3": "#ed9df6"
+    },
+    "sz": 60
+  }
+}

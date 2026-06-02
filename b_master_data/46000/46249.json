@@ -1,0 +1,57 @@
+{
+  "round_id": 46249,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-29T01:59:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "北条鉄平",
+      "team": "",
+      "emoji": "🤬",
+      "score": "26.52",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸ベイ軍] パットン戦車団",
+      "team": "🇺🇸ベイ軍",
+      "emoji": "🐶",
+      "score": "24.80",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] ダギュウヨパン",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐄",
+      "score": "0.97",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸ベイ軍",
+      "score": "24.80",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.97",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kVsOQjEIRLkw7H/LZqAocI2JMfJR2jnlFa4rTNJdMu2o589kUjH/oZL5d02+WZDuHUtNtVHsf6pb6W8N60q7q6q7nwS3xICTujMCGwNARvIW1MwqeWh1mFhZ8NLTF6LPSoM3HG0MiEbBJqc1+hHaL9R22VaVI82W0Fs2s0Fn5KQ3NlJ/S/vAz9izPK7h1damY0VS05xQugeyQAcK",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#3092e8",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

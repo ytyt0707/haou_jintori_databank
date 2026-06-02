@@ -1,0 +1,48 @@
+{
+  "round_id": 32922,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-01T07:04:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵楽天] 銀次",
+      "team": "🇯🇵楽天",
+      "emoji": "😊",
+      "score": "91.86",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵きゅ] きゅっきゅ",
+      "team": "🇯🇵きゅ",
+      "emoji": "🧿",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵楽天",
+      "score": "91.86",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵きゅ",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtklEKwDAIQ2Ps/c88GP1YtISOtn/p0xhBpHkwLHOftkq0H5l0QsXoqvCp3lEbJRKJFFkE6fxomw+pzVViihyiqpjUrfXnrqr9rd6IiOr9zdxg+oOedFkE4AH7hgog",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8e8",
+      "4": "#e83087"
+    },
+    "sz": 30
+  }
+}

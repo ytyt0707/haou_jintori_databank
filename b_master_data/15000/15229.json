@@ -1,0 +1,59 @@
+{
+  "round_id": 15229,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-15T01:04:05.000Z",
+  "players": [
+    {
+      "rank_position": 4,
+      "player_name": "[さとる] 矢野彩喜、死す",
+      "team": "さとる",
+      "emoji": "👽",
+      "score": "2.25",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵うんち] うんち",
+      "team": "🇯🇵うんち",
+      "emoji": "🦊",
+      "score": "1.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[さとる] やの",
+      "team": "さとる",
+      "emoji": "👻",
+      "score": "0.08",
+      "kills": 15
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 2,
+      "team_name": "さとる",
+      "score": "2.33",
+      "kills": 17
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵うんち",
+      "score": "1.57",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0lkSgzAMA1Cpqp3737iT3aFJ0B88ZDAT4D/qYb5wd+83F8zqNZA6IHSLyUdFs91UIWM29wqxYFPFwYRIglBdwBXbVNXyyXWjOZ4zWNjr4G5NJ7vHbuY0fkjJqiml9S/7VR+TV71PntRW2qq4VcTXPo4FPlcNwzen6gVfGTe9d0naXs0MZqeq5dAMp26u2jgbmye+dtom5AeuywUC",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#47f0cb",
+      "4": "#eaaf62",
+      "5": "#eaaf62",
+      "6": "#47f0cb",
+      "7": "#8f69f7"
+    },
+    "sz": 30
+  }
+}

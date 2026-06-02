@@ -1,0 +1,48 @@
+{
+  "round_id": 56066,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-21T04:50:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "31.67",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵熊谷市] D-Nut's",
+      "team": "🇯🇵熊谷市",
+      "emoji": "🔪",
+      "score": "26.15",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "31.67",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵熊谷市",
+      "score": "26.15",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkVEOgDAIQ6tw/zObwgBZpjH6Ix+G9a21RpF/jqqqNePi26loakUh+z5umJiPtA2coLxxBSLSMKj4QASKS4qOVBFe+DRn4gG7eYO6OWjHYX5IezOrxXRzM6qKUeLHLoMDFu5Giyx3whHG0IoOGm9a0oCoQpTcm3BeiGetzl8o7oLBf/ZyDkm6Byk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83030",
+      "4": "#30e84d"
+    },
+    "sz": 30
+  }
+}

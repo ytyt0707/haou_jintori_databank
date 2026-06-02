@@ -1,0 +1,73 @@
+{
+  "round_id": 1754,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-06T17:54:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "SCP-4162",
+      "team": "",
+      "emoji": "🦁",
+      "score": "33.25",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇮🇹ETR] NoName",
+      "team": "🇮🇹ETR",
+      "emoji": "🦊",
+      "score": "29.97",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "岸田",
+      "team": "",
+      "emoji": "👻",
+      "score": "2.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[匈奴] 冒頓単于",
+      "team": "匈奴",
+      "emoji": "😂",
+      "score": "1.45",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "青森県",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇮🇹ETR",
+      "score": "29.97",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "匈奴",
+      "score": "1.45",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJy90kEOhDAIBVDmF+5/5YkWKhawM13IRhNeQBCiF4KZ+XgCwIIdEqghu6gdc3QRMu85g7P05OMYnmolLjO6FLQ2XMa4L7k1cwXqP6NdLm+q0LsM6ndb27IgXfCauGYEtxnNrFw9hkEqHLlfUNcbuVvbbeeyBP8aJ0AW0/peczjTIhLmnQuqk7UTjSdI0RVz0K5LG/c7ldvA2XLiPYcTzV1yy+ZWN/9vvdyNezX3W3wBoRANQQ==",
+    "cp": {
+      "1": "#84f967",
+      "2": "#9bc7f3",
+      "3": "#a3f0d6",
+      "4": "#edf05c",
+      "5": "#f55b5b"
+    },
+    "sz": 40
+  }
+}

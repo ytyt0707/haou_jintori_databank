@@ -1,0 +1,35 @@
+{
+  "round_id": 8543,
+  "game_mode": "SOLO",
+  "player_count": 4,
+  "played_at": "2026-01-22T02:42:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "おめんこ",
+      "team": "",
+      "emoji": "🦄",
+      "score": "3.02",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "やの",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJxjYMACGBmxiRIJCOilwGiKTCZDlhmvFma80sx4pQdOFo8kAVlKATMhx6EAJkwhFio7aNAAAKvhAF0=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#cf68ee",
+      "4": "#e96958"
+    },
+    "sz": 30
+  }
+}

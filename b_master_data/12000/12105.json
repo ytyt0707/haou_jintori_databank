@@ -1,0 +1,63 @@
+{
+  "round_id": 12105,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-04T15:46:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵オウム] 麻原彰晃",
+      "team": "🇯🇵オウム",
+      "emoji": "🦊",
+      "score": "33.18",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ボン] 🐟💨💨💨",
+      "team": "ボン",
+      "emoji": "😀",
+      "score": "5.34",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵楚] はじまん",
+      "team": "🇯🇵楚",
+      "emoji": "👻",
+      "score": "3.62",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵オウム",
+      "score": "33.18",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ボン",
+      "score": "5.34",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵楚",
+      "score": "3.62",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy90tEOgCAIBVCT6///clMDAcG1HrpbvRwCcZXSA5Qk4LTxznDknV6htkTZVVej09VIpzCfbmqPa9Uvo3W/pf5UFK1E68wdHwUrqYLqO8dqPNLhWAyZqjfj5ryUXXypTHNKHxWiwW+SqFQFqqrktub+Tg854i+5AaRJBfg=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#e35535",
+      "4": "#5cd1f5",
+      "5": "#80f859"
+    },
+    "sz": 30
+  }
+}

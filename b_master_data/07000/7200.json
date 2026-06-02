@@ -1,0 +1,104 @@
+{
+  "round_id": 7200,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-19T02:06:03.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵万華郷] 地球人chつべ",
+      "team": "🇯🇵万華郷",
+      "emoji": "🤔",
+      "score": "5.74",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇪チー牛] すき家",
+      "team": "🇻🇪チー牛",
+      "emoji": "🐷",
+      "score": "3.18",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇷🇺チー牛] ワイがいると負け",
+      "team": "🇷🇺チー牛",
+      "emoji": "🐲",
+      "score": "1.78",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "💩",
+      "score": "1.71",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵万華郷] 仕事は？",
+      "team": "🇯🇵万華郷",
+      "emoji": "🦄",
+      "score": "0.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.06",
+      "kills": 22
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇷🇺チー牛] チギュりパンで草",
+      "team": "🇷🇺チー牛",
+      "emoji": "😈",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵万華郷",
+      "score": "12.58",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇪チー牛",
+      "score": "3.18",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺チー牛",
+      "score": "1.78",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵YY勢",
+      "score": "1.71",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzFz0EOgDAIBEDMIob+/8EGJQ02QI9yHXZbiPpR1RY7V/er0ytX8mihRPZspSLyaMryzk4blOJLEc9EMdBlUXcbjFaBvhtARgCzRSs1nrXLDnvYNxcFs2mV5RmNc3waQgrVAa4lxVv2S//MDaKTA88=",
+    "cp": {
+      "1": "#e68037",
+      "3": "#855de9",
+      "4": "#f9f667",
+      "5": "#ec46bd",
+      "6": "#855de9",
+      "7": "#e33546",
+      "9": "#47c2eb",
+      "10": "#855de9"
+    },
+    "sz": 30
+  }
+}

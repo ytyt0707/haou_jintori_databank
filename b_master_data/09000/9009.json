@@ -1,0 +1,90 @@
+{
+  "round_id": 9009,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-23T04:24:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[攘夷] 木戸孝允",
+      "team": "攘夷",
+      "emoji": "💩",
+      "score": "19.42",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[攘夷] botです",
+      "team": "攘夷",
+      "emoji": "💩",
+      "score": "18.83",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "🦁",
+      "score": "16.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "🦁",
+      "score": "2.22",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "糞ノ山",
+      "team": "",
+      "emoji": "🐱",
+      "score": "0.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[ンゴェ] 黙れ小僧✋🥺",
+      "team": "ンゴェ",
+      "emoji": "🦄",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "攘夷",
+      "score": "38.25",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵神撫子",
+      "score": "16.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ンゴェ",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0lsWhSAIBVAI7qH5j/guQErsxZewFakl0UfYuZpDVb1SQp08QrflWNe1aWm02+jnFTS1U6MC1NWYpsp5prEBzBo7PKmUADSNRLXU16nInapeiY3eJRUZkQ5lzYQItzrw0MEiZsxcWp0R14qIkTJzfcKpcdRrx9FFVexeaRwWSd2pT0VNqSnyP4cer+Wi7VWhh+FBc708ybnxu9KKNOM1XrV/0I0+NP2MP4WhC0g=",
+    "cp": {
+      "1": "#b072ee",
+      "2": "#cbf26e",
+      "3": "#ed2cdd",
+      "4": "#3687e2",
+      "5": "#f9b562",
+      "6": "#4e4bf1",
+      "7": "#4e4bf1",
+      "8": "#50f82a"
+    },
+    "sz": 30
+  }
+}

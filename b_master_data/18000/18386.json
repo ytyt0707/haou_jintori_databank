@@ -1,0 +1,126 @@
+{
+  "round_id": 18386,
+  "game_mode": "TEAM",
+  "player_count": 12,
+  "played_at": "2026-02-26T14:52:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 正体不明",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "46.60",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐶",
+      "score": "14.24",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] BOT",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "8.80",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 珉珉",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "8.73",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 浅井長々",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "4.35",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] ハンニバル",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "4.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "2.60",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇨🇦=△=] (・3・)",
+      "team": "🇨🇦=△=",
+      "emoji": "🐷",
+      "score": "1.91",
+      "kills": 4
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵ゲスト] ベネット",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😈",
+      "score": "1.39",
+      "kills": 3
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[楚] さと",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "1.03",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "76.17",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "15.63",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇦=△=",
+      "score": "1.91",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJxt0QkOAyEIBVD8oILT+5+3AddZftJ0Jq8gUiDnbBH2iIgQkZGHHUOVefEMO2Z2VDbm/FZjM1bleFnCS5lVVXM+Om+1rpr3yW7RzMxksL8fg3EfeKrc40OymcinypyRWduB/THbRD5Lx7NaH+Khopr8J36kxDVumlLSriLgVTJPTSk6x8X9A2AMs6bvtX1DpUAEvcPqEa0hJqUUgQD74jrQ25Yo9n//XBejp5UiLZROXex57BL4/QaXt2/8qga24o0n64NxzzdW1ArUWvW6rrdWovi6PtSRGlBF2vXsXEPHirYqAAIhcC5QZ+gPkTYPvA==",
+    "cp": {
+      "1": "#35e92f",
+      "2": "#cdea6c",
+      "3": "#60f0e9",
+      "4": "#60f0e9",
+      "5": "#60f0e9",
+      "6": "#cdea6c",
+      "7": "#f63744",
+      "8": "#60f0e9",
+      "9": "#60f0e9",
+      "10": "#60f0e9",
+      "11": "#60f0e9",
+      "12": "#f7b655"
+    },
+    "sz": 30
+  }
+}

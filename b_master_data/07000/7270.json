@@ -1,0 +1,108 @@
+{
+  "round_id": 7270,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-19T05:53:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "^-",
+      "team": "",
+      "emoji": "🦁",
+      "score": "31.77",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ゲスト] カミカゼ",
+      "team": "ゲスト",
+      "emoji": "💩",
+      "score": "19.76",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ゲスト] ゲスト",
+      "team": "ゲスト",
+      "emoji": "🦄",
+      "score": "18.46",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵うんち] ぷゆゆ🥺",
+      "team": "🇯🇵うんち",
+      "emoji": "💩",
+      "score": "5.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[グリコ] 爆弾の廃人",
+      "team": "グリコ",
+      "emoji": "😀",
+      "score": "4.32",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵うんち] 安倍晋三",
+      "team": "🇯🇵うんち",
+      "emoji": "😎",
+      "score": "2.87",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[グリコ] けんた",
+      "team": "グリコ",
+      "emoji": "😎",
+      "score": "1.27",
+      "kills": 1
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[グリコ] ベネット",
+      "team": "グリコ",
+      "emoji": "😀",
+      "score": "0.39",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ゲスト",
+      "score": "38.22",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵うんち",
+      "score": "7.98",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "グリコ",
+      "score": "5.98",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0lkShCAMBNCWbML9DzyVBFDcJn6I9eygRWAGLwVARCBVv/sSgI2K5aZegbVWokNt6u7YWq20RLuqJxeNLDZTv3bHi25boJrt7NoqoRRbSlWNUxtZKb7TlHjYmaP30HxhrJS5RRqldO8aTZijc+rRvKfPOjtPNntUkf5SOsZHqeKsanxSEYFJVipo0Vl9ez/FckU/j3GQuEV9FBTJz5rjQoDDuq1IRICut4rsq6b75D2r/9Yf9QaPjSVH8S38qX2MP/a1V3xRnOsH7mUSDw==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#b0f62c",
+      "4": "#b0f62c",
+      "5": "#49f63c",
+      "6": "#2db6f0",
+      "7": "#2db6f0",
+      "8": "#b0f62c",
+      "9": "#ef3e5e",
+      "10": "#ef3e5e"
+    },
+    "sz": 30
+  }
+}

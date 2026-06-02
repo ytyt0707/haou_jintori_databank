@@ -1,0 +1,71 @@
+{
+  "round_id": 22950,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-08T23:47:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ttn] ttn",
+      "team": "ttn",
+      "emoji": "💩",
+      "score": "25.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🤠",
+      "score": "5.39",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 深夜テンション",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.85",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] わたぬき",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ttn",
+      "score": "25.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "5.39",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.85",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNjwEOxSAIQ6umu/+RfyqgMsnySRZxj5YKAGitPaMqg89TUsEpLelwfGkxFwEEiZsCkJQk1aaalg5JJmb7NCHpm4Zy0SQWdb2LY/HWWTexQ1ONvdhCR2wPfzqQCBrZT+y9I21ZtK8uktU0bHWapPfeAX1HjfVe4TlxUIQWJV2TTrN10IA1VSJVTNu532s4031z7/0jdd/029lyJbt8uSMfofPo37cfHA4Efg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "5": "#97d411",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "round_id": 24610,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-03-13T09:13:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬき",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "53.90",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵しね] 利敵します",
+      "team": "🇯🇵しね",
+      "emoji": "😈",
+      "score": "5.40",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しWG",
+      "team": "",
+      "emoji": "💩",
+      "score": "4.69",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵自民党] 星の名ガウ",
+      "team": "🇯🇵自民党",
+      "emoji": "💩",
+      "score": "3.75",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.82",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵しね] ころす",
+      "team": "🇯🇵しね",
+      "emoji": "🐲",
+      "score": "1.24",
+      "kills": 11
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[生きろ] きょきょきょ",
+      "team": "生きろ",
+      "emoji": "💒",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "55.72",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵しね",
+      "score": "6.64",
+      "kills": 15
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵自民党",
+      "score": "3.75",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "生きろ",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kQcOwzAMA+kR2v3/hwtNj7QEmig6UyJc4Naj8q595LNpu54QMN6AWgGn7tGjUisVnh0v9fWiBgkCbI1V5Y4nnBTdlHSvUZIayz3yKUpIZijr/oXmUWM+fGpOTKAFgI+fOMAY5PCYsm6bPFzbeQ9LMuD4SRVvRMrlVfdFr8Uv2nu0hkQ+dYQ+kSxO60Jzzkn57XsDC1QZPe3BJmacX2+BMlYUoU47Ffe8jZtSMmWoF9VVdpO997I2rwpcd7W6UdlEgKWU/R8xXr44bw+U",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#aad411",
+      "4": "#8B4513",
+      "5": "#aad411",
+      "6": "#8B4513",
+      "7": "#30e8e8",
+      "8": "#30e85e",
+      "9": "#7c4de5"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "round_id": 24614,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-13T09:26:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵しね] ころす",
+      "team": "🇯🇵しね",
+      "emoji": "🦊",
+      "score": "62.98",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] うんち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "7.97",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] shio",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.79",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[自殺隊] 利敵します",
+      "team": "自殺隊",
+      "emoji": "😈",
+      "score": "0.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[自殺隊] 自爆machin",
+      "team": "自殺隊",
+      "emoji": "☠️",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵しね",
+      "score": "62.98",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "8.75",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "自殺隊",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFklESxCAIQwlk1vvfeCeIFZ3trB/W8ggEWzMtkvnsmyJs62Gs8IlbZh5f6Kn1WzXfS+tO6xmX1t388phzVA1392MAxc0+dAr9piQKeu+cJc0IWPJt6xkzKWDytKWPAQtAVCtkZLqs3QQxBAkcSJ6T2lAcNy4axMi0U/xQCVPbG9/07LxpigdIOV9rupoSjDS3kOaLiEDl33DSiF7u1r7B0rb045h9/2gj+iVseWlf8KYG8LwqzQtNHGHz2mbV1Wd+99q5xOvn/QL41Ap+",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e88730",
+      "6": "#30e892",
+      "7": "#8B4513"
+    },
+    "sz": 30
+  }
+}

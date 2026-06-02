@@ -1,0 +1,72 @@
+{
+  "round_id": 8034,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-20T23:12:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ピナシロ",
+      "team": "",
+      "emoji": "🦊",
+      "score": "25.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇦🇺うんち] アベベ",
+      "team": "🇦🇺うんち",
+      "emoji": "😂",
+      "score": "9.98",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵中道] 名無しJ6 2号",
+      "team": "🇯🇵中道",
+      "emoji": "🐶",
+      "score": "0.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇨🇳チギュ] 爆弾/自認レゼ",
+      "team": "🇨🇳チギュ",
+      "emoji": "👻",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇦🇺うんち",
+      "score": "9.98",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵中道",
+      "score": "0.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳チギュ",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJydkkkOgDAMAw3E/P/JiK7ZKAgfOHTwNCgAIVuLPycnDSUSfKK8M7pRWjgfxP2N0q4nu1NXe4IVTbKk/EZTvKZrNbOyyEo9aaaWEgXPuYtORWTC1t2g6OCFHtos0NjeC1vVFF6MOLTxvlB6ZkZWtD7NTG4R9mPTHbU/ErH8JxetbAYo",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#35e338",
+      "4": "#ee4444",
+      "5": "#eda32c",
+      "6": "#ab40ed"
+    },
+    "sz": 30
+  }
+}

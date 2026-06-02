@@ -1,0 +1,76 @@
+{
+  "round_id": 771,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-04T12:06:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ソロ ] おんちゃん",
+      "team": "ソロ ",
+      "emoji": "🤔",
+      "score": "17.12",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソロ] よっぴ絵師転向",
+      "team": "ソロ",
+      "emoji": "😈",
+      "score": "8.85",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[V8] 荒らし",
+      "team": "V8",
+      "emoji": "😍",
+      "score": "3.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[嵐] ちにたい♡🫠",
+      "team": "嵐",
+      "emoji": "💩",
+      "score": "2.75",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ソロ ",
+      "score": "17.12",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソロ",
+      "score": "8.85",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "V8",
+      "score": "3.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "嵐",
+      "score": "2.75",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0kEOhDAIBdC2/PufeVILU6CIxMxm/kKjPEGMrb0LigwZhGKpw2awt8wors4jWu5ga9J3jHG8n5kuFwZCl4D53HZ+NC8LNWIi7XgFqMZXv/GNfkOprt4y0zqzkF79Gu3ZmaDXHau45vf9W3e/Ljm3IRHJmaOZcT7xpCjvXcgC13sN9k4RPdlK0VX7/dC1kgu/TYhWiozh/nty+EAElliWD1bUBT8=",
+    "cp": {
+      "1": "#79e79c",
+      "2": "#ec6995",
+      "3": "#9cfe34",
+      "4": "#62deef"
+    },
+    "sz": 40
+  }
+}

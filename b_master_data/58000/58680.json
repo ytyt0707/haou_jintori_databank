@@ -1,0 +1,57 @@
+{
+  "round_id": 58680,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-27T02:09:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "汐宮栞",
+      "team": "",
+      "emoji": "📖",
+      "score": "65.15",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しoY",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦁",
+      "score": "6.00",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷デパ] ぷゆゆパン🥺",
+      "team": "🇫🇷デパ",
+      "emoji": "🥺",
+      "score": "1.03",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "6.00",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷デパ",
+      "score": "1.03",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklESxCAIQ4GY+195J2Bb3eLO8qU+EhB1d3czxxJmljszQb+2S0bhSX0T31lJJb9P1kVZn7yn1vrSC23MRSVUrBVrXdoDzAunrFHiGsfbNE/msH7QviMJ7p5bdfbc3gZAlj06Xy/Y+uaNjtJ0PlWtur0rYNJqhCTbHH0ZVjRc7/YXJTHGbvBogxxjxw9kROBL/NCEwGYtOrsq3NAIUr54aS0iGKoahvx9muxcfABk3AjF",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8d7",
+      "4": "#aad411",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

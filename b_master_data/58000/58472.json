@@ -1,0 +1,42 @@
+{
+  "round_id": 58472,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-26T14:55:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] tkb",
+      "team": "🇯🇵ONJ",
+      "emoji": "🔅",
+      "score": "0.35",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] も",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "0.19",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.54",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYGBgZGTADRgZKZAmoJmBgYEFt834JZmZ8WllYkaYi8V3TEwIaZqzsNiPZCd+WSSFo8xhGwIAg7kALQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

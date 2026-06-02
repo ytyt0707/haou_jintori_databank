@@ -1,0 +1,57 @@
+{
+  "round_id": 31454,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-28T22:59:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] l",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "44.91",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しNy",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "16.96",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[あいす] 村上宗隆！",
+      "team": "あいす",
+      "emoji": "🛻",
+      "score": "4.65",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "61.86",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "あいす",
+      "score": "4.65",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klESxCAIQ0Xw/lfeTSJKR1s+amceCcEx3D2O8qZyVOwG/nnSIKXYI23crWqjRcS2SNiatC2KcBmTKlTORvs0brBkcaYWuFBaM/8VMr2b2Ts10ZybY7GRQ2k85l0VmtgspSsyuqSFfkon1YFN1fGk8v+m7MlolJdUtDdnatrsi8wuLaQZ/siMDi38SsMhZ53O0H9TvpPAG8g0x9n7jeqaIjp+BqoKRTvqpPMlC0q75fkcq7a437U5e1HOZ6oxhsKsLyL96wd3Cwlw",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8B4513",
+      "5": "#e83064"
+    },
+    "sz": 30
+  }
+}

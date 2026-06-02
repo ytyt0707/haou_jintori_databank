@@ -1,0 +1,66 @@
+{
+  "round_id": 10061,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-26T07:41:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "🐷",
+      "score": "12.45",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵特攻隊] 爆弾/自認レゼ",
+      "team": "🇯🇵特攻隊",
+      "emoji": "😈",
+      "score": "11.20",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵特攻隊] 唐澤貴洋◯す",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐷",
+      "score": "10.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐱",
+      "score": "3.17",
+      "kills": 17
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "21.44",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "3.17",
+      "kills": 17
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10MkSwyAMA1AFZP7/kzssxgtkpj1UBw68CIiBEQIiIiSOjG2SF5WZgX09laJV1lrrrTrjbasyTFtrjiVq60ll+KrT5V1Hf2pk1JnF6eWA4tJivtQuDpMhxWZ1KGySbWop6QP7H7v3qKuWrAxa/KlJd5laHbw1nXvRJ7hTPCvhdc2m8YXiRbXKn7p4zZ/1A8S/Bqg=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#2bc7ee",
+      "4": "#eb7c33",
+      "5": "#eb7c33",
+      "6": "#d968f8"
+    },
+    "sz": 30
+  }
+}

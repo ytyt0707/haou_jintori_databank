@@ -1,0 +1,55 @@
+{
+  "round_id": 9137,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-24T05:42:55.000Z",
+  "players": [
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵傷物語] 忍野忍",
+      "team": "🇯🇵傷物語",
+      "emoji": "🤖",
+      "score": "1.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵🍞] さとる",
+      "team": "🇯🇵🍞",
+      "emoji": "💩",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷生パ",
+      "score": "23.46",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵傷物語",
+      "score": "1.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵🍞",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJytkEkOwCAMA52l//9yhapQsvZS38LYBgIAkCWIoJIEQXomU1DG2t+oO56iz1hTG0uKkoaj5VPN69xNqh3+pm1ztS33vJahjR2dXNHrgBwtPsqbUriUwcyp3mCBXmVKnqKn+UcEkDlylKLdwYkOugH3PALr",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#3955f3",
+      "4": "#f03dd8",
+      "5": "#4af038"
+    },
+    "sz": 30
+  }
+}

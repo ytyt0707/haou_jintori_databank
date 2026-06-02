@@ -1,0 +1,55 @@
+{
+  "round_id": 1194,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-05T10:18:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "😂",
+      "score": "56.34",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[女殺し] 女殺し",
+      "team": "女殺し",
+      "emoji": "🦄",
+      "score": "1.58",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[NTR] ツインテメイド服",
+      "team": "NTR",
+      "emoji": "🐶",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "女殺し",
+      "score": "1.58",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "NTR",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN1FkOgDAIBFDE+9/ZmE5a0jKAS6LzZ3jSxVoREs0LarIykstOY6cCjXeo0+F0VXuLGdxvsDofWpW5/rDxgZtCMXBTzu37yPFa0c39CjTbFZSz3cPnis9dh4J+HhXreD/3P/u5c5dbcuRuuT+/R9Nz5kdSUwb2SymBOEMBzUYcsIJezAFfCAdg",
+    "cp": {
+      "1": "#ed87c4",
+      "2": "#f1d093",
+      "3": "#834afc"
+    },
+    "sz": 40
+  }
+}

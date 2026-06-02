@@ -1,0 +1,60 @@
+{
+  "round_id": 3522,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-10T18:49:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇩🇪ナチス] ウンコマン",
+      "team": "🇩🇪ナチス",
+      "emoji": "🦄",
+      "score": "20.11",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ナチス] シュトロハイム",
+      "team": "🇩🇪ナチス",
+      "emoji": "🦄",
+      "score": "15.35",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "タイマン",
+      "team": "",
+      "emoji": "🐲",
+      "score": "8.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇩🇪ナチス] あんこ",
+      "team": "🇩🇪ナチス",
+      "emoji": "🤖",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ナチス",
+      "score": "39.86",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0lESwyAIBFCEwv2P3EEFwWiG6XQ/2sY8N9UI8HNEcxm2W9JaE/3QL6E4zV3bo9A77kwdmZMX1+Wj7wK1E5I7QdJ4H9jzj0xl6uswTzC4uxnUyGI092+M726s9upwXKIIzv0zh1tfvlx9aIkO588O/f0isrs4C3Fb8LyFKX1YYBycsJSHs3WHI8hsBZpG8enrsDIzS+wjOjge6YMGAVDmKZDMkiPAsVZ3vFzcy94Z3i9z6osKANwFBnlTcPwpr5tIc2DbUoeDI4nUL+5sT5H9KZ8yrMoqLLpPva8Ka6y+4pd8ATDnDJQ=",
+    "cp": {
+      "1": "#7b8ff4",
+      "2": "#d2f448",
+      "3": "#fe6c90",
+      "4": "#74bcec",
+      "5": "#d2f448",
+      "6": "#d2f448"
+    },
+    "sz": 40
+  }
+}

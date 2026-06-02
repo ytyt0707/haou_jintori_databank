@@ -1,0 +1,61 @@
+{
+  "round_id": 831,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-04T15:21:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[鈴木組] のあ",
+      "team": "鈴木組",
+      "emoji": "🐷",
+      "score": "21.21",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] 🌬️🌬️🌬",
+      "team": "猛虎軍",
+      "emoji": "😍",
+      "score": "7.53",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うんち] 煙エフェクト追加",
+      "team": "うんち",
+      "emoji": "🐱",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "鈴木組",
+      "score": "21.21",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "7.53",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "うんち",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0ksOwCAIBFAG73/nxqQfCBQnmthNZylPJESRlaiNOazYVVbOaXT9gHTUu+/OS9JpOl+UoZ2B5bNhb586ul3+DYp+kn4m54r6n+kAnEKHrTEOglFXPNkNBfeY4zhYXSA78kOS8qwT+7F8Lgem6gLw",
+    "cp": {
+      "1": "#44c3ee",
+      "2": "#ed78bc",
+      "3": "#75fc3b"
+    },
+    "sz": 40
+  }
+}

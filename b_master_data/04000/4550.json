@@ -1,0 +1,56 @@
+{
+  "round_id": 4550,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-13T02:48:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "33.28",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[共産党] けんじ",
+      "team": "共産党",
+      "emoji": "👽",
+      "score": "5.77",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[共産党] わしょいヘンテコ",
+      "team": "共産党",
+      "emoji": "😍",
+      "score": "5.18",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "33.28",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "共産党",
+      "score": "10.95",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eJytkFEOgDAIQxtr739lwzanGzCj8f0Q8uggA7DfQGt7GTTc8NCPLKXPvnv5v73O2kArsT2ZbsfMKjuNfLG4LCWJiaVgOkhbsWCsUTVJel0RQTJ2gAkSQkmHgzw3FMIVolZWLR/ft7Q9ndz/oJH9irHlynMAte4GXQ==",
+    "cp": {
+      "2": "#2858f6",
+      "3": "#59d5f8",
+      "4": "#f97a43",
+      "5": "#59d5f8"
+    },
+    "sz": 30
+  }
+}

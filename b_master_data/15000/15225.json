@@ -1,0 +1,33 @@
+{
+  "round_id": 15225,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-15T00:47:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[あ] あぬ",
+      "team": "あ",
+      "emoji": "🤠",
+      "score": "29.90",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "あ",
+      "score": "29.90",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0uEKABAMBODD+7+zVla025GU+/t1wwK8SbNIzFii89WxJ5qxvhXTNiuChjCFVN39rXRDHKdnsh2L4qoRUcdYQqZFoHevVH20nXZ1BgNP",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#f95a48"
+    },
+    "sz": 30
+  }
+}

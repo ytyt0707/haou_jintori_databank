@@ -1,0 +1,57 @@
+{
+  "round_id": 5308,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-14T19:47:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ワイら] 安倍晋三",
+      "team": "🇯🇵ワイら",
+      "emoji": "🦄",
+      "score": "28.53",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ワイら] ワイ",
+      "team": "🇯🇵ワイら",
+      "emoji": "👽",
+      "score": "21.43",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チギュ] チギュりパンで草",
+      "team": "チギュ",
+      "emoji": "💩",
+      "score": "2.63",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ワイら",
+      "score": "49.96",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チギュ",
+      "score": "2.63",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF00cSgDAIBVAU//2v7BBKKGZkpT4gVaJLgk7xh0cTnd946zRmAvCpvAIA46Ox6co41bLpgaS8KcDFu1aufRuqegddiOYA2LOyR1bViCpL9HWGBwIDi9qQXf3FJxUvRSMDaSfRIu9zp+RTS3VTrq2LcuCzwtdLPgMd9tl6S8QBNjWJqxEqK7qHluPNSvvQ7V5kzH/Bihc3fwfY",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#faa05c",
+      "4": "#e92f70",
+      "5": "#faa05c"
+    },
+    "sz": 30
+  }
+}

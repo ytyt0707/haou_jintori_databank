@@ -1,0 +1,62 @@
+{
+  "round_id": 46423,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-29T11:23:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[魔眼] 遠野志貴",
+      "team": "魔眼",
+      "emoji": "🔪",
+      "score": "39.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "7.62",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しVC",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.11",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "魔眼",
+      "score": "39.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ヴォル",
+      "score": "7.62",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.11",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkEsSwzAIQ0UY7n/lDhbm13RTLzKYF8kCoB0zM169unXvsB/fpRxsirHYpBs2X2BLJ/RblwcVqd8SI2ZzlLxoKaq6tDq9Iq1OmnorpEl7pEsTQkSk4q3V97yUlhAGESvzLVVVlRjXMPcOOFWl2wncjCflPB1/aYc5qXrvLrE9nzSZF9eddKBzIf+P0vyXltQcr2cfeyLYC338MNULtUaPx53RF1HTAh+JZAfb",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8d7",
+      "5": "#e830a9"
+    },
+    "sz": 30
+  }
+}

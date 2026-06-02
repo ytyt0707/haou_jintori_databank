@@ -1,0 +1,58 @@
+{
+  "round_id": 6164,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-16T18:04:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "アナ",
+      "team": "",
+      "emoji": "🐱",
+      "score": "24.46",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇷🇺暴風軍] 蘇ったチー牛🤡",
+      "team": "🇷🇺暴風軍",
+      "emoji": "🦊",
+      "score": "7.51",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵田中] おちすぎ",
+      "team": "🇯🇵田中",
+      "emoji": "🐲",
+      "score": "0.17",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺暴風軍",
+      "score": "27.80",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵田中",
+      "score": "0.17",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0lEOhCAMBNDC4Nz/yCbF1qnIbjbZfhjMy9CCmv1YI+t/Cq+djqp8ZClKsjKGI11WNQJJiwKgas+KiVmyvUvSzKpal8POpbbtPo+t+EGHjjwNazbOanvFtYOosaKrzy5Z5BNZl+a72leOnTfZ1qi9VHkcM/u+Mx99raT1OuKOVe4D31/AF+9/TtSkttGsExwIB/8=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#d0f83f",
+      "4": "#f66085",
+      "5": "#9661ea",
+      "6": "#f66085"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "round_id": 31048,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-28T00:56:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[亡き地] 亡き子",
+      "team": "亡き地",
+      "emoji": "👻",
+      "score": "66.45",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきこ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "16.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] おはよう",
+      "team": "🇯🇵ONJ",
+      "emoji": "😭",
+      "score": "5.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[亡き地] ワタリ",
+      "team": "亡き地",
+      "emoji": "🤪",
+      "score": "0.27",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "亡き地",
+      "score": "66.72",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "16.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "5.97",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9k1ESxCAIQ1FI73/kHQIUu6P6g/IMIKpIDDMRMwMA46CZLyVxSh52CgCREATjPOlMlxsPGe40AT1ADLoFRRvUhrY218j0p8zlO8rsrOBE48wvzWKjimRmmbaOkoUHFtnSMYbBezuj6FU7HHrlIqrJ+5QYIxeiqjp1QTWl2KnqBt8pIGDkjTLiB238VFq25Ui565+WNCNfE18hm9U1Ac/TLxJ5b99sufJ7Oj+rM63r32u/dNnj3S9o+Y3avMQnP/3xDto=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30c6e8",
+      "5": "#8b4de5",
+      "6": "#8b4de5"
+    },
+    "sz": 30
+  }
+}

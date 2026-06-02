@@ -1,0 +1,33 @@
+{
+  "round_id": 34560,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-04-06T20:05:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[やわ] ぬん",
+      "team": "やわ",
+      "emoji": "🤠",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "やわ",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkTsSACEIQwPe/847KmKiVjY2S+EYHp+MmlE4BwAQM2buJ4ooqUx7uVlo1o1emTzGIKlMDgHF4bmviZOMNQygzIJGU1reZvOaEu3ds+R+8eAFtp974OFm5QdgLAEe",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d130e8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "round_id": 17791,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-24T05:29:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "😎",
+      "score": "17.02",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵安住淳] 山上徹也",
+      "team": "🇯🇵安住淳",
+      "emoji": "🤖",
+      "score": "3.77",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵陽キャ",
+      "score": "17.02",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵安住淳",
+      "score": "3.77",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0lEKACEIBNBG73/npTWtbJKFFeqjx5RUgFWjRRGlbtkLmd7xb7bUAi+KSuM41jOgYzGjiN8fyYqIXy7WBhwFmIxC0fK+u3bGgqoK9OE646aKd8ovP7JW57dYkGRVk65NK1EigSObMZTg+0ihLDfbpdt+1KMcHxSFAuc=",
+    "cp": {
+      "1": "#48f4c1",
+      "2": "#4dc4e5",
+      "3": "#f3db62"
+    },
+    "sz": 30
+  }
+}

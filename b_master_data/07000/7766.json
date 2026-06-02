@@ -1,0 +1,42 @@
+{
+  "round_id": 7766,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-20T08:42:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[個人戦] 雑魚の悪魔",
+      "team": "個人戦",
+      "emoji": "🐶",
+      "score": "39.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[個人戦] 宇月幸成",
+      "team": "個人戦",
+      "emoji": "🐲",
+      "score": "19.31",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "個人戦",
+      "score": "59.23",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0UsOgCAQA9DC9P5nNvwZKGhiNxIeBUUgtmBPjFpJ8q58UWjNxnYy5kGrcpn0G/9Ws527mlmE+p6kVjKYI+hslkczOi0JQWl73rqBUkmqbt2WlY/dxLzolqoa6bvrqi8K/VZ0V7Qdry5w0eMSd89C0cv0/77oJQ9ALghq",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f02d78",
+      "4": "#f02d78"
+    },
+    "sz": 30
+  }
+}

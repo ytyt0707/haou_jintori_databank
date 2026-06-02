@@ -1,0 +1,73 @@
+{
+  "round_id": 15364,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-15T09:44:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😀",
+      "score": "50.37",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵田中] 中山司",
+      "team": "🇯🇵田中",
+      "emoji": "🤔",
+      "score": "34.75",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] イスラム教徒",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "1.56",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵田中] 山上徹也",
+      "team": "🇯🇵田中",
+      "emoji": "😀",
+      "score": "1.52",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ゲスト] まんこ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤠",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "86.63",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "1.63",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt090KwCAIBWDdOb7/Kw/6sZbWGOzcNPxKLJiIR0skRgUAKve17mw1s17zfUPVDGtJ/euyfjhTG50dU9Wo06QaO0OTjAm+69vhpIaTkjgpnB+KGrLfXqaqhySbrgQWz1Xq0jqHoxNuVPc6v1WwR+dj681U55l/0A2iPGM+sv9gN51cBgw=",
+    "cp": {
+      "1": "#2bf3e9",
+      "2": "#f1e255",
+      "3": "#2bf3e9",
+      "4": "#2bf3e9",
+      "5": "#f1e255"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "round_id": 300,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-03T10:41:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チーム] 管理人",
+      "team": "チーム",
+      "emoji": "😈",
+      "score": "56.27",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チーム] 彩喜😻",
+      "team": "チーム",
+      "emoji": "😂",
+      "score": "7.39",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チーム] 美衣👧",
+      "team": "チーム",
+      "emoji": "🐲",
+      "score": "3.11",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[さとる] やきとり",
+      "team": "さとる",
+      "emoji": "👽",
+      "score": "0.10",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チーム",
+      "score": "66.77",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "さとる",
+      "score": "0.10",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJztlkmyxCAIQBm6cv8j/0pEQUCj9qI3n1VUngwKBuCXwiJ2sMNVgPkY5h2WR+KXd9jRbv/sCfwFOjneL9hXch1GPGYRM3jN5imLRegWgOtaZwEse12rLLKCMkWLPkucN/r5ZGwOQ40SEW9C2XfDLcqiT2alpCxjUVBo5MM+Ykcpi9wY7lECO8x9dqhRLiUyNhy3Ul3yTk8wUBYa+2a2mzS6UA6YZkcU423Km3Vkz3O3kAy7W4RoooVNWKv+oEVnrapH/XUK7KRTTtji9VGbrRW1Tyq8b5ZAwjno7u4XaoMFIh4masRK2uv1n1n1jab3OpaQzBXco+TgPOC6HI0Rc5yMTqdsPqeCvVtBzyQvPKPY2rnBks6CCcvmARhlJC2hx6zCQzYXZGs4zYgnmvOoJbbEyvNYWXsvBpEJpbDuo1meG+xZ+TLvblXtOLA/SY71jaE7y6oZNjbws6o7ujgnMlsfrP0B0UoWsg==",
+    "cp": {
+      "1": "#e0fe7b",
+      "2": "#e0fe7b",
+      "3": "#e0fe7b",
+      "4": "#f7bd87",
+      "6": "#f7bd87"
+    },
+    "sz": 60
+  }
+}

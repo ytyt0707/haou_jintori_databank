@@ -1,0 +1,78 @@
+{
+  "round_id": 15288,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-15T05:14:48.000Z",
+  "players": [
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "2.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "0.17",
+      "kills": 9
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇨🇳無駄] 時間の無駄",
+      "team": "🇨🇳無駄",
+      "emoji": "🐲",
+      "score": "0.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵みん²] Big Wave",
+      "team": "🇯🇵みん²",
+      "emoji": "🐷",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "2.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "0.17",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵みん²",
+      "score": "0.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇨🇳無駄",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJxl0wsOxCAIBNBhSBbvf+INP1FLmrbxVVAaKSKkeOAIi0CMk4JUM5IOeU+NmQL4GDPgzJhKAoiXUITbfve0vCIK0yip/lhxNUb2nVi41hrt2sEMK+2apVyFa+dt9Y35bu+8JKS6gtTezqiUnVvKar7SPZVvlBr4RbhWVz5pZwmP9gDez8uS5dU21dH5PJ6iHqV2JoOYiOYGR0GrH+1TAajOmq2qm6kXPTLDnlD9Bd91NyZT8EGyMmt2t4f3wll1L52WOtrR56fVz1/YaLfG6YkzVIeLc9r+Aj0Lgw==",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#47f0cb",
+      "6": "#f59b47",
+      "7": "#47f0cb",
+      "8": "#9bf14b"
+    },
+    "sz": 30
+  }
+}

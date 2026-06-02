@@ -1,0 +1,48 @@
+{
+  "round_id": 28386,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-21T22:06:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "😄",
+      "score": "35.41",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷自爆党] 激突くん",
+      "team": "🇰🇷自爆党",
+      "emoji": "🤔",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "35.41",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷自爆党",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkoEOgCAIRE/i/7+5gagcZmuLrbQeTy8XYCVbqZfDI65URUTVLqug3Yagvx33SRUiwIlG27D6ON1i/aQtZa6BtOUvsry0d2OXmKdakW1WPmcdlbcRZXFTGZN5XtXDv5iM8p6gI4q+vGtVs/zkwlLGAuHa3zBqp4PY+IkCuLIU83I6peOdlubfjzcZIgWA",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4b611",
+      "4": "#af30e8"
+    },
+    "sz": 30
+  }
+}

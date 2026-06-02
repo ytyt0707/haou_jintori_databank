@@ -1,0 +1,71 @@
+{
+  "round_id": 13630,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-11T09:52:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] ⠀",
+      "team": "🇯🇵阪神",
+      "emoji": "🐷",
+      "score": "27.83",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵猛虎郡] 一等兵",
+      "team": "🇯🇵猛虎郡",
+      "emoji": "🐶",
+      "score": "13.25",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇻🇳謎の男] 🫣",
+      "team": "🇻🇳謎の男",
+      "emoji": "🐶",
+      "score": "0.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🐷",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "27.83",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵猛虎郡",
+      "score": "13.25",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇳謎の男",
+      "score": "0.07",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0QkOxSAIBNDphNj737hRARGX/ydpE/vcoKBGRABAeoA2AsUzcMyJI7lpzow8K4UXlUlbGWlnZ/QiMSH1lrXSoNaS3gLW95tUPwPUSarVnscV1sVlLSMDdqapbYt6uVIzlOGfmRbm6AnlwHfF/5oZF/WSJ0VO1AVdyy9dMegGB2/RGdfFZ23Phj+zsQhW",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "4": "#f6f341",
+      "6": "#77f524",
+      "7": "#f36dc4"
+    },
+    "sz": 30
+  }
+}

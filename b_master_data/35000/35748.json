@@ -1,0 +1,57 @@
+{
+  "round_id": 35748,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-08T09:12:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] ご飯食べたよ",
+      "team": "🇯🇵ONJ",
+      "emoji": "😭",
+      "score": "32.03",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 爆弾/自認レゼ",
+      "team": "🇯🇵ONJ",
+      "emoji": "😈",
+      "score": "15.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[巨人] 小笠原",
+      "team": "巨人",
+      "emoji": "🤗",
+      "score": "2.50",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "47.04",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "巨人",
+      "score": "2.50",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkYEOwyAIRFHw/395uUModnTLRlIlvNxBUeT3WGulaMrMnEmFMuc8caFgz1QE4mq9irbWd/6ZyhfcGLKkAcwM6RhRwK3ExgAbFasS9xQQ4qCXMQkOU4fs610VLdWMX6UpggY0wqdMHOV90zVhkZEf2pvSt4FpGP/QLX6T7v/tfY++e3vV4Zo5dnujPm9uvqPwqHXP+dz+aM+UC221JM1hYvICUIwGhQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#6ae830"
+    },
+    "sz": 30
+  }
+}

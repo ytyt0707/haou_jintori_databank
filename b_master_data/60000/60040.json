@@ -1,0 +1,81 @@
+{
+  "round_id": 60040,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-30T03:40:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しeT",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "26.76",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しmi",
+      "team": "🇯🇵ONJ",
+      "emoji": "🌏",
+      "score": "5.96",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しco",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "5.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[中立] 不殺の誓い",
+      "team": "中立",
+      "emoji": "🕊️",
+      "score": "5.30",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵自民党] 麻生太郎",
+      "team": "🇯🇵自民党",
+      "emoji": "😴",
+      "score": "1.38",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "38.35",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "中立",
+      "score": "5.30",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵自民党",
+      "score": "1.38",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlktuOxCAMQ11Pcf7/j0cOhIZq52lRJQoHO+YCEiAjAER++DwNjDCsBnQagQLZS3qknyXb6j9oWsOVQ4nLHtEKw0ySF1Ybo8fii+Kg9i5d9l2alb35bGNM4x5aBx19xxIV6S3A2kWZFSTGpDioj5Q03bm20u4EIbXUzdmYTGPp2plHxH1nMhKiI+lKvLS3sXdF3zeA6zJfke/EQd/1i/qGyzofSfHsfXOL7lOa7oW9Ive0Jg7q55WZGmy/CeOp2lC+mcnP2RotbQ3f/U/XufBXzUXfbv8cfwGXsAos",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#bcd411",
+      "4": "#e85330",
+      "5": "#9ca3af",
+      "6": "#9ca3af",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

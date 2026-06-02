@@ -1,0 +1,49 @@
+{
+  "round_id": 7978,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-20T20:10:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チー牛] チギュりパン",
+      "team": "チー牛",
+      "emoji": "🤠",
+      "score": "24.67",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵埼玉] 31歳無職男性",
+      "team": "🇯🇵埼玉",
+      "emoji": "🦄",
+      "score": "23.89",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チー牛",
+      "score": "24.67",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵埼玉",
+      "score": "23.89",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNk1EOwCAIQzsr97/yMgfKWF3W+GF8FIQoUNQ7gMOFPoWxrs0h6AqD2xXsIKmtl42TVkyXqosCIZ06M/94o6UnHWRH4ZdqjGkI2siwJuxzaEHB7AXA1NKIeVVdUpklhab+Igyo+EYWmruELQmFmhB9pB90640IpyJm0J3VvjObvRoKrY/zLFq/FcRR6ASawwoT",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f66ab0",
+      "4": "#c95df4",
+      "5": "#f2e831"
+    },
+    "sz": 30
+  }
+}

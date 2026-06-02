@@ -1,0 +1,46 @@
+{
+  "round_id": 12926,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-06T16:35:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🤖",
+      "score": "4.54",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵っっm] 名無し57",
+      "team": "🇯🇵っっm",
+      "emoji": "😈",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵万華郷",
+      "score": "4.54",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵っっm",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYKACYKSGIdjMZWTEYzQeSbz6iAEsLCwseCVxyrKw4JPGKwuWwSuL32ScDgYFCB5JAvE3ULIjBgAAfp8Atw==",
+    "cp": {
+      "1": "#ed68d9",
+      "4": "#79f561"
+    },
+    "sz": 30
+  }
+}

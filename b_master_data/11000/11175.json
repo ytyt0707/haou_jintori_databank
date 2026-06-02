@@ -1,0 +1,111 @@
+{
+  "round_id": 11175,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-02T13:29:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "😈",
+      "score": "17.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳チギュ] 🐟💦",
+      "team": "🇨🇳チギュ",
+      "emoji": "🦄",
+      "score": "16.83",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳チギュ] ベネット",
+      "team": "🇨🇳チギュ",
+      "emoji": "🦄",
+      "score": "12.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵荒] やったか！？",
+      "team": "🇯🇵荒",
+      "emoji": "🐷",
+      "score": "4.57",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[DIO] DIO",
+      "team": "DIO",
+      "emoji": "😈",
+      "score": "4.00",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵HTT] りっちゃん隊員",
+      "team": "🇯🇵HTT",
+      "emoji": "😎",
+      "score": "2.41",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵荒] カス",
+      "team": "🇯🇵荒",
+      "emoji": "😂",
+      "score": "2.08",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳チギュ",
+      "score": "29.00",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵万華郷",
+      "score": "17.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵荒",
+      "score": "6.65",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "DIO",
+      "score": "4.00",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵HTT",
+      "score": "2.41",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy1z0sSAyEIBFCMfNr7XzilmQFGSVU26Y2LZ6NQL0KeUXH/n/avyszxq8/xVPdxMek9s1BV1dw1s00v54sP1VA2EknvqsLLZsYiMlyJIEAH+msaH7oispoT02RXTDWpdbYFcuvYVCKlkmtK0T0Vp7ZflXBqi260q8nOUW0EpAuLJJAIj+F5m3Y87VVfNyltQc6OVd7Agwu2",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#8f5bf1",
+      "4": "#ef6e4e",
+      "5": "#64f462",
+      "6": "#a4f66a",
+      "7": "#ef6e4e",
+      "8": "#64f462",
+      "9": "#59ccf3"
+    },
+    "sz": 30
+  }
+}

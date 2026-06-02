@@ -1,0 +1,32 @@
+{
+  "round_id": 7626,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-20T01:08:26.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[負け組] 雑なお魚さん",
+      "team": "負け組",
+      "emoji": "😎",
+      "score": "0.09",
+      "kills": 15
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "負け組",
+      "score": "0.09",
+      "kills": 15
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYKAdYCZNOePAyDLilyVkNrmAfBcTcA9FzqVdHFBk8fAGAC5wABQ=",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#82f028"
+    },
+    "sz": 30
+  }
+}

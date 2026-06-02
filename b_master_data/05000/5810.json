@@ -1,0 +1,49 @@
+{
+  "round_id": 5810,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-15T22:56:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵幻魔帝] 万華武者",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "🦁",
+      "score": "45.62",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 🐷中山司🐷",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "19.40",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵幻魔帝",
+      "score": "45.62",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "19.40",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0oEOgCAIBFDyzv//5SZowiLd8ram9ESrJaJBmQGgt2xoI4BS2hKojji1y6u45rFFWWree10IEZkaNhCHOo/sNZ4tSUz4IB8h2Zm95ESxyk5mT0AtvXLszzSx90NzpMNsyaqVXOJGGbXWWleP/NaD193oyWfOOPw1P/UGZJQI5w==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#45cbf7",
+      "4": "#51e736",
+      "5": "#ea5387"
+    },
+    "sz": 30
+  }
+}

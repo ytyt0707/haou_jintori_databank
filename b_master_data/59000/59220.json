@@ -1,0 +1,57 @@
+{
+  "round_id": 59220,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-28T07:20:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[東卍] ドラケン",
+      "team": "東卍",
+      "emoji": "🐉",
+      "score": "57.62",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しz6",
+      "team": "",
+      "emoji": "🐱",
+      "score": "16.95",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇰🇷北朝鮮] 金正恩",
+      "team": "🇰🇷北朝鮮",
+      "emoji": "🤖",
+      "score": "0.12",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "東卍",
+      "score": "57.62",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷北朝鮮",
+      "score": "0.12",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkVESxCAIQ1GW+195BzQQtNvlR8sjMUPH4JKjmI0RUFEijXaoCmpmPukYSk1qWZ2qWycLixKLU+/VAFmLavXjRlCnXriMZ4Q41Inn8mlYLPF+pWGiCGGVLqUKyNkeKLyPXcXkJ7Tiy2Ys8Pa1xC9q9Pg4tKARb4kpFai33p0dI0cYcERTNtpm9cx1Y+0FPclDE62l/TXx7vxXGzvYm8CD+9zryYPaLvgCkukJMA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83042",
+      "4": "#59e830",
+      "5": "#a74de5"
+    },
+    "sz": 30
+  }
+}

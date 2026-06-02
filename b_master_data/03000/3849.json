@@ -1,0 +1,48 @@
+{
+  "round_id": 3849,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-11T12:35:35.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳黄巾族] 蓮舫",
+      "team": "🇨🇳黄巾族",
+      "emoji": "🦊",
+      "score": "13.62",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ロシア] アレクサンドルⅡ",
+      "team": "🇯🇵ロシア",
+      "emoji": "💩",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳黄巾族",
+      "score": "13.62",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ロシア",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNkuESgCAIgwf5/s/cRZATsNovz88BclO9BJOw7EZ1YkkC1B9k8lC4t7BQdOY36CTBEVx/Uqu41uZfUes4t3Q0IzsdpjrVRcfIVMi60mQN2i1kbxXu2hWe1gb7b9CXljfvN92O5fvvKeWm0iVWlWbz3isbenAsZypyoC3vlULuEcqeuQ9wAou2A0U=",
+    "cp": {
+      "1": "#6af17c",
+      "2": "#ebde4c",
+      "3": "#6fabeb",
+      "4": "#3ae4bf"
+    },
+    "sz": 30
+  }
+}

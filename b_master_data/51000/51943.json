@@ -1,0 +1,42 @@
+{
+  "round_id": 51943,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-11T21:55:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しuI",
+      "team": "",
+      "emoji": "😎",
+      "score": "60.78",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ソ連",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFklEOwCAIQ9uN+595QQUGMZplS8aP0AfFD4AUzJEYkCELLfgJLcYE7uaDun84kxwq/HeJttGmmImM8JVKrTAoYoovIBlUs+jo2YJmZKNwQ09q46Y+Nvw/DCx3Bz0nfUEnUF7Q9ehs2Uea3pj0wxTpib7NHXIBYRIJcA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#47e830",
+      "4": "#e230e8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "round_id": 19282,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-28T16:32:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] テスト",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐷",
+      "score": "93.33",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チー] チギュアってて草",
+      "team": "チー",
+      "emoji": "🐱",
+      "score": "1.85",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "93.33",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー",
+      "score": "1.85",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZh6BgGGQ+xnkPiY8bmRiYsIjTTtZPE6ishQjI14D8csyM2ORR4pzvIZj0YpwCiN+rXhlmXHKAgBbOgpV",
+    "cp": {
+      "1": "#f97316",
+      "2": "#30e8d7",
+      "3": "#f97316"
+    },
+    "sz": 30
+  }
+}

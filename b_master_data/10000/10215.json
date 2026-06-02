@@ -1,0 +1,56 @@
+{
+  "round_id": 10215,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-26T16:01:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🦊",
+      "score": "48.83",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うんち] 日清羅王",
+      "team": "うんち",
+      "emoji": "🐱",
+      "score": "25.50",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵最強] 避けろカス",
+      "team": "🇯🇵最強",
+      "emoji": "🤔",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "74.33",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵最強",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lkOgDAIBFCGydz/yqZ0o4slfhif01KU/Ckz0pYnALZXVkwqJdSmUoqDCkXsZ1benllAQueC2rYcVeL6MazniF0JIS4zOxYmVCoaKpqPC0DtecaR1VTt2Xr2Mztuoo0evmipTXnRo+nOm8bQtGgav1kdQlU2HF2Z2pBYo7qpOBbWRWfPiZNaZSV1nZVWfqA7H0n6JZzUX8qnutd/wfq3WwZJfgg9ChE=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#e740aa",
+      "5": "#e740aa"
+    },
+    "sz": 30
+  }
+}

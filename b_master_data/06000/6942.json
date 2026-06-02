@@ -1,0 +1,56 @@
+{
+  "round_id": 6942,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-18T12:09:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤔",
+      "score": "88.36",
+      "kills": 11
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪のはら] はまる",
+      "team": "🇩🇪のはら",
+      "emoji": "🤔",
+      "score": "0.08",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 爆弾廃人",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "88.36",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪のはら",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJy1kuEKwCAIhE9x7//Kw4oJ67z1Z0EhfOelFoIsIHcuRqckBT5Cnwm7h3ubHr3z71Q0JRoOUzCsIJE9lFqYLPmEtpKzUfHO1qgAOheUSFD+iVbNFx841slrl6/wQXnKFmhZT9+Xl7MsCzdBsgyw",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#ed643b",
+      "5": "#58ee6c"
+    },
+    "sz": 30
+  }
+}

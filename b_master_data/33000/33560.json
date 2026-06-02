@@ -1,0 +1,57 @@
+{
+  "round_id": 33560,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-04T14:02:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "黄泉ゲンスイ",
+      "team": "",
+      "emoji": "🥶",
+      "score": "86.46",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うさぎ] よし",
+      "team": "うさぎ",
+      "emoji": "🤪",
+      "score": "2.05",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[かめこ] かめ",
+      "team": "かめこ",
+      "emoji": "🐷",
+      "score": "1.45",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うさぎ",
+      "score": "2.05",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "かめこ",
+      "score": "1.45",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1UwEOgCAIvDj9/5cb4DAM11qLzYQ7DjALJABdANWXYQ7S7PCNpIiEb4KI1BFOWqsV1gssoN6drrV90AvbWtMCNYvmdLBZ7FJV2wzLiaxuDMcsnbh7L9mUnoK18EPfW3oC/quc2rwKwN2RbFpUbNyMf6bbfpFXZnxhq6kuTR5etP1fu8cJdxoJsA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#604de5",
+      "4": "#aad411",
+      "5": "#e230e8"
+    },
+    "sz": 30
+  }
+}

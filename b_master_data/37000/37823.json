@@ -1,0 +1,75 @@
+{
+  "round_id": 37823,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-11T04:01:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ジオン] シャアアズナブル",
+      "team": "ジオン",
+      "emoji": "🤖",
+      "score": "19.21",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しEP",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "17.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "完顔阿骨打",
+      "team": "",
+      "emoji": "⚔️",
+      "score": "10.15",
+      "kills": 11
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 山上徹也",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "7.75",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] B0T",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "0.12",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "24.91",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ジオン",
+      "score": "19.21",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kFGSQyEIBEcW8P433ppBUSup+JFHbBoQQGd8OUUA9znnZIKP4c6vuw9igjqivF8HwN9mkjfQF7ADq/TFn8KkjofeLoHmWRmAFebUt6UYq/EFTkhI99ysSN1J0y6o9XQuadoW9ur23Kxslt73HdDgn08aEdFpMDuxot8Ul2sjc8vLyl05NFcmm9VBRDbm0HmoqmRXC9EWATC5eyEeVayxWbDRarzVloktlaOXPLJcUfrHVecMqsZ4S8lGVZr96k0NK6inkWaalXBSDuW+Fu2kWi73sPb1dCiqXzPORHpdAv/wSwry",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#d4b611",
+      "5": "#30e8c6",
+      "6": "#9ca3af",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

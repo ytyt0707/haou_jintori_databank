@@ -1,0 +1,46 @@
+{
+  "round_id": 3483,
+  "game_mode": "TEAM",
+  "player_count": 2,
+  "played_at": "2026-01-10T16:40:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[埜] フウト",
+      "team": "埜",
+      "emoji": "🦁",
+      "score": "25.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ナチス] シュトロハイム",
+      "team": "🇩🇪ナチス",
+      "emoji": "👻",
+      "score": "0.32",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "埜",
+      "score": "25.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "0.32",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0ssOABAMRNFe///RtqgyEY+NWTanmUaYXU9SXVLlz8/rAKhOsYSyHlBkVAId6TcbRzGzkeutCc6fLLrIn+6dsfadd9VO/0180ZoTkwGOvAGk",
+    "cp": {
+      "1": "#64f2e8",
+      "2": "#edf69d"
+    },
+    "sz": 40
+  }
+}

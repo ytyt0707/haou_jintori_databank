@@ -1,0 +1,66 @@
+{
+  "round_id": 10145,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-26T12:14:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ぷゆゆ] 全員殴るよ？",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🦊",
+      "score": "57.07",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ぷゆゆ] 都電とおでん",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "😈",
+      "score": "15.03",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ぷゆゆ] パンテオン",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "👽",
+      "score": "12.46",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵EAT] とうもろこし",
+      "team": "🇯🇵EAT",
+      "emoji": "🐲",
+      "score": "1.30",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "84.56",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵EAT",
+      "score": "1.30",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJx10+sWBREIBeCOnf3+j3wWKsXozyzzySWIzICqSg6KAN4AhkcABEJx6QyBo0UyeHpus3ChoYXf2nCHklzcEnMnkzxyWVWzru4s2lB1cYx8xfjd+1vZe+/UT8VbxdQ3vIf/5e2san3NHQheRbY6r2lZjpb2ieTj4GemF1JRDl58UaMao0vcqlke0VAqdesaeyfPy5dVbcVbkZi2tMCi2KpZpajf/PQYrHbHZU9PxWeJtyXyB5xGC0s=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#d243e5",
+      "4": "#d243e5",
+      "5": "#f7f450",
+      "6": "#d243e5"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "round_id": 15237,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-15T01:38:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "🦄",
+      "score": "36.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "😀",
+      "score": "24.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵雑魚] 最弱/重音テト",
+      "team": "🇯🇵雑魚",
+      "emoji": "🐲",
+      "score": "12.63",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵雑魚] 神",
+      "team": "🇯🇵雑魚",
+      "emoji": "🤠",
+      "score": "0.06",
+      "kills": 11
+    },
+    {
+      "rank_position": 7,
+      "player_name": "名無し0I",
+      "team": "",
+      "emoji": "😈",
+      "score": "0.06",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵万華郷",
+      "score": "24.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵雑魚",
+      "score": "12.70",
+      "kills": 16
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0oEKxCAMA9BcS+j///HRds6o23GBjelrRZxAx0fM3czNLAe449Zq9bIqwXCiYVgOPtLtDssHvXIX3JwfLJW5TERUGSkbaY1KFlG0tnxZRNSYNTeiiu4mp2JRMAueNFC70qhGzGX5j3ro0q2y/Ka+ZqKD+65UncTP3lcljpWTr39UhzF7t7pWuJy21BI9O7LocmDN903dz7ODE8M3XXD24lnl0jk2Vq2n7+SBZxb7Ah78DGk=",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#33aaf0",
+      "5": "#2cf239",
+      "7": "#ee683f"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "round_id": 58066,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-25T16:58:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "34.25",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 抵抗プリウス",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "6.34",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] たぬぴ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "34.25",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "6.43",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkEEOwzAIBDcg/v/lCpvFjqGWWi4omswCVjMzVdPH7AGge8FhFmA7VJ0kGk4cdGA49TmlnLAW5Boko6ce9AXB9DjhDQcd2nQLpeUrHBCmpCfxb3Oh0+bPvKlT13P39OoSlnU9K+Hf1CO6re7Ja3DnfqMcxOzWTbmhIhcqIvkgv7qIZI+v7ja2oblSdXlo9A9zowTW",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#a74de5",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

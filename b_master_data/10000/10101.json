@@ -1,0 +1,91 @@
+{
+  "round_id": 10101,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-26T09:51:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🦊",
+      "score": "33.61",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵彼借専] てかSEXしてー",
+      "team": "🇯🇵彼借専",
+      "emoji": "👽",
+      "score": "16.80",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇰🇷慶尚道] ティンコゥ",
+      "team": "🇰🇷慶尚道",
+      "emoji": "💩",
+      "score": "5.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇳万華郷] あんこ",
+      "team": "🇨🇳万華郷",
+      "emoji": "🐱",
+      "score": "0.07",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇨🇳チギュ] 覇王ロゼであるw",
+      "team": "🇨🇳チギュ",
+      "emoji": "🦄",
+      "score": "0.00",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "33.61",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵彼借専",
+      "score": "16.80",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇰🇷慶尚道",
+      "score": "5.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇨🇳万華郷",
+      "score": "0.07",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇨🇳チギュ",
+      "score": "0.00",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0lEOgCAMA9Aujt3/yEbFMWuBfgmPwSDCgPYEPS0DGI3r6GIzazrgYmLDTqfIbSq+PsbcQeruqh5DBQ/1Ze1G87m/8mq/GYq9lUOb1HInzBUcr+/BGJG/BQQGTxHfkYQVLiqLqhXxy6KWOJuSHYTaPObn0t7/VYkndkcKbw==",
+    "cp": {
+      "1": "#ee7278",
+      "3": "#5d7ee9",
+      "4": "#3bcae3",
+      "5": "#95f94d",
+      "6": "#f736d7"
+    },
+    "sz": 30
+  }
+}

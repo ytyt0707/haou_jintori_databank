@@ -1,0 +1,46 @@
+{
+  "round_id": 9687,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-25T11:28:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸大正義] 合衆国",
+      "team": "🇺🇸大正義",
+      "emoji": "🦁",
+      "score": "85.07",
+      "kills": 11
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇸🇦bot] 名無し👾",
+      "team": "🇸🇦bot",
+      "emoji": "👻",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸大正義",
+      "score": "85.07",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇸🇦bot",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJylkkEKACAIBCP8/5tDIlDQ2SgvUqObtJpBDA+FuwJuJt3d6wnpo/IHJSgo1/j9hKlI+8ajfh72SCkHoZjq3nAuhJHKbWH6vC3KcuH5eTl/Sw6zsQAT7gxP",
+    "cp": {
+      "2": "#48efaf",
+      "4": "#666dea"
+    },
+    "sz": 30
+  }
+}

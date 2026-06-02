@@ -1,0 +1,107 @@
+{
+  "round_id": 4104,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-12T02:32:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] はじまん",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "32.28",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] アハンオケツイク",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "16.49",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 初めてです",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "14.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 千石撫子",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "7.46",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "おんjキッズ",
+      "team": "",
+      "emoji": "🦄",
+      "score": "3.47",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "👽",
+      "score": "2.98",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵下痢便] もんも🤥",
+      "team": "🇯🇵下痢便",
+      "emoji": "🐶",
+      "score": "0.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[楚] 💩",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "70.31",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "2.98",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵下痢便",
+      "score": "0.98",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90llywzAMA1DUABlN7n/gDhcpltwUv4/w0LSBMxfJqwOHdyCXJGam3qMfie0xYbtKICV3upN4aJQ8lCSwI/qhTr+owFemB7LTfQGNi33hd/Wpfqj8062db1gX0V23xN7K7G80L1phvdIRnfp+b+pJ8WgrXYyH2r27dpJk5mbb4iTHVBRbnmFihPlG1nEIQE4Grm5kTrmPyqG+aS3GLgE+ajkNjZHfCfFzpAOopUxWrRq4J7vWZyR4/OmfKz+rwfpH1wn/7tYEvutM2C9ijA4V",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#7150e7",
+      "4": "#7150e7",
+      "5": "#7150e7",
+      "6": "#7150e7",
+      "7": "#28f651",
+      "8": "#f66a94",
+      "10": "#a1f55b"
+    },
+    "sz": 30
+  }
+}

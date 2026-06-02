@@ -1,0 +1,83 @@
+{
+  "round_id": 16579,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-18T10:40:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 泉サキ",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "23.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "21.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 山上徹也",
+      "team": "みん²",
+      "emoji": "😀",
+      "score": "20.80",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "シャク",
+      "team": "",
+      "emoji": "🤠",
+      "score": "10.95",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵はにわ] 名無し",
+      "team": "🇯🇵はにわ",
+      "emoji": "🦊",
+      "score": "0.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[みん²] パンテオン",
+      "team": "みん²",
+      "emoji": "😀",
+      "score": "0.19",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "65.42",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵はにわ",
+      "score": "0.24",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9ktsOwzAIQz2K2f//8QSFQJpqfqnE4WJIAZemSBlCiyHZtaiShFO+UR7FOKjqW2flG1VAb88JW05dSXFDWXiksoNbi7wDFcFEngzUaUr3BKYrLsuzJ7O2j1HwO4t7mzgGfR3fhY0vyYS4pUJqiM7ZAlJQ06LUG1xcdHiJxh2432acPSxRKugPFJ+CNSMS1vtK/l4N3RI+n/65VM0WS9rYQg9a3GzHHipsU4t6tT2pJYU3t0NNj8J/VNCukt6nDLY2xg8kWgr0",
+    "cp": {
+      "1": "#c035f3",
+      "2": "#ea3ec2",
+      "3": "#eeea68",
+      "4": "#ea3ec2",
+      "5": "#ea3ec2",
+      "6": "#ec8669",
+      "7": "#ea3ec2"
+    },
+    "sz": 30
+  }
+}

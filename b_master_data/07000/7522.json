@@ -1,0 +1,50 @@
+{
+  "round_id": 7522,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-19T19:31:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "山上 徹也",
+      "team": "",
+      "emoji": "🐲",
+      "score": "51.28",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ミヤマ] ハートリー",
+      "team": "ミヤマ",
+      "emoji": "🦄",
+      "score": "7.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ミヤマ] 安倍晋三",
+      "team": "ミヤマ",
+      "emoji": "👽",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ミヤマ",
+      "score": "7.12",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJytklEKwCAMQ7O19z/zKMWBock+Zj4U+5oIVsAqlc5R7vPebKgarDU5+bL0T/IZWnX9HFW3VI8QaQesvf5/jBQDWBwSfSi2QwTR6GLUOtBdjvK1K7F3ovfrByOrBxpFB/M=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#8140f2",
+      "4": "#6ff566"
+    },
+    "sz": 30
+  }
+}

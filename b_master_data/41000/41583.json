@@ -1,0 +1,73 @@
+{
+  "round_id": 41583,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-18T01:55:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 山上徹也",
+      "team": "みん²",
+      "emoji": "👽",
+      "score": "55.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 雑魚",
+      "team": "みん²",
+      "emoji": "🗡️",
+      "score": "5.98",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "0.57",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] な",
+      "team": "みん²",
+      "emoji": "🤖",
+      "score": "0.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] え？",
+      "team": "みん²",
+      "emoji": "😇",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "61.60",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.57",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klESAyEIQ9nBcv8jtyEBsTv6ocgziIgZRixbFrAcg7MnMvMI0GUOTx7gZOEeNfzTctEBI2Ob+/NIb6TYxZvSG/+0xHUrtEzSbUS2iHCJE+Peh68yvSpDC+60iob7Crw1n9taYOavW7HRxShN5XLQTJqeMTOMxMOfpmAtBy5nrwed35MnmjK5VtFoKuPEdOavqxQz/KTTPyPDrpJ1bPYRW+lsKB2pyN2IW7qL3L5tIIut3f5tXajSv1DJrzTVVwo14btIaK8f+wLBlweH",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#c030e8",
+      "4": "#9ca3af",
+      "5": "#c030e8",
+      "6": "#c030e8"
+    },
+    "sz": 30
+  }
+}

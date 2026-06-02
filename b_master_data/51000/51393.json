@@ -1,0 +1,75 @@
+{
+  "round_id": 51393,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-10T16:11:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ボンっ] ぐーぼん",
+      "team": "ボンっ",
+      "emoji": "⚽",
+      "score": "20.18",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ぅゅぅぅ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦄",
+      "score": "10.19",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しUX",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦊",
+      "score": "1.99",
+      "kills": 11
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ボンっ] 爆弾/自認レゼ",
+      "team": "ボンっ",
+      "emoji": "💣",
+      "score": "0.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ボンっ] 名無しRJ",
+      "team": "ボンっ",
+      "emoji": "😍",
+      "score": "0.41",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ボンっ",
+      "score": "21.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "12.18",
+      "kills": 17
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkgsOwyAMQ4PtrPe/8ZaQFihVpSEhkB4mzsfsn9Xay+v2RttGNX21QZIDP9EJ22qKi9bs5mrBfsMBKzLM3NbICSUzCQh7y9dFJZGBN61ykXTgwXNRd09XU1IiSxtwo51JHj8TBkyhh5B0Jo5WlPNL6gzTTNcj8okjIxYdbbmoCGwZD6pO52p1CKAuUctRkpPWmQ0ZmIJi6zgkIfvVzGqcqlJdqqudlRP1KRJHaqdBWrUpHtlaeT31E8krYihOGEOyLEDl8E5+z76A1gTt",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#d4b611",
+      "5": "#9ca3af",
+      "6": "#d4b611",
+      "7": "#d4b611"
+    },
+    "sz": 30
+  }
+}

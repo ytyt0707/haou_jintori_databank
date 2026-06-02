@@ -1,0 +1,48 @@
+{
+  "round_id": 57392,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-24T04:31:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[一匹狼] 珉珉",
+      "team": "一匹狼",
+      "emoji": "🤍",
+      "score": "15.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "12.71",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "一匹狼",
+      "score": "15.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "12.71",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kkESAyEIBAfx/29ODYhDElLJJRyUsmlwt1wrAmshwhUAEnIdYKOBZTqr5f5AQTmX7gJnMBykcYvbmTPypK85N05IS+olyr9QFf41O9/1YcZA995j8b4x4MtG+Znyd/cWjU6TG+5W5cJ1cncDRF9bG0P4SPFUkK/FRY9MSi24aLr5RAO7v3UWNaYl1115BrD1TKPOzLjTjaRkhHkoDFmW9AHW+ARH",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#73d411"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "round_id": 6098,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-16T14:30:33.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "クラピカ",
+      "team": "",
+      "emoji": "🤔",
+      "score": "5.96",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵うんち] 🐷中山司🐷",
+      "team": "🇯🇵うんち",
+      "emoji": "🦊",
+      "score": "2.73",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "2.73",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0UESgCAMQ9HU4P2v7FjUQYS/cqHZPgrpIH0gpZDVDMg2qHwN89WSop9083C06sxyatyxci6047PvofPG/w7846tZyTKssyOsYhVr1h7aBnF/Ajw=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#7639f9",
+      "4": "#ef6ff1",
+      "5": "#a2ee3f"
+    },
+    "sz": 30
+  }
+}

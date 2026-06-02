@@ -1,0 +1,138 @@
+{
+  "round_id": 50001,
+  "game_mode": "TEAM",
+  "player_count": 14,
+  "played_at": "2026-05-07T12:55:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チー牛] も",
+      "team": "チー牛",
+      "emoji": "😍",
+      "score": "35.62",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤓",
+      "score": "11.18",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無し4I",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤩",
+      "score": "10.01",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チー牛] 岩井映美里",
+      "team": "チー牛",
+      "emoji": "⭐",
+      "score": "5.90",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 上下",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦁",
+      "score": "5.04",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] 羽山",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.97",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[てすと] 名無しQG",
+      "team": "てすと",
+      "emoji": "🦊",
+      "score": "1.49",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😆",
+      "score": "1.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵たぬき] 関税局",
+      "team": "🇯🇵たぬき",
+      "emoji": "🐶",
+      "score": "0.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[てすと] ニャル子",
+      "team": "てすと",
+      "emoji": "😍",
+      "score": "0.37",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チー牛",
+      "score": "41.52",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "15.05",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵陽キャ",
+      "score": "11.18",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "1.97",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "てすと",
+      "score": "1.87",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAF90usOwyAIBeBjKwmC9v0fd+HitGuz/unqxwFJRkRtf0o9SilF/AGZYvlRNhWi67oWtlZqrRmV0Bu3Wms0FkGEt+GSysyhrc27WSiTzMx2LTo8mu2yryE7us5ZoY6uvlUThEfjh4pInw0kFCBV3xew8OkOwBlQNSYi73zCqhI51NID0nvvpjM6FWhjoPfzRaN8jBWNsZmFesG378/cUCs52QtzI7uy6lzPQqbxzb7QVM7jiaHIbCbWy/ddrRb4Lxui+h30onaPn+P89OtvO9yrluKlxaYv/W96b2v/uu15YMzKiqf+P/kAYPIW9A==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#8B4513",
+      "5": "#9ca3af",
+      "8": "#4d81e5",
+      "9": "#9ca3af",
+      "10": "#e83075",
+      "11": "#4d81e5",
+      "12": "#4d56e5",
+      "13": "#59e830",
+      "14": "#30e85e"
+    },
+    "sz": 30
+  }
+}

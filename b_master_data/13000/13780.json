@@ -1,0 +1,48 @@
+{
+  "round_id": 13780,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-11T17:59:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] アベベ",
+      "team": "🇯🇵自民党",
+      "emoji": "🤔",
+      "score": "45.32",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇪🇸裁判所] 5時間やる奴どこ",
+      "team": "🇪🇸裁判所",
+      "emoji": "🦁",
+      "score": "0.79",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "45.32",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸裁判所",
+      "score": "0.79",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10usOgCAIBeAj8P7P3Iw0btraij9ufEDSBFKIiOh5ZyZoQKBFJmP0zNuMC23dKJLC66Z53Lgoylt+pe/4aXqs+E1dno1SVObAyDrHUmyeT2p1raEohse3FNFuRKqt2pZItVVKPdCs2R91qfuutkBI+oGiFYtIcgDDAQbN",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#34eae4",
+      "4": "#faed5c"
+    },
+    "sz": 30
+  }
+}

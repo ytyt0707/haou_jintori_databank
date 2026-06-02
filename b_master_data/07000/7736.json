@@ -1,0 +1,48 @@
+{
+  "round_id": 7736,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-20T07:05:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵グリコ] けんた",
+      "team": "🇯🇵グリコ",
+      "emoji": "😈",
+      "score": "28.63",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🐟雑] 爆弾/自認レゼ",
+      "team": "🐟雑",
+      "emoji": "😍",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵グリコ",
+      "score": "28.63",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🐟雑",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0EEOwCAIBMAF+v83NxoaUKBVb92LhtmEBMCHiNK/jaiP9cmZvjTQumZo/CtFdcYNdXwlWqz2kSfvqh2rSsCxeazJ2omPtd7LpXKLDPeZkMPttF2oS3MANx06A8o=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ab25f8",
+      "4": "#c0e830"
+    },
+    "sz": 30
+  }
+}

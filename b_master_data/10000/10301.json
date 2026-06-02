@@ -1,0 +1,135 @@
+{
+  "round_id": 10301,
+  "game_mode": "TEAM",
+  "player_count": 12,
+  "played_at": "2026-01-31T14:14:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵菱] トラパ",
+      "team": "🇯🇵菱",
+      "emoji": "😀",
+      "score": "26.14",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[カス] 〇ね",
+      "team": "カス",
+      "emoji": "😀",
+      "score": "16.17",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "リモコンウ",
+      "team": "",
+      "emoji": "🐶",
+      "score": "9.61",
+      "kills": 13
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[○] 🐾",
+      "team": "○",
+      "emoji": "😎",
+      "score": "8.37",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "5.83",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇨🇳チギュ] チギュりパン",
+      "team": "🇨🇳チギュ",
+      "emoji": "😀",
+      "score": "0.52",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵うんち] ぷゆゆ侍",
+      "team": "🇯🇵うんち",
+      "emoji": "👻",
+      "score": "0.31",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "😂",
+      "score": "0.04",
+      "kills": 6
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[楚] 🐟💦",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "0.00",
+      "kills": 5
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[マター] 大英帝国海軍",
+      "team": "マター",
+      "emoji": "🤖",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵菱",
+      "score": "26.14",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "カス",
+      "score": "16.17",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "○",
+      "score": "8.37",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "楚",
+      "score": "5.83",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇨🇳チギュ",
+      "score": "0.52",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0+0OhSAIBuD3QLjRuv/rbYohaJ71/mi5J8SPBXyJpJGyKjMPFYjYJ6q6aotZo702O88JBaruVYUkpPeFlQNIKriu0TnPW5OVMkNkrAtENBVL3FHjpKUAzF5MflZdnXtxLC+Vh05H0vQJ+fubotjQnl3dyyb/MJUeGzasCTRu3igys/uxYJx66O+Fv+rbqnc6tT1WfDgfKpLmXypc0A2S9Qyz",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#d7ee72",
+      "4": "#f0dc28",
+      "5": "#f5875c",
+      "6": "#3c7af6",
+      "9": "#f651b9",
+      "10": "#6be2f5",
+      "12": "#655eed"
+    },
+    "sz": 30
+  }
+}

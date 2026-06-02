@@ -1,0 +1,77 @@
+{
+  "round_id": 4546,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-13T02:35:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "😍",
+      "score": "27.70",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "16.52",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[共産党] けんじ",
+      "team": "共産党",
+      "emoji": "👽",
+      "score": "0.91",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ぷゆゆ] わしょいヘンテコ",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "😀",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ローマ",
+      "score": "27.70",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "16.52",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "共産党",
+      "score": "0.91",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0FESgCAIBNA1d7z/kZsSFWVpcvpQngIBAGi2YAe83wjYtq1lMTj22HoShf0poJ+2UT9XvOl1XXzXzXVGsryZ+oguu5c4fPzNGsgcjNtGxW+NIVJf5QPkzgSKoa0jVdnwZKbqqUadNWv90sVSGXA2Rl6XaBlHw4K3K3qU44aWGLsBhGcIfQ==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#35c2e9",
+      "4": "#e2a636",
+      "6": "#f953ae"
+    },
+    "sz": 30
+  }
+}

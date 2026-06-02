@@ -1,0 +1,78 @@
+{
+  "round_id": 2007,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-07T08:11:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "26.03",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] は？",
+      "team": "みん²",
+      "emoji": "😈",
+      "score": "25.61",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "😍",
+      "score": "11.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 最強のデブ",
+      "team": "みん²",
+      "emoji": "😍",
+      "score": "0.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇺🇸うんこ] うんこアメリカ",
+      "team": "🇺🇸うんこ",
+      "emoji": "🤠",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "52.12",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "11.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇺🇸うんこ",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN01ESxCAIA9AQx/tfeWexrYCI5rdvUqgW0IiIoIyY9NT23hdHuucaKhQfTlk4ak6OdA6VEyPfwo6kz7y7z/j5hpty4+iydy+Uk7ON/+nvnGPJeSTSOCzQsdiXwXivSA+/hZ3jw6xDnI9r286NbcKJYA4YNlmh+UEwK6NLf6Qbd9v37QvU79U7Kvrw4J6H+zrGyXZ1EyJnMGdrRObes2XtHiJ+rqD0G6zXKUt0G4axqrQDA9nI1thKpZuQ0lrd5i7CqU8/TkXu8wPuTQhz",
+    "cp": {
+      "1": "#f2705f",
+      "2": "#f2705f",
+      "3": "#f2705f",
+      "5": "#ae63e3"
+    },
+    "sz": 40
+  }
+}

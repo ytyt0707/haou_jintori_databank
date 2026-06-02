@@ -1,0 +1,57 @@
+{
+  "round_id": 37179,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-10T08:27:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[金] 完顔阿骨打",
+      "team": "金",
+      "emoji": "⚔️",
+      "score": "27.14",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] たぬき見習い",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "16.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "不殺の誓い",
+      "team": "",
+      "emoji": "🕊️",
+      "score": "5.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "金",
+      "score": "27.14",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "16.77",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFklkOBCEIREvF+195whIEpB1+GnlUAUkDKSjEGCMxKBv2+UMpac3WtESZmvOZzdrtBqdOxA4OJIn0gsFZZpeLGHvLrM5CAWmYN4UuIvPnnHkre/nBLVVrqkvl04tyc5SaPwU2VBUfVAyV3VKrP6Te4Vto4nVLIq4sn9TQsNibosVLo4Xb4Fqd9E3h2sYakfIPvWMTDv4BVOwH/Q==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#36e830",
+      "4": "#8B4513",
+      "5": "#e830cb"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 40337,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-15T06:33:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵歌手] 泉谷しげる",
+      "team": "🇯🇵歌手",
+      "emoji": "🥶",
+      "score": "88.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しq3",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤠",
+      "score": "0.22",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵歌手",
+      "score": "88.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.22",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtUUEOwCAIo+3+/+ZtGIyEYLztsh6EUkoCAoApwZy/jwFIUiautg0YyJbJ9qq0NQuuz2ElcXepRoEkI6+RZLuTpM48jkjyqiOj0nlDP43rh635qf/v+/4CNqAn3CbaCfI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

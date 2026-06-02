@@ -1,0 +1,62 @@
+{
+  "round_id": 17868,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-25T10:12:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵北近江] 浅井長々",
+      "team": "🇯🇵北近江",
+      "emoji": "🦊",
+      "score": "33.54",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🐶",
+      "score": "8.78",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵楚] パンテオン",
+      "team": "🇯🇵楚",
+      "emoji": "😂",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵北近江",
+      "score": "33.54",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵陽キャ",
+      "score": "8.78",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵楚",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0FEKwCAMA9B06f3PPGQyTNG4H2H5Eh+pRSATmmjp53wjjMqjkktuuNSo3Uu7fDLdK6yCHBley49U1dCxxa/VGW/UjrZVr/ZZnlI6pVP+VSHXN4x8BNk=",
+    "cp": {
+      "1": "#e7f65a",
+      "2": "#ea6681",
+      "3": "#a427f1",
+      "4": "#5058f7"
+    },
+    "sz": 30
+  }
+}

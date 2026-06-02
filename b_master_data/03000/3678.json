@@ -1,0 +1,105 @@
+{
+  "round_id": 3678,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-11T03:15:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] ベネット",
+      "team": "うんち",
+      "emoji": "🐱",
+      "score": "24.94",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うんち] 東大医学部頭悪い",
+      "team": "うんち",
+      "emoji": "💩",
+      "score": "18.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇵🇭ぷゆ帝] ぷゆゆ🥺",
+      "team": "🇵🇭ぷゆ帝",
+      "emoji": "😂",
+      "score": "8.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[うんち] ヘルツネ",
+      "team": "うんち",
+      "emoji": "😍",
+      "score": "5.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵🇯🇵Y] うめ",
+      "team": "🇯🇵🇯🇵Y",
+      "emoji": "🦊",
+      "score": "3.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[うんち] うんこ",
+      "team": "うんち",
+      "emoji": "🦊",
+      "score": "0.88",
+      "kills": 3
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "0.25",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "49.65",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇵🇭ぷゆ帝",
+      "score": "8.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵🇯🇵Y",
+      "score": "3.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "楚",
+      "score": "0.25",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN1dEWgyAIBmCgKfD+L7yDiGJaGzdb9Z2f0NUADiWnk8ycjgi4nRIxjJhZl/7hxyyCrW5uq3D47Oyq9XVHry5D+tclaFcWh2KFgpXIZcrA/t2PRaRiXTv34Ya7wqXO7Rr4IgR0h9LZCFzymPnyKRa39724j2GS7nkw76+P6xVs7du/NVg7czdikLMjrLUzAoicGedrZiPIZBl6aq01MmlUcrFnNXoLHZxDYF9qVUXJjlbHDNpLXh0Op7o7xrEmqjrpk8Pm9OB8jv5I4HTww6keA+e2+TC6xKXAyLvPujpI67I33dpG2S/sxj6f4QZs+2Z32jI2h4uzHS6F1jo5Y63eHT+6dH+Q3WNge6CQStnh2tgcPDtIcT9dvBcgQduvxPJL3auU/W/hCz63FOY=",
+    "cp": {
+      "1": "#e74def",
+      "2": "#5497fc",
+      "3": "#f94e98",
+      "4": "#5bfc4f",
+      "5": "#fcc17d",
+      "6": "#e74def",
+      "7": "#e74def",
+      "8": "#e74def",
+      "9": "#67feef"
+    },
+    "sz": 40
+  }
+}

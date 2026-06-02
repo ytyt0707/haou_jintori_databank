@@ -1,0 +1,65 @@
+{
+  "round_id": 30651,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-26T13:56:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵寝たい] ねむい",
+      "team": "🇯🇵寝たい",
+      "emoji": "🤖",
+      "score": "9.53",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂あいす] 村上宗隆！",
+      "team": "🍂あいす",
+      "emoji": "🛻",
+      "score": "0.67",
+      "kills": 21
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しeP",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.64",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "player_name": "岡本和真",
+      "team": "",
+      "emoji": "🦊",
+      "score": "0.25",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵寝たい",
+      "score": "9.53",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂あいす",
+      "score": "0.67",
+      "kills": 21
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkkEKwDAIBBdj+v8nF6NYEWOhEOpJd3T1IOAxPFwKicBQprSlyzcNWGkra1irVy2beo62a3tI1PG/aHcTSK6ac9NzmG62Qq/6RN9/cADMzNl9DRINBAf9Wuk0SpGqg/Y8ndk31DcoGAGP",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#7c4de5",
+      "5": "#30c6e8",
+      "6": "#e830dd"
+    },
+    "sz": 30
+  }
+}

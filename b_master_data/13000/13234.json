@@ -1,0 +1,101 @@
+{
+  "round_id": 13234,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-10T12:28:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] アベベ",
+      "team": "🇯🇵自民党",
+      "emoji": "🤠",
+      "score": "4.68",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷荒らし] 弾道🤥弾",
+      "team": "🇰🇷荒らし",
+      "emoji": "🤠",
+      "score": "4.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] クウガ🩲",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "2.26",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "1.98",
+      "kills": 12
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😀",
+      "score": "1.28",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐲",
+      "score": "0.86",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "4.68",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "4.24",
+      "kills": 15
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇰🇷荒らし",
+      "score": "4.24",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "猛虎軍",
+      "score": "1.28",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇬🇧珍走団",
+      "score": "0.86",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0IsKgCAMBdDFRvP+/w9HpuZri6wLInjYnBK9zB7zQc3O4hiRiD+XySISl932Sf2LuzD76jl7zCn/a3Zv8CFYVQBZQwjnpi1WGplUJ1qKtSmmm7vWVOt0rPFwS1mpLZ9g1eJ6DnAAX0wDWA==",
+    "cp": {
+      "1": "#f74b59",
+      "3": "#f87d30",
+      "4": "#e4d03a",
+      "6": "#e4d03a",
+      "7": "#2354f6",
+      "8": "#e63da2",
+      "9": "#2ad6f8"
+    },
+    "sz": 30
+  }
+}

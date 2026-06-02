@@ -1,0 +1,47 @@
+{
+  "round_id": 4106,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-12T02:38:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 初めてです",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "28.72",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪ナチス] 馘",
+      "team": "🇩🇪ナチス",
+      "emoji": "😂",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "28.72",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0DEOACAIA0C0//+zER0IgTKogx09GwWRma6RLDWnpvxI6acKPX2Ydb8MkJyrIWD4UDxSe48p7mujHdON62scv0Ksve4M8ioDaw==",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#a663f8"
+    },
+    "sz": 30
+  }
+}

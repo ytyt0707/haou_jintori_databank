@@ -1,0 +1,100 @@
+{
+  "round_id": 4572,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-13T03:59:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺ソ連] ウホカイジ",
+      "team": "🇷🇺ソ連",
+      "emoji": "🦄",
+      "score": "19.76",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇸🇦bot] まままま",
+      "team": "🇸🇦bot",
+      "emoji": "🐶",
+      "score": "1.81",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "1.23",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵安倍] 神",
+      "team": "🇯🇵安倍",
+      "emoji": "🐶",
+      "score": "0.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵さとる] やの",
+      "team": "🇯🇵さとる",
+      "emoji": "🐷",
+      "score": "0.00",
+      "kills": 6
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[北朝鮮] 弾道💩ミサイル",
+      "team": "北朝鮮",
+      "emoji": "🐲",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺ソ連",
+      "score": "19.76",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇸🇦bot",
+      "score": "1.81",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "1.23",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵安倍",
+      "score": "0.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵さとる",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0OEKwCAIBOCbjvD9n3iwopbarbH7px+WCMwRCEjks5rtaRLrKhKHN1USNaojQpnPpnfUlqD6zJsuHv2rrXXmo2FYKd+tUhQpdwVXrP6tioGH2woTOwXXEs40NKVpk1qClS4XQyEDPg==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#e8e545",
+      "4": "#57ea68",
+      "6": "#915de9",
+      "8": "#a1f75f"
+    },
+    "sz": 30
+  }
+}

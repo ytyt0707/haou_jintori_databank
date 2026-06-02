@@ -1,0 +1,55 @@
+{
+  "round_id": 36875,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-09T16:01:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] ツイフェミ",
+      "team": "🇯🇵自民党",
+      "emoji": "🦁",
+      "score": "1.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇪波] 並",
+      "team": "🇻🇪波",
+      "emoji": "🤑",
+      "score": "0.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇪波] 爆弾/自認レゼ",
+      "team": "🇻🇪波",
+      "emoji": "😈",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "1.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇪波",
+      "score": "0.10",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYBgRgIkJnzfxyzLgl2bCL01QN+kOY4ZpwespmKJBQrOy4nMIK15pCmXx2ozPVXSSAwCOyQBv",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#bcd411",
+      "5": "#e830ba"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "round_id": 19400,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-28T22:54:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しMP",
+      "team": "",
+      "emoji": "🐷",
+      "score": "4.62",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しxX",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "2.51",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳共産党] プー太郎",
+      "team": "🇨🇳共産党",
+      "emoji": "😀",
+      "score": "2.47",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.51",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳共産党",
+      "score": "2.47",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9jkEKADEIA2Pt/9+8qC0s1IQels2lkKmjwEXmFJ9mhn3QFHI2aO8dVRPaz/zeriPXc64flRNUo/GmxL4xkScmLOpBtPsyMdoj6etHPmgtHO7eqszMPMJoQkYL9hRKDCA2v5c+2bcBDw==",
+    "cp": {
+      "1": "#f97316",
+      "2": "#e84230",
+      "3": "#f97316",
+      "4": "#59e830"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 37223,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-10T10:50:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🥺",
+      "score": "80.56",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] ポケモンBBS",
+      "team": "🇯🇵自民党",
+      "emoji": "🦊",
+      "score": "1.89",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "80.56",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "1.89",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlk9EOgCAIRW/S/39zAwxhArbFgwHHC0wT8EZEPgSITT7Tl4Que8ZBFflE8P9oSacK9VYglceKo6d9R8EnjRKLDjPbvsxpRz6cVVbva67ve6jSi0sqoKTSc9HLz3CzlachFEB+/2DMNDVAYEn1r0+l9iJeGnvYe1HMoSmM9c4DOs0IzA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#d4c811"
+    },
+    "sz": 30
+  }
+}

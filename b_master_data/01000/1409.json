@@ -1,0 +1,132 @@
+{
+  "round_id": 1409,
+  "game_mode": "TEAM",
+  "player_count": 14,
+  "played_at": "2026-01-05T22:34:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "18.87",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[黒虎] 山田勝己",
+      "team": "黒虎",
+      "emoji": "😍",
+      "score": "5.63",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "SCP-4162",
+      "team": "",
+      "emoji": "🤔",
+      "score": "5.17",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "x",
+      "team": "",
+      "emoji": "😀",
+      "score": "2.77",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] 米子",
+      "team": "猛虎軍",
+      "emoji": "🤔",
+      "score": "2.36",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] 彩喜",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "2.04",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[日本軍] 隊長まりも",
+      "team": "日本軍",
+      "emoji": "🦄",
+      "score": "1.34",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[日本軍] 浅井長々",
+      "team": "日本軍",
+      "emoji": "💩",
+      "score": "1.28",
+      "kills": 4
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[ぷゆゆ] 🥺",
+      "team": "ぷゆゆ",
+      "emoji": "🦁",
+      "score": "0.93",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "18.87",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "5.64",
+      "kills": 17
+    },
+    {
+      "rank_position": 3,
+      "team_name": "黒虎",
+      "score": "5.63",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "team_name": "日本軍",
+      "score": "3.01",
+      "kills": 10
+    },
+    {
+      "rank_position": 5,
+      "team_name": "ぷゆゆ",
+      "score": "0.93",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10ocOgzAMBFCTxAxz6f9/bpW9aVWpJ4EQPC5mEP0a4wN8oxo3vSWzfBUTZ0znAEycaRwSG2DjSl1y+76PjpgZzLp1gZoKeqK15tGFNVIha8dcynxx5eSAl+tCVNDdc6DkdZ6hjAHmtYN37Db+5Jg5sGfHG6c8OADb6cX43Xq3bQCF7/fR+de8+BszzLeUa3fY3/ekeKwbHPXrDn1E2c0LU/DgULmbsPrz0bg0Aj23xZFnqZhauqM4IqVWXceRC8m5FWyc8pm6+FAiAqV6h+7QWhGR0VUsOicbdl1tXXbW2tZd43zFUWGdKwPa6vTgUkSkPfGt+0veFq4YJg==",
+    "cp": {
+      "1": "#fa7970",
+      "2": "#90effd",
+      "3": "#fa7970",
+      "4": "#b36aec",
+      "5": "#fa7970",
+      "6": "#f0c77a",
+      "7": "#f467e8",
+      "8": "#fa7970",
+      "9": "#7d88e8",
+      "10": "#f467e8",
+      "11": "#bafa8e",
+      "12": "#8ceda0",
+      "13": "#f467e8",
+      "14": "#fc54a3"
+    },
+    "sz": 40
+  }
+}

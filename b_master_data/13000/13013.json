@@ -1,0 +1,57 @@
+{
+  "round_id": 13013,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-07T16:28:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "😈",
+      "score": "68.27",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] ぷゆゆ🥺",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤖",
+      "score": "10.13",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 爆弾/自認レゼ",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "78.40",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF01ESgCAIBNBF4v5XbhAwESo+ynqzoM0EDFgRAZAofzkwhj2SuqRSG7bK4VlhImKInA0jnZVRfGrsJDeWhXSKzd36VEXqXE60dS9p7LfSep6wnGTX+hWStjnT+g2Sf2fLSGZeSb1eBwY3XQP52S+w1ku525Frjz6YVSfTm0pR5kP76K9W5k/Fq/rfE/ZTN1K/DXc=",
+    "cp": {
+      "1": "#46d6ec",
+      "2": "#b85ae7",
+      "3": "#7e66fa",
+      "4": "#ef61be",
+      "5": "#7e66fa"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 50943,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-09T15:52:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[テスト] 名無しSK",
+      "team": "テスト",
+      "emoji": "🦊",
+      "score": "35.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "9.44",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "1.44",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "テスト",
+      "score": "35.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "1.44",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAFt0VkSwyAMA1CB5ftfueMVQ8NHmeZFwqVr1cJYqvSFxCZVqLqCfBFulQ3tJErDU9dx67VlB6+FOPowb8WyF5oP6nlYmlFVquKPmVNbxa5I7X4LUa6Ki0nEJTmT2M15e8b5g9hZzVRlfcfeka7XQ8Osee+IjeZ6Jc6tb+8+pnqJ4jPnybjmIkNrLrxs2Z7abutpt0fd/KUDH/a7nzyqhfHPnLueBwuDR/jKpkaFfzZLN39qFg+roUWEX+pzGX3rbPoBfSAHaQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#514de5",
+      "4": "#85d411",
+      "5": "#30e85e"
+    },
+    "sz": 30
+  }
+}

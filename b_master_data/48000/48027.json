@@ -1,0 +1,57 @@
+{
+  "round_id": 48027,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-03T02:05:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🧠] 気持ちが",
+      "team": "🧠",
+      "emoji": "🏖️",
+      "score": "32.33",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[海老] 蟹(海老)",
+      "team": "海老",
+      "emoji": "🦞",
+      "score": "13.97",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🧠] 🧠",
+      "team": "🧠",
+      "emoji": "🧠",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🧠",
+      "score": "32.44",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "海老",
+      "score": "13.97",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlktsOwyAMQ8Oa/P8vT87FJIhKk8ZLIcc2ASriw/oQLgKKWJWa+JEoohSGVGPBmhVECeNCUU0KvL0wu+eNer28MzlXrvicnQL6RhHARdQJS5LfRnNafe2YoemYDipOqqrK26pDQQQHoKqWeS26oUwaWGztww2aAVLnwqSs+TXrb4HkoaDTuxoI4WzK3/GI3jBeeeJJsU+dGbfSBv7FuJQMaIxTXllriTD+hiuh5h/KkB8nXzJQB7w=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#994de5",
+      "4": "#30e83c",
+      "5": "#994de5"
+    },
+    "sz": 30
+  }
+}

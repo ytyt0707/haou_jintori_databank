@@ -1,0 +1,81 @@
+{
+  "round_id": 21208,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-05T01:37:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 一等兵",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐷",
+      "score": "34.61",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🦄",
+      "score": "10.85",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[神撫子] 大日本帝国陸軍",
+      "team": "神撫子",
+      "emoji": "😀",
+      "score": "5.61",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "おはよう",
+      "team": "",
+      "emoji": "😎",
+      "score": "4.80",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵しね] ころす",
+      "team": "🇯🇵しね",
+      "emoji": "😂",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "34.61",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "16.46",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵しね",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klGSwzAIQ+VUgfvfeEcIE2c7Uz7c2g+Bgg0ocqK2WkjO+XVdcw6CxFqLW3WdmApRdsmTUlrRddCncjUVXWNHfybB0tE6aSiqMJhZxrzo25wRsZZ3u3idmxK/KCIiCOYMxKamcgQpuieiyg1LGy9aZbYplQ6WYPuaT2bBcOpQb4GuPNsex55XictUZYzcXE1t6j9NgAVHe0hljRF+HF/Kpqrcrt7S1Nt4+r4higp7cnnfrwT1VBS9FZlePfaHFtxLX8pDYWLxbVzPsvu6Zor3fbpt3+e42u6OWQDYGlv/9Bi+f/YtFfkDCXAMiQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e881",
+      "4": "#3081e8",
+      "5": "#97d411",
+      "6": "#3081e8",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

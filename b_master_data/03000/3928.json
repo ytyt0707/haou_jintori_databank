@@ -1,0 +1,55 @@
+{
+  "round_id": 3928,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-11T17:00:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺ロシア] アレクサンドルⅡ",
+      "team": "🇷🇺ロシア",
+      "emoji": "🦄",
+      "score": "29.08",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇪ぷゆゆ] キングぷゆーゆ",
+      "team": "🇻🇪ぷゆゆ",
+      "emoji": "🦄",
+      "score": "4.89",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺ロシア",
+      "score": "29.08",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺中立国",
+      "score": "7.81",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇪ぷゆゆ",
+      "score": "4.89",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0VkOwCAIBFDKcv8rN1oUECVpyw+JzxGNIiLQS1sscRXgKjVls09g3pxtmBSC8nluVjGFRTFkuzovFRHRKS/ZJy18QFXmYflJYlQ/t/6EjC8+8IfWc7/eCr7cajIRUV/QpgqmDWhuG9nWSLlU2iqAHzfqBkt8Bss=",
+    "cp": {
+      "1": "#72f868",
+      "2": "#faf261",
+      "3": "#3ff396",
+      "4": "#7a62f4",
+      "5": "#c52af8"
+    },
+    "sz": 30
+  }
+}

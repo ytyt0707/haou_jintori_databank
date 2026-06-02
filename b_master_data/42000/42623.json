@@ -1,0 +1,66 @@
+{
+  "round_id": 42623,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-20T10:08:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇮🇹大秦国] ネロ帝",
+      "team": "🇮🇹大秦国",
+      "emoji": "🗡️",
+      "score": "69.75",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇮🇹大秦国] 山上徹也",
+      "team": "🇮🇹大秦国",
+      "emoji": "😍",
+      "score": "10.70",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] も",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "4.15",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 悪童",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏍️",
+      "score": "1.39",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇮🇹大秦国",
+      "score": "80.45",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "5.54",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkEESRDEERPNp7n/kqRZ+qEnNaiwSvEbiebatb7O1ElpYUzBeiTfMTGgapa4Jyl2rZSuZt7NzywFokfmgoDXs3moDilRf90M5AICqiplT4c7Bp9WhgePDgwIi4lHHw0etQgAwndaoqRIOOvGA/PEZbArkg/ZVr9sSTqPHd7WidF0qW/fQxKb6rKJXdcFY32VYcM/tMqjOr5bOG4x2DFj6g9ZP37rhxNZHZgS5pZFrwWXueX7T/cn9ACIvD8I=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#c030e8",
+      "6": "#c030e8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "round_id": 53083,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-05-14T11:32:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] ヤス",
+      "team": "🇯🇵ONJ",
+      "emoji": "⚽",
+      "score": "20.88",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 名無しHe",
+      "team": "🇯🇵山本組",
+      "emoji": "🤖",
+      "score": "15.85",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "14.32",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵山本組] 竜宮レナ",
+      "team": "🇯🇵山本組",
+      "emoji": "🔪",
+      "score": "5.43",
+      "kills": 9
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 岩井",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.94",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] たぬげ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🍂たぬき] 皆仲良く死のう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "35.60",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "20.88",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "1.15",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klGSwCAIQwMTxfufeAcQVu0uP219BgIUuIJmZuR1Vh+THn7B6uh4ktMvBDY+N6ZHwVfPhFv6UE97JL4pk2ZNw2vtqx2HLzcbmbvwSy0aDgwbf1FET9NsjPE7izhMbYjHRY1GnzE5w/BFJWU1K3riyiwyKSI+5xDyooCsJeLTckoXnp7XWqtpwkoMBZLmir4UK5fvhTctsQLYMNZ/ignVg7qvxDkr9Whxse43cI+xynZdVR1Dyd3pWReAi1vSL0fdL93/RpjCB9d6vaP/ad7qeo+pygEEyGEYfgAEBQt6",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#30e870",
+      "5": "#9ca3af",
+      "6": "#30e870",
+      "7": "#30e870",
+      "8": "#8B4513"
+    },
+    "sz": 30
+  }
+}

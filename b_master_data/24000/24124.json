@@ -1,0 +1,72 @@
+{
+  "round_id": 24124,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-12T06:49:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 家",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐶",
+      "score": "19.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しbA",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "7.76",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵猛虎軍] ███",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🐱",
+      "score": "6.53",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵893] 組長",
+      "team": "🇯🇵893",
+      "emoji": "🐱",
+      "score": "2.45",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "27.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "6.53",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵893",
+      "score": "2.45",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAFt0lkOAzEIA1DWuf+RK9uQWdT8VOqLA2Ri9m9FvP/157L48BM7sB5pv5bNrPtt7tcwEtA76u52He6m0t3MsX8V9lTisvC05YoyXVUnqMr+4BJznoioKcrR6qKuMYwxZ+4LPB3Nddxoq6id4ruslH2dA05X3SiLo92lbbEnd5dYE0dEt9lRxJRttoZdq65jqzobMS2butLOzGTR5g5k8SEYdYcmpjlZXkZV8fNLO9rgyroPTnrKSvfR+Ac10q2qu9Fvlmq5zLonqyiG0uJtrArZ7egrnJl8sCf7Vr6DNXwGvDpeyHkj81Tw8wNiZQdF",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#73d411",
+      "4": "#9ca3af",
+      "5": "#9ca3af",
+      "6": "#e87530"
+    },
+    "sz": 30
+  }
+}

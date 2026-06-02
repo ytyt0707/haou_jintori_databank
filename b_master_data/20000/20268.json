@@ -1,0 +1,63 @@
+{
+  "round_id": 20268,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-02T21:56:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 安倍晋三",
+      "team": "🇯🇵ONJ",
+      "emoji": "😎",
+      "score": "14.90",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳油一族] 赤の他人💩真央",
+      "team": "🇨🇳油一族",
+      "emoji": "🤖",
+      "score": "2.89",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "👻",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "14.90",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳油一族",
+      "score": "2.89",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "うんち",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkVESxCAIQ4Gm97/yTiAKtZ1ZPjrWZxJEMzNnmSosunJvwMkivikkf9GHmPSRaxEAPSlf2m7LUJR8a6tpsKQa2vSgrKm0GZw4RO877CpBQysKXKymWsn6xKKVC9FS9yA3pfd0Rv4oeOYa74r8BidF4zpMRQ3C3XIQQB6QL+ecs0Z2zEEBS5pPUB+NQsMvsdcbufsnFU62HmanrgcWnftaMzcpGHMcyKaKAicdHfddlgG9trPvq45QBfPQEjXlKv0PNH7f3Q6ox5g7f9Y/k2MD4g==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#30e83c",
+      "4": "#f97316",
+      "5": "#97d411"
+    },
+    "sz": 30
+  }
+}

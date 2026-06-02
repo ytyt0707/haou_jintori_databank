@@ -1,0 +1,102 @@
+{
+  "round_id": 4556,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-13T03:07:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "🤠",
+      "score": "18.46",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "7.08",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[共産党] けんじ",
+      "team": "共産党",
+      "emoji": "👽",
+      "score": "5.62",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[😸] 矢野彩喜様",
+      "team": "😸",
+      "emoji": "🐷",
+      "score": "3.02",
+      "kills": 9
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[みん²] わしょいヘンテコ",
+      "team": "みん²",
+      "emoji": "😍",
+      "score": "0.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇨🇳自民党] 武石かなえ",
+      "team": "🇨🇳自民党",
+      "emoji": "🦊",
+      "score": "0.26",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ローマ",
+      "score": "18.46",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "共産党",
+      "score": "8.90",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "7.78",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "😸",
+      "score": "3.02",
+      "kills": 9
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇨🇳自民党",
+      "score": "0.26",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0UEOxSAIBFDIIOD9L/wTqY0odf1n+5gWWqJreu/3gYjbSElkMwW6XxQL78YA1nIeCX3rWZk5FHa+3BnMnDA9lpz9Y2sAY2Wg6gIxclF6VUSkWaE2VY4vsnZFKN9soU2e5M0tVWW7y2xiK7rz96pGWbfFMmtBRProfhKNoj586Ch+dieX8lf5Afs6B/Y=",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#71ec55",
+      "4": "#44c7f3",
+      "5": "#44c7f3",
+      "6": "#c86ff1",
+      "7": "#efd45d",
+      "8": "#71ec55",
+      "9": "#ec4155"
+    },
+    "sz": 30
+  }
+}

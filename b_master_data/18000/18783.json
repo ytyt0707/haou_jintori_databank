@@ -1,0 +1,80 @@
+{
+  "round_id": 18783,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-27T12:26:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 大日本帝国憲法",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "46.89",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 大日本帝国陸軍",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "8.49",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "いいぼう",
+      "team": "",
+      "emoji": "👽",
+      "score": "2.20",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😀",
+      "score": "0.12",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐱",
+      "score": "0.12",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "55.37",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "0.12",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.12",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0VESwyAIBNCFpb3/kTPRoKCYztSfRJ+rhAA/h5n9q2ZvXCj5olyVcSW838Gu9C1ZLSjBeU4LJvUj+CTJDZ94lQuKo7JllzXNal5nR9WoMfe9Uf27XI1et84swr3jEOfejbUo1dGtqg86+lz2APG5IZgZeQMPYYT7TjqLpkjBaP9XSNnCH98gkqIp2XVenqhpmi7jArMZBng=",
+    "cp": {
+      "1": "#36e7ac",
+      "2": "#a64be7",
+      "3": "#4657ec",
+      "4": "#4657ec",
+      "5": "#f844d1",
+      "6": "#f34960"
+    },
+    "sz": 30
+  }
+}

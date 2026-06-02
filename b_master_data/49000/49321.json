@@ -1,0 +1,48 @@
+{
+  "round_id": 49321,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-06T00:09:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[運] mm",
+      "team": "運",
+      "emoji": "🤖",
+      "score": "32.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🦞] 蟹(海老)",
+      "team": "🦞",
+      "emoji": "🦞",
+      "score": "1.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "運",
+      "score": "32.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🦞",
+      "score": "1.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kgsOxCAIREG8/5mbmQHRxpZsYtfH8DXiy8zMvhjvm7p7xBgRYRHQ8cBfc3PHxYARMapZOBBNNCHE+LkVdohPmkIee2RpN0rYckW+cMRHuag+cUkrd9LETVlaaYuqXzih8JPWNIqyX4yKpkbJ1HQNtWn3w9CIrrJ5XqhrB8Arac45mJbCc0nawkbHRQucWsQ2sznn1BZUVdNZn5zGi87tpWle5Y2Y/dKkzY7l8qL0XeIDYoOwf6pKkHarqfKuq70khlzk8pF5SfAY5MLHhloeIT0E6Q==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#6ae830"
+    },
+    "sz": 30
+  }
+}

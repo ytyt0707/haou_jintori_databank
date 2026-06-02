@@ -1,0 +1,109 @@
+{
+  "round_id": 930,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-04T20:41:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "26.75",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[さとる] さとる（本物）",
+      "team": "さとる",
+      "emoji": "😎",
+      "score": "19.98",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "🐷",
+      "score": "19.64",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[うんこ] 2年5組上中",
+      "team": "うんこ",
+      "emoji": "💩",
+      "score": "2.35",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[うんこ] たかし",
+      "team": "うんこ",
+      "emoji": "🤖",
+      "score": "0.64",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[うんこ] たかし軍の裏切り",
+      "team": "うんこ",
+      "emoji": "🦄",
+      "score": "0.07",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[猛虎軍] ぽんぽこ",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "26.75",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "さとる",
+      "score": "19.98",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "仙台藩",
+      "score": "19.64",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "team_name": "うんこ",
+      "score": "3.06",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "team_name": "猛虎軍",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt1MESwyAIBFAUNv3/P+6gSSoK4qE7OdU36Jq2REtq1ecO2xU/rCs5q1yNM5As4756MLQat2eHjpnzLj2JY57ceAB6y8aM+ruoYJPAAbkjhwXwwAEAoZQfiJ2U7iic1zZUJgKGfhI6SItu3+Ntq65Y6B5PWXnY3ollYV0RKY2N49ZrVgjM45zXAThuRlevnLpe5Wqb5y4732dlm75/dRgyM/jMfK24LTZg0S0NC/NeX+b4cN77K9m6uYZpiKfYXHe8l/GGRhb8bzj5AnQ7C+o=",
+    "cp": {
+      "1": "#f1507e",
+      "2": "#98f1d2",
+      "3": "#e174f1",
+      "4": "#f1507e",
+      "5": "#b2a4ef",
+      "6": "#f1507e",
+      "7": "#f9b066"
+    },
+    "sz": 40
+  }
+}

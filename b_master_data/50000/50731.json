@@ -1,0 +1,129 @@
+{
+  "round_id": 50731,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-05-09T04:24:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ローマ] も",
+      "team": "ローマ",
+      "emoji": "😍",
+      "score": "14.80",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "🤔",
+      "score": "8.00",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ロール] テト",
+      "team": "ロール",
+      "emoji": "😀",
+      "score": "6.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "5.82",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[チ甘] チームは甘え",
+      "team": "チ甘",
+      "emoji": "😈",
+      "score": "4.59",
+      "kills": 8
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[ロール] ミク",
+      "team": "ロール",
+      "emoji": "🦁",
+      "score": "3.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵漁師] 鯖殺し",
+      "team": "🇯🇵漁師",
+      "emoji": "💀",
+      "score": "0.56",
+      "kills": 7
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵漁師] なきちキラー",
+      "team": "🇯🇵漁師",
+      "emoji": "🤠",
+      "score": "0.32",
+      "kills": 5
+    },
+    {
+      "rank_position": 9,
+      "player_name": "不殺の誓い",
+      "team": "",
+      "emoji": "🕊️",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ローマ",
+      "score": "22.80",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ロール",
+      "score": "9.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "5.82",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "チ甘",
+      "score": "4.59",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵漁師",
+      "score": "0.88",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1koGShCAMQ4M9I1v//3930hZkTrbjIPQ1oYIAAFJjRcsYSyqusUJrEB/rgEToeyQXiKSUfe+9uzuGMmxrALoLikP2IRwVQRMHbG0QmqxL6d6js0n/zFaaxqIGI6/rIqsp7y566yAUpgCzI7WNW5E0oKzdXXokvO9HqrYo6g8NcWoJ0pG0xLFr7ms0E83TjI2jpaJmdVcnamfSdBA11MUsNE6JZrRxafEu5/k56y+Q1lH2MX3rP6iu00wH9YoBgQ1cqgm1+SvO8zyBGHYlAvFsK2ZyTlaPmZyTlT5zNfCO4ziOyO7VBaHe3+Jd5gvPjgrE",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#6ae830",
+      "5": "#bcd411",
+      "6": "#e85330",
+      "7": "#6ae830",
+      "8": "#514de5",
+      "9": "#30d7e8",
+      "10": "#514de5",
+      "11": "#8B4513"
+    },
+    "sz": 30
+  }
+}

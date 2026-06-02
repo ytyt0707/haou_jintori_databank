@@ -1,0 +1,109 @@
+{
+  "round_id": 3309,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-10T07:16:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "26.51",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[理科大] てかSEXしてー",
+      "team": "理科大",
+      "emoji": "😀",
+      "score": "21.48",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "タスマニア",
+      "team": "",
+      "emoji": "🦄",
+      "score": "4.94",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🦊",
+      "score": "4.55",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇳揚げ物] 彩喜",
+      "team": "🇨🇳揚げ物",
+      "emoji": "🤠",
+      "score": "1.92",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "😎",
+      "score": "1.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[チー牛] あ嗚呼",
+      "team": "チー牛",
+      "emoji": "💩",
+      "score": "0.72",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "26.51",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "理科大",
+      "score": "21.48",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "4.55",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "チー牛",
+      "score": "2.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇨🇳揚げ物",
+      "score": "1.92",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN1FsOxSAIBNARiu5/xzdyqwWfTPwyJ6OSpkDNU4Njni9BF+w7MwQZgsy7HHFZc3Z4HW+hq2Pmg0NrU8fMa/ixamrQL1pK8Xp2pcVPwkCnjHsHUterrAOZnp620xQRLV2+uJScmxga69DeDzEHdX9aN0UGpwM2jtSJKJxf05k6kTQynWbO5FwSGYejjsi7RVE9l46uT4B8do7uTqcadCMb3dJMbtM19x3cXLhxiJzrP+mLQ9QBht0cIg72P3Vy+5CuH+KxEKE=",
+    "cp": {
+      "1": "#ed788e",
+      "2": "#a992ed",
+      "3": "#a1f966",
+      "4": "#59f394",
+      "5": "#ed788e",
+      "6": "#f9f494",
+      "7": "#64e864"
+    },
+    "sz": 40
+  }
+}

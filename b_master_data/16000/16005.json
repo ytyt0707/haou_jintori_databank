@@ -1,0 +1,65 @@
+{
+  "round_id": 16005,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-17T03:38:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵しね] agハゲ",
+      "team": "🇯🇵しね",
+      "emoji": "😍",
+      "score": "57.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵しね] ころす",
+      "team": "🇯🇵しね",
+      "emoji": "🐱",
+      "score": "4.85",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[焼菓☆] 宇月幸成",
+      "team": "焼菓☆",
+      "emoji": "🤔",
+      "score": "0.09",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "P21",
+      "team": "",
+      "emoji": "👽",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵しね",
+      "score": "62.21",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "焼菓☆",
+      "score": "0.09",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0lEOgCAMA9DOuvtf2QATcGzE6OLfWysagDKaTAoV/+gO32uw+K1ZchVVEVV2PeYuEbRnzcqY8GeseobpIFtD6GwbnDANs0aRVbMqhroVGD9vDZw3jb4a86i/evBDklvdZLHF8mZq6aedZO2+NRjDRa0o0VGOCS/uGQsB",
+    "cp": {
+      "1": "#41e655",
+      "2": "#f74b8a",
+      "3": "#df6af1",
+      "4": "#e7e750",
+      "5": "#df6af1"
+    },
+    "sz": 30
+  }
+}

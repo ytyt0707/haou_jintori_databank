@@ -1,0 +1,81 @@
+{
+  "round_id": 35840,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-08T11:41:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] なきこ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "63.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[レゼ部] なきなき；＠；",
+      "team": "レゼ部",
+      "emoji": "🐣",
+      "score": "12.32",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳人民軍] 一張羅",
+      "team": "🇨🇳人民軍",
+      "emoji": "👲",
+      "score": "9.22",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "不殺の誓い",
+      "team": "",
+      "emoji": "🕊️",
+      "score": "4.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[レゼ部] مساء",
+      "team": "レゼ部",
+      "emoji": "🤯",
+      "score": "0.76",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "63.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "レゼ部",
+      "score": "13.08",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳人民軍",
+      "score": "9.22",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1k1sShTAIQ9NHcP87vkOBUrSXHysnAcoo4MFbALds5F5QhDxSdhQTiyg9wmkkX9SFhb4lWXHJQhvWxEfXPaBAJ0qPn2yqZ7HEoVv0yXDTtAbu3dhd0/AfSlIFsMVp3+XfI4vMGUsV0vCmlNaCkhSWO7G11lKrgoN3xR9Kv1NX/KXag73zQ7W2yt3O6o1CudLInM9c89iBSHp9EpuNMaLdnWbx0J1ekigzl9JK7Ru5e1FpmUqtitW/ZgiKASwWPx3W+w/49xAZ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e892",
+      "4": "#e83042",
+      "5": "#60d411",
+      "6": "#e83042",
+      "7": "#d130e8"
+    },
+    "sz": 30
+  }
+}

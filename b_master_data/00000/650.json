@@ -1,0 +1,148 @@
+{
+  "round_id": 650,
+  "game_mode": "TEAM",
+  "player_count": 22,
+  "played_at": "2026-01-04T05:33:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] さとる",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "21.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソ連] あおｈぎうｗ",
+      "team": "ソ連",
+      "emoji": "🤠",
+      "score": "16.43",
+      "kills": 22
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] ( ꪊꪻ⊂)",
+      "team": "猛虎軍",
+      "emoji": "🦁",
+      "score": "13.11",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ソ連] ベネット",
+      "team": "ソ連",
+      "emoji": "🦄",
+      "score": "6.95",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ソ連] サートルナーリア",
+      "team": "ソ連",
+      "emoji": "🐱",
+      "score": "5.20",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[ソ連] チギュりパンは糞",
+      "team": "ソ連",
+      "emoji": "🐷",
+      "score": "5.05",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[デカ女] おっぱい描く",
+      "team": "デカ女",
+      "emoji": "💩",
+      "score": "4.69",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[ソ連] エイ",
+      "team": "ソ連",
+      "emoji": "👻",
+      "score": "4.29",
+      "kills": 1
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[デカ女] むむ",
+      "team": "デカ女",
+      "emoji": "😍",
+      "score": "4.05",
+      "kills": 3
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[猛虎軍] ぬぬ",
+      "team": "猛虎軍",
+      "emoji": "👻",
+      "score": "3.22",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ソ連",
+      "score": "40.49",
+      "kills": 43
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "39.62",
+      "kills": 15
+    },
+    {
+      "rank_position": 3,
+      "team_name": "デカ女",
+      "score": "13.53",
+      "kills": 22
+    },
+    {
+      "rank_position": 4,
+      "team_name": "荒らし",
+      "score": "1.15",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "team_name": "雅軍",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJxt1Y1uhDAIAGCu4umAbmtlvv+jLkB/1I1LPBO/0NJSBQCAAi122Ns17iLILmfO53mequfJOzPzPuPilu+zOwC+xHQU+Uop5cy6LE8Xz4n8v0So6gI+7OE/g4SIzgzqcLrAwXy0+GREpBFXp2p5gjET3dyVLV/M/NUcEiEBXPJBd3qMQMTd52WJ/4y7HDydM+Lb/PSfhJaP+eZ0FNJDxGFnRP64PGco5lBF+FFwc9gnKCKKKIIdtjrKtgVkEa9CImz3LMpgEOPGY1Q8XHVHY9hwatuFaJlfL4eT5ZLHwtjI1iWqL3OWWqwfimrOOQ+1aevN13AeEK7BzaO797sVA82p3twW7h0RGWWYyczVWjtzaFU2uA63VQ9j1Bz1PljXdXs6X5Goo7t1/QvDBWzr3FxKyRlFQpow8rU6UnfJmcg8H9Evug6WqrttOmgns+WL/U1a65ZSrVClOxgH2NYaWiNorcmyfQhNFg5s5y7Oy/3wLpnOO8Z3uMNUU62Rrczpgc1udIKf5cuoNN9EoJcI5/mijO7yxUG/pJRKuS9fvucL6K4U8QkOB7MEP8zmYjtJ7BLD58cMtfR3To+fsX7wzPdwUS2Y9M0rJb4Q4zvhy+s3vy2hSi4=",
+    "cp": {
+      "1": "#ecef43",
+      "2": "#ecef43",
+      "3": "#e65bb6",
+      "4": "#87f8ac",
+      "5": "#fe80b9",
+      "6": "#ecef43",
+      "7": "#ecef43",
+      "8": "#87f8ac",
+      "9": "#ecef43",
+      "10": "#87f8ac",
+      "11": "#87f8ac",
+      "12": "#87f8ac",
+      "13": "#e65bb6",
+      "14": "#9e6cf4",
+      "15": "#87f8ac",
+      "16": "#5cf0cd",
+      "17": "#e65bb6",
+      "18": "#ecef43",
+      "19": "#87f8ac",
+      "20": "#e65bb6",
+      "21": "#e65bb6",
+      "22": "#e65bb6"
+    },
+    "sz": 40
+  }
+}

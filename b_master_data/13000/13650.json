@@ -1,0 +1,56 @@
+{
+  "round_id": 13650,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-11T10:57:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] アベベ",
+      "team": "🇯🇵自民党",
+      "emoji": "🐷",
+      "score": "47.95",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] 山上徹也",
+      "team": "🇯🇵自民党",
+      "emoji": "🦊",
+      "score": "13.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵山本組] 山本",
+      "team": "🇯🇵山本組",
+      "emoji": "😀",
+      "score": "1.69",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "61.07",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "1.69",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0lEOwCAIA1AI9P5XXiROGY5uTfzxiUGiyI+Y2Vh3qtVQXPxqxipBEOgVCQ/Fp/bP6VT3gVNVtVclqprV2q4iXOmY96DLrrnHT2hqPbiZpYfmYVv+VUMx8yiXqki6TqGozCY73XcATI0rvZkoRuuxGXgBrtcHrg==",
+    "cp": {
+      "1": "#f74b59",
+      "3": "#ede373",
+      "4": "#5af2c2",
+      "5": "#ede373"
+    },
+    "sz": 30
+  }
+}

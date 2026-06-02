@@ -1,0 +1,57 @@
+{
+  "round_id": 32874,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-01T04:28:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[金] 完顔阿骨打",
+      "team": "金",
+      "emoji": "⚔️",
+      "score": "63.94",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきこ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "1.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] なきぞう；＠；",
+      "team": "なきち",
+      "emoji": "🥚",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "金",
+      "score": "63.94",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "2.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkgsOwyAMQ0Nr7n/lyfkQQ6ttqKoCL07AYGbgsBw+eSwUjVzF1lLLUrKS4RX6s7a3xXVl+x0je5GiJh6y2Mp9BD/pUjyLfKvLowC4l/wIzCZXpv8PRncnEB/ZGJoRW56YKd6oW6elhfoJzCjrvsLdWCe1qzGIV/d0siiI25bDZ0Ip3nl+lqaxq+3SArZ41wo1f4hqju8pM14ovYxh/1NpH9p4gVtbOZRfgWgqr/q+c5ocRP4lBUavfgBv3And",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e881",
+      "4": "#e830dd",
+      "5": "#30e881"
+    },
+    "sz": 30
+  }
+}

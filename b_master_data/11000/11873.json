@@ -1,0 +1,43 @@
+{
+  "round_id": 11873,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-04T03:13:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ｱﾅﾙ",
+      "team": "",
+      "emoji": "😍",
+      "score": "12.84",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[oj軍] ٩(๑`^´๑)",
+      "team": "oj軍",
+      "emoji": "👻",
+      "score": "5.97",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "oj軍",
+      "score": "5.97",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy90dsOgCAMA9BVt///ZcNFJtBhiIl9kexYwCjyU7CNWCAA1AWt3uGnrbA5kyNfJiFUWdEfMwNlqCqsnCUlulbl+IXv+sZKh54yNuvwsbQU73bbmLmOp5iNqiJnUbFZW1VCy1vcFnw3rQ2/Vul0KxehQwL+",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#a4f028",
+      "4": "#e43f79",
+      "5": "#3553e9"
+    },
+    "sz": 30
+  }
+}

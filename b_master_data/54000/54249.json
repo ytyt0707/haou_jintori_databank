@@ -1,0 +1,57 @@
+{
+  "round_id": 54249,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-17T02:34:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[東卍] ドラケン",
+      "team": "東卍",
+      "emoji": "⛩️",
+      "score": "25.53",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 池田犬作",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦊",
+      "score": "19.32",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しmm",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "12.19",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "31.51",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "東卍",
+      "score": "25.53",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGN0lkOAyEMA1BDkvtfuXKWSRhaqfwU8mQzQt17LqsDYtVxbzMDVTlKBXjglAozU91bZLLVAlVFHi7gL0D8qY6u2T2zA1O1ma1qa62++FJxjKzeymR9dLMXqwWWdzjuPZUPFMv1wbq5yr8p1LL81HzquvjEfA7M4r710fFRrVHsSVUAbL6USVcRXOq1jKJz3NW/I6MvL1Xvfadbaze7a9a/f2tHelfhnsxd6Jwce+djchzGOwAf50cINA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e881",
+      "4": "#9ca3af",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

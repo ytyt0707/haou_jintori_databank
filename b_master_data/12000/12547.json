@@ -1,0 +1,62 @@
+{
+  "round_id": 12547,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-05T15:39:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[⚤] 御奈新ヶ万出機内",
+      "team": "⚤",
+      "emoji": "🐲",
+      "score": "11.17",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🦄",
+      "score": "8.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[人少な] 深谷知広",
+      "team": "人少な",
+      "emoji": "😍",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "⚤",
+      "score": "11.17",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵万華郷",
+      "score": "8.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "人少な",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10tEKgCAQRNFZL/7/L4dmIrQj9tBACB3XXSNpBoUiZAJEWO5mGYK2ptwOBtd21mapTZ3V2h+HPb72H3365vc9UTDfaoviRngNhphRNjbqr7Pa0fne9VEZU29V63KqYw9elxvvEJUNSypvf9T9Hlku57sC1Q==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#65f132",
+      "5": "#7e5ee8"
+    },
+    "sz": 30
+  }
+}

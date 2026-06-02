@@ -1,0 +1,85 @@
+{
+  "round_id": 7268,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-19T05:46:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[グリコ] 膣夫",
+      "team": "グリコ",
+      "emoji": "💩",
+      "score": "45.28",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "^-",
+      "team": "",
+      "emoji": "🦁",
+      "score": "19.37",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ゲスト] ゲスト",
+      "team": "ゲスト",
+      "emoji": "🦄",
+      "score": "1.61",
+      "kills": 7
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[グリコ] 爆弾の廃人",
+      "team": "グリコ",
+      "emoji": "😀",
+      "score": "1.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[ゲスト] カミカゼ",
+      "team": "ゲスト",
+      "emoji": "💩",
+      "score": "0.50",
+      "kills": 3
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[グリコ] けんた",
+      "team": "グリコ",
+      "emoji": "😎",
+      "score": "0.20",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "グリコ",
+      "score": "47.07",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ゲスト",
+      "score": "6.49",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90tEWhCAIBNCJQuH/f3gPAilWy1PHG6hTAECACBHECwDElsYTiIjsWbYKcn3WzV+K/xr7qtpCaxumin6qj26jtrHRTNKWVleAJJp7a72OHcnE4C59UWZH19MrO3nq7Lgmpi6b5Z4v6ny5hU5WVc2xQ2uyqnobM3xJBB6zsPJUYx3lL3Etu6fFf6opP1UsATXHhvCMxsfz8HZdbvvSG3+FH7mqnTnpmM2wE5UYj2V0xD3tOGIyXlRuzYsWtck5unzP9S8q9QNllBKV",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ef5277",
+      "4": "#ef5277",
+      "5": "#49f63c",
+      "6": "#50d5ed",
+      "7": "#50d5ed",
+      "8": "#ef5277",
+      "9": "#50d5ed"
+    },
+    "sz": 30
+  }
+}

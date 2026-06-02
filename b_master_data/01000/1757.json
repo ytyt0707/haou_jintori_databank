@@ -1,0 +1,55 @@
+{
+  "round_id": 1757,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-06T18:07:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[匈奴] 冒頓単于",
+      "team": "匈奴",
+      "emoji": "😂",
+      "score": "89.40",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[阪神] 前川右京",
+      "team": "阪神",
+      "emoji": "🤖",
+      "score": "2.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "岸田",
+      "team": "",
+      "emoji": "👻",
+      "score": "1.34",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "匈奴",
+      "score": "89.40",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "阪神",
+      "score": "2.98",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV1dsKwCAMA9C0/f9/Huxu07mM+bDlSfAYQRFhKQCwD45k1q4pRv1AlHrfAydgJhHVDLmIDd47ludzRq8w90Xdp+5r+YIv2OqQIDv5YCgLU+9zVGDmmnR3Rfo7Rw9OdbOUXDsvOrXv/w6iG73vV1wN048ATEywBlg=",
+    "cp": {
+      "1": "#f1d950",
+      "2": "#f55b5b",
+      "3": "#89c1eb"
+    },
+    "sz": 40
+  }
+}

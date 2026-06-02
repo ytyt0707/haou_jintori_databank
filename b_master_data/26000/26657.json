@@ -1,0 +1,44 @@
+{
+  "round_id": 26657,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-03-17T23:57:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しKJ",
+      "team": "",
+      "emoji": "🤠",
+      "score": "37.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ひろゆかない",
+      "team": "",
+      "emoji": "🎙️",
+      "score": "17.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "_",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.46",
+      "kills": 0
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eAF90VEWhSAIBNDRZP9b7oDIgJZ88bgOWQ+41lNqP1rwMRWeyapjsVq+6URZ8aLLvpR2arZQrNUi4lfSzivhR9q1iv3SuCuX8hyVM3Z3ldjMBDugz+fKkPWJQxGKEX/AqUgat9dsB1prGBgjUrNxNdZ3r2xqYbT2o7p8VsnqqFv9qbJbXW3DHM3XmomyOTGVm4M5Ss/VoV6cuHV69sJZX9AcCOs=",
+    "cp": {
+      "1": "#e83098",
+      "2": "#30e8c6",
+      "3": "#e84230",
+      "4": "#3081e8",
+      "5": "#59e830"
+    },
+    "sz": 30
+  }
+}

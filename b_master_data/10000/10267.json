@@ -1,0 +1,109 @@
+{
+  "round_id": 10267,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-31T12:23:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "よわい魚",
+      "team": "",
+      "emoji": "🤖",
+      "score": "21.13",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "14.63",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[鳥取] ラクダ",
+      "team": "鳥取",
+      "emoji": "👻",
+      "score": "12.70",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "名無しqb",
+      "team": "",
+      "emoji": "🐶",
+      "score": "0.95",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🐱",
+      "score": "0.43",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵じゃあ] 高市殺す",
+      "team": "🇯🇵じゃあ",
+      "emoji": "🦄",
+      "score": "0.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵阪神] うんこ",
+      "team": "🇯🇵阪神",
+      "emoji": "🐲",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "14.63",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "鳥取",
+      "score": "12.70",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵田中",
+      "score": "0.43",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵じゃあ",
+      "score": "0.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵阪神",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0d0ShSAIBOA9s1i8/xOfQczAv6u4aBo/F8mAoa5Qcb1kmhV77X1x1G0WZ912TfotijiLvQxkaqty2Ut2KTXsRZI5WTLyhud7n2AWDirP80HKq29xkZ3RwvvoSnnO1g3aTp4VoOowVNhkqgAYsP8Ia6lqLRhvystPVAiGuw5qA68UkHaNC/21cfyLBq4TVMVC8wDAH0+uB54=",
+    "cp": {
+      "1": "#d26aec",
+      "3": "#f98967",
+      "4": "#f7d869",
+      "5": "#f8205e",
+      "6": "#2c76ed",
+      "7": "#6fe3eb",
+      "8": "#5d42f5"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "round_id": 8675,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-22T10:03:42.000Z",
+  "players": [
+    {
+      "rank_position": 4,
+      "player_name": "とやこんか",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.07",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "🌏",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ぷゆゆ] 勝ちを譲りマン",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🤠",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0kEOwCAIBMDFbfr/JzehhiBQWlMOJjqucBBIJRC/pRPRRWsi6XKG6mRQSepYFg38XWHKpDbyrXpUK8baMmbH6FRyGZIskk79BXSKStEqI67KLjoVT9n4i3Y0OrGR/aOxb41n1uPl5ThzWxf0aARU",
+    "cp": {
+      "1": "#b072ee",
+      "2": "#cbf26e",
+      "3": "#317ced",
+      "4": "#6ee963",
+      "6": "#f939bf"
+    },
+    "sz": 30
+  }
+}

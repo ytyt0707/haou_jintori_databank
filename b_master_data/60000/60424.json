@@ -1,0 +1,48 @@
+{
+  "round_id": 60424,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-31T00:25:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山内ひろみ",
+      "team": "🇯🇵山本組",
+      "emoji": "🐱",
+      "score": "42.40",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "0.15",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "42.40",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "熊谷市",
+      "score": "0.15",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkcESxEAERGXW/3/zltYMdpJcVlUOvG6MiDBWhmiGM1UNKOtKqEUYArmyWmi4b7xuLvro4SW4D5SLGG60JtUrImrfDu5lhQVSKeHCdjzSsCLFfOMbxr38cHlEjXehZUydVpjQi0Oxd2vuycZ9NqUVt92MN9jsJr2ho8w0Nztio+sw0cXvXij8x83+YX6muLnIZ7hptup8LpW/dxgt/pZ+AUVjBts=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#97d411"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "round_id": 2002,
+  "game_mode": "SOLO",
+  "player_count": 3,
+  "played_at": "2026-01-07T07:54:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "あそ",
+      "team": "",
+      "emoji": "🤔",
+      "score": "16.25",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "キー太専",
+      "team": "",
+      "emoji": "👽",
+      "score": "0.34",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "謎の男",
+      "team": "",
+      "emoji": "🐱",
+      "score": "0.27",
+      "kills": 0
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJzV1EEKwCAMRNFMvP+dhdaKK/MjcdGsH5MJgmaHI8gkJj8Yab1jceyD2HrNwXAvR8U4ES6G9fAhlc7dWd7qtszTzxE4DG8tpv2K4rKuLDBxR6OusX7IVd9rmS8GqN9NB+wkASU=",
+    "cp": {
+      "1": "#dff679",
+      "2": "#f09684",
+      "3": "#4375fe"
+    },
+    "sz": 40
+  }
+}

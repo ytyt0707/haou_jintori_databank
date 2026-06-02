@@ -1,0 +1,48 @@
+{
+  "round_id": 25370,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-15T02:19:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 名無し4Q",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "57.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵幕府] 豊臣バカ吉",
+      "team": "🇯🇵幕府",
+      "emoji": "😭",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "57.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵幕府",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9UkEOgDAIo8j/32xg1I05jYlGLqzrWiBMNcOkRIPBmapZ0n4wRmOJpiyioZuuEwbrtstw6bX6V7ZPawIAFzPJLWuNhQxu4+DhDJDfRo7aWEAlAnXtyt136m0Di9K58F642PM73GrdfOHMz3SM9Jnzs67iVanpgNqWO13vE4XgrOLbVBO+yjvUdAjK",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e892",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}

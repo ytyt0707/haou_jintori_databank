@@ -1,0 +1,104 @@
+{
+  "round_id": 718,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-04T09:14:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 立浪和義",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "32.14",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "27.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 荒らし",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "11.37",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "💩",
+      "score": "6.78",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[揚げ物] ちにたい♡🫠",
+      "team": "揚げ物",
+      "emoji": "👻",
+      "score": "1.22",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "😈",
+      "score": "0.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🦁",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "71.15",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "揚げ物",
+      "score": "1.22",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "うんち",
+      "score": "0.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "猛虎軍",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd1FsSwyAIBVACvW33v+KOERCQJDPlJ1FPfBKJRESISMTe2pDZfprxSI2vDENEdIaVMFoBYz4HZS4xYzHvuHWYbYpeMW5cHFYlOkjZDYkEVc7lUu+wltJsTXVpE3uHjFwSkvK1VFhV76i4MYXqmJkXI3UTZjUiO1THHCAtZzPcmLq6hxvjNS8f39zGUM7kzHxO7FvmNkp6clz7o9wjNYyxh+bLztK4bDnTrKKc3QX70+m4D4uIKX2rFjN4VkIe4ajRm4W2fzM4L107iezOichx4az2Y84hmttNPssdyamq4x7LXV0dI96PThPMHMW/dSbs/Fj0DfD2H3PSEjk=",
+    "cp": {
+      "1": "#a7ea7b",
+      "2": "#a35be6",
+      "3": "#a35be6",
+      "4": "#f2c173",
+      "5": "#a35be6",
+      "6": "#90e8f4",
+      "7": "#95fec4",
+      "8": "#a35be6"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "round_id": 1255,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-05T14:11:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[大東亜] wad...",
+      "team": "大東亜",
+      "emoji": "🐶",
+      "score": "27.35",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[大東亜] ぷゆりパン",
+      "team": "大東亜",
+      "emoji": "🐱",
+      "score": "15.28",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🤠",
+      "score": "1.43",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[国取り] 国取りしよ！！",
+      "team": "国取り",
+      "emoji": "🐶",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "大東亜",
+      "score": "42.63",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "国取り",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt00sOwyAMBFA8k/ufuQJiPsZ2InXTRWcX5WVMEJQSBvGrVQENguQDYw1IhM0YrLoVoqcU6iOnm5OhIUXaqtTRunuY9MSuyaJuZ7Rj78ki8Pow/mLlh8MZeuvzHV64ui8bjPrsCjMHwyRyWFXSh73ve2cmJ67uD+E6bzu3IzwOVzvBkZsf9GO8FvuXQ50i8roixrTp7MucVmYX18gn1uUL9c+P5wMOrAZj",
+    "cp": {
+      "1": "#ec88c9",
+      "2": "#bcf49a",
+      "3": "#bcf49a",
+      "4": "#f2a691"
+    },
+    "sz": 40
+  }
+}

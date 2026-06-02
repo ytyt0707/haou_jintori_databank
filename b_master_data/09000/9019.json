@@ -1,0 +1,110 @@
+{
+  "round_id": 9019,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-23T14:06:47.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵エバ国] 粉ミルク",
+      "team": "🇯🇵エバ国",
+      "emoji": "🐱",
+      "score": "8.88",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🐲",
+      "score": "7.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵東城会] 堂島大吾",
+      "team": "🇯🇵東城会",
+      "emoji": "🦁",
+      "score": "7.33",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 犬神フウト",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "6.29",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] アベベ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "6.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵エバ国] 女殺し",
+      "team": "🇯🇵エバ国",
+      "emoji": "🦄",
+      "score": "4.28",
+      "kills": 1
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵エバ国",
+      "score": "13.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "12.50",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇳謎の男",
+      "score": "7.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵東城会",
+      "score": "7.33",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF09sSgCAIBNCVaUT4/w9uUCRv1T5yXMppAn6iqvOgtHQ8a3F80XLS8qU8qOrC/KO8aZzgGlealYiHFIoy1Kt2gNqxsdtWO27a3srmRJS3rjbNzDmbZsKmOQJZ1HZa8aAIvZpu1br5shjPVcGjF7CqiNSlzp2SqvQ42w3SUX0zbJ5mlf5YW51qFvSvnRxDAQT2rgYbPurW1G48Ji1fcPtPPhQv45obyXoRXg==",
+    "cp": {
+      "1": "#f97453",
+      "2": "#7bf75f",
+      "4": "#ebcd6b",
+      "6": "#666ef4",
+      "7": "#666ef4",
+      "8": "#2aef75",
+      "9": "#62cff4",
+      "10": "#f75e94"
+    },
+    "sz": 30
+  }
+}

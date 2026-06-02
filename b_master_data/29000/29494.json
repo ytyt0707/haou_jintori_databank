@@ -1,0 +1,56 @@
+{
+  "round_id": 29494,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-24T10:02:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 無心",
+      "team": "🇯🇵田中",
+      "emoji": "✂️",
+      "score": "46.03",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😎",
+      "score": "20.36",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] ぷゆゆパン🥺",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "66.40",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlktsOwzAIQ03M/3/zBCRc2qqbNJ5oDjaEFAArIJhRiKTDhbU04g6xEqZtJNv2SFVEujxwigcj6Ti1JezeeygVcpiH9aG8WA8Ko1GgpyuArYUxEREYjJkaBenr00dKCYEOXM4+h0HnYyqNXg796nqKXe6UIa3WeV9vu79Iq2uRzu2sUnRtHe8s73MjdvCFvjv/Q2Po82aX2WKvc7tV8ju92Xdp/jDPzl6q8YYh+wA1xAjl",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e84230",
+      "4": "#e84230"
+    },
+    "sz": 30
+  }
+}

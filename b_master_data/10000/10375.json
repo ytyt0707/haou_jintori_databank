@@ -1,0 +1,41 @@
+{
+  "round_id": 10375,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-31T18:14:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "たまご",
+      "team": "",
+      "emoji": "🦄",
+      "score": "17.00",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] Lose dog",
+      "team": "みん²",
+      "emoji": "🦁",
+      "score": "0.09",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "0.09",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJzlj8EKACAIQ5X8/2+OHMUq7RJ0adTFp2wTYRlEE9UdYwVb2p4F6vdyoAm04ew+IW6xzH9GsdDDEp0rUTO4MpWFhsqZB8wP/9Dr/uWx370qDUUCbw==",
+    "cp": {
+      "1": "#d26aec",
+      "3": "#ecaa36",
+      "4": "#46f127"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "round_id": 1237,
+  "game_mode": "TEAM",
+  "player_count": 2,
+  "played_at": "2026-01-05T13:12:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[妹] 妹欲しい(´；ω",
+      "team": "妹",
+      "emoji": "🐱",
+      "score": "96.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソロ] 死にたい",
+      "team": "ソロ",
+      "emoji": "🐲",
+      "score": "0.46",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "妹",
+      "score": "96.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソロ",
+      "score": "0.46",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjZCQKMGDwoCJMTHjUIQATmjpcgFh1jEQqgwNcDqMA0MDIUUAZGIRRMgidNIzAaOhSDLAHIYYoA3Z1AJu+Bj0=",
+    "cp": {
+      "1": "#50c3f1",
+      "2": "#fe717d"
+    },
+    "sz": 40
+  }
+}

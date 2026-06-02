@@ -1,0 +1,47 @@
+{
+  "round_id": 18682,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-27T06:51:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😈",
+      "score": "4.60",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 愛星満子",
+      "team": "🇯🇵ONJ",
+      "emoji": "💩",
+      "score": "0.57",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "4.60",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.57",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJztz8EJADAIQ9FE99+5YIUeajJA6b8+VAR+AOjVMZl+sWY7SHk1Sa0RXstnqC6L0/Bpi/rC4matgMVnWsTBAIE=",
+    "cp": {
+      "1": "#56ebf0",
+      "2": "#ef4dbc",
+      "3": "#56ebf0"
+    },
+    "sz": 30
+  }
+}

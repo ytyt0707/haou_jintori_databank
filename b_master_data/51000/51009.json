@@ -1,0 +1,48 @@
+{
+  "round_id": 51009,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-09T19:26:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 暴君/ハバネロゼ",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "32.10",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] えんぴつ",
+      "team": "🇯🇵自民党",
+      "emoji": "🦃",
+      "score": "25.26",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "32.10",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "25.26",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klsSQyEIQ6O4/zV3eARDx9YfhEOAixeos/QA2HvvB8NaBb8oXA+HLqUSnu8gcFAIlDReU2tmDAwb1PyMMIDDE1QxQdikgl+08YDHjD5wtKWHZQJmib3jSbCv/7Wn27bgxyV24uzVjgt7a+uTB6xdcdvJehigefVNP9MurMqVHFSkk1arLpzPLK6ni+uNw/Wy+VNMml6+VSczGJZrYaXSZ1mB2pY5giskRmBo7+BK/P4BY+8HoQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d73e5",
+      "4": "#36e830"
+    },
+    "sz": 30
+  }
+}

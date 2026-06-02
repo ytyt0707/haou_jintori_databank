@@ -1,0 +1,127 @@
+{
+  "round_id": 1915,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-07T03:10:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸米陸軍] ベネット",
+      "team": "🇺🇸米陸軍",
+      "emoji": "💩",
+      "score": "19.29",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸米陸軍] デルタフォース",
+      "team": "🇺🇸米陸軍",
+      "emoji": "🐲",
+      "score": "17.25",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸米陸軍] 💣💣",
+      "team": "🇺🇸米陸軍",
+      "emoji": "😍",
+      "score": "9.57",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵SCP] フウト",
+      "team": "🇯🇵SCP",
+      "emoji": "😍",
+      "score": "7.79",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵SCP] ポケモンBBS",
+      "team": "🇯🇵SCP",
+      "emoji": "👻",
+      "score": "3.61",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐱",
+      "score": "3.18",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇸🇦中東] イエメン",
+      "team": "🇸🇦中東",
+      "emoji": "😎",
+      "score": "2.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇺🇸米陸軍] Trump",
+      "team": "🇺🇸米陸軍",
+      "emoji": "🦊",
+      "score": "1.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇻🇪辻斬り] 切ったら死ぬ",
+      "team": "🇻🇪辻斬り",
+      "emoji": "🦊",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸米陸軍",
+      "score": "48.11",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵SCP",
+      "score": "11.40",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "3.18",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇸🇦中東",
+      "score": "2.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇻🇪辻斬り",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN01kOwyAMBNCxMeDe/8IVi1mdKKN+JOrrxEAKUAtI4UZKYMyipxaB46CqOV91Xp9mBx5OFbkGGAPo4Xi07Q77fNwyHHR99IMr7Fj56uqIjZW1PzouE3Jm5jI7PTvVdtH3Ysw3nbU1L0IC77l9OlU258/XF1GviERijNF14DEoyelk6SOiH0np4u6i01e+t3BnO7yYsLEYQ3hxYboIpJSGw+EWmFKHV18o2ViF+zqoMTQY0u3a7lSEYHl1ZY0XW521wCA818s2h8HW9y9MOH+AdL+n4Qh4OzceeYGLapDHZofleAG+008GAbPQYdv/iDeH+vHclz7mD25nJ7T787EHtHuHuY5vtkC7h8s+5Q8cqwuv",
+    "cp": {
+      "1": "#e977ac",
+      "2": "#e977ac",
+      "3": "#a370e6",
+      "4": "#e977ac",
+      "5": "#a370e6",
+      "6": "#e6f08a",
+      "7": "#7cb5ee",
+      "8": "#e977ac",
+      "9": "#f78855"
+    },
+    "sz": 40
+  }
+}

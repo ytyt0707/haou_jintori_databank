@@ -1,0 +1,42 @@
+{
+  "round_id": 6836,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-18T06:25:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ルーザ] 爆弾/自認レゼ",
+      "team": "ルーザ",
+      "emoji": "🦁",
+      "score": "22.68",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "BOT",
+      "team": "",
+      "emoji": "😎",
+      "score": "5.63",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ルーザ",
+      "score": "22.68",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0UsOwCAIBNDB8f5nbkSlagCbTpePT1XAUi1AhZulIlS/c2hm/zTZCIKMmbwpmSnCAs6kyP6LzuBR5OvSz0zP7TcttENtykWdXu0o8eyhYtP3tdJUJLiwBhJr+5SdpxCBosB9qKl8D3lciPYGYee4oO//mAc6sgNY",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f1df3b",
+      "4": "#7c46f1"
+    },
+    "sz": 30
+  }
+}

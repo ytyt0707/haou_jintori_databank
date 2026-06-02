@@ -1,0 +1,70 @@
+{
+  "round_id": 12559,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-05T16:18:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無し6k",
+      "team": "",
+      "emoji": "🐶",
+      "score": "29.69",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🤖",
+      "score": "21.91",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵⚤] おゆゆ",
+      "team": "🇯🇵⚤",
+      "emoji": "🐷",
+      "score": "1.41",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[⚤] 御奈新ヶ万出機内",
+      "team": "⚤",
+      "emoji": "🦁",
+      "score": "1.19",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵万華郷",
+      "score": "21.91",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵⚤",
+      "score": "1.41",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "⚤",
+      "score": "1.19",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0kEOwCAIBEASZP//5EYLWpCg5ehUWLXEWpQWr6p1Z77Wn40PmjNQxQJArRWKrhwVX417MUYa0gLrjBfHZ05ZuwINXmesjjohxLLpFsAtr2z5+7pDf9VWhURIgrrbFxHke3uggX7vvMSughltLbu61hNvTqXWHP/BWvVtTB8snQhJ",
+    "cp": {
+      "3": "#a5ed40",
+      "4": "#f5cb61",
+      "5": "#e54d91",
+      "6": "#f0fa61"
+    },
+    "sz": 30
+  }
+}

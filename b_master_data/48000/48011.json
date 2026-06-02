@@ -1,0 +1,48 @@
+{
+  "round_id": 48011,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-03T01:14:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤓",
+      "score": "9.05",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] ちとせ",
+      "team": "🇯🇵自民党",
+      "emoji": "🐸",
+      "score": "2.57",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵陽キャ",
+      "score": "9.05",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "2.57",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kdEWgCAIQxfw/9/cGThSs3jBvDEGAoAZcM2RX1AYbIY8CzGb7fiDTj30h1U8ktlIlNIZWPw1Fp+Ey1rUL1Ur7+tQ6XvV1VjOau5k0RWV9Aa3laip8uOZ0rpVLpp9YbvwUPYa6qu2sAQ7AwG4eyAi+lYHBDzcI0OXnUkRR4rchlOY8bJ8AdHwROGgI9a+cG1DdMekxXIh7XYcBgWFj9Kj6Zn+QD5D471rvRHxSTdpsLwpD5oMN7+LA7c=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#e83030"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "round_id": 12133,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-04T17:17:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] おめんこ",
+      "team": "🇯🇵自民党",
+      "emoji": "🤖",
+      "score": "66.72",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] EカップJD",
+      "team": "🇯🇵自民党",
+      "emoji": "💩",
+      "score": "0.09",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵自民党] 葬送のフリーレン",
+      "team": "🇯🇵自民党",
+      "emoji": "👽",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "66.89",
+      "kills": 15
+    }
+  ],
+  "minimap": {
+    "bm": "eJytktsOgDAIQ+vQ//9lEzGOS0Gj9mULZ2WMAUTJVGKWEsjxSNQYRqYCwXmIUt1PQFIfa2G2ZWmgepKGWsrb4WxOSGALtDBmL1p6e2+gTcE1Jd/+g/ps6/vEH6y+rCXHHzT4mtU4kzudsQdI",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f1d546",
+      "4": "#f1d546",
+      "5": "#f1d546"
+    },
+    "sz": 30
+  }
+}

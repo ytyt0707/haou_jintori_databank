@@ -1,0 +1,130 @@
+{
+  "round_id": 16999,
+  "game_mode": "TEAM",
+  "player_count": 12,
+  "played_at": "2026-02-19T09:30:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 正体不明",
+      "team": "猛虎軍",
+      "emoji": "😍",
+      "score": "22.83",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👻",
+      "score": "15.99",
+      "kills": 14
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 爆弾/自認レゼ",
+      "team": "猛虎軍",
+      "emoji": "😂",
+      "score": "8.25",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵おから] 名無し",
+      "team": "🇯🇵おから",
+      "emoji": "🐱",
+      "score": "5.81",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🦊",
+      "score": "4.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] 新鯖♡",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "2.52",
+      "kills": 7
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐱",
+      "score": "0.62",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵おから] やの",
+      "team": "🇯🇵おから",
+      "emoji": "🐶",
+      "score": "0.34",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[神撫子] 千石撫子",
+      "team": "神撫子",
+      "emoji": "🦊",
+      "score": "0.05",
+      "kills": 3
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵ゲスト] んあ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐷",
+      "score": "0.05",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "34.22",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "16.04",
+      "kills": 15
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵おから",
+      "score": "6.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "神撫子",
+      "score": "0.05",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lGOwzAIBNBJPIjS3P++K8B2sJPu/DTy04Db5sAxojMYebHiilceqrqhn83JiTgeO8de1dqE7vq2c1OSu95T+UklHomml58EsCPpTRFZlf9ozFw0nGsTRUW4j3X9ylAWbS0+ZIZzrX/R5J/Ku3xKXqHfOH/K63KmnB4CNs3b1xUeeAIwVZpZ19aKMlSrttYty/0fu5l1dKoPSIxbhrGXgDG9qSuAaO66vXV94aIGA8yC7VaryXI8rlC0++PU8wddYw0E",
+    "cp": {
+      "1": "#d722f7",
+      "2": "#e9f155",
+      "3": "#eba147",
+      "4": "#e7583c",
+      "5": "#2df0ea",
+      "7": "#eba147",
+      "8": "#4cf226",
+      "9": "#eba147",
+      "10": "#2df0ea",
+      "11": "#eba147"
+    },
+    "sz": 30
+  }
+}

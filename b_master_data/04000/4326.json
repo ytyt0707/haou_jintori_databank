@@ -1,0 +1,32 @@
+{
+  "round_id": 4326,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-12T14:32:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 魁うんこ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "9.33",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "9.33",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYoIDBgYmZghggAOQIAJAJJGkGZB1M6DphUqDSDAHi24kkhnDbhRAiSxF0hRL4rQWogK37CgYIQAA27ABVw==",
+    "cp": {
+      "2": "#f7dc40",
+      "3": "#36f532"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "round_id": 1607,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-06T09:12:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 千石撫子",
+      "team": "みん²",
+      "emoji": "🤔",
+      "score": "21.57",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "🐱",
+      "score": "13.94",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 立浪和義",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "11.70",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 共感性羞恥心",
+      "team": "みん²",
+      "emoji": "🐲",
+      "score": "3.13",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐷",
+      "score": "2.68",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "24.70",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "仙台藩",
+      "score": "13.94",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "11.70",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "猛虎軍",
+      "score": "2.68",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt01sOxCAIBVBQ2P+WJ4J1eGnNZO6XraeopAJcB0eqifZkqbODdnTN5A+u/exkl7WD4F7KtVyJebdurMSK391IqLh17Fx5Us4FD85vESB35XHhHFvH53psYnYYHTsHd46vHW8cxzTtY3CJ6etw3qSUIZ4c0XT6u2NmOiIiAFj3GyOcYzo4+DJxKgtn8nVw5da1VZf0dBidh4iOoVxf7F0eukbXcmz0T+YQplwznQit0xqYQu5p77By1Uzh3qpJM6zbfWEbNnc6+uI7KeoDRwoIDg==",
+    "cp": {
+      "1": "#8ed3f0",
+      "2": "#ed87cb",
+      "3": "#8ed3f0",
+      "4": "#9ff566",
+      "5": "#f88c93"
+    },
+    "sz": 40
+  }
+}

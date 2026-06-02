@@ -1,0 +1,41 @@
+{
+  "round_id": 10501,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-01T01:02:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ルーザ] 唐沢♡ロゼ様",
+      "team": "ルーザ",
+      "emoji": "💩",
+      "score": "20.58",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ルーザ] Lose dog",
+      "team": "ルーザ",
+      "emoji": "😎",
+      "score": "0.09",
+      "kills": 14
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ルーザ",
+      "score": "20.67",
+      "kills": 14
+    }
+  ],
+  "minimap": {
+    "bm": "eJy1zlEOwCAMAlAyuf+Z9zFj6iyoifKnrw0F7obcQtY/fgmT8TlXDMqoCMUdpwdpxYJCKv5XDd1Os5LDWozS7nqtvY9Tvbyg+i7HbJlwNkDCr+u8oMkCvg==",
+    "cp": {
+      "2": "#38f587",
+      "3": "#4253eb",
+      "4": "#4253eb"
+    },
+    "sz": 30
+  }
+}

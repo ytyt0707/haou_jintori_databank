@@ -1,0 +1,56 @@
+{
+  "round_id": 5034,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-14T04:58:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🦄",
+      "score": "23.10",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "😈",
+      "score": "21.32",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チー牛] 国",
+      "team": "チー牛",
+      "emoji": "🦊",
+      "score": "14.70",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チー牛",
+      "score": "36.02",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "23.10",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0N0OgCAIBWDmgfd/5YbTUP624qKcnwdKIlci70ofYxjcBSEaVKm4pr81YKn0MdvODQZkiFn6skvziq2SZYG8s6Sqw8owgeHq+KVgR5S1el0Vp/Z6evbJSTjv3ercb7XM7k2AU8U8culi7DVutdtc5zjch86z9AOoywh7",
+    "cp": {
+      "2": "#2858f6",
+      "3": "#eb479c",
+      "4": "#eb479c",
+      "5": "#e02ff4"
+    },
+    "sz": 30
+  }
+}

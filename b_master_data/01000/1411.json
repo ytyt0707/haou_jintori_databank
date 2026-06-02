@@ -1,0 +1,138 @@
+{
+  "round_id": 1411,
+  "game_mode": "TEAM",
+  "player_count": 12,
+  "played_at": "2026-01-05T22:41:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🤖",
+      "score": "29.00",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] 浅井長々",
+      "team": "猛虎軍",
+      "emoji": "💩",
+      "score": "21.32",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[黒虎] 山田勝己",
+      "team": "黒虎",
+      "emoji": "😍",
+      "score": "11.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "5.72",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 米子",
+      "team": "楚",
+      "emoji": "🤔",
+      "score": "5.33",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] 彩喜",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "0.88",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "x",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.85",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[闘牛] 蘇ったチー牛",
+      "team": "闘牛",
+      "emoji": "🤠",
+      "score": "0.68",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[日本軍] 大日本帝国陸軍",
+      "team": "日本軍",
+      "emoji": "🐲",
+      "score": "0.61",
+      "kills": 8
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[日本軍] 隊長まりも",
+      "team": "日本軍",
+      "emoji": "🦄",
+      "score": "0.30",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "50.32",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "11.92",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "黒虎",
+      "score": "11.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "日本軍",
+      "score": "0.91",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "team_name": "闘牛",
+      "score": "0.68",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV1IuOxCAIBdBLxUU6//+/GxBf1e6DZDKTeAakRYE9cq7fIgCoxoHd+W5ORF4Zcs75vkFkKJy8uOyL1OOUb2yKNljKwS35TBSLZvjNtRgumAwokyvPshOUNR87U9oSTo6hzGrRF/e6XKDKvMKpD3eRibnB/fG5syVWhjG4Cyo9qcBUNDC5Z8vi23ISDiahQpihQK8LKeHqTr1Ab8WdiOrlEWUZts21herKdaWUrmA11oHxcQ2XhrM+dodSEqWUCD3X8/mFs5/JJoe5tq1CtEkUh+Qt9uNDz7Hy9zH9ExKnbB6qD4n4FFg++6jKHE0ZjKEirXFw9Pmb+7hrc/rqICapO5ydNId+OOz14wmB+nJavnbUQmA4oeUczWpKGHw6bwc2mv6ro6XuL/nwr7oOJ/o1HIYbd98pn9Qrcr0kVxrj92PIAN927RbK",
+    "cp": {
+      "1": "#fb65ec",
+      "2": "#90effd",
+      "3": "#cef693",
+      "4": "#cef693",
+      "5": "#b773f2",
+      "6": "#9aaff4",
+      "7": "#fb65ec",
+      "8": "#99f5d2",
+      "9": "#cef693",
+      "10": "#b773f2",
+      "11": "#4af778",
+      "12": "#f75f97"
+    },
+    "sz": 40
+  }
+}

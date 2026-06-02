@@ -1,0 +1,78 @@
+{
+  "round_id": 3558,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-10T20:46:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳楚] あいうえお",
+      "team": "🇨🇳楚",
+      "emoji": "😈",
+      "score": "17.43",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸うんち] ばななうんち",
+      "team": "🇺🇸うんち",
+      "emoji": "😎",
+      "score": "3.35",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇮🇳賊軍] 🔰",
+      "team": "🇮🇳賊軍",
+      "emoji": "🦁",
+      "score": "1.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ぷゆゆ] でかてぃん",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "😈",
+      "score": "0.20",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳楚",
+      "score": "17.43",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸うんち",
+      "score": "3.35",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇮🇳賊軍",
+      "score": "1.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "0.20",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10+EOwyAIBGAQxvs/cuPUaRHsLdnuT9PkCyc1JfomqphqQZ3KO6jL5jomlEDdejVqV+dIRKMzeieSbF5FKWXucXAVlgbr2+s0sE3U3NF07V5Ad+5d9j7toc/u9g2P7gPNMqf92ocz73g53Ux190HMqIugmT9YZ8vvEbJxvrFM2/rR9acFvYEjsk0yhQlcLH1xMm9rzpwP7EDIIGQQwg5q/b37Ty6CIAYP",
+    "cp": {
+      "1": "#84f5b0",
+      "2": "#e65cbe",
+      "3": "#a283ec",
+      "4": "#fcdd4f",
+      "5": "#6ee7fc",
+      "6": "#90ef43"
+    },
+    "sz": 40
+  }
+}

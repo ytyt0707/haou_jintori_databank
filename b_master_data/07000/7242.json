@@ -1,0 +1,72 @@
+{
+  "round_id": 7242,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-19T04:22:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ちんぽ] うんち",
+      "team": "🇯🇵ちんぽ",
+      "emoji": "🦄",
+      "score": "29.49",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うゆ軍] 中居くん",
+      "team": "うゆ軍",
+      "emoji": "🦁",
+      "score": "28.25",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うゆ軍] 爆弾の廃人",
+      "team": "うゆ軍",
+      "emoji": "🤖",
+      "score": "16.28",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵vor] vorugu20",
+      "team": "🇯🇵vor",
+      "emoji": "😎",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うゆ軍",
+      "score": "44.52",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ちんぽ",
+      "score": "29.49",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵vor",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF09EShSAIBNDtLtf//+QGFQS04qEmz6yhFjCrtUtv4qUPC7tKKpPmSlIQdGKbE1M96t9cMXCIjupZrHBCTREzjJrtw6YC/HbVuSF6OWU5+iqKyLYZJT2zHDMjbOZQ80NWWDSybJpQ3mcWUkJbZaP7cp6Ub+qL9RfXrh6VYas2Za6EPKApUNW5f48+ap0FDd2UY8CnGm/HkGv9QrgBrjgLrg==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#a133e6",
+      "4": "#a133e6",
+      "5": "#e9d24e",
+      "6": "#49c5ee"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "round_id": 11023,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-02T05:15:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵万華郷] はじまん",
+      "team": "🇯🇵万華郷",
+      "emoji": "👻",
+      "score": "42.91",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🐱",
+      "score": "36.05",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "出会い厨",
+      "team": "",
+      "emoji": "💩",
+      "score": "12.97",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵万華郷",
+      "score": "78.96",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0uEOgCAIBOCbR+//yo0URQlrq/vR0g9NmqCwBqRMgehUU4qOrhKgOUdEWBkaRrUX2xtel+gOcfbd2ic9NHvN+IPC60qmyaGr5j9rt7Yr7hv+vd9+V/yZraIPgtJdNE4dhUzf9Sllp8rCXPWRKodm3BGphk5aKU5itwwq",
+    "cp": {
+      "2": "#38f587",
+      "3": "#f362b0",
+      "4": "#f362b0",
+      "5": "#69abf2"
+    },
+    "sz": 30
+  }
+}

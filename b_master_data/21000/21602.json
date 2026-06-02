@@ -1,0 +1,57 @@
+{
+  "round_id": 21602,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-05T22:55:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[お魚かく] 名無しRK",
+      "team": "お魚かく",
+      "emoji": "🐶",
+      "score": "13.97",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[お魚かく] 葬送のフリーレン",
+      "team": "お魚かく",
+      "emoji": "💩",
+      "score": "10.39",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐶",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "お魚かく",
+      "score": "24.36",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkUsWwzAIAxVD73/lPmFwEc6qbGIyGT4O8Ee4w91v0VsobSCOQifUykox+iqdU7m7mdnzPGbG8+i72aY2KGhSDcyzyAcWvmjKbP3ilt/ZWiySo1Lv3obgQnMRYCXdQ3ctxiKO2kDIukrZZiC4IdV7CwCf3XmtoNee6wRL900RYmIWn32PmWPL7f7gG+U6GWJlUqxuTL85VF9XVrhyeW5YFy2ISfsJyr75lwPc",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#d4c811",
+      "5": "#c030e8"
+    },
+    "sz": 30
+  }
+}

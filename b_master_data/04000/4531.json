@@ -1,0 +1,71 @@
+{
+  "round_id": 4531,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-13T01:44:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳ぷゆゆ] キングぷゆーゆ",
+      "team": "🇻🇳ぷゆゆ",
+      "emoji": "🐶",
+      "score": "27.46",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵フサ] ハゲ",
+      "team": "🇯🇵フサ",
+      "emoji": "👻",
+      "score": "25.32",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "🟦🟦🟦",
+      "team": "",
+      "emoji": "😍",
+      "score": "3.62",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇰🇷北朝鮮] 弾道💩ミサイル",
+      "team": "🇰🇷北朝鮮",
+      "emoji": "🐲",
+      "score": "0.06",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳ぷゆゆ",
+      "score": "27.46",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵フサ",
+      "score": "25.32",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇰🇷北朝鮮",
+      "score": "0.06",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0lESgCAIBNAl4P5XbpQxRQHbT59baAF7npnDABFvvKm5SFidKVGKXoV7tW/POEDJH2uqqpor/miEV1UNmRmotPmnjdnh0PEl20qfhYdiIZ8CyfFZZabCmFKlnvnf5VUjv2EZK3rrOrQ7aHWk4KrcitVxywsYBAdb",
+    "cp": {
+      "1": "#7c62f4",
+      "2": "#5feff1",
+      "3": "#4df9a3",
+      "4": "#a6eb66",
+      "5": "#cc75eb"
+    },
+    "sz": 30
+  }
+}

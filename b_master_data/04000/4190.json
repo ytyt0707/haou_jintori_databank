@@ -1,0 +1,136 @@
+{
+  "round_id": 4190,
+  "game_mode": "TEAM",
+  "player_count": 22,
+  "played_at": "2026-01-12T07:11:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ぷゆゆ] たどちゃん",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐱",
+      "score": "24.94",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うんち] ベネット",
+      "team": "うんち",
+      "emoji": "🤖",
+      "score": "12.88",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇸] 矢野彩喜様",
+      "team": "🇸",
+      "emoji": "😂",
+      "score": "5.81",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ぷゆゆ] よっぴ",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🤠",
+      "score": "4.68",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] 共感性羞恥心",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "4.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "愛城華恋",
+      "team": "",
+      "emoji": "👻",
+      "score": "3.37",
+      "kills": 17
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[うんち] あががいのがい",
+      "team": "うんち",
+      "emoji": "🦄",
+      "score": "2.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "2.80",
+      "kills": 3
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[楚] 韓非子",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "1.55",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "29.70",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うんち",
+      "score": "28.85",
+      "kills": 13
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "8.98",
+      "kills": 17
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇸",
+      "score": "6.99",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "team_name": "うんこ",
+      "score": "1.71",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJx101mOxCAMBNASbpYmQZHxaO5/1JYNYenM1F/yUhikAOcIIACgHmaMkHO0hZkZDPuGnHNAmigiDLDFEzmXLEqg8zxP4Y4gWzmlFEzPGKOqt+heHIUQDKlEVero/dBApRiqYiqRcRkqGu89Ty1lsGBXoqGIUYztZLeGtduVp4YaSsFcWo5NQxASY2sei9Za7R26LVo1kD3HwR61BfhW8Z7xL9qeb3zqMfXZFPltujfzLN+70kjWPOfe2Vl/rVXXAciyd7Fr/tLXPFrOWef+bOWmuUWfakW9pspQkXYhrvd1N1ft1+VtGbdnHPxvRpuJDycFJYE=",
+    "cp": {
+      "2": "#f7dc40",
+      "3": "#62f9f2",
+      "4": "#f263b0",
+      "5": "#8e6af0",
+      "6": "#62f9f2",
+      "7": "#3664e2",
+      "8": "#4040ed",
+      "9": "#48eabc",
+      "10": "#5ce949",
+      "11": "#c434f4",
+      "12": "#3664e2",
+      "13": "#3664e2",
+      "15": "#48eabc",
+      "17": "#c434f4",
+      "18": "#62f9f2",
+      "19": "#5ce949",
+      "20": "#f27836",
+      "22": "#5ce949"
+    },
+    "sz": 30
+  }
+}

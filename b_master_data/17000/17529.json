@@ -1,0 +1,89 @@
+{
+  "round_id": 17529,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-23T15:19:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🦊",
+      "score": "26.75",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ゲスト] 浅井長々",
+      "team": "ゲスト",
+      "emoji": "🤔",
+      "score": "10.85",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ゲスト] ゲスト",
+      "team": "ゲスト",
+      "emoji": "🦄",
+      "score": "10.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇦ちんこ] ゲスは死ね",
+      "team": "🇺🇦ちんこ",
+      "emoji": "🦊",
+      "score": "6.90",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇺🇦ちんこ] ゲスト",
+      "team": "🇺🇦ちんこ",
+      "emoji": "👻",
+      "score": "1.24",
+      "kills": 7
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[ゲスト] ゲスト",
+      "team": "ゲスト",
+      "emoji": "🦊",
+      "score": "0.69",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "26.75",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ゲスト",
+      "score": "22.04",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇺🇦ちんこ",
+      "score": "8.15",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0VsSgzAIBdBbkxv2v+MOEAxg2ykfOngE8gAsZo3I8VHnyPrqutlxq/hT9D00QFNrTQ9VEVfck0FCVT93hQ5hqDeeqBG6o5R6LZ+6V9/YvtkWUm+WUtGYSUmuqpJ7rzW+68rqnAezrNmU5JlbdqTMHEkpcl1XMqDVNkWchd9bLi7nHiqRFxW/9PR3zPMbp7D0OomcRmdSZPch1XXspGjdVI+fyn8V6P4ofANmEwlq",
+    "cp": {
+      "1": "#61efbb",
+      "2": "#f46683",
+      "3": "#9e59ee",
+      "4": "#9e59ee",
+      "5": "#4dcbf5",
+      "6": "#9e59ee",
+      "7": "#f46683"
+    },
+    "sz": 30
+  }
+}

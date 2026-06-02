@@ -1,0 +1,77 @@
+{
+  "round_id": 256,
+  "game_mode": "TEAM",
+  "player_count": 13,
+  "played_at": "2026-01-03T08:18:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[共産党] あ",
+      "team": "共産党",
+      "emoji": "👽",
+      "score": "36.27",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[管理人] 彩喜🤍🤍🤍",
+      "team": "管理人",
+      "emoji": "🐶",
+      "score": "9.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ちんぽ] 🦀",
+      "team": "ちんぽ",
+      "emoji": "😀",
+      "score": "3.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ぷゆゆ] むむ",
+      "team": "ぷゆゆ",
+      "emoji": "🦄",
+      "score": "2.27",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "共産党",
+      "score": "36.27",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "管理人",
+      "score": "9.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ちんぽ",
+      "score": "3.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ぷゆゆ",
+      "score": "2.27",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt1t0OwyAIBWCo9P1feVldLeI5/mTdsotxqXwRaGMU+cc/fjz2nWyYzVoLqWZxhVhrMtsVbK1EoH2754h4hjbWnKT22DBrrDlKbN7bT+ryzQbWgmVxh1XVO23hGL6sHgFsxnBWk7ZbMrc2aRVZ4bPyFFoT8mfUFBfdpaLaa7hLr3MXcKBCGoYdeyvcojIk2KvmJo9R36+SbuMKsrNTbu30BxJ27pjeZeuiv2dXa4Z0bCVEbVNK89RbfdJWb9uCFWwbimzEjNYNp6zhyPpWyrlvWX5XjCzs+GNWvOWXFLLiLfi9Fmwue/CuYTalkr5uXQ571uh5PwcMk5EtD441e1c8AJeTFs8=",
+    "cp": {
+      "1": "#f83fe2",
+      "2": "#c4f75e",
+      "3": "#98f5d3",
+      "4": "#f6de9c",
+      "5": "#ef4357"
+    },
+    "sz": 60
+  }
+}

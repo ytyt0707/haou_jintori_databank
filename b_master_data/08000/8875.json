@@ -1,0 +1,90 @@
+{
+  "round_id": 8875,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-22T20:52:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇩🇪ナチス] 矢野彩喜",
+      "team": "🇩🇪ナチス",
+      "emoji": "💩",
+      "score": "22.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チー牛] チギュりパン",
+      "team": "チー牛",
+      "emoji": "💩",
+      "score": "19.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇷🇺😇] ドザえもん",
+      "team": "🇷🇺😇",
+      "emoji": "👽",
+      "score": "6.98",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇩🇪ナチス] シュトロハイム",
+      "team": "🇩🇪ナチス",
+      "emoji": "🐶",
+      "score": "2.67",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇷🇺😇] すすすす",
+      "team": "🇷🇺😇",
+      "emoji": "🦁",
+      "score": "1.98",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇩🇪ナチス] v豚",
+      "team": "🇩🇪ナチス",
+      "emoji": "👻",
+      "score": "0.30",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ナチス",
+      "score": "25.30",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "19.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺😇",
+      "score": "8.96",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJx901sOxCAIBdBLq8D+VzwRUMEx5aeJRx5qCnzHu+Nb2SJja29rzVBcKae2mSkCMNMIviuGIpRG5VXYNLIt4Ow4lDKPApLVO/fNEhGt0Ik6rmo7iDr796JwnX1Phd1I1XRDnmnMf6iqOIaqqqp1qLWBdXJRiZE4/KL+iqrMY7iE8b4raqqgINVcsDN2cu46Uy6KtIhTbaU25nxVYXIoUrHzSHEF3+pHsfJz8XkW336x5wc8bguu",
+    "cp": {
+      "1": "#b072ee",
+      "2": "#cbf26e",
+      "3": "#e74067",
+      "4": "#e74067",
+      "5": "#e538c0",
+      "6": "#e538c0",
+      "7": "#30abe8",
+      "8": "#e538c0"
+    },
+    "sz": 30
+  }
+}

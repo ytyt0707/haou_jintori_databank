@@ -1,0 +1,66 @@
+{
+  "round_id": 57910,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-25T08:31:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 端っこくん",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "65.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 奈良",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦌",
+      "score": "18.48",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無し4P",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐷",
+      "score": "3.62",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇪🇸宣教師] 名無しqQ",
+      "team": "🇪🇸宣教師",
+      "emoji": "😅",
+      "score": "0.16",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "87.70",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸宣教師",
+      "score": "0.16",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNktsSxCAIQxFc/v+Td8IlWrvtLC9iDqGoFRFRhCNyxdbM3CVE14nVCmdlEsizqauOQR3JnEWz9RhXr5GGvptF3ayrazi2xpSLUq4khvf2/qK+GvLkWadxSHoOCv2pb/lpvdUaUd0q92i66Cb/lXKgfIfDk3RmkMWLrcN8ApN20lO9UwduC9f2eiP8TgzSVAxBiNvYdgG3iieaFtBlXt7QpoMi3QBbm7zRmOq00du/xb0gjqUSby651PelQ797mBFH",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#30e8c6",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

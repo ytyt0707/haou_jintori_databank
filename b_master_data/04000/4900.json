@@ -1,0 +1,48 @@
+{
+  "round_id": 4900,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-13T21:43:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇸🇦bot] 名無し👾",
+      "team": "🇸🇦bot",
+      "emoji": "😈",
+      "score": "14.43",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[GOD] おちんぱん太郎",
+      "team": "GOD",
+      "emoji": "🐶",
+      "score": "2.29",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇸🇦bot",
+      "score": "14.43",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "GOD",
+      "score": "2.29",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0OEKwCAIBOCb+v7PPFg2xzqPYD8mBMGXVwl8r4i5O3JxdffFomxhrfhP44FvhVYVvKcbrR1CIlUTaFd1T0p1OoiB5lIbntpNwgzZTP54R7MBmNS6mJfWCl9OnD3UApA=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ed4845",
+      "4": "#f15ba8"
+    },
+    "sz": 30
+  }
+}

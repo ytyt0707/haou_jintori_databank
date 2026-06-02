@@ -1,0 +1,50 @@
+{
+  "round_id": 59328,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-28T13:10:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "厂",
+      "team": "",
+      "emoji": "🎗️",
+      "score": "21.70",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[☪IS] البغدادي",
+      "team": "☪IS",
+      "emoji": "☪️",
+      "score": "0.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[☪IS] ニャル子",
+      "team": "☪IS",
+      "emoji": "🏁",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "☪IS",
+      "score": "0.19",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkcESg0AIQ1mG/v8vdwjZGrBVpxz08AgJrDnLstayhcqfmW2IfxF+s3tQSiGcNEejYHNL2+gtTX3J1RipdbRCP5ai8YlWxxgcaLOUy+imdfe91DkUIKS0bQuRbqTXeJWHIKUMEKG8p4oqaXB487UuqQ1x5axReQpizoCv+GyxYtwfPU0bPMdHPWjt/Ih2ZV3myP2NWj4c6g/6I1N/kXGpuKNvRqoFpA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#bcd411",
+      "5": "#7c4de5"
+    },
+    "sz": 30
+  }
+}

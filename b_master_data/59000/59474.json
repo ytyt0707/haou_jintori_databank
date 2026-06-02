@@ -1,0 +1,48 @@
+{
+  "round_id": 59474,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-28T21:04:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[異世界] 追放",
+      "team": "異世界",
+      "emoji": "🚌",
+      "score": "36.53",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸宣教師] それだ☆",
+      "team": "🇪🇸宣教師",
+      "emoji": "👽",
+      "score": "25.96",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "異世界",
+      "score": "36.53",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸宣教師",
+      "score": "25.96",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkoEKxDAIQ2Pn/3/zoc5r4so4OGFr5ZnYuQIZ7kA88abQ9EGpMrZDO6imWqssnc4FVwQj2idTSr5F9YM2/o1Ssy311r7RixsbzAy4zxvLHrxVTNrtzvTbuTAZk7Nb9rUzRZwpgvD+36VU3hfHWzm1K/UnYwfWWsGRGCINWqi0kGHkJVVMR570RQuY0pxVO98rWQ8S6T+U7D4cfAhp",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30a3e8",
+      "4": "#73d411"
+    },
+    "sz": 30
+  }
+}

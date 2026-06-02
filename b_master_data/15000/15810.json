@@ -1,0 +1,71 @@
+{
+  "round_id": 15810,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-16T17:02:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "28.30",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 爆弾/自認レゼ",
+      "team": "神撫子",
+      "emoji": "😀",
+      "score": "20.19",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[山本組] 山本",
+      "team": "山本組",
+      "emoji": "👻",
+      "score": "18.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🦄",
+      "score": "3.34",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "28.30",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "23.54",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "山本組",
+      "score": "18.30",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0FkSgDAIA9Bg4P5XdqSWpVrHfEmfdAHwHCWML4Akm9WaZsYFo4YrDxKTHr0j45R2UNHMX6WrvCvspTnfax7dqN4pGKNLTc/J/lO0jSffeiH26lO0xKpem4kgMjB6ARS8HIhbNVWJNZ0eG2ss5XMVUqvRXCrRL11pp3nzurWs2JpF5EMHt6E8urFnXXvnP8+1E/rVCBQ=",
+    "cp": {
+      "1": "#37f1ee",
+      "2": "#86ea39",
+      "3": "#ef4ded",
+      "4": "#45ed56",
+      "5": "#ef4ded"
+    },
+    "sz": 30
+  }
+}

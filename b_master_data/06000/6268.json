@@ -1,0 +1,108 @@
+{
+  "round_id": 6268,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-16T23:42:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "あ",
+      "team": "",
+      "emoji": "😎",
+      "score": "29.10",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵YY勢] ゲスト",
+      "team": "🇯🇵YY勢",
+      "emoji": "😎",
+      "score": "25.44",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵YY勢] 🐷中山司🐷",
+      "team": "🇯🇵YY勢",
+      "emoji": "🤔",
+      "score": "3.90",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇳操虫棍] まぁてる",
+      "team": "🇨🇳操虫棍",
+      "emoji": "🤖",
+      "score": "1.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵田中] ガスト",
+      "team": "🇯🇵田中",
+      "emoji": "🐷",
+      "score": "0.63",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵YY勢] デスセックス",
+      "team": "🇯🇵YY勢",
+      "emoji": "😂",
+      "score": "0.52",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "カミカゼ",
+      "team": "",
+      "emoji": "😍",
+      "score": "0.15",
+      "kills": 4
+    },
+    {
+      "rank_position": 10,
+      "player_name": "アナ",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.06",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵YY勢",
+      "score": "29.91",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳操虫棍",
+      "score": "1.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵田中",
+      "score": "0.63",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0lEOAyEIBFC6Y9pF73/fBpQFrFo+fQySKFGqQvsquU72T40B7FH8FF2Y62kryLW/SkEvrRK6wsZ0lT7B2aMQtYOhvRetAbjgw3L21vjMNvcerLNrzCqaYlI5aniKa52zAZmc17rKvk05RHNWG5h3ysLTE0TtUXL9TIM5/hl9hBymxPIiz8Wy+UHl8JW/crh7oSE+62gh+ztWXwN8CL8=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#51bce6",
+      "4": "#b0e33b",
+      "6": "#51bce6",
+      "7": "#5def52",
+      "8": "#f94e7b",
+      "9": "#51bce6",
+      "10": "#ef57ea",
+      "11": "#51bce6"
+    },
+    "sz": 30
+  }
+}

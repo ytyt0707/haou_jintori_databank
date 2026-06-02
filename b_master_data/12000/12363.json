@@ -1,0 +1,56 @@
+{
+  "round_id": 12363,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-05T05:42:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "👽",
+      "score": "12.24",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[焼菓☆] 宇月幸成",
+      "team": "焼菓☆",
+      "emoji": "🦁",
+      "score": "10.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[焼菓☆] デスセックス",
+      "team": "焼菓☆",
+      "emoji": "🦄",
+      "score": "4.45",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "焼菓☆",
+      "score": "14.67",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "12.24",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJy1zzkOwCAQA0Ar2P//cgQoXHsoReKGYsC7ACMFNgXlCXAZXdDyhqE6Q9+qj0jxK2W4lQDGSoked2dLoM0UKKkayqrqVEbaSxNVj7uW1tjHKc9qwXuNqc7kcaOdZ/WmZ7v5SK7/5waQFAOr",
+    "cp": {
+      "2": "#38f587",
+      "3": "#6143f4",
+      "4": "#f934b4",
+      "5": "#f934b4"
+    },
+    "sz": 30
+  }
+}

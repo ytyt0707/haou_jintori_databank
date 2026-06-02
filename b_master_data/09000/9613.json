@@ -1,0 +1,88 @@
+{
+  "round_id": 9613,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-25T07:27:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "56.55",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 廃人/自認レゼ",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "13.26",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "🤔",
+      "score": "8.64",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "陣NTR",
+      "team": "",
+      "emoji": "👽",
+      "score": "1.37",
+      "kills": 10
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇦🇺☺︎] セロリ",
+      "team": "🇦🇺☺︎",
+      "emoji": "🐲",
+      "score": "0.46",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇦🇺☺︎] カロリー",
+      "team": "🇦🇺☺︎",
+      "emoji": "😍",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "69.81",
+      "kills": 24
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ローマ",
+      "score": "8.64",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇦🇺☺︎",
+      "score": "0.53",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0uEOgzAIBOBbThre/4kXWssAmW73R9uvEGokQRIDM/Z6RkQEtiTHmNv8RGbWpukZREXVYL8pR2de21YuBdk37lRqZ78OEuZadBpqd2N/lEB8X1bdcZ1qT2F6dLi1FFP4TcMk18+UBvxD69m61ozGLzdVzcqi8UBUDblXfVCU3wJRURQPOlMVN3kDVmgLQw==",
+    "cp": {
+      "1": "#ee7278",
+      "3": "#ace647",
+      "4": "#52ef5a",
+      "5": "#ace647",
+      "6": "#8b64f7",
+      "8": "#3cd4f6"
+    },
+    "sz": 30
+  }
+}

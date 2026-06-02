@@ -1,0 +1,48 @@
+{
+  "round_id": 4712,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-13T11:33:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵アウト] 雨",
+      "team": "🇯🇵アウト",
+      "emoji": "🐲",
+      "score": "50.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷みん²] 未来の悪魔",
+      "team": "🇰🇷みん²",
+      "emoji": "🦁",
+      "score": "2.74",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵アウト",
+      "score": "50.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷みん²",
+      "score": "2.74",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0lsSgCAIBdBrl/2vuUkpfIE2xVd4QKgJuIIgMQ2yiFawCs2aM0ePvkgvnrcSHjCauIGr3g9zQ8UbHb5VvSD6Has8q8ieYlSKCKzWVDMRgO2Pcu1u6EeMoS741oQ0Yn6jwo4+3aPa40TxixY8AUCgBcU=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#994bec",
+      "4": "#ef718e"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "round_id": 6266,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-16T23:35:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "あ",
+      "team": "",
+      "emoji": "😎",
+      "score": "43.39",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "👽",
+      "score": "9.27",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇪さとる] OMNK",
+      "team": "🇻🇪さとる",
+      "emoji": "🦁",
+      "score": "4.41",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "😎",
+      "score": "1.41",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "9.33",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇪さとる",
+      "score": "4.41",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10UsOgDAIBNAmfO5/ZNMWkNaRupGNxldQxtbKYma72B3gTkTA2YsI+K5eH5TfqtT2lz42ShQKG6vWk4IkGf8p1JNVRFhn93ykqsHSS71WFatgjkOh7ZbRqvFNmffRpj0/n6m5eQ63tZYRHWMj13jxyGDJcYxes8oHYGCHPCtGcAGzFAkX",
+    "cp": {
+      "3": "#f0834c",
+      "4": "#b0e33b",
+      "5": "#f4d762",
+      "6": "#e859d3"
+    },
+    "sz": 30
+  }
+}

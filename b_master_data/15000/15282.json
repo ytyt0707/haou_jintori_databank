@@ -1,0 +1,78 @@
+{
+  "round_id": 15282,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-15T04:49:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵万華郷] 自認ロゼ",
+      "team": "🇯🇵万華郷",
+      "emoji": "😂",
+      "score": "38.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🦊",
+      "score": "5.35",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🦊",
+      "score": "0.23",
+      "kills": 8
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵グリコ] けんた",
+      "team": "🇯🇵グリコ",
+      "emoji": "😀",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵万華郷",
+      "score": "38.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "5.35",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇬🇧珍走団",
+      "score": "0.23",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵グリコ",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0dsKgDAMA9A0tf7/J4u74JjpEGafxGOyqsBfExHzLbMBUz5VFMYeFgiSOcIIJisNS0llaY5QC7dWSARrsY72Y5W6P9UTlIGypoenMaF3lw/zTgjV+EkXmFDVHHd0sxiePrB8IfXv6tfpVxeVkAUu",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#4cf654",
+      "4": "#cbee72",
+      "5": "#e335a6",
+      "6": "#705bf5"
+    },
+    "sz": 30
+  }
+}

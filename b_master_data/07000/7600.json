@@ -1,0 +1,92 @@
+{
+  "round_id": 7600,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-19T23:44:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸CIA] パンテオン",
+      "team": "🇺🇸CIA",
+      "emoji": "🐱",
+      "score": "18.98",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "😂",
+      "score": "18.13",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ごろす] 爆弾/自認レゼ",
+      "team": "🇯🇵ごろす",
+      "emoji": "🦁",
+      "score": "7.99",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🐱",
+      "score": "2.92",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "0.00",
+      "kills": 14
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸CIA",
+      "score": "18.98",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ローマ",
+      "score": "18.13",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ごろす",
+      "score": "7.99",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵万華郷",
+      "score": "2.92",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.00",
+      "kills": 14
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0VEOwCAIA1AYsdz/xotGJ2C3rJ+8FENUHfEnkuKu6kGzuyYqXCkpwV9qZlZYbKoNTP0w3Dp9zcaYqNnmcpZENaKcwx3Ae7drz6nAg6gf5VhpTBe3noPBFWlxY13J1fqyIPirzmrVXSYXV/6l1/WprHzs3Uzp0ybn0Q0TqAob",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#7646f1",
+      "5": "#73f764",
+      "6": "#f2e236",
+      "7": "#d16feb"
+    },
+    "sz": 30
+  }
+}

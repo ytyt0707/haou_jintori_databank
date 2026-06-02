@@ -1,0 +1,48 @@
+{
+  "round_id": 5554,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-15T09:05:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇸🇦楚] 矢野彩喜様",
+      "team": "🇸🇦楚",
+      "emoji": "🦊",
+      "score": "33.95",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳朝鮮] これ何してんの",
+      "team": "🇨🇳朝鮮",
+      "emoji": "🐱",
+      "score": "22.99",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇸🇦楚",
+      "score": "33.95",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳朝鮮",
+      "score": "22.99",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0VEOgCAMA9CO9f5nNk7FFgNR+2PCswylAW0SYGq4slZhPPkYgFkXJAnvm6mi5R5FygkyO7NrPW4sHpRsinEie0yDHt0YseR48FIzhb9pqtIVWKlzfa91RY9/FYqudLWxdQ3BzDqu43XFw6LphM7qL3xRhczur+JVNuRsCBs=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f7cf40",
+      "4": "#bb57fa"
+    },
+    "sz": 30
+  }
+}

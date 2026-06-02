@@ -1,0 +1,81 @@
+{
+  "round_id": 4136,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-12T04:16:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チー牛] 矢野彩喜様",
+      "team": "チー牛",
+      "emoji": "🤠",
+      "score": "32.20",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "🤖",
+      "score": "10.02",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "👻",
+      "score": "1.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[チー牛] おんJ代表",
+      "team": "チー牛",
+      "emoji": "🐶",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[へた] しょしんしゃ",
+      "team": "へた",
+      "emoji": "🐲",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チー牛",
+      "score": "42.35",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "1.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "へた",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0ksShDAIBNBOGsb733hqyA9D0MWwcMFLR6QEfNXanr0AkORSay0lO1NEenOFh4rVult/h7qSm6oqgES16R0FMMWmneuYfruZLYrFuyKU17aLVIMzjn3Kvij/0fhVjmrUUh6iKMW8nLfFQanaK93vdVk/zHxLhakxwwwqk91R4sNTHdcVJphTZDjOnNtJfQEcjAXJ",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#b254ed",
+      "4": "#b254ed",
+      "5": "#f57b66",
+      "6": "#3ae9c6",
+      "7": "#b254ed"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "round_id": 14904,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-14T06:45:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐱",
+      "score": "36.70",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] いただきマウス",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "29.66",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] は美味しいネ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦊",
+      "score": "14.59",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🤔",
+      "score": "1.73",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ゲスト] 泉サキ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤠",
+      "score": "0.10",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🐲",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "81.05",
+      "kills": 26
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "1.73",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇳謎の男",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lEOxCAIBNBRWDP3P3EjilWKOz9NeQVMqmoe6UEmtVZVdg7QWmudZ3OiVK356I7k2vxR9ijJU0fHUMur9HncIgjKoPAivr2jebxkulUmr69sMhOlkLDBQf2YwIvzuVQVFm/bB5yqq1VTDQbPeail5a9OZsZwviFKuU9Wwa7q98WvjZS4WAbLuHMHclY9AGT/n4KrSozpTzKaey8xfQAv3Q+i",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#f141d9",
+      "4": "#f141d9",
+      "5": "#f141d9",
+      "6": "#50e773",
+      "8": "#f141d9"
+    },
+    "sz": 30
+  }
+}

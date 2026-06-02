@@ -1,0 +1,57 @@
+{
+  "round_id": 51915,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-11T20:24:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🥑",
+      "score": "36.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "天使の自動筆記",
+      "team": "",
+      "emoji": "👼",
+      "score": "26.24",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "36.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソ連",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFklkSwzAIQ1nK/a/ckQDjxE3KR8bwkAxuRS7hXqkxBKnfQxKa+MncC9pdNTk6JjtOZvbLt/ow3yHpgj1RSOC7a7VVrAq2GmfdqRDaiBfN18JCOKkqn4Q4Eb6JFQELdVeUI9hCpUiQsgk0CqcxrZOpSlRwYno0wgUF+4fMsdjAO5eYwkXZ3izi0xQ7hXtgnhXC/8XFbrHgBJRPbU60eVBW11phVNvpnV7G3FRtfZZQyd3+TfV2M/Ydp9st6y27i51T/QKiiAnT",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30c6e8",
+      "4": "#e830a9",
+      "5": "#d4c811"
+    },
+    "sz": 30
+  }
+}

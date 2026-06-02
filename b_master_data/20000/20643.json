@@ -1,0 +1,75 @@
+{
+  "round_id": 20643,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-03T19:01:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "正体不明",
+      "team": "",
+      "emoji": "🤔",
+      "score": "73.08",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] あっぴー",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦊",
+      "score": "5.91",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦊",
+      "score": "4.95",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "名無しan",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ナユタ] 爆弾/自認レゼ",
+      "team": "ナユタ",
+      "emoji": "👻",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "10.86",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ナユタ",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk1sWwyAIRFGcdv877gGCoGLKRwSuTPBFRIRuBlAYLAKCYjOS+KlVf+Ma9t5z+pMD81s7c55pYh4co9J3fNS8Jq6r0Coa46WahtoxwzQfyglT/M0oc8ZzJk1a4UQLHLRqPWhRKucvK+JrW2yw7JqYWUtrZdG8CYOkGKvs3Cu5oSvyjfqKI3iItGeXcchtxybtM/Tuq4Zn0mgP4z/FPNXZsb0qQBOmE1/p+AfUvg5k",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#e830a9",
+      "5": "#36e830",
+      "6": "#4d81e5",
+      "7": "#8b4de5"
+    },
+    "sz": 30
+  }
+}

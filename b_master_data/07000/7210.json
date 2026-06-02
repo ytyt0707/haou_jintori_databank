@@ -1,0 +1,95 @@
+{
+  "round_id": 7210,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-19T02:38:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "23.80",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳自民党] 武石かなえ",
+      "team": "🇨🇳自民党",
+      "emoji": "🤖",
+      "score": "4.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇪穴開発] ヘルツネ",
+      "team": "🇻🇪穴開発",
+      "emoji": "🐱",
+      "score": "2.95",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇻🇪穴開発] 仕事は？",
+      "team": "🇻🇪穴開発",
+      "emoji": "😍",
+      "score": "0.57",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[みん²] ソ連",
+      "team": "みん²",
+      "emoji": "🐲",
+      "score": "0.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇨🇳ゲスト] ゲスト",
+      "team": "🇨🇳ゲスト",
+      "emoji": "🐶",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "23.90",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳自民党",
+      "score": "4.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇪穴開発",
+      "score": "3.52",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇨🇳ゲスト",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90oEOhSAIBdD76sL6/y9+00ogwLu2HCfULAD4NcHMXjtuVAICtCEAGQkVN/YYYr2tlshHm06mLXnkwmpmLqs3JVIzP+iZnItK3TxUPr3mnJzjNDNwmCYOU1PknFd6Jb4lVVWMR9JBjLveKY4JxhGvtVLViqCCMx0/XkbU7YfDFvt/9OG6/gdnLQXt",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#3df543",
+      "4": "#9c42f0",
+      "5": "#e96365",
+      "6": "#3df543",
+      "8": "#e96365"
+    },
+    "sz": 30
+  }
+}

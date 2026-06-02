@@ -1,0 +1,81 @@
+{
+  "round_id": 61080,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-01T20:53:27.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 超たぬき",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "59.39",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しBB",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "15.44",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しN5",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤠",
+      "score": "1.92",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.56",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇫🇷仏帝国] シャルル10世",
+      "team": "🇫🇷仏帝国",
+      "emoji": "🛡️",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "59.39",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "17.36",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇫🇷仏帝国",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNk9sOwzAIQ4HO5v//eDKXZQ/r0zRptFWqnEBslJBkRAQZJGlm+swM0H+HUOFZYlhaS99ozS81u64qsrnYUGW7hm7phXBjtghlSxvJoe7uPHhoQaGiZUMFWnVnDi2jmZlrTtSxtDYrXD2ZbQ8Vz5yOvUTBHYhMvXIzfkcyHDD1ODKzG3oMuagH9CiGb6pGN+DRE00Heo2in+KHtErf7dtavqG4cdSVdTLv4++p18HuG4JWa0/pjg7T",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d64e5",
+      "4": "#e830a9",
+      "5": "#8B4513",
+      "6": "#9ca3af",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

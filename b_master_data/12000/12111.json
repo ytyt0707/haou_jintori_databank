@@ -1,0 +1,84 @@
+{
+  "round_id": 12111,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-04T16:05:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵いとぴ] パンテオン",
+      "team": "🇯🇵いとぴ",
+      "emoji": "😀",
+      "score": "32.25",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵いとぴ] いとぴリスナー",
+      "team": "🇯🇵いとぴ",
+      "emoji": "👽",
+      "score": "26.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵いとぴ] いただきマウス",
+      "team": "🇯🇵いとぴ",
+      "emoji": "🐷",
+      "score": "2.82",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵いとぴ] 🐟💨💨💨",
+      "team": "🇯🇵いとぴ",
+      "emoji": "😎",
+      "score": "1.05",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵〇ね] カス",
+      "team": "🇯🇵〇ね",
+      "emoji": "🐶",
+      "score": "0.67",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵〇ね] 彡(ﾟ)(ﾟ)",
+      "team": "🇯🇵〇ね",
+      "emoji": "🤖",
+      "score": "0.45",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵いとぴ",
+      "score": "63.04",
+      "kills": 20
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵〇ね",
+      "score": "1.12",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9k1EOwzAIQ82oae9/4ikZJECj8RFVvGLASlQ9qD0ArG8S1whVvUgSqLTEYCFnZo0yhE3N8KO66pKwmaGpbgpUZWdcFKXvj15BcaLR16WH2mmsQW1Dvob2/Ek6rMp7jfWLk/C6M2Wjwds2C+4TySZPZcV7zRozbF3cz53ozB5pZOPSzI5P4JFGLd3mTouQ1k3QMYdCWIkSqhTKPyoiTslGRagqcmjrTi6IHn6j84tpkJ/Xy9p/z9W+LXMJ2w==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#ea645d",
+      "4": "#ea645d",
+      "5": "#ea645d",
+      "6": "#ea645d",
+      "7": "#79f934",
+      "8": "#79f934"
+    },
+    "sz": 30
+  }
+}

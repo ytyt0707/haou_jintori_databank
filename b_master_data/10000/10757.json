@@ -1,0 +1,96 @@
+{
+  "round_id": 10757,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-01T14:53:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "24.80",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😂",
+      "score": "23.87",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] ろぜりきっず死ね",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "12.56",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] ベネット",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "9.26",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ダイナ] イクゾー！",
+      "team": "ダイナ",
+      "emoji": "🐶",
+      "score": "0.67",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "💩",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "34.05",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "23.87",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "12.67",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ダイナ",
+      "score": "0.67",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9klkSwyAMQ1VUlvufuIMR2CxTfWX8InlJAFftwqH6qRV10vFGMcXaBrutGMQJDYRuUZzeBwT/UIiq8W0lfKzbOmkpRzKALHrvC7MyQ/zyMplX7otGbzmTk01VsLba2qakfTXVwiN2SLg/xnl728Wtgo3l7HyUPDMPkfwuOsmEouAuhz1ZR6fa7rCA6+dz+KJy29D23oN6wJvSaXlQBsrWWiPjkWlEl+xw25k5fiNJh7NQ1X47cAz9",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#26ecf2",
+      "4": "#ef5252",
+      "5": "#26ecf2",
+      "6": "#ef5252",
+      "7": "#f62c9b",
+      "8": "#c5eb5c"
+    },
+    "sz": 30
+  }
+}

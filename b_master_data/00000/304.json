@@ -1,0 +1,65 @@
+{
+  "round_id": 304,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-03T10:54:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[さとる] NoName",
+      "team": "さとる",
+      "emoji": "😎",
+      "score": "4.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[さとる] 巨乳ロリ",
+      "team": "さとる",
+      "emoji": "🐷",
+      "score": "2.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[さとる] ゴミ",
+      "team": "さとる",
+      "emoji": "👻",
+      "score": "0.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[テロ] 自爆テロ",
+      "team": "テロ",
+      "emoji": "🤖",
+      "score": "0.29",
+      "kills": 16
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "さとる",
+      "score": "8.37",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "テロ",
+      "score": "0.29",
+      "kills": 16
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0dEKhDAMRNHMtPP/vyyLWmJ3oWn3QdDcJxEPqanZWyvlHltrrTfZVfqXzbIsy7KHxnVJTmLyMO0hHHhNExQdVhgDgHWT1+d6PToDf9jdSMPzf8MdKWANINzRP0Jns5bSOX28cwD9yqL0wG3D/qdD2F0OafGxzbo3Gt9us6HPslgbO5oDEQ==",
+    "cp": {
+      "1": "#e76569",
+      "2": "#e76569",
+      "3": "#89e255",
+      "4": "#71f4e7",
+      "5": "#e76569"
+    },
+    "sz": 60
+  }
+}

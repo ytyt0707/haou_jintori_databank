@@ -1,0 +1,78 @@
+{
+  "round_id": 5076,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-14T07:14:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "😂",
+      "score": "25.46",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "14.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇪ベネズ] でじこ",
+      "team": "🇻🇪ベネズ",
+      "emoji": "😀",
+      "score": "8.32",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "🦊",
+      "score": "4.78",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "25.46",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "14.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇪ベネズ",
+      "score": "8.32",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "team_name": "チー牛",
+      "score": "4.78",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9z1kSxCAIBNAOCPc/8hTBMWxJV+mHTxABIgCqsPheonaslm5EpCfVsmqrJHwoIjZVfa/V+Ggfmjoyc6xvGBUNI6dSHlT+yklFbFlc1woqptsXliWrXbhx5zZnOVlRuerERQHfN0tkOX9kNJWgT+druuBfuiyCqKGHq7y8MKoMik8da8vQSRvksZ70wx9Lgwkd",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#e84fa6",
+      "4": "#68f042",
+      "5": "#4ed6f9",
+      "6": "#f3b268"
+    },
+    "sz": 30
+  }
+}

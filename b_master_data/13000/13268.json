@@ -1,0 +1,81 @@
+{
+  "round_id": 13268,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-10T14:19:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐷",
+      "score": "26.07",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🦄",
+      "score": "20.92",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵みん²] ⠀",
+      "team": "🇯🇵みん²",
+      "emoji": "🦁",
+      "score": "16.89",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵みん²] 紅白歌合戦",
+      "team": "🇯🇵みん²",
+      "emoji": "😈",
+      "score": "4.06",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[神撫子] クウガ🩲",
+      "team": "神撫子",
+      "emoji": "🐷",
+      "score": "3.77",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "26.07",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "24.69",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵みん²",
+      "score": "20.95",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF01EOxCAIBNDZRZz733gjYlWw7qQfTV5B1BTI4QjKntVIXjXUMgR/FDdFU7wwCtbiZyaMWpTynTPHzlstaiX702deuWlL3FFdTuPhfb/PKXtjRPOx6kHnZmx1+EnMu1NVV5GabtYUbCj54hta26yq3phkaCwdp24oElRGlVhUVXJtN/n0L17Uk9dd0Irt7awq3DYrKRe6K6IefjYAP5GdDKM=",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#f7f336",
+      "4": "#37b0f6",
+      "5": "#f7f336",
+      "6": "#37b0f6",
+      "7": "#50ed8e"
+    },
+    "sz": 30
+  }
+}

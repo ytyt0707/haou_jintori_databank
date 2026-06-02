@@ -1,0 +1,77 @@
+{
+  "round_id": 10103,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-26T09:58:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳チギュ] 覇王ロゼであるw",
+      "team": "🇨🇳チギュ",
+      "emoji": "🐶",
+      "score": "54.49",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷慶尚道] ティンコゥ",
+      "team": "🇰🇷慶尚道",
+      "emoji": "💩",
+      "score": "10.84",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤠",
+      "score": "1.13",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇨🇳万華郷] 万華武者",
+      "team": "🇨🇳万華郷",
+      "emoji": "🤠",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳チギュ",
+      "score": "54.49",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷慶尚道",
+      "score": "10.84",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵特攻隊",
+      "score": "1.13",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇨🇳万華郷",
+      "score": "0.07",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0FkOwzAIBNChiLn/kaskpYTFqVWUj9jPIADwIIzE8SHuKPQwMzt//lJmBCjBDP28Ebkz6pvMm9q6+la/tSVDzqOqqsJ7LqpXDBMVPDjlatJWOWsbSKOrcQ36m5v6IZLLlpbKorqqjEH9gFEfc191YQuNifs2NhSjnhfYizfApwzn",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#f1bb55",
+      "5": "#7936ec",
+      "6": "#f82add"
+    },
+    "sz": 30
+  }
+}

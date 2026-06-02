@@ -1,0 +1,56 @@
+{
+  "round_id": 15912,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-16T22:33:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しFc",
+      "team": "",
+      "emoji": "🤔",
+      "score": "71.51",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[漢] 練習",
+      "team": "漢",
+      "emoji": "😀",
+      "score": "8.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "👽",
+      "score": "1.01",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "漢",
+      "score": "8.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "1.01",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt01EKwCAMA9Boev8zj0o3Wo2wj+ZDxWdFQcdIwRtGX42RGKCUckvWMr8pjsqiJy7FXeF73tQZoEAzs3VtXyPM9RQCFqpi1qDyHi1Kcl7VcSqOZirtiHoRUtXL+VvbrOosuRbRpU+Ezx4hogk7",
+    "cp": {
+      "1": "#d6f94e",
+      "2": "#4a6ff7",
+      "3": "#ef846b",
+      "4": "#52fae6"
+    },
+    "sz": 30
+  }
+}

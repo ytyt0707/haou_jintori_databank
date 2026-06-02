@@ -1,0 +1,48 @@
+{
+  "round_id": 38455,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-11T21:06:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵便所] 糞の神",
+      "team": "🇯🇵便所",
+      "emoji": "💩",
+      "score": "68.06",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ぷん] 微熱",
+      "team": "ぷん",
+      "emoji": "🤒",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵便所",
+      "score": "68.06",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ぷん",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkVsWAyEIQ9Gy/zX3BAWCFcvH+LiQCDNGhiCUQhbzpVCRfY0cET2gEh2iWnS1UBhefc3dnsM4fNORxEHNOik3hA7xXBYMbv2vT9zlhij5OWf6wBN5XuNr1s45/TJWoj+VGNyOc8Kr3uml0qeOlDArm+balUvuceglIdrRrVy1PuX4p/T55PuIQv5Z2w7J2ulp/IDH5gsBNwnc",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#73d411"
+    },
+    "sz": 30
+  }
+}

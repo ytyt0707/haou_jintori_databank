@@ -1,0 +1,48 @@
+{
+  "round_id": 10265,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-31T12:17:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🐷",
+      "score": "0.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵じゃあ] レインボーシャッ",
+      "team": "🇯🇵じゃあ",
+      "emoji": "👻",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "0.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵じゃあ",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYMAEjCCARRxJFqc8XllGmDRu08EmDIQshquY8cri14tPlokJTY5QWOMzGbccAVdR6CH81mKIscBNxZc6CKQNysKKeoDqlgAABSoAgA==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#5c79fa",
+      "4": "#90f141"
+    },
+    "sz": 30
+  }
+}

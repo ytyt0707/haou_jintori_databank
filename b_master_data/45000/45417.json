@@ -1,0 +1,48 @@
+{
+  "round_id": 45417,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-27T05:01:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇲🇽ｱﾚ] ｶﾙﾃﾙ",
+      "team": "🇲🇽ｱﾚ",
+      "emoji": "🦠",
+      "score": "33.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "20.44",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇲🇽ｱﾚ",
+      "score": "33.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "20.44",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkosSxTAERAn//813FiuNPq6ZNsaxiFakbLXJUhVVweMwZCwh17akiYs2o/ZOJXJKe8WIc5roy9ZRO2BxUqizcVC4IqwcSaTMO6mnWjML4q4cjqwlSjoq51pIMfepdcESFQOFDeqxBtIJ3S+7uFV2iFn3gf7RbuXQxg1eqZvlnZlxDm1mlgSejW1EzCSPSTtc+NBOaDV09GK9fSJc/80OtpcU7w5dnPqGn/QF1lRfNAZ+7PsDHRoIFw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30b4e8",
+      "4": "#e83042"
+    },
+    "sz": 30
+  }
+}

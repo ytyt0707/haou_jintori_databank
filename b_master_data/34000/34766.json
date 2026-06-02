@@ -1,0 +1,65 @@
+{
+  "round_id": 34766,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-07T06:23:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 爆弾/自認レゼ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🚔",
+      "score": "54.23",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] クローヴィス",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "17.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しVV",
+      "team": "",
+      "emoji": "🥺",
+      "score": "1.74",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 鯖ウォ呪",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.16",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "54.23",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "17.28",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVkSwzAIQ1WPxf2P3BGbcSYtPw5+kcBAjoDHUsTnYCR15/CVFg8lcGudkgsI8aBmSiD7Khx0773NEi92X6JiDl0cXR3nQ0Pd0uoqtWG+sJaXL6qiGVRZgFCHEYV0Mial3l+o8GNWKYafNarSkpe3D/w4P2kM/EWbnRCf6srKuJC0Tcv4wKhcuTdViU7vuy40BV9CXTjuJPfX+U0Z+2lqsu6MD2MDbNLxI0mD/aP2h8Y2ht2sInh3NagX/U1dGS/Kl/W/vXx8AWlaDgM=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#d4c811",
+      "5": "#9ca3af",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}

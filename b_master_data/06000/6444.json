@@ -1,0 +1,80 @@
+{
+  "round_id": 6444,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-17T09:13:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "53.53",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "30.02",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷自由国] 幸せ者",
+      "team": "🇫🇷自由国",
+      "emoji": "🦁",
+      "score": "3.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵👯‍] 深谷知広",
+      "team": "🇯🇵👯‍",
+      "emoji": "😂",
+      "score": "1.92",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇫🇷自由国] 赤座",
+      "team": "🇫🇷自由国",
+      "emoji": "🦊",
+      "score": "0.20",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "83.55",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷自由国",
+      "score": "3.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵👯‍",
+      "score": "1.92",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJytkUsSwyAMQ+WRCPe/cQdCXGMn2bTaoYdkPpDUGqA2JQkCdOqyx5Z2HNOSCzOqhZt2+UYvvqXKJA35n/hTmOTTqchF+z6KdEio92/gchlo79NVZsMbtBe4FjrD4SjLnmv/SgmF7jd6oTa0zw3FVjGQmu2ZijTDC/2mMyVGziKOUYCI2XLh+CSpOWujKFSVwvud4lYf0MkL/g==",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#b4f36d",
+      "4": "#b4f36d",
+      "5": "#ef5794",
+      "6": "#ef5794",
+      "7": "#73ed81"
+    },
+    "sz": 30
+  }
+}

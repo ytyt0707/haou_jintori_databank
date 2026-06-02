@@ -1,0 +1,74 @@
+{
+  "round_id": 10693,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-01T11:25:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] チクニー侍",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "39.75",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 韓非子",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "17.80",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] チギュアってて草",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "15.84",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] カウパー濃いめ",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "15.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "🐷",
+      "score": "0.14",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "88.59",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵神撫子",
+      "score": "0.14",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0dsOwyAMA1CrTub//+MpXJIiYOOp4simBACgUyIgADCTzAyQJJBOUuf1T92DLRp/6ck91sUEn+vEpe5+ab76qJ2Itdnyt7jfGzG1xE2d1qInFKwP4tTbstW7Z+cUSWLz2BmTtHjeBa0pe/s2jKZRuM/KbChw0MqiPbN7PEplrZQz/ZlUqtTYs6Ga5zI5/K1xT66cij6E0uelGAOuO2dWGqUtq0M2eK3OcDu0H13ryc8vkCYQ0A==",
+    "cp": {
+      "2": "#38f587",
+      "3": "#70f764",
+      "4": "#70f764",
+      "5": "#70f764",
+      "6": "#5666f0",
+      "7": "#70f764"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "round_id": 18787,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-02-27T12:39:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 大日本帝国陸軍",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "25.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵田中] ハンニバル",
+      "team": "🇯🇵田中",
+      "emoji": "🐶",
+      "score": "13.72",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "いいぼう",
+      "team": "",
+      "emoji": "👽",
+      "score": "5.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😂",
+      "score": "3.64",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 大日本帝国憲法",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "1.94",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] 浅井長々",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "1.50",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦄",
+      "score": "0.90",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[みん²] ベネット",
+      "team": "みん²",
+      "emoji": "💩",
+      "score": "0.65",
+      "kills": 4
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[みん²] 正体不明",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "0.36",
+      "kills": 0
+    },
+    {
+      "rank_position": 10,
+      "player_name": "名無しqJ",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "28.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵田中",
+      "score": "17.36",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "1.91",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10tEOwyAIBVDGdYr2//93QUXBmexpN2nSekSxLdEtr5kr/lD6W61xv83ZjTfAeKJX9BDsOQdGU+Wgxq21hpllBzJkaPa6ynSCcs4iIpOdjqU7kl67YSsnHR/5Um07IJ0r72IJOrqSby2lVjtv2BjAG7WW+jyHanptraUAeOjksWfZb9IpJHTsl04pMae0Go5HUk1T3UdayqzFfFNiPnV2RWY9UUe20kV1QvjvDrzkA2pSCSI=",
+    "cp": {
+      "1": "#33eba1",
+      "2": "#a64be7",
+      "3": "#ef2ee2",
+      "4": "#ef2ee2",
+      "5": "#6ba9eb",
+      "6": "#e5dd38",
+      "7": "#ed3e35",
+      "8": "#e5dd38",
+      "9": "#ed3e35",
+      "10": "#ef2ee2",
+      "11": "#ed3e35"
+    },
+    "sz": 30
+  }
+}

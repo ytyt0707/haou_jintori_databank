@@ -1,0 +1,60 @@
+{
+  "round_id": 40401,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-15T10:01:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "一騎打ちしよや",
+      "team": "",
+      "emoji": "⚽",
+      "score": "32.16",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[たかし] も",
+      "team": "たかし",
+      "emoji": "😍",
+      "score": "22.77",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[たかし] たかし",
+      "team": "たかし",
+      "emoji": "🍘",
+      "score": "4.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[たかし] 名無しo1",
+      "team": "たかし",
+      "emoji": "😈",
+      "score": "0.34",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "たかし",
+      "score": "27.71",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkQsOxCAIBZ/i4/5H3oCiQtxd0tTPdIRi7xFYoScQrPcHVTjHZsBRVd1trbWXemjgW50U+OHawU9Vrdbv1ItZLkmmtArbYmv2BlDp/JMGhyiyCVeQqRuZ2vF6tWseuOyZ+7K9KHIWR3LgUnXROYhwELBN9foKlQGIpM29kBl7vbqx1xnnvOSyxbLaUyKweMMzHP77AuBFV2+8gSZnNzoXuNBoaYwZX9dl0wzzjVVa1L9u/sBtS+eTDxPeDAU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#4d81e5",
+      "5": "#e89830",
+      "6": "#4d81e5"
+    },
+    "sz": 30
+  }
+}

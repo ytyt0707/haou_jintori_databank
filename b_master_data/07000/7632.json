@@ -1,0 +1,47 @@
+{
+  "round_id": 7632,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-20T01:27:52.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[負け組] 雑なお魚さん",
+      "team": "負け組",
+      "emoji": "😎",
+      "score": "14.06",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦁",
+      "score": "0.00",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "負け組",
+      "score": "14.06",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.00",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0kEOgCAMRNE/9v53NoItUopx4awIj5JCClXUAgdgWIuLMxzmmcpcW0Lvk65j53J70baNZKpVc66mx82rRi2o0DBljVLo7VhdmnZ9UTTbv/NVH7W5Gw1VztDljfdL+mKDnVnxuxY8DVgaFz22xzAxs6sRP7dcXAzxLunW6sSe/swJEIADEg==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#a068ed"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 26258,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-17T02:23:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "⚾",
+      "score": "49.58",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] いただきマウス",
+      "team": "🇯🇵阪神",
+      "emoji": "🐁",
+      "score": "43.77",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しtX",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.97",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "93.36",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.97",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkoESwyAIQ6mJ///LG6LCVOzNu7aWl0S0BZIhAPQCE8Ebu9hOqK11AlZ7coSKC2WtqzXs6EDBzsmNioA2oJMt2em6ZmmFaR6H22WlKO9Ulxex82j3jU6s9qJjekkIRZMsutERHJ/Wj2Kvesqgzkiwc0tmMJos/izROKkZw06jakLvImKdW1dr1d+T5C64U/r5e2CY5V2p6C/6I/5+7A+rggvl",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#30e8a3",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "round_id": 22040,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-06T22:35:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🧠] 🧠",
+      "team": "🧠",
+      "emoji": "🤠",
+      "score": "23.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しEq",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "13.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[宮城] 天皇殺す",
+      "team": "宮城",
+      "emoji": "👽",
+      "score": "12.29",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "👽",
+      "score": "10.26",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] おんJSUNNY",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🧠",
+      "score": "23.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "14.00",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "宮城",
+      "score": "12.29",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVktsOxCAIRIcu6P//8Wa4ap92SROJxxkEq6oigDBwhG+IkCrDVAEwYZAWcayqTzI/4EeK+Po8CcrgomE70ijaR+wzYhG86UDerFWRHNBU2ELHicxMvcGiIo2Zsf9CqjrQxE0v56ScqQ/y0HJ6hpx4QM0rAzAiRs4/HiXqJgHqvfLF3jRr5oPetG1v7XLv9Sob/a6JKLzaeUhkdF/hBU2IhcVvgrUKVloba+9dNPpt3Y5IRQ+DSSIusV+/8gE8vVSnbKR15C9plv1RGzeu8sAXm3ALXQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#c030e8",
+      "5": "#9ca3af",
+      "6": "#e83075",
+      "7": "#30e84d"
+    },
+    "sz": 30
+  }
+}

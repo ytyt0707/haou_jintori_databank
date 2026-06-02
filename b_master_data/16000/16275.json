@@ -1,0 +1,49 @@
+{
+  "round_id": 16275,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-17T18:14:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "pc勢",
+      "team": "",
+      "emoji": "🦊",
+      "score": "47.92",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "一等兵",
+      "team": "",
+      "emoji": "🐱",
+      "score": "1.96",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "😍",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0NsKwCAMA9Ca/P8/C2PD3giDwTSPHlOLxjvWhZu1xYfdASDQkKvDN+HKFw5GReyu2bUrln75Ha1TMmO0Ji8aLnRKrfyiPE3tl3cnbdAFYg==",
+    "cp": {
+      "1": "#6c38f0",
+      "2": "#42ebb6",
+      "3": "#ee49d8"
+    },
+    "sz": 30
+  }
+}

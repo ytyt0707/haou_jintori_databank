@@ -1,0 +1,99 @@
+{
+  "round_id": 8480,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-21T23:19:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐲",
+      "score": "34.32",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] 爆弾/自認レゼ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "33.15",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] 〇ね",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "8.91",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[万華郷] おめんこ",
+      "team": "万華郷",
+      "emoji": "🦁",
+      "score": "5.62",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[チー牛] チギュりパン",
+      "team": "チー牛",
+      "emoji": "🤖",
+      "score": "5.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[チー牛] ンゴ",
+      "team": "チー牛",
+      "emoji": "😀",
+      "score": "1.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[万華郷] 万華武者",
+      "team": "万華郷",
+      "emoji": "🐶",
+      "score": "0.12",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "76.39",
+      "kills": 29
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "6.05",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "万華郷",
+      "score": "5.74",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJxtkwtuxDAIROnSIcP9L1xhDMbpjpQE+Wn4BFkkpJqfFWYsWK+tON7ijtG4SARkBABMRAddIVGRbe9hUaQCFazTgB+8sXYwvNrNjMQrB4CfsmvS6hdaifbpV4ocjW86xiuvDtoTaNXVidE1XnV11MiW/9EqCtj1I2dLS7WEWIz2sJXgeHtrR2aWlEw6uh8USXVSG169hV87tA59P6Qd2k737C/6KFp5H3fnItxYAGGs6gm5c8LyUp8S6ReVyHxowpooL8YzzAGTti5I5I5u5dUiuRYgf8y3Drs=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f0f943",
+      "4": "#e22bf3",
+      "5": "#f0f943",
+      "6": "#e22bf3",
+      "7": "#3ef226",
+      "8": "#f0f943",
+      "9": "#3ef226"
+    },
+    "sz": 30
+  }
+}

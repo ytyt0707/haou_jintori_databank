@@ -1,0 +1,48 @@
+{
+  "round_id": 13948,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-12T03:04:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "👻",
+      "score": "59.09",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵　] うんち",
+      "team": "🇯🇵　",
+      "emoji": "👽",
+      "score": "10.52",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵陽キャ",
+      "score": "59.09",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵　",
+      "score": "10.52",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0uEOgCAIRlHo8v7P3EozFLD44dwOH4ulSFogQGWtyuQ4q6hsNcuamfUoUR6M2QX5H7VVcetZqsBxgJV6ca794rj9gb7yUzE69B1NoiPMpAtTa6gPRbfZD1UtG37osrf/KnZh1Y1Ka/CjZVZC1jW8k+9XNL3SE7rOB7s=",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#ed50ed",
+      "4": "#f1f146"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "round_id": 7282,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-19T06:32:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "^-",
+      "team": "",
+      "emoji": "🤖",
+      "score": "40.63",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐲",
+      "score": "29.93",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] ぷゆゆ🥺",
+      "team": "みん²",
+      "emoji": "🤖",
+      "score": "15.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵みん作] みんなで作る党",
+      "team": "🇯🇵みん作",
+      "emoji": "😀",
+      "score": "0.65",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "かかってこいザコ",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.06",
+      "kills": 12
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "45.17",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵みん作",
+      "score": "0.65",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0eEOwyAIBOCrOez7v3FDwQ4Ut2Qbf2z6wVUtxIokdQUEAOzR1qChtM9WWcyDxuzX2koV09amXZ2nKdVulUqpaGdaYkF6KAlOCtdREhr0rsjC76MktdvkM7ZoTp2S8zUBPWmPJSL9Ge7ZrBwLCbrhD9r1k9vkzfuR/Gc9ghZ+vPTN8G+7grf4Dw39AC4hFBA9",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#96f146",
+      "5": "#96f146",
+      "6": "#ec74a2",
+      "7": "#b656f5"
+    },
+    "sz": 30
+  }
+}

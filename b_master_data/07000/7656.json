@@ -1,0 +1,47 @@
+{
+  "round_id": 7656,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-20T02:45:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "26.17",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ネコち] ねこちゃん",
+      "team": "ネコち",
+      "emoji": "🦊",
+      "score": "0.22",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "26.17",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ネコち",
+      "score": "0.22",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0EEKwCAMRNEf0vufWaTSamOGFgrigG6ewSHwOe711HtCV3J5qocI+kunLEu97Qx+PrBktqmlClj3T9yyHTeHwWEFcVYqWvv+SxSJu6YAv+oCvQ==",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#ea43bb",
+      "4": "#91ec69"
+    },
+    "sz": 30
+  }
+}

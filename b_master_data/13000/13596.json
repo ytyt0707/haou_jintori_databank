@@ -1,0 +1,86 @@
+{
+  "round_id": 13596,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-11T08:02:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "53.95",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] パンテオン",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "16.41",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🐱",
+      "score": "12.43",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐷",
+      "score": "0.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "👻",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "70.37",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "12.43",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "0.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇨🇳チギュ",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0lESwyAIBNAty07vf+NOohVQ2sl+mXmBiAaAJCHHY6kZgFc8J5Q81RGopvgSEVyBO0K5Bbl2x9L7nxqKivDcOjTGajRNDeydVdQGfhVV78N2M6ud58RXLGoLTrUfyqVqcOxs1R5Icqk6JcaWpZatKI7qu7P6YqPlU9zY4ubYfLc+vnik+Tce65b3o7fmtR+dx93P9QcGzQq9",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#38f04a",
+      "4": "#eb3ddc",
+      "5": "#38f04a",
+      "7": "#3958f3"
+    },
+    "sz": 30
+  }
+}

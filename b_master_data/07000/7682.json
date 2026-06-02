@@ -1,0 +1,78 @@
+{
+  "round_id": 7682,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-20T04:10:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "21.53",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🦊",
+      "score": "13.64",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇷🇺チー牛] チギュりパンで草",
+      "team": "🇷🇺チー牛",
+      "emoji": "🦊",
+      "score": "7.94",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵温蛸] たこ焼き器",
+      "team": "🇯🇵温蛸",
+      "emoji": "😂",
+      "score": "0.67",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "21.53",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "13.64",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺チー牛",
+      "score": "7.94",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵温蛸",
+      "score": "0.67",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyFz1EOhDAIBNCxYOb+Nzbg1gJSdz5M7ANKoYqUMfxzB+oBflXDFVnvCj+fI3q1SO1d9w6xOCJbq2ln+a8jTl4usleRoKg7S+b6XEmTN2p3LkXZav7VF0V7a46ZcssElATZlpA+Oemx8D5n5CPiDGZBq0//VvlSbQe0vXE7+znPD8WnklUL969+hjdtlgu1pgkk",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#48cfea",
+      "4": "#e8e045",
+      "5": "#f6872c",
+      "7": "#ec32c7"
+    },
+    "sz": 30
+  }
+}

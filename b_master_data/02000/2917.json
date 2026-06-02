@@ -1,0 +1,61 @@
+{
+  "round_id": 2917,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-09T10:04:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] ツインテメイド服",
+      "team": "うんち",
+      "emoji": "😀",
+      "score": "7.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵お] 屁ネキ",
+      "team": "🇯🇵お",
+      "emoji": "🤔",
+      "score": "2.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "😀",
+      "score": "0.41",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "7.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お",
+      "score": "2.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "0.41",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0DsKACAQQ8HEvf+drRSrNesXwVcPBAI8XLrlVHgykhSZ4BhyfSg6Ko5UXVVmaxwK81xznplHx5y6O+/QOoeFHCKul6Z+28rWAQD2",
+    "cp": {
+      "1": "#9bfd96",
+      "2": "#ee8181",
+      "3": "#ea66d6"
+    },
+    "sz": 40
+  }
+}

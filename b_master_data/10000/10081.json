@@ -1,0 +1,57 @@
+{
+  "round_id": 10081,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-26T08:46:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "😎",
+      "score": "21.27",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ナチス] あんこ",
+      "team": "🇩🇪ナチス",
+      "emoji": "🐱",
+      "score": "13.36",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪ナチス] ナチス",
+      "team": "🇩🇪ナチス",
+      "emoji": "🤖",
+      "score": "8.02",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ナチス",
+      "score": "21.37",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳チギュ",
+      "score": "21.27",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0uEOgCAIBGCI4/1fuQloKOnWuq3+fHkaRXRZaJe9/M/oVtW4RTiurpGunm+qk/oTRTOznhbriwK9uSgzA2DZqlh4PrKzKxozlcWhgCkVldDSPdTL67DGqdrGvGBabNV1kEOF7JUpqaT0D/X8F1VzRA4eg8JWJebRsjYDB8WcT0pHvQHScgbF",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#477beb",
+      "4": "#477beb",
+      "5": "#f7e04a"
+    },
+    "sz": 30
+  }
+}

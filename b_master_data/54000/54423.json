@@ -1,0 +1,147 @@
+{
+  "round_id": 54423,
+  "game_mode": "TEAM",
+  "player_count": 22,
+  "played_at": "2026-05-17T11:59:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] はちもと；＠；",
+      "team": "なきち",
+      "emoji": "🐹",
+      "score": "23.77",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸宣教師] ルイス・フロイス",
+      "team": "🇪🇸宣教師",
+      "emoji": "😆",
+      "score": "13.68",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇪🇸宣教師] ニャル子",
+      "team": "🇪🇸宣教師",
+      "emoji": "🏁",
+      "score": "9.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[東卍] チー牛イキリ陰",
+      "team": "東卍",
+      "emoji": "👺",
+      "score": "7.48",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[東卍] タケミッチ",
+      "team": "東卍",
+      "emoji": "😠",
+      "score": "5.04",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇪🇸宣教師] 肉体派ザビエル",
+      "team": "🇪🇸宣教師",
+      "emoji": "😇",
+      "score": "4.16",
+      "kills": 18
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ONJ] 100キロばばあ",
+      "team": "🇯🇵ONJ",
+      "emoji": "👵",
+      "score": "3.41",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇬🇧珍走団] うゆ",
+      "team": "🇬🇧珍走団",
+      "emoji": "😎",
+      "score": "3.30",
+      "kills": 14
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[東卍] マイキー",
+      "team": "東卍",
+      "emoji": "🙂",
+      "score": "2.26",
+      "kills": 3
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵ONJ] 奈良",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦌",
+      "score": "2.12",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇪🇸宣教師",
+      "score": "27.80",
+      "kills": 34
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "23.86",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "東卍",
+      "score": "14.78",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ONJ",
+      "score": "8.84",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇬🇧珍走団",
+      "score": "3.61",
+      "kills": 28
+    }
+  ],
+  "minimap": {
+    "bm": "eAFd0YGOgzAIBmC4Ug9WliE79/6PegFaNSOZyfr500pVZ8FgYI7fY5YZLFQdg7MWPu5aeIs+zGxlxxjDKvyptJkZJ7+VeYz4O7szB67sm3nkwuSpI7O1ZtYq/OFvVR6jtXbLMltl9adp4tRqYRZnjeY/ezuTLwbL1rBU294gk6ovNosjMozjqOb71rbQaMRsHM2n/rV937Zt45xsdL2yFQ5VBc18DcP6cdSxdGkOICdl1nufmqv1yAnGC6Ed8SJUOK8Vj957R1zuiHDT5AvdAWBdjSLOKCKouofqeXNwKhFAqDucFxsauyIi0cRQREVE+D21zJ0gML4Coffnc4aTKXtcilNnVpyIRKrzzCGiu4uIB4KIxHzgUgwld5IM07eKkJAEVkGce1VsLO4S2yafnR09d4434thZAP8ZjyA0",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30d7e8",
+      "5": "#47e830",
+      "6": "#9ca3af",
+      "7": "#47e830",
+      "8": "#30a3e8",
+      "9": "#30d7e8",
+      "10": "#9ca3af",
+      "11": "#30a3e8",
+      "12": "#e230e8",
+      "13": "#47e830",
+      "15": "#30a3e8",
+      "16": "#30a3e8",
+      "17": "#9ca3af",
+      "18": "#30d7e8",
+      "19": "#e230e8",
+      "20": "#9ca3af",
+      "21": "#9ca3af",
+      "22": "#30a3e8"
+    },
+    "sz": 30
+  }
+}

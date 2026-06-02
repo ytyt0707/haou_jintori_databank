@@ -1,0 +1,56 @@
+{
+  "round_id": 5008,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-14T03:33:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "👽",
+      "score": "44.44",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "最大派閥妨害",
+      "team": "",
+      "emoji": "🦊",
+      "score": "3.19",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "44.44",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10tsSgCAIBNDVWf//lxvLCwtM+RJP6hEiCjgN6o7UnTkY65oyvZKL96o6pNzzqSa+tX7rPGg9QuUjbaJmNLCpexwmd6fKmFdhctZF0NvgHqovGwbpZvCigGMl/60jrn8jx9hvhoepj5Ye/2mJOLRfyBpLer4ApBMG9g==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#39eb33",
+      "5": "#b268f3"
+    },
+    "sz": 30
+  }
+}

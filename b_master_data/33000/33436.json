@@ -1,0 +1,41 @@
+{
+  "round_id": 33436,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-04T07:20:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] たぬきち",
+      "team": "なきち",
+      "emoji": "🤩",
+      "score": "75.39",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] エサ",
+      "team": "なきち",
+      "emoji": "🥺",
+      "score": "21.08",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "96.47",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNUEkOwCAIJDD/f3Mjq1bThp7qBZ0NENAjYhUCqROYIcDMSVhCHmTWTT+UnjGSwzhXB88ks+Gg9Dqgb9bZK9mnt07sXQDSW5GZ5QvlYiW5O4rZbrQhbwAh/v6sfGbPnhXtzTSWXf29V69bL/v/6i/bX0E4DSo=",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#e83042",
+      "4": "#e83042"
+    },
+    "sz": 30
+  }
+}

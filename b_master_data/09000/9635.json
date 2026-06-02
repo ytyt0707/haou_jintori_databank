@@ -1,0 +1,110 @@
+{
+  "round_id": 9635,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-25T08:39:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👽",
+      "score": "59.43",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ころす] 全員殺す",
+      "team": "🇯🇵ころす",
+      "emoji": "🐱",
+      "score": "8.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "😂",
+      "score": "6.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "🐷",
+      "score": "6.21",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "0.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐷",
+      "score": "0.05",
+      "kills": 4
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[민민] 민민",
+      "team": "민민",
+      "emoji": "😀",
+      "score": "0.05",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "59.43",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ころす",
+      "score": "8.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵神撫子",
+      "score": "6.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵YY勢",
+      "score": "6.21",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "楚",
+      "score": "0.63",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJx900EWwyAIBNBpmaL3P3FeIQZR4iyy+QkQfAJTmIIlCb/ZuSLZALRKjds/sCLcY3qPkEBVSZSqltA1k2bXJ8CGoRzYZ/49jV0/VVtV9t462Wu2vtUezsoxVrllEv6/ecfpNfgew3KVeRW4D3zv4idBQKSc0r8TEXlVkTceVmlYKCbFQcmznioX6nuBr3CbON8jGXdmPC+qCwxr",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#43deef",
+      "4": "#62a1f8",
+      "5": "#3ce73c",
+      "6": "#c66ef2",
+      "7": "#5d41e6",
+      "8": "#f764cb"
+    },
+    "sz": 30
+  }
+}

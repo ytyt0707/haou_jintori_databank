@@ -1,0 +1,48 @@
+{
+  "round_id": 8458,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-21T22:07:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺KGB] あそ",
+      "team": "🇷🇺KGB",
+      "emoji": "🦄",
+      "score": "26.90",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🐲",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺KGB",
+      "score": "29.29",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9klsKwCAMBCPb3P/KpVolSbuBILg/Yiaj+BAhASBgcGCOfihcNqhm5sdF5kY5p6WNmQtDdI66pEmtz5Z8sqg1emFgR92jGfdtEFMIB+ozR+NNur+iyccJredy1drbBi3mBkcKA0M=",
+    "cp": {
+      "1": "#48eab1",
+      "3": "#eecd49",
+      "4": "#f3626c",
+      "5": "#eecd49"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "round_id": 56320,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-21T18:34:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "アレン",
+      "team": "",
+      "emoji": "👄",
+      "score": "23.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸宣教師] アルメイダ",
+      "team": "🇪🇸宣教師",
+      "emoji": "😣",
+      "score": "4.83",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇪🇸宣教師",
+      "score": "4.83",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1klEOwyAMQxPM/c88xRAS002TJo2PlvBix0U145q61mE89TyqYl/oUzrNj/pBPVZid5eGA9lxUcISK02Y1r/QlqrlOs7bmvVKXSh2lH+k5KhYZtblIQZy7AVpDWBflirXZMCwr1J8VzA0cZ+aWqR20rsugqli8P5Hkpw3nU+lGzehY4whDZG5/gWzm8Z9lEDFdG60+mK3vlHPqvofzRlvg70ACVgEvQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e870",
+      "4": "#e830dd"
+    },
+    "sz": 30
+  }
+}

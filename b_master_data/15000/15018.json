@@ -1,0 +1,56 @@
+{
+  "round_id": 15018,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-14T12:55:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇩🇪自民党] アベベ",
+      "team": "🇩🇪自民党",
+      "emoji": "🤖",
+      "score": "7.20",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] パンテオン",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👽",
+      "score": "0.37",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "検証中殺さないで",
+      "team": "",
+      "emoji": "💩",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪自民党",
+      "score": "7.20",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.37",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYBikgIk4WRYWKIMViywLC0walyxEAStCnglTFkk3miQLA1ZADVns0vhloSpwylENMNPeipEEAKJQAS8=",
+    "cp": {
+      "2": "#984af2",
+      "3": "#2f64e9",
+      "4": "#f25ad1",
+      "5": "#2eef72"
+    },
+    "sz": 30
+  }
+}

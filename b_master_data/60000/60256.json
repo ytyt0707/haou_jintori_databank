@@ -1,0 +1,66 @@
+{
+  "round_id": 60256,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-30T15:21:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[九三軍] ニャル子",
+      "team": "九三軍",
+      "emoji": "🏁",
+      "score": "41.81",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[九三軍] 名無しe3",
+      "team": "九三軍",
+      "emoji": "♋",
+      "score": "16.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無し5T",
+      "team": "🇯🇵ONJ",
+      "emoji": "🌏",
+      "score": "10.74",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[九三軍] 大麻",
+      "team": "九三軍",
+      "emoji": "🌱",
+      "score": "10.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "九三軍",
+      "score": "67.93",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "10.74",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFUUkSwzAIU7Hg/0/usNmkSSccYkBILAHcJA2qiuXfMliYmImsTu4XnjaxBxSqxQ2BwWXSEbyS34rtuHJiZrIGOwqGskjpZZFXNi/G4lq6hikOWZQkJzi5ioO6R7KV40CbWSDjkDQjL7oFQ6GRz7i7ZpQXb6E9Uid86fZ329WZOEkHrXtBG2zuib3xiYJ8QtaeIzNd7wvElWa6/LjGX7jR54JX9PPJEv50B/MvlMB9rFflLrhTp/JB9/5NrI1isLPdQHNkhBzpL7+c6Qxe",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30b4e8",
+      "4": "#30b4e8",
+      "5": "#30b4e8",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

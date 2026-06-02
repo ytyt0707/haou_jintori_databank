@@ -1,0 +1,56 @@
+{
+  "round_id": 11111,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-02T10:01:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵カス] カス",
+      "team": "🇯🇵カス",
+      "emoji": "🤔",
+      "score": "8.54",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵カス] 山上徹也",
+      "team": "🇯🇵カス",
+      "emoji": "👻",
+      "score": "5.95",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "👻",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵カス",
+      "score": "14.48",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵万華郷",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJylkEEOgDAIBAms//+yEaqSsKXR7qllMi0gshfrsepfuFJbN8tApQ9CpZopefl99yvNPXcukfO8rUqyWtUxDhbJzEQtmsGcQlBds6uGSFXvMRsqoZNv/e6Um6EEZRN7GRO4m37ZNCfUlgIG",
+    "cp": {
+      "2": "#38f587",
+      "3": "#3754e6",
+      "4": "#3754e6",
+      "5": "#66dbf5"
+    },
+    "sz": 30
+  }
+}

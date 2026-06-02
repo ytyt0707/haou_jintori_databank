@@ -1,0 +1,48 @@
+{
+  "round_id": 7958,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-20T19:05:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵うんち] 一人",
+      "team": "🇯🇵うんち",
+      "emoji": "🦊",
+      "score": "24.96",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇰🇷うんち] アベベ",
+      "team": "🇰🇷うんち",
+      "emoji": "🐷",
+      "score": "1.27",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "24.96",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷うんち",
+      "score": "1.27",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyVkkEOwCAIBJfi/9/caBBXBJtuYi/DoFKBHkWM9ACqOj6WrYBBgH8ps7516fqpMiwp1aur7JatrzCj6SSzUQyOYsZzVpE+I6eLRZPOcCw+jR0/thyuB2AumDYqOe476f64xN2GEFmbokUsRBv1TtwNikyTClKzoPYDqhRd2f/OC7kyA24=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#50cbf1",
+      "4": "#d235e3"
+    },
+    "sz": 30
+  }
+}

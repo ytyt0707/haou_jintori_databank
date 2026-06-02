@@ -1,0 +1,57 @@
+{
+  "round_id": 24323,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-12T17:38:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] ︎ ︎星の名ガウ",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "33.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵327] りんたにゃー",
+      "team": "🇯🇵327",
+      "emoji": "💖",
+      "score": "18.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しJd",
+      "team": "",
+      "emoji": "🐶",
+      "score": "10.43",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "33.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵327",
+      "score": "18.89",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klEOwCAIQ4uu97/yUsAJmvGxKY8WjM4558RfCB70UQB4gE4d7E+nO++rpjUc9Klaw4mDxlh2iZM6NrPDOhvHoS6MMpcpmnpRWRucltEWFTThp04OgJqMJL3Cq5Y9oHRQytxpdpeUZFItqQ6bnrhYp5bZObrTzMYYQ5fudhUr8eGP+tyxo2slz71eQS5JylixqLxv/NHWOqVbu23dGN35pvtElflM+cJbfm2GrkSxEuf/j4bgj4ZL0FLTunj+BS0KCoQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83075",
+      "4": "#e230e8",
+      "5": "#30d7e8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "round_id": 18636,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-27T04:22:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 暇人",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐷",
+      "score": "40.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😎",
+      "score": "0.31",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "40.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵田中",
+      "score": "0.31",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0MEOgDAIA9DC/v+fjWRKaMf0pk122aMccI8YB5Elxl8qjbipngPxll1K6Ghkdoe7bEhtt3aKK89qL7uoyEopaDsVTIXurd2PVBE7u3Vp4MOqtvbXHDk+Aww=",
+    "cp": {
+      "1": "#94ed50",
+      "2": "#94ed50",
+      "3": "#da61f5"
+    },
+    "sz": 30
+  }
+}

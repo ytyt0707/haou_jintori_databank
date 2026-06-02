@@ -1,0 +1,99 @@
+{
+  "round_id": 8915,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-22T23:02:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🔰] 初心者",
+      "team": "🔰",
+      "emoji": "🐷",
+      "score": "43.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🔰] 深谷知広",
+      "team": "🔰",
+      "emoji": "🦄",
+      "score": "23.35",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😈",
+      "score": "2.73",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "いいぼう",
+      "team": "",
+      "emoji": "🐷",
+      "score": "1.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🔰] こんぶちゃ",
+      "team": "🔰",
+      "emoji": "😀",
+      "score": "0.18",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "🤖",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵YY勢] さとる",
+      "team": "🇯🇵YY勢",
+      "emoji": "😎",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🔰",
+      "score": "67.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "2.73",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵YY勢",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9klkSwyAMQ9VgNeX+F+7YMmBSppp8EL94EwEuF6pIAnoCXvylrou0y1z6IOMm6ieJ3ALMCg+qtxb192QAfkJr2d0qDmZAa02VVVJYiaHEyko61aKvKLK05U659MitCpPGRj9Uq3kznOgY0/ctQ23JXG5H8LVmi1B6tVFNPOebOOh7wSxSqdUxRcG++n6elL33w2aiPXSi3vMfNVEeIMIsT2ROjArB4d6wYWx76x4rLFbc85Zl+aL1x39QHCiOSnKmX4XAC00=",
+    "cp": {
+      "1": "#b072ee",
+      "2": "#cbf26e",
+      "3": "#5ff74b",
+      "4": "#ea24f5",
+      "5": "#ea24f5",
+      "6": "#ecce74",
+      "7": "#ea24f5",
+      "8": "#ecce74",
+      "9": "#53f3ab"
+    },
+    "sz": 30
+  }
+}

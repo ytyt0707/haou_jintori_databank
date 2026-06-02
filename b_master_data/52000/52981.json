@@ -1,0 +1,66 @@
+{
+  "round_id": 52981,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-14T06:01:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 陸遜",
+      "team": "楚",
+      "emoji": "😃",
+      "score": "49.39",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] おひみつ",
+      "team": "楚",
+      "emoji": "🤫",
+      "score": "18.93",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 暴君/ハバネロゼ",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "9.06",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "6.98",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "77.39",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "6.98",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1k1kWxSAIQ6UB97/kdxIU9dny0ek2DKEF7mgVQCMOxXixoNCEEcSLtaSp5NHQ0BkkFw0zg4kzjUptWmOA+osapYTEkz5PiUWJNzoGipRKi9LWvCvxmHydlL3qqvaCyn7A1mnT8IuXZrJLGhampBKEbTeT5iO99kbnGphKs3agDx+VuLHlWUJWwBdvxCWVzT6XRE/JJNeGurv7WOFMqfPY3ysVkwXuzHdG5gXwqtWHA3zV5Ti93zSCZtDBhGfPaUiPiA/KDiOCHW1daQRpk9GLPzf0dZw0+Gfo+XGR/8sPvUcLfg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#30a3e8",
+      "5": "#30e84d",
+      "6": "#30e84d"
+    },
+    "sz": 30
+  }
+}

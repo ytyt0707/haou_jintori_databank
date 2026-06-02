@@ -1,0 +1,50 @@
+{
+  "round_id": 15232,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-15T01:16:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵楚] 勝たせてもらうで",
+      "team": "🇯🇵楚",
+      "emoji": "🤔",
+      "score": "47.32",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵うんち] 神",
+      "team": "🇯🇵うんち",
+      "emoji": "🐱",
+      "score": "2.84",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵楚",
+      "score": "47.32",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵うんち",
+      "score": "2.84",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9klkSwyAMQyW59v2P3DFLwIRWX0wekhUAQASayLnKdQpRhEp5p4Ns9NM1aXSKAjte9PB+VvIzd7XL771UnK2SSnx0Qt/hSemSH3Tbk2jZR5NKgbHhNZeSNKbjpEG5u5P6SdN+7UzJIxQilveVoYD0Tp5U/ENDOaStLMJs/FExR1grZ2bhVpKZyXY98hbMfqNNXqu3Vo+V7sWdyXan7WUQHTrB5yLnblE0Eusmd+Vh2/a+FoHylkernlqd+XK7ZxzAEtDoFwUNDLo=",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#47f0cb",
+      "4": "#ed6e94",
+      "5": "#47f0cb",
+      "6": "#8ef335"
+    },
+    "sz": 30
+  }
+}

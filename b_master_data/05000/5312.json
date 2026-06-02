@@ -1,0 +1,47 @@
+{
+  "round_id": 5312,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-14T20:00:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇸🇦ぷゆゆ] まままま",
+      "team": "🇸🇦ぷゆゆ",
+      "emoji": "🤖",
+      "score": "15.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チギュ] チギュりパンで草",
+      "team": "チギュ",
+      "emoji": "🐷",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇸🇦ぷゆゆ",
+      "score": "15.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チギュ",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0UsOgCAMBNA64f5nJo1pA9Pfwo3DwpjnFAMinKXRZxBX+6TGQdEOjnrODXptOCjz3PUXRDMFaLAjdJHy8VyaH53dRm7W7KzWzmR90/qH5+qbJ9WyyMnqv8sGekACRw==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#e93f97"
+    },
+    "sz": 30
+  }
+}

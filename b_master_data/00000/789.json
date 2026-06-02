@@ -1,0 +1,109 @@
+{
+  "round_id": 789,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-04T13:05:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[　] 共感性羞恥心",
+      "team": "　",
+      "emoji": "😈",
+      "score": "19.91",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 立浪和義",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "17.93",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[😊] すぎやまみき",
+      "team": "😊",
+      "emoji": "🐶",
+      "score": "12.64",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[　] 　",
+      "team": "　",
+      "emoji": "😈",
+      "score": "9.70",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ソ連] 金正恩",
+      "team": "ソ連",
+      "emoji": "🐱",
+      "score": "7.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "🦁",
+      "score": "3.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[大東亜] wad...",
+      "team": "大東亜",
+      "emoji": "🦊",
+      "score": "1.72",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "　",
+      "score": "29.61",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "17.93",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "😊",
+      "score": "12.64",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ソ連",
+      "score": "7.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "大東亜",
+      "score": "1.72",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN01EShCAIAFACgfvfeEdDAaVaZvqo3iAQAZzB8UZEpBWoO05KWmuHZOZxBSY1szDXLJ4Ys5vXfCwRFj3MQIcibw5nr4XjnO8f1wsUGOrb9Ywfrg/ZBn24yJY5XWKl0x6cHBbuYLUr2ZNTVViqVxdlYjo7GdkQA0xMfZdv5jAxnd33129OnQlu5+rpVrYHRzTT3Sj1G9kN71Tpsx2OlvP5YXIwIc7arD7Esz4iIEJB79i6sblQOhuRKDA852fQdICwQ0rQZrTvQWJD1nulChmSuwsAritDKNxgDsE+HhROu4PpbLdo7YTXF/Ntkf+34ahysDso05msHtfxAyWSFJU=",
+    "cp": {
+      "1": "#c8f48a",
+      "2": "#60adf0",
+      "3": "#fa966b",
+      "4": "#e64fe8",
+      "5": "#724cf0",
+      "6": "#60adf0",
+      "7": "#4ef965"
+    },
+    "sz": 40
+  }
+}

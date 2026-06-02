@@ -1,0 +1,75 @@
+{
+  "round_id": 15239,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-15T01:46:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "💩",
+      "score": "55.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無し0I",
+      "team": "",
+      "emoji": "😈",
+      "score": "13.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "🦄",
+      "score": "6.26",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵雑魚] うんち",
+      "team": "🇯🇵雑魚",
+      "emoji": "🦊",
+      "score": "3.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "神",
+      "team": "",
+      "emoji": "👻",
+      "score": "0.06",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "55.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵雑魚",
+      "score": "3.16",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0UkOAyAIBdCPULj/jRtwHtOkPy7UB7gQANIYShSJPTTitylRpVCirlHrYd40F0A50gZ09XAJlUFH5DL4oojctJxnzay5B7EUq7Zg6x2Pi75Ti+VZJSJTdXtCnCJ+C6xdu+KpHptVJzWzj8mt18xsGbyo/Nz7VB0nI6vqUbWpdlTsv1TfPOuQ//QW1y/S3Q+m",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#33aaf0",
+      "4": "#cbec6a",
+      "5": "#f59247",
+      "6": "#3137f2",
+      "7": "#6ef966"
+    },
+    "sz": 30
+  }
+}

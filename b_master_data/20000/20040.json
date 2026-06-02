@@ -1,0 +1,131 @@
+{
+  "round_id": 20040,
+  "game_mode": "TEAM",
+  "player_count": 13,
+  "played_at": "2026-03-02T09:34:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇦=△=] あいうえお",
+      "team": "🇨🇦=△=",
+      "emoji": "🤠",
+      "score": "37.13",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] 鬱",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐷",
+      "score": "25.80",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇦=△=] (・3・)",
+      "team": "🇨🇦=△=",
+      "emoji": "🤔",
+      "score": "19.51",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "あの丘のマリア",
+      "team": "",
+      "emoji": "🤠",
+      "score": "3.20",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬ犯] たぬき犯す",
+      "team": "🍂たぬ犯",
+      "emoji": "🐱",
+      "score": "2.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "1.75",
+      "kills": 8
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇨🇦=△=] 浅井長々",
+      "team": "🇨🇦=△=",
+      "emoji": "😈",
+      "score": "0.67",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🍂たぬき] 名無しcC",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇨🇦=△=] ゲスト",
+      "team": "🇨🇦=△=",
+      "emoji": "👽",
+      "score": "0.34",
+      "kills": 0
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵ゲスト] 正体不明",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐶",
+      "score": "0.12",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇦=△=",
+      "score": "57.65",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "27.67",
+      "kills": 26
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬ犯",
+      "score": "2.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "0.50",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkdGuBCEIQ8HGwZrl/3/3BlFXk93NnUl48LQFsff/fq19V7Y2KEmGCBhSyRowcFBnBybOuKStBaUERNdEUVtja5LUIRF80+Eb0e7eux50dJzc3X5Qupte3h0bQ7uZ40w+KVW1VrU9M+XAZo/WioMekPY8qhXouarcUQpAmplrRV3JpzOoO4DlPC9L0gDYQS88thze+V79anzSLZi9ATD5vuTbu4wz+Ro3X3Yq9EIk4g/X4K+1QGDosnL2fU1vKZMu1fRuHLHDEyfZ+O0tJWxxuiEWlVJG+GdKTip7FQCUzA2LlOinmh2z7vuKxNpE9eTyBwE4GjE=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#30e83c",
+      "5": "#30e83c",
+      "6": "#8B4513",
+      "7": "#30e8e8",
+      "8": "#30e892",
+      "9": "#30e83c",
+      "10": "#30e8e8",
+      "12": "#30e83c",
+      "13": "#994de5"
+    },
+    "sz": 30
+  }
+}

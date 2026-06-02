@@ -1,0 +1,42 @@
+{
+  "round_id": 49567,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-06T13:27:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新鯖♡] 岩井",
+      "team": "新鯖♡",
+      "emoji": "🤠",
+      "score": "12.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "クソヒゲ",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新鯖♡",
+      "score": "12.23",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlkEsOgDAIRKF4/zMbPrZTRGLi0q4ojxk+RP95It2uRp8qBLScXWRR5kwDujEnrhBaJrFToSjZnQ2qdupnoEnXAs1Dv/hfHnVpT9cEldrH23aHskl18QHAQqSjoUTHHcdlzKiixnNH+Ms6N2Q/hifqjAFu",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#994de5",
+      "4": "#d130e8"
+    },
+    "sz": 30
+  }
+}

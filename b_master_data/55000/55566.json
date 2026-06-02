@@ -1,0 +1,33 @@
+{
+  "round_id": 55566,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-05-20T01:47:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[トマト] トマトトマト",
+      "team": "トマト",
+      "emoji": "💩",
+      "score": "95.40",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "トマト",
+      "score": "95.40",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAHV0MEKACAIA1Dn/v+fwzpvglDQ6PaYhuQwMew9qMHuaFRzkEA9FVQUUuE5pCly75VzOzXFPykzzcct0qsZe5MWE8wKTw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8a930"
+    },
+    "sz": 30
+  }
+}

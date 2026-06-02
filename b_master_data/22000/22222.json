@@ -1,0 +1,140 @@
+{
+  "round_id": 22222,
+  "game_mode": "TEAM",
+  "player_count": 16,
+  "played_at": "2026-03-07T08:25:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "26.57",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 優しくしてね",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "19.14",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "9.75",
+      "kills": 18
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] rensyu",
+      "team": "🇯🇵ONJ",
+      "emoji": "😈",
+      "score": "9.47",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂一匹狼] 一匹狼",
+      "team": "🍂一匹狼",
+      "emoji": "🐲",
+      "score": "9.19",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] 名無しzA",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "6.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇷🇺刑務所] お前も収監やぞ",
+      "team": "🇷🇺刑務所",
+      "emoji": "🐶",
+      "score": "3.65",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[楚] ぷゆゆ🥺",
+      "team": "楚",
+      "emoji": "🥺",
+      "score": "2.51",
+      "kills": 6
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[楚] ゲスト",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "1.95",
+      "kills": 4
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[うんち] うんち",
+      "team": "うんち",
+      "emoji": "😍",
+      "score": "0.52",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "59.92",
+      "kills": 35
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "16.36",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂一匹狼",
+      "score": "9.19",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇷🇺刑務所",
+      "score": "3.65",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "うんち",
+      "score": "0.52",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAFlklFuxDAIRFGXwZDG7P1vWw3gbKvyYUV+MAw4In8jKkTC+fEw7wip64YPHehyd3TOqT3UDz3Ke2+RQwfePnQzAGASRvk33Xt74/u+O608VymPugPuu7J4RMhD99vd2YE95vzAzLk9FMBQ7J3p7u8pnoyPciLiTcnVsvz8KFtG4L3WIqUlAKLNM0FK2LRaiBJnZiIygFdBzkMFVd2qZplARKzX92vacn6FMgypqv24/2klVHW5mZVTucO+zKyK6XiilQEYo7V70b0QVTYqaEZnMY7bc01WlD0j1qzxQzmUJfOaVgU4T+lCrTpwz+chD622Q9e6rimd2t8Ufh0sHPY47gp3v+rf4BNxgaZGVz2br7MLry0HU0hZ/CA+k6qKFDM5pp8M+QE8ARhN",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#9ca3af",
+      "5": "#d4b611",
+      "6": "#9ca3af",
+      "7": "#d4b611",
+      "8": "#d4b611",
+      "9": "#d4b611",
+      "10": "#30e8e8",
+      "11": "#8B4513",
+      "12": "#e83087",
+      "13": "#c030e8",
+      "14": "#d4b611",
+      "15": "#73d411"
+    },
+    "sz": 30
+  }
+}

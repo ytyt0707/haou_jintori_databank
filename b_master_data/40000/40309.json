@@ -1,0 +1,65 @@
+{
+  "round_id": 40309,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-15T05:02:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "つんこ",
+      "team": "",
+      "emoji": "😂",
+      "score": "74.43",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵讃岐国] さぬきち",
+      "team": "🇯🇵讃岐国",
+      "emoji": "🍜",
+      "score": "0.21",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "烈海王",
+      "team": "",
+      "emoji": "😇",
+      "score": "0.10",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[たかし] たかし",
+      "team": "たかし",
+      "emoji": "🍘",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵讃岐国",
+      "score": "0.21",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "たかし",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkFEOgDAIQ2HV+1/ZAJvCgP1LYmJ5BYtAqDuoXZzp7v6FJjrFDFSd3NjNyQBXDqHMLM+VF0zKUjUFGAUCMBM2Vyil6Umru74ZhTZr9btke0uLMMEllNBWKZE2dPAQ+jS8Nrtxl8HTnMBR97r+sWsRjREkvRfFtqnv3oY+wj4ICg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#e83087",
+      "5": "#994de5"
+    },
+    "sz": 30
+  }
+}

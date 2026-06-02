@@ -1,0 +1,63 @@
+{
+  "round_id": 3583,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-10T22:07:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] 安倍晋三",
+      "team": "🇯🇵自民党",
+      "emoji": "🐶",
+      "score": "45.79",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🦁",
+      "score": "13.94",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇵🇭ぷゆ帝] ぷゆゆ🥺",
+      "team": "🇵🇭ぷゆ帝",
+      "emoji": "😂",
+      "score": "4.36",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "45.79",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "13.94",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇵🇭ぷゆ帝",
+      "score": "4.36",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0dsSgyAMBNBg3P//5Q5XF5NQaqcz3RcZOSYBRaKkknCbUYGdnzV55ctWtaALuy6NcperzYS6CrWdHdXpR7m5PjgNZp0zlgtVVFXfOm1x3bnpnHo67mTLLc7x0EngYA7iXzQUc9uEHPvfAKiiM1yxDkCCSH6kyNHr4pJxAIi1sgSrgxuaMZ+jrVozdjyeBMXmfOB2mJ3pe7cFd+djt/riSb2fuOMI2J/MNzaMW4X2XxD/E4M=",
+    "cp": {
+      "1": "#f2a1ab",
+      "2": "#8770fb",
+      "3": "#b4f264",
+      "4": "#50f196",
+      "5": "#4fbeee"
+    },
+    "sz": 40
+  }
+}

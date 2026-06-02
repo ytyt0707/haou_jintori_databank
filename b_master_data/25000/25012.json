@@ -1,0 +1,72 @@
+{
+  "round_id": 25012,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-14T06:57:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しIR",
+      "team": "",
+      "emoji": "🐷",
+      "score": "40.21",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵猛虎軍] けんた",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🙄",
+      "score": "3.65",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵自民党] アベベ",
+      "team": "🇯🇵自民党",
+      "emoji": "👁️‍🗨️",
+      "score": "0.74",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇫🇷ちぎゅ] おんちゃん",
+      "team": "🇫🇷ちぎゅ",
+      "emoji": "🐱",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "3.65",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "0.74",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇫🇷ちぎゅ",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kdEWwyAIQ4Nx/f9P3ogwtOWUl2oviVHAKIwsbJWUfKOuTX2JU4tEbvHHSct5gyhKMr3/2hN7r5zNTC2HeMEB2MIdHMOpaw+q3AB6qgfRee5sN23ROPhw5pj5GI2WnHnVJhU5E/c0tP19J8kI7Z8z1ZVbdM5F8XwrXgzeay8VfAzPc1lU2RRD2bRNaiZ1hoyLYDlrCPsUPtJCeE1/p+sRosUz+QjvzoGV2mPTO+rnttKltv2xfIW/zi9wWgYj",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e86430",
+      "4": "#60d411",
+      "5": "#994de5",
+      "6": "#e830a9"
+    },
+    "sz": 30
+  }
+}

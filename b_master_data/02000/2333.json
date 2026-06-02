@@ -1,0 +1,76 @@
+{
+  "round_id": 2333,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-08T02:30:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🦊",
+      "score": "52.50",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[Hko] aplie",
+      "team": "Hko",
+      "emoji": "🦊",
+      "score": "6.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦊",
+      "score": "4.81",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇸みん²] うんちまん",
+      "team": "🇺🇸みん²",
+      "emoji": "😀",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "52.50",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "Hko",
+      "score": "6.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "4.81",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇺🇸みん²",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy91EsOwyAMBNCx3fufuSJE1J8BOVmUZfQyYJsEeLbktF44BtF0RG0dmu4lCw5N58in1+cH82iPrc2k5ULoATRdDVTVwxvL6XQwmIhZ2ngVAp3Q5loCMQ+Q4Ew2gbgDrcLk4N04ZLg3OW8XGNmo2KxQNztVzYEhMhxudI/vnPb0YcXpj10dZ4XEtHUlaLnZ0V+Iq+F2eRJlHrOOAqgDTyNfKDneeFZdN+8vrrANxBc5dgUn",
+    "cp": {
+      "1": "#f3d7a0",
+      "2": "#9aefa8",
+      "3": "#f06ae1",
+      "4": "#8067e4"
+    },
+    "sz": 40
+  }
+}

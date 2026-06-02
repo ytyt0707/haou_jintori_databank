@@ -1,0 +1,137 @@
+{
+  "round_id": 1905,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-07T02:37:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 浅井長々",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "17.73",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵SCP] ベネット",
+      "team": "🇯🇵SCP",
+      "emoji": "😈",
+      "score": "16.06",
+      "kills": 15
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳人民軍] 💣💣",
+      "team": "🇨🇳人民軍",
+      "emoji": "🦊",
+      "score": "12.76",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇪撫物語] 千石撫子",
+      "team": "🇻🇪撫物語",
+      "emoji": "😂",
+      "score": "11.74",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🤔",
+      "score": "1.20",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] ハヤブサ",
+      "team": "猛虎軍",
+      "emoji": "🤠",
+      "score": "0.88",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "💩",
+      "score": "0.77",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[妨害] さまた　ゲル",
+      "team": "妨害",
+      "emoji": "🦊",
+      "score": "0.74",
+      "kills": 11
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵SCP] ナチス",
+      "team": "🇯🇵SCP",
+      "emoji": "🐷",
+      "score": "0.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇫🇷凱旋門] サートルナーリア",
+      "team": "🇫🇷凱旋門",
+      "emoji": "🤔",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "19.81",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵SCP",
+      "score": "16.17",
+      "kills": 15
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳人民軍",
+      "score": "12.76",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇻🇪撫物語",
+      "score": "11.74",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵田中",
+      "score": "0.77",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0+sOgyAMBeBD6Ypj7/++CyCXSuv8sZOYmfBZWwdAjBiXEymrPYgxZ+S5Si1CRKuLxY0AQiQ1BcNWxUGkOyEJIYTpXqpgU1LLalfW94JCgs1tBStEDE6DeWHiz5FzVg6ua40NB9etg5wMP+aQm/f+26mB1YbB+dUgqH+L7cpWym2zYdxPuLI11wZNNDaydv6G1/3550I5txxWt/Z+ZZ/lxW5IzXHJ0X5SIuLUtxXz1R3HyVI7u00xb+UaTDQYM9eDbrHVUYW35YiFyXRnh9TD/cb+IDOfGzeV0E29REYeMsOZbIOmeT90T+sZ/W1AvDnUU/1h4AsSkhN0",
+    "cp": {
+      "1": "#fe6db3",
+      "2": "#ef6264",
+      "3": "#fefc85",
+      "4": "#ef6264",
+      "5": "#75f5db",
+      "6": "#7b43f4",
+      "7": "#ef6264",
+      "8": "#7cfda1",
+      "9": "#f4b066",
+      "10": "#97e859",
+      "11": "#7b43f4"
+    },
+    "sz": 40
+  }
+}

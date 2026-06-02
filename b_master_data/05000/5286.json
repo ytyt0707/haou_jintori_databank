@@ -1,0 +1,51 @@
+{
+  "round_id": 5286,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-14T18:35:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チギュ] マネモブ",
+      "team": "チギュ",
+      "emoji": "🐲",
+      "score": "23.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チギュ] チギュりパンで草",
+      "team": "チギュ",
+      "emoji": "🦄",
+      "score": "21.09",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "穴の穴",
+      "team": "",
+      "emoji": "🦁",
+      "score": "0.32",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チギュ",
+      "score": "45.05",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0gEKxSAMA9DUxvtfedi1btp+4S+wwXxEhQ54R3U8452iS0jyqAGkbYmqS9IOq8q0aIqpDtmZsXOB9DUrF/rcKp87PllptFjrkqnuScGUew4iB5VdNTa8UZDZp5u1wQGQ3l2d0WKgYukSYyehbaqzzL/iKZq+zt1jyz91vfP/KjjqqSvfVc5dzwW2kgX8",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ee588a",
+      "4": "#ee588a",
+      "5": "#e8dc59"
+    },
+    "sz": 30
+  }
+}

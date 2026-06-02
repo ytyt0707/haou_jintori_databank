@@ -1,0 +1,42 @@
+{
+  "round_id": 5298,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-14T19:14:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵うんち] うんうん",
+      "team": "🇯🇵うんち",
+      "emoji": "😀",
+      "score": "16.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "穴の穴",
+      "team": "",
+      "emoji": "🤔",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "16.42",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJzNzcEOgDAIA9Cu9v+/2WSLBh0rejCxBy6PAvDvtEKdN1su9FVV0qKrkUyliFtUhczvZfk7hUWvjzA5WiAk0itPZabsg+BdMeDIdNvrZSVX9K8EdpsvAs0=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#b4f250",
+      "4": "#ef489e"
+    },
+    "sz": 30
+  }
+}

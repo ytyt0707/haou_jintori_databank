@@ -1,0 +1,32 @@
+{
+  "round_id": 2222,
+  "game_mode": "TEAM",
+  "player_count": 2,
+  "played_at": "2026-01-07T19:49:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇦ソ連] むむ",
+      "team": "🇺🇦ソ連",
+      "emoji": "🤔",
+      "score": "8.63",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇦ソ連",
+      "score": "8.63",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJztzjEKgAAMQ9E09z+0iKhjfoYOgn9+NJX65i45MTjs4LQuvVe6wFqX2NKu2bAd2ZnNIHRuHIArjv6naP0G2aedIHtgUJcE6G+tAwODAX4=",
+    "cp": {
+      "1": "#733dfa",
+      "2": "#ec88be"
+    },
+    "sz": 40
+  }
+}

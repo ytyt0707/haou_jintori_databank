@@ -1,0 +1,78 @@
+{
+  "round_id": 8044,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-20T23:44:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😀",
+      "score": "63.64",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[廃] 爆弾/自認レゼ",
+      "team": "廃",
+      "emoji": "🤔",
+      "score": "3.39",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵つまり] ゲスト",
+      "team": "🇯🇵つまり",
+      "emoji": "🐱",
+      "score": "0.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ケツ] ぺんぺん丸",
+      "team": "ケツ",
+      "emoji": "🤖",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "63.64",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "廃",
+      "score": "3.39",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵つまり",
+      "score": "0.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ケツ",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJydktsOgCAMQytU/v+TDTfZgBLjHiBwaKFOIBcJP6MXZf2lIDRFo8p0jDtjS99Tboa0QHs0tP8pb1H1q52i37uq380dLV+iqBeaUiIZAsKuSZWODk7GBd+qwcm87NCkheJIHRu/GmOujbJmlzSv4kQ9/kBlopmRvKZEPpsPbA9CFAnLHhQuCZc=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ec52fa",
+      "4": "#57d2f4",
+      "5": "#f63741",
+      "6": "#afea57"
+    },
+    "sz": 30
+  }
+}

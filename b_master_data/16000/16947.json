@@ -1,0 +1,64 @@
+{
+  "round_id": 16947,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-19T06:42:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] パンテオン",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "18.28",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "13.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "いいぼう",
+      "team": "",
+      "emoji": "🦊",
+      "score": "4.49",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ｍｅｉ] 正体不明",
+      "team": "ｍｅｉ",
+      "emoji": "🦄",
+      "score": "3.75",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "31.88",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ｍｅｉ",
+      "score": "3.75",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0N0OgCAIBWB2gPd/5WZqIX9rnYssP5ERkYmumC1+o4E50bQ0UetRVZVZPe8TQ1V99bpgLFbp1PkZh1p3n+qHHkut1dBR761Mba/d8Cg+f6ELN/YvIjKfUqhU9k2bvkKlPgGhU6BhoHO0DLTe6z7zvF8YBQV8",
+    "cp": {
+      "2": "#915df9",
+      "3": "#ddf651",
+      "4": "#f36859",
+      "5": "#ddf651"
+    },
+    "sz": 30
+  }
+}

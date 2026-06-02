@@ -1,0 +1,85 @@
+{
+  "round_id": 763,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-04T11:40:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[嵐] 荒らし",
+      "team": "嵐",
+      "emoji": "😈",
+      "score": "29.84",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[嵐] ちにたい♡🫠",
+      "team": "嵐",
+      "emoji": "💩",
+      "score": "18.86",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 共感性羞恥心",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "6.16",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[444] ゾンビ凸",
+      "team": "444",
+      "emoji": "👽",
+      "score": "2.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ソロ] よっぴ殺し屋転向",
+      "team": "ソロ",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "嵐",
+      "score": "48.70",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "6.16",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "444",
+      "score": "2.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ソロ",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJy104sKgzAMBdDcZPn/Xx5bq+ZZwmABUerxmraU6J+l5hkQkc8lIu0HADb5FnrlYOnw1MndxgQWDkVcdiiZACMW3EPiupgfIxQ1edG16/yrs+25DR46VTWT7ddZ9ZDo81RVahsCFdGhaVCawKFD6G+Qp/fCFK7fDnNI4Nq7xn3YDvT7Rp6tGUTXdCZC+aAbxXbjKNY2q4LjKNm4NZLymC9lxziiZPb4zFHjcjelS6yquTu82/fXKOlcb18bBgc=",
+    "cp": {
+      "1": "#f2e59c",
+      "2": "#62c2ef",
+      "3": "#f2e59c",
+      "4": "#f976b5",
+      "5": "#6c5df4"
+    },
+    "sz": 40
+  }
+}

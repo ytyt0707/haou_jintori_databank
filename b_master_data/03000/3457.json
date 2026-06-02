@@ -1,0 +1,46 @@
+{
+  "round_id": 3457,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-10T15:16:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸うんち] ばななうんち",
+      "team": "🇺🇸うんち",
+      "emoji": "🐲",
+      "score": "0.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵まん汁] まんこに小便",
+      "team": "🇯🇵まん汁",
+      "emoji": "🐲",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸うんち",
+      "score": "0.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵まん汁",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYBgFEMA80A4Y5oAZVwAzMqIqI1YdsfYSqW4UjIJRQCoAAHvkACA=",
+    "cp": {
+      "1": "#ef6e43",
+      "3": "#f079f6"
+    },
+    "sz": 40
+  }
+}

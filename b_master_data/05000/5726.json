@@ -1,0 +1,63 @@
+{
+  "round_id": 5726,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-15T18:23:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "💩",
+      "score": "53.98",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷チョン] ばーか",
+      "team": "🇰🇷チョン",
+      "emoji": "🐷",
+      "score": "3.02",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵幻魔帝] 万華武者",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "💩",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "53.98",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷チョン",
+      "score": "3.02",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵幻魔帝",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0lEKgDAMA9Bq4v2vLFidsbZloPkQ56PZwJl9DKCLRgFEH7q5aheAOBxU2khaVEXyUaXdjS6Xspg99rWq2bLV9WGFJFHmCn93JaN6eD9LlbIiyei0hjP/WT2uRmatwuZU+9pDvX54vN08W3Mf2QH9QQYv",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f4a02a",
+      "4": "#37eb2d",
+      "5": "#68d3ee"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 57376,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-24T03:39:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "草",
+      "team": "",
+      "emoji": "🐶",
+      "score": "48.56",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[東卍] タケミッチ",
+      "team": "東卍",
+      "emoji": "😠",
+      "score": "14.41",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵お亀軍] 🐢",
+      "team": "🇯🇵お亀軍",
+      "emoji": "🐢",
+      "score": "8.12",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "東卍",
+      "score": "14.41",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お亀軍",
+      "score": "8.12",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkkkOxTAIQ5043P/KX0whqNP2e9ESHrZQG6A0UoBXhZCtHBmjwTDc0rXWKjCwnQpMmx6ZycIrIrfQskXlmADKqpVB5yQfKVWvtCcDGSxm7V5nkGAkGFuhNtpQA3Jpd3pkPZdzisis0OKKSZlzHr1L+YkvjrPxkX2O/mkN/Q+meOWecbVI/cDZjMl97XrfTpuhB/rpiar1YPgBDRMJCQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8c6",
+      "4": "#e83064",
+      "5": "#c030e8"
+    },
+    "sz": 30
+  }
+}

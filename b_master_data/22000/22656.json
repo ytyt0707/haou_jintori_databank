@@ -1,0 +1,66 @@
+{
+  "round_id": 22656,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-08T07:53:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "🦄",
+      "score": "19.26",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しNo",
+      "team": "",
+      "emoji": "🤔",
+      "score": "5.43",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵チギュ] 名無しzy",
+      "team": "🇯🇵チギュ",
+      "emoji": "😀",
+      "score": "4.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂麦わら] 爆弾/自認レゼ",
+      "team": "🍂麦わら",
+      "emoji": "😀",
+      "score": "1.77",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵チギュ",
+      "score": "4.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂麦わら",
+      "score": "1.77",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1j0EWAyEIQ2GM3P/IfUFEbEd3ZaPwDYkify+9OugNq+iB9967st6WEw6auK13To/iN5riAXctWgsetKepCLAwE6j2EplUZMo94ZeWs3SnfH4DAOb997zSCiFS16gnzlFFw4SmOYWZ+fh5nsyQ1LyEGxMu8aCWWXiJL0G42GtKAwI0T2qxeNB4m3TXUgqR2Lq8pta9YR7oRMtbOu9t7ejEvvz7dv0AhqQE0Q==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e86430",
+      "4": "#e830cb",
+      "5": "#30e870",
+      "6": "#e83064"
+    },
+    "sz": 30
+  }
+}

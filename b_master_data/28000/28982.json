@@ -1,0 +1,63 @@
+{
+  "round_id": 28982,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-23T06:21:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵握り飯] 鬼斬り",
+      "team": "🇯🇵握り飯",
+      "emoji": "🍙",
+      "score": "41.43",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵きゅ] きゅっきゅ",
+      "team": "🇯🇵きゅ",
+      "emoji": "🧿",
+      "score": "30.40",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ぷゆゆ] 左衛門尉",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐲",
+      "score": "1.23",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵握り飯",
+      "score": "41.43",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵きゅ",
+      "score": "30.40",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "1.23",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkdESAyEIAyOR///lNqiIPduZ8na3LkR0d3eUYtT8IahKPijH94RJJ7zTDVsDsNwhLyhVeNGYk5CE1IP23nseeHT+QTV4m2SL2GtwxJp9G0WFr7S1dqEYsmDgQ8WkfODzwlc5bztiMTt7JYIKnpnXyDz0m+rY7vyQD/o5+HT/oGYgUeYuFwDBsbadqtJ4n2sqrZSk1WW4FxdCXzKDNKMRdRspj66hl1SrdfQ0Ex403mKvEqZ6x3oB1+YKcw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8c6",
+      "4": "#30c6e8",
+      "5": "#3081e8"
+    },
+    "sz": 30
+  }
+}

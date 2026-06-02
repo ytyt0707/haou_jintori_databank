@@ -1,0 +1,87 @@
+{
+  "round_id": 55182,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-19T05:02:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵熊谷市] D-Nut's",
+      "team": "🇯🇵熊谷市",
+      "emoji": "🔪",
+      "score": "50.27",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] パピルス",
+      "team": "ラー軍",
+      "emoji": "📜",
+      "score": "13.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[東卍] ペケJ",
+      "team": "東卍",
+      "emoji": "🐱",
+      "score": "6.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[東卍] マイキー",
+      "team": "東卍",
+      "emoji": "😄",
+      "score": "2.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤍",
+      "score": "0.11",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵熊谷市",
+      "score": "50.27",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "13.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "東卍",
+      "score": "9.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "みん²",
+      "score": "0.11",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlktsOxCAIRMey4P//8WYAqWtJX3aSVuXIRRTQ4QJUgYtCSV1jjJjodSkAmbEhabIYIDID+/p25VKE1LF+VJn5diYsSjPLKuw0Q7txpwF3uod+pQllTjNDpqu8TqeIUYuumggn1VI/7YIPX6cA3NVshdxGtjjomZeb/qSZtousqybjizhVsK05w3J4921pxW4oqwreVcV+ZK8aX+8VOX6rgsL7GI+Z/+20ONlBb6ec8VL8e5AyHNnK/gUv5w0w",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30d7e8",
+      "4": "#bcd411",
+      "5": "#8b4de5",
+      "6": "#e83042",
+      "7": "#30d7e8"
+    },
+    "sz": 30
+  }
+}

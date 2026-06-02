@@ -1,0 +1,104 @@
+{
+  "round_id": 898,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-04T18:57:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[vor] 共感性羞恥心",
+      "team": "vor",
+      "emoji": "🦁",
+      "score": "24.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[吉野家] 蘇ったチー牛",
+      "team": "吉野家",
+      "emoji": "😍",
+      "score": "24.90",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🤖",
+      "score": "21.65",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[vor] vorugu20",
+      "team": "vor",
+      "emoji": "🤔",
+      "score": "6.67",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[vor] on",
+      "team": "vor",
+      "emoji": "💩",
+      "score": "5.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[エッヂ] エッヂに来い",
+      "team": "エッヂ",
+      "emoji": "🤔",
+      "score": "2.64",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[エッヂ] 鳩山由紀夫",
+      "team": "エッヂ",
+      "emoji": "🦁",
+      "score": "2.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "vor",
+      "score": "36.77",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "吉野家",
+      "score": "24.90",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "21.65",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "エッヂ",
+      "score": "4.76",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd1NluxCAMBVAHb/P/X1wZHC+ESav6ZaLJ0TUyEBArqCVQ/rnfiowC53MrFCKy18NKxmIeUB2ZE3erYIzN0Sp7HJ/iOkOihKMGVocRZ32bizy0onC8u8gCc0TorUG+OHTh7piHq6iUHAIPzAYtZ9YcU3cgAr843/RgvW9z6zgQM/LTSckzR8xsDJk5xkJbXwBbDJM7Zoz9ODkL5OrWgTk4r1wmbA5sCOlihcXJIa/MJXfCHR2ddFcDr+u6Hi6WuAahGwQZKSWkqjJrdwmt97wUauTVzbs42aXz53Yj3X3X0um7Iwr3mF+HlqRtLtXFFVfNMHxxE27n+ewKEf7uhAj+kpefoJOrkl9dQnbIzr7m3cfaED0/G1nwr/oBs80Uvg==",
+    "cp": {
+      "1": "#f15bec",
+      "2": "#a57dfc",
+      "3": "#b8f986",
+      "4": "#b8f986",
+      "5": "#b8f986",
+      "6": "#61afef",
+      "7": "#f15bec",
+      "8": "#5ffc96"
+    },
+    "sz": 40
+  }
+}

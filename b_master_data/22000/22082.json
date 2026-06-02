@@ -1,0 +1,75 @@
+{
+  "round_id": 22082,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-07T00:51:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] ぷゆゆ侍",
+      "team": "🇯🇵阪神",
+      "emoji": "🤖",
+      "score": "62.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😀",
+      "score": "12.58",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 爆弾/自認レゼ",
+      "team": "🇯🇵阪神",
+      "emoji": "😎",
+      "score": "11.60",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 白金の戦士",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦊",
+      "score": "0.15",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] おんJSUNNY",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "86.31",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.26",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kwEOwyAMAwubnf//eLIpw6B1kdoiLo4TFapGAOwd6DMuxw2rAJBFhz/Ck8J0wO87KfHdvheTWpq0KcFUCKSeFcKLgsDdlFNaS0oA6vxWt0ldGNdvOiBcOcX2HZBqClXhbN8nal8P4lZ2rbpq1xqQW+GmSMrdVji0OyVwajMX2LXz9ypHoxw0pB508x3wTfYXdYjwQEnB6qtYDjfP3qK5MiVCe1D3nXvHutL3YGRVtnLg/pfWTuNcuMykqq8ro00Pc/Vxyz4FqRLS",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#e83064",
+      "6": "#e83064",
+      "7": "#e83064"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "round_id": 11883,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-04T03:45:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐲",
+      "score": "39.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵分際] 足りない頭活かせ",
+      "team": "🇯🇵分際",
+      "emoji": "😎",
+      "score": "10.51",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇰🇷慶尚道] ティンコゥ",
+      "team": "🇰🇷慶尚道",
+      "emoji": "🐶",
+      "score": "2.04",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "39.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵分際",
+      "score": "10.51",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇰🇷慶尚道",
+      "score": "2.04",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJytkEESgDAIA4GY/3/Zaa0tFTg4miNLyBCRRBjKGFFRCkkWtCFhaSa9N57ezG2iwXxzUVWNtwf/gY4NINK9QS7JtPl+p93/M0sArw2ILgyvnuyrwFNbixs5LprlLpp6jyYk0KygfUEq2pywFRypmYuPsfnDoYtvtOrxJX2o0xMaMQZo",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#ec8c51",
+      "4": "#ea3483",
+      "5": "#83f264"
+    },
+    "sz": 30
+  }
+}

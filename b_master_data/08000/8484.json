@@ -1,0 +1,81 @@
+{
+  "round_id": 8484,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-21T23:32:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チー牛] チギュりパン",
+      "team": "チー牛",
+      "emoji": "🐱",
+      "score": "62.74",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チー牛] 阿良々木暦",
+      "team": "チー牛",
+      "emoji": "🦊",
+      "score": "7.97",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐷",
+      "score": "5.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇸🇦bot] 名無し👾",
+      "team": "🇸🇦bot",
+      "emoji": "🐱",
+      "score": "2.35",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "ONJ8E",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チー牛",
+      "score": "70.71",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "5.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇸🇦bot",
+      "score": "2.35",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx1kwESwyAIBK89Kf//cQYRQWyYTIKsB2IUGNVoBjf7ZthD1WxsDEmFBD1CFxMhpogszyKDUW6aTMqgHBed2B+rwZvGsrYXvshOBk8xUPrJUtidbZzbEpRFW3fNho3ahL9adVK0v1jJoKqydn/uuzbc/ophfaUN42PWkyflnTspeecudXtlL61L2yFPbac+Y52rFH879WN746RpyBdwLdlDxd1Hc7dXprfMOG+L36VXewANCglg",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#e54394",
+      "4": "#e54394",
+      "5": "#eb3ef4",
+      "6": "#aaea57",
+      "7": "#8132f1"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "round_id": 21212,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-05T01:50:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楽しい] どまぎゃあ",
+      "team": "楽しい",
+      "emoji": "👽",
+      "score": "29.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[白旗↑] レスバの覇者",
+      "team": "白旗↑",
+      "emoji": "🤖",
+      "score": "28.48",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[紅魔郷] レミリア",
+      "team": "紅魔郷",
+      "emoji": "🐲",
+      "score": "28.26",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楽しい",
+      "score": "29.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "白旗↑",
+      "score": "28.48",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "紅魔郷",
+      "score": "28.26",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkNsOwzAIQyk2///LE7lQMlg1qbwEcTAQm4h9h0ahMjO9cfRFog9UZ5hZP1ZVAAWAylUGddhSERmspbro1VC/aWp/Ub8K1yOtV5EWg8dhwyFyGkWPtTZTGs0GJONDgItWNZ793elGlGeyrNhenfSGnTZTOYUke7r7Mi3SQ1tokkL2vOj6n+KF9s1eOcT5Xs+lRq59ALukDG8=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e83c",
+      "4": "#e83075",
+      "5": "#60d411"
+    },
+    "sz": 30
+  }
+}

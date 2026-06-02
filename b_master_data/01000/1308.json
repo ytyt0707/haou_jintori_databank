@@ -1,0 +1,55 @@
+{
+  "round_id": 1308,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-05T17:04:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[阪神] 彩喜",
+      "team": "阪神",
+      "emoji": "😂",
+      "score": "35.49",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "33.35",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[阪神] さとる神",
+      "team": "阪神",
+      "emoji": "🐶",
+      "score": "2.68",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "阪神",
+      "score": "38.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "33.35",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt09sOxCAIBNBR/v+fN2FrRBiQvcxDk6YnBCwC3YiIeRsr0wRT2QqASYw+vUtyOJGL2zh1IqxgqOscsGc4rO8P57C/uwRGx88QYRAOv3XyZ7fWK8KuA2Px/3L2qRs35+HVjYvbLerNKtxbQmFVzxZsurM/JA3qGGRPG064Q3DkCLmjG1O42XN+W6Jjq89dvHTUIbZY1bMSDywO28R8FiBRL7GoCtA=",
+    "cp": {
+      "1": "#f6a27e",
+      "2": "#f6a27e",
+      "3": "#548ffc"
+    },
+    "sz": 40
+  }
+}

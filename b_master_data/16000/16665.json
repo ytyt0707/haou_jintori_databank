@@ -1,0 +1,88 @@
+{
+  "round_id": 16665,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-18T15:19:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] BOT",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "21.29",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] 初心者！優しくね",
+      "team": "猛虎軍",
+      "emoji": "🐲",
+      "score": "17.36",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵しね] ころす",
+      "team": "🇯🇵しね",
+      "emoji": "😈",
+      "score": "6.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "💩",
+      "score": "0.21",
+      "kills": 14
+    },
+    {
+      "rank_position": 5,
+      "player_name": "P2133",
+      "team": "",
+      "emoji": "👻",
+      "score": "0.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "P2239",
+      "team": "",
+      "emoji": "😎",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "38.65",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵しね",
+      "score": "6.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.21",
+      "kills": 14
+    }
+  ],
+  "minimap": {
+    "bm": "eJx10lEOxCAIBNChS8b733gjVAWkJO2HTwRaAQsRsTdKjKEeItJp5EYnU5WXGU4mSYCtDlPf0egrWnis5BlAyY5o1du6K0phBlKvq0FJBmSeKuk7tmqvO4K6k7am6eQ2pyrmNJt5TlZ7FFzt/HBaD38gdZOyvbXQapjpKG0JAX1Dys3ousui6PwYW1H1uS9O1Cr55E/FfVlP873k2Zr4A5xaCH4=",
+    "cp": {
+      "1": "#525fef",
+      "2": "#f2ae6e",
+      "3": "#5fccf7",
+      "4": "#ec6a6e",
+      "6": "#ec6a6e",
+      "7": "#b466f4"
+    },
+    "sz": 30
+  }
+}

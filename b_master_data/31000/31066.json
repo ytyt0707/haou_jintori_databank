@@ -1,0 +1,87 @@
+{
+  "round_id": 31066,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-28T01:54:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[亡き地] 亡き子",
+      "team": "亡き地",
+      "emoji": "👻",
+      "score": "41.66",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🤖",
+      "score": "25.87",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無し0u",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛牛武] 甲基",
+      "team": "猛牛武",
+      "emoji": "🦊",
+      "score": "0.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[あいす] (⌒-⌒)",
+      "team": "あいす",
+      "emoji": "💰",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "亡き地",
+      "score": "41.66",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛牛武",
+      "score": "0.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "あいす",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkUsSAyEIRNtAMve/car5iGiSzcSFWryGRlSthbYUQLHz9gf6OqpGB0fcAtneHfrxSVnYnnRF+aEaT5y4GTOq1OQqOoaHVTG5iGiYYwDPni3EXEDkmjZKJ00nnqEGQCrm8xCR0MzGjIpSRRw823K67Jb+ja7+4Vup1lQpCtitgN1+0g36YHy6TN6wg9hv0a3w6qs2wCbovg3lZ6aEXQHCnT+Qn5AzeQPb3Aiv",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30a3e8",
+      "4": "#30e881",
+      "5": "#8B4513",
+      "6": "#e83098",
+      "7": "#d130e8"
+    },
+    "sz": 30
+  }
+}

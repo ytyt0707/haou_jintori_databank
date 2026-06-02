@@ -1,0 +1,119 @@
+{
+  "round_id": 4028,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-11T22:25:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[oj軍] アベベ",
+      "team": "oj軍",
+      "emoji": "🦄",
+      "score": "11.31",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐶",
+      "score": "4.62",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[SCP] SCP-4162",
+      "team": "SCP",
+      "emoji": "🤔",
+      "score": "2.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵特攻隊] ハヤブサ",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤔",
+      "score": "0.64",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[猛牛武] 甲基",
+      "team": "猛牛武",
+      "emoji": "👻",
+      "score": "0.58",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "💩",
+      "score": "0.17",
+      "kills": 6
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[oj軍] 衛生兵",
+      "team": "oj軍",
+      "emoji": "🦊",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵👾] 矢野彩喜様",
+      "team": "🇯🇵👾",
+      "emoji": "😍",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "oj軍",
+      "score": "11.37",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "5.26",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "SCP",
+      "score": "2.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "猛牛武",
+      "score": "0.58",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵田中",
+      "score": "0.17",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0NsOhCAMBNAp3YD6/x9siluovSSb7DwhJwNYwKdJwq7VEh2PAeA8rffea23N6uWqUt4qbI15Hz2Er6Bc6WRmVp0v82XhkSj4SarML0XanBcPgAp+viivqhJR4lhaHwxyFwd9+WcpaWJZn5T/Uvamr+oy072kMCubf3RN4zgKFc4tTvLH3Cu8A6k=",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#ed2cd3",
+      "4": "#ed2cd3",
+      "6": "#3df529",
+      "7": "#59eec3",
+      "8": "#f56695",
+      "9": "#963eef",
+      "10": "#59eec3"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "round_id": 5092,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-14T08:06:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🦄",
+      "score": "17.38",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チギュ] チギュりパンで草",
+      "team": "チギュ",
+      "emoji": "😈",
+      "score": "16.06",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[チー牛] けんた",
+      "team": "チー牛",
+      "emoji": "🐷",
+      "score": "0.82",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[チー牛] カミカゼ",
+      "team": "チー牛",
+      "emoji": "🤔",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "17.38",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チギュ",
+      "score": "16.06",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チー牛",
+      "score": "0.89",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "team_name": "うんち",
+      "score": "0.00",
+      "kills": 20
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0OEOgCAIBGB03u7937gJ5RDJmvwqvg4xkbOq51pVm28BwNCc7YOq3BLtDs3mCiBOxoR2QksIoFtQZrp1IX3pLUqKVuQy1O1O9xxNs3zymTIoIjpdaKjkSJEiobyWvbp7RbRs2ehI6+bky2RN209KdZ77qRvUznLh33UBCv0HZQ==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#24c0f5",
+      "5": "#9bf66a",
+      "7": "#f4ca25"
+    },
+    "sz": 30
+  }
+}

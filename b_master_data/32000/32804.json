@@ -1,0 +1,57 @@
+{
+  "round_id": 32804,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-01T00:41:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "レミリア",
+      "team": "",
+      "emoji": "🐯",
+      "score": "40.75",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきこ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "29.25",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🥺",
+      "score": "3.27",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "29.25",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "3.27",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kwEOxSAIQ3Gt97/yDyDC+Ixk0exRxKoAVgYAyYBgJUUPUV3wDmFUEwD9WojiCVjeoYPu0Q5j3VYTj9GvjhSermzxrr50LcgA644GbD3bdgHQEkoVd8N/kASpNmsmCdBO4FJ6OCUpy1K15kE6xNzrKNyFxvTSvQdcaAjKeCkmce5uDzipi6XUJZPKIA4qCFrV13t1cEtFZqZbb7d4N+jHEpf8zxBXnhfwpc3n8SruPRf4phXYvNrxA+L+CYw=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e230e8",
+      "4": "#8b4de5",
+      "5": "#e83042"
+    },
+    "sz": 30
+  }
+}

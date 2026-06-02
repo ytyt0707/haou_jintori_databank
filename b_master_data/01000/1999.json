@@ -1,0 +1,79 @@
+{
+  "round_id": 1999,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-07T07:45:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "42.20",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "😀",
+      "score": "34.35",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳人民軍] ポケモンBBS",
+      "team": "🇨🇳人民軍",
+      "emoji": "🤠",
+      "score": "2.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "アナルバトル",
+      "team": "",
+      "emoji": "🦊",
+      "score": "0.64",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇳人民軍] Trump",
+      "team": "🇨🇳人民軍",
+      "emoji": "😍",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "42.20",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "34.35",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳人民軍",
+      "score": "2.32",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0tEOwyAIBVAYuf3/T16o2gKCmo2HpuoJKEqUh4jop1jV5ST2YpZ/uOu6ksoigtI5iOAM9CdJoMvXeqVugsH1mJzf3jtOHSWuSHjoihYnM9sbq1xaWRkcghvbezAJcMc7FOHckYWanNm4voIRzx8RE1sHo2B+mdlVNs6o27mTVOHdgO1hBTckeqPHKSm6uS1LF25o2h9T69CKqRudXDGgs+DqBh06+snVZbF3n0M38sXXXDrsVXOr5UP3KPsG+ysjP9vZF64iEwY=",
+    "cp": {
+      "1": "#70daf5",
+      "2": "#70daf5",
+      "3": "#5bfb96",
+      "5": "#f76459",
+      "6": "#cc99f0"
+    },
+    "sz": 40
+  }
+}

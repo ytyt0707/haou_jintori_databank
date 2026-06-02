@@ -1,0 +1,71 @@
+{
+  "round_id": 2298,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-08T00:35:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵革命軍] ははは",
+      "team": "🇯🇵革命軍",
+      "emoji": "🐲",
+      "score": "52.36",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸usa] さてろ",
+      "team": "🇺🇸usa",
+      "emoji": "🤖",
+      "score": "14.40",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵革命軍] 神",
+      "team": "🇯🇵革命軍",
+      "emoji": "🤖",
+      "score": "5.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇺🇸米国] し",
+      "team": "🇺🇸米国",
+      "emoji": "🤠",
+      "score": "1.87",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵革命軍",
+      "score": "57.56",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸usa",
+      "score": "14.40",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇺🇸米国",
+      "score": "5.43",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN09sOwyAIAFCu///Li9BVUVD3NmJSbU7RKgIcg0j1rNTC+4iIW+ZwwxYnki1sdYjSOlU+6A4lmV+HfDIwLJgCiIgvcHGqk/Mwx8ycOuaH2TqNMbQWWHMurdMjdUnELX4dWItuONptvnFXKpf9740rp6VwaBTcMKBeK1Y5UCQkatX+Run41kVIJWtwrJad6/LkHgoXjvya184sOFxce5sk5cwRd2oJeS667/dhbM91fdPET5THdunSfBf4p3x/6sDun3eP8QFRhw+X",
+    "cp": {
+      "1": "#3bf7cb",
+      "2": "#b68ced",
+      "3": "#b68ced",
+      "4": "#3bf7cb",
+      "5": "#f797c8"
+    },
+    "sz": 40
+  }
+}

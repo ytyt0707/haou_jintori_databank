@@ -1,0 +1,91 @@
+{
+  "round_id": 861,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-04T16:58:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんこ] あ？",
+      "team": "うんこ",
+      "emoji": "😎",
+      "score": "18.97",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[大東亜] 金正恩",
+      "team": "大東亜",
+      "emoji": "🤖",
+      "score": "4.73",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[444] 🦷",
+      "team": "444",
+      "emoji": "😂",
+      "score": "4.72",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ガリ] デブは痩せろ",
+      "team": "ガリ",
+      "emoji": "🐷",
+      "score": "0.30",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[阪神] 前川右京",
+      "team": "阪神",
+      "emoji": "🤔",
+      "score": "0.00",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんこ",
+      "score": "18.97",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "大東亜",
+      "score": "4.73",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "444",
+      "score": "4.72",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ガリ",
+      "score": "0.30",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "阪神",
+      "score": "0.00",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10VESgCAIBFDK9f5XbkzR1KWoMb4aeC1aIusrTJ1tc77qdW7o3bz8hD8E+iM/XTrM/01dz0xX5Bkb7l2up8UK2+pKYySwsQqjDFDUhd6dbDfddDIMjjOguvZdWFqu1qBO1cUJccAUV1xq6QCgLsm8JE9MNoxMB7icXq2OwCX6stylx56suCHbvoiFyJe5KScr2GHeuBV1AHfZBTk=",
+    "cp": {
+      "1": "#62b2ef",
+      "2": "#4ffc8c",
+      "3": "#fb98c1",
+      "4": "#e8c87d",
+      "5": "#c5f19d"
+    },
+    "sz": 40
+  }
+}

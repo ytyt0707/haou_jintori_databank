@@ -1,0 +1,57 @@
+{
+  "round_id": 36532,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-09T06:24:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[野獣] 山上徹也",
+      "team": "野獣",
+      "emoji": "👽",
+      "score": "36.82",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷ヨン様] ペ・ヨンジュン",
+      "team": "🇰🇷ヨン様",
+      "emoji": "🤓",
+      "score": "7.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[野獣] たぬち",
+      "team": "野獣",
+      "emoji": "🐲",
+      "score": "1.69",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "野獣",
+      "score": "38.51",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷ヨン様",
+      "score": "7.33",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkssSgCAIRa+K///LDQ/xUjYtc6NyOBBOEBxXswUpKzOPdFVy2IppF9OD3io7b3h1RRZr7eRKmC807aN7o48c+y7gEecRg+qMHI6zB/P9asoOx4kKoPdeOUHpX3SrE5BB7tju1BVsasoYVNmoYs8Ytmdfp1ZgcXKReHXWrnuixNbWRKJh2+Y/F7uL7hHLW3lpggA/5Czk38sF3S8HMA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#73d411",
+      "4": "#73d411",
+      "5": "#e83053"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "round_id": 8478,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-21T23:12:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[万華郷] おめんこ",
+      "team": "万華郷",
+      "emoji": "🦁",
+      "score": "26.94",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[万華郷] 爆弾/自認レゼ",
+      "team": "万華郷",
+      "emoji": "😎",
+      "score": "21.98",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[万華郷] 万華武者",
+      "team": "万華郷",
+      "emoji": "🐶",
+      "score": "10.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐲",
+      "score": "1.02",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "万華郷",
+      "score": "59.08",
+      "kills": 18
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "1.02",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90esShSAIBGDMXd7/kc9wSSHr+KOZ+lhUkuuSP+vytV5p66m7gKwFDxRqiwekqt7RUXWh2hKRMcbYynwycGk7DYvuniQBRGvgRdfGptnY+qiqJUlXj5q7+jKF7bmuWlVTyxjHxgg3laoEM4uD/VB2W78Z0BShqpSqd+M55/Q7k97nVb0AMRqU++aI43Reg3roWsY19hdIRM3yUHwqH9mz9aGKj31bPOd1fy3xONFWtujG9jNtylL/8A/+kgtT",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#efc12a",
+      "4": "#a3ef39",
+      "5": "#a3ef39",
+      "6": "#a3ef39"
+    },
+    "sz": 30
+  }
+}

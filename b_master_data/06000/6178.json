@@ -1,0 +1,66 @@
+{
+  "round_id": 6178,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-16T18:50:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] アハンオケツイク",
+      "team": "🇯🇵田中",
+      "emoji": "🦁",
+      "score": "44.42",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🐷",
+      "score": "28.06",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] 🐷中山司🐷",
+      "team": "🇯🇵田中",
+      "emoji": "🤔",
+      "score": "10.96",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇸🇦bot] 名無し👾",
+      "team": "🇸🇦bot",
+      "emoji": "😀",
+      "score": "0.08",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "83.43",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇸🇦bot",
+      "score": "0.08",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx1klF2BSEIQ9Mm6f6X/A6gMLRTPmaUawARgJIAUOBYrsNrpT3QV58BKYacGtGDOhdLPNRF/QIzclEbtv+jUMTxOnFoKKPwN5o+wFRB34C4KRGUpWy5ye8qqKsfat+wwC75WSAq9DhSkp1HbFI8+vwJc7JMWVbUk0/jTmITOHc2ifNwN18EOC2p6wiL2pJVLbGH3uix06E5Mt42+6B/cEf5TeuivcF9JLLSTRed2p417x4PXXZr0iuNJKopPzS/M7Q6FuKf9m0WtKeIeKHbynnpB9gbC3o=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#efbc2e",
+      "4": "#efbc2e",
+      "5": "#efbc2e",
+      "6": "#87f665"
+    },
+    "sz": 30
+  }
+}

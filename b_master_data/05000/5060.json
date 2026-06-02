@@ -1,0 +1,65 @@
+{
+  "round_id": 5060,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-14T06:22:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇸🇦ハマス] 山上徹也",
+      "team": "🇸🇦ハマス",
+      "emoji": "😈",
+      "score": "13.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵うんこ] 安倍晋三",
+      "team": "🇯🇵うんこ",
+      "emoji": "🤖",
+      "score": "6.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵うんこ] 殺します",
+      "team": "🇯🇵うんこ",
+      "emoji": "😎",
+      "score": "1.64",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "おほう",
+      "team": "",
+      "emoji": "💩",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇸🇦ハマス",
+      "score": "13.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵うんこ",
+      "score": "7.82",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJylz1EOwCAIA9A6A/c/8oKZwkYlW8bvs1ABn/acgm4aH6FSkM1k/0Wq5LonIyMfnEyqANpXmKlW2sfqg4hhj/GEluUsmMjDRFtGFrZKg7GphVlKBEJVTMaw5j4lJpXX+Eu/3U0fKj5FsuvF3tKcHmoESw==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#edab40",
+      "5": "#7729f5",
+      "6": "#edab40"
+    },
+    "sz": 30
+  }
+}

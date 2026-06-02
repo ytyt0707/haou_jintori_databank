@@ -1,0 +1,40 @@
+{
+  "round_id": 5606,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-15T11:54:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵幻魔帝] おちすぎ",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "😈",
+      "score": "10.77",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵幻魔帝] 万華",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "👻",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵幻魔帝",
+      "score": "10.77",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYCAEWFiQOQws6LJwAOHhkoWrwSOLXxrTYbjloG5lwXARugl4vU4OwG8iebIsROgdRICRAlkKbAUDvNL4NdNEFr9WSGAAAGseAZo=",
+    "cp": {
+      "1": "#48eab1",
+      "4": "#ee4f9e"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "round_id": 54275,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-17T03:58:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[混沌] ニャル子",
+      "team": "混沌",
+      "emoji": "🏁",
+      "score": "30.80",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[錬金術] トトリ",
+      "team": "錬金術",
+      "emoji": "😖",
+      "score": "14.58",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[混沌] 名無しTf",
+      "team": "混沌",
+      "emoji": "🤖",
+      "score": "9.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[混沌] も",
+      "team": "混沌",
+      "emoji": "🥰",
+      "score": "2.71",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "混沌",
+      "score": "42.97",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "錬金術",
+      "score": "14.58",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkskOwyAMRA1e/v+Tq/FKqCL1UB8I+HkGDCG6whCTE5FZODsoy4ETQsvMGEE9iAqaQ2aUsIgPIkWRRDiN6UCLxINyS4PiqFWGbxizGVTeh9PaD3keZWuTo3bvrQh01M5mlrK9qXDTnpRWO/OYbHYprCdftYFU9eooKn+nh3Vu0lp/o+dtcx4J/Rb2GbRETdUvMw37/2hnHLoeumlcFGoiBcf1SgHWWl2Q3lMPWivVMK/113d2vREaeaeo9p1v2V/XH79oCFQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30b4e8",
+      "4": "#30b4e8",
+      "5": "#af30e8",
+      "6": "#30b4e8"
+    },
+    "sz": 30
+  }
+}

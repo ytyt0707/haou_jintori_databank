@@ -1,0 +1,65 @@
+{
+  "round_id": 15244,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-15T02:07:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦊",
+      "score": "54.26",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "🦄",
+      "score": "3.45",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😈",
+      "score": "0.07",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ゲスト] やの",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐱",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "54.32",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10UEOwCAIBMBV6P+/3Ei0WsD10HQPxjiAJqq6wJYej0/FXnX0z723a+0NSicnWsO9r4rqlEw33V6tGG8FtJQS3k5ac8U8Bplwmss+C0sOHCt+U2xURCTqKDBN0LihpNjCFV8UXMHVcgMjeggi",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#33aaf0",
+      "4": "#f524bd",
+      "5": "#994aed"
+    },
+    "sz": 30
+  }
+}

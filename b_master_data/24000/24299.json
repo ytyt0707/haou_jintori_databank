@@ -1,0 +1,71 @@
+{
+  "round_id": 24299,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-12T16:21:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ろぜ",
+      "team": "",
+      "emoji": "🐲",
+      "score": "43.48",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 🎀",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐶",
+      "score": "13.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😆",
+      "score": "9.03",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] み。",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "4.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "13.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "9.03",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "4.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkEEOBCEIBNtA+/8nbwBlcCObWQ4eLKpBVZsazb1fc7DHJEfLyUGysY1YNdkvIFVxsy0UXa6SsDrVkuMU5eKrM+zbXF3qIXujiApEBKul2mKVpm121EPdFZGKT9OjSkPGbjUaVkBSH77cbedOsXHS4Elj77fUB89ZH2u/supGH2x0WqH4YUL8z5zmASx3T0viIT9pmRD24f5NMfE8+gM/BQpb",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#9ca3af",
+      "4": "#30a3e8",
+      "5": "#8B4513",
+      "6": "#59e830"
+    },
+    "sz": 30
+  }
+}

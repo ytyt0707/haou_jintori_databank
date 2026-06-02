@@ -1,0 +1,56 @@
+{
+  "round_id": 51929,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-11T21:09:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ねおん] 天使の自動筆記",
+      "team": "ねおん",
+      "emoji": "👼",
+      "score": "41.94",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ねおん] 名無しRE",
+      "team": "ねおん",
+      "emoji": "👽",
+      "score": "22.46",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ねおん",
+      "score": "64.40",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソ連",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkFEOBCEIQwll7n/lSREQzWh2+4U+W6tmXeLSUmdmg8qBJk+8ermiX1U94JtGtiwUoJduRovuFLMYb+DZKRQV1YE7BAzAKObegpgarUWLGU2p6PUPlYMXfGqy6qXci31rPFvTEK6GO43IZ4sWqSKNcKT5SAMevHd6Tz7Qumlkb11r+QutqHL5cC2dcP0tT5rIp55Vn7id+Vi+9W8IMw==",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#aad411",
+      "4": "#aad411",
+      "5": "#30e85e"
+    },
+    "sz": 30
+  }
+}

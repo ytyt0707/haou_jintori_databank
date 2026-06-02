@@ -1,0 +1,48 @@
+{
+  "round_id": 13662,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-11T11:36:46.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🐲",
+      "score": "4.36",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] チギュアってて草",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦊",
+      "score": "2.12",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "4.36",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "2.12",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzNz8EKwCAMA9DU9P+/WcQNGZoIelkOXl5TFfhNMtNiigHy1ZlJkNQ6cN2V9xb3k3O8DXcDEe3QGuG1R3Yxa79QtWB3Dj5RPA9SCqew6rv7zZ9Ud2cBJA==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#73e54d",
+      "4": "#e99144"
+    },
+    "sz": 30
+  }
+}

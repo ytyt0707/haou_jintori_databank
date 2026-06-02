@@ -1,0 +1,71 @@
+{
+  "round_id": 9123,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-24T04:57:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😍",
+      "score": "58.52",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵傷物語] 忍野忍",
+      "team": "🇯🇵傷物語",
+      "emoji": "😈",
+      "score": "20.87",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "😎",
+      "score": "1.94",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ゲスト] あ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😍",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "58.59",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵傷物語",
+      "score": "20.87",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵神撫子",
+      "score": "1.94",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0YEShCAIBNDlcP//l28AU1Bz7naasnmQVECNAvh4RATqgV1bay1uH+6qHSerWq8xFrZ7sSgHhmvS2NOnSUVQFXOdsyaNuOaCp7PzUD1FAKK/7iHg+BhLWHY5Nx+ZDxZdSl/nieO2L3lR3pR/KUk7HZ5MejEnVh25K3/RNBVX9UX8wdo5l/1Lllak1f7kpPtQAOwUGjNgj9V9ARTIClY=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#5bec5b",
+      "4": "#f538b3",
+      "5": "#dd6df3"
+    },
+    "sz": 30
+  }
+}

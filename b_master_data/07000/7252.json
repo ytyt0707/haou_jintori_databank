@@ -1,0 +1,42 @@
+{
+  "round_id": 7252,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-19T04:54:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵うんち] 安倍晋三",
+      "team": "🇯🇵うんち",
+      "emoji": "🐱",
+      "score": "10.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "爆弾の廃人",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.83",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "10.29",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV0DEOwDAIQ1GX+v5njqKoLUP859QT4gmQkDD1FvWUd9MiXf0VIafjmXT1o2GaVKwHx7bJohp09pP6C+uGUbuxhsWCV/woA75jAb8=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f7f24a",
+      "4": "#e5487a"
+    },
+    "sz": 30
+  }
+}

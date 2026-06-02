@@ -1,0 +1,62 @@
+{
+  "round_id": 10258,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-28T16:08:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "21.62",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] トラパ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦄",
+      "score": "1.16",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "🦄",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "21.62",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "1.16",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳チギュ",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJzVzsEKwCAMA9CsIf//ywN1gptpD56Wk+TRWsDm8lTr0XCqPw3JAwYpeRWl5tJ4LLrmrUi1VV02rmK3x9lGJChF/amdfa72FynRXmx2wyXFz7KZGxtqA/c=",
+    "cp": {
+      "1": "#f37a35",
+      "2": "#db5af2",
+      "3": "#3ae486",
+      "5": "#7aee6d"
+    },
+    "sz": 30
+  }
+}

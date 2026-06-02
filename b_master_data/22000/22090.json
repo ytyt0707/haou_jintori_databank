@@ -1,0 +1,89 @@
+{
+  "round_id": 22090,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-03-07T01:17:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] かな",
+      "team": "猛虎軍",
+      "emoji": "👻",
+      "score": "27.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 高須洋介内野手",
+      "team": "🇯🇵阪神",
+      "emoji": "😂",
+      "score": "9.26",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🦄",
+      "score": "0.64",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] 69",
+      "team": "猛虎軍",
+      "emoji": "🤖",
+      "score": "0.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵阪神] 爆弾/自認レゼ",
+      "team": "🇯🇵阪神",
+      "emoji": "🦄",
+      "score": "0.10",
+      "kills": 10
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] ぷゆゆ侍",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "28.18",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "9.36",
+      "kills": 13
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1koESwyAIQ0F2of//xTtANM6uvVLxQRqtIusCAJGIUIk7UpEMcz7hCpuuKRos3ZIkEsP/dJPUB47+k2bGyjdmqnpxxlAxM6OakwY8MDvTi/ZmpgjRbaLlq5e+m8OmqF6zz6u1pm/OHrVcUtSQfCk7VN5pH4KL0r+ovaJltWf3PEBNhozRnwbcx1r+dDSaA0611TOaOiCRLK3glCLhL+180k5nb4jFg7t5qtUrY69h+yLIwmmLGbmcIptm8RfjKQgG",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#e830a9",
+      "6": "#59e830",
+      "7": "#e83042",
+      "8": "#59e830"
+    },
+    "sz": 30
+  }
+}

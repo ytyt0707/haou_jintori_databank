@@ -1,0 +1,42 @@
+{
+  "round_id": 15064,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-14T15:24:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ベネット",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "8.56",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] うゆゆ",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "5.81",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "14.37",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV00kOwCAMA0CD/f83V6xq1eC0OTJkQYAwgpBIgKIIaAaioMNEbWGQnFpjpcSWW2t97WjjH4OJGtwab7K62yri3TbUHV5fs5f7PH+1lFwPfWFzV5Y7yic9PB1/w3RKo8xwndfWHO+9L/Rv9ix6AQ2KAfs=",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#46bdec",
+      "4": "#46bdec"
+    },
+    "sz": 30
+  }
+}

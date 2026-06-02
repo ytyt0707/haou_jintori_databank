@@ -1,0 +1,56 @@
+{
+  "round_id": 17807,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-24T06:21:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[十字軍] リチャード1世",
+      "team": "十字軍",
+      "emoji": "🦄",
+      "score": "21.48",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[十字軍] 爆弾/自認レゼ",
+      "team": "十字軍",
+      "emoji": "🐷",
+      "score": "9.83",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐷",
+      "score": "1.21",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "十字軍",
+      "score": "31.31",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "1.21",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90lEOwCAIA9Aqvf+Zl0CY3ejW36eg4loZ+CwTr/jVCkmQwHLKile2nkadyKTOjtGZHPFA6i3ijcV1LoNeKYpbYQsnxywt+uTIpxQd50r41TOmkBWKmM/lv4dRGZXZOvZ+fbxBfa9vPSU816xc21b0lLBt78K9p0LVcBdXvQCBJgTg",
+    "cp": {
+      "1": "#a5e755",
+      "2": "#f8a23f",
+      "3": "#6478ed",
+      "4": "#6478ed"
+    },
+    "sz": 30
+  }
+}

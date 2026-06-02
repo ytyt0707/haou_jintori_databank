@@ -1,0 +1,48 @@
+{
+  "round_id": 3840,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-11T12:03:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ロシア] プーチン",
+      "team": "🇯🇵ロシア",
+      "emoji": "🐱",
+      "score": "74.17",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ぷゆゆ] ぶりりん",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐱",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ロシア",
+      "score": "74.17",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyFk9sOwyAMQ228///mCkI2ulyweEA5dpoiACBIYwxN4U9W2vAw2H5XfnRx33lBmbDNI4VO82ib1TlbRSu19BJdmGLq3b9CNtmakpiU2QyTuorOXOGGJqSlnu2/W491oVLTOlBIn0DlGCH7PRC7YQjULDwuepwfJX0/HmsLxJdljrUe00oIHw==",
+    "cp": {
+      "1": "#e368ee",
+      "2": "#74a8ec",
+      "3": "#5325f8",
+      "4": "#e7f529"
+    },
+    "sz": 30
+  }
+}

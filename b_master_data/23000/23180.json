@@ -1,0 +1,90 @@
+{
+  "round_id": 23180,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-03-09T12:13:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "😂",
+      "score": "33.51",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] イスラム教徒",
+      "team": "🇬🇧珍走団",
+      "emoji": "😎",
+      "score": "33.50",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇬🇧珍走団] ゲスト(ゲイ)",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐱",
+      "score": "8.40",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 爆弾/自認レゼ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] たぬきち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "👽",
+      "score": "0.09",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "75.40",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "3.69",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "0.09",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kwFyhTAIRCFsPtz/xO1CYkLtx5lEeS6sqGYmFWYwM29hlpgbzzqNlX42d2epqrCoH1ptIsg39eQlVEaEuGuJjhURWTQiVNIpsPmCFIeqADAcipImjaSAb45NI6guJU5srapOFv0TB1P7ClVNb/NfihyI6pz6Uu6Ezph8IMZY++UjZqec27oLkHnRMcDXS5prTliAsaLlE1bPwkub+bWko5ve0MrzYNfSdsrGeQD4NMTPrDrnmp7bDXsaiRvhxU1fsNF35TO5y7M8VcrPF1e39lGck1TR20nt3+73I/gB4EAMRA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#e830dd",
+      "5": "#8B4513",
+      "6": "#30e84d",
+      "7": "#e830dd",
+      "8": "#8B4513"
+    },
+    "sz": 30
+  }
+}

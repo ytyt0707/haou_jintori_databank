@@ -1,0 +1,72 @@
+{
+  "round_id": 5824,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-15T23:41:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "37.96",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "アナ",
+      "team": "",
+      "emoji": "🦄",
+      "score": "19.48",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵🇯🇵楚] やったか！？",
+      "team": "🇯🇵🇯🇵楚",
+      "emoji": "😀",
+      "score": "4.44",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇻🇪ベネズ] でじこ",
+      "team": "🇻🇪ベネズ",
+      "emoji": "👻",
+      "score": "0.93",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "37.96",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵🇯🇵楚",
+      "score": "4.44",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇪ベネズ",
+      "score": "0.93",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNkFEShDAIQ8OGcv8jO9SitODM5kMrr4QgMKVQAHYI5kVAXYWa3S1qqrpX8ZjprUKR6DFw0hG4Ggc1++VQqXcscxEp7Yma4IP6XGS68PDce6hzq8rK1mkuKoXE0Z/Iawd9PV+IWZHHc/th0dtlIsnPxGSDYyzZYAAbdIwTJkoSZvOFHq9Lm7zQw6jwPVTfvrehTaY/6PxGQ8seUxeSyAr+",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ea6ca7",
+      "4": "#db26f7",
+      "5": "#7cec36",
+      "6": "#44cce4"
+    },
+    "sz": 30
+  }
+}

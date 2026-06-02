@@ -1,0 +1,104 @@
+{
+  "round_id": 20998,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-03-04T14:16:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🤠",
+      "score": "30.59",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "🤖",
+      "score": "18.08",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] ゲスト",
+      "team": "猛虎軍",
+      "emoji": "👽",
+      "score": "16.72",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂アイス] 名無しcV",
+      "team": "🍂アイス",
+      "emoji": "🤠",
+      "score": "7.52",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "名無しmf",
+      "team": "",
+      "emoji": "🐶",
+      "score": "4.93",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] 爆弾/自認レゼ",
+      "team": "猛虎軍",
+      "emoji": "🐱",
+      "score": "1.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐱",
+      "score": "0.07",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "49.08",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷デパ",
+      "score": "18.08",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂アイス",
+      "score": "7.52",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇬🇧珍走団",
+      "score": "0.07",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF90dEShSAIBFAavSD//8N3dlHQpvKhl9MuZCLzmNm4Hyv7ULGn7HjNCsa8KnDNfWr2zIbet/7KzrkqqhpL5+o23H0IhEfMBhD1Ps8yFeFssDvfMbPUrsnuP5ak9g4Nd2bpke04vBgUz+BqJnZprWd7vIFsYG+ttVcFtm1zpLXP8ML8LihQlRTZWglKLj1wZisNrfJoLl0fHR1PWu1LVTD7uq7jm+Im+aSf97GrCK+jlqo/qPxH51K7JtdWZzOj215xV7HVMjCHyx99yxKF",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#30e892",
+      "4": "#30b4e8",
+      "5": "#e85330",
+      "6": "#a74de5",
+      "7": "#e83098",
+      "8": "#e83098",
+      "9": "#e83098"
+    },
+    "sz": 30
+  }
+}

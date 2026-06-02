@@ -1,0 +1,33 @@
+{
+  "round_id": 5400,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-15T00:45:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ワイら] ワイ王",
+      "team": "🇯🇵ワイら",
+      "emoji": "🦊",
+      "score": "10.37",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ワイら",
+      "score": "10.37",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJztjzEKADAIxNT7/5+LY0FTbNcGt4jemQFOsiIiUJ8ve4I/xqHuEFsJFrQzkCNLEkN1fXKqWtT188wCVRkBNA==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ed5eb2"
+    },
+    "sz": 30
+  }
+}

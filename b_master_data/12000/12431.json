@@ -1,0 +1,88 @@
+{
+  "round_id": 12431,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-05T09:23:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵特攻隊] 大日本帝國陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "👽",
+      "score": "32.95",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] いなみや",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "12.67",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ゲスト] 🐟💦",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🦁",
+      "score": "3.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "2.81",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🦊",
+      "score": "0.07",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "🐱",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "32.95",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "18.71",
+      "kills": 13
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇳謎の男",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0VsSgCAIBdBLPPa/5MbAVMTio5wOj8EAABIPSbF/OQdGtPNZPaPmyzWzDP0YHlyl9LGlTljcwItDwXmrqTGLqC77mmskqCozTwneGR0b79oO6sFANbfQMRRwRVbvQVHLvJZ7FqHUyCFmsZOC3tG2uG9IgHQ1zdresZWZ/WlPiN+i6oq19nEdYUmxqx2Kc+VzoRHbXX/GDQ+FB+E=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f6cd51",
+      "4": "#e651af",
+      "5": "#f6cd51",
+      "6": "#f6cd51"
+    },
+    "sz": 30
+  }
+}

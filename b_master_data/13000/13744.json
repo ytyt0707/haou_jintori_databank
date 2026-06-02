@@ -1,0 +1,105 @@
+{
+  "round_id": 13744,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-11T16:02:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "49.75",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ぷゆゆ🥺",
+      "team": "猛虎軍",
+      "emoji": "🤠",
+      "score": "11.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇬🇧珍走団] ちぎりパン",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤠",
+      "score": "6.96",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "👻",
+      "score": "5.66",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵自民党] アベベ",
+      "team": "🇯🇵自民党",
+      "emoji": "💩",
+      "score": "1.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇬🇧珍走団] 爆弾/自認レゼ",
+      "team": "🇬🇧珍走団",
+      "emoji": "🦁",
+      "score": "0.18",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵山本組] 山本",
+      "team": "🇯🇵山本組",
+      "emoji": "💩",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "61.17",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "12.80",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵自民党",
+      "score": "1.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵山本組",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN01sSwyAIBVBaL5Xsf8MZRARfM+UvOQERDdElcIOGGrfX6Ap/tGpArbVi1hR1MG1KQ3upPTkW2zXV+VslSymzUtePofJBkdUHJCJy1J/6hI0915pyZ+bIHS2LOTNzedauTEm5WCT1VIhmr5qavum3I9sH6QybCo8oMKWT+n4Rw8q56Ps1pbZue+8Ymof5qEpcWZAfkY+z53rIiLgKgbRrQsqIpbDVTn+L6gtergyK",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#f264dc",
+      "4": "#f4dc62",
+      "5": "#f264dc",
+      "6": "#55bcec",
+      "7": "#81ea4d",
+      "8": "#f4dc62",
+      "9": "#f264dc"
+    },
+    "sz": 30
+  }
+}

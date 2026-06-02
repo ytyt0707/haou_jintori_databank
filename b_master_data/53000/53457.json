@@ -1,0 +1,57 @@
+{
+  "round_id": 53457,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-15T07:45:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵混沌] 島津豊久",
+      "team": "🇯🇵混沌",
+      "emoji": "🙂",
+      "score": "63.15",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵混沌] ニャル子",
+      "team": "🇯🇵混沌",
+      "emoji": "🐶",
+      "score": "24.51",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳なまぽ] 名無しiD",
+      "team": "🇻🇳なまぽ",
+      "emoji": "🤔",
+      "score": "1.38",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵混沌",
+      "score": "87.65",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳なまぽ",
+      "score": "1.38",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVk1EOwzAIQ71i7n/lCQgBlKzS+GnIw5hSFbgHCRCAiEivYAuHVuDhVSKbT5pVRBT8oEsdvq5hKqv1lV58L1KWb9GSBvV825L8+NRpO/DWEtZwsJqYBFXXbnrnJYeqqt3XULVIUjVtplZI8ziojxLNSF0bt9oIP3mG0ha2IqOAaBhMZpZOs1vgZ3WPd8g92+Aiz7OpVyX15ICDZld7Gsiv0O/b+dCOi5E0VRxf6bvvP9R+lO1tyRf6tApX",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d64e5",
+      "4": "#4d64e5",
+      "5": "#47e830"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "round_id": 15291,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-02-15T05:27:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "38.92",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵雑魚] 最弱/重音テト",
+      "team": "🇯🇵雑魚",
+      "emoji": "👻",
+      "score": "23.91",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] Big Wave",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "1.93",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇨🇳無駄] 時間の無駄",
+      "team": "🇨🇳無駄",
+      "emoji": "🐲",
+      "score": "1.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "0.60",
+      "kills": 6
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[楚] 自認ロゼ",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "0.31",
+      "kills": 10
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[楚] 韓非子",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "40.86",
+      "kills": 21
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵雑魚",
+      "score": "23.91",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇨🇳無駄",
+      "score": "1.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "team_name": "楚",
+      "score": "0.90",
+      "kills": 18
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN01sOhCAMBdB7LRXS/S94wruAmukHIRxatCgAaA1sYTaoqG2x6I7/61nYvo6N8UNjvB+1TaKvbIaUUttw50Hg0FKanFFMl1jURCa0cVHoGUNtpqn1iTpFIzXTU0eXU1p1fWbUnrxo61hnqepvsSqaYpSc9fNHA0MQwfG+/asKIRzNcJYV75lHZV64+oai/v4pdalQzyVZUNqa9MjKoqRsgVGYJ9ZjqU+JFVnqUkn/l5Eskx/nfBHC",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#47f0cb",
+      "4": "#91f55c",
+      "5": "#7362f9",
+      "6": "#ea3489",
+      "7": "#ea3489",
+      "8": "#7362f9",
+      "10": "#ec7d55"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "round_id": 11925,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-04T06:01:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵いとぴ] いとぴリスナー",
+      "team": "🇯🇵いとぴ",
+      "emoji": "😀",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵いとぴ",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYBgZgAmfHBMeWSb8smRbSkh2qANG2snilWYEKcBvABgwE1ZCLwAAQNUAIw==",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#4491e4"
+    },
+    "sz": 30
+  }
+}

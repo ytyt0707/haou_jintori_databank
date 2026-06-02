@@ -1,0 +1,81 @@
+{
+  "round_id": 42003,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-19T00:38:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🤳",
+      "score": "18.90",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しAO",
+      "team": "",
+      "emoji": "😇",
+      "score": "11.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しar",
+      "team": "",
+      "emoji": "🦊",
+      "score": "6.16",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "5.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵自民党] アベべ",
+      "team": "🇯🇵自民党",
+      "emoji": "👁️‍🗨️",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "18.90",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "5.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵自民党",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVsWhDAIQxGG6f537EkApbbKTyvX8EjFTL6iY338qGZmPyQVsaMTPNofqgb5JTyOmapq0Kapq1JGXKl2smSIW7aupGjMtb3SdYYYk4m4bzGW/qL0YdVmY1BfaThIDzv9I8pfWmKhxWRPqAopQnwD2TY4lVnXYHTM5D7ALyomFq/q7mMQNoqNPKuOiJlGMygz7srpQtSdKMZ6pfUim8qc7kWLBrfnizg2C+3lRM2ce8+07dQKlxYNKMelhDjzo0wrdgLvnwkN",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#59e830",
+      "5": "#af30e8",
+      "6": "#30d7e8",
+      "7": "#e83075"
+    },
+    "sz": 30
+  }
+}

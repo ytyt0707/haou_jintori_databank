@@ -1,0 +1,74 @@
+{
+  "round_id": 2629,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-08T18:30:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇹🇼じぇえ] おんjみん",
+      "team": "🇹🇼じぇえ",
+      "emoji": "🦄",
+      "score": "3.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪屁] 🧐",
+      "team": "🇩🇪屁",
+      "emoji": "🦊",
+      "score": "0.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🦁",
+      "score": "0.00",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵YMO] ぷゆりません",
+      "team": "🇯🇵YMO",
+      "emoji": "😍",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇹🇼じぇえ",
+      "score": "3.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪屁",
+      "score": "0.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵YMO",
+      "score": "0.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "猛虎軍",
+      "score": "0.00",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYKATYGRkYCRKGRgQq44RwkKIs7BgV4duLro6NMVIBmK1nWh3orsPv0Ki1I2CUTAKRsGgAAC5mABT",
+    "cp": {
+      "1": "#93fa5c",
+      "4": "#fb9488"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "round_id": 1715,
+  "game_mode": "TEAM",
+  "player_count": 2,
+  "played_at": "2026-01-06T15:09:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "NoName",
+      "team": "",
+      "emoji": "🤖",
+      "score": "1.56",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵倭国] 奇跡バグ修正🌟",
+      "team": "🇯🇵倭国",
+      "emoji": "👽",
+      "score": "0.37",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵倭国",
+      "score": "0.37",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYKABYAQBohQSayBl7hkFo2AUUAcwEaeKiYkohTRQR4wyBiKVUV0dkcE3dAAAdQEANg==",
+    "cp": {
+      "1": "#97fc88",
+      "2": "#605dfd"
+    },
+    "sz": 40
+  }
+}

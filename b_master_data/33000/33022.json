@@ -1,0 +1,42 @@
+{
+  "round_id": 33022,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-01T12:28:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "レミリア",
+      "team": "",
+      "emoji": "😜",
+      "score": "47.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[たかし] たかし",
+      "team": "たかし",
+      "emoji": "😂",
+      "score": "8.27",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "たかし",
+      "score": "8.27",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkVESgCAIRBfh/mduQNB1MmfqLz4Se+xCYVaBNcSvxcxgdAUgEpQqsjYKRSBTS9noQe9m+pEOWSTTrmf/o+vEvAX/ogMFDOo8Hq3RylKoUFWnzSO3F0fIEgZf+hal5vyfvWX3rYLXNEbuata6bUZaf6G7qdynO59pDcZ9bfyyJ+1tTVW4OS84RwfD",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#e83098"
+    },
+    "sz": 30
+  }
+}

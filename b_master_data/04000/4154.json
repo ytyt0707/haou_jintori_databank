@@ -1,0 +1,90 @@
+{
+  "round_id": 4154,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-12T05:14:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵猛虎軍] ベネット",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🦄",
+      "score": "32.04",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵猛虎軍] ぶりりん",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🐲",
+      "score": "28.52",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "10.40",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[不眠症] 月曜日",
+      "team": "不眠症",
+      "emoji": "🤖",
+      "score": "4.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "3.58",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵猛虎軍] 💩",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "😀",
+      "score": "0.40",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "60.95",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "13.98",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "不眠症",
+      "score": "4.29",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJxtkwkSgCAIRUkWvf+JGzZB60/TwhP8KcJoghKbwOOMA8dAl5OpVKU0tbjJ62BTAHvxSb6QnPq4D7VcM4cfihbUwgw7ft21cnrKcOVi2eVNkafqopG55izK3Qcir0WBw/PxVwbJRqil/X8uauKg2ODcNOY9EpMC8bHGljnP3L6ISumH5o5q9LErWqQ2RtddqYqrgRq2mk8MxQs2yneyfhOJkIj3DTdTMZWoWKQ6rloQJNU7I2GnvaUuei2ky3yK2+rheOyjVAcB/vQCpOEL+A==",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#9aea39",
+      "4": "#af67ef",
+      "5": "#9aea39",
+      "6": "#2af456",
+      "7": "#af67ef",
+      "8": "#9aea39"
+    },
+    "sz": 30
+  }
+}

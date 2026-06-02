@@ -1,0 +1,70 @@
+{
+  "round_id": 1643,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-06T11:09:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 蓮舫",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "42.16",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 立浪和義",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "30.77",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[パンツ] 五条さとる",
+      "team": "パンツ",
+      "emoji": "👻",
+      "score": "1.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "😀",
+      "score": "0.45",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "72.93",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "パンツ",
+      "score": "1.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "仙台藩",
+      "score": "0.45",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy91N0KgCAMBeA5z/s/c0Qlzf14JGgXkfA1bU5FtkLPGCPcMd4HiR3eHzgHAWTtXDLndMdFLHAhA8kmp4rz0fvSXcxD1iFxHWit1U4f1uy8gVRmfREsnFBuKnnqVEzCxLl2rZ2BlZM64et87busLPO8WV2Y/1B3Vn5z5Pq4/Yg2+JNzN03WgKRzNxzbqHXDGGaucsNiV8cBdE4NVg==",
+    "cp": {
+      "1": "#e89954",
+      "2": "#766ffb",
+      "3": "#fb6fe2",
+      "4": "#766ffb"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "round_id": 809,
+  "game_mode": "TEAM",
+  "player_count": 2,
+  "played_at": "2026-01-04T14:09:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 【スパイ】獅子",
+      "team": "猛虎軍",
+      "emoji": "👻",
+      "score": "91.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] さとる",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "2.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "93.92",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzV1MEKwCAMA9Ak///RY+yiQ9schNacX2MFEXjDJAAkicryuTxVjqMLZthhv22Zv1+RY+xgOrfvGnf6vaCo7/S57V30V0zGdHX3/cP1INw8BVsLXw==",
+    "cp": {
+      "1": "#fea862",
+      "2": "#fea862"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 10033,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-26T06:10:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵陥没] 石破村 英則",
+      "team": "🇯🇵陥没",
+      "emoji": "🤖",
+      "score": "24.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷独島] 独島は韓国領土",
+      "team": "🇰🇷独島",
+      "emoji": "🦁",
+      "score": "15.52",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵陥没",
+      "score": "24.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷独島",
+      "score": "15.52",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0UsOxDAIA1AXuP+ZR6NSysdF8YbFi1EkgBmJrDhVVt27Q5UoHlVVnQrfO7TMrOkvPlRrW3q1sOT1XBsGi3G1G02IAvZnK+p8qUVAVp8q+5b1nOvAc53YFNtmUE33ZfqmmH0YeDfeYVG/JIAfBPwFtg==",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#92eb56",
+      "4": "#ee72c3"
+    },
+    "sz": 30
+  }
+}

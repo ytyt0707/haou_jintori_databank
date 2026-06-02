@@ -1,0 +1,56 @@
+{
+  "round_id": 23571,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-10T10:25:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] マンコ",
+      "team": "🇯🇵ONJ",
+      "emoji": "😂",
+      "score": "59.94",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵きゅ] きゅっきゅ",
+      "team": "🇯🇵きゅ",
+      "emoji": "👽",
+      "score": "25.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] ラリーカールトン",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "59.94",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵きゅ",
+      "score": "25.54",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNk0kSRCEIQ+mkuP+Vu8Kk7ffvm43DI4CiRtLbzLAbYQsyzL0cSMCW0tOx1aS0HXZGAiG7USieHDrRqGISOCn8GTkSKyspaqe4ooqeYkzOoPLc1V2Qth+1mffejbp7q2389tipBheNDMsllgetInr4T4o5b9ep5vRtzGSD0btYXylQd2k/mnNxpbrPcDR+TkH2uugDIlrxQhcjTUebx6BXmJYnNkdG6v/hqK9msi9+/guq",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "5": "#30e84d"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 9127,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-24T05:10:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺中立国] 平和主義",
+      "team": "🇷🇺中立国",
+      "emoji": "😀",
+      "score": "5.77",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "🦁",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺中立国",
+      "score": "5.77",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵万華郷",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYBhCgAm/LF5p/HoZmJjBFAu6ODMMYNXFTKQ06XqhEszMzIzYZSEUAzZZqgBGPCYz4rWWgCxeg/HKgs2mANAsrCgEAIY7ALw=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#8744e4",
+      "4": "#2b9cf3"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 5384,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-14T23:53:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐱",
+      "score": "39.11",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] 共感性羞恥心",
+      "team": "猛虎軍",
+      "emoji": "😍",
+      "score": "7.27",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇰🇷北朝鮮] 弾道💩ミサイル",
+      "team": "🇰🇷北朝鮮",
+      "emoji": "😍",
+      "score": "0.08",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "46.38",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷北朝鮮",
+      "score": "0.08",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJx1kVsOBSEIQ2u97H/LN4MiD7Efk0mOrRQBiAiyhkp/JWrqyTGMy8w6dFkLRaTZt6An11wJFDcdw2dChZIKOfkpnLnuy9rc60Ohs+ZdVLoL4+Gd6TmaQgDI73PjQ/mdaKY6lCxQNrypyihDsl0gLTWjJpMXhaWuYRsvvOyDUpfQ37s3BHNffRjzX3CtutAAF0Vwwh9Qx0pdqvgHTZEGmQ==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#882bf3",
+      "4": "#88eb75",
+      "5": "#882bf3"
+    },
+    "sz": 30
+  }
+}

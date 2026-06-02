@@ -1,0 +1,48 @@
+{
+  "round_id": 20212,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-02T18:55:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "🐷",
+      "score": "44.89",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳油一族] 赤の他人💩真央",
+      "team": "🇨🇳油一族",
+      "emoji": "🐶",
+      "score": "0.97",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ローマ",
+      "score": "44.89",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳油一族",
+      "score": "0.97",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGV0lkOwCAIBNBBvP+ZWxYtEiSpPyV5gmCdMy5g+NIA0ebEx7or68q1b6fIlY/UVtEoiIjOc8eeSCwrxhqp1D3wRb3rVg1TV/DKjn+1P9eLX7pSFQMo/wUx6CVqcN6koahFNzW/q6SfKg9Ll5dOaswoz9VXCWY0uQz2rqvKzPVEVnm1Zj3Hxj+RqKocdiQO8oYPoeIIWg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#e85330",
+      "4": "#e230e8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "round_id": 44485,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-25T02:17:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "殺す",
+      "team": "",
+      "emoji": "🤡",
+      "score": "55.69",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[タコピ] ハッピーロケット",
+      "team": "タコピ",
+      "emoji": "⭐",
+      "score": "0.12",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "タコピ",
+      "score": "0.12",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFU1EWwyAIi477n3kvBkGo6/wxJASRWphNLTMztEVKKgAmlBSGbg45SxBNmwbM7T3sJm6SUuFafEUpCLG7MfKsprva2AjpHcdhIQgA4+izibpWJzNmZxklWuQaanIVaeKVi0jitbJmyb4iu4K/3rB+qjG/0oPfxOuN/Ans3LrD1WsFbzm34k3aER9jZDxUEu/qlq9WmVnjKueQrvIvm5LLXwR8ARYWCBQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#e83064"
+    },
+    "sz": 30
+  }
+}

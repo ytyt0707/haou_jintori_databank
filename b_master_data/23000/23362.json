@@ -1,0 +1,57 @@
+{
+  "round_id": 23362,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-09T22:03:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵きゅ] きゅっきゅ",
+      "team": "🇯🇵きゅ",
+      "emoji": "😈",
+      "score": "40.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🤔",
+      "score": "0.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] わがしやのまご",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.38",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵きゅ",
+      "score": "40.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.38",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk1ESxCAIQwHT+195h4gaq531o7Y+Q4JOzQDA1ogws6hBmBu4pS9OGB3w6T4kYxYpfFU8C+M5sGgfd1+OXa2+ErZKL/p4Vt7VVbo1gHTk4WyTNtI99qBpkNqdhoS2EwvNjl5ipYmumdmYmNYm0WLXRWgo/KGoo1iTVoYYZ109jAymDWV36xZ4XIJPquILFesbxQye9GXMGHW3H5R6Sm9a+Tf2luqrC09f1ppQXzyHLtgP1tMIeQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e85e",
+      "4": "#6e4de5",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

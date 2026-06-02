@@ -1,0 +1,56 @@
+{
+  "round_id": 10503,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-01T01:09:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ルーザ] Lose dog",
+      "team": "ルーザ",
+      "emoji": "😎",
+      "score": "29.47",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] パンテオン",
+      "team": "みん²",
+      "emoji": "😀",
+      "score": "3.10",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] チギュアってて草",
+      "team": "みん²",
+      "emoji": "🤔",
+      "score": "0.18",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ルーザ",
+      "score": "29.47",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "3.28",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJytk9sOwCAIQxu6/f8vL94QJiNmWxONemjhReB3nXpi22lYVXtlAVR6BNTgYe60ZLNE90JQ6Whei6iydL6yX1zfsWqLGUsnP9uNwqGl5SKmOPcip5PHFK8pd70x/zR1bt6kygXy7BUJvXlyPDX0U1hdJAQDxw==",
+    "cp": {
+      "2": "#38f587",
+      "3": "#ed755a",
+      "4": "#b1f33f",
+      "5": "#b1f33f"
+    },
+    "sz": 30
+  }
+}

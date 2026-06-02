@@ -1,0 +1,74 @@
+{
+  "round_id": 9069,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-24T02:02:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] 山上徹也",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👻",
+      "score": "49.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "26.13",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "9.82",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ゲスト] パンテオン",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👽",
+      "score": "6.69",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ゲスト] シリケツ",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "0.73",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "82.88",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "9.82",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJx1klkSwzAIQzURFve/cQdjvCXlI2Z4gFW5ZjMACcjUAJBmSiQpv5KcESJp0qjJOBI53OOchYosuLsLJE7odQaeFKOkXBnQTyhmLfOIlOlwyGtitKfkvK2T0BqU3Ea7FtLrtgkX9YJcsOzp23aYhi62R7cbBgvyosKc/aDsb5KbqaO+qN33pg/5Zm+6YDiGW7P4erhTlf7SEvWFx79jw3Zj9KMdNGe2nS1/1bF+TrTWLlo4fHieZ6R7Q5k0aExfODa0akWnV0cPzDCgGsor/AAxRxCb",
+    "cp": {
+      "2": "#48efaf",
+      "3": "#f5dc5b",
+      "4": "#397aea",
+      "5": "#f5dc5b",
+      "6": "#f5dc5b",
+      "7": "#f5dc5b"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 53007,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-14T07:26:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しZF",
+      "team": "",
+      "emoji": "😈",
+      "score": "38.06",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しm7",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳呉軍] 陸遜",
+      "team": "🇨🇳呉軍",
+      "emoji": "😃",
+      "score": "0.77",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "3.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳呉軍",
+      "score": "0.77",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kUkSwzAIBNn0/y+nZoASkp3KLRyMRGvYbEZz3SbbyFR1YhXVfEEqqu4IIE6wFjGoIFavK+tagRPhGy0tEt5SkczMJ+7ulbJdFjJclS01oM8+QLPfA6Iau/pChfSbViQiWPcoGzAhTHoMRBpQRmBTvb7sK2l+zdDyHPdBB5wsJLX9Dw4WoLb3eMEflLh3eEszddGGOSpvwmWRNx2+s8KPcB03fTKue6hu+UAv4n/QmnkOJh9HMQa7",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e86430",
+      "5": "#e83053"
+    },
+    "sz": 30
+  }
+}

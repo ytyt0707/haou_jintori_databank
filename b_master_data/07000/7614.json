@@ -1,0 +1,78 @@
+{
+  "round_id": 7614,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-20T00:29:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇸🇦bot] 陣地あげます",
+      "team": "🇸🇦bot",
+      "emoji": "😈",
+      "score": "24.65",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[負け組] 雑なお魚さん",
+      "team": "負け組",
+      "emoji": "🐶",
+      "score": "13.32",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "💩",
+      "score": "6.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇷🇺暴風軍] 蘇ったチー牛🤡",
+      "team": "🇷🇺暴風軍",
+      "emoji": "👽",
+      "score": "1.25",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇸🇦bot",
+      "score": "24.65",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "負け組",
+      "score": "13.32",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵田中",
+      "score": "6.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇷🇺暴風軍",
+      "score": "1.25",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0FESxCAIA9CskeH+N+5IQdHSbn7q8DbYLuBpR8YAeNO2acWAqup41l1TzbOe7rXqPe2tW+ZVWdsYL4Qv1nnNlj9KvBpAIqoPC/3VKCLj4i9FuVgs/r01in+Sqo/9eGjCV42zozCpxjkwutDZNLUfUNLseD+SnN2V9UdyvslD726upWbeXK013tCWcQWZzoAfOLIjSi2LuABkGgoe",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#6d45f2",
+      "4": "#36e24a",
+      "5": "#efea5d",
+      "7": "#f8825d"
+    },
+    "sz": 30
+  }
+}

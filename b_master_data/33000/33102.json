@@ -1,0 +1,57 @@
+{
+  "round_id": 33102,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-01T16:48:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "レミリア",
+      "team": "",
+      "emoji": "😆",
+      "score": "42.24",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しqc",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "12.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] 名娼満月",
+      "team": "なきち",
+      "emoji": "🟡",
+      "score": "0.12",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "12.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "0.12",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9ktsSxCAIQ+Nu+P9f3gmIQNepD7X1mHDrWmNhL/OFxaJcAAEEMgMWybxAEqCzz8dEQcaF2JhKUcMClmN5SBu++6ksCusro4Z1p9I2HAUo7bC9UQxa4tAO2uKqpljpfIfepZGTt+NIPeGechnjzdks8S3uO4VpHurzTbupMmx4FwtR+Iju1K2H8tT7TXGzzQnKPoY/4ewG45+qKycrF9d5vBW1P+XJKi49pS3u7MPTuXchTVrcPGp70ePcj37exAlU",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83087",
+      "4": "#8B4513",
+      "5": "#ced411"
+    },
+    "sz": 30
+  }
+}

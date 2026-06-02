@@ -1,0 +1,143 @@
+{
+  "round_id": 1112,
+  "game_mode": "TEAM",
+  "player_count": 22,
+  "played_at": "2026-01-05T06:33:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 蓮舫",
+      "team": "猛虎軍",
+      "emoji": "🦄",
+      "score": "13.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[あ] サートルナーリア",
+      "team": "あ",
+      "emoji": "🦁",
+      "score": "12.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 汗明",
+      "team": "楚",
+      "emoji": "🤔",
+      "score": "9.22",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] ツインテメイド服",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "6.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 立浪和義",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "6.44",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] キリン",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "5.97",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "5.90",
+      "kills": 20
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[受験生] 彩喜",
+      "team": "受験生",
+      "emoji": "🐱",
+      "score": "4.32",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[ぷゆゆ] ぷゆゆ🥺",
+      "team": "ぷゆゆ",
+      "emoji": "👽",
+      "score": "3.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🤔",
+      "score": "3.26",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "34.27",
+      "kills": 43
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "16.76",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "あ",
+      "score": "12.52",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "受験生",
+      "score": "4.32",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "ぷゆゆ",
+      "score": "3.99",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN09mOgzAMBVAjE7CFRrbo8v+fOrKzOaF05qqlPBxdJykAsAdAxD4eRMT3A3FvAVgtHIJZPeynQ17XSbp7uINWtzPzB/YGhwChr4mf46jOoqr7ZS5vG/N2HEcGqsW9XhcHRhGRiFSJxr623W3jrUy1NkIihYvzUSAkiChkpUJENDrm7FSIUEStkIieT1tAd7ZVyc7rxDdCnrbG0idSC6Vu2GTeNJX/zQoVWklxpOXW1wmwWhuLiNq3TitnmKfXPmnJlc3R6AIUJRUBsxjqdvDHT8YA5HUithMcnT2jfq1uH5xE5ykbD86fKOHozkJjIZTXg0Pb6ZLI7mfG3Iee51lvp7n5hQtwdr0Pous0uJTSAM+cySVPhIOD0XnGxn6U7iZol6Evw4HVTA7muYMzkPoSP7k09cGNm+feOdtRZJ4bd0laln/BJeRr4fJZfndN/sUq/D63H8DF/QIxGCZ/",
+    "cp": {
+      "1": "#6ef7e2",
+      "3": "#f391d4",
+      "4": "#df8ef1",
+      "5": "#df8ef1",
+      "6": "#7ca2e9",
+      "7": "#ea7257",
+      "8": "#f391d4",
+      "9": "#f391d4",
+      "11": "#df8ef1",
+      "13": "#df8ef1",
+      "15": "#f391d4",
+      "16": "#f391d4",
+      "18": "#c8ed97",
+      "19": "#5f66ec",
+      "20": "#5f66ec",
+      "21": "#5f66ec",
+      "22": "#5f66ec"
+    },
+    "sz": 40
+  }
+}

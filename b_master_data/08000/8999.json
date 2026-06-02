@@ -1,0 +1,122 @@
+{
+  "round_id": 8999,
+  "game_mode": "TEAM",
+  "player_count": 12,
+  "played_at": "2026-01-23T03:51:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] パンテオン",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐱",
+      "score": "38.32",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🐱",
+      "score": "14.65",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🔰] 初心者",
+      "team": "🔰",
+      "emoji": "🤖",
+      "score": "8.54",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "やったか！？",
+      "team": "",
+      "emoji": "🐲",
+      "score": "3.83",
+      "kills": 14
+    },
+    {
+      "rank_position": 5,
+      "player_name": "ティンコゥ",
+      "team": "",
+      "emoji": "🦁",
+      "score": "3.39",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵🇯🇵楚] 血尿",
+      "team": "🇯🇵🇯🇵楚",
+      "emoji": "🐱",
+      "score": "2.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵🇯🇵楚] 千石撫子",
+      "team": "🇯🇵🇯🇵楚",
+      "emoji": "😈",
+      "score": "1.55",
+      "kills": 0
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[ンゴェ] 黙れ小僧✋🥺",
+      "team": "ンゴェ",
+      "emoji": "🤖",
+      "score": "0.66",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "52.98",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🔰",
+      "score": "8.54",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵🇯🇵楚",
+      "score": "4.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ンゴェ",
+      "score": "0.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵万華郷",
+      "score": "0.23",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90QsOhCAMBNDRDh9h73/eDYW6FFwnMWpfWgEBRACIsV8th6WVXHrRYtUy7jhwVKACZ9NypyuQa61NT6AUz8g51xpCCCsvik0b6mRtftTBbdFes2noW/KaVCEiApn3rLek3VAWmQ6ka4oxtyNdVTkljEMxxeib43SL6vIr+KqO199I8uLGn7uV1860qeQ03E0mybgrY2/miF+YVR6UmF5XJW1NO3rdBpO/yVy/yxfVR8AveNTGVvA3al9w7RAY",
+    "cp": {
+      "1": "#b072ee",
+      "2": "#cbf26e",
+      "3": "#6da1ee",
+      "4": "#f467df",
+      "5": "#60f090",
+      "6": "#f467df",
+      "7": "#fa5281",
+      "8": "#4defd7",
+      "9": "#e99d63",
+      "10": "#68f236",
+      "11": "#60f090",
+      "12": "#f2d969"
+    },
+    "sz": 30
+  }
+}

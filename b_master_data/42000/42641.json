@@ -1,0 +1,102 @@
+{
+  "round_id": 42641,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-04-20T11:07:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チ甘] チームは甘え",
+      "team": "チ甘",
+      "emoji": "😈",
+      "score": "32.18",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] アルパッカ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "29.70",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "権兵衛",
+      "team": "",
+      "emoji": "👤",
+      "score": "2.94",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇮🇹大秦国] 凶弾",
+      "team": "🇮🇹大秦国",
+      "emoji": "🦁",
+      "score": "0.29",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵小谷城] 浅井長々",
+      "team": "🇯🇵小谷城",
+      "emoji": "💀",
+      "score": "0.09",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵小谷城] も",
+      "team": "🇯🇵小谷城",
+      "emoji": "😍",
+      "score": "0.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇮🇹大秦国] ネロ帝",
+      "team": "🇮🇹大秦国",
+      "emoji": "🗡️",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チ甘",
+      "score": "32.18",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "29.70",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇮🇹大秦国",
+      "score": "0.29",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵小谷城",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkIEOxCAIQ8EYSf//hy9F2exuZ45kA/NaQM3+i8gwyzTWoawT1n+McI9izEVmdkZhN1caOzV3jxDF5jU3d6VxdzZLt5jjmsv5bmoW73PtfW4uv6/tbtJZriz3fVp5P91KXou0noo5hHIFjpoKHhDg6dqN1T0SQDYhxpSvDrQC6L3fZgM1lIIf4aKUFmXNIO2rzkTLFUmVL8a5v2k1+La2Qu+5oR0UrZ0ojpRtD63f1wHkOVKUL87qA0JbEus=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#30d7e8",
+      "6": "#e83064",
+      "7": "#8B4513",
+      "9": "#d4b611"
+    },
+    "sz": 30
+  }
+}

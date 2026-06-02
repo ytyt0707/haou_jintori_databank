@@ -1,0 +1,64 @@
+{
+  "round_id": 17065,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-19T13:04:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😎",
+      "score": "15.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しNV",
+      "team": "",
+      "emoji": "🦁",
+      "score": "1.40",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵楚] ちk",
+      "team": "🇯🇵楚",
+      "emoji": "🦊",
+      "score": "0.67",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵楚] パンテオン",
+      "team": "🇯🇵楚",
+      "emoji": "🦁",
+      "score": "0.00",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "15.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵楚",
+      "score": "0.67",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy90UkSwCAIBECHgv9/OaXBhUVyi8e0AxJaY27F4ZI/tWDOGRuvWmeDyitB9QMAiPhXYWu/KUZ7ZMbjRBh81V3bqz4rljYa0mwaE2U6mRyzD1Ou2ti4V9uaT9b/GHCtybCzY2ZJ1otQ2kyY7WLdvcqf5wH/WgKk",
+    "cp": {
+      "1": "#3df571",
+      "2": "#e54852",
+      "4": "#b2f462",
+      "5": "#913eea"
+    },
+    "sz": 30
+  }
+}

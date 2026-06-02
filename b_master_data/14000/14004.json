@@ -1,0 +1,80 @@
+{
+  "round_id": 14004,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-12T06:06:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇩🇪ナチス] 故･矢野彩喜",
+      "team": "🇩🇪ナチス",
+      "emoji": "🤖",
+      "score": "47.14",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵みん²] Big Wave",
+      "team": "🇯🇵みん²",
+      "emoji": "🦊",
+      "score": "25.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 爆弾/自認レゼ",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "1.64",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[みん²] 阿呆",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "0.07",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[みん²] 泉サキ",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ナチス",
+      "score": "47.14",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵みん²",
+      "score": "25.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "1.79",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9k0EShTAIQ6k/TO5/YwcoFbG6/Nno8AiItCImighM0kQKXUA8Z9iix6II+kvqiWx0mv3luPIW5Axkk1eKJ5UtzW9fFEa5UtPMLxrSRmuWqCoLRbOqUo3i4XSKqIxmm21jovIPq9WqJfUZS5ZR2kJ9AbnfewULM9b+QiOODeW/KGMw1BO4o8Gllb43kU98HfsNxpaOgdEuTkVT/VaNm+QE1isPtw==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#6a7ff6",
+      "4": "#f8984f",
+      "5": "#6a7ff6",
+      "7": "#34e557"
+    },
+    "sz": 30
+  }
+}

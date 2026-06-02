@@ -1,0 +1,110 @@
+{
+  "round_id": 51667,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-05-11T07:00:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しfn",
+      "team": "",
+      "emoji": "🦊",
+      "score": "35.95",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ミサル] ニャル子",
+      "team": "🇩🇪ミサル",
+      "emoji": "🤠",
+      "score": "16.79",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ミサル] 魚雷",
+      "team": "🇩🇪ミサル",
+      "emoji": "🐟",
+      "score": "16.32",
+      "kills": 15
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.85",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[なきち] ぷんぷん｀＠´",
+      "team": "なきち",
+      "emoji": "🌝",
+      "score": "1.81",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[テスト] テスト",
+      "team": "テスト",
+      "emoji": "💣",
+      "score": "0.08",
+      "kills": 11
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ON] 確殺の誓い",
+      "team": "🇯🇵ON",
+      "emoji": "🕊️",
+      "score": "0.08",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ミサル",
+      "score": "33.11",
+      "kills": 24
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "3.85",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "なきち",
+      "score": "1.81",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ON",
+      "score": "0.08",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "team_name": "テスト",
+      "score": "0.08",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFktFuxTAIQ1nAyuX/f3iyoW3Yqo2HKnDAQBqzYZAZImLE5SDNDAlS5s0M+pmDHiIqYtlb7d4hAyDhobz3hYuNvoRd3PQZalu80U9lMH1rW7auve++d4Dx0GIA1mJp5kl51tZF816kN4E576RoQTZTywDM3UWXFcykHCvY9yeNCNLMQDqtlVs4gn9AJuqALeuZmHNQacuvYjz0kj7oATPdv1xb8ypkd1uWcCgtQYdY70JiXO6kwkX6C6sLaLeFL33KrpFvmRdUfDgjk84xyS/2D63X/VKl0B+UE5qdrZ8nWqdvLG8SNA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30e881",
+      "5": "#30e881",
+      "7": "#d130e8",
+      "8": "#e830a9",
+      "9": "#aad411"
+    },
+    "sz": 30
+  }
+}

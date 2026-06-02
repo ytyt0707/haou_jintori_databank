@@ -1,0 +1,42 @@
+{
+  "round_id": 51401,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-10T16:37:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ボンっ] 名無しiM",
+      "team": "ボンっ",
+      "emoji": "👽",
+      "score": "53.20",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ボンっ] ぐーぼん",
+      "team": "ボンっ",
+      "emoji": "⚽",
+      "score": "40.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ボンっ",
+      "score": "93.30",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkUEShTAIQ7Fw/zM7gY8EWt18Fi2TRwCriHmIiNgvDwXnI2hplT20pMqEKedRsitlpbkpKi8Ab/gv57rRtOHukOaqGXdFU6IB2Two7OTv1BRRa+B1IyA7pIqkTAqDotWBqpqIT6qWLXOKRY/h1iNx8Rv/RV9XwmB/qNNa9Z7wzwWYbl/8CddiPCZ3SIWoW4PmX86y1jjFed85GQvn",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#36e830",
+      "4": "#36e830"
+    },
+    "sz": 30
+  }
+}

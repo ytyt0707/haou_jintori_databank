@@ -1,0 +1,105 @@
+{
+  "round_id": 5040,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-14T05:17:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ぷゆゆ] 安倍晋三",
+      "team": "ぷゆゆ",
+      "emoji": "👽",
+      "score": "22.36",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "20.32",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵チー牛] ぶりりん",
+      "team": "🇯🇵チー牛",
+      "emoji": "🦊",
+      "score": "20.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵チー牛] はじまん",
+      "team": "🇯🇵チー牛",
+      "emoji": "😂",
+      "score": "9.93",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵チー牛] ヘルツネ",
+      "team": "🇯🇵チー牛",
+      "emoji": "🐷",
+      "score": "5.68",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵チー牛] 蓮舫",
+      "team": "🇯🇵チー牛",
+      "emoji": "😈",
+      "score": "4.25",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇺🇸南関東] 深谷知広",
+      "team": "🇺🇸南関東",
+      "emoji": "🐱",
+      "score": "3.37",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵チー牛",
+      "score": "39.86",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ぷゆゆ",
+      "score": "22.36",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "20.32",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇺🇸南関東",
+      "score": "3.37",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90IESAiEIBNAt5JD//+EGBJW0mGYa77l7FIiIQDlPnQU3d9W/mtPaTUXWq8fj91IRyfDXWlVvO4sMb+2etY/h3Aq12eLGYZuO6qGtNBP1nkqH9jFefWZDu9W3gzF5hNdPej0PsIW1CXDXTqoigI5K4AWYUmRVVQFVIwD+5X+vscYgNKKmlGGL7+rN5JeU+dB4LRGxD2qzG0/NOwx03wl2Lhg3PIoDUq13nms7g4v69E2N78Whv4pdGdupbPUBcbMQow==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f5775b",
+      "4": "#f5775b",
+      "5": "#75f03d",
+      "6": "#3ce755",
+      "7": "#f5775b",
+      "8": "#f5775b",
+      "9": "#c141ec"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "round_id": 252,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-03T08:05:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] ちんちん",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "27.16",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "24.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] ハンニバル",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "19.16",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[共産党] うんちまん",
+      "team": "共産党",
+      "emoji": "😀",
+      "score": "9.82",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] キリン",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "9.11",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[関東軍] あ",
+      "team": "関東軍",
+      "emoji": "😂",
+      "score": "1.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[やさ神] さとる神",
+      "team": "やさ神",
+      "emoji": "🐱",
+      "score": "0.77",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "79.50",
+      "kills": 18
+    },
+    {
+      "rank_position": 2,
+      "team_name": "共産党",
+      "score": "9.82",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "関東軍",
+      "score": "1.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "やさ神",
+      "score": "0.77",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl1+GShCAIAGAEl73e/4VvTEFArK7jx810+QWi2SzAJkopu1sa3MOQps6/RM8sGylBNJ60K23aczCRiEK5JaLPh5zlPtpYjamgD/i0yG3EJuOw0Ghiyzav4p5We1U0rcz2xpIm1nJIJCW4BAurJSIYXeZ0xo3mdiTv1uPFEk0bd4b2InS6RUvbmxvouGKPaa7jwCzWQmt51O0pgc72fISl59Vcfe2jSysxrJs7w7xLLquzlFp+Y8tqPTZ2jAeXVr3889LKCPsy2L1zb/2LlMnMxphj4zOMBSbZvTu77/PYAlt7tUa6fUyfa611jvY9i5btozs12N9ebZltqTVYP+W15jnPulryFja2RIso50lOj+NQq3QMR/SvSrBHC8lurDtVcntI9OoHbR+4n3Om9/YbbC3mkzgtpHm7YFtzstEyW31w3OO7JXpgReILa3Z0Mt/FWmw/P8n6vrRNrzUPi3e2xlALi8Xndqn5zvK0gPi+ZkR7yv+l5t6vd3llujzTPrGqseVFOUaWsy6lGugiWr6i3i55vb6z8bwTC/+wj2reWFxpYpcBTWI9V+TSQmIl4qIgeyt5zbRxG6l1v1nmzf1T7Prm9hKP4dDxuDD2SkNfYB/C7uIXbSEsxA==",
+    "cp": {
+      "1": "#dcf971",
+      "2": "#dcf971",
+      "3": "#dcf971",
+      "4": "#35adfd",
+      "5": "#795af6",
+      "6": "#dcf971",
+      "7": "#f371fe",
+      "8": "#35adfd",
+      "9": "#5fe84a"
+    },
+    "sz": 60
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "round_id": 19442,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-01T01:10:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🐲",
+      "score": "47.50",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[LDH] TAKAHIRO",
+      "team": "LDH",
+      "emoji": "🤖",
+      "score": "3.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ち] おじゃる丸",
+      "team": "🇯🇵ち",
+      "emoji": "😀",
+      "score": "2.01",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "47.50",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "LDH",
+      "score": "3.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ち",
+      "score": "2.01",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklkSwzAIQ8Hm/mfusAs7aaf+sZKHBGRC5EdEJOR9KRRZfogOMWiwtbIMrQWfKKVjlepkm8nsqiKnhnqk2czXWWoC76Qa2SHJ4p0HpDebX9BA0TaF6tAYZFQgHcAekPqcXrO33u9U8R+0V9rbooe3aMCZXJTIhjroudNM/k5x42tf+JjMSbF5ZjtFAiNze3uydBIxMaNT9UEL16/UBb/UB0HhBBk=",
+    "cp": {
+      "1": "#f97316",
+      "2": "#994de5",
+      "3": "#e830ba",
+      "4": "#30e84d"
+    },
+    "sz": 30
+  }
+}

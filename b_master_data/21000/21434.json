@@ -1,0 +1,72 @@
+{
+  "round_id": 21434,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-05T13:50:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬき！",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "66.79",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂爬虫類] トカゲ",
+      "team": "🍂爬虫類",
+      "emoji": "😍",
+      "score": "4.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しBF",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.73",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇮🇹パスタ] アラビアータ",
+      "team": "🇮🇹パスタ",
+      "emoji": "😍",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "66.79",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂爬虫類",
+      "score": "4.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇮🇹パスタ",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9k8sWhCAMQ1Mm8P+f7OlTZJDZTRcgvaaVCMA+WmtohnrvnR7QrA4WAMmCH95EsVGXDZtKZ+KomJNXrDHTMeNZeqGE9lLtCv64llMvOVCREyUpoj6/RYiHe/zy1jjin/RQe9zizVdOlGGB3BtSmqWdqhf2M0kmMQdyX0lLl4AihMDcUPhluB5lpyWZHvwOkM+6saO4IBMF9MwtUdolH8vstqEXLt8LWA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#8B4513",
+      "5": "#e83075",
+      "6": "#ced411"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "round_id": 23104,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-09T08:06:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂さぬき] 陣-JIN-",
+      "team": "🍂さぬき",
+      "emoji": "😍",
+      "score": "15.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂商店] 爆弾/自認レゼ",
+      "team": "🍂商店",
+      "emoji": "💩",
+      "score": "13.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無し2N",
+      "team": "🇯🇵ONJ",
+      "emoji": "👽",
+      "score": "12.89",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂さぬき",
+      "score": "15.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂商店",
+      "score": "13.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "12.89",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAFdkkcWACEIQwOR+195XiiWYWH7hqZAmbs7NJiZQYNZI00isgI/2uyhl1iYfMSXZ3iQ8IhxfTOdk2Rs/NBkiVt801KmGl2QqZC8E4dSkKQZgaR+0wTywm5CJFVJOssxB3fp0tRJwC8K9xiudiqJCNUlb+m51nFoH0TRcj4FBobyVCRt26a9l3pYztlTzpGynTWQRe37a12ktVTSqw3vhXyPQ18o19L+xZ3Jn64n+FAc+XVh6Frb+RW76cKmT1V6CYplMU9UYJH6o0IZb7uoXX2E0Z7g1Z6i1aPMZ9qmuX7PB9m2Bss=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e870",
+      "4": "#af30e8",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

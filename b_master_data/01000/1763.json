@@ -1,0 +1,109 @@
+{
+  "round_id": 1763,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-06T18:33:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[阪神] 前川右京",
+      "team": "阪神",
+      "emoji": "🐱",
+      "score": "18.90",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🤖",
+      "score": "16.90",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ナチス] 大日本帝国陸軍",
+      "team": "🇩🇪ナチス",
+      "emoji": "🤔",
+      "score": "10.63",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵倭国] 忍野忍",
+      "team": "🇯🇵倭国",
+      "emoji": "🤠",
+      "score": "0.87",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇩🇪ナチス] ナチス",
+      "team": "🇩🇪ナチス",
+      "emoji": "🤠",
+      "score": "0.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[デカ女] ロゼしか勝たん",
+      "team": "デカ女",
+      "emoji": "👻",
+      "score": "0.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵関東組] 埼玉",
+      "team": "🇯🇵関東組",
+      "emoji": "😎",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "阪神",
+      "score": "18.90",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "16.90",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇩🇪ナチス",
+      "score": "10.70",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵倭国",
+      "score": "0.87",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "デカ女",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0lEOwyAMA1CXNOP+N54oBTKKoxTNP0XiyUojgJZUAp0CQIHra1jLrN+6NGXtZpX0MaYalXOmdcNVhMYO4nrXou/ei2GqumJ9JWYycIcxm7Pg4kAmm9zYYTl6rMF69hyM86HJBSLwfnUBN3pjrDsR32l3VNo/EZHzZNJAGaFOf90TBplJ1PnzkUJP7rj/1GEDUiyLRGG7+gSd28fe7fZ8fC/lrl7zBX4BjCwLCw==",
+    "cp": {
+      "1": "#b650f2",
+      "2": "#b650f2",
+      "3": "#56b3fb",
+      "4": "#f660ba",
+      "5": "#c4ec79",
+      "6": "#68fdd5",
+      "7": "#84fb86"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 56720,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-22T16:11:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵お赤軍] 栄養分析表",
+      "team": "🇯🇵お赤軍",
+      "emoji": "🤖",
+      "score": "17.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "1.73",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵お赤軍",
+      "score": "17.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.73",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdz8sWgCAIBNAZ4P+/uWPI45jZPjdh1wEFdwuxiCMD6aDOo5Ed30yrqnsqGTzs5jQv6BHHxQA01aeSVHrjFTku5qS6id7np6/ZubdXFhEJzeY1RMwemjO22VQMfr/2h5rU4GrplRxvBRHDYW69p57ZJkSy/WrlWWNsC/ywvACmXQKx",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e88730",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

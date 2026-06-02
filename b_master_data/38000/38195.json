@@ -1,0 +1,63 @@
+{
+  "round_id": 38195,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-11T14:05:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] やりらふぃー",
+      "team": "🇯🇵ONJ",
+      "emoji": "🌿",
+      "score": "5.61",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳西遊記] 堺マチャアキ",
+      "team": "🇨🇳西遊記",
+      "emoji": "😃",
+      "score": "2.71",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵自民党] ポケモンBBS",
+      "team": "🇯🇵自民党",
+      "emoji": "🦊",
+      "score": "1.29",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "5.61",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳西遊記",
+      "score": "2.71",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵自民党",
+      "score": "1.29",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klkSBCEIQwPK/a88RQgMPYsfNs0jGCyBXM6Nu9ViujafZS7KjKh5pd2Eq5x0lC4lbFEIt9AE6aP10JH2k5olBwY+tJJGRLSTMp0juzovmGI1+EM1s8bB1s7JztawRfP4lOqTvh403fA2sihnAtpyhFBOQEgPGihhr0CY4qEbRxfCk7enyXbgPVUnHt/2tTqvMK+ah+M8VPwhPDXHN2XmnLqob3yBc86ed9UQ/mt8AfDU5XO0d9NPz5e0ns4oJihaj3iSDJK8tf2kVHOl4y8tvQBLbAPS",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83030",
+      "4": "#30e892",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

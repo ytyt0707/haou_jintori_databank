@@ -1,0 +1,143 @@
+{
+  "round_id": 1060,
+  "game_mode": "TEAM",
+  "player_count": 24,
+  "played_at": "2026-01-05T03:42:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] むほほ",
+      "team": "猛虎軍",
+      "emoji": "👽",
+      "score": "13.03",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ハヤブサ",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "12.94",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] コーヒー",
+      "team": "猛虎軍",
+      "emoji": "😀",
+      "score": "12.82",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "😀",
+      "score": "9.62",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "👻",
+      "score": "9.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[うんち] コータカハシ",
+      "team": "うんち",
+      "emoji": "🐱",
+      "score": "5.28",
+      "kills": 8
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[猛虎軍] ぷいぷい",
+      "team": "猛虎軍",
+      "emoji": "🤖",
+      "score": "4.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[蜀] 劉備",
+      "team": "蜀",
+      "emoji": "🤠",
+      "score": "4.02",
+      "kills": 8
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[鈴木組] のあ",
+      "team": "鈴木組",
+      "emoji": "🤔",
+      "score": "3.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[うんち] 魁うんこ",
+      "team": "うんち",
+      "emoji": "👻",
+      "score": "3.05",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "45.74",
+      "kills": 30
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うんち",
+      "score": "17.95",
+      "kills": 20
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "10.37",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "蜀",
+      "score": "4.02",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "team_name": "鈴木組",
+      "score": "3.67",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJx91IGOwiAMBuAfRkYHCSVnUt//TS8tIHWe98fEqZ9tgSnRCkYi4oi+YETWAEQOxp3HuuAByed8Ghnhm9v0NPd4eMj3etzpPE/v4l8O3Ili9O7h2jo32Z/18IKsfd+hWwfe+nKPca/Ebcwupxfg3nWNT4ttM/MoCFCkaJDoZLIZp3vqWXwshJmyuhDMwW/KdlEd2TthTuSOrRS3ECbqvTNj3AEAnCve9eGAWqEfmSsAvENWaKPU4coixbucM3NmDr3WmspHFkNWWWvXcp+srF1hc6G+8t2xsv4FLjaHSzZeSuUO9eczHDiE3lNWltK9KM3zZs5BHzzYhEuh5O10xppq/XSA7iWE5zok62EYa87pfkNmucAs6mbBpqmLub6Zs4jk13QGF4PeMdNlc2JMRKab98545oygSrLIZNJ+WmtYKVkbW60Jdb5VbjuYg7U0KCnV9nLNOZVyXZeM5DS8Il9PRIDjWjDLSmsCFxE5juPYBXfw5kjhdRxo/zsRVeruEBBfj3CYs+/803c7fHci9k9/iWdYK/aS9nfwPpJ3v6uCOVU=",
+    "cp": {
+      "1": "#7cee6d",
+      "2": "#f54dac",
+      "3": "#4ee4ef",
+      "4": "#86f39e",
+      "6": "#7cee6d",
+      "7": "#7cee6d",
+      "8": "#7cee6d",
+      "9": "#4ee4ef",
+      "10": "#6e77f2",
+      "11": "#6e77f2",
+      "14": "#6e77f2",
+      "15": "#7cee6d",
+      "16": "#7cee6d",
+      "18": "#6e77f2",
+      "19": "#ef8c57",
+      "22": "#7cee6d",
+      "23": "#f54dac"
+    },
+    "sz": 40
+  }
+}

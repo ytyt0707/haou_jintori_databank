@@ -1,0 +1,48 @@
+{
+  "round_id": 58058,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-25T16:32:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] パピルス",
+      "team": "ラー軍",
+      "emoji": "📜",
+      "score": "49.00",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しDk",
+      "team": "🇯🇵ONJ",
+      "emoji": "👽",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "49.00",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9k1sWgCAIRMdo/2vu8FAY5ORHIdcZ0AzIIWVoVsSesaDACFMJCBp3aA4WMg7qSStVeRhHanbuWdkdsLjaavz0ZsjH6d74pd3i7mEL8YQafmysTur9NQrgjcb1xXStgi4KpiyVxeKbrvxErazgVwsuzM7ccN/QSE/1iabDRGXjDt3T6cVCZGs61EM5O+rQ5oeW81MQU4n7OGrV2v8Ywx+vugVl",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e230e8",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

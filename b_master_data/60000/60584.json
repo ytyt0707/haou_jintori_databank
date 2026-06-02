@@ -1,0 +1,63 @@
+{
+  "round_id": 60584,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-31T09:04:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] なきちの魂",
+      "team": "なきち",
+      "emoji": "👻",
+      "score": "0.40",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[新鯖♡] 新鯖♡",
+      "team": "新鯖♡",
+      "emoji": "❤️",
+      "score": "0.12",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[攻め内] 絶対攻めねぇ",
+      "team": "攻め内",
+      "emoji": "🥸",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "0.40",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "新鯖♡",
+      "score": "0.12",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "攻め内",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkMEOgDAIQ7uK///LRmOVsI6zB7kweC2QkQqYECMNRKKGv9S5M53ND8XCm3YT2Mp1t710VRKIU6G65gi7NcmW1kvT0T1N+Z/uB8ZwXfVaiJ5qxufyAYJjANs=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e881",
+      "4": "#d4c811",
+      "5": "#8b4de5"
+    },
+    "sz": 30
+  }
+}

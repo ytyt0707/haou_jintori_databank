@@ -1,0 +1,61 @@
+{
+  "round_id": 5030,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-14T04:45:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇦過疎] みんな飽きてて草",
+      "team": "🇺🇦過疎",
+      "emoji": "😈",
+      "score": "4.81",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "😈",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[まんぜう] ^_^",
+      "team": "まんぜう",
+      "emoji": "🤔",
+      "score": "0.06",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇦過疎",
+      "score": "4.81",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "まんぜう",
+      "score": "0.06",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYCAIWAgroQ9gokCWkPQoGIaAFQzwy4KksShhRQDcWnGZjtdaTPsAc/YA3Q==",
+    "cp": {
+      "2": "#2858f6",
+      "4": "#66d8f5",
+      "5": "#e66f51"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "round_id": 45585,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-27T14:06:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "傍観ハバネロ",
+      "team": "",
+      "emoji": "🌶️",
+      "score": "40.43",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🧠] 🧠",
+      "team": "🧠",
+      "emoji": "🧠",
+      "score": "30.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🧠] ๑",
+      "team": "🧠",
+      "emoji": "🤯",
+      "score": "2.47",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🧠",
+      "score": "33.07",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkAsKxDAIRJ9R73/lRfNp2NhSlh0KBh8zWoGW0lOEbql2CH46VYPSGlBSFUl4S3N27UZEBi6ygwp4vVdSwb3ca3gjvEj2lfxAqeemt699Jnun+9jrqLGq5Iep9bv6OLmH5qVQs5jepaMuigUe3Vl2enkLOltbXV6zrTufk9oDdahp/tVM+nf9vsHL/B9tL9L5ADdHCz8=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#30e8a3",
+      "5": "#c030e8"
+    },
+    "sz": 30
+  }
+}

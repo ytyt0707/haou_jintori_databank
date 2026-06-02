@@ -1,0 +1,92 @@
+{
+  "round_id": 17093,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-19T14:35:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "42.83",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] 正体不明",
+      "team": "猛虎軍",
+      "emoji": "👻",
+      "score": "29.29",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] ⠀SPY",
+      "team": "猛虎軍",
+      "emoji": "🦄",
+      "score": "9.97",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇪チー] チギュアってて草",
+      "team": "🇻🇪チー",
+      "emoji": "🤔",
+      "score": "4.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇻🇪チー] アベベ",
+      "team": "🇻🇪チー",
+      "emoji": "😈",
+      "score": "2.56",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] 陣取り",
+      "team": "猛虎軍",
+      "emoji": "🐲",
+      "score": "1.67",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[猛虎軍] 共感性羞恥心",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "0.59",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "84.35",
+      "kills": 20
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇪チー",
+      "score": "6.63",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx1kgkOhUAIQ5Gt3v/EPzCLjPKbuPFS6BDNUtTLtl4FACjU3uykVdJC1bhCJh0dgsakAoAJ82H/6aoYxTftEuqYSathN1I8VE8XkNdDcVBKQ6ElIma7TQNnuow+0lOlSrEEBJOGzuz3LR+qI0riSUF4VruOzvKl17VebdLR7C1Juk69RIc3jt14c65kvK4zM7OUnZ3tObGUX+XjlcAdVfWg7t3YCOYu4tx7zd3cmdttmHkwFhC2aN9tVX77HQ7U",
+    "cp": {
+      "1": "#deef6b",
+      "2": "#80f655",
+      "3": "#80f655",
+      "4": "#cf4de5",
+      "5": "#cf4de5",
+      "6": "#cf4de5",
+      "7": "#cf4de5",
+      "8": "#cf4de5"
+    },
+    "sz": 30
+  }
+}

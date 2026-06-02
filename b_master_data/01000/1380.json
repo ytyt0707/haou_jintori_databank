@@ -1,0 +1,94 @@
+{
+  "round_id": 1380,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-05T20:57:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[赤軍] さ",
+      "team": "赤軍",
+      "emoji": "🦁",
+      "score": "25.32",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[個人軍] 彩喜",
+      "team": "個人軍",
+      "emoji": "🤖",
+      "score": "16.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[中出し] ツインテメイド服",
+      "team": "中出し",
+      "emoji": "👽",
+      "score": "5.94",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[個人軍] まりも",
+      "team": "個人軍",
+      "emoji": "😈",
+      "score": "3.78",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ぷゆゆ] 死んでこそだ✋",
+      "team": "ぷゆゆ",
+      "emoji": "👽",
+      "score": "0.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[ぷゆゆ] 🥺",
+      "team": "ぷゆゆ",
+      "emoji": "😈",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "赤軍",
+      "score": "25.32",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "個人軍",
+      "score": "20.33",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "中出し",
+      "score": "5.94",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ぷゆゆ",
+      "score": "0.82",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0usOgCAIBeADjHz/N27OmhBUdtvih836hgECpyFSVyJqW3IBcdEcxcicB8vznpPszCtOvnI4dNt091zfQGKjzdc2wHWsWaOZmeIFsI6ryZiqGsdrhPukBuKHDqaO5U2CqsPW5Szme+J8m5+7C+f2gl9yOur0B67UZTqvo5T9fK7ekkrN5pFI2+ZeR/w/KMbuKcZdjxmNOQhN",
+    "cp": {
+      "1": "#d5ed9b",
+      "2": "#d5ed9b",
+      "3": "#ed9bbc",
+      "5": "#f33cf6",
+      "6": "#72f8be",
+      "7": "#72f8be"
+    },
+    "sz": 40
+  }
+}

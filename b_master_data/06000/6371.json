@@ -1,0 +1,44 @@
+{
+  "round_id": 6371,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-01-17T05:15:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "爆弾/自認レゼ",
+      "team": "",
+      "emoji": "😂",
+      "score": "31.45",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "🩵",
+      "team": "",
+      "emoji": "🤖",
+      "score": "31.24",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "カミカゼ",
+      "team": "",
+      "emoji": "😍",
+      "score": "0.25",
+      "kills": 3
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJy1kIEKgDAIRK9p///LMWKm5q0x6EAQnycqAEB7mBClTHOqgzZOgVZSs5bjvwcnW76tMDlKr1qkued+L/3pi2EYjt5XYT8mWhj9UyIiPheXmmIlwbJCtdx6brKdPeZLlfR51gU9Jwfb",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#4df953",
+      "4": "#f3ed44",
+      "5": "#ed31ae"
+    },
+    "sz": 30
+  }
+}

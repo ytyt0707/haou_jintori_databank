@@ -1,0 +1,81 @@
+{
+  "round_id": 8164,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-21T06:14:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "35.26",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 妹欲しい(´；ω",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "33.86",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] ハ",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "15.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇳😪] 爆弾/自認レゼ",
+      "team": "🇨🇳😪",
+      "emoji": "👻",
+      "score": "3.14",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵うゆ軍] 地球人chつべ",
+      "team": "🇯🇵うゆ軍",
+      "emoji": "👻",
+      "score": "0.24",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "84.75",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳😪",
+      "score": "3.14",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵うゆ軍",
+      "score": "0.24",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0kkWwyAMA1BROej+N+7DxkxNsikrwrfM8AJAkmyMUsqYI3DXcqrMoqLWWmdpRy9QZ0NqWx7x9u1ZtLFn5cXRufOq6pphPGiDn6xMsjz0uW/P399oOfmjCq/6RxabDuZN60SSOXlXZsEn1dfmdFUyNPxVl86+r5FHdDCWZOOcTWXGdaqZLxpx19ksLkLEH3gy8/Wk8z0y4X9y4LUcKnS+rC7Nvm07QFiGGwka8AV65xAv",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#49c9f3",
+      "4": "#49c9f3",
+      "5": "#e54d7a",
+      "6": "#db63ee",
+      "7": "#49c9f3"
+    },
+    "sz": 30
+  }
+}

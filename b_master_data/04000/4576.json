@@ -1,0 +1,109 @@
+{
+  "round_id": 4576,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-13T04:12:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] まままま",
+      "team": "みん²",
+      "emoji": "🐷",
+      "score": "27.00",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "16.85",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵さとる] やの",
+      "team": "🇯🇵さとる",
+      "emoji": "🐱",
+      "score": "3.98",
+      "kills": 12
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🐲",
+      "score": "3.28",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[みん²] 神",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "3.11",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇷🇺ソ連] ウホカイジ",
+      "team": "🇷🇺ソ連",
+      "emoji": "🦄",
+      "score": "0.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[北朝鮮] 弾道💩ミサイル",
+      "team": "北朝鮮",
+      "emoji": "🐲",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "46.96",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵さとる",
+      "score": "3.98",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "3.28",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇷🇺ソ連",
+      "score": "0.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "北朝鮮",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90gsOxCAIBFDWMEHvf+GNA1q0WhLTzxMitCJSpK9SeOPRmgDAeCwMF19I7GpmkSto7+TgxtjVRvLgoUbyCDV7NIdgUS9qYw8AIpXNsuLEuM4BpNqu+cxJgVpxy609DqpZu59y6dr5eCpP1g+tl8oGaj0pP6uFtj0VwTa/lweesJhkNhH9TV+m4ftU+T5wmRVVNam9VdNfsKozLuqIS+Wnrd637JibBnbVT801+pD/M6oMvg==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#f2ef3a",
+      "5": "#f2ef3a",
+      "7": "#f2ef3a",
+      "8": "#f750b4",
+      "9": "#a530e8"
+    },
+    "sz": 30
+  }
+}

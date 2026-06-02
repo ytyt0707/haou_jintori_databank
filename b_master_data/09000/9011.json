@@ -1,0 +1,81 @@
+{
+  "round_id": 9011,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-23T04:30:39.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 女殺し",
+      "team": "🇯🇵阪神",
+      "emoji": "😎",
+      "score": "16.75",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] OMNK",
+      "team": "🇯🇵阪神",
+      "emoji": "🤔",
+      "score": "10.58",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "🦁",
+      "score": "10.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "🦁",
+      "score": "6.41",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[ンゴェ] 黙れ小僧✋🥺",
+      "team": "ンゴェ",
+      "emoji": "🦄",
+      "score": "2.46",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "27.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵神撫子",
+      "score": "6.41",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ンゴェ",
+      "score": "2.46",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0VESwyAIBNC1oNz/xp1AQFeTTvfLyRNEg1bBlVx/PGhrgn0bKTKxGhfhRUcE1C0yKqhRXpV7D1K+0VRjbaRmjOk3GjZdi3+qmbc+OudMXpwgItKE1ErlztJ46kTYokepWeGjztQjpxqp1lVOxa6yWqkCvZPGu6mqNtUsZtU7AB5q/9Te/eBdY0MP9RvJnDlTimggONi/iFj+Ed+Ahzh+AblYCbY=",
+    "cp": {
+      "1": "#b072ee",
+      "2": "#cbf26e",
+      "3": "#ed2cdd",
+      "4": "#39efa3",
+      "5": "#f0c256",
+      "6": "#58ec41",
+      "7": "#58ec41"
+    },
+    "sz": 30
+  }
+}

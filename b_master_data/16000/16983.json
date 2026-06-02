@@ -1,0 +1,80 @@
+{
+  "round_id": 16983,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-19T08:38:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤠",
+      "score": "37.73",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵YY勢] 爆弾/自認レゼ",
+      "team": "🇯🇵YY勢",
+      "emoji": "😍",
+      "score": "6.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "🐲",
+      "score": "6.39",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵YY勢] イスラム教徒",
+      "team": "🇯🇵YY勢",
+      "emoji": "🐶",
+      "score": "5.49",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇮🇹視] シャク",
+      "team": "🇮🇹視",
+      "emoji": "💩",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "37.73",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵YY勢",
+      "score": "18.45",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇮🇹視",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0UEOxCAIBdDvfOD+R25UWihqN8PChLyAgoCqIoeI2JOoRzIRAGZmoYNthIiQQ/WkJLNquniokAedxfhCYo9ComudyLV29ulvHW61cy6dit08pO3eDExbNwmgIZZWtLU2dTIUVUfcWlbp6D+oWm5u0R2vWu3pWXt862u8yIN+sZmv0kexzJa0dEHmfpxV/ec3ikgW+icuP9AJfw==",
+    "cp": {
+      "1": "#5ff1be",
+      "2": "#b6ef6c",
+      "3": "#ecc674",
+      "4": "#ecc674",
+      "5": "#ed2cd0",
+      "6": "#ecc674"
+    },
+    "sz": 30
+  }
+}

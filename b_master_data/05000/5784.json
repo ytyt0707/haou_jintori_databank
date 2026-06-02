@@ -1,0 +1,63 @@
+{
+  "round_id": 5784,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-15T21:31:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "26.37",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ナチス] 避けろカス",
+      "team": "🇩🇪ナチス",
+      "emoji": "🐲",
+      "score": "1.80",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵幻魔帝] 万華武者",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "🤖",
+      "score": "1.77",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "26.37",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "1.80",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵幻魔帝",
+      "score": "1.77",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJzFkEsSwCAIQ4OR+1+5U+0PBex00yxc5CWIAqlqrWROQ7yi/NgtIOPuO+onVhQ+LU2AadMGntAZz4AOY8duybre5OE9v9BptdvR029nT9xQdefH3zbfQr2c+b5OQ3VK0OuadSWjAEQkikTaABKXA3E=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#6a25f4",
+      "4": "#e7fa5c",
+      "5": "#f74074"
+    },
+    "sz": 30
+  }
+}

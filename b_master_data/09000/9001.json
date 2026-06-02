@@ -1,0 +1,110 @@
+{
+  "round_id": 9001,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-23T03:58:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新撰組] 近藤勇",
+      "team": "新撰組",
+      "emoji": "🐲",
+      "score": "33.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵🇯🇵楚] 千石撫子",
+      "team": "🇯🇵🇯🇵楚",
+      "emoji": "😈",
+      "score": "5.27",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵🇯🇵楚] 名無し774",
+      "team": "🇯🇵🇯🇵楚",
+      "emoji": "🐲",
+      "score": "1.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵🇯🇵楚] 血尿",
+      "team": "🇯🇵🇯🇵楚",
+      "emoji": "🐱",
+      "score": "1.21",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "👽",
+      "score": "0.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🔰] 初心者",
+      "team": "🔰",
+      "emoji": "🤖",
+      "score": "0.06",
+      "kills": 14
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "💩",
+      "score": "0.06",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新撰組",
+      "score": "33.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵🇯🇵楚",
+      "score": "8.08",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵万華郷",
+      "score": "0.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🔰",
+      "score": "0.06",
+      "kills": 14
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.06",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0NsSwyAIBFDiBmf5/x/u5EJSMJo24c05sgoiIpRRDZVv9HErf9SrW67kVQpj/a3S0ZJ7A5cAjQppvebSJr/R4bw3On0F995FmFfMrNFybGM2A7ArfBmebKtqiuahAAQ1fto3vCpQK9AOhL0WRVZV1VNP93d1u5B6c9Vw/ABVWQqm",
+    "cp": {
+      "1": "#b072ee",
+      "2": "#cbf26e",
+      "3": "#2e8cea",
+      "4": "#e75575",
+      "5": "#2e8cea",
+      "6": "#f1a44b",
+      "8": "#67f551",
+      "9": "#2e8cea"
+    },
+    "sz": 30
+  }
+}

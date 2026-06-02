@@ -1,0 +1,55 @@
+{
+  "round_id": 17563,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-23T17:10:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しgx",
+      "team": "",
+      "emoji": "🤖",
+      "score": "27.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😈",
+      "score": "11.16",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇬🇧く] んに",
+      "team": "🇬🇧く",
+      "emoji": "💩",
+      "score": "8.93",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "11.16",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧く",
+      "score": "8.93",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0FEKwCAMA9CQ9v5nHqK1OjRz5kOEZ1oQVgJrwRx7RzPcVdk9PTujhtdN/TQ09UHRn5S9Pg6PHXFZKmbd8YnqyXeKO2XNWpm8rxYlucMWiZRIiZSo9bSqu//36vLnTz1HmwRp",
+    "cp": {
+      "2": "#f25496",
+      "3": "#ef2ee6",
+      "4": "#3a7fee"
+    },
+    "sz": 30
+  }
+}

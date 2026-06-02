@@ -1,0 +1,54 @@
+{
+  "round_id": 9169,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-24T07:26:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇩🇪楚] アベベ",
+      "team": "🇩🇪楚",
+      "emoji": "🐲",
+      "score": "23.69",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵YY勢] 苦",
+      "team": "🇯🇵YY勢",
+      "emoji": "😍",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪楚",
+      "score": "23.69",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵YY勢",
+      "score": "0.09",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳チー牛",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJzd0FEOgDAIA1Ak9v5XNhs6YEITf21MjL7V4USK6JP5hF3HtdSWAHCdX/AqENiWGGNl2z0jMvKqUkz6/uegxYn0XZu5mlj91nal6YaM1z3zctbzSxcH1cB0W6505AIH30fyk1xSZwSM",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "4": "#d3ec46",
+      "5": "#f740b4"
+    },
+    "sz": 30
+  }
+}

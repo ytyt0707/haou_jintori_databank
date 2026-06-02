@@ -1,0 +1,72 @@
+{
+  "round_id": 60276,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-30T16:26:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬぴ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "29.41",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[九三軍] かう",
+      "team": "九三軍",
+      "emoji": "🤔",
+      "score": "5.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[夏休み] 日向夏",
+      "team": "夏休み",
+      "emoji": "🤠",
+      "score": "2.22",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[九三軍] 大麻",
+      "team": "九三軍",
+      "emoji": "🌱",
+      "score": "0.44",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "29.41",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "九三軍",
+      "score": "5.45",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "夏休み",
+      "score": "2.22",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklEOBCEIQwsD3v/IG8QC7mST5Qfjo4WIYhUyQjOKmSUE5CBVLSqHiioKbypWLAxQOGl3RMStTdPd+YLsK2ZiBtnSVvdUQRm0LjqE1AJNrWzZ+6JYi84cu7QOrEWuiVvsPmmOVX3dt/hYn5lJPWgZ78eCatJgv52Tuq/lzoeIPLVZ86bm/jzAxpOeLTx75N4cS+o1zOyL+vg5sSFKKreWmyk0f93LOKpaOzU8NzVejfw3HWJOP7SD0pwrjCredf4AlfkIyA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30d7e8",
+      "4": "#8B4513",
+      "5": "#30d7e8",
+      "6": "#d4c811"
+    },
+    "sz": 30
+  }
+}

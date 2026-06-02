@@ -1,0 +1,48 @@
+{
+  "round_id": 13586,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-11T07:30:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "😍",
+      "score": "84.27",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵🌊] Big Wave",
+      "team": "🇯🇵🌊",
+      "emoji": "🐶",
+      "score": "0.61",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "84.27",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵🌊",
+      "score": "0.61",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9k9sOwCAIQwvl/7952cXpQjWby8aLIacVogDI4BbHQTNjjqLSmisde59RvqV9xbd1+3CGurvPUvqNun++BnIScebispUi02INacX+/WXA66C35roBilJTtDR3NVwyLFS+CP8=",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#686fed",
+      "4": "#46f726"
+    },
+    "sz": 30
+  }
+}

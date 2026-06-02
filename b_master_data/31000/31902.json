@@ -1,0 +1,66 @@
+{
+  "round_id": 31902,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-29T23:23:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] イスラム教徒",
+      "team": "神撫子",
+      "emoji": "😴",
+      "score": "40.32",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🙂",
+      "score": "10.88",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] MI",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.35",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] タコ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.30",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "51.20",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "1.65",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdktsOgzAMQ1OI+/+fPNlOoGMVD6umUnrs3BgAzDmjFh4rReecCaRYLIrUmjPTbEGwzoq/aFl/vcrSdI/fKeLiO3sYo0RrUzwHAbidp6cmxSgdXSA+zzHGiOBvPCnRCBEe5A0gIwFeM3AaxzVxRS5IGgpReZkTDeVXlKKKYb1MlaOoC1AzLusrMl/giOzk4NY1q1qr3c1xHJJ23m6GweW7a/bwei9Is70N/DTm+aJVEu82dLV3y1H/Ss93VehcNfMD7NY7Lroz9p2H1W/38wNurglQ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e830ba",
+      "5": "#e830ba",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}

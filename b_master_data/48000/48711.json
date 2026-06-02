@@ -1,0 +1,81 @@
+{
+  "round_id": 48711,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-04T15:11:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "68.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸宣教師] ルイス・フロイス",
+      "team": "🇪🇸宣教師",
+      "emoji": "😆",
+      "score": "5.56",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇪🇸宣教師] ニャル子",
+      "team": "🇪🇸宣教師",
+      "emoji": "😎",
+      "score": "4.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] も",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "0.06",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "68.22",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸宣教師",
+      "score": "10.40",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ヴォル",
+      "score": "0.06",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkksOwzAIRDHQzv1v3A6fGldVpOzKIlg8ZmISRBgKqEIzojIeZAdFBlvypJFUdZcg4tVXPQFLgM5r4Uk+lWi61gptv6b8hrYqMzWdtX2+RR9bx9Mt7Sn9W+3VTJdMxN3968/U0NwC0lyA6BleH+oCjIWpDxxaM3czswOHezgTMYjTuf353oI/xLimQxzObZpjibuVd9ID58D7VqeBiPA6feXSR3ov1gulpBJG",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d64e5",
+      "4": "#4d64e5",
+      "5": "#9ca3af",
+      "6": "#36e830",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

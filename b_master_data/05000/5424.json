@@ -1,0 +1,80 @@
+{
+  "round_id": 5424,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-15T02:03:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "😀",
+      "score": "20.20",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵うんこ] 安倍晋三",
+      "team": "🇯🇵うんこ",
+      "emoji": "👻",
+      "score": "3.79",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵やんj] wonj",
+      "team": "🇯🇵やんj",
+      "emoji": "🦄",
+      "score": "2.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] カミカゼ",
+      "team": "猛虎軍",
+      "emoji": "🦁",
+      "score": "0.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "歯周病卍",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.00",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "20.29",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵うんこ",
+      "score": "3.79",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵やんj",
+      "score": "2.45",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9z90OgCAIBeAjE3r/N24ppQlYbq0zr/z4UaAl13Q34DPgbJi7qAXK96mjnpciIla5SlPoi1Tlijd6wHFxJ6PCpCzd4COmrZZlofnlaM9UybeidCiFFURECLXVPJQsJ/jOD0lpquV8mB22GgTq",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#e44ff8",
+      "5": "#d7f250",
+      "6": "#5ef761",
+      "7": "#d7f250"
+    },
+    "sz": 30
+  }
+}

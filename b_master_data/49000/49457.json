@@ -1,0 +1,80 @@
+{
+  "round_id": 49457,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-06T07:30:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[魚] 岩井",
+      "team": "魚",
+      "emoji": "🤠",
+      "score": "84.30",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[魚] あかさたなはまや",
+      "team": "魚",
+      "emoji": "🍏",
+      "score": "3.01",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ボリビアSGI",
+      "team": "",
+      "emoji": "🐶",
+      "score": "0.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] チー太郎",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] おれ",
+      "team": "🇯🇵ONJ",
+      "emoji": "😃",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "魚",
+      "score": "87.31",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkVESgCAIRAmi+x+5USFAkabJH5XHLpsxsF/Vzfe1M8TmCTvqjr3pDNrExQR2MvtWG6JE+poqc1TvioXMXRCnf9PqxLH/0cpTREO7xZBWl8HMONfanxWKiBk2bUlXYyJ6tCtlEr7JXFPN3H1lzDIDxktrjInDWBpjTxN7p32+shkczHwJdJvzBrgBJy4PZw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#c030e8",
+      "4": "#e83042",
+      "5": "#c030e8",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}

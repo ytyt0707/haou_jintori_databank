@@ -1,0 +1,105 @@
+{
+  "round_id": 34404,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-04-06T11:39:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "😎",
+      "score": "20.59",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ヴォル] デモード",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🤖",
+      "score": "15.14",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] ぷゆゆパン🥺",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "11.83",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[なきち] なきこを犯す者",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "4.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 梅",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[なきち] なきこを喰らう者",
+      "team": "なきち",
+      "emoji": "🐻",
+      "score": "0.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇬🇧代行者] シエル",
+      "team": "🇬🇧代行者",
+      "emoji": "🌙",
+      "score": "0.08",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ヴォル",
+      "score": "35.73",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "13.39",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "なきち",
+      "score": "4.82",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇬🇧代行者",
+      "score": "0.08",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkeEOAyEIg+vcYLn3f+ClQFW2XDL/6Pm1hRMAMDMDMAZ8reu6ipCajbGQu18dD08qf6PQ7QpgdKaybF0/dDioAa/EkoGrvIZXLt6FLKgwCt/RjR3uaYVNhvPjHdmZXBBzTnFSJQNhJyVGVg6Tukd40y1rdU2dhTfwQVXWhKdZFBWInQ2XfTawaPH4ra7Il8zGf80HpeSwPtcUVLlzzeiOxowOeGaX928Kvu3qLd7/8GJiw1Q1+t13zYmallsFtpfCVVWHhXtTG+vU9g9NYwnp",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#30d7e8",
+      "5": "#e84230",
+      "6": "#30e8a3",
+      "7": "#8B4513",
+      "8": "#e84230",
+      "10": "#8B4513"
+    },
+    "sz": 30
+  }
+}

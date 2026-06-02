@@ -1,0 +1,87 @@
+{
+  "round_id": 31246,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-28T11:38:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[亡き地] 亡き子",
+      "team": "亡き地",
+      "emoji": "👻",
+      "score": "56.79",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "よくない",
+      "team": "",
+      "emoji": "😖",
+      "score": "4.99",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うさぎ] よし",
+      "team": "うさぎ",
+      "emoji": "🤪",
+      "score": "2.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇮🇹大秦国] ネロ帝",
+      "team": "🇮🇹大秦国",
+      "emoji": "🗡️",
+      "score": "0.38",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵エロ] 名無しSex",
+      "team": "🇯🇵エロ",
+      "emoji": "👽",
+      "score": "0.10",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "亡き地",
+      "score": "56.79",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うさぎ",
+      "score": "2.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇮🇹大秦国",
+      "score": "0.38",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵エロ",
+      "score": "0.10",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kksSAyEIRBvsOPe/cQqBiJ8ssomLYYpHt6gA96VQVQXPZXl9vlE6fqb2NS1aG9TUp3Nrif9KQSLaUuBsiwnXrqLQzzO+p7TA87wV/kB9lyqe+37+Cv7k8hUwHjYqdoqFpiSjTcq0zmzEMUa99+4VF6pGnW+UJBBU1ntOd6em3nsu4jsl6WqR1GZ0952u3RkVMe2qyqqOQW+jY60ZFLucrC82oXwDzvcLJg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3081e8",
+      "4": "#e83098",
+      "5": "#6e4de5",
+      "6": "#30e881",
+      "7": "#bcd411"
+    },
+    "sz": 30
+  }
+}

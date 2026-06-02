@@ -1,0 +1,77 @@
+{
+  "round_id": 8991,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-23T03:25:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇰🇷エバ国] 安倍晋三",
+      "team": "🇰🇷エバ国",
+      "emoji": "🦄",
+      "score": "77.50",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸CIA] パンテオン",
+      "team": "🇺🇸CIA",
+      "emoji": "👻",
+      "score": "10.69",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵🇯🇵楚] やったか！？",
+      "team": "🇯🇵🇯🇵楚",
+      "emoji": "💩",
+      "score": "0.07",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "🦁",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷エバ国",
+      "score": "77.50",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸CIA",
+      "score": "10.69",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵神撫子",
+      "score": "0.07",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵🇯🇵楚",
+      "score": "0.07",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJydkVEOwCAIQ0Ey7n/kBZ0ZSiFu/dHwKGolclIdKzP3ndJKHxk2zcoCjfYGX3NiXbyYJqq9ekDdpVBfSWvvKUWxEOhD1Oma5STmaBaVlIopozJoco5IMLe2UzD8A/2DD6kSeNfrpJiun4oisZjrLwm6AUMVEdE=",
+    "cp": {
+      "1": "#b072ee",
+      "2": "#cbf26e",
+      "3": "#ecb641",
+      "5": "#5578f6",
+      "6": "#66e4eb"
+    },
+    "sz": 30
+  }
+}

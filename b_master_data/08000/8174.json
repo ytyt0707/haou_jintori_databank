@@ -1,0 +1,48 @@
+{
+  "round_id": 8174,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-21T06:46:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] いただきマウス",
+      "team": "🇯🇵阪神",
+      "emoji": "👽",
+      "score": "58.18",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳大清国] パン松",
+      "team": "🇨🇳大清国",
+      "emoji": "🤖",
+      "score": "1.19",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "58.18",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳大清国",
+      "score": "1.19",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0lEOgCAMA9Bt9P5nNm6gDlbUfmjiS1lABABkiar6G1KxarRQlPXs3rpwrdozliy717z/CoCtjDtpR5jz1AXH53dd8aEMS/mkjVEoYy83xl5Gox5nlVTS6Z/PSSXrNM/vYpxSidXvjJiZ7dWImrGL4orNXBOSvsOUA6ARCGc=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ea4af2",
+      "4": "#b4ee5d"
+    },
+    "sz": 30
+  }
+}

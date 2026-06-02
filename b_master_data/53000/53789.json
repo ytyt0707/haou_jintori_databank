@@ -1,0 +1,48 @@
+{
+  "round_id": 53789,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-16T01:42:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[夏到来] 名無しv8",
+      "team": "夏到来",
+      "emoji": "🐶",
+      "score": "12.80",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵jap] 蘇ったチー牛",
+      "team": "🇯🇵jap",
+      "emoji": "🤓",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "夏到来",
+      "score": "12.80",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵jap",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkEsSgDAIQ0Pp/c/slE8AFy4cl7KwSV4Bp8DnpQD2rrHHR6lVOjsVyR2m80uq4QOGFdITkDkVEeMtdnmaEkJ7G9fE4M581fxy9IzpgtPfhfERrrVWBfwfRp3yxUgxuitONbozrLNtrpDqmfLaL96+wAXRkQGA",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e88730",
+      "4": "#6ae830"
+    },
+    "sz": 30
+  }
+}

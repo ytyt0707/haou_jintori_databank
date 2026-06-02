@@ -1,0 +1,79 @@
+{
+  "round_id": 841,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-04T15:53:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[大東亜] wad...",
+      "team": "大東亜",
+      "emoji": "🐶",
+      "score": "36.47",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "コーヒー",
+      "team": "",
+      "emoji": "🤠",
+      "score": "10.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[舞散葉] キング",
+      "team": "舞散葉",
+      "emoji": "😈",
+      "score": "8.19",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "演出追加",
+      "team": "",
+      "emoji": "🤖",
+      "score": "1.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ソ連] 梨",
+      "team": "ソ連",
+      "emoji": "🤖",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "大東亜",
+      "score": "36.47",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "舞散葉",
+      "score": "8.19",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ソ連",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF04EOhCAIBuCf//D9X/lWmYmAZ6vtWFulXwzFAAAi+Bli4hpXrTeN3Im1j8yJ6oIrJWKjK+Vdty3DmcjBrHbVkb0DQBEhz51O8u0PPMK4vm+ozaKHYaNpIHiVFqE6bT5JHPvXXFnHNNl+jXUMbMzcp3NTsVtC6+l82c/Ke8dhqb5Zz1rXDPp4h8hFZ+CeG1l0NmbuWHcbcsz+Pm2rcsf/uzDiRk35LL6kDgdW",
+    "cp": {
+      "1": "#80cdfa",
+      "2": "#66e5bd",
+      "3": "#f542f5",
+      "4": "#7853fd",
+      "5": "#a3fb74"
+    },
+    "sz": 40
+  }
+}

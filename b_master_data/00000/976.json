@@ -1,0 +1,88 @@
+{
+  "round_id": 976,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-04T23:10:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんこ] 阿部慎之助",
+      "team": "うんこ",
+      "emoji": "😂",
+      "score": "27.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤔",
+      "score": "18.76",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 荒らし",
+      "team": "みん²",
+      "emoji": "😈",
+      "score": "16.34",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[うんこ] 鳩山由紀夫",
+      "team": "うんこ",
+      "emoji": "🤠",
+      "score": "4.53",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "(´･ω･｀)",
+      "team": "",
+      "emoji": "🦄",
+      "score": "2.78",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🤖",
+      "score": "0.81",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "35.10",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うんこ",
+      "score": "31.74",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "0.81",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd01ESwyAIBNBV1PsfuQMasqC2M+XHRN8AxRT4K5pH2JzLOmbFdD3a0o4BoPf+ui2Tw+7uImYo47q3dG2l+5owTICeTgo+i8xGYoj9PfMZP53GSGUF+Q5s42UNuT8+aTT5dOMgpunG5cuglrTsMFcrw1qTa61VUxq2rJfInt0QItN5f0JnwUlyQgc5YfW68pwntrJjzJAD4MrkLqGFdLYzcCoqBwcoSj8hO9gteDJeJTjA76GKcBO7e9sWu2CblMiCR6eDEI7N+X50cnESXCnmsJVVyKwIfY+sJGQrpXxxWE3ubmMG7/lo8+z8NjlOzj6GnSHA1aP+nXK67LwthtbLB3D4Deo=",
+    "cp": {
+      "1": "#7aeb6f",
+      "2": "#82e5f3",
+      "3": "#82e5f3",
+      "4": "#604efd",
+      "5": "#db99f0",
+      "6": "#604efd"
+    },
+    "sz": 40
+  }
+}

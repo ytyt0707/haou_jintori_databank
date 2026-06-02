@@ -1,0 +1,74 @@
+{
+  "round_id": 17408,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-20T05:20:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 浅井長々",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "43.88",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 名無しIG",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "26.02",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] さとるの受精卵",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "16.64",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] ぷゆゆ🥺",
+      "team": "みん²",
+      "emoji": "😍",
+      "score": "1.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤠",
+      "score": "0.48",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "86.54",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "1.49",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0lcOxCAMBNBhYrj/kVeE4kZYf0U8N0EAiIjUGOzxUkKuOCmd8tg2qJDMtZrFSqfwOqpVH9HdllbVh621pmrjrm+03RlHF5FL9RdKVJNS5zm29kvnutrxSBvji0Bi9EP8UxpF4Dk3lZrB9I3HinU5Sp67/0KgZFjfQCmx0mBSQA2xs6v87jxr88qOb1vtlJQ14Ad9ywty",
+    "cp": {
+      "1": "#3289ec",
+      "2": "#55e7aa",
+      "3": "#b8ed73",
+      "4": "#55e7aa",
+      "5": "#55e7aa",
+      "6": "#b8ed73"
+    },
+    "sz": 30
+  }
+}

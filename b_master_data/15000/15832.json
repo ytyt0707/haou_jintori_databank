@@ -1,0 +1,56 @@
+{
+  "round_id": 15832,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-16T18:14:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ローマ] 大カトー",
+      "team": "ローマ",
+      "emoji": "😎",
+      "score": "65.74",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ローマ] 爆弾/自認レゼ",
+      "team": "ローマ",
+      "emoji": "🐱",
+      "score": "22.08",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🤠",
+      "score": "0.16",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ローマ",
+      "score": "87.82",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "0.16",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl00ESxSAIA9A09P5n/jMiNP5GN2VT9QlWRwEgRkCDnI3okDZpvDFKs3/f/7hwVZfS9IUn0lvnOkH/9SZ1pzyq5AZ6ruGu5c6LupCpvI+zfkreKAqJw3Y5NnRdB6XfcalffQznJeArKU8SVGfNnkPQTuDh3JxOzlcgCy1aHKtCWHF9W3L7x+cHXPUIpA==",
+    "cp": {
+      "1": "#6babf5",
+      "2": "#b0f070",
+      "3": "#b0f070",
+      "4": "#51e9ec"
+    },
+    "sz": 30
+  }
+}

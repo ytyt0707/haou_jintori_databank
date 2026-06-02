@@ -1,0 +1,71 @@
+{
+  "round_id": 7120,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-18T21:46:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "🦄",
+      "score": "22.65",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[妹] 妹欲しい(´；ω",
+      "team": "妹",
+      "emoji": "🐷",
+      "score": "14.17",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵温蛸] たこ焼き器",
+      "team": "🇯🇵温蛸",
+      "emoji": "🐷",
+      "score": "2.59",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[チー牛] チギュりパン",
+      "team": "チー牛",
+      "emoji": "👻",
+      "score": "0.08",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "妹",
+      "score": "14.17",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵温蛸",
+      "score": "2.59",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チー牛",
+      "score": "0.08",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0lEOhCAMBNBhG+b+R960oBQYiPOBJo9WQECi5efBHHoGK3WmM6TSX876NKi1Vq3smpwTd61SCdxqVe6Ke/XH1v3QjkeiWgwwM9JObC1o4+odqRWWs7bWOn601HFLFMbtiJ3uWkp5Z22VJbLwVdM3s+4rSroZ0pqC4wET6Dx1mDHN+QMv9wb4",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ed4575",
+      "5": "#56d0f5",
+      "6": "#91eb42"
+    },
+    "sz": 30
+  }
+}

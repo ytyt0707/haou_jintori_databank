@@ -1,0 +1,74 @@
+{
+  "round_id": 6220,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-16T21:06:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤖",
+      "score": "42.63",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] もう死ぬ",
+      "team": "みん²",
+      "emoji": "🤖",
+      "score": "2.79",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 山上徹也",
+      "team": "みん²",
+      "emoji": "🦁",
+      "score": "0.95",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇺🇸大正義] パン松",
+      "team": "🇺🇸大正義",
+      "emoji": "🤖",
+      "score": "0.07",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇺🇸大正義] 合衆国",
+      "team": "🇺🇸大正義",
+      "emoji": "🦁",
+      "score": "0.00",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "46.38",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸大正義",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyNkQsOBCEIQ6tA9v43ngxK1w9ht5nI2GfRKAAIXCIyBy8Sczq059++aqHxmckt0sNkK7DVZxTbsziya5uSLofUGHBRVR10lBUrqeHa5zVmxq9TDwozlbjfHbth3+gRHthEeu98qp26ftCkNW78F0VKG7Io1WrKg2UUTTX1A7dW02JBxV5a71tBlFnqAX0FBUY=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ccf452",
+      "4": "#ccf452",
+      "5": "#ccf452",
+      "7": "#df4ee9"
+    },
+    "sz": 30
+  }
+}

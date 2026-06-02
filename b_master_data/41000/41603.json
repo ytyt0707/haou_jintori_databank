@@ -1,0 +1,66 @@
+{
+  "round_id": 41603,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-18T03:00:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇦農民] 南",
+      "team": "🇺🇦農民",
+      "emoji": "😑",
+      "score": "49.46",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇦農民] な",
+      "team": "🇺🇦農民",
+      "emoji": "🐱",
+      "score": "14.80",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "4.04",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] な（本物）",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "0.39",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇦農民",
+      "score": "64.26",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "4.43",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlksESxCAIQ9ko/P8n7yag0mkPnVkPVnkJ0bZmZgaAj+cBRDQyNNxVgiEifJYg2RiioDEi5pR/jOHL62aYSTmbuxej111dSYDg3j/HSoqARiS1k8tkROyubFZUjfZdlcPShcIMvJm0B6a41d1Z6rHNtVonzlbVcaHqn7d1f6S0S5f0Zr1QCo9Cyc1bb0GidWiq943MjPs6cSXrC6dKdAVkTvslzvtSJqdOd3EvXtPtOIvX3v0Rj7cfq1XX8p/W3XtLvsC2YfBv+wUKQgtN",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#9ca3af",
+      "5": "#30e8a3",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

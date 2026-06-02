@@ -1,0 +1,84 @@
+{
+  "round_id": 8556,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-22T03:25:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳チー牛] 〇ね",
+      "team": "🇨🇳チー牛",
+      "emoji": "💩",
+      "score": "23.03",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "🤔",
+      "score": "6.32",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳チー牛] おめんこ",
+      "team": "🇨🇳チー牛",
+      "emoji": "🐱",
+      "score": "5.65",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇳チー牛] チギュりパンで草",
+      "team": "🇨🇳チー牛",
+      "emoji": "🦄",
+      "score": "3.49",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "あんこ",
+      "team": "",
+      "emoji": "🤔",
+      "score": "2.48",
+      "kills": 7
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[天の理] みきたん",
+      "team": "天の理",
+      "emoji": "🤔",
+      "score": "0.46",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳チー牛",
+      "score": "32.17",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "天の理",
+      "score": "0.46",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx901EShSAIBVB8XMX9r/gNpgmC8VFTJxRwIsoDwH6otTqBFYfq3jzv3Ew3J/ag3FREVJHWpDo+mMl0KgBJejXaE8VQvfROMWSWG7SUovvZEfsYM7b8W5lL3Sm8bBVaH+7sV0hwaPvS1gxLxFdFPnQczbHrUj7QKVvl1U5Qmeq6ZVbfqVGft+se+K60lmSmbMzM7icC/QGm8gbp",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#e050f7",
+      "4": "#e050f7",
+      "5": "#ddf127",
+      "6": "#eb56a8",
+      "7": "#e050f7",
+      "8": "#f58c5b"
+    },
+    "sz": 30
+  }
+}

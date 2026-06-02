@@ -1,0 +1,55 @@
+{
+  "round_id": 3491,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-10T17:06:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チーム] 彩喜",
+      "team": "チーム",
+      "emoji": "🦊",
+      "score": "23.22",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[チーム] さとる",
+      "team": "チーム",
+      "emoji": "🐲",
+      "score": "19.74",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ナチス] シュトロハイム",
+      "team": "🇩🇪ナチス",
+      "emoji": "👻",
+      "score": "1.57",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チーム",
+      "score": "42.95",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "1.57",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0VEOwyAMA9DY3P/OVREdLEBi1vmnVHoyiTA7T5GhKotaWorWeTugHtG+W4hboCYrfJL2ZcxGFjng2AVqdBoLlejOV4gcEscWJPClm2B3DCGpNXILRTffu9yF2/mcI9fOTUcHA/YlY9dlrLpsblrCw/Evgn6QzH0W+8XZH/qsvq3ihkeww1zLIARD",
+    "cp": {
+      "1": "#f3c77c",
+      "2": "#f3c77c",
+      "3": "#e84acd"
+    },
+    "sz": 40
+  }
+}

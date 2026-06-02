@@ -1,0 +1,42 @@
+{
+  "round_id": 54145,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-16T20:57:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[死にた] tkb",
+      "team": "死にた",
+      "emoji": "🔅",
+      "score": "93.29",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[死にた] い",
+      "team": "死にた",
+      "emoji": "💔",
+      "score": "0.14",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "死にた",
+      "score": "93.43",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdzjEOwCAMA8AY9/9vrkDQDBizVQgmlJPjkP+/4iotuuAhFvoO6HGfbhRrDwKDVfWHsj+zisfeyVrRUkk+rGdNuRxYRbhoLrnl9wIkKApF",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830ba",
+      "4": "#e830ba"
+    },
+    "sz": 30
+  }
+}

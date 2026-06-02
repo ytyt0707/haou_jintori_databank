@@ -1,0 +1,66 @@
+{
+  "round_id": 42569,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-20T07:13:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "😢",
+      "score": "36.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきこ ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "16.72",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "権兵衛",
+      "team": "",
+      "emoji": "👤",
+      "score": "10.15",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵自民党] ポケモンBBS",
+      "team": "🇯🇵自民党",
+      "emoji": "🦊",
+      "score": "0.11",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "53.71",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "0.11",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVESxCAIQwMr3v/IOxBQtN3lx47PQEJFqvBSxSTZ7IVFBf2e30mh+mRzkqr+o/IDLu1LY/cZtt46fxJCVC/HY0RCiaCpteo/isaby9XYVHEHckixjwSOXRhpTFbHB52NAjdNSNePsbc2LRuLjjJTRIqgSW0YgIHND2oGxPAQAtxjaf3E8GDE3KAvsl5ssTPe1unalLaZT5pdQ4yFS8u+0Xp3oem0Sz/sEu9Ouv57GqykEdUapYHCNNK9+TJ21QbamfAL3jUM6g==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83030",
+      "4": "#e8a930",
+      "5": "#30e892",
+      "6": "#30e892"
+    },
+    "sz": 30
+  }
+}

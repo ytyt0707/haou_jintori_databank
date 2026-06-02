@@ -1,0 +1,72 @@
+{
+  "round_id": 23836,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-11T15:15:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[白旗] 源氏",
+      "team": "白旗",
+      "emoji": "👽",
+      "score": "24.75",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🦄",
+      "score": "14.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵猛虎軍] ███",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🤖",
+      "score": "4.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵猛虎軍] 名無し8W",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🤔",
+      "score": "0.17",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "白旗",
+      "score": "24.75",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "14.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "4.54",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHN0UEOhTAIBNChUO9/ZAPYAX/N37iRRdP4OgQisJewYFfVI5rIQitFMdVZ1d8cz6peUC1u2cA4VphDme0oTUHOKNBmzqF1egEyZc6muVEgj999CXlZM3t0jDHufGn03RQ5dKKHn7I5UjS/cWSJGACaw/rfiWellWo3cvtW1zfKuapdu73p/M3s/31r9RPnpQcu",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6ae830",
+      "4": "#30e881",
+      "5": "#e83042",
+      "6": "#6ae830"
+    },
+    "sz": 30
+  }
+}

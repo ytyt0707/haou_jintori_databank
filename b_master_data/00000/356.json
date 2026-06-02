@@ -1,0 +1,100 @@
+{
+  "round_id": 356,
+  "game_mode": "TEAM",
+  "player_count": 58,
+  "played_at": "2026-01-03T13:43:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[仙台藩] ヒカキン",
+      "team": "仙台藩",
+      "emoji": "🐷",
+      "score": "13.64",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ぷゆゆ] 🖕ぷゆ🖕",
+      "team": "ぷゆゆ",
+      "emoji": "🦁",
+      "score": "7.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "🐱",
+      "score": "7.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[555] ゾンビ凸",
+      "team": "555",
+      "emoji": "😈",
+      "score": "1.48",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[うんこ] うーーーん",
+      "team": "うんこ",
+      "emoji": "🦄",
+      "score": "0.20",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[特攻隊] 自爆テロ",
+      "team": "特攻隊",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "仙台藩",
+      "score": "20.89",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ぷゆゆ",
+      "score": "7.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "555",
+      "score": "1.48",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "うんこ",
+      "score": "0.20",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "特攻隊",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt1VEOhCAMBFBapfc/8kYRLYIyLWs2mzhfkvBKgaghPJUYrfNjIjHuj5BpZYAC+Hu2GP+o5y4dOeYLC8CTVs82W9XB7bkJ3FYb2IbzDDZfNbFYKz5GVqtHNvvmP8PjJYiI3MuzD3OKx3KO3fJhzXjAst+yyU5TE0KXlC2tKSja8zJVhD2WkpWdk8eK1ZLTLnNqC+2X9ojbipQWud+TVXfctWXHqVUO2Duot0vb8QLvL5X2SLfn9ShaMluk1wvro72F05yrEoi9X9eHO7Z/WHfHtfFGFYDmPxZVNQCqa6hthPWTCVJVxCweygcwugqv",
+    "cp": {
+      "1": "#f2f84f",
+      "2": "#f2f84f",
+      "3": "#56eb71",
+      "4": "#6fece8",
+      "5": "#f3a78c",
+      "6": "#f344a4"
+    },
+    "sz": 60
+  }
+}

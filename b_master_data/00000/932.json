@@ -1,0 +1,109 @@
+{
+  "round_id": 932,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-04T20:47:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ぽんぽこ",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "26.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "20.07",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[さとる] さとる（本物）",
+      "team": "さとる",
+      "emoji": "😎",
+      "score": "4.33",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "🐷",
+      "score": "3.15",
+      "kills": 10
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[うんこ] 2年5組上中",
+      "team": "うんこ",
+      "emoji": "💩",
+      "score": "1.86",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[うんこ] たかし",
+      "team": "うんこ",
+      "emoji": "🤖",
+      "score": "0.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[うんこ] たかし軍の裏切り",
+      "team": "うんこ",
+      "emoji": "🦄",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "26.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "20.07",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "さとる",
+      "score": "4.33",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "仙台藩",
+      "score": "3.15",
+      "kills": 10
+    },
+    {
+      "rank_position": 5,
+      "team_name": "うんこ",
+      "score": "2.70",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy11FEOwyAIAFAQqPe/caO2iqiDLBtpv/oCSA0ANTJEIpeA9nxSj2zcz+i7nGPwl2yQoHMSfuc4BpnPcGZ8LG3chdg/EVF9d3VLDNZiPQfGHIByRCkd3cXM2NOlVOnGASMikHKPXP8GYm8svXBz+Wi4pNzyb4lWN90rO43J5eXmrW5qrxqxbgxaORGR12muXUsnprCC8ynEc/0csiu8m0vpUmjOe3RmQrvVMhy4zs7cW1Vvm6GVFnUtos5ZU3+KG3MvD1k=",
+    "cp": {
+      "1": "#fd87f3",
+      "2": "#45f0fc",
+      "3": "#f0a094",
+      "4": "#fd87f3",
+      "5": "#6b81e6",
+      "6": "#fd87f3",
+      "7": "#52e5a3"
+    },
+    "sz": 40
+  }
+}

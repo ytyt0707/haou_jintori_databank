@@ -1,0 +1,68 @@
+{
+  "round_id": 316,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-03T11:33:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[さとる] やの",
+      "team": "さとる",
+      "emoji": "🤠",
+      "score": "30.30",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[特攻隊] 自爆テロ",
+      "team": "特攻隊",
+      "emoji": "👽",
+      "score": "1.71",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "対テロ砲",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.00",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[無職] syamu",
+      "team": "無職",
+      "emoji": "🐱",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "さとる",
+      "score": "30.30",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "特攻隊",
+      "score": "1.71",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "無職",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt1esKgDAIBWD1/R86YsFss9QjNIKdX92+plsXop1ARHBQsTs7O8XA75OcwUfFMWwlIqWn7eijYdpvQXo7Q8f7vDelCh47cCyJZcm3XdxnLdLte8dEz9ybKXtoVViSBghuvZIX2ETNM6/YMDb6/cJaD+V1ipnBYbklJ5tlzGr6bP1hEevWbNOS1ThZ8rW80ArNX2L9F/F/Qs4Fv06lu6UzcwBW6gfk",
+    "cp": {
+      "1": "#5ffcdf",
+      "2": "#b690f9"
+    },
+    "sz": 60
+  }
+}

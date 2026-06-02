@@ -1,0 +1,82 @@
+{
+  "round_id": 9659,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-25T09:57:08.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "3.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.33",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "0.07",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇸🇦チー鳥] 糞漏らし太郎3",
+      "team": "🇸🇦チー鳥",
+      "emoji": "🐲",
+      "score": "0.07",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "デコテニス",
+      "team": "",
+      "emoji": "🐱",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "3.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇸🇦チー鳥",
+      "score": "0.07",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.07",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10OEOgCAIBGCg1N7/iZuKOvSk1tb9i28XKhFOLNnCTonYV/pFmdloCKGPoebwiP1z5bwQ7m08vYh+nRbXMzvdyksZvkZjF792C0+Tw9W3+FjFGtuFzDQl05y7yeJusZrgvVoUzCWCu3qdC1d7hG63lwT7",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#f6a05a",
+      "4": "#7452ef",
+      "5": "#f750c7",
+      "6": "#6ca5ea",
+      "7": "#f6e123",
+      "8": "#a0fa52"
+    },
+    "sz": 30
+  }
+}

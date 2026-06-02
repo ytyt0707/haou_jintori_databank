@@ -1,0 +1,64 @@
+{
+  "round_id": 1697,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-06T14:04:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "😀",
+      "score": "33.81",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[舞散葉] キング",
+      "team": "舞散葉",
+      "emoji": "🤔",
+      "score": "8.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[舞散葉] ゲイや",
+      "team": "舞散葉",
+      "emoji": "🤖",
+      "score": "6.85",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "🦁",
+      "score": "1.86",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "舞散葉",
+      "score": "14.97",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "1.86",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF1NsOhDAIBFAQ/v+bN1p7AYZKn5YHjXgy1DaR6KS4VWj3FzwIdsuLAusP2Vha23me7Q6Ex8a1Msji2DEO9M7du09wqnMsIsn3eyaYGSg1J8ah7STgqnkeOpY7ylySGOLwEkEc/OaKo64sC04FOwt1sp3TmtND17Duxjanz+UV110+7ibtbtjl46bjDzeq7p5jjM7D9czt0TK3ac75Glv14eZ/aav+VD9IvgWa",
+    "cp": {
+      "1": "#bdfb84",
+      "2": "#ed5e45",
+      "3": "#633ff3",
+      "4": "#633ff3"
+    },
+    "sz": 40
+  }
+}

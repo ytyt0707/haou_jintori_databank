@@ -1,0 +1,57 @@
+{
+  "round_id": 14090,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-12T10:45:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神] やの",
+      "team": "神",
+      "emoji": "🐶",
+      "score": "49.03",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🦊",
+      "score": "2.90",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "ゲスト",
+      "team": "",
+      "emoji": "🦁",
+      "score": "0.09",
+      "kills": 21
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神",
+      "score": "49.03",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "2.90",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV01ESgCAIBFCy5f5XblBIFKXcr/SFpkxENZCQBTr1jpchlxEm7VJkmpn9Vh1FwcwctKAMekmo1lhird9WPspjPNSkxqUNNqrHBLt7867PG8Vwy8BtMy+7i0RbYGpBb9GoVC12dNfBj/ZmpaviFP9rvvKpZgeiDI90eiGguv/jHkKZB4Q=",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#ef61e6",
+      "4": "#5398f9",
+      "5": "#44f84d"
+    },
+    "sz": 30
+  }
+}

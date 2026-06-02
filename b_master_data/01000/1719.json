@@ -1,0 +1,54 @@
+{
+  "round_id": 1719,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-06T15:26:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[舞散葉] 自らお前を倒す",
+      "team": "舞散葉",
+      "emoji": "🤖",
+      "score": "49.83",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵舞散葉] 東京の獅子",
+      "team": "🇯🇵舞散葉",
+      "emoji": "🦁",
+      "score": "13.30",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵舞散葉] キング",
+      "team": "🇯🇵舞散葉",
+      "emoji": "👽",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "舞散葉",
+      "score": "49.83",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵舞散葉",
+      "score": "13.30",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0wsKgDAMA9AE739ncTj3a7qKBYM/5rPaqcATlqWsdXsfluE+h8pPjjEX6+Pu2mPoZkc7DBEOXkKouR3DjpGsUJ3pOrmcrIChZYOt9VZIUW6S03VcYlUzmKwecS6LuuTbOuXUrGv04vGyp0V8LB8csx2zHT2H7t1Mbv5N2m4tCCv2qMgJGcYFmw==",
+    "cp": {
+      "1": "#a09ef5",
+      "3": "#f4d69f"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "round_id": 15238,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-15T01:42:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵雑魚] うんち",
+      "team": "🇯🇵雑魚",
+      "emoji": "🤔",
+      "score": "20.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵雑魚] 最弱/重音テト",
+      "team": "🇯🇵雑魚",
+      "emoji": "😎",
+      "score": "12.74",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "😀",
+      "score": "8.77",
+      "kills": 7
+    },
+    {
+      "rank_position": 6,
+      "player_name": "トト",
+      "team": "",
+      "emoji": "🦄",
+      "score": "4.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵万華郷] まんげ",
+      "team": "🇯🇵万華郷",
+      "emoji": "😀",
+      "score": "2.95",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "神",
+      "team": "",
+      "emoji": "👻",
+      "score": "0.13",
+      "kills": 4
+    },
+    {
+      "rank_position": 9,
+      "player_name": "名無し0I",
+      "team": "",
+      "emoji": "😈",
+      "score": "0.07",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵雑魚",
+      "score": "33.35",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵万華郷",
+      "score": "11.72",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0lEOhDAIBNCBLgvc/8KbQltpNWbnw0SfnWIjUELERP3CPUQEoLWDOT20Ve3POAvAfCgYc1lcD412etdenvu2J43Bpu6c3SwSOj5JdxURIbTsVtWyWDKczU0ji5fG0ENP5nG3G+ChqFpY/tYO+i0axS5ly9tM7oHWg722r3bAZir6VDUbbyBfEbHRLKkwmxtkxCNdPznZZaombj6m0jWaliy9VuqWqfak8zDsQecpmr3oY+s4Vr1TOVQttv98AH7mAww3",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#33aaf0",
+      "4": "#cbec6a",
+      "5": "#dc62f4",
+      "6": "#f59247",
+      "7": "#ee72c1",
+      "8": "#ee72c1",
+      "9": "#dc62f4"
+    },
+    "sz": 30
+  }
+}

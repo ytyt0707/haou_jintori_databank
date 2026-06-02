@@ -1,0 +1,32 @@
+{
+  "round_id": 3786,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-11T09:08:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[T] Test",
+      "team": "T",
+      "emoji": "🦊",
+      "score": "37.11",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "T",
+      "score": "37.11",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy1kVEOwCAIQ5ty/zsbFflggMt0/UCSR0mDgEoE4mUoVAlf0PFmNDN+pTAcetxUFDWluReg7h4V3sl1hUeqCQl3x9n3QoLk+iHYoIokcpW0by6tB7TItMt8oJ/WXlMDLCMESQ==",
+    "cp": {
+      "2": "#74a8ec",
+      "3": "#efa64d"
+    },
+    "sz": 30
+  }
+}

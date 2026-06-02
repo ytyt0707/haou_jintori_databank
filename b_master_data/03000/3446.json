@@ -1,0 +1,42 @@
+{
+  "round_id": 3446,
+  "game_mode": "SOLO",
+  "player_count": 3,
+  "played_at": "2026-01-10T14:39:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ポル・ポト",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.66",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "^_^",
+      "team": "",
+      "emoji": "😎",
+      "score": "0.09",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "前川右京",
+      "team": "",
+      "emoji": "🦄",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eJxjYBgFo2AAADOV1Y2CIQiYKNDLSJwqYpVR1TgiHUe0cYMXAAAscAAU",
+    "cp": {
+      "1": "#ef6cea",
+      "2": "#555aec",
+      "3": "#73f77e"
+    },
+    "sz": 40
+  }
+}

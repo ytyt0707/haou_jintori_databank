@@ -1,0 +1,77 @@
+{
+  "round_id": 51507,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-10T22:21:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[テスト] テスト",
+      "team": "テスト",
+      "emoji": "💣",
+      "score": "59.22",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] えんぴつ",
+      "team": "🇯🇵自民党",
+      "emoji": "🦃",
+      "score": "7.65",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] ぐーぼん",
+      "team": "🇯🇵ONJ",
+      "emoji": "⚽",
+      "score": "5.06",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵フェラ] ちんこ舐める？",
+      "team": "🇯🇵フェラ",
+      "emoji": "🦁",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "テスト",
+      "score": "59.22",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "7.65",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "5.06",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵フェラ",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkkEWxCAIQxkx97/yPAKios5mXFThJ4BtRbYFEWDJrGeiTPS+K41uVkmp+HHSLlQvfZiI2OlnyrfS4V16Wd8RTjoy4FwQ6VweuZ4DutmhXSkXp3lS8w6pm0fkOyEfN0rNQrNUFonuZebE3p40c0cRw0mPQ5eNVvdPL/6iiG9yjOSJ+WJbU9WHCiCtOK6h2t5mVbXCqvXO1oqAihtNfPUOGj9ynTzSZQO+SWIMLw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#59e830",
+      "5": "#e830ba"
+    },
+    "sz": 30
+  }
+}

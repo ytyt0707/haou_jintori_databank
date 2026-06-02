@@ -1,0 +1,63 @@
+{
+  "round_id": 51457,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-10T19:39:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😆",
+      "score": "14.41",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] トラック",
+      "team": "🇯🇵ONJ",
+      "emoji": "🚚",
+      "score": "0.16",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "💣",
+      "score": "0.12",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "14.41",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.16",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "楚",
+      "score": "0.12",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtj1ESgCAIRFei+1+5UUMgBqopf4R97IqAHppHBVctujl5NQQiWl0oymygsnZYJOPibuFtK7QEsx2y9XiZmdMBdHhDUzy8X6hd1dUPtnLz2sydkqVO+D+V4D+Sd/1MryTaq9LVVMwyHe5hD+ob4QBVxgJI",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e83053",
+      "5": "#994de5"
+    },
+    "sz": 30
+  }
+}

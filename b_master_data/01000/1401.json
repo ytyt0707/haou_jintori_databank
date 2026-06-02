@@ -1,0 +1,109 @@
+{
+  "round_id": 1401,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-05T22:08:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🤖",
+      "score": "39.01",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] 彩喜",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "13.04",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "😂",
+      "score": "5.47",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[彩の国] 埼玉",
+      "team": "彩の国",
+      "emoji": "💩",
+      "score": "3.41",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ちん] ちんこ描く",
+      "team": "ちん",
+      "emoji": "💩",
+      "score": "1.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[日本軍] まりも",
+      "team": "日本軍",
+      "emoji": "🐶",
+      "score": "0.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "x",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.07",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "52.05",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "5.47",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "彩の国",
+      "score": "3.41",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ちん",
+      "score": "1.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "日本軍",
+      "score": "0.07",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN1AsOwyAIAFBhHd7/xgtKla+TbMmoL1DFrDUJlO9OVTafoAqdOFcxB7GO3H0v3Z+C+asdYBadwzj+1ftYmcu80CunQqUaWtfGx8JdD+2SycJbh67RYeX8qchjjG0Tt0637stUDSE6oj03NSrblgiJ6K1nLolzVLn2nrI4XM7d9vq23Drd+OGobl9P3amgZonDO7f3wmo5D3nAeFnvxrXlnrBdgA/ojaCrJQ4k9IYTB87NtkZl5TAdsio3ZLtxsP6OogPrqsaFyzqLONeTmG6AFP0ApsAMLA==",
+    "cp": {
+      "1": "#6875ee",
+      "2": "#f1b3a2",
+      "3": "#90effd",
+      "4": "#ee8cc7",
+      "5": "#fddb7c",
+      "6": "#8ffab4",
+      "7": "#f1b3a2"
+    },
+    "sz": 40
+  }
+}

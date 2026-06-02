@@ -1,0 +1,101 @@
+{
+  "round_id": 16121,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-17T09:54:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "31.37",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "22.88",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "😂",
+      "score": "19.22",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[新鯖♡] 新鯖♡",
+      "team": "新鯖♡",
+      "emoji": "🦊",
+      "score": "4.87",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "🦄",
+      "score": "0.49",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇨🇳無駄] 時間の無駄",
+      "team": "🇨🇳無駄",
+      "emoji": "😎",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "54.25",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "19.22",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "新鯖♡",
+      "score": "4.87",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵田中",
+      "score": "0.49",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇨🇳無駄",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy908EOxCAIBNChLPj/f7yxtDooXvawc2rzihBMAXec408AHdmVmVVcgnd1F5FQrzQYrMptBR4Ppbogl9LRY+qsV4/PJL1+VDOzWs1ufBjE3tqoLVTbcnRW6hzK17SOxbeoaege2pcph7VjVp36njQ+sFf72ladfellC3CwT/Cx8F9ajXfvovq/bvwCw9kMag==",
+    "cp": {
+      "1": "#f7f72b",
+      "2": "#75f443",
+      "3": "#b345f7",
+      "4": "#438cf9",
+      "5": "#b345f7",
+      "6": "#40f795",
+      "7": "#f56f42"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 27860,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-20T17:09:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 飴細工",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "12.75",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸共和党] ドナルドトランプ",
+      "team": "🇺🇸共和党",
+      "emoji": "🤠",
+      "score": "6.65",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "12.75",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸共和党",
+      "score": "6.65",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdklsOBCEIBBvw/mfetDwEMzvJrj+iNYWgA+QQEcmYs0K1r3HhSV8hRmrVqZKek286IJ7or+7KrkbqyLyCkomZxbdFDzaOg4HFERsbOqWqWB07td2N0+2GHNS2uN1OAZZlX2nYIfupVZarJV8UbOjAmxLXsapeVDbsfWfJ/9C6jcfMpPwpM3Pc85jklZY7nFqkWxs9YF/tdTti7PTerbXqvKUCEXwAK6kD3Q==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3081e8",
+      "4": "#604de5"
+    },
+    "sz": 30
+  }
+}

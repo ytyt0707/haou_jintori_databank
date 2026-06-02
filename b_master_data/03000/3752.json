@@ -1,0 +1,63 @@
+{
+  "round_id": 3752,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-11T07:18:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ぷゆゆ] よっぴ",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🤠",
+      "score": "33.29",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪最強] 全員倒す俺が最強",
+      "team": "🇩🇪最強",
+      "emoji": "💩",
+      "score": "21.85",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] パン粉",
+      "team": "みん²",
+      "emoji": "🤔",
+      "score": "0.52",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "33.29",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪最強",
+      "score": "21.85",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "0.52",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0ksSwCAIA1As8f5X7tTiCBGtZfsM/hC5WklamQCCNQPAFkdWLlElhFutOjhFY/QKVqstIDWsb56S1taKo1EZc82zag+11X2WbjQfGpm2TR1HfM4Dl+d9PxTHWn5q2Lcsdf5BHp65s6yyvbXk79xH0/9/MrgndQNtEQbo",
+    "cp": {
+      "1": "#e368ee",
+      "2": "#74a8ec",
+      "3": "#4be760",
+      "4": "#8f58ee",
+      "5": "#53ead8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "round_id": 6372,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-17T05:19:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[敗北者] カミカゼ",
+      "team": "敗北者",
+      "emoji": "😍",
+      "score": "36.39",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[敗北者] 爆弾/自認レゼ",
+      "team": "敗北者",
+      "emoji": "😂",
+      "score": "28.61",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[敗北者] 山上徹也",
+      "team": "敗北者",
+      "emoji": "🐷",
+      "score": "28.04",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "敗北者",
+      "score": "93.04",
+      "kills": 14
+    }
+  ],
+  "minimap": {
+    "bm": "eJx9kwsOwyAMQ+kc3//KE45DA0yLVAp9dcgHBi4jyEHZqG8DkUbSsxiL8oam6cYwghHpSJ7JwkNDlJzsFLHb1JKv+KTBf7RJxT8b5UHjppVpo/zpuXKZY8un67youmPfs0OQWOLPolhFxh7TQTPit3U3fY5Kq+ldu7XBSrhRzx43TQH3Auv4WCZoOiehxwWCBWq+ZnN0mkmhwhIjM5FW57R7BrwvTOsd8BKmqCof1qX5N48/FKpqVYHmBusu5fUZ72XRokwfvpBKDXE=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f6e365",
+      "4": "#f6e365",
+      "5": "#f6e365"
+    },
+    "sz": 30
+  }
+}

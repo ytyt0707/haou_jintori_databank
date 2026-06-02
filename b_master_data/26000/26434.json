@@ -1,0 +1,123 @@
+{
+  "round_id": 26434,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-03-17T11:54:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😎",
+      "score": "20.91",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵回転！] ワタリ",
+      "team": "🇯🇵回転！",
+      "emoji": "🤪",
+      "score": "14.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵回転！] 粘着しないで😭",
+      "team": "🇯🇵回転！",
+      "emoji": "😭",
+      "score": "10.15",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] やあ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐷",
+      "score": "9.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "ぱぶろん",
+      "team": "",
+      "emoji": "🐏",
+      "score": "9.14",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵回転！] 失速",
+      "team": "🇯🇵回転！",
+      "emoji": "🐱",
+      "score": "5.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "正体不明",
+      "team": "",
+      "emoji": "👀",
+      "score": "4.48",
+      "kills": 12
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇨🇦=△=] (・3・)",
+      "team": "🇨🇦=△=",
+      "emoji": "🍁",
+      "score": "2.35",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵回転！] 回天",
+      "team": "🇯🇵回転！",
+      "emoji": "🤖",
+      "score": "1.16",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵回転！",
+      "score": "30.35",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵田中",
+      "score": "20.91",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "9.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇨🇦=△=",
+      "score": "2.35",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtkdu2hCAMQyMoLfX///es9ALMzMmDFDdJKwK9Y+l5VhlFp6KUh5JHROSAgQOSpwC3ptutB5VFGV70fd9wb9oXfYNCDm/v8MZk6d19e++RlvBj5mIi4s6Au299BtdkTM7S39aRhVmYGVAkVk6cWnQOSuJk2IyiFwg6MsZDnRrEN2HOdLZMOmyMkdFJW0Gukxpj1IA7ec6AJ5WdnNaTtkpeVjYfOXRR7+iPoOysKvTODM3ZgdvHUm3NKrOG9+ujU1trmWlmqn6AVhCqNiT1nfIAcN9F5Ysq9F5UfuntNKKRN1TJ9U8v8M3/9Lqui7Bu0r1WThBz8wfqBRPC",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#85d411",
+      "4": "#e86430",
+      "5": "#d130e8",
+      "6": "#30e892",
+      "7": "#7c4de5",
+      "8": "#9ca3af",
+      "9": "#30e892",
+      "10": "#30e892",
+      "11": "#36e830"
+    },
+    "sz": 30
+  }
+}

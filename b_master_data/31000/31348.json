@@ -1,0 +1,78 @@
+{
+  "round_id": 31348,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-28T17:16:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ねこ] ねこ",
+      "team": "ねこ",
+      "emoji": "🐱",
+      "score": "20.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 運",
+      "team": "🇯🇵ONJ",
+      "emoji": "🎰",
+      "score": "10.67",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[あいす] 村上宗隆！",
+      "team": "あいす",
+      "emoji": "🛻",
+      "score": "6.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] だいず専務",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ねこ",
+      "score": "20.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "10.67",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "あいす",
+      "score": "6.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVktsWwjAIBDfY9f8/2cNyKWnVozw1nQwEEuDfOBSy7OYGPA4HH2lYhcm1FrAwEp8yiSU+sVlsINeDLidUWZiCVGKndSgdq6EwJ3XdzNxM+Q0tzFHWC0ht2+Go+wOlGSP3bKgzn4e6Z04Wc9zxpaGYfM9j9quqmyzadUPtnnyZ3cInuWOtzK8Jfn0JayKTYtBIHpvDbRFPBTTI829+BXxqdRWRatF6dpVkd79T2P6oh6snueNBXbwcbNAX0IQG1w==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30d7e8",
+      "5": "#9ca3af",
+      "6": "#e83042"
+    },
+    "sz": 30
+  }
+}

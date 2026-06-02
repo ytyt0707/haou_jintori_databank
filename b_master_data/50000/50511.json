@@ -1,0 +1,102 @@
+{
+  "round_id": 50511,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-05-08T16:29:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "15.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきこ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "14.61",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "🌸",
+      "score": "13.68",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 殺すぞ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "11.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 名無しXE",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "9.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[老眼] 視力Ⅾ",
+      "team": "老眼",
+      "emoji": "😍",
+      "score": "0.73",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "28.30",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "15.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "11.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "9.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "老眼",
+      "score": "0.73",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtktuWhSAMQ0NJwf//4lnpRZmjfVB0k5JGybvc3UkAyFe1MBop5h6wKAma0cySfVKy6d5qXK0HwRS3tjEwMNpAnep+0xEV9kCjiCpbAw/lQadwKmeYNzMwpVMFzDljg2UV3EHzgjGkDV6n/qPyrL4g09NBveaOW4gPGO40EXDhuq69z2ObQhQ573TZjRYZaY0vmnlW+45lLaT2RblUB4W2zI40qHhNXF8rAy+4VtBCuuXnuPE60ActjLT+03otbA1Vg73oyqwTv+mN77/kcRVzt/xDqlR0eGcB/GiB2PKEfHC9jFyb6lkNjudn+QcjbAyX",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#9ca3af",
+      "5": "#30b4e8",
+      "6": "#30e870",
+      "7": "#30b4e8",
+      "8": "#8b4de5"
+    },
+    "sz": 30
+  }
+}

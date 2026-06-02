@@ -1,0 +1,81 @@
+{
+  "round_id": 25882,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-16T06:03:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "25.49",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😆",
+      "score": "24.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇸🇦拝火教] \"殺刄\"ハサン",
+      "team": "🇸🇦拝火教",
+      "emoji": "🔪",
+      "score": "0.10",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "名無しBl",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.08",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "名無しfB",
+      "team": "",
+      "emoji": "🦄",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "25.49",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "24.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇸🇦拝火教",
+      "score": "0.10",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkNEWwyAIQ2Fj9v//eCdEJbjTzgcLXBKwZnUCx/OOcJxiZrPOjoNuxsA9Snsw6On8hvtJc+qaWzC3+iCXrSLosFYm1p3h/0zjqiG25qZFV8JGnUvFqYS7pWH3XZ8WDT/DXwoPGLyir1TrkVauUQTEWpE4yQ0d7JsfESEcNxT1kecQUESEO+iBkJ2FepS0lzQ7fZWldS+0LN/RKpr8dZ4PVc2K+ST8JVSYIcjcvgWICS4=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#514de5",
+      "4": "#8B4513",
+      "5": "#e830a9",
+      "6": "#30d7e8",
+      "7": "#ced411"
+    },
+    "sz": 30
+  }
+}

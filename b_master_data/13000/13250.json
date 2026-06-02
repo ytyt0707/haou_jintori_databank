@@ -1,0 +1,119 @@
+{
+  "round_id": 13250,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-02-10T13:20:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😀",
+      "score": "24.99",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵特攻隊] 大日本帝國陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🦁",
+      "score": "16.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[　] ひみつ",
+      "team": "　",
+      "emoji": "😂",
+      "score": "3.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "😎",
+      "score": "2.79",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "👻",
+      "score": "2.39",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵特攻隊] アベベ",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐱",
+      "score": "1.22",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵猛虎軍] クウガ🩲",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🦁",
+      "score": "0.52",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[　] 北方棲姫",
+      "team": "　",
+      "emoji": "🐷",
+      "score": "0.47",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "24.99",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵特攻隊",
+      "score": "17.64",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "　",
+      "score": "3.53",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "神撫子",
+      "score": "2.79",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵阪神",
+      "score": "2.39",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN01EOxCAIBNAxiIr3P/Cmil1B1ix/zcvQMkkBgAjfKWV7ABEVN0Y9eoWl8juLK8MM9aUUaO/1kvVagJRSUq3VKLLJerRKk0eHBYeOWRXnnPO2nDYFpvooEeimusCi0Weij9rjfzIHqwFRZOZTRUTUos1DEerMiky0B7/KgWr2WR6/d53E3DRs+n6vbbp7q2UrozX2f9HZ5AU/WfAIeg==",
+    "cp": {
+      "1": "#f74b59",
+      "3": "#dfef61",
+      "4": "#f750b7",
+      "5": "#39c1ea",
+      "6": "#57eaaa",
+      "7": "#57eaaa",
+      "8": "#39c1ea",
+      "9": "#445ce4",
+      "10": "#f19650"
+    },
+    "sz": 30
+  }
+}

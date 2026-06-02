@@ -1,0 +1,112 @@
+{
+  "round_id": 6314,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-17T02:11:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "💣",
+      "team": "",
+      "emoji": "😍",
+      "score": "21.96",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "😀",
+      "score": "13.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] ゲスト",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "4.87",
+      "kills": 9
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "👻",
+      "score": "1.30",
+      "kills": 12
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇨🇳チギュ] ベネット",
+      "team": "🇨🇳チギュ",
+      "emoji": "😈",
+      "score": "0.15",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "🐲",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[楚] 🐷中山司🐷",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "0.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇨🇳チギュ] おちすぎ",
+      "team": "🇨🇳チギュ",
+      "emoji": "😎",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "17.97",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵田中",
+      "score": "1.30",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳チギュ",
+      "score": "0.26",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵さとる",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0dsOxCAIBNCx0xDN/v//bli8gpqdp9YDqC1QIyKYQ4KYUDOKSNKhKmAFXcWHYeiB+xIgHM9BRQJup2+V5EU/VfeDSQXB6u0zvL4NyDlnm/ZGzcro1+3rqfW24bR9DVPYevprq6Le17pT8r0/LYNja9EcmMbroYGyxN2pXHXfm67acxj9jzosj8bPr3XPCRvsrFZML19P2QnY",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#59ef34",
+      "4": "#ee72dd",
+      "6": "#f05e47",
+      "8": "#a15eed",
+      "9": "#59ef34",
+      "11": "#ee72dd"
+    },
+    "sz": 30
+  }
+}

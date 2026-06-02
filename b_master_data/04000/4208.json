@@ -1,0 +1,103 @@
+{
+  "round_id": 4208,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-01-12T08:09:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 矢野彩喜様",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "23.79",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 共感性羞恥心",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "22.93",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[さとる] やの",
+      "team": "さとる",
+      "emoji": "🦊",
+      "score": "13.21",
+      "kills": 11
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇦=△=] (・3・)",
+      "team": "🇨🇦=△=",
+      "emoji": "😈",
+      "score": "5.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ぷゆゆ] たどちゃん",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐱",
+      "score": "3.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ぷゆゆ] よっぴ",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "👽",
+      "score": "1.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[さとる] ryyy",
+      "team": "さとる",
+      "emoji": "🦊",
+      "score": "0.07",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "46.72",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "さとる",
+      "score": "13.28",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "5.40",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇨🇦=△=",
+      "score": "5.25",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0gsOxCAIBFDQIbP3P/EGAT+p6WZJYyJPVNqKXALCEWJmJmYAtAgASwFfAECWssLzeFFBlU8+a111q36qoa4E0J+6VfCmsYKsuZmufi6anMQx1lQ1OY3DU5uzqgqr25GeB6k2352BmdzVmfgUHdpaU297FMaKeavm2kIzjjtrnBxl9QUl+0msTja1EeNUi6TE6JG/R8bKL93sH7U37fsaPrT3HsN8DydGkE++Kn8qD75t7OrPFnu7XxZsDCo=",
+    "cp": {
+      "1": "#79f16a",
+      "2": "#79f16a",
+      "3": "#3ee573",
+      "4": "#f1274c",
+      "5": "#5a6de7",
+      "7": "#f1274c",
+      "8": "#5a6de7"
+    },
+    "sz": 30
+  }
+}

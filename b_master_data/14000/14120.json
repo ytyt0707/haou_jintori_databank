@@ -1,0 +1,56 @@
+{
+  "round_id": 14120,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-12T12:22:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😀",
+      "score": "45.59",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 山上徹也",
+      "team": "神撫子",
+      "emoji": "🐱",
+      "score": "10.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🦁",
+      "score": "9.58",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "45.59",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "20.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0tsKgDAMA9DSJv//y+LmRteL2gcRzpLKUGQMAEg5eHTNuz5uZotT1MypZFW1/UkxrDqziDN1NieE35sVK7qbw3oVr3G9wDfn+2j1frVjb5wfWl3Vmb05n+DWqoFkobPSGh0nxoNkV/ylpON3lSA4UGKsy7JQKdDp+nM7lU/lgRercglv",
+    "cp": {
+      "2": "#984af2",
+      "3": "#53f3ab",
+      "4": "#eeca49",
+      "5": "#53f3ab"
+    },
+    "sz": 30
+  }
+}

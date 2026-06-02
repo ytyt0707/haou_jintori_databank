@@ -1,0 +1,48 @@
+{
+  "round_id": 10497,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-01T00:49:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵楚] 大日本帝国陸軍",
+      "team": "🇯🇵楚",
+      "emoji": "💩",
+      "score": "23.08",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ルーザ] Lose dog",
+      "team": "ルーザ",
+      "emoji": "😎",
+      "score": "0.09",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵楚",
+      "score": "23.08",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ルーザ",
+      "score": "0.09",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0EsOwCAIBNCRcv8zN1UMCEg/6ayMLyMq0EMgrGkNaLImEmWhHni1ZVVvVmNTh95rZNV0btyyl6p0Pj2nK3mDB27KPFNQpuz0KHV/bql11yPzi+6Pc60GMprZE0Wl+Krrz5+/hwNw",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#ed4591",
+      "4": "#f6e765"
+    },
+    "sz": 30
+  }
+}

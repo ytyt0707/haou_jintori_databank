@@ -1,0 +1,90 @@
+{
+  "round_id": 10795,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-01T16:56:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "26.76",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "13.11",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "おにぎり",
+      "team": "",
+      "emoji": "🦄",
+      "score": "12.67",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🤠",
+      "score": "11.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵万華郷] 万華武者",
+      "team": "🇯🇵万華郷",
+      "emoji": "😎",
+      "score": "5.93",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵万華郷] 彡(ﾟ)(ﾟ)",
+      "team": "🇯🇵万華郷",
+      "emoji": "🤠",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "39.87",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "11.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵万華郷",
+      "score": "6.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0kEOAyEIBVA6VPj3P3EjiIAzTZqy9AmoSLRCZhCREqmqxjIAuJmK7lgIiZjbKnNT2fqaCoAPlZILMMu/ysxPfYvCz+vXbmdemo/SLmwKN1UVWw0VU9ohlvJFJWrUyvTIrsycKlXNBr2JaGSy2dIRUWrTzh2AY2xoOofY0ova/Lv26Sf+rvGvzrbTruumbkfuMh0jB3T5z6ldRw73rnvs+etKak6uNH4ovN7KYx62DDniA6DaD0c=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#5e83f3",
+      "4": "#5e83f3",
+      "5": "#c7f368",
+      "6": "#f32bb3",
+      "7": "#c7f368",
+      "8": "#61e6ef"
+    },
+    "sz": 30
+  }
+}

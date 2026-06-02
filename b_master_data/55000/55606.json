@@ -1,0 +1,42 @@
+{
+  "round_id": 55606,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-20T03:57:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[終わり] 名無しQD",
+      "team": "終わり",
+      "emoji": "🐲",
+      "score": "88.72",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[終わり] 山上徹也",
+      "team": "終わり",
+      "emoji": "🤖",
+      "score": "6.76",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "終わり",
+      "score": "95.48",
+      "kills": 19
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtUEkSgDAIk4b/v9nBEhbbcbx4k1NI0kABsjRhIHIKopAADG9Up6oExo/hcrABaoY/BRT1NZO31koSRw4J4Ei4UV+KaWuoZDf+oWk73M/Z/j4b8azDbnMVrwwR2ag2wCyU2i5tQFOsWdZZHD/x1QVO6HgKqg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4b611",
+      "4": "#d4b611"
+    },
+    "sz": 30
+  }
+}

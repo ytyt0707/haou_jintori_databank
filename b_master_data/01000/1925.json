@@ -1,0 +1,105 @@
+{
+  "round_id": 1925,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-07T03:42:25.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷韓国] ポケモンBBS",
+      "team": "🇰🇷韓国",
+      "emoji": "😂",
+      "score": "9.91",
+      "kills": 12
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇰🇷韓国] 安倍晋三",
+      "team": "🇰🇷韓国",
+      "emoji": "😍",
+      "score": "1.72",
+      "kills": 12
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇻🇪辻斬り] 切ったら死ぬ",
+      "team": "🇻🇪辻斬り",
+      "emoji": "😀",
+      "score": "0.75",
+      "kills": 7
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵SCP] ベネット",
+      "team": "🇯🇵SCP",
+      "emoji": "🤖",
+      "score": "0.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵SCP] はじまん",
+      "team": "🇯🇵SCP",
+      "emoji": "😀",
+      "score": "0.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵SCP] さ",
+      "team": "🇯🇵SCP",
+      "emoji": "🤔",
+      "score": "0.05",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷韓国",
+      "score": "18.22",
+      "kills": 29
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳人民軍",
+      "score": "17.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇪辻斬り",
+      "score": "0.75",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵SCP",
+      "score": "0.32",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇺🇸米陸軍",
+      "score": "0.05",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0AkOgzAMBMBtsOu0/v9/q2COXMShYoUqgaZrJ8BFeFnSb3rYPjCzch3ihel7vptrQ0SUvyeX2a2Y3tXfYM6iW1KTPbmzhJBRauaeLAQozj5VtTU+eVtyZZ+59VrKhHbJaOnf7+F2dgHbPs8hDhoPpjHPVSErogNXxqp9p9VkAN5gGCtg98h75pw7tsMm+uDuV/W9Rgz/7Bd86K4H3xWtAwgIZgYDIlNORAT+gmnuseLQ4ZbD0w7T7MlzTNzfLWfn+AHxLBEr",
+    "cp": {
+      "1": "#3ffd42",
+      "2": "#d9f09e",
+      "3": "#f06acf",
+      "4": "#959af4",
+      "5": "#959af4",
+      "6": "#f06acf",
+      "7": "#70bafb",
+      "8": "#f96c7d",
+      "9": "#f8a444",
+      "10": "#f06acf",
+      "11": "#959af4"
+    },
+    "sz": 40
+  }
+}

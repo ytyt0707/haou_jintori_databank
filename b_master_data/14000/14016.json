@@ -1,0 +1,93 @@
+{
+  "round_id": 14016,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-02-12T06:45:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "27.75",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] うんち",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "27.49",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "12.70",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 泉サキ",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "6.57",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇩🇪ナチス] 阿呆",
+      "team": "🇩🇪ナチス",
+      "emoji": "😍",
+      "score": "1.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇩🇪ナチス] ╰⋃╯←矢野彩喜",
+      "team": "🇩🇪ナチス",
+      "emoji": "🤔",
+      "score": "1.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 9,
+      "player_name": "陣取り初心者",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.05",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "74.52",
+      "kills": 24
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪ナチス",
+      "score": "3.04",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJytktsSwyAIRDcFtvj/P9xRxGCSTl+6D0z0sFycmA3BUto1YpxJ2g5D56XRSGOFXF5G1AcnI62nJCllZ99sXvuZGjAqo96+zlQwqtpdb+30toMV83XDnw+Q06k+7amKue9V0/OdemYtunrQ3beLkZlf7oH3idOKDl29UyoVpx3T2gNHbtdxZClfApQMzDvlghjPs1EEa60BszcqldakBcX4edyrtzWRSQF6hSBlUExdKASCRR0Vos8kgqKThTb4N30AzdQOxQ==",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#d231f2",
+      "4": "#e8663b",
+      "5": "#e8663b",
+      "6": "#e8663b",
+      "7": "#37e660",
+      "8": "#e8663b",
+      "9": "#d231f2"
+    },
+    "sz": 30
+  }
+}

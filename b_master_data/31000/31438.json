@@ -1,0 +1,54 @@
+{
+  "round_id": 31438,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-28T22:08:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "😄",
+      "score": "48.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇫🇷メロヴ] クローヴィス",
+      "team": "🇫🇷メロヴ",
+      "emoji": "😉",
+      "score": "18.65",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "48.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷メロヴ",
+      "score": "18.65",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kkESwzAIAyXg/2/uYBC1nfRYX5J6tYh2CujYy/E6cLOMKdFvTd19zahMjTOzL63AmtBlFy2/GSJOd6OxzjFZ7QDeqfSi+CE/aSZzJSsUEbu65nTjsxcLS8zY5oJwP9SNkoQDoW+TM+TmNszAgTeakIzMqVuUpUpvPLRMMshRp1cwm4fOD9k0gin0YFGpEcyux1bNK37QvKI7ucRN1s73s+z7dj4n1lZzebz8keqvvT+nGx8XagiL",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#30d7e8"
+    },
+    "sz": 30
+  }
+}

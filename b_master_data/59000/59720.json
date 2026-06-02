@@ -1,0 +1,84 @@
+{
+  "round_id": 59720,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-05-29T10:22:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "厂",
+      "team": "",
+      "emoji": "🎗️",
+      "score": "47.30",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ニャル子",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏁",
+      "score": "34.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] あそ",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "5.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "名無しSR",
+      "team": "",
+      "emoji": "👽",
+      "score": "1.20",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "0.95",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵:))] 優しい鱈",
+      "team": "🇯🇵:))",
+      "emoji": "💮",
+      "score": "0.16",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "40.17",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵:))",
+      "score": "0.16",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kVGSwCAIQ2syKe79L7wDSMVu15+qjyRIyWNJx/F9ECn9X+PsA19hY4uKc868KnsjG8VEgRQyUs1ITpS2HPxWUlJJdf9YmCXN+Dc2k5mXxDqoMaUFj9Es0aM8hvKCgHVtxpn9ZCYkkLsg4rAa8pehj8MBIC2xUwDMxhMC0H27wSVBLL2gKAY2faZEMjJL6toOfcpecCuc//7laPhNt8V+j+/CuQUUHbFJutO9F19jOKePo40kWeBy/qAjxGtOZX0tY3cerZ3V3uMcySXK72ZSdNVxh7FPeH0sx7/syQ1B",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "5": "#9ca3af",
+      "6": "#e83064",
+      "7": "#9ca3af",
+      "8": "#9ca3af",
+      "9": "#d130e8"
+    },
+    "sz": 30
+  }
+}

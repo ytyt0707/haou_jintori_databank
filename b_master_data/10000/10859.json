@@ -1,0 +1,42 @@
+{
+  "round_id": 10859,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-01T20:24:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇰🇷独島] 独島は韓国領土",
+      "team": "🇰🇷独島",
+      "emoji": "🐲",
+      "score": "44.99",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "さら",
+      "team": "",
+      "emoji": "🐲",
+      "score": "5.87",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇰🇷独島",
+      "score": "44.99",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10tsKgCAQhOEZx/d/5vBAeNpVif4boY8tMYEwlB+gKQBktbkAFl1YjqRFey2LUpAGFdXV2dypfhhdaL/juxdHDxWjr6k/tLiJ8mYBZxZnaqCp9ZA22n71PdXp5y1vaWXH/B6hPgXg",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#e75a84",
+      "4": "#ecd855"
+    },
+    "sz": 30
+  }
+}

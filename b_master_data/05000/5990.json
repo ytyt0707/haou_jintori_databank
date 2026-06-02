@@ -1,0 +1,48 @@
+{
+  "round_id": 5990,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-16T08:40:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵うんち] うんち",
+      "team": "🇯🇵うんち",
+      "emoji": "🐲",
+      "score": "37.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵幻魔帝] は？",
+      "team": "🇯🇵幻魔帝",
+      "emoji": "🐲",
+      "score": "13.33",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵うんち",
+      "score": "37.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵幻魔帝",
+      "score": "13.33",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0dEOgCAIBVCK+//f3HAhBAyXdR988AgTJR6hOqxZcOnccq+OYZvQxakyJEEBnBIR3AfY14Y8Ju40QFIqlGYp2f7sPJzAOkNS9wIbepiirk2lhaLT9Fh/af6GTfyi/Z1edU6tL371BuM=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ed9e35",
+      "4": "#5df96c"
+    },
+    "sz": 30
+  }
+}

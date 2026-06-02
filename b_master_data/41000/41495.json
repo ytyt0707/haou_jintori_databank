@@ -1,0 +1,57 @@
+{
+  "round_id": 41495,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-17T21:10:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺北朝鮮] 金日成",
+      "team": "🇷🇺北朝鮮",
+      "emoji": "😎",
+      "score": "26.61",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] も",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "10.23",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] まめきち",
+      "team": "🇯🇵ONJ",
+      "emoji": "💩",
+      "score": "4.61",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺北朝鮮",
+      "score": "26.61",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "14.85",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kFsSgzAMA4Vs3//KHdkxNCTQv5ohD2+0YXB3J6nR90WaWZ7YcpJWgh1W+JlaUbrNWeR2mHW99tXshXZUyX+Lt0w359v8VOiEqVJwts/FRIHqb6mJiqCPuRv15H+Lbvec5uRm9k0Jj6z8Lg1JUWYwyHwHjhhYYkBUFZF8wGJQOONReI4CFaRuB25RCEfEoG1c5il2HAu/Gscv+h6+RMvqVYw37aL6a+MDK/AGXw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e881",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

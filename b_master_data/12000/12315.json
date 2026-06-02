@@ -1,0 +1,42 @@
+{
+  "round_id": 12315,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-05T03:07:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😀",
+      "score": "27.77",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しVT",
+      "team": "",
+      "emoji": "🦄",
+      "score": "23.28",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "27.77",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0ksOwCAIBNBB5v5nbuoPFDVt2lkYkxeUoEANSebFb5yReocuTdUS1OMr1TE8KLlTa36h+KCK4ENXs6KqLIu7imwUReWsvXyjlYPqEy2cJfW3NxXT9qVWCsyaBxJUbVq1NKU0oJsl48naRzVfO+WswBH/yQXQcga2",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#59ebf8",
+      "4": "#f561b5"
+    },
+    "sz": 30
+  }
+}

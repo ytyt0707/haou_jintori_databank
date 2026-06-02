@@ -1,0 +1,57 @@
+{
+  "round_id": 51455,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-10T19:32:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] ███",
+      "team": "🇯🇵ONJ",
+      "emoji": "🌐",
+      "score": "23.74",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] トラック",
+      "team": "🇯🇵ONJ",
+      "emoji": "🚚",
+      "score": "1.66",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "💣",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "25.40",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kgkOBSEIQ1n673/lH9CiBDMms/mmtKIAIIIYMkfOv5Fs1VMXlbZ2Fs0ZUuu2keVozczERgWmCvxNp/jSYoovasSXiQGWVzqn9aGqGrhGxq6AnbrnMm+qSqW7b+1euWqDvWNymBncBz2ZgElpGk8Ay5kdP9JgMYLQYVM+gPiJUlkKdivFBu7WKhb37Rt9FdnbVdSc8cq0ztXS9ryZjupqbkU6Byt87+n1TuWb8kCjVtErAL8s8Cjcfxxff68uBPc=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#8b4de5"
+    },
+    "sz": 30
+  }
+}

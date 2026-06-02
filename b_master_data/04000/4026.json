@@ -1,0 +1,126 @@
+{
+  "round_id": 4026,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-11T22:19:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "👽",
+      "score": "32.63",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵👾] 矢野彩喜様",
+      "team": "🇯🇵👾",
+      "emoji": "😍",
+      "score": "10.28",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😎",
+      "score": "8.29",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[oj軍] はじまん",
+      "team": "oj軍",
+      "emoji": "🐷",
+      "score": "4.91",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[oj軍] 🐷中山司🐷",
+      "team": "oj軍",
+      "emoji": "😂",
+      "score": "3.38",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[oj軍] アベベ",
+      "team": "oj軍",
+      "emoji": "🦄",
+      "score": "3.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ぷゆ軍] ぷゆ吉",
+      "team": "🇯🇵ぷゆ軍",
+      "emoji": "😀",
+      "score": "0.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[SCP] SCP-4162",
+      "team": "SCP",
+      "emoji": "🤔",
+      "score": "0.58",
+      "kills": 1
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[oj軍] 衛生兵",
+      "team": "oj軍",
+      "emoji": "🦊",
+      "score": "0.06",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "32.63",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "oj軍",
+      "score": "11.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵👾",
+      "score": "10.28",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵田中",
+      "score": "8.29",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵ぷゆ軍",
+      "score": "0.94",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0lkOhTAIBdBbw+T+N/xSKB3V5PGhJkcotAWmICJ/ZACbjrguesdDg5HoyrvG6wJc+bEyvhRArcx83/djMkVu161rIrDHC2PBvxRY8JhqRaCUrfKKBbmZZ25VbKoAVN1cMatm2LeazUqH2rJwnbermJiE+g+xzdzVRITKPO8o7rir356Og3M3kkNLnwipqgppC9OknGqHcl6O2rK0ttq1BvoJN/XcyNbpdPI7GlOtmT9xmgrw",
+    "cp": {
+      "1": "#54e897",
+      "2": "#97ee3a",
+      "4": "#24f5ea",
+      "5": "#dd6dee",
+      "6": "#54e897",
+      "7": "#722eef",
+      "8": "#54e897",
+      "9": "#4455ee"
+    },
+    "sz": 30
+  }
+}

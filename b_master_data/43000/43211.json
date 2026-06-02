@@ -1,0 +1,72 @@
+{
+  "round_id": 43211,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-04-21T17:56:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] ももたろ社長",
+      "team": "🇯🇵ONJ",
+      "emoji": "🚂",
+      "score": "47.69",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "🐹",
+      "score": "14.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無し8o",
+      "team": "",
+      "emoji": "😀",
+      "score": "11.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵しね] ころす",
+      "team": "🇯🇵しね",
+      "emoji": "🐱",
+      "score": "1.54",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "47.69",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "14.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵しね",
+      "score": "1.54",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klsSwzAIA6kB3//IHYmXnbR8JJRFMiY1q1BVNcNzopiZRjqI3cORNbzL+UvJ24mCuxHnd7z8E4oJeq7eFpmRYpCz1rnIB/GHB4V5CzoREZz76cKZAHKqs1g5YdJ300mh2HuH0MUZ4RzCjSBeAd3n3IG2pMXsxjbK12ytVIf2uatbO6uKEdI4zx0aQxd1Nv+k4rGsF+yRRQRQuRr6MsONmRAG5Q2K8p3axPg/IKilOsTl3dA5VsLyHnpKLxpDo/E0phCP+oJdeCa80xdFCAqq",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8b4de5",
+      "4": "#9ca3af",
+      "5": "#bcd411",
+      "6": "#30e8e8"
+    },
+    "sz": 30
+  }
+}

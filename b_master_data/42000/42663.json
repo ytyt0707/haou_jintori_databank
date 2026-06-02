@@ -1,0 +1,96 @@
+{
+  "round_id": 42663,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-04-20T12:18:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[金] 完顔阿骨打",
+      "team": "金",
+      "emoji": "😀",
+      "score": "60.63",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "権兵衛",
+      "team": "",
+      "emoji": "👤",
+      "score": "20.86",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しdz",
+      "team": "🇯🇵ONJ",
+      "emoji": "🙄",
+      "score": "2.90",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チ甘] チームは甘え",
+      "team": "チ甘",
+      "emoji": "😈",
+      "score": "1.28",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵小谷城] も",
+      "team": "🇯🇵小谷城",
+      "emoji": "😍",
+      "score": "0.89",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵小谷城] 浅井長々",
+      "team": "🇯🇵小谷城",
+      "emoji": "💀",
+      "score": "0.67",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "金",
+      "score": "60.63",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.90",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵小谷城",
+      "score": "1.56",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "チ甘",
+      "score": "1.28",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1k1kShCAMRBlidcv9L2xlI4AOP4Q8OhvaWi74IqdBtkZbrZVTrfD6ximBacMb0oIZ3yO+tYv4rdXrr7xRVPo9ZGgni2Ij30FnFafWGiY38a49pDmrrcu8ozM22+hId+xA0THGjjEpT9ZstvlGPIVW/aRnTjv/oTZQsEfDh1SPYNCvK/qBiEjJlks+HhHphcvCfQPoIr1/8Nuo6Pqk1wUY9dS/iktC4UpJzrIATYt8JNPVAVDpRu2f8fDekNIYplk52JUG8E3FAfEA9lsU2w==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#59e830",
+      "6": "#ced411",
+      "7": "#7c4de5",
+      "8": "#59e830",
+      "9": "#e830ba"
+    },
+    "sz": 30
+  }
+}

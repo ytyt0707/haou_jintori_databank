@@ -1,0 +1,146 @@
+{
+  "round_id": 1100,
+  "game_mode": "TEAM",
+  "player_count": 22,
+  "played_at": "2026-01-05T05:54:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[風俗嬢] 荒らし",
+      "team": "風俗嬢",
+      "emoji": "😍",
+      "score": "12.50",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ぷゆりません",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "12.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🦊",
+      "score": "8.38",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🤔",
+      "score": "6.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ネコち] ぷいぷい",
+      "team": "ネコち",
+      "emoji": "🐷",
+      "score": "6.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] ツインテメイド服",
+      "team": "楚",
+      "emoji": "😎",
+      "score": "5.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[猛虎軍] 革命的ユーモア",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "4.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[おちん] 全員倒す俺が伝説",
+      "team": "おちん",
+      "emoji": "😍",
+      "score": "4.02",
+      "kills": 4
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[悟] サートルナーリア",
+      "team": "悟",
+      "emoji": "🤖",
+      "score": "3.58",
+      "kills": 6
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[楚] unknown",
+      "team": "楚",
+      "emoji": "😂",
+      "score": "3.52",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "25.17",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "17.58",
+      "kills": 13
+    },
+    {
+      "rank_position": 3,
+      "team_name": "風俗嬢",
+      "score": "12.50",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ネコち",
+      "score": "9.60",
+      "kills": 10
+    },
+    {
+      "rank_position": 5,
+      "team_name": "おちん",
+      "score": "4.02",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN1ItuwyAMBVAriWE8BlRh/P+nTrZ5p1p3VSVVOLUxUgMwJecry31+Jnel+ELXi2NMzrSYkpGvIlVLc5csk+JUOVwvZwyYnL+qSyktTpGi3xpjAEwrmB4uKEB23NqkBqn15EIIATHkXPtfadri5gJicxc17JOwO47j5ziIASIxptjrybGyO88zSIhQXUTTw6cvBdWJGLDucXe5ufNbKUVrLMSlZI3rJw0APih1qAp7UrJWmM2Wmfe+jjw7SyHFEUYV37Ep1fHnD9Zc8AH9zJzbHIiToxjVNlfnCLhA6yhv6nmPgTbYWzsJPlzLwqaSnXHBwBKce0Bx933fwrXWQzmY3d0ibIb0R+sOhtNLgB20g+nuBlgd/Mu1N8Lr4W5ybqv2ejHTenNaQ3dUiZ2tj1pfWLrKqNJX61LGXuKyueoIFoo8puUY415OhhDW9jTgVI9nbW4kxhj7W7IqAF3KSgEW2KI3Rg3fuZ3ph5hcGXN8cv+rVz4x+AXOADJ/",
+    "cp": {
+      "2": "#87ef7b",
+      "3": "#87ef7b",
+      "4": "#ee86ca",
+      "5": "#81f8df",
+      "6": "#ee86ca",
+      "7": "#5c7df5",
+      "8": "#a444f8",
+      "9": "#ea6dfd",
+      "10": "#ea6dfd",
+      "11": "#8eeefb",
+      "12": "#81f8df",
+      "13": "#ee86ca",
+      "14": "#81f8df",
+      "15": "#ccf584",
+      "16": "#ea6dfd",
+      "17": "#ea6dfd",
+      "19": "#fbc037",
+      "20": "#ea6dfd",
+      "21": "#81f8df",
+      "22": "#f18a7e"
+    },
+    "sz": 40
+  }
+}

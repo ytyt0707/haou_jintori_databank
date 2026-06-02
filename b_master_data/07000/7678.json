@@ -1,0 +1,62 @@
+{
+  "round_id": 7678,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-20T03:57:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵晋] 安倍晋三",
+      "team": "🇯🇵晋",
+      "emoji": "🤔",
+      "score": "45.52",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇷🇺チー牛] チギュりパンで草",
+      "team": "🇷🇺チー牛",
+      "emoji": "🦊",
+      "score": "0.09",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇩🇪オセロ] OSERO",
+      "team": "🇩🇪オセロ",
+      "emoji": "🐶",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵晋",
+      "score": "45.52",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺チー牛",
+      "score": "0.09",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇩🇪オセロ",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10lEOwCAIA9DSsPtfeYlGRahmP+uX8ynKIvBj3NfI18eaGtKGcYHvaRMa4am2i3xVwQBsoDi9sZmZqtzUDjpN73Wbei0tlUGrM/W7ryA3TR2HvfWPgTwQe+Wt9BPPLBqvxZ7wrNKNExcFQK2XbgrGxypzV5zsBbaUBt8=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "4": "#cae958",
+      "5": "#e772ee"
+    },
+    "sz": 30
+  }
+}

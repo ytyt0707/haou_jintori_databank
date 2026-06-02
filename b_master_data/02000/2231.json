@@ -1,0 +1,54 @@
+{
+  "round_id": 2231,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-07T20:51:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵みゅー] みゅー",
+      "team": "🇯🇵みゅー",
+      "emoji": "😂",
+      "score": "33.61",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チー牛] チギュりパン",
+      "team": "チー牛",
+      "emoji": "🤖",
+      "score": "4.64",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵みゅー",
+      "score": "33.61",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "4.64",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇺🇸usa",
+      "score": "1.12",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy109kWhSAIBdCj8P/ffJelMQjkw42XHPYiwgQ+iN6PUBLX1oFb+msnY7w56GdH4GBak+RzHYgdZmVJU19O49Ad5ksaeOaq6kInq6WTjfiAV4X72Y4g0jB1dEdWvGNUGe0oyKamVDg9DxycuxZyZr5rSyd3QzeAotfurheujajK066V7tppD1QNVIRNvgGD3wXg5TDMtKHjedGFTWhfynhcM86n4zVu5pMdYpkqBnc3GP+LH+x4Bgs=",
+    "cp": {
+      "1": "#58ee79",
+      "2": "#f77ee3",
+      "3": "#f68383",
+      "4": "#4bdae7"
+    },
+    "sz": 40
+  }
+}

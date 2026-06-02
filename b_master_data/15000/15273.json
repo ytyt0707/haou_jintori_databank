@@ -1,0 +1,81 @@
+{
+  "round_id": 15273,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-02-15T04:11:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "😈",
+      "score": "38.93",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "8.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[神撫子] パンテオン",
+      "team": "神撫子",
+      "emoji": "🦄",
+      "score": "0.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[神撫子] 山上徹也",
+      "team": "神撫子",
+      "emoji": "😂",
+      "score": "0.37",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😈",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "40.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "8.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵阪神",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx901EOAyEIBNBhoPb+N26oZUWF8mPic1zYRDMzQ1emqi9tClbSCC1DY0y3koez7HtM5mEEvKOPB4cmTuGfktyUTHgoo5KiQ1fmqCadJ++LWavemr4b+YWrLaa7n1pa1T3R3N61jEqpEmsxLylyZMurexUR6Xr+p+gUscL5mAjA9wBcz7+RX0nSGyHSPi9XAB9ABQiO",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#f849ca",
+      "4": "#f849ca",
+      "5": "#f849ca",
+      "6": "#ecba74",
+      "7": "#ef2d2a"
+    },
+    "sz": 30
+  }
+}

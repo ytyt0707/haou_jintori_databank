@@ -1,0 +1,57 @@
+{
+  "round_id": 13560,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-11T06:06:00.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "👽",
+      "score": "5.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無し99",
+      "team": "",
+      "emoji": "😂",
+      "score": "3.32",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎郡] 一等兵",
+      "team": "猛虎郡",
+      "emoji": "🦊",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵YY勢",
+      "score": "5.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎郡",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10uEKwCAIBGC72fu/8shGaJcOBrsfQnwpRYlkgV+objiyTCPDqVaqSlwqePJBZ62UbxR7BYUCpthx6bPTY1TKn9rEHZx7m9XegX5QaVMtrJZEV2odvB8vKN3PIb1QmJx8uoxTfM31vdVyAxDiBC0=",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#f653f9",
+      "4": "#67f9f9",
+      "5": "#63f883"
+    },
+    "sz": 30
+  }
+}

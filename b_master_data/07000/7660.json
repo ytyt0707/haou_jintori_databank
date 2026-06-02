@@ -1,0 +1,62 @@
+{
+  "round_id": 7660,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-20T02:58:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "🐱",
+      "score": "43.54",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "😎",
+      "score": "2.03",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ゲスト] OMNK",
+      "team": "🇯🇵ゲスト",
+      "emoji": "💩",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "43.54",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ローマ",
+      "score": "2.03",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0EsOwCAIBFA6w/3P3Jj64SMmdhZd9AkiIjZE+5AEAAEkKD7p8chRN8qnCDm5I2Lhim8clf7a9seekai2Q553qX9pvPYCVY+oZa2OlNUSNR2Qqvlu8Bu18gTnJkc819aLTmNdcv2kwybTEh3/0pgXhFwFMQ==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ee446f",
+      "4": "#eaed31"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "round_id": 3996,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-11T20:41:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "💩",
+      "score": "35.81",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うんこ] やったか！？",
+      "team": "うんこ",
+      "emoji": "🤔",
+      "score": "22.04",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "😎",
+      "score": "7.48",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦊",
+      "score": "0.28",
+      "kills": 10
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵悟る] さとる（本物）",
+      "team": "🇯🇵悟る",
+      "emoji": "🤠",
+      "score": "0.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵悟る] さとる偽物",
+      "team": "🇯🇵悟る",
+      "emoji": "🤔",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんち",
+      "score": "35.81",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うんこ",
+      "score": "22.04",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チー牛",
+      "score": "7.48",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "みん²",
+      "score": "6.74",
+      "kills": 20
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵悟る",
+      "score": "0.33",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0UEOxCAIBdAflZS5/4UnSEUE2pSN1QdIbO8xgLmQRGfmlLAYoiWTacXWuXanNlKpudbdy63ZYaF8K2a/NdS+t+lL0BF+KkSk/obk3yqa6JozFRLNHzJX3UYtbjv0PPCfnytTImifAGmGvZ00JDTnTDYcg0oVUAfhp4hYqs2fFViNgTDUPZdntevKuKI+TVkP1Tn+cwYLyA==",
+    "cp": {
+      "2": "#f7dc40",
+      "3": "#34f9e8",
+      "4": "#ab6eed",
+      "5": "#8ef859",
+      "7": "#ab6eed",
+      "8": "#fa6697",
+      "9": "#31f261"
+    },
+    "sz": 30
+  }
+}

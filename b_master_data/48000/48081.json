@@ -1,0 +1,51 @@
+{
+  "round_id": 48081,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-03T05:01:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 妹",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "10.20",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 兄貴",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "4.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "も",
+      "team": "",
+      "emoji": "😍",
+      "score": "0.46",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "14.33",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkEsSBCEIQ4Pp3P/KU2HaEezPatio9ZIAAhi9MAYGVnXq12LAqPa8V3oJb96TZrfs0q0zG9a50153nqLZRy0oI/si/6V1WEk1vH+gXAsbLm/CjU5txE4n8flIwwy3XjGy8A0ufTNZYgruKUgpZtvdC9Lm03qhInkcx0OySAXj5HXLvPM7mMT2k1Nn6rnJS1sAk0ZMfT3fKeC1wuH42Vn9VsD4vT7WnwOE",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e88730",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

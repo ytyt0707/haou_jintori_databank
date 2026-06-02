@@ -1,0 +1,51 @@
+{
+  "round_id": 40351,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-15T07:19:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "涼宮ハルヒ",
+      "team": "",
+      "emoji": "😃",
+      "score": "41.55",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[たかし] たかし",
+      "team": "たかし",
+      "emoji": "🍘",
+      "score": "18.04",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "3.48",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "たかし",
+      "score": "18.04",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kkEWgCAIRDHw/lfuDTCC1qJVLkr9MoygSBtmhtX0gZ9h+AGf+TwovrEHnLRFk5otGEIhX5uL08ecs9HKqzzwRlWV3OyiHRoETWzXTkVkpxte1KN3WRTDQ1P7N0pTyKt6VuMzhffDs4gMHbwUaWYAHIO0es4ie2zg9iKKIhzS/b04jb5m3id1O5n3pOzAuzIpe795XnWK9KUs+U6jDAflsiRzp90EaXnu0/8G70QIqQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#30e881",
+      "5": "#d4c811"
+    },
+    "sz": 30
+  }
+}

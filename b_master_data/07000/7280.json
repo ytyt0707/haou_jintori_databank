@@ -1,0 +1,93 @@
+{
+  "round_id": 7280,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-19T06:25:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "^-",
+      "team": "",
+      "emoji": "🤖",
+      "score": "47.81",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐲",
+      "score": "32.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] ぷゆゆ🥺",
+      "team": "みん²",
+      "emoji": "🤖",
+      "score": "5.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 山上徹也",
+      "team": "みん²",
+      "emoji": "😍",
+      "score": "1.62",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "かかってこいザコ",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.69",
+      "kills": 8
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[みん²] 爆弾の廃人",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "0.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵みん²] あい",
+      "team": "🇯🇵みん²",
+      "emoji": "😀",
+      "score": "0.06",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "39.44",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵みん²",
+      "score": "0.06",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN00sOxCAMA1CTEJfe/8IVLbSE32Y24xXSk4MECgAREQIIKCHJ7yhChhDYBogxvkoGZxkfLbn5qGN7HapzxauL6kZVNS5VVc2W9wLRHp5i1nFySuYDh1nRstfEUpqUb1+OzsWN0syX2anPXvvJf6vfS2PbPX+4dviFTpvNqqtVY7gAPo4RDA==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#e77240",
+      "4": "#c251ec",
+      "5": "#c251ec",
+      "6": "#ec74a2",
+      "7": "#e1f462",
+      "8": "#c251ec",
+      "9": "#c251ec"
+    },
+    "sz": 30
+  }
+}

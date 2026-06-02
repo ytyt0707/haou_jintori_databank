@@ -1,0 +1,90 @@
+{
+  "round_id": 51825,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-05-11T15:32:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ソ連] 魚雷",
+      "team": "ソ連",
+      "emoji": "👁️",
+      "score": "25.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] パソコンマン",
+      "team": "🇯🇵ONJ",
+      "emoji": "💻",
+      "score": "22.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ミサル] 魚雷",
+      "team": "🇩🇪ミサル",
+      "emoji": "🐟",
+      "score": "15.58",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無しuI",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "0.54",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "0.11",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] 名無しzz",
+      "team": "🇯🇵ONJ",
+      "emoji": "💩",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ソ連",
+      "score": "25.65",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "23.48",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇩🇪ミサル",
+      "score": "15.58",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkomOhDAMQ03WYf3/XzzKBYVqpKlUSvJqNz2kbsjRnVhaM3d3ksxvBNWKMgKS6ikvWiKKDD6wVgvPINnftJJB+Z8TR5xaakTFLuugLhKT37VZ9wN3WaFdKpspN4VERr/9Z0de6dagl08qQwrHL0d57genJEvHBy7bUwq+EOA6xlNmsr8XnXpkMsnWYwACyr0uzjBVSoSU9OgrlxkQhzixpOO4aWjrqGoCgOPm/YRGG+F3qsaXUapHm7T9lqHrWjLbLx9PufEXu128ZR6Jtv7V7aHdgg9vVQ0A",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30d7e8",
+      "5": "#60d411",
+      "6": "#9ca3af",
+      "7": "#30d7e8",
+      "8": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

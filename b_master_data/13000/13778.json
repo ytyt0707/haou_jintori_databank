@@ -1,0 +1,47 @@
+{
+  "round_id": 13778,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-11T17:53:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🦄",
+      "score": "90.51",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇪🇸裁判所] 5時間やる奴どこ",
+      "team": "🇪🇸裁判所",
+      "emoji": "🦁",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "90.51",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸裁判所",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJylUlsOwCAMgnH/O+9jzYxppbqRGNMnQQEASFLcmCGDVEUVXYtht7mvmoZm1kuyi/xmj73Zumv7rXJjQ/tD0aE3Wt4kY+HCEVX2PPjelP1kHJISHS+j+mp5DiJD4AanlQlY",
+    "cp": {
+      "1": "#f74b59",
+      "2": "#984af2",
+      "3": "#f5cb56"
+    },
+    "sz": 30
+  }
+}

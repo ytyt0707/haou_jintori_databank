@@ -1,0 +1,53 @@
+{
+  "round_id": 32316,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-30T22:19:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "91.86",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しu5",
+      "team": "🇯🇵ONJ",
+      "emoji": "💩",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "91.86",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵チンポ",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlkMEOwCAIQ0vq/3/zAkwDI2y3HZST9EGJJWPBShVE2QRnQCENFVkWc3UJpCh2K6WB2DMsP9F5fUknRfBOdfR7Ihlu1Pzy8+GBNbdu2ocKXtJoCfc=",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#e83053",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

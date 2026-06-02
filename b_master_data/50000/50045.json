@@ -1,0 +1,65 @@
+{
+  "round_id": 50045,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-07T15:17:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "岩井",
+      "team": "",
+      "emoji": "💀",
+      "score": "52.53",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵BOT] 抵抗プリウス",
+      "team": "🇯🇵BOT",
+      "emoji": "💩",
+      "score": "6.00",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[か] ちまき",
+      "team": "か",
+      "emoji": "🤠",
+      "score": "1.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵BOT] MITA",
+      "team": "🇯🇵BOT",
+      "emoji": "👾",
+      "score": "0.23",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵BOT",
+      "score": "6.23",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "か",
+      "score": "1.17",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kksOBCEIRAsD3v/Ik6JE247jZjIsRHn8FFvbBTpC8mIQFYsgNS5ph+iIDLqaEZe9NbSijIWZmaLSXBDMDCDhCFgqIuR4wnGjhFGJWHiIUydcdGJ3FzrFOqV3eVS66mtA0axRHtSTuodPmtYN0iLnZGvpa/un3Sh7rM6Ob2V/o7fU98J3en7Jxz046sdx20I/YbOtQ7b8NTifQ+Off0xT53g/IzYJZA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#4d81e5",
+      "5": "#30e8a3",
+      "6": "#7c4de5"
+    },
+    "sz": 30
+  }
+}

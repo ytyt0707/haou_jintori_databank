@@ -1,0 +1,95 @@
+{
+  "round_id": 15281,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-02-15T04:45:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🦊",
+      "score": "22.87",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵グリコ] けんた",
+      "team": "🇯🇵グリコ",
+      "emoji": "😀",
+      "score": "18.03",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🐲",
+      "score": "11.54",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵万華郷] 自認ロゼ",
+      "team": "🇯🇵万華郷",
+      "emoji": "😂",
+      "score": "3.27",
+      "kills": 9
+    },
+    {
+      "rank_position": 7,
+      "player_name": "名無しae",
+      "team": "",
+      "emoji": "😀",
+      "score": "1.30",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇬🇧珍走団] ベネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "22.87",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵グリコ",
+      "score": "18.03",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "11.54",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵万華郷",
+      "score": "3.27",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJxtkQEOwCAIAytE4P8vXgTclNG4RDkLDIGU6lqxZVZl1TzPqal1S9kpxxE6Pxxidi9jug5y2OEBu6we432vEy9pUqsUb2OLFiyy+vLMtlSgCNh/3QwNhYiPwn5eSX10j/Njp9d8d8I/NcBLxndBp0k67w62XZlItle8sZO3+aasvF6gVr0pgDKLVaxS2tD+lIiypTYzEZ3WQseGHR0jvWYmOeqexkvAbpx0P8RNx9hx7/zKTb4i5TGZ0AMh/Q3n",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#96ef48",
+      "5": "#f66e55",
+      "6": "#6881f3",
+      "7": "#ebca6f",
+      "8": "#d060f6"
+    },
+    "sz": 30
+  }
+}

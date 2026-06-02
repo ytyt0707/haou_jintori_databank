@@ -1,0 +1,87 @@
+{
+  "round_id": 45109,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-26T12:22:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵特攻隊] 殺す",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤡",
+      "score": "45.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🧠] も",
+      "team": "🧠",
+      "emoji": "😍",
+      "score": "24.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 鳥居さん",
+      "team": "🇯🇵ONJ",
+      "emoji": "⛩️",
+      "score": "16.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無し6M",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.48",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🧠] ぶりぶり",
+      "team": "🧠",
+      "emoji": "🦊",
+      "score": "0.76",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "45.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🧠",
+      "score": "25.07",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "16.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "1.48",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkVsOwzAIBAEDvv+NozX4EddJpZaPRMp4FkxqPZZFHVmt/9CUf0l2f5vKExPleO2VfdgTH2lldsfJm2pzxhMtpRARzrBzHUuJ5iVoRjD3leVohDIDZubNtYSB9+SumiFzpwa535/24A5e3op65N8pHexm9YeI3OL7dxVRVdnwoEANr/KkAvzsarhr5+nqh2m2UiSvXVeKeUHHzs2MbrLivu2nxZkBcd1Y1gWyUBFY",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4b611",
+      "4": "#9ca3af",
+      "5": "#e88730",
+      "6": "#8B4513",
+      "7": "#d4b611"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "round_id": 19057,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-28T04:04:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] ソビエト共和主義",
+      "team": "🇯🇵田中",
+      "emoji": "🤠",
+      "score": "39.15",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🦊",
+      "score": "36.15",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 腰痛",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦊",
+      "score": "6.88",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "39.15",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "36.15",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "6.88",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0zkOwDAIBMDl+P+bIx8QgiHyFik8WuMUACkSY4dsEZH5MeVvQlP4zFusNLR/NQ+9UL7qct/lTu+efM7Fr0bslIULlXVqFyzV/KN+s6p+Lo0MUn1dUky10cWznnF3iajRUaaRE7cODmeFzhFFl8hVC92Dzza86hp2BWDyDPVlAtYWueaFAx68Dwfd",
+    "cp": {
+      "1": "#2da6f0",
+      "2": "#f25454",
+      "3": "#b22eef",
+      "4": "#2da6f0"
+    },
+    "sz": 30
+  }
+}

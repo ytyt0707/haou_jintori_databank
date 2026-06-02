@@ -1,0 +1,72 @@
+{
+  "round_id": 11683,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-03T16:56:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "🤔",
+      "score": "38.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[さとる] さとる神",
+      "team": "さとる",
+      "emoji": "🦄",
+      "score": "23.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵神撫子] 🐟💦",
+      "team": "🇯🇵神撫子",
+      "emoji": "🤔",
+      "score": "14.83",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[VIP] 名無しAW",
+      "team": "VIP",
+      "emoji": "😍",
+      "score": "3.95",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵神撫子",
+      "score": "53.34",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "さとる",
+      "score": "23.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "VIP",
+      "score": "3.95",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90QsOxCAIBNBZmOH+R974p7ZK0tTwBKkFruFenj1qCm/JibPiU/O2oTxt2BRplkvnpXx2Zu+VzzWbSn+rJ/0dOnMNOZW9bzuSfClLNOE+lRmdnDvoEePT4WZGYGnEVABmkISuHkNrmEw10HTW1ppukrZafYVfVbX8pGXYot+lAOOo5cQIXpRHVbu2ozIpKar/A/ZMVYwll47VuOe2Znkrpf+Duwst",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#f04c57",
+      "4": "#f04c57",
+      "5": "#4c39f3",
+      "6": "#72c5ee"
+    },
+    "sz": 30
+  }
+}

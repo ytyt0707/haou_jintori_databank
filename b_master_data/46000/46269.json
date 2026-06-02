@@ -1,0 +1,80 @@
+{
+  "round_id": 46269,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-04-29T03:04:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬきち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "27.65",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しYs",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "7.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猟友会] たぬき殺しのマサ",
+      "team": "猟友会",
+      "emoji": "👹",
+      "score": "2.49",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 🦾🥺🦾",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦿",
+      "score": "1.93",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] sato",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥸",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "34.65",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猟友会",
+      "score": "2.49",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.06",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkksOwzAIRFHowP1vHA1gG7tqm11ZxFYeM3xkkecBiHil45QBgLtDnGl7qKozmBOxY6gmqoyNwlWVoiknzhIAlFGuh/UTulqieBZ2iWFmycP5O+Ua+rC7c9IrdhW2DbOem1+vq+lHU2ZmXAM/yL5l9Vw0UppjiR0IWRUcluNMz4DWtrDEpTNbK5raYoDZ+NfOWXa+nAbFs9/xqDri3WLMT1Q4/ntDy+QXXZn/vd1wtQdN",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#9ca3af",
+      "5": "#8B4513",
+      "6": "#9ca3af",
+      "7": "#8B4513"
+    },
+    "sz": 30
+  }
+}

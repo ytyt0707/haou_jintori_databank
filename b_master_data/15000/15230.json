@@ -1,0 +1,42 @@
+{
+  "round_id": 15230,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-15T01:08:20.000Z",
+  "players": [
+    {
+      "rank_position": 3,
+      "player_name": "[さとる] 矢野彩喜、死す",
+      "team": "さとる",
+      "emoji": "👽",
+      "score": "12.52",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[さとる] やの",
+      "team": "さとる",
+      "emoji": "👻",
+      "score": "0.08",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 2,
+      "team_name": "さとる",
+      "score": "12.59",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0IEOhCAMA9Ct1///5ss4wW4wvZqY6GOFYDbjjhx3F3TEE78BxPfUaylu1UEpuwMUTf6itTnptq/o6lXF1qv4r+6H4kmZ1B61vYykciySjJdcxxzmFTDfM1TNS6CjFYey02hmp+lIpOsCs6J5XNgO5UtXxa6ygXX6YzT8GTsstTo80sIhX/J3BIo=",
+    "cp": {
+      "1": "#47f0cb",
+      "2": "#47f0cb",
+      "3": "#eaaf62",
+      "4": "#eaaf62"
+    },
+    "sz": 30
+  }
+}

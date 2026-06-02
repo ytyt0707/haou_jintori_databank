@@ -1,0 +1,64 @@
+{
+  "round_id": 2811,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-09T04:21:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[さとる] ポケモンBBS",
+      "team": "さとる",
+      "emoji": "👻",
+      "score": "28.72",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "20.42",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ぴょこ",
+      "team": "",
+      "emoji": "🐷",
+      "score": "11.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[さとる] 🐬",
+      "team": "さとる",
+      "emoji": "😈",
+      "score": "4.76",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "さとる",
+      "score": "33.48",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "20.42",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eJy901sOhSAMBNDp0P2v+SYVlL4IX3cSTZTTKoIYPgBgp5hRxQ3bUbpZ/g12/ZrCfP/SRQqAJOcV64rPPWCrGGNo5WSyDapmJyKT8XkzVeeQnUm1OLaccIPqYe3A0BBNP6r2jszQ7RcCEh3VjrCzxMJAk5MVRuifKx0sXfGSHm79ZE72nXXn4tdx/9HBOdg69i7C1h2efHYf5HHGtUtL5/rRtlY0YSbl8IpbkIakhZt3rbz/fO9Qbo9TLhluzKJX6j/5AWX3CUA=",
+    "cp": {
+      "1": "#a89cf6",
+      "2": "#f8dd72",
+      "3": "#53e9b7",
+      "4": "#f8dd72"
+    },
+    "sz": 40
+  }
+}

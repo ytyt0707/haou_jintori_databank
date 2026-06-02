@@ -1,0 +1,56 @@
+{
+  "round_id": 10499,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-01T00:56:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤠",
+      "score": "55.51",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ルーザ] Lose dog",
+      "team": "ルーザ",
+      "emoji": "😎",
+      "score": "0.08",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "👻",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "55.51",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ルーザ",
+      "score": "0.08",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJylktsOwCAIQ6th///Ly7ywgsAe1gdjeqRBBZjqIMkQRI3e+3EATJmsJdIKpuQ3SUSpLH8b0P1uauwvOQVz2hDNylTC3VRISlrXutuHsKY/Sj9ozP0ciHnv47dJreUUQE6H1RI6LcpWQO20R74WFYWhbkTB1A23pdw0Yt0CCQf9",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "4": "#c4e92f",
+      "5": "#f066c0"
+    },
+    "sz": 30
+  }
+}

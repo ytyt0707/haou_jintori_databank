@@ -1,0 +1,76 @@
+{
+  "round_id": 825,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-04T15:01:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[大東亜] wad...",
+      "team": "大東亜",
+      "emoji": "🐶",
+      "score": "58.05",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[日教組] 台湾の大根",
+      "team": "日教組",
+      "emoji": "🤠",
+      "score": "3.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[舞散葉] まるでサンタ",
+      "team": "舞散葉",
+      "emoji": "🤔",
+      "score": "0.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[さとる] ちくしょう",
+      "team": "さとる",
+      "emoji": "🐲",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "大東亜",
+      "score": "58.05",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "日教組",
+      "score": "3.07",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "舞散葉",
+      "score": "0.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "さとる",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJy11FsOAyEIBdALZf9rbowtKnqRNi1fPk4EjDNAD8Ut9BV9eHeuuUPRVc/7q9NecMmdDlYSP3bVvNW0wWZsht87ESklFhkyOixoQHpeIxiQOZFw4MjvYzN3iG6GZqZtuyUR8Wfj8D1tbqppu8m1YT33p9MCEhcW6H2h/zJuLGa5OoTpg7kVaoztQZDHhiPM3HIDHGruTtWlbeQfzbSzdUTKIw4fxhPDYgbt",
+    "cp": {
+      "1": "#9b79f6",
+      "2": "#f29cc1",
+      "3": "#95fb3c",
+      "4": "#54e0e8"
+    },
+    "sz": 40
+  }
+}

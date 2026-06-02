@@ -1,0 +1,129 @@
+{
+  "round_id": 23724,
+  "game_mode": "TEAM",
+  "player_count": 12,
+  "played_at": "2026-03-11T09:09:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "⚔️",
+      "score": "33.38",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "👺",
+      "score": "29.10",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] イスラム教徒",
+      "team": "猛虎軍",
+      "emoji": "☪️",
+      "score": "16.99",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵阪神] 佐藤輝頭",
+      "team": "🇯🇵阪神",
+      "emoji": "🤠",
+      "score": "6.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵阪神] 名無しPt",
+      "team": "🇯🇵阪神",
+      "emoji": "🐯",
+      "score": "2.21",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[コレた] 名無しfz",
+      "team": "コレた",
+      "emoji": "👽",
+      "score": "0.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.32",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[楚] 名無しVa",
+      "team": "楚",
+      "emoji": "⛳",
+      "score": "0.20",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🍂たぬき] シャクドウ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.13",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "46.09",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "33.58",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "8.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "コレた",
+      "score": "0.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🍂たぬき",
+      "score": "0.45",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1k4EOwyAIRFntNs7+//8udyBV09E0Ko87sEmPg2EMN7PeO98MGJlHjGStsMMG9MrW5mbUVzo3/ygLvZetWtdE8nGYf3Omydl75Lp9J0o3WUYli27KUWSpdnEqqjmprVZz36ChVwFQddNdMwebqLBzkrQGMN83Jx7ewPqpaPl6Qf2oXKwJQZhRUriDj5SD5sz3cdvJjbnzPDfEo7uSZ9DPXiFKGFrbOVor+MBae25raBFDsxknbQOv60rtWWtN6plG4VAT65cJ87eWhJB4oQbJy0/QzK7rohF+93YayA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8b4",
+      "4": "#30e8b4",
+      "5": "#8B4513",
+      "6": "#8B4513",
+      "7": "#e83030",
+      "8": "#e830ba",
+      "9": "#e88730",
+      "10": "#e830ba",
+      "11": "#e88730"
+    },
+    "sz": 30
+  }
+}

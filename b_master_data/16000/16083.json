@@ -1,0 +1,50 @@
+{
+  "round_id": 16083,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-17T07:51:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "a",
+      "team": "",
+      "emoji": "🐶",
+      "score": "73.42",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧漢] 練習",
+      "team": "🇬🇧漢",
+      "emoji": "🐶",
+      "score": "0.09",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "チーかま",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧漢",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy90VEOwCAIA9DS7f5n3oeiCOjMTNYvwrMxRgCQHrSQZJmM0UZP7qikquaVsSmTsit2xUpru2wShWLWjbCJZnEFzotF53am7e33zxcf6fhlUdd5PfAtCIPFMX71AMq/BXs=",
+    "cp": {
+      "1": "#e7db3c",
+      "2": "#f8626a",
+      "3": "#7b68f3",
+      "4": "#25f44e"
+    },
+    "sz": 30
+  }
+}

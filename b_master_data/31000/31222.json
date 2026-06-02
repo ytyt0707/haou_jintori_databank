@@ -1,0 +1,87 @@
+{
+  "round_id": 31222,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-28T10:20:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[大清国] 大日本帝国陸軍",
+      "team": "大清国",
+      "emoji": "🇯🇵",
+      "score": "29.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇮🇹大秦国] ネロ帝",
+      "team": "🇮🇹大秦国",
+      "emoji": "🗡️",
+      "score": "22.02",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🤠",
+      "score": "4.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しv5",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.47",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵山本組] 山本",
+      "team": "🇯🇵山本組",
+      "emoji": "🤠",
+      "score": "0.52",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "大清国",
+      "score": "29.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇮🇹大秦国",
+      "score": "22.02",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "1.47",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵山本組",
+      "score": "0.52",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGV0FEOxCAIBNCRgtz/xpsBK2qbTeqX+hwUgeeQMZ4C4LpERQTwg1U1WEUFfqhyREBE3HcOVFZ0gLpVTtUsKaPKPHEro2ddAMEp1L0yi6hqwLsWeW9tXsrJQu699xU3o1bW9qBH9q5s//QFq7KZ2XgTWqv7szKVB/gBq+Z3DLXoYOVsaXAuWjXOjTs6svUtcXpq8qFHmAm+O++paM2o7HK5ttDMUretdeHr4uscVs/9ms3z2dfsbixp+AFGVQu/",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#e84230",
+      "5": "#3081e8",
+      "6": "#8B4513",
+      "7": "#8b4de5"
+    },
+    "sz": 30
+  }
+}

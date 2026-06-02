@@ -1,0 +1,114 @@
+{
+  "round_id": 37346,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-04-10T15:10:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しJP",
+      "team": "",
+      "emoji": "🐷",
+      "score": "20.64",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇦UKR] ねる",
+      "team": "🇺🇦UKR",
+      "emoji": "😔",
+      "score": "12.78",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] なきこ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "10.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] お腹いっぱい🎀",
+      "team": "🇯🇵ONJ",
+      "emoji": "😭",
+      "score": "9.55",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇺🇦UKR] 名無しd9",
+      "team": "🇺🇦UKR",
+      "emoji": "🦁",
+      "score": "7.81",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] 悪童",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "7.53",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🍂たぬき] ぴ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.87",
+      "kills": 5
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵ONJ] 名無しaU",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "2.65",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇦UKR",
+      "score": "20.59",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "19.73",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "なきち",
+      "score": "10.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "3.87",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkdsSgyAMRCOJifj/H9zZXDC2djrTfUDgZDcgc36IBiQyRIJZLwHq1G50DnGNIapzWqOGRVARUVXfmFmEhYlZFBTNr0MvcJy7+pWCuMy8S4SX18nhumg0TpsCqipVY2redBItevOms1HeNr9vhB+qFPJwZmbD34AuhnQyA2U5cZZlS3dRPqHKLEhEzBszK2jbraknM7k5h0L4Am9/0T10864jJNx72zpgsf0HfUq+vG807rTwRWPmeNGnU9E3+pTc4u/JRP4GGPpjZPYLUrQTXA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#9ca3af",
+      "5": "#30a3e8",
+      "6": "#9ca3af",
+      "7": "#ced411",
+      "8": "#9ca3af",
+      "9": "#ced411",
+      "10": "#73d411"
+    },
+    "sz": 30
+  }
+}

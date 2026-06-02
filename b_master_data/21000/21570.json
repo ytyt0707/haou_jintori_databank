@@ -1,0 +1,66 @@
+{
+  "round_id": 21570,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-03-05T21:11:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[桜] 姫華",
+      "team": "桜",
+      "emoji": "😈",
+      "score": "17.69",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "お前ら仕事は？",
+      "team": "",
+      "emoji": "🐷",
+      "score": "14.37",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しcE",
+      "team": "",
+      "emoji": "👻",
+      "score": "10.15",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楽しい] どまぎゃあ",
+      "team": "楽しい",
+      "emoji": "🐷",
+      "score": "0.70",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "桜",
+      "score": "17.69",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楽しい",
+      "score": "0.70",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkeESwyAIgxEx7//IW0AEt97uxo/W+hkS6ZCRJbtUVUWEr0RjGIsHFADIijozExLWI7ULZucttaAhVM1Mh1o25QkRIYhIFtJUHtqlO5CfqX1fVdwnKt1WtWsB+DTKuFHO4IlOhuVVP6gAZnPWhOT8Ad4XwDyUiKb+4DEghQDWqkBuslZ09fdajTPgCsz9qFInTtKl3pniXiXdxh32WMQXu+BvulM1+bEl+uocU9rIaVkfpQ+7axvhcsvT9B96OftH/Nnaf69eK4IKCw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e86430",
+      "4": "#30e8e8",
+      "5": "#604de5",
+      "6": "#30e881"
+    },
+    "sz": 30
+  }
+}

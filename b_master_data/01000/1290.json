@@ -1,0 +1,47 @@
+{
+  "round_id": 1290,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-01-05T16:05:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[自民党] 安倍晋三",
+      "team": "自民党",
+      "emoji": "🐲",
+      "score": "33.41",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[舞散葉] う",
+      "team": "舞散葉",
+      "emoji": "🐲",
+      "score": "11.82",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "自民党",
+      "score": "33.41",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "舞散葉",
+      "score": "17.82",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0kEOxSAIBNAB7n/nnxoLSIGSrv7EjfGFjFHgT8NXXo54pxvhM3RtJYuMnMjEiTQONaN8XnS0og7eoXJNO+8CezhseKps3qsji8qbid3PO4XO3ZKiI4OuEIWAUhfZFWs4dNS7FWNnP17LufNysE052jtmHjkaOZC2S/jx28tpH10DMYSYwcjG7vFjC3a84t6mSml96uFIpfkBCyIErA==",
+    "cp": {
+      "1": "#f48bd1",
+      "2": "#7ed2fc",
+      "3": "#7ed2fc"
+    },
+    "sz": 40
+  }
+}

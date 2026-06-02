@@ -1,0 +1,106 @@
+{
+  "round_id": 57982,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-05-25T12:25:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳红卫兵] 毛沢東",
+      "team": "🇨🇳红卫兵",
+      "emoji": "🚩",
+      "score": "17.99",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 奈良",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦌",
+      "score": "8.59",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "2.95",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[あずき] 梨",
+      "team": "あずき",
+      "emoji": "🍐",
+      "score": "2.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[あずき] あずばたしんや",
+      "team": "あずき",
+      "emoji": "🦊",
+      "score": "0.84",
+      "kills": 7
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] 名無しrN",
+      "team": "🇯🇵ONJ",
+      "emoji": "😄",
+      "score": "0.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ONJ] 名無し2B",
+      "team": "🇯🇵ONJ",
+      "emoji": "😈",
+      "score": "0.09",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[あずき] 名無し1b",
+      "team": "あずき",
+      "emoji": "😍",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳红卫兵",
+      "score": "17.99",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "11.80",
+      "kills": 17
+    },
+    {
+      "rank_position": 3,
+      "team_name": "あずき",
+      "score": "3.00",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkQEOxCAIBLklxfL/D18ARdR4Z9IEHGexLdGyRGTvhWRZhS/70Sz0eVpr9dBK21/6FNlcjQARC67JDpManKqqkj3DFUmVDExG9VWBClyut8EI7LnVVeS4pCP6fY9YOzO+HsCsPK1e5X9hVuw0IRjAIfc/agw45B7GbHxPjp59nXOTKh9DZyxfIZEHz6GfWXpleNsqbVzrdsDdqx5uCSulxLVuwZ3+wHQda1NO+AV9fQbO",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "5": "#30e8b4",
+      "6": "#e83053",
+      "7": "#30e8b4",
+      "8": "#9ca3af",
+      "9": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

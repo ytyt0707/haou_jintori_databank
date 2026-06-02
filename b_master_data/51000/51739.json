@@ -1,0 +1,63 @@
+{
+  "round_id": 51739,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-11T10:53:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] げ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "19.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷キムチ] 名無し3D",
+      "team": "🇰🇷キムチ",
+      "emoji": "😀",
+      "score": "8.98",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[テスト] テスト",
+      "team": "テスト",
+      "emoji": "💣",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "19.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷キムチ",
+      "score": "8.98",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "テスト",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kdEShCAIRZHo/3+5uRdRJGtnZ2d5yOBwJE11hiAiFdWRsBjUjC2m3kqHjLlFTEdEwQNgddetrmnimI3x0ZCQmaE6afbQF5KvH2jBi6v6RuUXms/TlqHjnji73WAa2zZUzA4EbuHuChkedSbzdzrkrVvo/He92/feq+LyE3T8H/rV3mf5Bp6p1HK6v+Xc0d8v21QESw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#8B4513",
+      "5": "#e86430"
+    },
+    "sz": 30
+  }
+}

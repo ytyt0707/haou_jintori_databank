@@ -1,0 +1,63 @@
+{
+  "round_id": 33096,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-01T16:28:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しIK",
+      "team": "🇯🇵ONJ",
+      "emoji": "😪",
+      "score": "90.71",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] 名娼満月",
+      "team": "なきち",
+      "emoji": "🟡",
+      "score": "0.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無し0u",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.35",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "90.71",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "0.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.35",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkVEOgDAIQ7d1u/+VDZPiGBh/jIn8AH1phxHQaizZC1XrQm0Jw/SKGo2iNtDde/AK12ij7ilSczpqZsUemoeDx367Oz/3Uv2g72e+9WT+t5g+6RhApbL2AgwFPoZbTW1rxL9mfld+9QM9cblqSWkH/c4KJg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#7c4de5",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

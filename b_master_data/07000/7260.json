@@ -1,0 +1,107 @@
+{
+  "round_id": 7260,
+  "game_mode": "TEAM",
+  "player_count": 13,
+  "played_at": "2026-01-19T05:20:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] でじこ",
+      "team": "楚",
+      "emoji": "🦁",
+      "score": "17.36",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 犬神フウト",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "16.14",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "爆弾の廃人",
+      "team": "",
+      "emoji": "😀",
+      "score": "9.97",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] ツインテメイド服",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "8.36",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[グリコ] おちすぎ",
+      "team": "グリコ",
+      "emoji": "🐲",
+      "score": "7.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "イキスギウム",
+      "team": "",
+      "emoji": "🐲",
+      "score": "2.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇷🇺暴風軍] 蘇ったチー牛🤡",
+      "team": "🇷🇺暴風軍",
+      "emoji": "😂",
+      "score": "2.22",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "42.63",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "team_name": "グリコ",
+      "score": "7.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺暴風軍",
+      "score": "2.22",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵細川家",
+      "score": "0.17",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJxt0YmOwyAMBNDBB5WV8P+/u/IBAbQjNan6Oq5LwMzG5mEGR1B3ZvSMcdyY/WVL/VPtzNxXGLuqqpYiB+yTXVW2Lp+/q6of2rWV42LV2D+XB2LyV5VgZDq6RllWV59nae8iKttSvmIhpHKM/v0+7QeL2LPrVZZvqWArHusv3dVqx7n9pzZ1mxzAUyXP4iqvGWmn9kFz/KlEIqMTnd2FNMagqXrrSIWfdm0c/L7voaLhdVaumEqpPsEMrXRMJRLyR+mPryHKsVZcMt4mCo1u7Yb6is8mtNZalpPj2s5c+nG8nTjTsBRoL/4Av/wOBg==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#f7f24a",
+      "4": "#f12786",
+      "5": "#f12786",
+      "6": "#f12786",
+      "7": "#f12786",
+      "9": "#e46cef",
+      "11": "#f12786",
+      "12": "#5cb3fa",
+      "13": "#ec9969"
+    },
+    "sz": 30
+  }
+}

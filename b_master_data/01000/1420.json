@@ -1,0 +1,105 @@
+{
+  "round_id": 1420,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-01-05T23:12:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "25.61",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 立浪和義",
+      "team": "楚",
+      "emoji": "💩",
+      "score": "8.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[日本軍] 浅井長々",
+      "team": "日本軍",
+      "emoji": "🤔",
+      "score": "5.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "💩",
+      "score": "2.36",
+      "kills": 14
+    },
+    {
+      "rank_position": 7,
+      "player_name": "c",
+      "team": "",
+      "emoji": "😈",
+      "score": "2.19",
+      "kills": 0
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[米軍] トランプ",
+      "team": "米軍",
+      "emoji": "🤔",
+      "score": "0.82",
+      "kills": 5
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[日本軍] 隊長まりも",
+      "team": "日本軍",
+      "emoji": "🦄",
+      "score": "0.60",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "33.84",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "日本軍",
+      "score": "5.90",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "2.36",
+      "kills": 14
+    },
+    {
+      "rank_position": 4,
+      "team_name": "米軍",
+      "score": "0.82",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV1NuywyAIBVAIBsn//3BHIjdjenp4yHSa1Y2oU4BaiIjMCJtCRH0dxTweIU6PWNiA051aOzZdZnunEN4dPN3pzgzUuHCtuLUte9zOcdCnKx39U7jWprNQvjfEFmxjtNOdSi7Ojq412xc/E4P11Mx5nDml7lrMYbeEfeg4j7nKOA8mTjMXFzcOYtaZur1+eYY/HNaNyW2v60rLq6Fh1F3edjy67QuXrOyUde73rMXdLC7ggL0ve5IcpMCOxR0HuDJJhDXu0IJQ6oio3pNjumUPyeE3Bz86ZdXBu6NyrLu2QLPW73OJ/OQku+0fnzH5Hif/cVLabqnYEJk9nUSeyAsar9L6RKG81yN+/Di/EBv3A0CgC/M=",
+    "cp": {
+      "1": "#f0897f",
+      "2": "#cdfc4a",
+      "3": "#95f57a",
+      "4": "#a688f6",
+      "5": "#a688f6",
+      "6": "#f0897f",
+      "7": "#f3c472",
+      "8": "#8cd5fd",
+      "9": "#e294f5"
+    },
+    "sz": 40
+  }
+}

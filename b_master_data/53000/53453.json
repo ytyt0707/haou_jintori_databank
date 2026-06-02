@@ -1,0 +1,83 @@
+{
+  "round_id": 53453,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-05-15T07:32:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "54.18",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵混沌] ニャル子",
+      "team": "🇯🇵混沌",
+      "emoji": "🐲",
+      "score": "1.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しil",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.24",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] (^-^)/",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "0.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] 立花宗茂",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵混沌",
+      "score": "1.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.35",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkckSwyAMQ3FbTfj/L854w4jlVA4ZW8+LIK3x+dhhrbIB8QWkdI+KArJShVYGZKtGaIDJE/Zeo+PjWFOlQ66gmSryHKnugMhzpTr3Mtk8+m1rHUfmOKTNnM3d1Kj2rTeqps738XZxb2wmM/HXzRSa06HJTMefogZNtMl/94ZsX+KiHfh5Z7Jpce9RGDN58UKXvUldXiBOtN456NwarlQiT6OG7z3kv4MXgCAKXA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#d4b611",
+      "5": "#47e830",
+      "7": "#8B4513",
+      "8": "#7c4de5"
+    },
+    "sz": 30
+  }
+}

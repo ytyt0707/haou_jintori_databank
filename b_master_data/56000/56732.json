@@ -1,0 +1,81 @@
+{
+  "round_id": 56732,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-22T16:50:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] あ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "25.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無し無名",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "19.59",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しHc",
+      "team": "🇯🇵ONJ",
+      "emoji": "😃",
+      "score": "18.87",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "17.21",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[東卍] カス",
+      "team": "東卍",
+      "emoji": "🖕",
+      "score": "2.35",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "64.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "17.21",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "東卍",
+      "score": "2.35",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG90kkSxCAIBVBl8v437oIPQsp9s0iML984hChqjRIvZu8B0kUzAzIzDyWriig03ajVTNxi8Bi7YnXXFSpCn1SwiCIrzpXIu4jY1Sc9FWua8VazV00sR64MmfXnfT/Uq9TtMkx0XfVGcySHupBIvA1TxVPkiHz/vVk4v0tEcXZtH92BmGy+cgciCZ3JaK/sebXH2cjmNiBwde+9MavaJ1W9qgM9f86ZU9i+oEyfLPwDcdTk54xFFQ5l5uJzDmYXsb4gi2v3Vutv+gN4bA6f",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d130e8",
+      "4": "#9ca3af",
+      "5": "#9ca3af",
+      "6": "#9ca3af",
+      "7": "#d4c811"
+    },
+    "sz": 30
+  }
+}

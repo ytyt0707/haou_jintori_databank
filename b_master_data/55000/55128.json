@@ -1,0 +1,41 @@
+{
+  "round_id": 55128,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-19T02:07:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] ｺﾛﾘ",
+      "team": "ラー軍",
+      "emoji": "🥱",
+      "score": "0.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] tkb",
+      "team": "ラー軍",
+      "emoji": "🔅",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "0.18",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlU0EKwDAIa7L//3nEGmjBCj3stF5EY6JECgAgScX5lEVKYiS64u5zO4iFbTRLRGi4GnHAhIKnjkM5RX6Ilg5PO+TGdr50ycHHdL7Hjild3bb1uxZ4YsqJO9F9kQ+yejUPukL1DdrXetQyAby/mQPJ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5"
+    },
+    "sz": 30
+  }
+}

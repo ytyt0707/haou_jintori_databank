@@ -1,0 +1,66 @@
+{
+  "round_id": 56618,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-22T10:41:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 奈良",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦌",
+      "score": "74.33",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無し無名",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "6.49",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵自民党] ハヤブサ",
+      "team": "🇯🇵自民党",
+      "emoji": "🦅",
+      "score": "2.30",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵自民党] 山上徹也",
+      "team": "🇯🇵自民党",
+      "emoji": "😃",
+      "score": "1.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "80.82",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "3.38",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kwEShSAIRPntyv2P3Cyg3xqMKWt4LqigmRlgMD1hAC69GgydXWE9TSbxSWvfkZWQXVYo9JFawVYpZ0jBflWaIHKiKT5QggSuAwVIVvZucSSZ4Tuqw2holCznN3QLNKm7b975W9TdfYzpXN9Fx/iggi/t/yQDav8vq7OSUvt/cKoKPwkm3fHcEKCkIZarokQf77kyNo1Ub7/rW6mDBd+lgMXC8lbENXlitemCbfWL7tN029KWFDd8GAm+",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#30e892",
+      "6": "#30e892"
+    },
+    "sz": 30
+  }
+}

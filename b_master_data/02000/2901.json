@@ -1,0 +1,97 @@
+{
+  "round_id": 2901,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-09T09:12:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "うんぽこ",
+      "team": "",
+      "emoji": "🤖",
+      "score": "23.13",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] イスラム教徒",
+      "team": "みん²",
+      "emoji": "😈",
+      "score": "11.43",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "😍",
+      "score": "10.68",
+      "kills": 15
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チンポ] ペペペマン",
+      "team": "チンポ",
+      "emoji": "👻",
+      "score": "5.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[チンポ] 戦闘狂",
+      "team": "チンポ",
+      "emoji": "😈",
+      "score": "2.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[チンポ] 宮永咲",
+      "team": "チンポ",
+      "emoji": "🐱",
+      "score": "0.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "👻",
+      "score": "0.06",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "22.12",
+      "kills": 18
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チンポ",
+      "score": "7.29",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チー牛",
+      "score": "0.06",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN09EOwyAIBVA3vPj/f9woKqioy/aymyZtkxMQbUP4qwAwb+yRlMQ1yDmngkBAZVcH4OoqPjopNtSjcYrmevfqiMhKDHduEUcLq2GG48zmysObuXauTiBDF5hk4OKA7ij3sKXyqYhBQlJnlthHST2es1N85GRS3Bxr8mJpB9lGGW3N6OK+mLgYI5FcdHGNKlxdrBncwtTFqOe3jmFdiTds+ZpHRn7X7x3tHdHkZlicHMbVTdB1XkFvm5UdXfjZhYm9luXZr9CWOzmh6/91zAN+NxAb",
+    "cp": {
+      "1": "#4aee44",
+      "2": "#7387f7",
+      "3": "#e0fb89",
+      "4": "#e0fb89",
+      "5": "#7387f7",
+      "6": "#e6b970",
+      "7": "#7387f7"
+    },
+    "sz": 40
+  }
+}

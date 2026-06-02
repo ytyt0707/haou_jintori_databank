@@ -1,0 +1,145 @@
+{
+  "round_id": 20494,
+  "game_mode": "TEAM",
+  "player_count": 23,
+  "played_at": "2026-03-03T10:31:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵YY勢] 正体不明",
+      "team": "🇯🇵YY勢",
+      "emoji": "🦁",
+      "score": "29.05",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵特攻隊] 爆弾/自認レゼ",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🐱",
+      "score": "9.28",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵特攻隊] ゲスト",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤠",
+      "score": "9.18",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵特攻隊] てすと",
+      "team": "🇯🇵特攻隊",
+      "emoji": "👻",
+      "score": "8.67",
+      "kills": 10
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇦=△=] (・3・)",
+      "team": "🇨🇦=△=",
+      "emoji": "👻",
+      "score": "7.75",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🦁",
+      "score": "5.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "😀",
+      "score": "1.72",
+      "kills": 10
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🍂たぬき] BOT",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.30",
+      "kills": 20
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "👽",
+      "score": "0.49",
+      "kills": 4
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "0.46",
+      "kills": 29
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "32.78",
+      "kills": 38
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵YY勢",
+      "score": "29.54",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇦=△=",
+      "score": "7.75",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "1.80",
+      "kills": 29
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇫🇷デパ",
+      "score": "1.72",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1k9tywzAIRNcqMarGozTdUf//U9sF+dKk5cGWOSwgCaM1hJEgQObXfLZpfDUQgrfWPkL0HCF6+5cytDdpiWcpk0ZmkuvnU8C1qXVd/6Zo8r8dcOQKrRXZ4SfpHDK1goCl0J1kFYxVYHBSl3PCXVwnbaUIm5leO9Ump7i4M5l7jcKDYHZVSjmhJxRVw3vLkdY9aa1ASMkMMCSvY9R6pToO3WpgoVq/tN37XYnbvPcpDkyUu5nNc0vpcPcUExC1aAuoxRc1FTTGSJBkxJTtfenbSBptyX3asmz9oIRACDOib733XStKWTKzHlZrfTweOo249xMvRuJCW27WYDHjZgcdGlllPn8BszhGZR576ivFGCqrusiB+0WhwrHd032uss6P9BvDDSOk",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6ae830",
+      "4": "#30e870",
+      "5": "#e84230",
+      "6": "#994de5",
+      "7": "#30e870",
+      "8": "#30e870",
+      "9": "#8B4513",
+      "10": "#30e8e8",
+      "12": "#8B4513",
+      "14": "#8B4513",
+      "15": "#30e870",
+      "16": "#47e830",
+      "17": "#e830a9",
+      "18": "#994de5",
+      "19": "#47e830",
+      "21": "#30e870",
+      "22": "#e83064"
+    },
+    "sz": 30
+  }
+}

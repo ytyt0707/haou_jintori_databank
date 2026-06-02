@@ -1,0 +1,96 @@
+{
+  "round_id": 42521,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-04-20T04:38:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "🐣",
+      "score": "23.06",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ひっぷ] 名無し4N",
+      "team": "ひっぷ",
+      "emoji": "🍑",
+      "score": "13.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しj0",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "4.57",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] どっこい",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.00",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵まらら] あーん",
+      "team": "🇯🇵まらら",
+      "emoji": "👽",
+      "score": "0.45",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵まらら] あきおみ",
+      "team": "🇯🇵まらら",
+      "emoji": "🤎",
+      "score": "0.24",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "23.06",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ひっぷ",
+      "score": "13.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "6.58",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵まらら",
+      "score": "0.69",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtktsSwyAIRFfMFv//izuAoJ0xaR+6L2Y8LDfTWgopVc3PZK3ZzfV6qWvi1k0Wg+sCYBjhViCoh5AAhGG2EADDSe+dRimkqmQERmIShAgpsigTR2JDhQGOEXyjlTgoaXXnGJN54+alK1fwQQN5w+E+08wM24YLSGuVXVB3+uxddNpx9iKwDVGFc6I485XvsEcV3OtWnl/pwbysB7j1/IUarp919vWc+pneLStH3h4vr/5wvgHwFwjj",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e83030",
+      "5": "#30e870",
+      "6": "#e83030",
+      "7": "#af30e8",
+      "8": "#8B4513"
+    },
+    "sz": 30
+  }
+}

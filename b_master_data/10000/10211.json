@@ -1,0 +1,79 @@
+{
+  "round_id": 10211,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-26T15:48:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺チギュ] ヘルツネ",
+      "team": "🇷🇺チギュ",
+      "emoji": "😎",
+      "score": "42.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🦊",
+      "score": "23.37",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷森本稀] デカすぎ爺",
+      "team": "🇫🇷森本稀",
+      "emoji": "👽",
+      "score": "8.58",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇷🇺チギュ] 日清羅王",
+      "team": "🇷🇺チギュ",
+      "emoji": "😂",
+      "score": "0.07",
+      "kills": 13
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇷🇺チギュ] 裏切り者",
+      "team": "🇷🇺チギュ",
+      "emoji": "💩",
+      "score": "0.06",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺チギュ",
+      "score": "42.46",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うんち",
+      "score": "23.37",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇫🇷森本稀",
+      "score": "8.58",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0tsOxCAIBNCREPj/P94g5aK2vuw8tDFHiNRCPVBoBBl9yV1rR1tf9V77t+KqW/Gn6rty4xdlns/jEyTP+I61K/ecA921sy4XwSwiq5anErkCY4wR02ctPTgzgFJzso6h8bMsasXaFd6ZKDTDcy0iqrBTbSrifa2c6li+rakX8vPaanlRmSrZlm34ptLCccGh4nPW943bAJ+pOX4lYxAB",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "4": "#e73cbf",
+      "6": "#51f565",
+      "7": "#eedc68"
+    },
+    "sz": 30
+  }
+}

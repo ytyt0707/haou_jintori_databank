@@ -1,0 +1,78 @@
+{
+  "round_id": 3842,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-11T12:10:11.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇷🇺ロシア] 👁🔲🔲👁",
+      "team": "🇷🇺ロシア",
+      "emoji": "💩",
+      "score": "1.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うんち] うんうん",
+      "team": "うんち",
+      "emoji": "🐲",
+      "score": "0.81",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ぷゆゆ] ぶりりん",
+      "team": "🇯🇵ぷゆゆ",
+      "emoji": "🐱",
+      "score": "0.09",
+      "kills": 7
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ロシア] アレクサンドルⅡ",
+      "team": "🇯🇵ロシア",
+      "emoji": "🦄",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺ロシア",
+      "score": "1.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うんち",
+      "score": "0.81",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ぷゆゆ",
+      "score": "0.09",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ロシア",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzl0DkSACEIBEBhR///ZEsjUBjJl8CkuaS1akg5k3ahbSh+h45iqaygmKlYRYzbrwbiMiJcL5n91Oct+THdb3r3BsBiqnqVGlYN5+K8Y77WX2ICQZsAuQ==",
+    "cp": {
+      "1": "#e368ee",
+      "2": "#74a8ec",
+      "3": "#6df36f",
+      "4": "#f6a35a",
+      "5": "#66f0c0",
+      "6": "#e6333c"
+    },
+    "sz": 30
+  }
+}

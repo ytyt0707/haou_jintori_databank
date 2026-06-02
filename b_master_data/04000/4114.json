@@ -1,0 +1,43 @@
+{
+  "round_id": 4114,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-12T03:04:53.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ナチス] アベベ",
+      "team": "🇩🇪ナチス",
+      "emoji": "🦊",
+      "score": "37.97",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ナチス] ソ連",
+      "team": "🇩🇪ナチス",
+      "emoji": "🦁",
+      "score": "4.07",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ナチス",
+      "score": "87.45",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90VESBBEMBNCe7fT9r7xFEAT5MMrTk4IkALA6mPlYv6VUCkaJxrJqrYq4mlEs1YTyamE5OrOv9XBw3RIaU63qjW30GOHI7o1XzW1fioPymT1jVZK/s/ZUMCYEcz0V4w4u2j3p/O6H7IQXnc674fTmy5l9kp4gdkj8lD1dBi6voD18Q5x+i7OuR9l061fvBX0iTFUX/09DDJY=",
+    "cp": {
+      "1": "#3ca3ec",
+      "2": "#f7dc40",
+      "3": "#fa57ae",
+      "4": "#fa57ae",
+      "5": "#fa57ae"
+    },
+    "sz": 30
+  }
+}

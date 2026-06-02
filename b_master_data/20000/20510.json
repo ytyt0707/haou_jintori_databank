@@ -1,0 +1,143 @@
+{
+  "round_id": 20510,
+  "game_mode": "TEAM",
+  "player_count": 22,
+  "played_at": "2026-03-03T11:23:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😎",
+      "score": "21.71",
+      "kills": 30
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] あの丘のマリア",
+      "team": "猛虎軍",
+      "emoji": "🥺",
+      "score": "9.38",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "👽",
+      "score": "7.82",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🐷",
+      "score": "4.90",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[小谷城] 爆弾/自認レゼ",
+      "team": "小谷城",
+      "emoji": "🤖",
+      "score": "4.19",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇫🇷十字軍] ド騎士",
+      "team": "🇫🇷十字軍",
+      "emoji": "👽",
+      "score": "3.95",
+      "kills": 10
+    },
+    {
+      "rank_position": 7,
+      "player_name": "SEKAIのKO",
+      "team": "",
+      "emoji": "🦁",
+      "score": "3.81",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🍂たぬき] ベネット",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.81",
+      "kills": 11
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵YY勢] うめ",
+      "team": "🇯🇵YY勢",
+      "emoji": "🤔",
+      "score": "0.70",
+      "kills": 12
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🍂たぬき] うんぽこちゃん",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.29",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "21.71",
+      "kills": 30
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "9.73",
+      "kills": 23
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇫🇷デパ",
+      "score": "7.82",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵阪神",
+      "score": "4.90",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "team_name": "小谷城",
+      "score": "4.24",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkNtuxCAMRI26uAYstFUj/v9Tq7GxE/a5I+WiHM4YUusOI4JLhDxCAfE0Kr8SoYNWeJnee1Le8hP2fjanTNKRTzpDBsxmL2ahJz02zcxzTpELa6Ae7jBqC/aZY67WWseAC1vI/8imqqo8mC8xSuTYKaDq0NcFOPefjLlOv6x3JpQTf1BKStCNZi1ebLAqM6vtOGApZVN4DZ/vmaX8lFRVm+GHCRfFtuPWGtWAVDxG32g+5JuqggaGvxaR6dkc1ODGcaBUN4SMmNxi6lq0LAf9duwE9wetcO289vWGPjigGyHuwbvmfx9/1aATOg==",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#8b4de5",
+      "4": "#8b4de5",
+      "5": "#e83030",
+      "6": "#514de5",
+      "7": "#d4b611",
+      "8": "#60d411",
+      "9": "#d4b611",
+      "10": "#8B4513",
+      "11": "#8b4de5",
+      "12": "#6e4de5",
+      "14": "#30d7e8",
+      "16": "#36e830",
+      "17": "#8B4513",
+      "19": "#60d411",
+      "20": "#60d411",
+      "22": "#aad411"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "round_id": 785,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-04T12:52:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ソ連] スターリン",
+      "team": "ソ連",
+      "emoji": "😂",
+      "score": "26.70",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[デカ女] デカ女同好会",
+      "team": "デカ女",
+      "emoji": "🐷",
+      "score": "25.52",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ソロ] 共感性羞恥心",
+      "team": "ソロ",
+      "emoji": "🐷",
+      "score": "12.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[宋] ぽんぽこ",
+      "team": "宋",
+      "emoji": "😂",
+      "score": "0.94",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ソ連",
+      "score": "26.70",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "デカ女",
+      "score": "25.52",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ソロ",
+      "score": "12.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "宋",
+      "score": "0.94",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt1NEShCAIBdBL1///5h01TSFYto2HNOeEqBUQBknWBsCxB+ZQbdhgtYeObShwe7CHnfdvh1778oApcLgTXr25Gi5uJnT272f37UASjsmExpWScqWGr9Z8VtJxfrZwHU9cwG6ciEi/tl69McuVu9DVuY580+lZHWeq890qkXTn/j130kYz+9Ii6yTr5E2H7VgCB2QctJtvJSxzfgeGYSD9fVxiuNH9AILOCA0=",
+    "cp": {
+      "1": "#978af4",
+      "2": "#72f388",
+      "3": "#51f2fb",
+      "4": "#c8f254"
+    },
+    "sz": 40
+  }
+}

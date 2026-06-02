@@ -1,0 +1,80 @@
+{
+  "round_id": 50039,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-05-07T14:58:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "22.20",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵BOT] 抵抗プリウス",
+      "team": "🇯🇵BOT",
+      "emoji": "💩",
+      "score": "17.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] ヤス",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦊",
+      "score": "14.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ミサル] も",
+      "team": "ミサル",
+      "emoji": "😍",
+      "score": "0.35",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 名無しLR",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵BOT",
+      "score": "17.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "14.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ミサル",
+      "score": "0.35",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klGWxCAIBDvQedz/xjtg45A1b/zSlGVahBzDem5mgUD0mqTRzNegGSJiUjoF3VHwQdnqO5VL8s3lwga808KGGBQjOOkFVyqAwAPnsX2y5sPWl7xuaN76XvbJT3vjw3X3DKGR+OoF67L/aeNFe69CX5fwqtNJCx9qhZa7oA+1anmh1SrxxN/MclO+b2056FTzx1qni3y4Mbabj1Dfw7Nr6n3T3bdVlVbfRdxVZxWjXTVlocMdsKoxUkAt6W3uzLWpe/0n/cLnDTtwcXwO/gPb/Al5",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#aad411",
+      "5": "#30e84d",
+      "7": "#e89830"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "round_id": 17665,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-23T22:40:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "新鯖♡",
+      "team": "",
+      "emoji": "😍",
+      "score": "33.24",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "😈",
+      "score": "0.13",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵楚] 名無しod",
+      "team": "🇯🇵楚",
+      "emoji": "💩",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "0.13",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵楚",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyt0osKgCAMheGz/t7/mYPMmG4TuhwixG9HDJKGmIticsWpymp7qnPvoYU+RhMgyO26eKp3INStbXeNA7huGKC/YQ+M01juOmRCsSU6rLLu6uSkeKpVNH3wZ1Wtc18hfysvutkv5jYP+aEDsA==",
+    "cp": {
+      "1": "#3a5ee4",
+      "2": "#cff448",
+      "3": "#f7995e",
+      "4": "#58ef52"
+    },
+    "sz": 30
+  }
+}

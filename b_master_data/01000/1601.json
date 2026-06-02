@@ -1,0 +1,70 @@
+{
+  "round_id": 1601,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-06T08:53:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] あそ",
+      "team": "みん²",
+      "emoji": "🐷",
+      "score": "29.83",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 千石撫子",
+      "team": "みん²",
+      "emoji": "🤔",
+      "score": "24.58",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[仙台藩] 伊達綱村",
+      "team": "仙台藩",
+      "emoji": "🐱",
+      "score": "13.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🦊",
+      "score": "6.99",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "54.41",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "仙台藩",
+      "score": "13.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "6.99",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl01sOhSAMBNAWZv9rvkF5daYYktsPo3IsEEYzqVprDQ9VCPC8rlwlY4JKuXKVmeGpPhgaZg7k1ryI1cc29jpvgzYvKKNs3SX9bA1H1p07MTD0rdqz9JsOly72U3t2dutMHDyHFp1T3bpsK6nzdIHKBmxHMk6bdxEdRi6etJwn3t0bgVz2AE0HwSFJlL1TQ85oMvNk0bF+X2f/kLreWhyiG2tQB253cuB27imbfH1h+JQd4rvftob/XduF3+yDDjEjmsnUjf9IY2acIqkft7YMGA==",
+    "cp": {
+      "1": "#74daec",
+      "2": "#c474f6",
+      "3": "#fdae8b",
+      "4": "#74daec"
+    },
+    "sz": 40
+  }
+}

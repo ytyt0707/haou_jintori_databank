@@ -1,0 +1,48 @@
+{
+  "round_id": 9223,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-24T10:22:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "👽",
+      "score": "36.96",
+      "kills": 9
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵反汁] 味噌汁まずいよな",
+      "team": "🇯🇵反汁",
+      "emoji": "🦁",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "36.96",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵反汁",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyVkVkOwCAIRAft/c/cNMo6xFT+9LHMAABg9gGP/xjn4v3K1HKIppalsFF1QQlnPRUnRp5qBNUi+6sdDaYP0140wUjF5kZjLkpWwvZKtZEag0MRv5St4BOsVH+jbREuBjAq1q3OA11sUHNViswjzVO9QXBieMTrtKfmK1zHC2SBBGM=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#3bf934",
+      "4": "#f844da"
+    },
+    "sz": 30
+  }
+}

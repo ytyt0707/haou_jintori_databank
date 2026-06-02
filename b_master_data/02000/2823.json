@@ -1,0 +1,65 @@
+{
+  "round_id": 2823,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-09T04:59:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇪ゆ虐隊] あいうえお",
+      "team": "🇻🇪ゆ虐隊",
+      "emoji": "🦄",
+      "score": "28.54",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇪ゆ虐隊] 斧乃木余接",
+      "team": "🇻🇪ゆ虐隊",
+      "emoji": "😎",
+      "score": "23.61",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] ハヤブサ",
+      "team": "猛虎軍",
+      "emoji": "🦄",
+      "score": "1.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] あああああ",
+      "team": "猛虎軍",
+      "emoji": "🤠",
+      "score": "0.27",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇪ゆ虐隊",
+      "score": "54.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "1.43",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9ksEOxCAIRBnB///ljVizVgZrk83OoV5eBwYQeSdrn9qEWQFzAQgkCGe1RktEzEG3TUBnxDnbcxftnGF0G+veOYxUaxD7SgZnbDQ2C710PpiBA7y/kXiy3Q+acHx1T34hSrLhtOzE2Qtu9dwdoQSulMK4ML6iqnrAqWo55IIfy+vYAYeGbTecHP5PuHzK+338idtsg529ES73Yle1nnzCtWf1ub0iedTOTf92S9odaZblIKEesaAPtF8Jdg==",
+    "cp": {
+      "1": "#96f3c1",
+      "2": "#e25a97",
+      "3": "#e25a97",
+      "4": "#96f3c1",
+      "5": "#96f3c1"
+    },
+    "sz": 40
+  }
+}

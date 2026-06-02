@@ -1,0 +1,65 @@
+{
+  "round_id": 51445,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-10T19:00:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] ねここ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦋",
+      "score": "5.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ボンっ] 名無しjj",
+      "team": "ボンっ",
+      "emoji": "🐶",
+      "score": "4.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ボンっ] 爆弾/自認レゼ",
+      "team": "ボンっ",
+      "emoji": "💣",
+      "score": "0.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] ███",
+      "team": "🇯🇵ONJ",
+      "emoji": "😈",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "5.82",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ボンっ",
+      "score": "4.69",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkFEOwyAMQ+NY2f2PPJHEbemAjyEkizzb0Jrl8sUqYgCQlO7O3O5ecLDGHIjMU8JmFSaQDHi0VrSAl32m1XkVNTTkm0Zjd6ZDtOGOpu2qBN2vN6nhpnNx8TPV7e1SpfQcFmW1KCRt3J+tqVThVo2lE6am0pku8f3TFWp9ZrmMtoN/UzI+r1vNDGMDiAjGLx4TABa9Fg7Yid5w067worlHEbtoGZJ+AXXZAvc=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "5": "#4d81e5",
+      "6": "#4d81e5"
+    },
+    "sz": 30
+  }
+}

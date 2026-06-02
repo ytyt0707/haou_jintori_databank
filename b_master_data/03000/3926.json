@@ -1,0 +1,80 @@
+{
+  "round_id": 3926,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-11T16:53:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇺🇸うんち] うんこ",
+      "team": "🇺🇸うんち",
+      "emoji": "😍",
+      "score": "17.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "盆踊り",
+      "team": "",
+      "emoji": "😍",
+      "score": "16.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪ナチス] 偽覇王/束音ロゼ",
+      "team": "🇩🇪ナチス",
+      "emoji": "💩",
+      "score": "14.65",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪ナチス] 山上徹也",
+      "team": "🇩🇪ナチス",
+      "emoji": "🐷",
+      "score": "12.50",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇷🇺ロシア] アレクサンドルⅡ",
+      "team": "🇷🇺ロシア",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ナチス",
+      "score": "27.15",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸うんち",
+      "score": "17.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺ロシア",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF0kEWxCAIA9CML8T733geQi1VO8Oii36DWAvs1UmQ5IGAPutdcWbe2VPv38ruI73sy6hd6W1JbSr5I3bdstLgGGlRMyk9hw3tnjIzixWzMzI7bFTB0IpmgsA47Vi2qMRy2kV9AWPJIeuhiCN1vKyI69qdx7upufFUt2TFpiDKV7NPJHXVfc0gZtNKs3M5bcWheqpWzZkDW3uqWJKthPMCdav+aTnQKVvnjtVWf77CXyHMC8U=",
+    "cp": {
+      "1": "#72f868",
+      "2": "#faf261",
+      "4": "#98e736",
+      "5": "#98e736",
+      "6": "#ab31f6",
+      "7": "#f7762b"
+    },
+    "sz": 30
+  }
+}

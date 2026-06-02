@@ -1,0 +1,80 @@
+{
+  "round_id": 3526,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-10T19:02:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇩🇪ナチス] シュトロハイム",
+      "team": "🇩🇪ナチス",
+      "emoji": "🦄",
+      "score": "33.64",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵飽きた] あんこ",
+      "team": "🇯🇵飽きた",
+      "emoji": "🤖",
+      "score": "23.51",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "タイマン",
+      "team": "",
+      "emoji": "🐲",
+      "score": "6.30",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "🐲",
+      "score": "3.60",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵飽きた] 陣取り飽きた",
+      "team": "🇯🇵飽きた",
+      "emoji": "🦊",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ナチス",
+      "score": "33.64",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵飽きた",
+      "score": "23.58",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "チー牛",
+      "score": "3.60",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJyV0lsOhCAMBdByU6b73/EEodIXE6YfJl4PhapEsQAQMTPv+yfyaOTj0QuhrrXWgHFty2A5mHqY1o6ZAyzd2NM4cm4eReTt5veFMkwmAspsO1Uiwpwbvq5tB9/q2C+r8VrNtHKC44VfuPmtkqvQgjAHLJvZbz3hUTlYH+2CJlhKqmDds3CVLBlh/9GGXUwzwyt3O/N0Xcs7MsS7bl1ixhnoWHJDZrcqOFojovcfruvYMQjsycuV2cVg0pB+4jptWeW+Wy/3rbv94xzN6w7znlwBocCo6/oCzqgORQ==",
+    "cp": {
+      "1": "#7b8ff4",
+      "2": "#f3d66d",
+      "4": "#74bcec",
+      "5": "#5becc0",
+      "6": "#5becc0",
+      "7": "#dd4aed"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "round_id": 5532,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-15T07:54:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] あいうえお",
+      "team": "楚",
+      "emoji": "😍",
+      "score": "63.50",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 矢野彩喜様",
+      "team": "楚",
+      "emoji": "🐲",
+      "score": "9.49",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "72.99",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJzF0sEOgDAIA9Aq/f9vNo4pKMgOLtrLEh5NOAz4JCKUOBOSXdsLahT3AFjamouphpeFG4buCSg17ep9Odv1R/xG1Lr7pOuL7mwtcKqi1L+usjn8181olA2Dcgn/",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ef9971",
+      "4": "#ef9971"
+    },
+    "sz": 30
+  }
+}

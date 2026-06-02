@@ -1,0 +1,48 @@
+{
+  "round_id": 61124,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-01T14:16:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[誓い] 不慮の事故",
+      "team": "誓い",
+      "emoji": "🕊️",
+      "score": "58.73",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "誓い",
+      "score": "58.73",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kkESxSAIQ8HP/c/cSQhWq7W7z0bHZ0JkdEeZNRU3VkXoduNWBGsqRxooXaEt9nKORiqOnqykQWolf1JcSrVUoziKpXUZw6z1ppBD5I7YZqRdWJRPooGyYqneCUusCz3Zlv5m44B4cNY2J5mz9oVr0MHYi3jSHukCIyrzBuW4kGkPMcwXguMj/APdZ/tKdeL4PO8P/qb6sVwmH7MLr9YJRw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#994de5"
+    },
+    "sz": 30
+  }
+}

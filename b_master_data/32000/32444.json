@@ -1,0 +1,81 @@
+{
+  "round_id": 32444,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-03-31T05:14:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 名無しZV",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "67.16",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うんこ] ち",
+      "team": "うんこ",
+      "emoji": "🦊",
+      "score": "2.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 利敵",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.11",
+      "kills": 11
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵大福島] 雑魚",
+      "team": "🇯🇵大福島",
+      "emoji": "😤",
+      "score": "0.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "名無しLP",
+      "team": "",
+      "emoji": "😎",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "69.27",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うんこ",
+      "score": "2.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵大福島",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkgsOgzAMQx3carv/iSe70KQUsUiINC/Op0A+GPAQzNCOnf91Bipd6qARrDQrynujrTWSS7UibrI8b2loVXvH93MWIj7l8OLW7nvaH7oLyFBQK5W1Zl6E8TyvTshSiWHKGYue6t67IqZi13eRFF00HqjKBEURm9RzREwaAZeY8yGs7SA1pApMNsZTY4Sp8Eox5jpp/klK9DBdXr0ddzAC2KUo1HFv7jQNkBcLHMcpvF6VHjvVcsMkmOJzS/X1kytddcEfg6MIRg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8B4513",
+      "5": "#30e870",
+      "7": "#60d411",
+      "8": "#d4c811"
+    },
+    "sz": 30
+  }
+}

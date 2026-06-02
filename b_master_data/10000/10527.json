@@ -1,0 +1,57 @@
+{
+  "round_id": 10527,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-02-01T02:27:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😀",
+      "score": "55.07",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゲスト] パンテオン",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤖",
+      "score": "32.59",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵妹] Lose dog",
+      "team": "🇯🇵妹",
+      "emoji": "🐱",
+      "score": "0.15",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "87.66",
+      "kills": 22
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵妹",
+      "score": "0.15",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJy9k+EOgCAIhIG893/lJhKCqfWnzs02PrjAaSkqagKg2yVlyGL7EEbEVZ5zq+u4O7s/uzotliRgBGjxSMOvMxUBpy4iFZHcImU40Fw7jtfo5dAii9rQ/IZOu3pH5xN97/xIaU/tBi6MFxR1wY5+OpHrDzrL85g+ssNjpJecTtOmDe8=",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#8170f0",
+      "4": "#49baee",
+      "5": "#49baee"
+    },
+    "sz": 30
+  }
+}

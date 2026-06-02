@@ -1,0 +1,57 @@
+{
+  "round_id": 54718,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-18T03:57:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無し02",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "32.68",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "1.90",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[錬金術] 爆弾/自認レゼ",
+      "team": "錬金術",
+      "emoji": "💣",
+      "score": "1.00",
+      "kills": 13
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "34.58",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "錬金術",
+      "score": "1.00",
+      "kills": 13
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9ktEWwyAIQ6Ms///LO4Ckit14UbwEKJQAD8Oy4baTiAM33JSFMODan/TKTEoKpDaqkCtH9ZRwyM32oKY2LTDVvOK9q2UPVe0BUWgqFb/OClbuj1sLer48UQ8o8aWLPEXnBMys5S5KWtiOxUAzGpu4sLc3Xf+uBeecPOA+DofnwpL6xMDQHuv0Iv6wqr+IY33VHJ9lvrSXqXaQd6lrP2eI8PksL7ncdlnq9lruf3r9wCXLM0aGL9B6BoY=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e8e8",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

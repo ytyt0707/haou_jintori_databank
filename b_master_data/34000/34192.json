@@ -1,0 +1,63 @@
+{
+  "round_id": 34192,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-06T00:12:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵田中] 田中やで",
+      "team": "🇯🇵田中",
+      "emoji": "😎",
+      "score": "40.99",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "💩",
+      "score": "3.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 晋三",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥳",
+      "score": "2.97",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵田中",
+      "score": "40.99",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ヴォル",
+      "score": "3.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.97",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkNsSAyEIQ2PB///lTrhodu12OlMeFDmJoO470DEwMsiMC9wLFuEGMjMzhCI0G1OflDgCfe8YTWNv7l72B5qYEGzMVWPE3E05swbn9egLwOJVglO8rhay0oDxplXSJDG/5KXlzNt7Elb+oGW9vbXbfKb8tyaxt3yPovg7pbIUaqp8ew84I56sF3qdFoBaD6hUurZOvEJXSpxDrZImc049/pJ340ftGzbXBww=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e83064",
+      "5": "#30e8b4"
+    },
+    "sz": 30
+  }
+}

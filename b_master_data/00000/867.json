@@ -1,0 +1,94 @@
+{
+  "round_id": 867,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-04T17:18:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ぷゆゆ] 蓮舫",
+      "team": "ぷゆゆ",
+      "emoji": "🐲",
+      "score": "24.40",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソ連] 共感性羞恥心",
+      "team": "ソ連",
+      "emoji": "🤖",
+      "score": "17.56",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ソ連] 梨",
+      "team": "ソ連",
+      "emoji": "🦁",
+      "score": "5.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[鈴木組] 茶",
+      "team": "鈴木組",
+      "emoji": "🤖",
+      "score": "3.94",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[鈴木組] のあ",
+      "team": "鈴木組",
+      "emoji": "😈",
+      "score": "1.12",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[ゲリラ] 演出中止w止まる",
+      "team": "ゲリラ",
+      "emoji": "👽",
+      "score": "0.71",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ぷゆゆ",
+      "score": "24.40",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソ連",
+      "score": "22.66",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "鈴木組",
+      "score": "5.06",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ゲリラ",
+      "score": "0.71",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt0kEOxCAIBVBA8P5HboqgH22TLmY5LBqDL4BWoo8hIzTDl5FWupfo9AiZke40hQVMJrl3OgUH2QP6kBLVipNSzt02EdbSmcH50okoVHblF7WVqw1TQuPYGf2YmQHifH4Y84Wxh+z1xsdFpDco6UihsFFCzpGmIxz1huQTevQuY5cKNLOA4++eLiYMRzyK9XRbVw22nMB7xUdVn3DHYzwwWn9mjffkuMDI67xBy3Jvjuoxaj3oE345LuWqIwMXkOH2gIFzyJy9Kpv3PKOWas2Q0QubkL45SLy61tqePE/RHt0/fhEXgugJfw==",
+    "cp": {
+      "1": "#f3819c",
+      "2": "#f3819c",
+      "3": "#61f2fa",
+      "4": "#e15cf0",
+      "5": "#61f2fa",
+      "6": "#efa94d"
+    },
+    "sz": 40
+  }
+}

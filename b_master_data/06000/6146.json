@@ -1,0 +1,66 @@
+{
+  "round_id": 6146,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-16T17:06:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 中山司",
+      "team": "楚",
+      "emoji": "🤖",
+      "score": "45.21",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "0.92",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "エマヌエーレ2世",
+      "team": "",
+      "emoji": "😂",
+      "score": "0.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] 安倍晋三",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "46.29",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵うんこ",
+      "score": "42.77",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl090KgCAMBeDDPLP3f+PwZ7mcRuC5kOhjWw4ie7SFpAgsExauqlB9VEdEVIuVk8Ss4zHWOgwqJS+11jmPubG2q0/85t+6uO+RXma2yb65jS5bg04R+dFXcQrKQSkZc2aSpvRKtd3ZBte6TNX0wdMLhF5uGPA1q+qWm+74XNsPhag39hUOfg==",
+    "cp": {
+      "2": "#2858f6",
+      "3": "#51ef2a",
+      "4": "#51ef2a",
+      "5": "#f55142",
+      "6": "#e765f6",
+      "7": "#51ef2a"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "round_id": 58024,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-25T14:41:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬきたち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "58.65",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😆",
+      "score": "4.74",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 1号",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤕",
+      "score": "3.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] トトリ",
+      "team": "🇯🇵ONJ",
+      "emoji": "😖",
+      "score": "0.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 名無し0d",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "58.65",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "4.74",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "3.54",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkVESxCAIQyFDxvvfeAdExbV215/SPhJSJM+jqtLPyUj+oLxr9d154Ye5IvKcqrVWQ0nVtiZBOUJ90dbFHHzXOnXvgf+nDGkdXbVMvJy3WGQOJfsfo2Lf7jTzF3Sb/i12XzHIvT1vpz9gZrN77ihb9JWK+UlxMc1LNLMpf6SujmSFeqkqZoBZ5j4wwDF2RZ8VgCsVARDrWiuZQjLoXezaK2XQK3brMqmUnuQDC1UMdQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#8B4513",
+      "7": "#e230e8"
+    },
+    "sz": 30
+  }
+}

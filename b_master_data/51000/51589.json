@@ -1,0 +1,57 @@
+{
+  "round_id": 51589,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-11T02:47:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇪🇸宣教師] テスト",
+      "team": "🇪🇸宣教師",
+      "emoji": "💣",
+      "score": "37.88",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸宣教師] ルイス・フロイス",
+      "team": "🇪🇸宣教師",
+      "emoji": "😆",
+      "score": "7.34",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[テスト] テスト",
+      "team": "テスト",
+      "emoji": "💣",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇪🇸宣教師",
+      "score": "45.23",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "テスト",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkkEWxCAIQ0N17n/lPmKwiLoZNiqfgILAsCeZXGn5IJ7knlKAERuCA/fuqlMs+tFLZ+/9Th1eKeHENVJUasM4xz1WbdBItlATbbpKTYzeaOHPYjPgSFnJTNBTJ2uDXqV8U2iTTlsAZraVZQd+rrUonLXE3h6nYO2MuR9U+C/K/rfyXrV9Fq6ZY2hDHFRJFqgpR0j9OhzhhJVivdeauAyjQp2b//SZ9wXDMQZ1",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#7c4de5",
+      "4": "#7c4de5",
+      "5": "#36e830"
+    },
+    "sz": 30
+  }
+}

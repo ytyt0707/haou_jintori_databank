@@ -1,0 +1,50 @@
+{
+  "round_id": 16299,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-17T19:31:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "pc勢",
+      "team": "",
+      "emoji": "😂",
+      "score": "34.95",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "一等兵",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.09",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🦊",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzN0VEKgDAMA9DUeP8zC53YYdaI+GP+xiMto8AIiSacc75n3agBryoWTB38TmuPU3U3VxSi4brRK4zuSI1boZqpdQu5TxQvktq6xex+Uru3z5MaNL/5bw4LMgPp",
+    "cp": {
+      "1": "#a068f3",
+      "2": "#44a4e9",
+      "3": "#daf830",
+      "4": "#70ed35"
+    },
+    "sz": 30
+  }
+}

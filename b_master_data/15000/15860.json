@@ -1,0 +1,41 @@
+{
+  "round_id": 15860,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-02-16T19:45:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[秦] 爆弾/自認レゼ",
+      "team": "秦",
+      "emoji": "🦄",
+      "score": "81.98",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[秦] ぷゆゆ🥺",
+      "team": "秦",
+      "emoji": "🐱",
+      "score": "15.06",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "秦",
+      "score": "97.04",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eJztkMEKACAIQ6f9/z9HJlKaYNdoh5I9Z1hrXy8IJetWPDSLBB78QNMsS2E9FLJyQm46Uh0NMsyr1PPZnfp3HbUN6lnbGBoFrw3+Mzoguwnk",
+    "cp": {
+      "1": "#ee58ba",
+      "2": "#32abf5",
+      "3": "#32abf5"
+    },
+    "sz": 30
+  }
+}

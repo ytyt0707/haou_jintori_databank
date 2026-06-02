@@ -1,0 +1,63 @@
+{
+  "round_id": 37125,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-10T05:32:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] も",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "17.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 犬",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "10.93",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷代行者] 言峰綺礼",
+      "team": "🇫🇷代行者",
+      "emoji": "🪙",
+      "score": "0.11",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "17.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "10.93",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇫🇷代行者",
+      "score": "0.11",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAHN0EESgCAMA8BE0/9/2SlapFJ1vNkjSzoB4E8jPbXRPSumzAfW27suRbijPusZLbLrgw4EXbLJpr6DFn81KmBmKT+qzCcxgH7jTklKdRYALWzaDJBtabWZdOyeWzm6B2fFi1panbOEa7tQtQL38FE7Z/09fhJvmrXx4RtqFgSq",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d64e5",
+      "4": "#9ca3af",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "round_id": 31210,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-03-28T09:41:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "31.86",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ねむい",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "19.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇮🇹大秦国] ネロ帝",
+      "team": "🇮🇹大秦国",
+      "emoji": "🗡️",
+      "score": "3.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "不殺の誓い",
+      "team": "",
+      "emoji": "🕊️",
+      "score": "3.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 運",
+      "team": "🇯🇵ONJ",
+      "emoji": "🎰",
+      "score": "2.72",
+      "kills": 9
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇻🇪ラザロ] アクセル",
+      "team": "🇻🇪ラザロ",
+      "emoji": "🕋",
+      "score": "1.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🍂たぬき] 悪童",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🍂たぬき] あああああ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.36",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "31.86",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "21.81",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇮🇹大秦国",
+      "score": "3.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "1.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇻🇪ラザロ",
+      "score": "1.37",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9ktEWwyAIQ63FKPv/D95CxOl2Nl+qXAJBW8pada4V2DZCrW6hbftPyTTxMUoZYwDApp241Tq4WmuflMFKZcAPcURZn/S7dGhIBU8x00c05o5r9xXnxrpi37S1WrPuQSX9VZmpMeu8jLMvT5h4Nk5X7h6RnzSw6OkZOLVJzawUAA7Eu6StOMDMLDP5XbbjcFJ63HyVg25Qz8/CmiWHP7W9z1F1rWkrzJj13sOyPGXb5dk7cEfq27EgJ3o47jvwMqx/EqJX0myatJu735cqv+GsTMd+qesGF+38+3nX7KqNkl8X8AS90A8T",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30d7e8",
+      "5": "#9ca3af",
+      "6": "#7c4de5",
+      "7": "#e830ba",
+      "8": "#9ca3af",
+      "9": "#e83053",
+      "10": "#8B4513"
+    },
+    "sz": 30
+  }
+}

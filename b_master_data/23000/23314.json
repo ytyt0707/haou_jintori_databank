@@ -1,0 +1,48 @@
+{
+  "round_id": 23314,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-03-09T19:27:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] スキピオ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦊",
+      "score": "6.21",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🦁",
+      "score": "0.26",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "6.21",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "0.26",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1k1EOxCAIREfo/c+8GWQoxq6bbFJ+BB8DSgIQNmjTtWbzBjeEQRjWqLRFTdTdPWmDnTqYo7LhZWXeyyZntGjdncklr74YI1lQNcjKQND4s7ttlE/KgbCdgW8v7aQaGK87ZNzZLZP3i2peyl/Os3hJfSU4Pu6Vjn8Wva7vwvMnahceC7Rt2HlbpB3GIu2tP4MSAaw=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#97d411"
+    },
+    "sz": 30
+  }
+}

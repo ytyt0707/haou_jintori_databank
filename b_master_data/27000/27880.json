@@ -1,0 +1,80 @@
+{
+  "round_id": 27880,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-20T18:13:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵なきち] 珉珉",
+      "team": "🇯🇵なきち",
+      "emoji": "🤍",
+      "score": "43.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] えなにこれ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "9.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] アマテラス",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.76",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵なきち] なきなき；＠；",
+      "team": "🇯🇵なきち",
+      "emoji": "🍒",
+      "score": "2.53",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ころす] しね",
+      "team": "🇯🇵ころす",
+      "emoji": "😍",
+      "score": "1.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵なきち",
+      "score": "46.19",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "12.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ころす",
+      "score": "1.14",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkcEOwzAIQxEY8v9/vGGgSbvddhpSFeoXG6GoiE7tTlUlS2/S3MuT9BQojkAaETEC6YQxOumJcxrr8p54KK1K7+CSakD2Bb2yCZncHYdydAu3o4PDav0bm+QIM1kPdM2NALCWPfkkJ3yybU6viLTb3Z13eyUBUEKqSfmX1MHyBYhYF3HSgqsOAAYzoxvNsDbtKM9x3U9znKTecw+92u39QH8m/LaJfd/WzPIR8vne3wuwTwqQ",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#30e8d7",
+      "4": "#30e8d7",
+      "5": "#8B4513",
+      "6": "#8B4513",
+      "7": "#e230e8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "round_id": 54726,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-18T04:23:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "33.90",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "20.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵お赤軍] 栄養分析表",
+      "team": "🇯🇵お赤軍",
+      "emoji": "🤠",
+      "score": "2.33",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] たぬきち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.18",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "たたた",
+      "team": "",
+      "emoji": "🦁",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "53.99",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤軍",
+      "score": "2.33",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.18",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAF10lEOwzAIA1ATFu/+N54wISXtykcV5c1ApJntwnjUNrNUd7r7oH65FWKvGmMA2BqHUeauaFMY7NLV+aM0spqKLbsHxja72NWADTqQ8QRTOKKHkgSWamjqai+NobkP4EqnFpYB3wjv6HUf+1amVrpp8Eo6DwOjLr3x0v2oMyyNeG3VWxdmf7/ew9j3rNDV+gTtJk1+qCa/ZnOvtdUzy75V57ZghjseZ/FxQ85ZF390vupU1ej73FQS+Vj9Z2oMY+acMzP1/QEnLAqk",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#8B4513",
+      "5": "#6e4de5",
+      "6": "#9ca3af",
+      "7": "#30d7e8"
+    },
+    "sz": 30
+  }
+}

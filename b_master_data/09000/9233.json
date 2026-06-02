@@ -1,0 +1,49 @@
+{
+  "round_id": 9233,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-24T10:54:32.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵天皇] 東京都千代田区",
+      "team": "🇯🇵天皇",
+      "emoji": "😂",
+      "score": "15.39",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵神撫子] 千石撫子",
+      "team": "🇯🇵神撫子",
+      "emoji": "🤠",
+      "score": "4.28",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵天皇",
+      "score": "15.39",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵神撫子",
+      "score": "4.28",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd0QsOxCAIBNCRz/2vvAGpFmXZZCdpbPoEagtEiMguItIVbATFHkB1JHx3MNUxbvbOrs6AiAT5jfMazOLxXbY8pUklVAtli62q+UhT4c6kGq8c57UaXvHaR6F4i2XX2jFOtadWNVPpzkLMligVU48vmxSt3j8tz0U9t67mzEdrPvi73vxD+97cVnPPeU+vNf+TD1SGBjg=",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#ead239",
+      "4": "#96e94e",
+      "5": "#7a35e9"
+    },
+    "sz": 30
+  }
+}

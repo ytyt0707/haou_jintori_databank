@@ -1,0 +1,101 @@
+{
+  "round_id": 5480,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-01-15T05:05:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵特攻隊] 千石撫子",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤖",
+      "score": "20.14",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵特攻隊] OMNK",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤖",
+      "score": "13.44",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "野獣先輩",
+      "team": "",
+      "emoji": "🐷",
+      "score": "10.63",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[チー牛] チギュりパンで草",
+      "team": "チー牛",
+      "emoji": "🐷",
+      "score": "7.96",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[チー牛] サイコロ",
+      "team": "チー牛",
+      "emoji": "😈",
+      "score": "3.57",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[みん²] フウト",
+      "team": "みん²",
+      "emoji": "🐱",
+      "score": "0.53",
+      "kills": 8
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "💩",
+      "score": "0.48",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "51.81",
+      "kills": 18
+    },
+    {
+      "rank_position": 2,
+      "team_name": "チー牛",
+      "score": "11.53",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "0.71",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eJxt0tEShCAIBdC7ERX4//+7A6KBeafpoSMo7gIzJ75Ri6PHvx1H0iiNHGtt0ZN3nS+aDoCIcu19J6XApNdU2uhdsLuqMjNgD7993315xvAhQipdlGpjhbVmtkEpZYyr3FdJ/yzlyGpvUZWsvkAjIioWIn89VbvFAtPWWvtqdG1bjR3bXiWVblR86EXLoVBUQmm2rrVj3FB5VXrj0X3Rua3taKdCYLPzJQX89ltS45/45a86Joo76j/c1Pc6iHT+yb8KXRX4A22dE6E=",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#6af17e",
+      "4": "#e044f8",
+      "5": "#e044f8",
+      "6": "#f4f14e",
+      "7": "#f4f14e",
+      "8": "#6af17e",
+      "9": "#6af17e",
+      "10": "#6af17e",
+      "11": "#f4488d"
+    },
+    "sz": 30
+  }
+}

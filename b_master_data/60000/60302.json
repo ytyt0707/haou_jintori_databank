@@ -1,0 +1,41 @@
+{
+  "round_id": 60302,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-30T17:50:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[九三軍] ケシ",
+      "team": "九三軍",
+      "emoji": "💖",
+      "score": "9.78",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しGO",
+      "team": "",
+      "emoji": "👽",
+      "score": "1.82",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "九三軍",
+      "score": "9.78",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAHt0MEOgDAIA9CG8v/fbGCiByrz5EkuS/ZSYCMJnoVWJXE2vHLK8FpV+p4LNdfLlcJ9OdCYCF279fcg1XNzpRkNEDtFVmX+u29+wKYxM9rEFvXYe1ZsstX2APAKAXs=",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#60d411",
+      "4": "#4d73e5"
+    },
+    "sz": 30
+  }
+}

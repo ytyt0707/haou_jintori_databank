@@ -1,0 +1,48 @@
+{
+  "round_id": 52021,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-05-12T02:08:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しGj",
+      "team": "🇯🇵ONJ",
+      "emoji": "😄",
+      "score": "28.21",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ソ連] ミニレゼ",
+      "team": "ソ連",
+      "emoji": "💣",
+      "score": "2.74",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "28.21",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ソ連",
+      "score": "2.74",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdkEEOAzEIAx3C/99c2SwEIm2lXssJmBhMgBlmNhujMjOvGERFx7/TGuxDqzbe9op2V0P8nQLuQzq0AHhPezBsEQ/5ZvDJineUHteEi2glbtCBvbEYzw4aLzE0uWiworE2xbq4bQ5P2gzey7n0pVRrz1UPTQsHRBbau1u1HFd1J5p9N7MWvD8/YZj+K6rTzkUflUUExA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#a74de5",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

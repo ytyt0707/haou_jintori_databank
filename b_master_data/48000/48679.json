@@ -1,0 +1,81 @@
+{
+  "round_id": 48679,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-05-04T13:27:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] 岩井",
+      "team": "ラー軍",
+      "emoji": "🤠",
+      "score": "38.82",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🦞] 蟹(海老)",
+      "team": "🦞",
+      "emoji": "🦞",
+      "score": "30.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] ニャル子",
+      "team": "ラー軍",
+      "emoji": "👽",
+      "score": "10.53",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🦞] も",
+      "team": "🦞",
+      "emoji": "😍",
+      "score": "3.54",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "0.56",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "49.35",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🦞",
+      "score": "33.98",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.56",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kgEOxSAIQ7sheP8b/1DE4f6UZAnZW0txAiLiTxSyzMzbfL9i8/qnQjGhGTQrPc6U4tDiXysKDGOzNFYtsT7owD73ixLXUNVZaX6gKoK+c3Y1et/MpXfv9p3Kt5OZ15tn3+hEK35Tddra+KRQif6gxWL8mgvSTWa8aPNZVw4/0/prPZxrr6uIcxcmb4SDApibbmgVL87wU6pqZr7vezmm+QGpDsgzpn6cZtC5cdzgqX3uc3gnbrxf+AGjgw98",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#d4b611",
+      "5": "#4d56e5",
+      "6": "#e83042",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "round_id": 10027,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-26T05:51:18.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "🐲",
+      "score": "18.01",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳チギュ] チギュりパンで草",
+      "team": "🇨🇳チギュ",
+      "emoji": "💩",
+      "score": "15.54",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇰🇷独島] 独島は韓国領土",
+      "team": "🇰🇷独島",
+      "emoji": "😎",
+      "score": "2.00",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵特攻隊] 大日本帝国陸軍",
+      "team": "🇯🇵特攻隊",
+      "emoji": "🤖",
+      "score": "0.44",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "18.01",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳チギュ",
+      "score": "15.54",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇰🇷独島",
+      "score": "2.00",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵特攻隊",
+      "score": "0.44",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0VkSxCAIBNDGCNz/xlMoKDrGSn8kFV/ADegpHv+sPUBmoAQsiAKvPCpcbfCkVp8r77hpmhQ3PJXWetG6584n9Dezq2T3J1vMBGIBQOTtmKf2EIjGLKEy1PKurfWmgzH7bkrUVsUizKppVTFntFBV5ciuetRcOrmtJ6mNzVo7qLQt4SXtjGNP4ot9nnSUCPxTaTcU14C18TwdwU3xQdff8APogQoF",
+    "cp": {
+      "1": "#ee7278",
+      "2": "#48efaf",
+      "3": "#43ea48",
+      "4": "#4fd6ee",
+      "5": "#bc63f8",
+      "6": "#e0e92f",
+      "7": "#ec913c"
+    },
+    "sz": 30
+  }
+}

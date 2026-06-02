@@ -1,0 +1,46 @@
+{
+  "round_id": 19436,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-03-01T00:51:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゲスト] 深谷知広",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😀",
+      "score": "0.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵小谷城] 浅井長々",
+      "team": "🇯🇵小谷城",
+      "emoji": "🐲",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵小谷城",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZEQGDMicIcqmtx/obd/gjhYCocGM1/X4ZfFqHYySBMIC7mQALfoDhA==",
+    "cp": {
+      "1": "#f97316",
+      "3": "#c030e8"
+    },
+    "sz": 30
+  }
+}

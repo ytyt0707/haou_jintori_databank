@@ -1,0 +1,131 @@
+{
+  "round_id": 18383,
+  "game_mode": "TEAM",
+  "player_count": 12,
+  "played_at": "2026-02-26T14:43:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 正体不明",
+      "team": "楚",
+      "emoji": "👽",
+      "score": "21.04",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤠",
+      "score": "21.04",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🦊",
+      "score": "13.96",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😈",
+      "score": "11.84",
+      "kills": 11
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵楚] さと",
+      "team": "🇯🇵楚",
+      "emoji": "🤠",
+      "score": "9.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[楚] 爆弾/自認レゼ",
+      "team": "楚",
+      "emoji": "🐶",
+      "score": "7.71",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ゲスト] ベネット",
+      "team": "🇯🇵ゲスト",
+      "emoji": "😈",
+      "score": "5.22",
+      "kills": 6
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[楚] 珉珉",
+      "team": "楚",
+      "emoji": "🐷",
+      "score": "0.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🇯🇵楚] パンテオン",
+      "team": "🇯🇵楚",
+      "emoji": "😀",
+      "score": "0.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[楚] 浅井長々",
+      "team": "楚",
+      "emoji": "🤔",
+      "score": "0.18",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "50.69",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "17.06",
+      "kills": 17
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "13.96",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵楚",
+      "score": "9.79",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJx90AuOxCAMA9DUJutR4f7nXQXCp93RWhqh8mpIx0jSXhFXSikFpSceSJOCa62VTNkqqWYIAAeTZdR6YMCVtcBP/I5qwXX10bJ7HG0ArmswBxpbmxzXWurM1iiX8Qmn5sVmBqhn2VIeKskIKXh1AVuq1jp2bvkX60hyrS00hr7v2496hqn4X3H//FFuhb8v5qmPwSbWxMfYkjxCPqs40Z2at7ofB081Idb+ujAn/qrrg1IdshB09VfXMUZBDhLLxlB5DD3m9mfQdzBeyLptnWv/sHfwPuwM7cvm3vsFZRgTzw==",
+    "cp": {
+      "1": "#5f49e9",
+      "2": "#b6f02d",
+      "3": "#72eeac",
+      "4": "#b6f02d",
+      "5": "#89ed50",
+      "6": "#89ed50",
+      "7": "#89ed50",
+      "8": "#f17237",
+      "10": "#89ed50",
+      "11": "#89ed50",
+      "12": "#f17237"
+    },
+    "sz": 30
+  }
+}

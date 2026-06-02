@@ -1,0 +1,76 @@
+{
+  "round_id": 1172,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-01-05T09:07:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎] ハンニバル",
+      "team": "猛虎",
+      "emoji": "🦄",
+      "score": "19.17",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "😂",
+      "score": "13.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[妨害や] 1位妨害します",
+      "team": "妨害や",
+      "emoji": "😎",
+      "score": "11.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[うんち] うんち本物",
+      "team": "うんち",
+      "emoji": "🤠",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎",
+      "score": "19.17",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "13.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "妨害や",
+      "score": "11.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "うんち",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJzl1MEOhCAMBNCBxv//5Y0BYmfaKu4et4mJh5diBxCAGTbKYMaycU3mSlHvw52PMWTWhzwxOQtsSZgd92wuXvW7GKKLaDXUOeYkysi59KKDsOhW2JkTCAq6cr3JhtQfyDvsVuZg5CC8cjHm4UIwyNm2gzB17ugbn/yvHNjR3UoVkpspbF26UGm3390j3HQv21VTOjdfWpkIl/thPdtN95/1AaunBcQ=",
+    "cp": {
+      "1": "#8ef6d3",
+      "2": "#9991ed",
+      "3": "#ea77ee",
+      "5": "#f2fe67"
+    },
+    "sz": 40
+  }
+}

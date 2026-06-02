@@ -1,0 +1,147 @@
+{
+  "round_id": 609,
+  "game_mode": "TEAM",
+  "player_count": 24,
+  "played_at": "2026-01-04T03:21:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[vor] vorugu20",
+      "team": "vor",
+      "emoji": "🤖",
+      "score": "11.43",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[鈴木組] ぐちゃ",
+      "team": "鈴木組",
+      "emoji": "🐲",
+      "score": "10.38",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[鈴木組] ぷゆりません",
+      "team": "鈴木組",
+      "emoji": "🦁",
+      "score": "10.04",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🦄",
+      "score": "9.39",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[鈴木組] ハンニバル",
+      "team": "鈴木組",
+      "emoji": "🐶",
+      "score": "7.89",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[ぼっち] 屁ネキ",
+      "team": "ぼっち",
+      "emoji": "🦁",
+      "score": "4.84",
+      "kills": 11
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[舞散葉] まるでサンタ",
+      "team": "舞散葉",
+      "emoji": "💩",
+      "score": "4.79",
+      "kills": 6
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[鈴木組] 傘立テト",
+      "team": "鈴木組",
+      "emoji": "👽",
+      "score": "4.68",
+      "kills": 2
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[日教組] OGポギ",
+      "team": "日教組",
+      "emoji": "😈",
+      "score": "4.16",
+      "kills": 6
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[鈴木組] やま",
+      "team": "鈴木組",
+      "emoji": "😀",
+      "score": "1.50",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "鈴木組",
+      "score": "35.29",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "vor",
+      "score": "11.43",
+      "kills": 13
+    },
+    {
+      "rank_position": 3,
+      "team_name": "みん²",
+      "score": "10.49",
+      "kills": 12
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ぼっち",
+      "score": "5.35",
+      "kills": 17
+    },
+    {
+      "rank_position": 5,
+      "team_name": "舞散葉",
+      "score": "4.79",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eJx91Itu6zAIBuB/SrMSDxw2MTXv/6RH4EvsLD1IVS/+AhhbXZYh8D588Q38/b1zVePR0MTCYaz9WN64CUUAOf/t78LweCD/35VfirvCCubd3rvuRxZuXVd/I/J1nR+4uDUcYVG9tpy7C7g2dz2uwRX4N9/zeXEFrqu7Ez7xnPrrbAVUMY1vHktztEABncZyBynmopH01qHVRbSnyHkpl6y4mQmwaOp5PmIHy7LkvI9OCEiajmManbt97xsWIRFBSikdNerowlFZF/n8bI6Z03EQUW5B+04eAd0DrpA48cmIqLAGm4uoaNs2OuN02t1XOLtzdLpWtDv05kSIVFVHZ7Zt/pWYu/EX6yTJzDb5ieBSNhgGxz4ZM7ZcXYGlieKUg4LMyPOGy/5og9WpRUIzM8kV5sK8MiFVF4UtghtkFnqVnbS6ejIT5trhj/Q5+/qcLly+OIljUxZmGxxnrhlRxn0eb08og3v5FSzny6yzFJE+mle5rHFfFBUE/HYnue4Eg4PntOY4nPD0T+Kuhp/G+XFmEOAfYzswQQ==",
+    "cp": {
+      "1": "#7558e9",
+      "3": "#f1e2a2",
+      "4": "#f1e2a2",
+      "5": "#67f95d",
+      "6": "#67f95d",
+      "7": "#7558e9",
+      "8": "#ecf75f",
+      "9": "#9beeb1",
+      "10": "#ecf75f",
+      "11": "#ecf75f",
+      "12": "#ecf75f",
+      "13": "#ecf75f",
+      "14": "#798be7",
+      "15": "#eb5452",
+      "16": "#ecf75f",
+      "17": "#f849e1",
+      "18": "#b366ea",
+      "20": "#9beeb1",
+      "21": "#fbb574",
+      "23": "#65c6ec",
+      "24": "#ecf75f"
+    },
+    "sz": 40
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "round_id": 7288,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-19T06:51:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 爆弾の廃人",
+      "team": "みん²",
+      "emoji": "🐲",
+      "score": "16.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🐲",
+      "score": "10.87",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] もう寝る",
+      "team": "みん²",
+      "emoji": "👽",
+      "score": "5.66",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵さとる] やの",
+      "team": "🇯🇵さとる",
+      "emoji": "😂",
+      "score": "3.64",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "^-",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.29",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "32.54",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵さとる",
+      "score": "3.64",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eJy10AsKhDAMBNBx4zT3v7EkfpJUWwTZAaH4OsYWAMQCD4/Yyl9IClNsb9EOq55gq2MSHptEVbQW1KM0D+1BpKAHd+UjnswO17Uoa1NV9bo7sR8eqh+DaWZSvzMwHyUUfXTP1Z2o3Mq+AYNuZKC/qUZ3jNFdlvdz3375bzrBL9kAt80GJg==",
+    "cp": {
+      "1": "#48eab1",
+      "2": "#2858f6",
+      "3": "#ec57fa",
+      "4": "#ec74a2",
+      "5": "#ec57fa",
+      "6": "#ec57fa",
+      "7": "#b3ef43"
+    },
+    "sz": 30
+  }
+}

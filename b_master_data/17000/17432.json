@@ -1,0 +1,64 @@
+{
+  "round_id": 17432,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-23T10:05:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ローマ] こたろー",
+      "team": "ローマ",
+      "emoji": "🦊",
+      "score": "53.04",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "復活やったー",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.29",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ローマ] Kawaii",
+      "team": "ローマ",
+      "emoji": "🤠",
+      "score": "0.23",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ゲスト] ゲスト",
+      "team": "🇯🇵ゲスト",
+      "emoji": "🤠",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ローマ",
+      "score": "53.27",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ゲスト",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJyN0tsSgCAIBNBlbP//l5vJLJYA8/VwEwX6Y9biq+wQjGySe59cH14BBj8UA0uqVxLslJx9bV5HBTM3lJO+odjirNUYemPGSWQdmbllFThq9w/Rtd1xhaxmJt+yV8iRlqiSd1ouC6pJmN9F8jFUoU/70Xm/3+cEOw4Jdg==",
+    "cp": {
+      "1": "#5fd9f1",
+      "3": "#8f25f8",
+      "4": "#ee8b68",
+      "5": "#ee8b68"
+    },
+    "sz": 30
+  }
+}

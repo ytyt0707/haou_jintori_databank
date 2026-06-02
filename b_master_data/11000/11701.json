@@ -1,0 +1,57 @@
+{
+  "round_id": 11701,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-02-03T17:55:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チ壺] 🐟💦",
+      "team": "チ壺",
+      "emoji": "🤔",
+      "score": "49.36",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵分際] 足りない頭活かせ",
+      "team": "🇯🇵分際",
+      "emoji": "🤖",
+      "score": "26.71",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チ壺] 壺市早苗",
+      "team": "チ壺",
+      "emoji": "🦁",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チ壺",
+      "score": "49.43",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵分際",
+      "score": "26.71",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyF09EOgCAIBdCrwf//clNAAbF4aOUZCswAADRD3nAEk4u5wCxvPIOC65opxRBlVboqah1POmpSpqUnioIWp+3H54eu1pGyRk1bA/buBlDo7vdS89ZyEjapVJKlGRtA0pIibMpXdVAd/Ks6KjLMLcVjrxpbcvqULRW5tTY7OLBdcEZrLbHe0ZHmfhmbtNM6Ar47fAuj",
+    "cp": {
+      "1": "#d26aec",
+      "2": "#38f587",
+      "3": "#eba075",
+      "4": "#eba075",
+      "5": "#f6419c"
+    },
+    "sz": 30
+  }
+}

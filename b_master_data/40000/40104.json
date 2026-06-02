@@ -1,0 +1,57 @@
+{
+  "round_id": 40104,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-04-14T04:39:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "戦場ヶ原ひたぎ",
+      "team": "",
+      "emoji": "🦀",
+      "score": "54.35",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきこ；＠；",
+      "team": "なきち",
+      "emoji": "🍼",
+      "score": "1.93",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "🎌",
+      "score": "0.75",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "1.93",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.75",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkYkSAyEIQ4Pg//9yJ2A8ukfLzgjLM/ECGO0+kl1wb/wagIiIU+7uvXcQFiYf5nB3R5dpikuP1iKSCqZ12XNM6H6hyTS800BudexKmj2nfm8c9W96TD9+qK3GPNfiz8ZJlnZJWAFmgE3nnSYz44S7BUkqrhRCVO+eY8mF3yjsS5rvbNNcdHrkUeUtOvMfVNZTo6Iu8eG4BXldDEmUBx3bVldZ2hKrqyzKa3xxBukHligI4g==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#30e8e8",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

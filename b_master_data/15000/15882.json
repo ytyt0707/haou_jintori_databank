@@ -1,0 +1,56 @@
+{
+  "round_id": 15882,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-16T20:56:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[秦] 名無しX4",
+      "team": "秦",
+      "emoji": "🤠",
+      "score": "89.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[秦] 爆弾/自認レゼ",
+      "team": "秦",
+      "emoji": "🦁",
+      "score": "3.44",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ローマ] 大カトー",
+      "team": "ローマ",
+      "emoji": "🦊",
+      "score": "3.06",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "秦",
+      "score": "93.08",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ローマ",
+      "score": "3.06",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJy1klEOgCAMQ7eu9z+ziaIorJgIvi+Wx5YRavHAQgFpZu0Ew8EY2+XLrADtF0AWrzZ5v4c7q28uuAdZS3RH8u5PrMxhrku3tPuIw2bpu5q7pT6jQ56Cn9NiG03wCms=",
+    "cp": {
+      "1": "#4b93f1",
+      "2": "#ee689d",
+      "3": "#ee689d",
+      "4": "#d44eef"
+    },
+    "sz": 30
+  }
+}

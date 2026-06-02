@@ -1,0 +1,42 @@
+{
+  "round_id": 3738,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-01-11T06:32:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[👾] 矢野彩喜様",
+      "team": "👾",
+      "emoji": "💩",
+      "score": "26.72",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[👾] かなむ",
+      "team": "👾",
+      "emoji": "👽",
+      "score": "12.65",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "👾",
+      "score": "39.37",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl0tsSgCAIBFBk+f9vbhqxQJCs9tHjOt6I3gQjtaYzaqVKgaq8qfSjm6nIWuWMsQaa2Wqoimm2gJaHsuUx4aqyQ9H9NjV2KHoYVZ7ULf2oHFa+r8p1+6i/SBilEChT+hnDe2HC/Avv6RK/5QAOBATr",
+    "cp": {
+      "1": "#e368ee",
+      "2": "#74a8ec",
+      "3": "#b8f65a",
+      "4": "#b8f65a"
+    },
+    "sz": 30
+  }
+}

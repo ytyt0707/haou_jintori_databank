@@ -1,0 +1,57 @@
+{
+  "round_id": 57002,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-05-23T07:26:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧紅茶] ダージリン",
+      "team": "🇬🇧紅茶",
+      "emoji": "☕",
+      "score": "46.77",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧紅茶] ぷゆゆパン🥺",
+      "team": "🇬🇧紅茶",
+      "emoji": "🥺",
+      "score": "1.74",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "0.39",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧紅茶",
+      "score": "48.52",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ちんぽ",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkEsWxSAIQ1Hp/rfcEzA01fcclUktl4SPWUSbET89IkHRMdrMgAo0SIc1YlMK9iDIVlq67CreORI6FeoWnd3Nf9IYyyPoK1rQhO6eG+y0Kl5txZgOi7R0yXsNnY2oyi93SqZjgSOrF960JcPjTVM+txN8seysFSGdLwTVvBv7Biwq3iH4o6TzYxqvUi95rITU5DudmeBnuh9L689UK7958w43kqgIDw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#c030e8",
+      "4": "#ced411",
+      "5": "#ced411"
+    },
+    "sz": 30
+  }
+}

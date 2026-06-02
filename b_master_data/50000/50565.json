@@ -1,0 +1,57 @@
+{
+  "round_id": 50565,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-05-08T19:24:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[おこち] おこち帝国の逆襲",
+      "team": "おこち",
+      "emoji": "😡",
+      "score": "18.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] tkb",
+      "team": "なきち",
+      "emoji": "🔅",
+      "score": "14.89",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] にここ＾＠＾",
+      "team": "なきち",
+      "emoji": "📛",
+      "score": "3.55",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "おこち",
+      "score": "18.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "18.44",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGV0EESxCAIBMBhxP9/eQsQRJMc1kNi2Q6QkOKLIr4jR1tcKgKSsEfXiEoobXWtrMvFrNJLW3KMVHjLs+6wKaL2p8ImS+1DeRaCraq6W1tlAFJ9tfNS1HqohS3rz6Y5StQtXZ2X7uiEZUNzFFcAc87Yqg61nf+/F9XShiubJ/lFs1aKvbNyYbb2S670gfJCC4cyxd4P7fjQA2898daj679938Prcy7M0/hT/FAm53W7uPfkD1IhB5o=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8c6",
+      "4": "#30e8c6",
+      "5": "#8b4de5"
+    },
+    "sz": 30
+  }
+}

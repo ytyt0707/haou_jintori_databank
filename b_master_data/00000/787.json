@@ -1,0 +1,100 @@
+{
+  "round_id": 787,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-04T12:58:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ソ連] スターリン",
+      "team": "ソ連",
+      "emoji": "😂",
+      "score": "27.57",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "　",
+      "team": "",
+      "emoji": "😈",
+      "score": "22.46",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[宋] ぽんぽこ",
+      "team": "宋",
+      "emoji": "😍",
+      "score": "7.51",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[謎の男] 共感性羞恥心",
+      "team": "謎の男",
+      "emoji": "🐷",
+      "score": "5.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[北酒場] 細川たかし",
+      "team": "北酒場",
+      "emoji": "🦊",
+      "score": "1.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[大東亜] wad...",
+      "team": "大東亜",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ソ連",
+      "score": "27.57",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "宋",
+      "score": "7.51",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "謎の男",
+      "score": "5.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "北酒場",
+      "score": "1.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "大東亜",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eJyl1NEOgzAIBVDopP//yYaWKsKlMxsvM+4ECiUS/RhMPIPuB41Dw7sY+mq5Y8cqJ9ERg7oEHDqfZqTKbRr52wVZO5wQONhwciIibx3ImMpuXGLohEcglYupNPAIo0szxK6+k6/OSfFlzc127M1zbuZGx66vPDjh54SSW38yJ4Yc+Xq1Yw6OklsbVaZr7Y1rGvqzOx6bG7EmA9I9XAHtC+PdKMrS49mCa/Pae+9vXFc37Mcx7Pp0tHYnuObdtXWFM3ktsu3pnLM5tO/34tvFrftDcQIDDAsD",
+    "cp": {
+      "1": "#85fab7",
+      "2": "#e7b84b",
+      "3": "#4b6bec",
+      "4": "#bffd68",
+      "5": "#ce92f7",
+      "6": "#fb60b8"
+    },
+    "sz": 40
+  }
+}

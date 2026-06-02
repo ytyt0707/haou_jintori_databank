@@ -1,0 +1,33 @@
+{
+  "round_id": 42857,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-04-20T22:48:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵自民党] 山上徹也",
+      "team": "🇯🇵自民党",
+      "emoji": "🐶",
+      "score": "50.85",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "50.85",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklsSwzAIAzHc/86twJZIcD/qySSOl0XOw6INGyPCyC+QLAY0iYCjoNSFi+HASQPLa63EJ2TQA/JKulelYiODPlq/aYTs6d5j9biaKbatSWfs/1Tq1VUw0vJT9DraRTsa76p/x11eup5DMzZ+tcwKM3f/6RrwjWYrd8pK01792rm6pblbl4uOZ6cwR+6ByCRNix5KhPCDY1AE7TdP1Ml3/gGD3gWr",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830cb"
+    },
+    "sz": 30
+  }
+}

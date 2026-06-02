@@ -1,0 +1,41 @@
+{
+  "round_id": 46897,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-04-30T13:01:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "正体不明",
+      "team": "",
+      "emoji": "👀",
+      "score": "0.08",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] ポケモンBBS",
+      "team": "🇯🇵自民党",
+      "emoji": "🦊",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵自民党",
+      "score": "0.08",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkDEOACAIA1v8/58NGBLAyOCqXbDeaaKAR1a8lqkQImXXq1Ev2xScT5qsdzfJkMWMlKw0yi2lJtp53bFs/vbsD4y7l0/KcQBE",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8e8"
+    },
+    "sz": 30
+  }
+}

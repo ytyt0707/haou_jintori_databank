@@ -1,0 +1,101 @@
+{
+  "round_id": 292,
+  "game_mode": "TEAM",
+  "player_count": 12,
+  "played_at": "2026-01-03T10:15:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[チーム] 管理人",
+      "team": "チーム",
+      "emoji": "🤔",
+      "score": "33.01",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] ゆうちゃみ",
+      "team": "みん²",
+      "emoji": "👻",
+      "score": "12.41",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[チーム] やきとり",
+      "team": "チーム",
+      "emoji": "🦁",
+      "score": "11.51",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[チーム] 彩喜😻",
+      "team": "チーム",
+      "emoji": "😂",
+      "score": "10.48",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "パピー🤣",
+      "team": "",
+      "emoji": "😈",
+      "score": "5.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "😈",
+      "score": "5.08",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[みん²] ちんこ",
+      "team": "みん²",
+      "emoji": "💩",
+      "score": "0.05",
+      "kills": 6
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[みん²] うんち",
+      "team": "みん²",
+      "emoji": "🐶",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "チーム",
+      "score": "55.01",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "17.55",
+      "kills": 16
+    }
+  ],
+  "minimap": {
+    "bm": "eJzt1ttuwzAIAFCgFqLZ///v5BsGBzuuNu1paFvTLidgyKUA//HXceUwbz6UCtxxTm0R/jgf2Mse5desyLEFgJTD6uO8SeN2kBbv99ZCsvETG+QObZotxJhP0q5WDdclrbuty2kXJmv+5SSpzrQcYUtvlsenc4c2FqpF/fhB3ulIvAJj68tQZMw/kYi2XFasEdX2WDOicM6L8z5jW1bLRWSuiW1+l3Npc6cKWdW+KrgOiNf0wSKy0qDduLGYR7SmUxE2iJipz0mtbpPPXIgUlqN0itnh8absYrrfb3tEqnlg03JE7BahzK1QAYOb5iAzVtvOMVjbjsFYbLRNKtPYsk3cs5eaO5ab9ZnNaIvFB+sxJrdoMqd7o84G/R4V16Vgw5EteOw7R2ppY0s6zWjUCUDowZKjallYJGyVC7BWS9XY2HIrGTQlL7clQ8eNEp3brO0pMtl6oiwt0bjPUEo00YyXsl97nTtby95Ze6ORW4RWr4FYMnd7+0Jhrp+xXgN52M2jdtznXFZr90G3io19flD7Fn2Qd5rOoZUgqbebSkOqIzqxr0VaPljva6bcXnqfYX4wFlb/pVH7U03++w1ZASrH",
+    "cp": {
+      "1": "#f38962",
+      "2": "#f38962",
+      "3": "#dd6cea",
+      "4": "#f38962",
+      "6": "#dd6cea",
+      "8": "#dd6cea",
+      "9": "#61f051",
+      "10": "#989df5",
+      "11": "#eff54d"
+    },
+    "sz": 60
+  }
+}

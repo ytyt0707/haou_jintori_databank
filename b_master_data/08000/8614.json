@@ -1,0 +1,65 @@
+{
+  "round_id": 8614,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-01-22T06:36:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "😈",
+      "score": "58.99",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ローマ] 〇ね",
+      "team": "ローマ",
+      "emoji": "👻",
+      "score": "3.26",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "あ",
+      "team": "",
+      "emoji": "🦄",
+      "score": "1.17",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "😈",
+      "score": "0.83",
+      "kills": 15
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ローマ",
+      "score": "62.25",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "0.83",
+      "kills": 15
+    }
+  ],
+  "minimap": {
+    "bm": "eJy90ksOgDAIBNCJQ7n/kY2t9hMGlnahTR5QigIAAXsX4iJJI5MIcgSk6bO2tFehAlr7Mudrx9mzidZqRas02NKxT3P7tlCL9Y8za826KlHpdfT0xT8Pf5aaBDDMl2wMuLstFjfptfcxRPW984Bu5nJG4da5qs/zl+ofv+sNVCcJVg==",
+    "cp": {
+      "2": "#2858f6",
+      "3": "#ab48e5",
+      "4": "#f5d466",
+      "5": "#31c2f6",
+      "6": "#f5d466"
+    },
+    "sz": 30
+  }
+}

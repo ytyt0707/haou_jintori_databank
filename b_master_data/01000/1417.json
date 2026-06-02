@@ -1,0 +1,120 @@
+{
+  "round_id": 1417,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-01-05T23:03:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "🤔",
+      "score": "33.93",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🤔",
+      "score": "15.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[不殺] 誰も殺さない",
+      "team": "不殺",
+      "emoji": "👻",
+      "score": "8.42",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[不殺] ワンパン",
+      "team": "不殺",
+      "emoji": "💩",
+      "score": "7.58",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[日本軍] 浅井長々",
+      "team": "日本軍",
+      "emoji": "🐱",
+      "score": "0.78",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[日本軍] 大日本帝国陸軍",
+      "team": "日本軍",
+      "emoji": "🤠",
+      "score": "0.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[ニグロ] ニグロ系ニグロ人",
+      "team": "ニグロ",
+      "emoji": "😍",
+      "score": "0.66",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[日本軍] 隊長まりも",
+      "team": "日本軍",
+      "emoji": "😎",
+      "score": "0.10",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "33.93",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "不殺",
+      "score": "16.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "15.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "日本軍",
+      "score": "1.62",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "team_name": "ニグロ",
+      "score": "0.66",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eJyd09uygyAMBdCdUKrw/x/cgVAgF85xmhcdXbMlEIG4iIjkinE365aiWaKJFCz37SB5Vx47/93ApTIDt1WFDoJWu94loKTWMZg5lMNJgag7Hrvm4HCJOmTmw/rSXqEjxzqM8353G3wfoTgVmoP1AWyazrm7ZN2Qu8uOLccqbweHvCtfzQHyUhyqd1dza6S5u37C3qmSbmEP2bnVg3EnVs3hHV01hxy42th/TlBzwcCovJAFC3wWN6Cd1QNzzsMauu/bOSnNwW8Lqflbea1MnnF45Faa/rIe+93xHy4t99KTZX+jquu4fVb2h419AKVUDVM=",
+    "cp": {
+      "1": "#e15cf0",
+      "2": "#bfe84f",
+      "3": "#8f52eb",
+      "4": "#bfe84f",
+      "5": "#fec039",
+      "6": "#fec039",
+      "7": "#fec039",
+      "8": "#48affe",
+      "9": "#f05c90",
+      "10": "#bfe84f"
+    },
+    "sz": 40
+  }
+}

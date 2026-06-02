@@ -1,0 +1,105 @@
+{
+  "round_id": 56634,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-05-22T11:32:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 島津豊久",
+      "team": "🇯🇵ONJ",
+      "emoji": "🙂",
+      "score": "19.74",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無し5a",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐷",
+      "score": "13.38",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "〽",
+      "team": "",
+      "emoji": "〽️",
+      "score": "10.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[雄英] 緑谷出久",
+      "team": "雄英",
+      "emoji": "🥦",
+      "score": "8.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇩🇪中立国] 平和主義",
+      "team": "🇩🇪中立国",
+      "emoji": "🦟",
+      "score": "0.77",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵混沌] ニャル子",
+      "team": "🇯🇵混沌",
+      "emoji": "🏁",
+      "score": "0.54",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵混沌] 藤堂高虎",
+      "team": "🇯🇵混沌",
+      "emoji": "💏",
+      "score": "0.46",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "33.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "雄英",
+      "score": "8.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵混沌",
+      "score": "1.00",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇩🇪中立国",
+      "score": "0.77",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGN0uEOwjAIBOAbIMz3f2FzwGy3NlF+mM2PK6R6HKOw1LDjWBA/1Kwa1iAAs+StlbLDYJsOSaqPmWvFWQ3n3ADgpsvhd7WHt0ZEmNn54FZJPfdzRcgx7+TOrcRMWLirl0YE8R2R74y7w4eGyHtSCosnc15nNedWsDjX4VIS0VrJ5MwyH5fmzOqok1vdocw3XXM7qq7UWhmAzlmtqiT7vqocuxSE30coL2NoP/bJKirbbCZH6vYEXv4mpS+2/aOb9JWtn1wEOfL6A7zy0j8ttQmC",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e8a930",
+      "5": "#7c4de5",
+      "6": "#e83075",
+      "7": "#9ca3af",
+      "8": "#30e881",
+      "9": "#7c4de5"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 21338,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-03-05T08:39:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ト",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "43.73",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🐱",
+      "score": "38.81",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵小谷城] 浅井長々",
+      "team": "🇯🇵小谷城",
+      "emoji": "🤖",
+      "score": "0.34",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "82.54",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵小谷城",
+      "score": "0.34",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkgkOwzAIBKEp//9yy33VVpEiJZ5ds6AQZb1ngTMGZBRCxTQ+1ssFLa0ePIdzp9m5CDXCc/CugC3Vmf4cTb2+k3YT74f4ySoZhdIr2WwcizYJe3NaGJghBIaBpa9QYB1id3ssgxhukzGXFGxFhDZTmUAwWJVzfVWv0gXJbTO6eQNvJxXvlfKvuQWnQLXxdv1P+6rjpttAX/YBkE8NhA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e85e",
+      "4": "#e83042",
+      "5": "#e83042"
+    },
+    "sz": 30
+  }
+}

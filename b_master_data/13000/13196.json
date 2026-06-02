@@ -1,0 +1,40 @@
+{
+  "round_id": 13196,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-02-10T10:24:53.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "[野獣先輩] パンテオン",
+      "team": "野獣先輩",
+      "emoji": "🐱",
+      "score": "0.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[野獣先輩] 名無しEV",
+      "team": "野獣先輩",
+      "emoji": "🤠",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "野獣先輩",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eJxjYKAZYKGd0aOAqoBpoB0wsgEAEyYABw==",
+    "cp": {
+      "2": "#965cf5",
+      "4": "#60f6e4"
+    },
+    "sz": 30
+  }
+}

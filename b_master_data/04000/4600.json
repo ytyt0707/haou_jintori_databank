@@ -1,0 +1,65 @@
+{
+  "round_id": 4600,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-01-13T05:30:16.000Z",
+  "players": [
+    {
+      "rank_position": 2,
+      "player_name": "パイン",
+      "team": "",
+      "emoji": "🦊",
+      "score": "18.89",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇸嫌な奴] 最大派閥妨害",
+      "team": "🇺🇸嫌な奴",
+      "emoji": "💩",
+      "score": "1.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ぷゆゆ] 安倍晋三",
+      "team": "ぷゆゆ",
+      "emoji": "😀",
+      "score": "0.16",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[ぷゆゆ] けんた",
+      "team": "ぷゆゆ",
+      "emoji": "🤠",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ぷゆゆ",
+      "score": "4.80",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸嫌な奴",
+      "score": "1.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eJytkkkOQzEIQy33i9z/xhVJgED4Uhf1ItPDkAmoknPCqUGIiGC2OtjdoiKinUGLAflR0aOSeLBqnnUDFq/tquc4MIIS+wjwxfDaIO7AMWFx7Ci9WKKOf6GpLi5v0LHMKaJQ2rM8JbNd8MBmmapfBTxNaqPjOPPtNXx7WWhjne+CnqbPmGn9qWhE53+hR6FXL2OVFtYlXvoCU5YHcQ==",
+    "cp": {
+      "2": "#2858f6",
+      "3": "#f07e38",
+      "4": "#7c34ef",
+      "6": "#e96790",
+      "7": "#7c34ef"
+    },
+    "sz": 30
+  }
+}

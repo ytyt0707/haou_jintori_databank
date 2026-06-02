@@ -1,0 +1,81 @@
+{
+  "round_id": 20180,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-03-02T17:11:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] ゆゆ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "23.21",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] ゲスト",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "22.69",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] BOT",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "11.56",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ナユタ] ナユタガイジ",
+      "team": "ナユタ",
+      "emoji": "🦄",
+      "score": "2.83",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇳油一族] うんこ係真央婆",
+      "team": "🇨🇳油一族",
+      "emoji": "🦄",
+      "score": "0.35",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "57.45",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ナユタ",
+      "score": "2.83",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳油一族",
+      "score": "0.35",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kluWhEAIQ0kHdP87npMA9mPs5kc9l4QU5eOhii+1EAD+tywN4PxBA+cT1zRa23PP9haprogrFMC1HlgXBUjiRaeOpUC6uDI/wzgCGea3lMy8p8E2TT3x6TwsaQOHuVriBTLxrq2hkdZ+wArsWOGLssNnQfNc5DpzaFSR2f6oG7rBqDt2XA2xdcwabG3KSkekLmVmZjJBglWOQcMnTSBl561kQx9UK4TGNm1rX/Y4j4elzNwfIdWTO58syjuO4zgaiJfi6BykZ4oelpkqjxqqOlFjO+svbKViOM9Y+10LSAvf6bUNBdVZRqtcFs5p1mRm6fMPs1YJqw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#f97316",
+      "3": "#8B4513",
+      "4": "#8B4513",
+      "5": "#8B4513",
+      "6": "#30e8c6",
+      "7": "#a74de5"
+    },
+    "sz": 30
+  }
+}
