@@ -528,10 +528,11 @@
                 renderResultScreen(data);
                 
                 document.getElementById('display-match-id').innerText = `ID: ${data.round_id}`;
+document.getElementById('display-match-id').innerText = `ID: ${data.round_id}`;
 if (data.played_at) {
-    // 💡 バックエンド側で保存した日本時間の文字列（例: "2026-06-03T01:19:33.000"）をそのまま活用します
-    // 「T」をスペースに変えて、ミリ秒（.000）以降をカットして綺麗な日時に整形
-    const formattedDate = data.played_at.replace('T', ' ').split('.')[0];
+    // 💡 スラッシュ区切りにしつつ、先頭から「分」まで（16文字分）をスパッと切り出す！
+    // 例: "2026-05-24T23:15:30.000" ➔ "2026/05/24 23:15"
+    const formattedDate = data.played_at.replace(/-/g, '/').replace('T', ' ').substring(0, 16);
     document.getElementById('display-match-date').innerText = formattedDate;
 } else {
     document.getElementById('display-match-date').innerText = "日時不明";
