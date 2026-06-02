@@ -2,6 +2,55 @@
   "date": "2026-06-03",
   "task_history": [
     {
+      "timestamp": "2026-06-03T01:02:55.773013",
+      "status": "success",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "最新試合IDの確認および差分履歴データの取得完了",
+          "previous_last_id": 61587,
+          "current_last_id": 61601,
+          "target_limit": 14
+        },
+        "step2": {
+          "status": "success",
+          "message": "新着試合データの個別ダウンロード完了",
+          "success_count": 14,
+          "skip_count": 0,
+          "error_count": 0
+        },
+        "step3": {
+          "status": "success",
+          "message": "JST時刻変換済みのマスターデータビルドが正常に完了しました。",
+          "new_created_count": 14,
+          "skip_count": 61587,
+          "rescued_count": 0,
+          "created_id_ranges": "61588-61601"
+        },
+        "step4": {
+          "status": "success",
+          "message": "新着試合分の個人分析データを高速アペンドしました。",
+          "updated_players_count": 12,
+          "new_players_count": 1,
+          "skipped_nanashi_count": 3
+        },
+        "step5": {
+          "status": "success",
+          "message": "新着試合分のチーム分析データを高速アペンドしました。",
+          "updated_teams_count": 5,
+          "new_teams_count": 0,
+          "processed_team_rounds": 7
+        },
+        "step6": {
+          "status": "success",
+          "message": "新規試合分の時間統計データを安全に累積集計しました。(100件安全遡り再確定版)",
+          "processed_files_count": 14,
+          "updated_time_buckets_count": 2
+        }
+      }
+    },
+    {
       "timestamp": "2026-06-03T00:17:20.689051",
       "status": "success",
       "error_reason": null,
@@ -44,9 +93,9 @@
         },
         "step6": {
           "status": "success",
-          "message": "新規試合分の時間統計データを正常に累積集計しました。(ユニーク数バグ修正完了)",
-          "processed_files_count": 10,
-          "updated_time_buckets_count": 2
+          "message": "全マスターデータから時間統計分析ファイルを1から完全再構築しました。",
+          "processed_files_count": 61587,
+          "updated_time_buckets_count": 3212
         }
       }
     }
