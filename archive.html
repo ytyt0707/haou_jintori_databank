@@ -528,12 +528,14 @@
                 renderResultScreen(data);
                 
                 document.getElementById('display-match-id').innerText = `ID: ${data.round_id}`;
-                if (data.played_at) {
-                    const d = new Date(data.played_at);
-                    document.getElementById('display-match-date').innerText = d.toLocaleString('ja-JP');
-                } else {
-                    document.getElementById('display-match-date').innerText = "日時不明";
-                }
+if (data.played_at) {
+    // 💡 バックエンド側で保存した日本時間の文字列（例: "2026-06-03T01:19:33.000"）をそのまま活用します
+    // 「T」をスペースに変えて、ミリ秒（.000）以降をカットして綺麗な日時に整形
+    const formattedDate = data.played_at.replace('T', ' ').split('.')[0];
+    document.getElementById('display-match-date').innerText = formattedDate;
+} else {
+    document.getElementById('display-match-date').innerText = "日時不明";
+}
 
                 statusDisp.classList.add('hidden');
                 resultContainer.classList.remove('hidden');
