@@ -1,0 +1,80 @@
+{
+  "round_id": 62000,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-03T13:36:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 生",
+      "team": "🇯🇵ONJ",
+      "emoji": "😂",
+      "score": "42.58",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] パピルス",
+      "team": "ラー軍",
+      "emoji": "📜",
+      "score": "33.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[姉妹兵] シエスタ45",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "0.32",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[姉妹兵] シエスタ00",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "0.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[姉妹兵] シエスタ410",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "42.58",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "33.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "姉妹兵",
+      "score": "0.48",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFktsOwzAIQ51R0f//4ykkdkxXabwk4mBDLoBirEAq0zZFkRaOixrL7jLGVI5TIG0Cw/JVIQi0hkv+h0YEK067vQMmjRUz5/4oumEUNNwp9vnUQVq6zxmMJn3Z3CE1qpGwplD6bFjQpyInTU21SWbGPNmKB50sHNPO16N9nsi1D2caSMxEXxeON2PNpddzaaYO5enaA9fNvj/OAG5J+yt86h+Rvt7zxct6pdV9/6J9H1Xnd7M+6hfmyAu7",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e83042",
+      "6": "#73d411",
+      "7": "#e83042"
+    },
+    "sz": 30
+  }
+}
