@@ -1,0 +1,51 @@
+{
+  "round_id": 61790,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-03T02:15:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猟友会] たぬき殺しのマサ",
+      "team": "猟友会",
+      "emoji": "👹",
+      "score": "48.55",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猟友会] いただきマウス",
+      "team": "猟友会",
+      "emoji": "😈",
+      "score": "36.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.70",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猟友会",
+      "score": "84.72",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk9EWwjAIQ6mF//9lDwktwXm0D3NruFmgMyLC3Mw8l2H1XeSCwotZbaBO1eTNzT3rHypp1Ieoau2lgr73CaLq7hgzjFhXTFgeKjl2qgH2U/SCfbeYbOeAWhb5U87p5r7+qWtUnFjFrh+qpzmPozOzKc5rwsM5gWEt6oG1o9HSZ1MPVsgetAwXn0BlFme+eHT0UHOkrPvmHHvf89ZUIGLvfVA9IxIjnr6WLA+zMteQG2n19VJ2DAIPqt4wtwzf7AnO/1hf3d41JQ1o",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#e86430",
+      "5": "#e86430"
+    },
+    "sz": 30
+  }
+}
