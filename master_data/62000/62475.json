@@ -1,0 +1,42 @@
+{
+  "round_id": 62475,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-05T00:18:07.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "胃",
+      "team": "",
+      "emoji": "😈",
+      "score": "6.28",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[甲殻類] ザリガニ",
+      "team": "甲殻類",
+      "emoji": "🦞",
+      "score": "3.47",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "甲殻類",
+      "score": "3.47",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9j9sOgCAMQwvl/7/ZMGBSR8DERF6YHnoZ8OcpZZv2CR/E2EbvxUVxzlnWEJyfFGXilap4xkYVB7HKxRqAUm/JOpGLdPtPgiRityajnVC8Q3f2tDFUmc3JrHUx82x0UWuiKYWlbgokqG/dc+SOInrvKXpn1fjXibaF/fmr4QKZ1wGm",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e892",
+      "4": "#e83042"
+    },
+    "sz": 30
+  }
+}
