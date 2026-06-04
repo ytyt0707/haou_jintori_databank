@@ -1,0 +1,42 @@
+{
+  "round_id": 62329,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-04T07:24:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新鯖♡] 暇",
+      "team": "新鯖♡",
+      "emoji": "🍎",
+      "score": "0.21",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[新鯖♡] 新鯖♡",
+      "team": "新鯖♡",
+      "emoji": "❤️",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新鯖♡",
+      "score": "0.33",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVzzEOACAIA8BS/f+bHZStNMY4qIsJRwWB+yfck2EVCNvg1c390PjGzqRcZBUrnUzorKzmd/W81OO718lWEwCvNrqFA0qLADQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d73e5",
+      "4": "#4d73e5"
+    },
+    "sz": 30
+  }
+}

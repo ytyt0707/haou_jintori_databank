@@ -1,0 +1,48 @@
+{
+  "round_id": 62331,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-04T07:30:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新鯖♡] 新鯖♡",
+      "team": "新鯖♡",
+      "emoji": "❤️",
+      "score": "98.33",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵菅谷組] 菅谷政史",
+      "team": "🇯🇵菅谷組",
+      "emoji": "🥶",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新鯖♡",
+      "score": "98.33",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵菅谷組",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZqYXYKCXRUPNHkZ8DoZJUi/0qGcSprtBZrNgCuMXYcIrjVeWiQkujc1bcEm8NoAksekmqIlaCgBtnApy",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#59e830"
+    },
+    "sz": 30
+  }
+}

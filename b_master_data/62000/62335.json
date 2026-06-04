@@ -1,0 +1,57 @@
+{
+  "round_id": 62335,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-04T07:43:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[新鯖♡] 新鯖♡",
+      "team": "新鯖♡",
+      "emoji": "❤️",
+      "score": "32.65",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🐱",
+      "score": "10.53",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵菅谷組] 菅谷政史",
+      "team": "🇯🇵菅谷組",
+      "emoji": "🥶",
+      "score": "9.32",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "新鯖♡",
+      "score": "32.65",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵菅谷組",
+      "score": "9.32",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkVkOBCEIRNm8/5UngEDZbSfDB0EfBYhEbloWJyJatFbFxdRM/W5tC17Q3MjMiqY8ccBwB33CUxt0lFN5+iIt8YXqTaslVj2G6l0kH4gP2rOBdG8rn9Q+KntWTIWL7hTVWGom4O3E/4knf6JSwg8PnL5wFyG7by1SYTegB3xR7CtJUTxYRChKMzRuLFJiZu654qeIHIrQrj7UMRUWcQBaP+pBH7AKee2rxYKczqZeeR/Sytulf/qZByo=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#47e830",
+      "4": "#e88730",
+      "5": "#c030e8"
+    },
+    "sz": 30
+  }
+}
