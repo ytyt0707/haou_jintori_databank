@@ -1,0 +1,63 @@
+{
+  "round_id": 62243,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-04T02:45:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤍",
+      "score": "44.10",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しi3",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "7.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ビッチ] アンチぷゆゆパン",
+      "team": "🇯🇵ビッチ",
+      "emoji": "💩",
+      "score": "0.26",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "44.10",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "7.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ビッチ",
+      "score": "0.26",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkksWgCAMA1Mr97+yLwHsR13IBuiYBAtAHUMDAOc15dLkq5I2j+V0YFlWjQdtQNtCvX+RqLt3HJTwkwqaWzG/taLuZpn/o/6uPZe1e2SrzboGUTPCnZ2u5xxjmCh5AnPJ+6KMXwDHgwMw6s0OjsJXG0TxAacWVRn9YzYqDUgtlLsPlhh/C5TewQ3Kd9J57MzVCWnf5KZXnL3jOUKxO3k3ZHmX9sTJ+AgKkrxX/u0vKvwJRA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#6ae830",
+      "5": "#30e892"
+    },
+    "sz": 30
+  }
+}
