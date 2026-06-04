@@ -1,0 +1,48 @@
+{
+  "round_id": 62341,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-04T17:03:17.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[グリ下] 帝王",
+      "team": "グリ下",
+      "emoji": "👁️",
+      "score": "53.24",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ビッチ] アンチぷゆゆパン",
+      "team": "🇯🇵ビッチ",
+      "emoji": "💩",
+      "score": "0.17",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "グリ下",
+      "score": "53.24",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ビッチ",
+      "score": "0.17",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFktEWwyAIQ2PG/3/zDhAVtN14UbgQkBZ4tJFWmNl0BlCopU0IsNaKrlpyECBH5Bf6iQBljRqwKUiq16yOEyDMDM/U+3saGKe8JZDQeWYt0C8rrYfl/aRnx67gD+qR6v2nr8XIxVe1ctce882XRqfngElT7BqwlprPUJru/8iDgD3DHKrUhcgUdnqobl1fpkZq2rtYtC9nYX2M6WuG6Upc7gV3WtxiziN2uV8XlgfU",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3081e8",
+      "4": "#e830a9"
+    },
+    "sz": 30
+  }
+}
