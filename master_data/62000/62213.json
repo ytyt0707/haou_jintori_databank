@@ -1,0 +1,51 @@
+{
+  "round_id": 62213,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-04T10:08:08.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[キャス] なきたいふーん！",
+      "team": "キャス",
+      "emoji": "😎",
+      "score": "36.85",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[キャス] ロド",
+      "team": "キャス",
+      "emoji": "🐱",
+      "score": "21.59",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しX7",
+      "team": "",
+      "emoji": "😎",
+      "score": "1.60",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "キャス",
+      "score": "58.44",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkkEWxCAIQymS+195JgEU+2YxLCz4DQXUjBahjz1tGXIFgkavoFhtJYyA7HkeM3NLAUraFBAWDaMgiEoLoBPHpoeBmW/pgEAiVqXEWU+tEV1msB+ZmhpuNckduSrtnFRHE6qpk5cDOtKVLXcizWrQpcrfNMex1rr/mqPXHlB0SHUxF50wzIsB4G8vGOYO1ImbKHLZKGcPmR0l3eq+ncxjjcPqaWm/E5TW3VyXXkvVMKhPnnhTOUf+pofQ+5veMkWttauafVCYUdWql3rRHfxwvvf7ASdGCfU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#994de5",
+      "4": "#e85330",
+      "5": "#e85330"
+    },
+    "sz": 30
+  }
+}
