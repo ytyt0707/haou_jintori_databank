@@ -1,0 +1,66 @@
+{
+  "round_id": 62919,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-06T00:18:03.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[カス] 凍結",
+      "team": "カス",
+      "emoji": "🥶",
+      "score": "29.51",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[カス] カス",
+      "team": "カス",
+      "emoji": "🖕",
+      "score": "26.45",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[カス] BOT",
+      "team": "カス",
+      "emoji": "🤖",
+      "score": "6.85",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] はじまん",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦊",
+      "score": "1.19",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "カス",
+      "score": "62.81",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.19",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kwuSwzAIQ3EFvv+ROxIf27tTOpMmeUgY7Ji9ATMA77t6woS7/0saGAAi/ngMBeyly1SRCXK96VoP9QB/XutZxKymcI/UX5TL6HDA3G7tTZnlXpTGK6XsE5zI0IRBser5Q23ZMkEKpHLFmWh4FXamZByaPchbKCIumM3QF+6haOplJ1MUbG3DrKYNori0arJWkvXLeW9YvhjK3JLuvffd4mVuZntvs5bNTc6T2A7trDxWPHwgrE4eSvJpRrOLcqXSlrJ2rTPmxOYQdW2mJnuShw8erTY7yzDNoIbO9zKJeSOr9v35/wX+sQhn",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83064",
+      "4": "#e830a9",
+      "5": "#e83064",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
