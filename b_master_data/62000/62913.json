@@ -1,0 +1,48 @@
+{
+  "round_id": 62913,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-05T14:58:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "23.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵相撲] (*^○^*)",
+      "team": "🇯🇵相撲",
+      "emoji": "😀",
+      "score": "19.21",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "23.45",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵相撲",
+      "score": "19.21",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkdsOwzAIQyHh/795srmE0E7TeEgrDsaEiPRYI8B2FAy01pIdgYqB7abAp8Qm7XoDrdbhXmoxM9JWsSFhGOjKsfLrFCy0Cfj9SW251H2PVgTDZGBTLbASTQbfxjYv9ZVC2WHX8i0GLWN6ql4YOVqH8qLMbR+Hrg+pFBQ0bmO5lieON3rDqS0qSnUt64D4Q+9a9Rs9L/GgooqcN5+UxoUn9Uul+F8a9TR+aq/MB91BBlY=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83087",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
