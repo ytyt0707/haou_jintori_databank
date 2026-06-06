@@ -1,0 +1,56 @@
+{
+  "round_id": 63081,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-06T09:03:30.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "47.90",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[姉妹兵] シエスタ410",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "1.44",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[姉妹兵] シエスタ45",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "1.17",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "47.90",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "姉妹兵",
+      "score": "2.61",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkUEWxCAIQ+EJ97/yTAJR7Czmtd0oP8GgZmYW+PWhgFpEmC2tRCFU7XigLXJ0N91Ny4z+LaiG3TN4MEgn4Gk7EKs0VLxDa4JCyofw+6tgmBWd1xrwymyZOemGzsykairmEe7IvDJXZxIDctKIyCz6gH7uSvdABZ3+h56LfHorFS8TU184mJnnapodwsw0Uftawmeph+nX296zYPI+i9Wrx1sKvXpPL4oDabY6kJZBaRx7qqur0E3BBsFSIX5s1L2ht/a7+wACVgdT",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#af30e8",
+      "4": "#30e8b4",
+      "5": "#af30e8"
+    },
+    "sz": 30
+  }
+}
