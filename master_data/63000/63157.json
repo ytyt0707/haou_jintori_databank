@@ -1,0 +1,48 @@
+{
+  "round_id": 63157,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-06T13:09:56.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ゴロリ] wktkさん",
+      "team": "🇯🇵ゴロリ",
+      "emoji": "🤓",
+      "score": "73.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[東卍] チー牛イキリ陰",
+      "team": "東卍",
+      "emoji": "👺",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゴロリ",
+      "score": "73.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "東卍",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtklESgCAIRIHt/mduIC3AwD7aDx197OKoRDJFIpxEmLKikuLKCPzxfqLw5uHVyZID5JQMgeOUKcBgjJJI1Tmk3clTOAgSUs3iPPcUQOPVrDrZaG4X1uWhrKqnIeh1cdy7rHdYiRfqG/d0zfTeX+nmntu+Ldy9oP2ecjgBPBkIjQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e89830",
+      "4": "#6e4de5"
+    },
+    "sz": 30
+  }
+}
