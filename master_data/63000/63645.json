@@ -1,0 +1,89 @@
+{
+  "round_id": 63645,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-06-07T15:32:43.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] ハンニバル",
+      "team": "🇯🇵ONJ",
+      "emoji": "⚔️",
+      "score": "29.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 奈良",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦌",
+      "score": "23.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ニート] 引きこもり",
+      "team": "🇯🇵ニート",
+      "emoji": "😑",
+      "score": "13.72",
+      "kills": 17
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[姉妹兵] シエスタ45",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "8.60",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[姉妹兵] シエスタ410",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "6.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] 岩井",
+      "team": "🇯🇵ONJ",
+      "emoji": "💩",
+      "score": "1.61",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "53.94",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "姉妹兵",
+      "score": "15.56",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ニート",
+      "score": "13.72",
+      "kills": 17
+    }
+  ],
+  "minimap": {
+    "bm": "eAF10tsSwyAIBFAcBPb/v7izgCRpUx8S9bhiLmbvTbI9zM17XChmci3wffqjZ8LcbSNHbXIPuu+9DSb2TwEziV91ZxZAhOrhrko6qqLZJE5dJrkC0ChTDWpD3gClcnMN6g1B1EiMbG9aQbK8ZKtwKcZr5+tQzI7i1J2s9M6AE6GKyBPXmd0znFQX1qulzuxN2L0UIl8GL83Mj84DkL+1MZ/jr+Yi6iNdUWCyD+5MMVzWknwjdXTq9FJXvS5O3qMcyFqtVbKzPRBy9edbzi6eOvOT7/WM5sHOP/q8fwB0OxIY",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#e83064",
+      "4": "#9ca3af",
+      "5": "#994de5",
+      "6": "#9ca3af",
+      "7": "#60d411",
+      "8": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
