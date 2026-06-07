@@ -1,0 +1,48 @@
+{
+  "round_id": 63595,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-07T12:50:26.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[渾沌] ニャル子",
+      "team": "渾沌",
+      "emoji": "🏁",
+      "score": "11.57",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ウホッ] 阿部高和",
+      "team": "ウホッ",
+      "emoji": "👻",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "渾沌",
+      "score": "11.57",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ウホッ",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkEEWxCAIQzH0/mfuAxUDM1K6EPkkQoEIEYHkCDaTDCXTAjOtUPCQeowxUgcxABWDvAUupcGJqqom37Xh321OY48hZvvrvPU6+b7yCRqT65zbxHXow9uHfair1o2vtHnTXr/rvujHOp31+RW+dpkh9vG63TiWYpUrtI08ONnyScKwaEX9W83RFWJLpsR8drk9X0rNAiw=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30b4e8",
+      "4": "#30e83c"
+    },
+    "sz": 30
+  }
+}
