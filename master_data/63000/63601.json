@@ -1,0 +1,47 @@
+{
+  "round_id": 63601,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-07T13:09:55.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しMu",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "64.35",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ニート] 引きこもり",
+      "team": "🇯🇵ニート",
+      "emoji": "😑",
+      "score": "0.53",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "64.35",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ニート",
+      "score": "0.53",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kUEWAyEIQ3kd7n/mvoRgg+O0u7oR8wmiZNxW1oLOyBPElIHN6IQwEypr0ox2Eg+YGavuBpi8Kld/MwVdq/YEdfq0+3/KG889n5ppDWPQKFryvV7kisX9XJMsFDXFwrZGvkytkAxhv6Z3aqDDgtNSDvS6OLI2D2+mKIvslUGrUQ1984Zo5awelPWDyvTg/UYnqxP+gD95g2+Liwkh",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

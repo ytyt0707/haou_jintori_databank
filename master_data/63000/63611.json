@@ -1,0 +1,57 @@
+{
+  "round_id": 63611,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-07T13:42:23.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "30.60",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しd3",
+      "team": "",
+      "emoji": "😎",
+      "score": "8.75",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[新鯖♡] 新鯖w",
+      "team": "新鯖♡",
+      "emoji": "💔",
+      "score": "0.10",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "30.60",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "新鯖♡",
+      "score": "0.10",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkVEOwzAIQw0s97/yZEwC3bpqfKSIhx1CAWAt/IiVMWGM+IcO76GMkHYthNwjAt1wKCLAOvKshklVuqGzVDoalfaGssndsXLkkswPHim1Lu1lWDlQ23S8NPGVzjuZJwXg3NQnbOr+DZ8pjrO7p7HNX12UkzMCMHGdrMlBmagxOCxhOqQYSFFS2/e2HCka2nxrKnkMrclzere2nMdcND5x5tkJX3uo2b5Pm9YqhDm9u7/YcVlRYla2lm/qDm1K9AzeuLI3XfoGXA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#36e830",
+      "5": "#e830a9"
+    },
+    "sz": 30
+  }
+}
