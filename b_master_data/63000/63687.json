@@ -1,0 +1,57 @@
+{
+  "round_id": 63687,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-07T08:49:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "厂",
+      "team": "",
+      "emoji": "🩸",
+      "score": "56.39",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "3.27",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵デカ女] デカ女同好会",
+      "team": "🇯🇵デカ女",
+      "emoji": "🐷",
+      "score": "1.28",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "3.27",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵デカ女",
+      "score": "1.28",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkFkSwzAIQ3Fl3//KHTCUdZIpH7GTFwkB0S3oycfSIiLkeqeq7lJroN7ZV9+sdW17sdE1amGhZ6q4TRSsidbU2BczODt8kPLooj3JQbU/mqCti38Cmnnpe06yzvRIufs/FFkbpBLpie69c6owEsDUI/HNvQHszCqtWLQffrJ2poarszQW2LbcYlWtZ560gYbr9Qgf6AtI7gbx",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e881",
+      "4": "#8b4de5",
+      "5": "#60d411"
+    },
+    "sz": 30
+  }
+}
