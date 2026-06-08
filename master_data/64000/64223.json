@@ -1,0 +1,66 @@
+{
+  "round_id": 64223,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-08T22:47:24.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 暇",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "35.29",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] ぷゆゆパン🥺",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "10.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] ニャル子",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.53",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵詐欺師] 上がる株教えます",
+      "team": "🇯🇵詐欺師",
+      "emoji": "💴",
+      "score": "0.43",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "49.05",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵詐欺師",
+      "score": "0.43",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkouOgzAMBHezrv//k09rkwTKtVVrIYQYjx8BAEDsoCSRviQVxFCE5By/BClcqDMzI8Oq+aLAaJjhEm1vOjqSvNMAimaSWYrCld0diENFimoqdtQ6jZE1UTUW+SBptwsPGB+uHoZFDxVAe3WvJj6NY6pRpU8JfVYT/0g9GNJDX6L7duc7nrS2usn/0b3YoiXPs1A61kaVNAbZbws+UQBN1+y7sp+mM9d6R+v7nhK+ca8zf+rbY82Znt22X1Pbb+jl/zmtsx63+weKvQdV",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8B4513",
+      "5": "#30c6e8",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "round_id": 64217,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-06-08T13:27:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵雛見沢] 古手梨花",
+      "team": "🇯🇵雛見沢",
+      "emoji": "🐱",
+      "score": "16.85",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵雛見沢] カメラマン",
+      "team": "🇯🇵雛見沢",
+      "emoji": "😷",
+      "score": "12.99",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[矢野] さとる（本人）",
+      "team": "矢野",
+      "emoji": "🐷",
+      "score": "3.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[矢野] 名無し",
+      "team": "矢野",
+      "emoji": "🖕",
+      "score": "3.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.70",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[矢野] ニャル子",
+      "team": "矢野",
+      "emoji": "🏁",
+      "score": "0.06",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵雛見沢",
+      "score": "29.84",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "矢野",
+      "score": "7.20",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "2.70",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF90tuuxSAIBNCh1IP//8U7g3LRNIeH2nQ5iEmBXU+v+JjrJwpkbej6RGYbMBcjxXeI+/R6ntOAIYKxkM/oudchIqP4UqFKhpuqAmNQ0z+0tS5VVcVgWCR6u6qClto7v0tCcyTeZ+LvZQFTFUV12aXoWvOgNMOluzOz2Fzo0dcMcHU/FTAzz/qgDee0Xcz2MjMksnmvCMXazQ8LYJcry1l6ndl/1P+plpz3VD2rPPmsFuXriZy6T34r/Bq8zVe2dlN//VUJ2A==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8c6",
+      "4": "#30e8c6",
+      "5": "#8B4513",
+      "6": "#30e8c6",
+      "7": "#e830dd",
+      "8": "#e830dd"
+    },
+    "sz": 30
+  }
+}

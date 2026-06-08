@@ -1,0 +1,81 @@
+{
+  "round_id": 64215,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-08T13:21:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵雛見沢] 古手梨花",
+      "team": "🇯🇵雛見沢",
+      "emoji": "🐱",
+      "score": "32.94",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵雛見沢] カメラマン",
+      "team": "🇯🇵雛見沢",
+      "emoji": "😷",
+      "score": "21.26",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[矢野] さとる（本人）",
+      "team": "矢野",
+      "emoji": "🐷",
+      "score": "7.03",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[矢野] 名無し",
+      "team": "矢野",
+      "emoji": "🖕",
+      "score": "0.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 奈良",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦌",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵雛見沢",
+      "score": "54.20",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "矢野",
+      "score": "7.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.07",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGd0NESw0AEBVCh9P//uHNZgvSh031JJicXyyyOzsPMTMwHzaYqExHduvk19FpxYGWvCz1aeWDpms3toWaGceIsVVRIw7NuFG0XL0W6hZ/asFdWNdWePI3ju9+3J0t9DdjGfxprXFmfq+1XH9WJBu/85FvPkDMbH0VkanZAWqDOGSU9PQLf0LT4U0Q8F1nV4iwI8OP/p9/DnjQuX5WbBpfgpWlWbv6z5n2/Z2MdH5T9C24=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#59e830",
+      "4": "#9ca3af",
+      "5": "#994de5",
+      "6": "#994de5",
+      "7": "#59e830"
+    },
+    "sz": 30
+  }
+}
