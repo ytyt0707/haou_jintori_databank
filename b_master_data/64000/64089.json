@@ -1,0 +1,63 @@
+{
+  "round_id": 64089,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-08T06:32:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 名無し6E",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.72",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ころす] しね",
+      "team": "🇯🇵ころす",
+      "emoji": "🦊",
+      "score": "0.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵お赤軍] 栄養分析表",
+      "team": "🇯🇵お赤軍",
+      "emoji": "😇",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "0.72",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ころす",
+      "score": "0.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵お赤軍",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkEsOgDAIRGUq97+yKZQ4pLZhYUzshs9jBlIAYg+L51T1GTsV2VBHrVmkwSG19qDsIqoyfJ26QYwIwF4ZMuqCfF+ubnyadz/LNLEpxUlbpuGbBFS480EdSvdrabCSLnZUpF/N/ODEF7/iAuZTBtk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#73d411",
+      "5": "#e83075"
+    },
+    "sz": 30
+  }
+}
