@@ -1,0 +1,48 @@
+{
+  "round_id": 64243,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-08T14:52:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] はじまん",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "35.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵熊谷市] 天龍門",
+      "team": "🇯🇵熊谷市",
+      "emoji": "😞",
+      "score": "33.72",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "35.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵熊谷市",
+      "score": "33.72",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF90lEWhSAIBFBy2P+a32EGnyZSH2ndhtAyy8Pdfc7fY8h+TAUnu3CeTC2Y7xidqoVexxiRjV5LbTNpAbUVOFBjepyIe9SFHwqg0Xhnp3Cjbdl/HQARZDh7XnUypYG74b4qfeiLAO2k22zjYFW2hvUV4msfMV5aMH+FTlvUfxX8NFlG7bmxSOea3rW2fVHeUp2X5qLX4g+lt8qdVyJq/wD8fgjC",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e830cb"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "round_id": 64231,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-08T14:13:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵詐欺師] 岩井",
+      "team": "🇯🇵詐欺師",
+      "emoji": "㊗️",
+      "score": "0.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵詐欺師] 上がる株教えます",
+      "team": "🇯🇵詐欺師",
+      "emoji": "💴",
+      "score": "0.12",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しP8",
+      "team": "🇯🇵ONJ",
+      "emoji": "🌏",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵詐欺師",
+      "score": "0.29",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVUwEOhDAIgzP+/8sXYNTiQCPGwGipjE3RMGFTLBZ6dyKqam9vLfpj7lxrLJdneolfUNXjLHxePH+XmZ9jluY4hLbM2sWW9+3b/Kc55Nlkg0UhQSQRGB1oZtO7FtBWGcWJFi8Lni6Fa5eKedGdLzVKYaMxoZGPsW5lAFs8+hFRewbrer6oOdn4ZzCLTP8BTs8C8A==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8c6",
+      "5": "#30e8c6"
+    },
+    "sz": 30
+  }
+}
