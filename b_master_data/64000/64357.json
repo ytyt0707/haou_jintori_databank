@@ -1,0 +1,33 @@
+{
+  "round_id": 64357,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-06-08T21:01:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[雨] 雨",
+      "team": "雨",
+      "emoji": "👽",
+      "score": "96.74",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "雨",
+      "score": "96.74",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZkYHTExMaEIMCD4TEzO6LEJyYFlIriTKIaSqJ8rQ4aeIuGBixOtx/LJ4tQ5XSeRgBQBcsQp0",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411"
+    },
+    "sz": 30
+  }
+}
