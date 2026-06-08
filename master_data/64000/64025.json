@@ -1,0 +1,48 @@
+{
+  "round_id": 64025,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-08T12:05:13.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵天皇] ニート8年",
+      "team": "🇯🇵天皇",
+      "emoji": "👻",
+      "score": "13.46",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] うんちくん",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "7.83",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵天皇",
+      "score": "13.46",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "7.83",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGF0lEOxCAIBFAE7n/mzSDoqDTrl/Y5oKYiGKMfYV/uS9v41rY88dubkGvnnJU56hxInUXGRYQvMXbKfZ+6R9ga3mnrOB/E5kCe3hoXGWMkRtzFY1SnQye57xIVRXZp8cJOCyWO/WTRf27pKouImpl+ZkP1iNapFFlVPRXHR8/4DCWutwDXll361lznjUgx1fx1eu1+rKvAv+UPsKADsQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e83c"
+    },
+    "sz": 30
+  }
+}

@@ -2,6 +2,270 @@
   "date": "2026-06-08",
   "task_history": [
     {
+      "timestamp": "2026-06-08T14:05:27.099696",
+      "status": "success",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "最新試合IDの確認および差分履歴データの取得完了",
+          "previous_last_id": 63801,
+          "current_last_id": 64062,
+          "target_limit": 261
+        },
+        "step2": {
+          "status": "success",
+          "message": "新着試合データの個別ダウンロード完了",
+          "success_count": 256,
+          "skip_count": 5,
+          "error_count": 0
+        },
+        "step3": {
+          "status": "success",
+          "message": "JST時刻変換済みのマスターデータビルドが正常に完了しました。",
+          "new_created_count": 261,
+          "skip_count": 63801,
+          "rescued_count": 0,
+          "created_id_ranges": "63802-64062"
+        },
+        "step4": {
+          "status": "success",
+          "message": "新着試合分の個人分析データを高速アペンドしました。",
+          "updated_players_count": 40,
+          "new_players_count": 7,
+          "skipped_nanashi_count": 108
+        },
+        "step5": {
+          "status": "success",
+          "message": "新着試合分のチーム分析データを高速アペンドしました。",
+          "updated_teams_count": 20,
+          "new_teams_count": 5,
+          "processed_team_rounds": 130
+        },
+        "step6": {
+          "status": "success",
+          "message": "新規試合分の時間統計データを正常に累積集計しました。(0人試合対応版)",
+          "processed_files_count": 261,
+          "updated_time_buckets_count": 15
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T14:02:35.613105",
+      "status": "failed",
+      "error_reason": "['python', 'download_rounds.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "最新試合IDの確認および差分履歴データの取得完了",
+          "previous_last_id": 63801,
+          "current_last_id": 64061,
+          "target_limit": 260
+        },
+        "step2": {
+          "status": "failed",
+          "message": "システムエラー発生",
+          "success_count": 5,
+          "skip_count": 0,
+          "error_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T14:00:02.114153",
+      "status": "running",
+      "error_reason": null,
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-08T13:52:38.238432",
+      "status": "running",
+      "error_reason": null,
+      "steps": {}
+    },
+    {
+      "timestamp": "2026-06-08T13:00:01.711859",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 63801,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T12:00:01.679690",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 63801,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T11:00:01.801007",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 63801,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T10:00:01.674721",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 63801,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T09:00:01.635295",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 63801,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T08:00:01.724316",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 63801,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T07:00:01.664490",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 63801,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T06:00:01.806502",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 63801,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:00:01.630036",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 63801,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:00:01.633790",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 63801,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:00:01.752885",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 63801,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T02:00:01.654211",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 63801,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-08T01:00:02.716161",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 63801,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
       "timestamp": "2026-06-08T00:00:02.736191",
       "status": "success",
       "error_reason": null,
