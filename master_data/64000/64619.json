@@ -1,0 +1,71 @@
+{
+  "round_id": 64619,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-09T20:11:30.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[旅行記] バットゥータ",
+      "team": "旅行記",
+      "emoji": "🤔",
+      "score": "53.85",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[旅行記] うんちくん",
+      "team": "旅行記",
+      "emoji": "💩",
+      "score": "13.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[惣流] 惣流",
+      "team": "惣流",
+      "emoji": "😈",
+      "score": "0.29",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[旅行記] ニャル子",
+      "team": "旅行記",
+      "emoji": "🏁",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "旅行記",
+      "score": "67.81",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "惣流",
+      "score": "0.29",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkoEOxCAIQ1FI9v9/fGkBRbZlyZFcbvKkVkRERBU/DzlCVRch7zTLsA9KhW8UWYitKJRZrBc8zmSW25Pfa91/8Iapu9Wt4CwL9yJiFftOtCe8PVAKY6OYPWPCfykPf1VGwxW0uZ50fqcX8075ydoovl6oxWuYqsy55wHNKkcL4I6kBn9lvlSHP4gX03p97jEwBuq36vdSwji33zpef+kePcnRWXQ73aNRhKulXot1lCfi5EA7E+S5+Pr/AXqaB+Y=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#4d56e5",
+      "7": "#30e83c"
+    },
+    "sz": 30
+  }
+}
