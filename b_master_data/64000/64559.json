@@ -1,0 +1,60 @@
+{
+  "round_id": 64559,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-09T07:56:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[Yやで] ニャル子",
+      "team": "Yやで",
+      "emoji": "🏁",
+      "score": "71.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[Yやで] ぷゆゆパン🥺",
+      "team": "Yやで",
+      "emoji": "🥺",
+      "score": "4.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🦄",
+      "score": "2.14",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[Yやで] わいやでー",
+      "team": "Yやで",
+      "emoji": "👾",
+      "score": "0.14",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "Yやで",
+      "score": "76.22",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGV0lESgCAIBFAy5P5HbkDURQcrPxrzuUiNzGFQG2EteyGANq+1VmZcn1vUVJMRdKsQkokWLlp7Uz+wFOWp19U7sTXjqd0wkepSeWQhANPBXyfn7FlfzjiH9S7kBeymiA38Sx5o98h5qwLKogk8qCGJkIgh6kTqvGVlbPLuxkc4oJvd9oxKgm0TL7r8m7+q+70tegCuNgun",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e83c",
+      "4": "#30e83c",
+      "5": "#7c4de5",
+      "6": "#30e83c"
+    },
+    "sz": 30
+  }
+}
