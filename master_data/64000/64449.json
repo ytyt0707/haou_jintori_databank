@@ -1,0 +1,42 @@
+{
+  "round_id": 64449,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-09T11:00:17.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🦁",
+      "score": "8.59",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "3.88",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "3.88",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGd0FEOgDAIA1As3P/MpkwcKJuJ/GjyVmATWRewMni1eois9dgq+62zHwpghNutRlueaerGHzpmmvWd/T5mZm1nKvGXcuk+G9dpNV7Jw4+tIni1rpqRgzfKo+WZAdWSf6nmA0UVyprxpC6VQyfl8KUF79b7aNwossKfdiuXRI/HiDHzewKH3wNs",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e85e",
+      "4": "#e830ba"
+    },
+    "sz": 30
+  }
+}
