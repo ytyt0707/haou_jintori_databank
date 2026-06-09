@@ -1,0 +1,60 @@
+{
+  "round_id": 64603,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-09T19:19:39.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[旅行記] バットゥータ",
+      "team": "旅行記",
+      "emoji": "🤔",
+      "score": "63.84",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[旅行記] 撲殺の誓い",
+      "team": "旅行記",
+      "emoji": "🕊️",
+      "score": "17.13",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しsg",
+      "team": "",
+      "emoji": "😁",
+      "score": "0.66",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[旅行記] おい",
+      "team": "旅行記",
+      "emoji": "👹",
+      "score": "0.39",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "旅行記",
+      "score": "81.35",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk9sSxCAIQ+mG+v+fvBOuYruzPLTqIQGtFQEgIoCoqkpEDhBBpnr7q9KSItdVbwAuLrhRWzPclBhQW/hQreymwsGgOyboFNtBSW2goD2DTYpgLZ/Ws7GIrHVw6642JTjVYRPntpmyXE7zWHMeR/KqrbPMZIpz7LuwlBa/wKz8S+qGuy9N2HEqeSvaOGjv6EFn7qgLXNfAk15/aEqtnSk9nU86CvPepZe/t8IvN6dz4+b0wjbyz/Wwji9cNG+A8Gc74gvaeAlg",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8b4de5",
+      "4": "#8b4de5",
+      "5": "#8b4de5",
+      "6": "#30e8d7"
+    },
+    "sz": 30
+  }
+}
