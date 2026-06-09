@@ -1,0 +1,62 @@
+{
+  "round_id": 64679,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-09T14:26:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[魏] うおw",
+      "team": "魏",
+      "emoji": "🐟",
+      "score": "0.21",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵詐欺師] 上がる株教えます",
+      "team": "🇯🇵詐欺師",
+      "emoji": "💴",
+      "score": "0.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳ちんこ] ちんちん",
+      "team": "🇨🇳ちんこ",
+      "emoji": "🍌",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "魏",
+      "score": "0.21",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳ちんこ",
+      "score": "0.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵詐欺師",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkEkSwCAIBIeJ/39zCpC4oZ6TS0qaaUHgT9+TD8u87FVe6AGTp7DSfbgccQFAiuwHJ0ScJ00adbooqGLDUMN8gU1l2dD3HT6zuddsLFQxJnd9ioHGobvDSrZbhYMmofLt4YGW9f08EtX4h3wQmknSFlt3CM2HXcz7LrQ9QGhbBS+ZbgF7",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#bcd411",
+      "4": "#6e4de5"
+    },
+    "sz": 30
+  }
+}
