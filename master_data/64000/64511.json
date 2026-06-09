@@ -1,0 +1,42 @@
+{
+  "round_id": 64511,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-09T14:21:18.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.21",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゴロリ] wktkさん",
+      "team": "🇯🇵ゴロリ",
+      "emoji": "🤓",
+      "score": "0.14",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゴロリ",
+      "score": "0.14",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkksSgDAIQyF6/zM7KSAwbXXjUjZt8wj9oboOGeEMaEmiThFRsTGRYKBbmCHqRmn0oFrQTOmtkaWHuoOoHp+nFQu8pWA26p2y9jC1G7nCFKt4j32DWNW6oeX403wLtD+ous2f32rO/0Y5X09l52IHsRXuvrAWvAAG+gVV",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e870",
+      "4": "#73d411"
+    },
+    "sz": 30
+  }
+}
