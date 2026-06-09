@@ -1,0 +1,75 @@
+{
+  "round_id": 64587,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-09T09:27:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[旅行記] バットゥータ",
+      "team": "旅行記",
+      "emoji": "🤔",
+      "score": "41.86",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "27.41",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "岩井",
+      "team": "",
+      "emoji": "㊗️",
+      "score": "2.07",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "利き手と逆で",
+      "team": "",
+      "emoji": "😃",
+      "score": "1.56",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] たぬぴ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.05",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "旅行記",
+      "score": "41.86",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "1.05",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAHF0lkOwyAMBNAJeMj9bxx5YbGb9rcoiiI9mxEOwFokL+a1DFAtnPTa2lojCYiIlfTeN5JUhjKgBb33lNqaqnaL4CrIBtPgopocndqdttVg0nb1V1Um/WgmPfNbs0/jh95WYUOp0QBcfWaF7zA/GUixJ6q26kTr+ZYeEJ8kp74i7+CsYwwb7dQzUoaryNz5XX1WyUR7Pemc5Mqe6FfKWo8/vcpee/+t9bjzdsdxH0viC/8=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e83098",
+      "5": "#e83053",
+      "6": "#30e85e",
+      "7": "#bcd411"
+    },
+    "sz": 30
+  }
+}
