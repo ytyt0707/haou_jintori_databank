@@ -1,0 +1,48 @@
+{
+  "round_id": 65003,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-10T16:56:51.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇪🇸宣教師] ルイス・フロイス",
+      "team": "🇪🇸宣教師",
+      "emoji": "😆",
+      "score": "55.48",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.64",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇪🇸宣教師",
+      "score": "55.48",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "3.64",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkkESQyEIQ0Pk/mfuCJWgdv7mL8oq+oxERiBrDIwqLF2wUBfL2fekg2p5qEmPrbb8F92m0PK8lA8vjZt/cq56pjT3Kx6Wl2YXxRtaF9Ps6iw4+3oP1hCZXgUTjGi+e0VDHTeTeg7J2dU1sd2LpInR5hDHAJjHt2T83cMbe+m5rGlQkFJfMb3KWTQ74AOY5ghm",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}
