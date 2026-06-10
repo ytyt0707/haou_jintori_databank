@@ -1,0 +1,48 @@
+{
+  "round_id": 64957,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-10T05:27:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵虎最高] トラキチ",
+      "team": "🇯🇵虎最高",
+      "emoji": "⚾",
+      "score": "10.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "7.05",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵虎最高",
+      "score": "10.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "7.05",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkAEOwCAIA1H6/zcvreKYc7xgmGjwWkDNIvorgvAk1DZVmeX7jF2irSzASmbuAz/NYPROGoK7rSCGNyhH0xoQwPS6s4upV18QapyqU3Okczo9YQqS90jNPZrL9vQqW68KwSgd2X6WdE21u5iXMPDJqDu0T2TWWkUL44/OP3AB29ADEw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#47e830",
+      "4": "#e83053"
+    },
+    "sz": 30
+  }
+}
