@@ -1,0 +1,90 @@
+{
+  "round_id": 65483,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-06-11T09:53:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[熊谷市] も",
+      "team": "熊谷市",
+      "emoji": "😍",
+      "score": "13.50",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[熊谷市] tkb",
+      "team": "熊谷市",
+      "emoji": "🔅",
+      "score": "10.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 惣流",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.16",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵🌱] 草の民",
+      "team": "🇯🇵🌱",
+      "emoji": "🍏",
+      "score": "2.60",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "0.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] たぬぴ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "熊谷市",
+      "score": "24.25",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "3.25",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵🌱",
+      "score": "2.60",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klkSwzAIQ1FwKfc/cUcsxunGR+rhIYFxAUjHdfXp8/faULXpKOUbHXwxqDq0Q0WkGm9nkePY7XbuJt20DxAAkJ9FwYqq5kTuqY401UI9qaqaBX6mJc2jgsjdGCFOy6JmVlBdxEzomQyA0TKUmvpo2DhS8zl0rGhlFdyoR4zU/lJekstgvCk9rtQDrXXzrWUVXeuGfegDQNOcqba8pyJdgdiAO+oHoHnTnI2Z3PM0NreE/fbbGVgIyJsF7Rcuddz4+O+XQ9FwzXZjPeYx7QnyPOJPxkzuuuY5Sl7NUwdl",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30e85e",
+      "5": "#8B4513",
+      "6": "#994de5",
+      "7": "#e83098",
+      "8": "#994de5"
+    },
+    "sz": 30
+  }
+}
