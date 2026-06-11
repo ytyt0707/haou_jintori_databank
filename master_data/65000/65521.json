@@ -1,0 +1,81 @@
+{
+  "round_id": 65521,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-11T20:57:02.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵西軍] 島津豊久",
+      "team": "🇯🇵西軍",
+      "emoji": "🙂",
+      "score": "23.96",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "11.38",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳ちんこ] ちんちん",
+      "team": "🇨🇳ちんこ",
+      "emoji": "🍌",
+      "score": "2.33",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵西軍] 立花宗茂",
+      "team": "🇯🇵西軍",
+      "emoji": "😑",
+      "score": "0.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 名無しvH",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐶",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵西軍",
+      "score": "24.32",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳ちんこ",
+      "score": "2.33",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkosOhSAMQ4vg5f//2HSssOEjuWgi47RlEAGgcsBHKrhmC+J11BJP6rziSH73knJ6kP5sq1JWtKuMjk4K8TTbZJbAg9e11tc9WUlw78waYHYC0Bt39oP67bxQF0kbdsuEVa2dR9R9boIH6xkktMp5aizeuyAEo5unHuJHCv0Cois4zv6jrX16v+mwSuMbxzwAzV4uGt8ooAZulLHtlaac5J0eSRJdkcLx2xr47OMCvOAFCg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3092e8",
+      "4": "#e88730",
+      "5": "#30e84d",
+      "6": "#9ca3af",
+      "7": "#3092e8"
+    },
+    "sz": 30
+  }
+}
