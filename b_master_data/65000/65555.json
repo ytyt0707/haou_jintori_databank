@@ -1,0 +1,81 @@
+{
+  "round_id": 65555,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-11T13:47:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無し無名",
+      "team": "🇯🇵ONJ",
+      "emoji": "😂",
+      "score": "40.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "厂",
+      "team": "",
+      "emoji": "🩸",
+      "score": "20.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[甲殻類] ぷゆゆパン🥺",
+      "team": "甲殻類",
+      "emoji": "🥺",
+      "score": "14.98",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[甲殻類] ザリガニ",
+      "team": "甲殻類",
+      "emoji": "🦞",
+      "score": "6.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 名無し5Z",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "40.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "甲殻類",
+      "score": "21.58",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kkESxCAIBAFX+P+Pt4bBaHCv60FjtT2gFfccEVgwTYyICA1VQo8kyaLwQesQzACGvN2TZvacoU9y0SpKflF3ZJY8u4u+N+ZFVlGui2r8oAnRL0LeHnZ5GTR8UXso8e0+cncN7qK9LqFLVd6uQCpqpN3NHkyKfrbL5lDWpJJv19xFiH+/BqjgrVTH+jeYjFlEBsZNzTI46dAxxpZ4pTJ5oFNjbMGRTZzTArmeAN8v2N03/OOud7X2LPkFqYgP7w==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#8B4513",
+      "5": "#30e881",
+      "6": "#9ca3af",
+      "7": "#30e881"
+    },
+    "sz": 30
+  }
+}
