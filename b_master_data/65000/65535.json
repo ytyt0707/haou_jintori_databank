@@ -1,0 +1,57 @@
+{
+  "round_id": 65535,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-11T12:42:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵西無双] 島津豊久",
+      "team": "🇯🇵西無双",
+      "emoji": "🙂",
+      "score": "56.79",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵西無双] 毛利禿元",
+      "team": "🇯🇵西無双",
+      "emoji": "😴",
+      "score": "35.44",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しIC",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤠",
+      "score": "0.55",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵西無双",
+      "score": "92.23",
+      "kills": 21
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.55",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVsSxSAIQ2NJ97/lOzwC1XZuf1ROEima5YdadQQIwozcQalBwC1JTzOD8tML0rEnv6NXlAGHB6bZWl5HJJS3RCSXvG3tiBFxvC3T/3n0wxLbEKmRplXtJROy4S72pvK94ajl1FztR92ejPYYZVOWk/4g82kEZX1kuUa0+6jN+NXQKDbWl4qb3fc9DecoBRlUtx7eKc8NbZxEh/2H4uG4xpe7nZ44qTzXgeOhBc9VwXtXrppXOCZtRvyj4Y1cAHgH2w+bMAtZ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#30e8a3",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

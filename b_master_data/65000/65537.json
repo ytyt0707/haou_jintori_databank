@@ -1,0 +1,33 @@
+{
+  "round_id": 65537,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-06-11T12:48:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[逃げて] 名無しCO",
+      "team": "逃げて",
+      "emoji": "🐶",
+      "score": "42.02",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "逃げて",
+      "score": "42.02",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkUsOACEIQyvc/84TNIFS5rMeV8RnC1T3PJgnmfuEIDqwMVWtmZFWqL1S4EUb0mdnpTKzaDs1AOzsEkjvG8vVVqPvJyW1TnVyY3NKkst4Mqfi1tb+aGvL90YLrFUPehpxz5R//0SxGNOg25EZWFv9slJtgl38kV4vlwUC",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83098"
+    },
+    "sz": 30
+  }
+}

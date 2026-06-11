@@ -1,0 +1,66 @@
+{
+  "round_id": 65523,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-11T12:03:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵西無双] 立花宗茂",
+      "team": "🇯🇵西無双",
+      "emoji": "😑",
+      "score": "34.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵西無双] 島津豊久",
+      "team": "🇯🇵西無双",
+      "emoji": "🙂",
+      "score": "18.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 上がる株教えます",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.47",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵西無双] 毛利禿元",
+      "team": "🇯🇵西無双",
+      "emoji": "😴",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵西無双",
+      "score": "53.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.47",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkVsOwzAIBNfg9P5HjpYFv5JWKj+xNB68EIDlqn4W2ZXQT9gX01/pUJ94cx8ycFUmf7iL2kWxRpvjMPhKeB4y1R/0DdNduu+tD6jW3rsOSTUUgE8sNTq4c8l1Qd+RjRnfqN4W3VQzd8RgMR5am9jMTAkyOtqCgxLXXCslpD05KasDCdVbdlK+nTR/lXC6aInHvMSo1q1cs8oUP7Bss7yw0dDZueyDjpUo2Dcqm1SvxxqPdRlhZBOdq/7rdANCUQfV",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30d7e8",
+      "4": "#994de5",
+      "5": "#8B4513",
+      "6": "#30d7e8"
+    },
+    "sz": 30
+  }
+}

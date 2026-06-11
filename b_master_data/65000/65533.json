@@ -1,0 +1,75 @@
+{
+  "round_id": 65533,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-11T12:35:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵西無双] 毛利禿元",
+      "team": "🇯🇵西無双",
+      "emoji": "😴",
+      "score": "41.84",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵西無双] 立花宗茂",
+      "team": "🇯🇵西無双",
+      "emoji": "😑",
+      "score": "11.18",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵倒幕] 名無しQ7",
+      "team": "🇯🇵倒幕",
+      "emoji": "🦊",
+      "score": "6.36",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵倒幕] 木戸孝允",
+      "team": "🇯🇵倒幕",
+      "emoji": "⚔️",
+      "score": "1.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵西無双] ぷゆゆパン🥺",
+      "team": "🇯🇵西無双",
+      "emoji": "🥺",
+      "score": "0.23",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵西無双",
+      "score": "53.25",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵倒幕",
+      "score": "7.72",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkVkWxCAIBDsRxvvfeF4jm3EWPyJaliBRjYEMMOeEDdU7dmMmdKx6P7HBhb9T8lNVd3l7JGszVuL/9CGLjiGDY9XdrlzhMD4n+OadCpciQpX92KmtRGS16gMUEf1F1U1AD1uk0SOvVNo0rdioKdIGpeC3NPWkPFZVlbHkrno3gLi615Qw6A5XXqTr9FWdhLIMayBhPocn1FijAEJNaC4/+RpX63kHRWObZgvPmuDKiAFbVRvX9aD8xTV2iDcJ0QrV",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#e84230",
+      "5": "#e84230",
+      "6": "#e84230",
+      "7": "#30e8a3"
+    },
+    "sz": 30
+  }
+}
