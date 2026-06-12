@@ -1,0 +1,84 @@
+{
+  "round_id": 65977,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-06-12T21:35:52.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ハゼ] ブルデュー",
+      "team": "ハゼ",
+      "emoji": "😑",
+      "score": "81.67",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しVL",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "10.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ハゼ] ワタリ",
+      "team": "ハゼ",
+      "emoji": "😜",
+      "score": "1.95",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ハゼ] サカバンバスピス",
+      "team": "ハゼ",
+      "emoji": "🐟",
+      "score": "1.22",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 真宮寺さくら",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.48",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[ハゼ] ハゼ太郎",
+      "team": "ハゼ",
+      "emoji": "🐟",
+      "score": "0.17",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ハゼ",
+      "score": "85.00",
+      "kills": 20
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "10.49",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkFsSxSAIQ62awv5XfAcfJVSvM+WnwBmSWIBLAOFiBoiNhCNt03eqitpOb3H3oZygOjmZb3zJPNKubbseLVKaxOyplHq75rGl4oX3dmaZASTfhk4907N397qh3d4i7Okj8w5qr2YYnhHytcQ1yvPpNtWQDkLBbhlYkmAaPzjTbmnzieZO/0QZdJGciwxcs1+/pZQDxZniOt02sx8efBIb",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e83042",
+      "5": "#e87530",
+      "6": "#4d81e5",
+      "7": "#8B4513",
+      "8": "#e83042"
+    },
+    "sz": 30
+  }
+}

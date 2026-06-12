@@ -1,0 +1,93 @@
+{
+  "round_id": 65971,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-12T21:16:24.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[非超人] ルサンチマン",
+      "team": "非超人",
+      "emoji": "😑",
+      "score": "41.71",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ζώο] λαγός",
+      "team": "ζώο",
+      "emoji": "🐰",
+      "score": "8.51",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 真宮寺さくら",
+      "team": "🇯🇵ONJ",
+      "emoji": "🎀",
+      "score": "2.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵天皇] ニート8年",
+      "team": "🇯🇵天皇",
+      "emoji": "😀",
+      "score": "1.18",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[誓い] 確殺の誓い",
+      "team": "誓い",
+      "emoji": "🕊️",
+      "score": "0.11",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "非超人",
+      "score": "41.71",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ζώο",
+      "score": "8.51",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵天皇",
+      "score": "1.18",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "team_name": "誓い",
+      "score": "0.11",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkUEWwyAIRAEruf+N2xlGY0zaVVnwkC8DqNlPS9nzpX9Tn20uyjnTCkj3pJu7uxngzowM+JmKf6MQlvRdedSiGHT4GgL9WEyaJ9Xdk3KpNDsORlSqYo4l9WNi3nL3qoNHbeF6BWiftPBybm0IZ76WfIWttVtOiQYbLZBbY8JFOUKb8G0u1DJ6x5NoNzPoVt+IBO3ZL3RMFZmdttESixSedO0LmqVbf1Vw7kuNcphZtJS56wghs1H8KuXliJUym3+uhUE/Ld7hfQq1",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30a3e8",
+      "4": "#6ae830",
+      "5": "#9ca3af",
+      "6": "#e83075",
+      "7": "#30e84d"
+    },
+    "sz": 30
+  }
+}
