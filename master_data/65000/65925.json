@@ -1,0 +1,48 @@
+{
+  "round_id": 65925,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-12T18:47:17.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ζώο] λαγός",
+      "team": "ζώο",
+      "emoji": "🐰",
+      "score": "4.54",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸宣教師] ガブラル",
+      "team": "🇪🇸宣教師",
+      "emoji": "😑",
+      "score": "0.15",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ζώο",
+      "score": "4.54",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸宣教師",
+      "score": "0.15",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kUEWxCAIQwPD/c88LykIrS66mGHhQz8JqO4joLAO97jCPVgHgJALzBaNIKXYtMhg0vAPUi8DastaWg1R3UHKUM/My98gp3WaibRaniQny4KNthAH5xdU9z51pl3rt8a3uU70R+Lduoc63NgdrxvPn1h5u4/OSZsx89Lo5WdbsoJ6xDFSvWq53z1zV3DqRiGPWTKOOr1g7/+efQGrrAPh",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e870",
+      "4": "#e83087"
+    },
+    "sz": 30
+  }
+}
