@@ -1,0 +1,81 @@
+{
+  "round_id": 65869,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-12T06:45:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "λαγός",
+      "team": "",
+      "emoji": "🐰",
+      "score": "47.85",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🐶",
+      "score": "11.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "1.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤓",
+      "score": "0.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇬🇧珍走団] 名無し1b",
+      "team": "🇬🇧珍走団",
+      "emoji": "😄",
+      "score": "0.28",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "1.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵陽キャ",
+      "score": "0.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇬🇧珍走団",
+      "score": "0.28",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkksOxDAIQw20mfvfeGR+adIsRho2VLzYJm2BrfRZUB1j5CQONoZisFQVgAhxQw4XumOUMaUOXX2zVJmbtlJYnSVlpCsbJ70VCPjkDRuFmNmCE01zNORWgJnFa3CllPJmLGHhWKsxV3LqvG40ccHGZnai9BCJ08FtSjM+J4kztdpVD4437dWU4buzrbSMql+femLfnM3+odMYB+dJT7k/U7x3XrVxpdfF4lCO+ysvUgPN8785tC/fJAh/",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830ba",
+      "4": "#59e830",
+      "5": "#30e8a3",
+      "6": "#ced411",
+      "7": "#e83053"
+    },
+    "sz": 30
+  }
+}
