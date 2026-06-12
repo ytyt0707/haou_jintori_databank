@@ -1,0 +1,57 @@
+{
+  "round_id": 65931,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-12T19:06:43.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ζώο] λαγός",
+      "team": "ζώο",
+      "emoji": "🐰",
+      "score": "25.40",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "22.44",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] サクラ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ζώο",
+      "score": "25.40",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkkcSwyAQBGeD//9l12wCYeyDOSCVmglsCbgtEQFiA2DnklpUnswayk8aoV+0YPjfzlftlAr6LL1Y5j7oDgV+9DqoB2fz8EgacxSB+8J5cRFR5ZRfuFAAqjGmgGOdWoJP3AOFQbUwcyu5Ys0Ch/eirTU7nCne4eDUNo1bh2cmL5qXyJ21yIvWrfpEspxGnGjAZyp1o6V2uBfcnDuBz6H7x3lv59VqECfX4um807beWy3eUjqDf0+jHkaavwES6QcO",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#e83064",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}
