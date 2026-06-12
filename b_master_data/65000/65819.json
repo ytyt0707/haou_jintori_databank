@@ -1,0 +1,66 @@
+{
+  "round_id": 65819,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-12T04:03:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 名無しFZ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "20.27",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "11.55",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ザニカイザー",
+      "team": "",
+      "emoji": "🐷",
+      "score": "9.85",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "名無しr4",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "20.27",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "11.55",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkoEOAyEIQ6s4/v+Tl7Z46l12I9lCfLSAJ7BHMIaD6c6ASWbBSXX6+RQc46S4zp38o72zwv8Pba+wyW0sEGaqBEBEm60xRhiSgh20cETz1qI9M/mjuUhrVeWu6QBatGgM440CCZ3/oACk2rScWsbaaVJb27mwnHl+9pUcnppjnzP3zk9ZS3krDW1nX6PFteqiBblSTV0l0AVOLfHV9PFyXLW8L9OVZF54HW7ZG435He8vtvTUrsvdTJW+U5RU7+EuBexb9/7Ar3TC/AJZ4Abm",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#d130e8",
+      "5": "#e83053",
+      "6": "#30e83c"
+    },
+    "sz": 30
+  }
+}
