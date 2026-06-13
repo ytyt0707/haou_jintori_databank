@@ -1,0 +1,63 @@
+{
+  "round_id": 66007,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-12T23:13:12.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇸🇦草民] アカムトルム",
+      "team": "🇸🇦草民",
+      "emoji": "😈",
+      "score": "12.87",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵西軍] 足利義昭",
+      "team": "🇯🇵西軍",
+      "emoji": "😊",
+      "score": "9.17",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[熊谷市] 籠原",
+      "team": "熊谷市",
+      "emoji": "😇",
+      "score": "0.13",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇸🇦草民",
+      "score": "12.87",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵西軍",
+      "score": "9.17",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "熊谷市",
+      "score": "0.13",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkEESwzAIA7Gh//9yB4RcjD05NFxwWCQIIv/GeBTeqJlJ1MdJDeFgHDihjYg6N4l4XtSyg9ApYHFeEBObMyh8KMXSH4lh3hCYFL3p2um+kKlqVnAPfohbaqEL8OFwaVlkDvieng4wvg8mS9rEjXJT5h+Gbk4S5OQS5tOj8qqeU3YYd6TeZZs076xwvlA0+DRs1v6rrvH6/QV7PgL6",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#30e892",
+      "5": "#e83075"
+    },
+    "sz": 30
+  }
+}
