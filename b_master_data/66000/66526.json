@@ -1,0 +1,57 @@
+{
+  "round_id": 66526,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-14T06:35:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しhJ",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "16.64",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🤖",
+      "score": "14.90",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] 最高神",
+      "team": "ラー軍",
+      "emoji": "🔱",
+      "score": "0.29",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "16.64",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "0.29",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVESxCAIQ0Ms97/yTkB3ALebnzp9PEV0j5D4lQNJ4q4oVAUjSd0ZGRCHehT8ofIHLq4Ts7FKhwjUc+WOWJV9QFjD0/ZOuVb1u7sihZuZw9wTDGyZSXcDm1pVVxuaKlCw0+tMOyVFv5cziy6PPR4zdlaB5rYgtVwKW2ZStKcywEzVkrwPK/aIgymXuHB2hWxnBW7jPl2Q3K2fP+VLbZzRopC9PPR53mlucblSgRc4qj8NiwVw",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3081e8",
+      "4": "#ced411",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 66520,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-14T06:15:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[美少女] 日曜が終わる",
+      "team": "美少女",
+      "emoji": "🤠",
+      "score": "1.44",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.49",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[おおw] 稼いでて草",
+      "team": "おおw",
+      "emoji": "😅",
+      "score": "0.13",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "美少女",
+      "score": "1.44",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "おおw",
+      "score": "0.13",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkEESwCAIAwHl/1/uULA9GGJnyjFrgsRsjYApJgaYyDcKrbdXmtxMxr5QzfB/0kFhu3F5eTKlYxBsD51zv+ylO4t7aTKtg8JDk7ws3jO6A2mOxNLcneA/lCwNpISravDmidbAgGS79wIVCgEM",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#e83064",
+      "5": "#30a3e8"
+    },
+    "sz": 30
+  }
+}
