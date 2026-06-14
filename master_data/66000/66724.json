@@ -1,0 +1,80 @@
+{
+  "round_id": 66724,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-15T02:17:25.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 陸遜",
+      "team": "猛虎軍",
+      "emoji": "😃",
+      "score": "30.36",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] アヌケト神",
+      "team": "ラー軍",
+      "emoji": "😥",
+      "score": "23.92",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "18.97",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無し6s",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.93",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ラー軍] ホルス神 𓅃",
+      "team": "ラー軍",
+      "emoji": "🦅",
+      "score": "0.87",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "49.33",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "24.79",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "3.93",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klkSwzAIQxkjm/vfuCOE17Z8eBIeEpgEAAYDcIa5O85wYRdmCY6KSVO7jqn39JbpF2TRGGPlH2eMhwLnYDnzKZ49ATNLejkvbBkn4/PEoobahsp4dQBGZ8WFS56YZVLPfZUzdbNJFp1dYa1dmP672trsunP7KbWPPRARWbJovQOdsOQ2sTKRqoBrmNnXLIBOyPCiHJnBXO8bS9tai0DCiAWlZld5PWfuxJDaB2XjXEr7gyO4MtLf5rziplzQHR5JJbZvLppYl77kRZtZ1Jc8sWjti7vXv6Qm+ACRPA4F",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#e89830",
+      "4": "#e89830",
+      "5": "#30e8e8",
+      "6": "#8B4513",
+      "7": "#30e8e8"
+    },
+    "sz": 30
+  }
+}

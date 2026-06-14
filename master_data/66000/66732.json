@@ -1,0 +1,74 @@
+{
+  "round_id": 66732,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-15T02:43:21.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ガスト] ガスト",
+      "team": "🇯🇵ガスト",
+      "emoji": "🐲",
+      "score": "29.65",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ガスト] ザリガニ",
+      "team": "🇯🇵ガスト",
+      "emoji": "🦞",
+      "score": "1.25",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] アヌケト神",
+      "team": "ラー軍",
+      "emoji": "😥",
+      "score": "0.09",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ラー軍] ポジマンディアス",
+      "team": "ラー軍",
+      "emoji": "😇",
+      "score": "0.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ラー軍] ホルス神 𓅃",
+      "team": "ラー軍",
+      "emoji": "🦅",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ガスト",
+      "score": "30.90",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "0.18",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNUVsSAzEIyoNp73/jDqDG3W5nmp8YEVAzxjmIM+Y8SUbQExgDwJxzOuGiFrNifLFdJi7Bm3aiI8j1fgh+k1l8QVtXFuq+W4N2g2oKMaXuqECi3s9+4d1ghLI1sTckH9zaFcDl5UmUOcUJ5O0CchhF1n3zEfz6GaVA84NGqMuE3hhFLbwW1QIrZUkDWIabSnqLvYg/goSJrpg8Rik2W7Y46bWIxIXqIfjuUY2J6AZa74CGOqtrO1NjYRPEs9C0L2e7X9L/c59oVu7IB1zABI8=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8d7",
+      "4": "#4d73e5",
+      "6": "#30e881",
+      "7": "#30e881"
+    },
+    "sz": 30
+  }
+}
