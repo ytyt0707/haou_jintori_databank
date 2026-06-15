@@ -1,0 +1,66 @@
+{
+  "round_id": 67072,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-15T12:05:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しF7",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦊",
+      "score": "23.52",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ニャル子",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏁",
+      "score": "21.73",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[旅行記] バットゥータ",
+      "team": "旅行記",
+      "emoji": "🤔",
+      "score": "1.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[旅行記] ビッグモーター",
+      "team": "旅行記",
+      "emoji": "😇",
+      "score": "0.16",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "45.25",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "旅行記",
+      "score": "1.18",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkVmOxDAIRDEFff8jt4rF4JnPRlHs8Ci2qIhuE5q3JYG6Kl1itqCXjifpRzBKTxqJgnbKOlk1r+rqbma2IkRUCoNxm7lHj3wBuGmoPodNXiMG0Hmj9QspHuZyaEMDu2dEsKaIwpG0l9FaCAR8SMVrG8cpjXJkCfemTsHuqNNWDdLSz3g5VPRLGvbQ8s1RDdCxdlSck9Li548mb+y4aXlWCJZ2u+OeWSvz0Kw0sCeoCOIF8fa7yb/MvegbNEX7RlTj/qkbEVd599rCFz/enz6+LfsHNw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#6e4de5",
+      "5": "#9ca3af",
+      "6": "#6e4de5"
+    },
+    "sz": 30
+  }
+}

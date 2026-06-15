@@ -1,0 +1,56 @@
+{
+  "round_id": 67080,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-15T12:31:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[おこめ] お赤飯",
+      "team": "おこめ",
+      "emoji": "🍚",
+      "score": "67.53",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[革命軍] 神",
+      "team": "革命軍",
+      "emoji": "😎",
+      "score": "8.64",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[おこめ] もち米",
+      "team": "おこめ",
+      "emoji": "🍚",
+      "score": "0.64",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "おこめ",
+      "score": "68.16",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "革命軍",
+      "score": "8.64",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk1sSxSAIQzMR97/lOzwcAa1z+bIc0sRqRW4FgCQ7QjScNuyQItAiZU2LtWxau4tuDISWfFA41VhbKr6GaFyvGhpq/kktzRJeNqxvDwy0/bqPfSfafkXmnNVdHJMweOBlfafL+oMGDtqd35RDi5rYKsce++FOSQ4dCno4u/6kccwFb683LWfu3lv636rem6yxY+gOeUBUm29dhizJM9G1/hC9155/PTUMSA==",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#4d81e5",
+      "5": "#e830a9"
+    },
+    "sz": 30
+  }
+}
