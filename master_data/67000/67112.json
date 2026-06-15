@@ -1,0 +1,48 @@
+{
+  "round_id": 67112,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-15T23:15:45.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] も",
+      "team": "なきち",
+      "emoji": "😍",
+      "score": "3.64",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] 名無しHN",
+      "team": "ラー軍",
+      "emoji": "😇",
+      "score": "0.12",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "3.64",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "0.12",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYBiKgBnJ0SwsLEg8NCYLBKCJwriUyDLgNRlsAz6HwZwwSqOEACOYx4QihsZhIiCLT5qJgQGfNAM+s5nwSaK5kTQuAFjSAJ8=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#a74de5"
+    },
+    "sz": 30
+  }
+}
