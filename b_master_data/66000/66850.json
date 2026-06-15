@@ -1,0 +1,48 @@
+{
+  "round_id": 66850,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-15T00:05:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "62.85",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵お赤軍] 栄養分析表",
+      "team": "🇯🇵お赤軍",
+      "emoji": "🤬",
+      "score": "5.90",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "62.85",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤軍",
+      "score": "5.90",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkUESwCAIA7Xh/2/uBASxolNP1iUhBaA8DY2nZDB2pAMftEN9pNfGv8R365qKQL0rKgqZq6KgMmnXKoOh3TzMcmg2av1qqoGt89IfEB6TjnnlVWaqO14WfaPNrD1UiL2V4gtFpArpMlHPfKRaPWmadOHMOgsz/ylr9c6CwBtVA7f+0N75gGcuOBcY9QSZpLuQ8/sF1qgHaA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8c6",
+      "4": "#d130e8"
+    },
+    "sz": 30
+  }
+}
