@@ -1,0 +1,42 @@
+{
+  "round_id": 67038,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-15T19:15:44.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[旅行記] バットゥータ",
+      "team": "旅行記",
+      "emoji": "🤔",
+      "score": "6.58",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[旅行記] ザリガニ",
+      "team": "旅行記",
+      "emoji": "🦞",
+      "score": "4.29",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "旅行記",
+      "score": "10.87",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eAHt0DsSwCAIBNAVuP+ZM6ti/GHjpItVyGORETgfVdWwgxh71X28opntphe1WVPpzUrUPpyqQpW2aAubsWPKetr3erdKPF5acS8BNALAyfFz5aW65PhJHf/81ccvICLxDXKhAA6TlzsfwKcBeg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30a3e8",
+      "4": "#30a3e8"
+    },
+    "sz": 30
+  }
+}
