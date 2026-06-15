@@ -1,0 +1,57 @@
+{
+  "round_id": 66982,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-15T16:14:07.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "40.46",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[熊谷市] 名無しZ0",
+      "team": "熊谷市",
+      "emoji": "👽",
+      "score": "18.21",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "9.07",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "熊谷市",
+      "score": "58.67",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "9.07",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkUsCxCAIQ6PI/a88hUCFfqYuivpIAKt6W5ILuDHVhCJypQXFtmb8oWi2mVjEecUIDxu/UbYYlCLxEOXMwSiAD0ocSefkD85R0ntz3JxDGTovzIbonBOlb/ZlHmutRU5qjN5JjSN/T0LZ1OTF2bcPdIwR1hasLJeqAmTec6dLYXSMXSGFFt3xi+bzVmdQaoW7szvGx1retBLft7qNTm/5TTs5UYzUhMCcdnFaXyiP9TXuCUEP8AOHMQj3",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#bcd411",
+      "4": "#e85330",
+      "5": "#bcd411"
+    },
+    "sz": 30
+  }
+}
