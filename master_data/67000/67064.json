@@ -1,0 +1,57 @@
+{
+  "round_id": 67064,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-15T20:40:01.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] はじまん",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "79.69",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ハゼ] ハゼ太郎",
+      "team": "ハゼ",
+      "emoji": "🐟",
+      "score": "10.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] ニｮル子",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏁",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "79.81",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ハゼ",
+      "score": "10.33",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkeEOgCAIhImz93/lBtqJim79jC2D+w6kJeihqlDAn66+mXrAzlfi2xq9szOaVHHVmYRhREjbtLZErZbbFoE7eLKOm/hYfqr4RVmXApLpTUt6gz2hrc9Me3q48A+oHJcsHjtLpdNJ86TXMqNCp9GbFkuISkk3JTdz+JvDkLQQCXbBAwE0CpM=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e8d7",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
