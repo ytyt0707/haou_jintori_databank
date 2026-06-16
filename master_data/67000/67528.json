@@ -1,0 +1,48 @@
+{
+  "round_id": 67528,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-16T21:44:56.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ハゼ] ハゼ太郎",
+      "team": "ハゼ",
+      "emoji": "🐟",
+      "score": "63.37",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しsy",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ハゼ",
+      "score": "63.37",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kksSxCAIROl07n/mlGIjUWLNaljI59looaTMChML/9oTVQX/oKDpuPBxLoCd0jG6hSaCTh0iijNo+Jsy4IcWwH0DFW33OnQmBwRp17yQokl5piu23Fndsk+dyW3cb5p1LT5T4VWl3NXKFj+GtVRHqlmW1N/QrHgFG7+jbSm0/XP4stMEC+3v9AGLCwdb",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e85e",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}
