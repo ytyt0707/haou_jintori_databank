@@ -1,0 +1,48 @@
+{
+  "round_id": 67452,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-16T17:38:23.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] はじまん",
+      "team": "🇯🇵ONJ",
+      "emoji": "👽",
+      "score": "28.56",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[斉] 斉王/韓信",
+      "team": "斉",
+      "emoji": "🀄",
+      "score": "1.69",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "28.56",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "斉",
+      "score": "1.69",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkNsOwzAIQwnx/3/zxCXF7tpJ4yGyOLFJMMsCV7XoZAiASMi/6M3d3r1PiGZnd0cVV3qNbnyn/bJ2v9KMjn/ojZ5YNE7BRef0X9jhZe6UsRkcaFpdXmho9/ImjZTLXHroNaKmeCT3q1iERsZ08vwLdgx+xtJWDoPZ4DGzcicfA9K6MALPcq3nfsZgveEyfeHzl8ArSsLlaUoFpUm55OQSNFq5WdAPkNsEgA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8b4",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
