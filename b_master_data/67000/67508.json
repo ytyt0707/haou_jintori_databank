@@ -1,0 +1,33 @@
+{
+  "round_id": 67508,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-06-16T11:40:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "0.13",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "0.13",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHl0DESACAIA8Ej/v/PjvaclTbSLkIQPqxBlZ1dq9oG1Y32FhsNJ25TPYcktlMR1WuD8czxWAe1z3CbXksAPA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#bcd411"
+    },
+    "sz": 30
+  }
+}

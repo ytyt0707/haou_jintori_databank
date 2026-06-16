@@ -1,0 +1,57 @@
+{
+  "round_id": 67500,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-16T11:14:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] ぷゆゆパン🥺",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "20.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] セ・リーグで6弱",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.13",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] ゆゆ",
+      "team": "🇯🇵ONJ",
+      "emoji": "💩",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "20.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.13",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkFkSBCEIQzFD3//KXVEpllbGH5RHICjy76h6Rbwzq3b21SsT3VU9DWNiZ58Q5Za1GFmw1Qw271npWd27RluqCpu48pViW5dR+ooqYDSqVh27NhSZZv1vWsJnojmgdvBYIkcAuEIKSceQJ8v4mmDRL3Q8964Fpq359e6oMcaDOuCWHqBbvvX2la9ylhzh1PLXKn0B6HkDZA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}
