@@ -1,0 +1,63 @@
+{
+  "round_id": 67542,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-16T13:30:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] bad",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "19.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[魚類] サカバンバスピス",
+      "team": "魚類",
+      "emoji": "🐟",
+      "score": "6.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] ニャル子",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.98",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "19.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "魚類",
+      "score": "6.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.98",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkkEWxCAIQxOQ+195Xqh2Hq24mHGlfBNABOri4Fw1DpAZaSguqivU/nssPhEkZFGi8xARAYzRUtzUvRhIGYsarNCEouoNZlW7pCpbVTVapXN3t1feFTA5l8S4isoLCbdUSeXci+W7odmxCn7juyn4CXNKH+YaUgANzfGRv9Ep3ufVAPU3WprqngofKM70nsLjNdZ8T87/aT9KWwPS",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#8B4513",
+      "5": "#e83064"
+    },
+    "sz": 30
+  }
+}

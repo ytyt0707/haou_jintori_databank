@@ -1,0 +1,80 @@
+{
+  "round_id": 67544,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-16T22:36:50.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[魚類] サカバンバスピス",
+      "team": "魚類",
+      "emoji": "🐟",
+      "score": "19.08",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] Orimono",
+      "team": "🇯🇵ONJ",
+      "emoji": "👾",
+      "score": "9.35",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[魚類] ニャル子",
+      "team": "魚類",
+      "emoji": "🏁",
+      "score": "4.07",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無しss",
+      "team": "🇯🇵ONJ",
+      "emoji": "🌏",
+      "score": "0.88",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[なきち] なきたいふーん！",
+      "team": "なきち",
+      "emoji": "🌪️",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "魚類",
+      "score": "23.15",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "10.23",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "なきち",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtktsSxCAIQ9nI6P//8U64rbD6UFtOAwEVmQsA1lqL+2TCILFtkzoE1jkPbdBjcGZO6UVVVZQPASJ8wMTUEsQyyrgx0iTcGQ+11RiU7MJPmt4wEjflcAWoqnfq8ubZqKbh6mjvcBybeXe6ue76ZYrTcGpq7z1GsejK4PbcRgMyQ1HghLJNI7SNnrgErMuuNvuguI0y7gbnb8thls6bk9TOqMaVdIj954QihX8n/IM2q0rPl4v5YRTthF+q+gn8D/0YHD8osXt7wYg1N1/X4Ah+",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e84d",
+      "6": "#30e84d",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
