@@ -1,0 +1,48 @@
+{
+  "round_id": 67388,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-16T05:10:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "55.22",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "55.22",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ヴォル",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkksOBCEIREuG+595QgEK0W6T2YwLRR5VfgEA6s3CvQVUI+xqScIyJi6pFrpJS/XJ2lDP++ydquZhTtobPWt+z669rGh3++ypyPCsT1K/iPl43SRu6UznFdIa4tJYByMXNDEkKGswxkhLf2aRUkBKHn9AJM1VFTAxTfOL+Ditad5ZHhIAxUHXPzRfa5VGkQ03XEr/F34By40H/Q==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#514de5",
+      "4": "#aad411"
+    },
+    "sz": 30
+  }
+}
