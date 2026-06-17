@@ -1,0 +1,42 @@
+{
+  "round_id": 68076,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-18T03:22:10.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] チキン南蛮w",
+      "team": "ラー軍",
+      "emoji": "🤠",
+      "score": "0.88",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] ヒエログリフ",
+      "team": "ラー軍",
+      "emoji": "🪄",
+      "score": "0.15",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "1.03",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYBjSgJERn/MZGfBI45HCZ+aoHH1CgIWFBY9FhGTxaGXAazADAzNILxMuA8CyuCTJFAcAMo8ANg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e85e",
+      "4": "#30e85e"
+    },
+    "sz": 30
+  }
+}
