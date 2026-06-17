@@ -1,0 +1,48 @@
+{
+  "round_id": 67874,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-17T16:26:48.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "40.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "26.62",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "熊谷市",
+      "score": "40.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "26.62",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9k1kSwzAIQyXD/c/cis3xuA1fyTwLhJwAjyIJkKAe4sWnAFoWqScCw9wBFO0zb9SMlzaaVo9bK0cz332t0su8RJtTtPBPOuJYvKQwoxkwUBvlSsohfBHeYw8qYzTRxk+tfJNcYyq023RkvdasHK5kJ8towDQebXaVLfTQTKRdV5KcvoE3TQMXzU0jDKVx1BbHSjctseI452LnpZiV1VF5E33DTftQ0lro0j5a/+gcY+L7kL47H8M9yCt91dbfcPbMt7pG/St/6/t5fQAH7Qjk",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e83064"
+    },
+    "sz": 30
+  }
+}
