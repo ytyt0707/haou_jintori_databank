@@ -1,0 +1,89 @@
+{
+  "round_id": 67920,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-06-17T18:56:02.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "34.18",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] PMラジオ局",
+      "team": "🇯🇵山本組",
+      "emoji": "😣",
+      "score": "17.63",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "10.75",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "😂",
+      "score": "5.96",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "名無しJv",
+      "team": "",
+      "emoji": "🐷",
+      "score": "0.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "熊谷市",
+      "score": "34.18",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "17.63",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ヴォル",
+      "score": "10.75",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkUESxSAIQ7EdCvc/8R9IotXp4rOorY+EaC1Udpa7WUTcVREv6qiiDUWjuyY10vsucY8xQp/G9M7Gk8LZMDrT3CNiUoXqYJmZjem9O3uWqsyhZg6eufdseXdMZaWkhEts1u3Ql7FC1WUVxDCcZk4F7A5OrqW7+wHtlk3X7aUFH3LlLM7bKfMoDDzHoFZp5W5ReUHFeiIasDU8dAO9ITHOPl66eiU9dvX5J31WSel+KdSCz/OIf1Nh0U06xdfV3D8poR2QzmbQnpg/l3N1Zd/rD9aeDbU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#59e830",
+      "5": "#3081e8",
+      "6": "#e83075",
+      "7": "#e85330",
+      "8": "#bcd411"
+    },
+    "sz": 30
+  }
+}
