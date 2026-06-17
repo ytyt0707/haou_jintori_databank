@@ -1,0 +1,75 @@
+{
+  "round_id": 67956,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-17T20:52:50.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] サツガイくん",
+      "team": "🇯🇵ONJ",
+      "emoji": "👼",
+      "score": "30.86",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸宣教師] 親鸞",
+      "team": "🇪🇸宣教師",
+      "emoji": "😌",
+      "score": "0.86",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇪🇸宣教師] アルメイダ",
+      "team": "🇪🇸宣教師",
+      "emoji": "😣",
+      "score": "0.44",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇪🇸宣教師] (*^○^*)",
+      "team": "🇪🇸宣教師",
+      "emoji": "😂",
+      "score": "0.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇪🇸宣教師] グイドフルボッキ",
+      "team": "🇪🇸宣教師",
+      "emoji": "😔",
+      "score": "0.13",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "30.86",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸宣教師",
+      "score": "1.57",
+      "kills": 17
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdU1sOAyEIVLDl/jfewACOZtOPmjQi82BItiIi9nLQFj9As/JrmEV3o81yLjEPqY14wo8U8ALVbvQIFwNTWbnMbMH3F1oYVDQ84kbkoLgTOWOZFmO5TJpDD61AvBCpdTVv+jbxE3NqnzCew5vXSKdEa85mX4UbJbo9d9XgunT0VFV6ZQZYfEQuFMltpEJVvyRGfh5/gAH8haYNaamsGd3qohC/ucl1cKw3YknVjdbaBfhtQMcLho9l1MH31Vr8Ix6mSwxm",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83064",
+      "4": "#e83064",
+      "5": "#e83064",
+      "6": "#e83064",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
