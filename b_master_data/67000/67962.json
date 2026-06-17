@@ -1,0 +1,63 @@
+{
+  "round_id": 67962,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-17T12:12:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[魚類] サカバンバスピス",
+      "team": "魚類",
+      "emoji": "🐟",
+      "score": "18.09",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しSI",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "13.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[きらり] ゆり",
+      "team": "きらり",
+      "emoji": "😀",
+      "score": "3.30",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "魚類",
+      "score": "18.09",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "13.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "きらり",
+      "score": "3.30",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkAEOwyAMAz2w///lKUmBBFi1SK0QlzMBIFeblXdJACTtI1traAv73vP7GF0orNxQoYcm/E75irXRFEtJ21ggIFLWpcCnP6nsyqXcCtXgjVqs4O9ZVLu0/FAB2FV/EleDGs/pIcqgZ9foEJ1mKZoGDPki4umoCGNbsfhF59C1YZ1qz7FqzDf4InlVaO89szQY0K0qHXM/8OBzYHd3OdJxT84HHbkZ/rf+AjfOBco=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e892",
+      "4": "#8B4513",
+      "5": "#6e4de5"
+    },
+    "sz": 30
+  }
+}
