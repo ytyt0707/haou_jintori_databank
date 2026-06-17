@@ -1,0 +1,75 @@
+{
+  "round_id": 67898,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-17T17:44:39.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ヴォル] ニャル子",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🏁",
+      "score": "31.91",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "30.88",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ヴォル] (*^○^*)",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🤔",
+      "score": "5.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "4.62",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 元農家",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.83",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ヴォル",
+      "score": "42.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "3.83",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kgESwyAIBM+C+P8fdw4EMU2ZTCIsRxAFYFBV/RyjCzAKoy1LRnLM6VrrnZott/1ZR8dV0sh5wKQiIky4pLIpoeOLRuVgD6A6xjBzlfywTR036LOhP4ZPQ96UqnMGbcq2nD7JJjXlXHdG0JbuQw88Z1Qm3a0UhSatJrn7MGVPoc2O5YdOMwsqbC61iMqT5yuiHJifWHAArExtGuKe0MXGiTxUDikUTcvAjTv1coXdO9lRusmNt/ZkR/oJ/aEhufrY+/Bu69UKV+WC/bevlG34cyS1+gIKFQ3M",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30a3e8",
+      "4": "#30a3e8",
+      "5": "#8B4513",
+      "6": "#60d411",
+      "7": "#30a3e8"
+    },
+    "sz": 30
+  }
+}
