@@ -1,0 +1,48 @@
+{
+  "round_id": 68240,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-18T03:14:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[旅行記] バットゥータ",
+      "team": "旅行記",
+      "emoji": "🤔",
+      "score": "84.05",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵お赤軍] 栄養分析表",
+      "team": "🇯🇵お赤軍",
+      "emoji": "🤬",
+      "score": "0.14",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "旅行記",
+      "score": "84.05",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤軍",
+      "score": "0.14",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlk0sOwCAIRPn0/mduwE9mMLLRRWV4DhQTRebyWBlnNEKZKRk5/u6k7GhaYwsrnycFndxdVSsFrQVzv6Bo564dHezmTfq1FCFNm16YAO9Cj2mRBuS7oDKn4HErr5Q0iep8033pF/r2X+nm9mZm16Li3tCrrYL1yPZOT+0HlSIJLA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3081e8",
+      "4": "#97d411"
+    },
+    "sz": 30
+  }
+}
