@@ -1,0 +1,63 @@
+{
+  "round_id": 68332,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-18T08:12:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[熊谷市] ニャル子",
+      "team": "熊谷市",
+      "emoji": "🤔",
+      "score": "51.19",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] 阿呆太郎",
+      "team": "🇯🇵自民党",
+      "emoji": "😈",
+      "score": "9.90",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🐱",
+      "score": "5.52",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "熊谷市",
+      "score": "51.19",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "9.90",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "神撫子",
+      "score": "5.52",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdk0sSxCAIRBmR+195qqFBNJ9F2Gh8dAOWGQOhqioic84pIr8KZ06BEIJUjQRKSVx70s5Emti1Y4xI8OpXSnV059ZeOlWpRfOLxhhZ2LWEaLvTPK6VVwBtna0N+7+HyuFuqJmtBk9j22gUo5UqoKVzNpKjFpW82Mzw1bUGhtiQ0vkjjcI0frA+6UqLecnZ1qJ+kOKiW/uvNCEV+GyjX2mD+AEi4hD7hnfoD7ZeXTxfCiB70KbHsf4B6v4IQg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e85e",
+      "4": "#994de5",
+      "5": "#97d411"
+    },
+    "sz": 30
+  }
+}

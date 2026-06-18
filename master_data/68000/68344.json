@@ -1,0 +1,48 @@
+{
+  "round_id": 68344,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-18T17:51:18.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 初めてプレイ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "59.95",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ニャル子",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "0.14",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "59.95",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.14",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkUESwyAMA4Wq/7+5IxeY4hj3WB8IzloiIuQskCB01oKU9CISJjUHJOBGTTKTCOAj7mjlG+8sFen9+cWbGhbl00JbsAjxNPTk8BKotB1lxnXEMF5N8WwpioiHR+csbRoJDuH35dV0i5PObZvoJ+0ix11e7SfN3L9lo7S5gjT3r/YNvJwJHg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}
