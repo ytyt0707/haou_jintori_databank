@@ -1,0 +1,63 @@
+{
+  "round_id": 68482,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-19T01:18:56.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "45.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "25.02",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] 名無しQG",
+      "team": "ラー軍",
+      "emoji": "😇",
+      "score": "4.61",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "45.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ヴォル",
+      "score": "25.02",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ラー軍",
+      "score": "4.61",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFklsOBSEIQ6vI/rd8Ux4jjGOuH0Y5tIARyoXLMnjllcrpEBiAirx5alWhxMHXMp+Diqy1RGB4U54oJl1hclJCclp3qq58xDfq4k6trhX2pjuNtqw11p2zcRc/u35RDmRrzqZmDIFE0OkT9xyoFu2GAB1Q624oBmW/VSKr6tKkiVpPdOavKbAd/a+0ULn8pSWXU0aZwUM211J4Gf47jrgFBmn6vFKGwxuN7DIqW7AREkVPUcGna/sP2S8J+g==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e84230",
+      "4": "#30b4e8",
+      "5": "#30e83c"
+    },
+    "sz": 30
+  }
+}
