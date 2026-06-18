@@ -1,0 +1,68 @@
+{
+  "round_id": 68370,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-18T10:15:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺ソ連] レフ・トロツキー",
+      "team": "🇷🇺ソ連",
+      "emoji": "😆",
+      "score": "69.39",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[錬金術] トトリ",
+      "team": "錬金術",
+      "emoji": "😖",
+      "score": "7.54",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵反ソ連] 乃木希典",
+      "team": "🇯🇵反ソ連",
+      "emoji": "😇",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺ソ連",
+      "score": "69.39",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "錬金術",
+      "score": "7.54",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵特攻隊",
+      "score": "0.00",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵反ソ連",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkkEOwCAIBCmJ+/8nNwso2GJTT8RxWKoVEWxLrrVwyZMCQVk01Lk1dLp3p+xpEvLIAwmx6CizTdXo4CoQk1I1uGMATCp0s+dQYT56R85q3OJC61zTBWKsBnLr9UF5ToQUzcA8I0qZNK8yXeU6mIDR7qGigaq2j+y5qrzQzKqV+F2fqOMqlJqR8w8o214aOFLzSPtgIye43Fembfxzv3P7sW5QTxCq",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "5": "#60d411",
+      "6": "#e83042"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 68382,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-18T19:54:30.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[蛇] 蛇",
+      "team": "蛇",
+      "emoji": "🐍",
+      "score": "13.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 雑魚狩り",
+      "team": "🇯🇵ONJ",
+      "emoji": "😎",
+      "score": "0.77",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "蛇",
+      "score": "13.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.77",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVESwDAERBe9/5k7WCRppr7Us4sUAHQCl1B9VNX0ghaxmV0alObmceMcfaVSe43U0C5SeLybASK+tD5P0M90agtvm4mktY120Sc1bV8mYeHQoyDM4KdxsYReiQASbLS1lnRuCjWo3jaG3ysiXiznaBgxkgaOtt2A1DHpSNuaEidDY3IQ/qUFeZlrURvK6ailm+7OH/E6l0cv0jOto856fJ9X7U3/dF6bqnj5cfgfPH3MXvgcAp0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e230e8",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

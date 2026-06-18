@@ -1,0 +1,42 @@
+{
+  "round_id": 68380,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-18T10:48:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[蛇] 名無しd8",
+      "team": "蛇",
+      "emoji": "💩",
+      "score": "3.06",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[蛇] 蛇",
+      "team": "蛇",
+      "emoji": "🐍",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "蛇",
+      "score": "3.18",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkkEOwCAIBHcp/39zQwFrUeIHyskw7EQNIlmMAvJEBKOM1nwwChB7amFMsjlJuhmkqKp+WdKAWv2eNYVlazjuHHClDL3qIvZ3DsFyK2skJYva3hJVgyQHvTYwvA352+9Gnv7CJ5v5dhkf64k2Usui33OHNtDXDeiUA/k=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30d7e8",
+      "4": "#30d7e8"
+    },
+    "sz": 30
+  }
+}
