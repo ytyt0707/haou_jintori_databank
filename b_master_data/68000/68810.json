@@ -1,0 +1,51 @@
+{
+  "round_id": 68810,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-19T10:02:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[熊谷市] 籠原",
+      "team": "熊谷市",
+      "emoji": "😇",
+      "score": "75.61",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[熊谷市] 市長",
+      "team": "熊谷市",
+      "emoji": "😀",
+      "score": "7.35",
+      "kills": 13
+    },
+    {
+      "rank_position": 3,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "2.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "熊谷市",
+      "score": "82.96",
+      "kills": 19
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kUEORCEIQ4uF+195AspHJ/IXkwwbxWeBKnkPmJnhzkiHZh0NbUupb9quZp33hf2OoR2aBP5FSb70/YGqlmNwjMpit+ERcXD1mCcOD0ZuFPyGs/pUNI5W5SvNtvtrbE5y69oc45EwaULPi6YLkEgtd01c8C+OEHF1itb6sKAF53MtCpETH1QERVXDhv9vlvZ166vqXpMCUB9+jprzfQA8/QnK",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#bcd411",
+      "4": "#bcd411",
+      "5": "#e830dd"
+    },
+    "sz": 30
+  }
+}
