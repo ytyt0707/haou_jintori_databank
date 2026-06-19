@@ -1,0 +1,66 @@
+{
+  "round_id": 68788,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-19T17:51:12.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "28.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "🥚",
+      "team": "",
+      "emoji": "🥚",
+      "score": "19.70",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵山本組] 山口組",
+      "team": "🇯🇵山本組",
+      "emoji": "🤗",
+      "score": "14.09",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "3.73",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "42.11",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "3.73",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkFkOwzAIRHFZ7n/kagZsY6f5KJXSOC+zEBHluHvezKvUqKpj5vP6L+p+0nJblNJbq8SJns4q5BNnHizSO62PXJQTIV7OqF1SvCu5ALAeu/TVSCkatWWV4InWuBtjgM+CGbOoUotAV/wwhCh4fOyL7nRI0r2+RelzxYh4oXCPiKBWzWzpRMysaIof1LbWMFvLo8OYwT8oUwOlkdq09sExpaIJb2fTCJ2sadnZTMPjnTJuXXbnEmPtNQ+6SK+Mtzq42X+0Z3bn4/kX9LgJFw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#e230e8",
+      "5": "#e8ba30",
+      "6": "#e83042"
+    },
+    "sz": 30
+  }
+}
