@@ -1,0 +1,66 @@
+{
+  "round_id": 68760,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-19T07:20:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "😎",
+      "score": "29.16",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] パソコンマン",
+      "team": "🇯🇵ONJ",
+      "emoji": "💻",
+      "score": "14.21",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "4.58",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] ぼっけもんBBS",
+      "team": "🇯🇵ONJ",
+      "emoji": "😇",
+      "score": "0.21",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "14.42",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "熊谷市",
+      "score": "4.58",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGd0tsKxDAIBFB16Pr/f7zMWDHZXh5WKKQ5mlip+YRdYswvZjZ6g6cejBuu2ic1lzzWvul9bWY1wXuPw/fPyTxZ+NMusZi6VBas6q+KuXQpVV/uDiMrRYrKCYtwAMZHwX1IPxlRCkYpkmslZaZqpWJZvSqFJ3eY8dwOHrAqLsqOJqY0IjivoW4HCIDGaW6ManrUtqs7V6XB/67m0fvnBeTgEJb9GkumZWRo1DueM7X+AXatgXMwtfpH+4zua3nv5ReGMQge",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830cb",
+      "5": "#4d64e5",
+      "6": "#9ca3af",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
