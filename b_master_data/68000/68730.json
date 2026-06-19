@@ -1,0 +1,48 @@
+{
+  "round_id": 68730,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-19T05:43:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "53.87",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] はつ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.44",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ヴォル",
+      "score": "53.87",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "1.44",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkkESxSAIQwNy/zP/EQURoZvPBslLaJ2WORZSKYM5EnR9uXoKcIZg1vijH4GL1KF6kjRDiChrPk/Y0wlbKkQSoKyyzSKClqrVnAB2NjalyxflffZMly0yJnnWhKv/Tce1Lgy+ubru/GrB+xw/oWzaPDpkC8ehY7z4og82av1+7VL1e14Ukn/bH1g/CEE=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30a3e8"
+    },
+    "sz": 30
+  }
+}
