@@ -1,0 +1,42 @@
+{
+  "round_id": 69118,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-20T11:41:29.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 陣取データバンク",
+      "team": "🇯🇵ONJ",
+      "emoji": "😂",
+      "score": "89.98",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しVj",
+      "team": "🇯🇵ONJ",
+      "emoji": "🌏",
+      "score": "5.42",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "95.39",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdkFEOADEERDFz/zM3NOmmRX+brC/mIQOQQpJSC/e+gx5lvfGXKtmeRY87bXHM2sT5uZOaWb09MNFQANFQz7rq+AU1fpbz0b2jRVR15Y8S2YwLBAOlwwqV",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
