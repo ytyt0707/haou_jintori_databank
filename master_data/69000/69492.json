@@ -1,0 +1,57 @@
+{
+  "round_id": 69492,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-21T07:54:31.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] ハトホル神",
+      "team": "ラー軍",
+      "emoji": "🐂",
+      "score": "50.70",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] セシェフ神",
+      "team": "ラー軍",
+      "emoji": "🔥",
+      "score": "35.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うゆ] うゆ👍",
+      "team": "うゆ",
+      "emoji": "🥺",
+      "score": "0.88",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "86.70",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "うゆ",
+      "score": "0.88",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9k1sWxCAIQ1Fk/1uek8QH1E75aKnXBEUbccLM9GHmbojDcuaIPFDyV7qdSP+JBb9pRGyzVPdID7UyEzPetbIRT5Y1/dhxRDxo75F2UbrVGSrmEILuNW8IJJgoC0kxmRXaybiWlS1nvNcYU2PdhRPkwjE1cAMautBaaxTPloi6c7xCFHfcHhcGpZbSRWFAUoxRGVqWEle6T+JQOVx4ajV+0dWBhJP1TTfE+SYR0zHGPHX26oEzDXaSP5QeAekMs/gBPCoNSQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#73d411",
+      "4": "#3081e8",
+      "5": "#73d411"
+    },
+    "sz": 30
+  }
+}
