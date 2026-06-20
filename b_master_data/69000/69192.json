@@ -1,0 +1,56 @@
+{
+  "round_id": 69192,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-20T06:41:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[bot] bot狩りの中村",
+      "team": "bot",
+      "emoji": "💀",
+      "score": "66.68",
+      "kills": 18
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "15.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[bot] ぷゆゆパン🥺",
+      "team": "bot",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "bot",
+      "score": "66.68",
+      "kills": 20
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "15.71",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVU1EWgzAIg4X7n3kvgUK1+mE/tJABIXFmPBFhMDPoGLBuiUUEgUrmjxirMArtdF4GVO13FHjpDEs6qBdbb9QWOhM3sGsBnLzsTG1dLPaJA2i+1r3mOkqJdxYNVe22yQVaIt+THdO1Lm4DG6aGCn7kcJFJ6bHuid2b/gDcy514EsXlHSU+W7jDnXOFJb2W3Xn6qyruvZ9QWMiIOwg4V5KFs9Yo4c4P9glhFadu6GgqB0Sqa9dFrM2qtv88hGuMjFfnlFfx+fgDLgAJYA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
