@@ -1,0 +1,72 @@
+{
+  "round_id": 69516,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-21T09:12:27.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] 野晒",
+      "team": "ラー軍",
+      "emoji": "💩",
+      "score": "19.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵おこめ] 元農家",
+      "team": "🇯🇵おこめ",
+      "emoji": "🍚",
+      "score": "11.58",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵おこめ] おひな様",
+      "team": "🇯🇵おこめ",
+      "emoji": "🦁",
+      "score": "8.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵TKG] TKG",
+      "team": "🇯🇵TKG",
+      "emoji": "👽",
+      "score": "1.77",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵おこめ",
+      "score": "20.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "19.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵TKG",
+      "score": "1.77",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kgcOxDAIBCnB/3/yaRdwS3RIKWZYWiICszIeeFNR1Tp+UIUlNrMlg6psp8wgwqSqGpsAr50Cyoj4wCzxnwq1V2ZOVj6N6J63qNn8F52jvbXuIpZLYs+9rEztLkZK9h4J2mw4wpHqMlAS97gplikCGe1QGgfGDsNxnVp+BsKM8IdWGUCnEuKDIvGi0hQx1BvqsSjrprbu6LNQdvWinKQGZt0xRgblkEjAvF5dTY7f53mIEUrR2KnAVVkumhVqAGFgu9az97s8x1vhwzcPrc1nr+r0ivwA2YgG5Q==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30a3e8",
+      "4": "#36e830",
+      "5": "#30a3e8",
+      "6": "#e83064"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "round_id": 69520,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-06-21T09:25:25.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤓",
+      "score": "17.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵草民] うゆ",
+      "team": "🇯🇵草民",
+      "emoji": "😍",
+      "score": "13.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵おこめ] おひな様",
+      "team": "🇯🇵おこめ",
+      "emoji": "🦁",
+      "score": "13.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵おこめ] コロりん",
+      "team": "🇯🇵おこめ",
+      "emoji": "🍙",
+      "score": "11.90",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ラー軍] 野晒",
+      "team": "ラー軍",
+      "emoji": "😂",
+      "score": "10.80",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[TKG] Ryoku",
+      "team": "TKG",
+      "emoji": "👽",
+      "score": "5.11",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵おこめ",
+      "score": "25.32",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵陽キャ",
+      "score": "17.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵草民",
+      "score": "13.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "ラー軍",
+      "score": "10.80",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "TKG",
+      "score": "5.11",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAFt0VkSAyEIBNCmEOX+J041SBQTfrTm2bgMkKVX2S4Aqkq/UEutf84liSJvaCvDInD31vJSE/mvqpLlvo8MnXPOyBpoHgUgticGGwSFlU0kQ919R1+dAM9alftWdM6GO3vU7qjDzIBSvkN15Ugtm3zDG50fSjlX/bYWkUs5tRV/DO7xXD1pay3egoOIoLUlbuUakaZEVmTpqZhx3sjuFdFjK3gza7qwMpvPyQUVzBF8p41/tYyHeMIXhfK0pwCMMc6acSivPlo92myMFo7GtYCbPNmz589s4QMZOQ6i",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#6e4de5",
+      "4": "#3081e8",
+      "5": "#6e4de5",
+      "6": "#59e830",
+      "7": "#e83087",
+      "8": "#30e8b4"
+    },
+    "sz": 30
+  }
+}
