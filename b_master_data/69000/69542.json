@@ -1,0 +1,42 @@
+{
+  "round_id": 69542,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-21T01:36:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[bot] ベネット",
+      "team": "bot",
+      "emoji": "🤗",
+      "score": "59.05",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[bot] bot狩りの中村",
+      "team": "bot",
+      "emoji": "💀",
+      "score": "8.04",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "bot",
+      "score": "67.09",
+      "kills": 19
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk1kSwzAIQ9XC/c/cETJLYidTfzSYh7AcUuCf5T6qzMYGgPcCzGKnCrO17QpFhe9giI/I04no3j46L+kjlWc5HcfUtZjbaL2CoRjhRTzyCp+oLCZ1/6TS3NfLSwhHYVJW9ihSt46T+xrUheaQztRhhrfOBjpbrtj42905cK703IQRibQaI3+7Iq4bWuYGCGnUqXNLMlqzinMzV88cJGklD4GonO940q0N/wR5ZT5DXqdNcov1Nf8Av/oJOQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30c6e8",
+      "4": "#30c6e8"
+    },
+    "sz": 30
+  }
+}
