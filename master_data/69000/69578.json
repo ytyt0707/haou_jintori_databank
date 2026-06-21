@@ -1,0 +1,48 @@
+{
+  "round_id": 69578,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-21T12:33:33.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂aaa] UN",
+      "team": "🍂aaa",
+      "emoji": "😂",
+      "score": "0.41",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[中立] キルレ1以下",
+      "team": "中立",
+      "emoji": "😣",
+      "score": "0.38",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂aaa",
+      "score": "0.41",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "中立",
+      "score": "0.38",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYBgFgy4EGGnmIhYWfEbjl8WncyjLMRHjeGa8ivDL4tUKlAQAIJsAGg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30c6e8",
+      "4": "#6ae830"
+    },
+    "sz": 30
+  }
+}
