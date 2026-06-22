@@ -1,0 +1,57 @@
+{
+  "round_id": 70110,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-22T08:18:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[美少女] 被害者はいつも女",
+      "team": "美少女",
+      "emoji": "🚺",
+      "score": "59.85",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[美少女] 小鳥遊六花",
+      "team": "美少女",
+      "emoji": "👁️‍🗨️",
+      "score": "16.18",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[磯野家] カツオ",
+      "team": "磯野家",
+      "emoji": "🐡",
+      "score": "9.23",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "美少女",
+      "score": "76.03",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "磯野家",
+      "score": "9.23",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG901sOhSAMBNDCtPvf8pU+bEvExJ9LDFEOM0QTAR3UxoxhuM2Bc1v3x+BnJTJ/Vnj47wo7+XDuWp7z8L6eeVfSXUNnu/dYWRnGFVJHU85N3lyzu7YoqhJEsgrMVBSAODODdZTNC41D24uFWm7NJaso4qV7tWkGe9izje9qcpXKX7WGPcu4m4WyW5WZ6aiKoev7kl5Zcf14P5ihCuo=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#e8ba30",
+      "5": "#30e892"
+    },
+    "sz": 30
+  }
+}

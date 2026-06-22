@@ -1,0 +1,66 @@
+{
+  "round_id": 69836,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-22T02:30:28.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "下級剣士",
+      "team": "",
+      "emoji": "🗡️",
+      "score": "23.41",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "14.35",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] ꧁バ ステト神꧂",
+      "team": "ラー軍",
+      "emoji": "🐈",
+      "score": "13.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] tkb",
+      "team": "猛虎軍",
+      "emoji": "🔅",
+      "score": "3.64",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "17.98",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "13.88",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkuESgzAIg2OBvv8jb4nYFVt3t/HHsx8kKQqw3OFXwQEPFcG2/qPhYadwbJST8LGxDUQAeKCA6R5qWhIXumijtdY4bTSow3BPakaHmcpwpgs8I8E0S8qD65mJIymT078UmXx17YIgWdGxuLVBG+tdHUlzUfkWndS0Wx6VCIQ5vAlw0tGAo9gP2vXNolJIecgflX6gklc4jSrbF4p4ttVsSYy78k90HuYfvNS41G3J78YXewMJWg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#7c4de5",
+      "5": "#ced411",
+      "6": "#e830dd"
+    },
+    "sz": 30
+  }
+}

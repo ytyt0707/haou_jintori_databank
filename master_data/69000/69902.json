@@ -1,0 +1,48 @@
+{
+  "round_id": 69902,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-22T06:04:29.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[風呂] 名無しVP",
+      "team": "風呂",
+      "emoji": "😀",
+      "score": "22.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "🚗",
+      "score": "7.96",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "風呂",
+      "score": "22.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "神撫子",
+      "score": "7.96",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHV0UkShTAIBFAacv8zWwxNBlN/81eyMj5ok2j2vRKYGaIum180ewDvr5J+Nx9oZjftPvlfR5Vnjg5GJReK6ljw0KEayM3kLIM1Csrs6CKOVFWy6xtv6m01XdGczSWT+7v14UVJAAL7AnLLk1O5/q2Yh4mBfRboo6YevOn79/Iirsnzjp2PYIR2oghkljdvLx4YmwYk",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#7c4de5"
+    },
+    "sz": 30
+  }
+}

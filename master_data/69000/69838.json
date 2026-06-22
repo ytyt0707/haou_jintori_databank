@@ -1,0 +1,51 @@
+{
+  "round_id": 69838,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-22T02:36:56.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "下級剣士",
+      "team": "",
+      "emoji": "🗡️",
+      "score": "13.15",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] ヒエログリフ",
+      "team": "ラー軍",
+      "emoji": "🪄",
+      "score": "9.11",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] ꧁バ ステト神꧂",
+      "team": "ラー軍",
+      "emoji": "🐈",
+      "score": "5.50",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "14.62",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkssWxCAIQyPQ///lOQmoVGd2QzfqbcJDgRbuubEZjbWlF25HXKbYSd3tgKD3Q+jmM09JADwVrnhrPQiTuJ3Ggpu+ccKkQGrHdKfpco4QHQOTh8TBvAhpB6PU6RzECCNuNCt+RAXNREss58iAVVXbuUhEsGQ1tPMCF26Jv1DWe3vzNK2J9TUt72dRNcapVGIOpMrSLNZQQv0K15Ba7ro+jut9Rfq10xtv2vOuHIX5mG4t36WCDS/JsdDL/UmPn/+//QAQuQRk",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30a3e8",
+      "4": "#7c4de5",
+      "5": "#7c4de5"
+    },
+    "sz": 30
+  }
+}

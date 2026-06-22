@@ -2,6 +2,146 @@
   "date": "2026-06-21",
   "task_history": [
     {
+      "timestamp": "2026-06-21T23:00:01.744489",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 69586,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-21T22:00:01.738381",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 69586,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-21T21:00:01.700760",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 69586,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-21T20:00:01.667315",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 69586,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-21T19:00:01.674863",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 69586,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-21T18:00:01.715678",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 69586,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-21T17:00:01.682151",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 69586,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-21T16:00:01.673104",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 69586,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-21T15:00:01.715474",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 69586,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-06-21T14:00:01.645917",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 69586,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
       "timestamp": "2026-06-21T13:00:01.814441",
       "status": "success",
       "error_reason": null,

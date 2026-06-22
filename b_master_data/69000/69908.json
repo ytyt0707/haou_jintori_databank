@@ -1,0 +1,72 @@
+{
+  "round_id": 69908,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-21T21:23:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しGt",
+      "team": "",
+      "emoji": "🤠",
+      "score": "28.54",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[美少女] 被害者はいつも女",
+      "team": "美少女",
+      "emoji": "🚺",
+      "score": "25.29",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[風呂] 名無しVP",
+      "team": "風呂",
+      "emoji": "😀",
+      "score": "0.13",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇳いばら] 茨城県",
+      "team": "🇻🇳いばら",
+      "emoji": "🌍",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "美少女",
+      "score": "25.29",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "風呂",
+      "score": "0.13",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇳いばら",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkgEKxDAIBI1X9/9PLq7RmDYUTiimjqtGIrIMNDMDYLRgmK7CAa2U1EmKiv48AYB/Z21UfsFH5TnMrGuNsnzF47CG9bryP+WwnOytTQZ5FvapUJs60JByGwc6dxRJtt84leWld4/oGEW32d4Uuq7ldGAssSqpulfSBsGomlN1Otyqr0Q8qaAxyIO6uJS+tiaOvhtteMVz3V38SfkY89VeF0+rbwL6SWswP2wJ88flp3jFvinTbk3cC6E=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#aad411",
+      "4": "#30e8c6",
+      "5": "#e89830",
+      "6": "#e830ba"
+    },
+    "sz": 30
+  }
+}

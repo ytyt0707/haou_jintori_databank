@@ -1,0 +1,74 @@
+{
+  "round_id": 70108,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-22T08:12:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[磯野家] ニャル子",
+      "team": "磯野家",
+      "emoji": "🏁",
+      "score": "55.72",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[磯野家] カツオ",
+      "team": "磯野家",
+      "emoji": "🐡",
+      "score": "21.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[磯野家] おふねさん",
+      "team": "磯野家",
+      "emoji": "⛴️",
+      "score": "14.28",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[磯野家] 野田草履",
+      "team": "磯野家",
+      "emoji": "🐖",
+      "score": "0.11",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[なきち] なきたいふーん！",
+      "team": "なきち",
+      "emoji": "🌪️",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "磯野家",
+      "score": "91.18",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk0kSRCEIQ7HThfe/cVcYAv9v2o3IIwxamplhlpmZu3OrNQyudbkiYLCgizYc5P6HRsDqKaRg6dtZpuGCLNPQfcZxJ7kPPJSSalDiOscmqtyLUvtSP6nUlXvRyFclMmw1VcUAfDWdsHLJAMxiwLyBrJI07L6rj/rJAhnYUgwlTgjjO9KWh3ZBIF45sFzLEF2+MTszoNkG4t5z1pGV5kipsK024qkDrvDdRtjnnEm3ac5DT9cai56IHfqQDi3Nm1r8lvgxOzbT2Q9+uw4z",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#6e4de5",
+      "6": "#6e4de5",
+      "7": "#6e4de5"
+    },
+    "sz": 30
+  }
+}

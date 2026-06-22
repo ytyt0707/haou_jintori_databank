@@ -1,0 +1,42 @@
+{
+  "round_id": 70214,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-22T13:56:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しEb",
+      "team": "",
+      "emoji": "🦄",
+      "score": "0.39",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳反乱軍] 特攻兵",
+      "team": "🇻🇳反乱軍",
+      "emoji": "🐷",
+      "score": "0.12",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳反乱軍",
+      "score": "0.12",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkUEOwCAIBBfq/9/cCDUCAk16KwfFHZYQBCTYhWr7dJC3rpmjEUIpwBAjEYUSNg0NvUIZQDMOdQktnN5VmN09zRxWa91vc9lGMf/cWFZVuh9abKSlY0A/Io4q70nFnlIV+58gQjFW0/Lv6Ab6BADC",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#30e881"
+    },
+    "sz": 30
+  }
+}

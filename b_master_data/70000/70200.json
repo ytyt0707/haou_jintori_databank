@@ -1,0 +1,75 @@
+{
+  "round_id": 70200,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-22T13:10:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無し9P",
+      "team": "🇯🇵ONJ",
+      "emoji": "👻",
+      "score": "35.56",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "30.31",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] BQT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "23.72",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇳反乱軍] 造反有理",
+      "team": "🇻🇳反乱軍",
+      "emoji": "🤪",
+      "score": "1.62",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "1.62",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "91.20",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳反乱軍",
+      "score": "1.62",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGN0QsOwjAMA9DNi9373xjl0zaDSayaNMTDqVskAZD8AQz+QYAof2qRgsHMDEaO62Kspc6hAK4reWUlBbIww8FjBNJMBMGZzZ3HCPde8P1qML2h1JTkkY3I0mRPRnTpPpOfMnqZTUXXam2bn3Wl54HjXZN3+o8e3Ve4it0wL3MP7q1WcJeWX3GuprP0pDn0OOpH9A2+tQ94rZLRp/W1J/8q2fXcsRhy07Mr88yrs5pGAb/MR/Ut4qa3Rq3Zuv6FrvFVVUt+r/IeNTNfH+M3ER8=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#9ca3af",
+      "5": "#9ca3af",
+      "6": "#9ca3af",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "round_id": 69718,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-21T20:07:44.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "24.25",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ナス] ヒムラー",
+      "team": "🇯🇵ナス",
+      "emoji": "🥴",
+      "score": "2.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無し0o",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦄",
+      "score": "1.07",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[小6] 一番弟子",
+      "team": "小6",
+      "emoji": "📛",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "25.31",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ナス",
+      "score": "2.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "小6",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkIEOxCAIQ2t78/8/eUHRQ/Q8kmVsj1IA6FFK8ezwukKg4KLFVVzuONNPGu7mm0r/fpJ7iSSq/X6ejaqH48ydSgCfTT2pRCbnwMw/UaxYyVdceNrJ1gmxUdWq9rSitLERC2+wUjk9QogMyn7Rqbcdf1LrR9U6554yS9yNHDjQztju2/LAXGmnV77vt61EHOhwlZAO2Bx8Jph6D42hA3oB3aYDtg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#d4c811",
+      "5": "#9ca3af",
+      "6": "#6e4de5"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 70002,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-22T11:28:47.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] ハトホル神",
+      "team": "ラー軍",
+      "emoji": "🐂",
+      "score": "65.86",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "20.80",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "65.86",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "熊谷市",
+      "score": "20.80",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlktsSgCAIRNHl/7+54SY0GjUTD4F72DBzjAi2IE8EAMGGw0gKjYZUs1jfaO2vtXmrUmuhRMy+y4qYOajKwImapkP41mBeBf6QViIiadspHIaD7ExyqdZcRrVyGmRGE1/o4wsegQ5saQvxi7bm9b1zzv1YvtEpsZmXFweIpJtRhHbPi5674g/LnYg6h1yGcwon",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#60d411"
+    },
+    "sz": 30
+  }
+}

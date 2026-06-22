@@ -1,0 +1,81 @@
+{
+  "round_id": 70196,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-22T12:57:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[@] @",
+      "team": "@",
+      "emoji": "🦄",
+      "score": "61.43",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] マンコ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "8.44",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しzB",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "8.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇳反乱軍] ニャル子",
+      "team": "🇻🇳反乱軍",
+      "emoji": "🏁",
+      "score": "0.11",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇻🇳反乱軍] 造反有理",
+      "team": "🇻🇳反乱軍",
+      "emoji": "🤪",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "@",
+      "score": "61.43",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "16.81",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇳反乱軍",
+      "score": "0.22",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkoEKAzEIQ20Xs///46FWqwzGYBPuWvtiLoUTEUoroDUi9BIA8Bcga5XCobGqBn22gG9Ww+Rk88PTWVVHrEhFwoDqUrVIeY+iEI2qwKY6BR7os0eRkCwamG5+8N67cDqW7zZqwRQ52lzpFFDAQiepzSZv6Dd6Y91RCvk4yryRlp9Rf0Jhgss6cVlcpgS1ySBjTfocp/9o0nl65WmuSWc/u9R8t36e/YnG/9V/ohbpBXXHD7Y=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#514de5",
+      "4": "#8B4513",
+      "5": "#8B4513",
+      "6": "#af30e8",
+      "7": "#514de5"
+    },
+    "sz": 30
+  }
+}

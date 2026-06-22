@@ -1,0 +1,81 @@
+{
+  "round_id": 69602,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-21T04:51:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] 野晒",
+      "team": "ラー軍",
+      "emoji": "🐲",
+      "score": "42.76",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] セシェフ神",
+      "team": "ラー軍",
+      "emoji": "🔥",
+      "score": "4.23",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] ケツメド神",
+      "team": "ラー軍",
+      "emoji": "🤪",
+      "score": "3.84",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[中立] キルレ1以下",
+      "team": "中立",
+      "emoji": "😣",
+      "score": "3.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] はじまん",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "0.15",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "50.83",
+      "kills": 23
+    },
+    {
+      "rank_position": 2,
+      "team_name": "中立",
+      "score": "3.01",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.15",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtU1EWwyAIQ8zw/jfeCwpo13U/48dImqRYCz1KvKIFBPKVO6nOhS1iolP7T3Z5PeX33vs1knsIgA50u309EZIsF18shGIvpf+R8NJi6e/0PKzWGPxRqkr/L2zYN1VY5oZJZrcXAIs2c4l7Dgc72HrQJ4SZlXhOPh1ocLIuXSQ4D7Ul9tg8u8UaU/bMwDbMxhj+RaJX65h1e2pAsiXYkEx66+xQhPze2bGImcm64Tvh+Bcr8qTN/6quSSa8AScjCwc=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83087",
+      "4": "#e83087",
+      "5": "#9ca3af",
+      "6": "#e83087",
+      "7": "#bcd411"
+    },
+    "sz": 30
+  }
+}

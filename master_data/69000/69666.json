@@ -1,0 +1,71 @@
+{
+  "round_id": 69666,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-21T17:19:01.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "9.34",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[風呂] 便所虫",
+      "team": "風呂",
+      "emoji": "🔵",
+      "score": "2.93",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] 野晒",
+      "team": "ラー軍",
+      "emoji": "🤠",
+      "score": "0.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "名無しdf",
+      "team": "",
+      "emoji": "😛",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "9.34",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "風呂",
+      "score": "2.93",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ラー軍",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkVkSBCEIQ4MM97/yVFgUtbvaH5VHICikFmKNvnBAAIm5NyoiIVcdqp6EiVkki6uqDtdutGFv0SHPrh4Ua+/b3I2ipzTVlALLckmnbWWPGY1DmAYovWn5yixKzAzCKsZbyUtrxoTVY/GKeULLqHjttukrOvcvKteEUypmr9Q42MP8PmgOZefbVWVa5qtsq3wEbOjH80bjKVvKB83Mq7LH3Qb8nx7eKk2G9PqFre8DjdoA+henm/XTVaUNJH93KwSf",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#d130e8",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "round_id": 69810,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-22T01:06:09.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] tkb",
+      "team": "🇯🇵山本組",
+      "emoji": "🔅",
+      "score": "87.25",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 名無しtz",
+      "team": "🇯🇵山本組",
+      "emoji": "🤖",
+      "score": "9.60",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "96.85",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVU1sOwCAI21buf+ZFAe0EifPDaB+kKgICQHRAh+1ExImJ8KpmWRnXtbdgUaY6Yed5Q6x+/oAacKUsRU0Kj6vNi5I5F9Ros18bybPBf8B1ujM2VxlKt8M6Z2fUyLI1sPQQpLN+tlfUVmerdrsbGj8DrH9hkLdpFu13K+2Pabk+O9u6FcALF88Nmw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e86430",
+      "4": "#e86430"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 70098,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-22T07:40:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[磯野家] タラオ",
+      "team": "磯野家",
+      "emoji": "🤠",
+      "score": "72.51",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[磯野家] ニャル子",
+      "team": "磯野家",
+      "emoji": "🏁",
+      "score": "18.40",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しRz",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.81",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "磯野家",
+      "score": "90.91",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.81",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkdESgEAERbWX///lhii0em1nmsW5rCAiorWWfeiHmJmXHUecJG+aIJRqZo49tlIAA9VnHy2A4iltPIkvWhI+aNV5bg16NtnvTi+/aKsRyamVZDpNkWzarI6I9MI2nJuGym/SWzBhnascI23FmivSWinc6bAnueIDje1ucexoC/E/3Q0luioTup0TpTYK5Q==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#e83053",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}
