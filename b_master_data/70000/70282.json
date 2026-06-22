@@ -1,0 +1,66 @@
+{
+  "round_id": 70282,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-22T17:36:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ころす] イスラム教徒",
+      "team": "ころす",
+      "emoji": "😆",
+      "score": "40.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ころす] しね",
+      "team": "ころす",
+      "emoji": "🦄",
+      "score": "23.95",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 陸遜",
+      "team": "猛虎軍",
+      "emoji": "😃",
+      "score": "16.45",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "10.26",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ころす",
+      "score": "64.19",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "26.71",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk+0WwyAMQnHGvP8j9wBR69Zt+dEPryCNNrMKwIgIIFgA0NrI7LMGS0xPrbVmymtuGmOAM62leY+IqeWDSlrSO9yUqx6US5cUCpUA5oiCcU0WaWYuqsxLzLBvsGxL60iy3l/rKalI6lB9j8dfuolW+9yoHU+puCzAmGckZVYoNm5he/PqHRL86COdyWcvbC1tsC2mmbZetBLA1sQ1wjafkPZzaE+KsFT0AS/nrFNzl8ai/YmWc+/fqU7lk5bOPrK1Fce6ci58AL2QGnb/BceUfxT4peXW32o5M+UFmjkOtg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83064",
+      "4": "#e88730",
+      "5": "#e88730",
+      "6": "#e83064"
+    },
+    "sz": 30
+  }
+}
