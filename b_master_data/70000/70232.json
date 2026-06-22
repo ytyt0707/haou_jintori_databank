@@ -1,0 +1,87 @@
+{
+  "round_id": 70232,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-22T14:54:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[磯野家] 100",
+      "team": "磯野家",
+      "emoji": "🌠",
+      "score": "17.34",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[大物] 偽syamu",
+      "team": "大物",
+      "emoji": "👽",
+      "score": "2.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[磯野家] カツオ",
+      "team": "磯野家",
+      "emoji": "🐡",
+      "score": "2.20",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無し3E",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "0.13",
+      "kills": 10
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[人狼] 人狼オンライン",
+      "team": "人狼",
+      "emoji": "😀",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "磯野家",
+      "score": "19.55",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "大物",
+      "score": "2.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.13",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "team_name": "人狼",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkFESwyAIRFcq9f437uxCKJr0v0zGER8PMWYtACWoiDQrTgg4zNJxrGVmsHLhzgMAthRsU9QVSnf65llQ5/ZS0Vo3jJUt7ZWbsl0+7wfwm5amTYzFdT+PLC9+hpqay5O5T1Ul46qtzt46jJH8S7WjNBiyO7xk0QPzv+oLN+ySYxAOH26XryHbvcRz5mPrOSqU6XMSdzNg9iU+4QCC3uDW52Ye9Gi70YP9R/oBadQEqA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e83064",
+      "5": "#e83064",
+      "6": "#d130e8",
+      "7": "#30e8a3"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 70228,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-22T23:41:36.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[磯野家] カツオ",
+      "team": "磯野家",
+      "emoji": "🐡",
+      "score": "78.57",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵お赤飯] はつしお",
+      "team": "🇯🇵お赤飯",
+      "emoji": "🤪",
+      "score": "0.58",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "磯野家",
+      "score": "78.57",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤飯",
+      "score": "0.58",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNj0EWgCAIREfh/mfugRUQhrmLlfJhmAFSsVVigEEO1PXHc4N6UV0Ou+HmF21mxm0u+QoKRonIPvKCv6sw2PSfmqqsjIugivrdi6K1cTTBM4qEmpWqauAZlV5I8jb0t/487MplLwZ6BbmEC/o4umv9AKZKC34=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#97d411",
+      "4": "#e230e8"
+    },
+    "sz": 30
+  }
+}
