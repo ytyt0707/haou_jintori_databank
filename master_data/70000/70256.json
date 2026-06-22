@@ -1,0 +1,48 @@
+{
+  "round_id": 70256,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-23T01:12:19.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[旅行記] バットゥータ",
+      "team": "旅行記",
+      "emoji": "🤔",
+      "score": "48.22",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪神羅馬] ルドルフ4世",
+      "team": "🇩🇪神羅馬",
+      "emoji": "🥰",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "旅行記",
+      "score": "48.22",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪神羅馬",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkNsOwzAIQ8m8///myQEDuUjtw0glIMemScw8ABtnJATgNNJs5ESF7zdqxVgNMxuD38UMOA22WUkpmAHDd50MykVns3ArzDkVXheGe7tE02wx1ghWcax1M7tHmsqjoBVctzjmfrrKaXPeaMP06o7hPencuVIdRr8tr+l9qkioUcwp00N3+JrGE6xedXFHtVt+pJv+P+0P9+4FSA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e892",
+      "4": "#7c4de5"
+    },
+    "sz": 30
+  }
+}
