@@ -1,0 +1,75 @@
+{
+  "round_id": 70654,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-23T13:42:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[甲殻類] おいしい",
+      "team": "甲殻類",
+      "emoji": "🦐",
+      "score": "23.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[甲殻類] カンニバル",
+      "team": "甲殻類",
+      "emoji": "🦀",
+      "score": "16.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[甲殻類] タコ",
+      "team": "甲殻類",
+      "emoji": "🦞",
+      "score": "15.45",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵長野県] 太郎",
+      "team": "🇯🇵長野県",
+      "emoji": "🐵",
+      "score": "8.31",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[甲殻類] 名無し9j",
+      "team": "甲殻類",
+      "emoji": "🤖",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "甲殻類",
+      "score": "54.84",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵長野県",
+      "score": "8.31",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk+ESgzAIg5kp2fu/8S6Bauu82/jhqR8hYPE4joNkZGbGV6QhBR+wabGmY4wRAQARJFtYYjEF7JIrJdmwuehU6+6iIyKKMpN1d6ONXUJFThzxjtyoxgbgDPV1o6RGMVXTm5QacKO7uKg6r3mbgq9uDIAHc2W3oTevwvIVnlo/o5XuCmjaMyjdUaknjSq9IMlJV9alnFYDnd4MfZ4zaI9FnECAtlZSd3DX6jWQ0PXy9cppNYpSdRZjYadoieogbnRuXpIaYrr6GE/m8gv6SbFII5Z2u4iwFuXhb9lt/n/6AL7vCuI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e85e",
+      "4": "#6ae830",
+      "5": "#30e8d7",
+      "6": "#30e85e",
+      "7": "#30e85e"
+    },
+    "sz": 30
+  }
+}
