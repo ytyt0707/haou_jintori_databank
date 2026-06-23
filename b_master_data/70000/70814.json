@@ -1,0 +1,48 @@
+{
+  "round_id": 70814,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-23T22:21:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[美少女] 女性よ、立ち上れ",
+      "team": "美少女",
+      "emoji": "🚺",
+      "score": "71.01",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇷🇺赤軍] 少佐",
+      "team": "🇷🇺赤軍",
+      "emoji": "🔨",
+      "score": "0.68",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "美少女",
+      "score": "71.01",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺赤軍",
+      "score": "0.68",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGl0kkSgCAMBEBi5v9vtiagDkvgIAfLorOBArLKuMQA/NExua881h61z570xOJzLnfek635iUi1Fkj5Yv1cybnGbCkfOu+Tt2NF5V3fyeQQmwPxMiNVwrtSy1yziHEkSvalGszM3eMjdo0AEjWZx0oEVNVx2ztzG6q2LWrcvzy+X03sBkAECjQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#30e881"
+    },
+    "sz": 30
+  }
+}
