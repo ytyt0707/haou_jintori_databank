@@ -1,0 +1,81 @@
+{
+  "round_id": 70482,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-23T13:25:08.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[磯野家] タマ",
+      "team": "磯野家",
+      "emoji": "🐱",
+      "score": "59.34",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しR9",
+      "team": "🇯🇵ONJ",
+      "emoji": "😎",
+      "score": "21.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "0.50",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無し7d",
+      "team": "🇯🇵ONJ",
+      "emoji": "😈",
+      "score": "0.50",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵稼殺] 稼ぎタイム殲滅",
+      "team": "🇯🇵稼殺",
+      "emoji": "😇",
+      "score": "0.19",
+      "kills": 13
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "磯野家",
+      "score": "59.34",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "22.13",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵稼殺",
+      "score": "0.19",
+      "kills": 13
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkOEOwyAIhE/B9f3fuDlgHQ5tlo4faPhyx6lqLUCAg1WZDBGRg01a++Y2jlZohlU7U1WdzJ12P5qV7wYPjnsPqqSvnMzpsOQ0nui1dwwxs5aDX1TEqf5OLVYYuHMOZfdMC3zrTbujuKN4TMGqOznhT/xL19aPnQF+5C4VHJMvXkRVqDeUeKm1hVQXGsS82ej8WZ6oXU/h7wss",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e83064",
+      "5": "#9ca3af",
+      "6": "#97d411",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

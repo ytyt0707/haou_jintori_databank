@@ -1,0 +1,48 @@
+{
+  "round_id": 70488,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-23T04:44:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 可乐",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥫",
+      "score": "23.40",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵稼殺] 稼ぎタイム成敗",
+      "team": "🇯🇵稼殺",
+      "emoji": "😉",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "23.40",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵稼殺",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1j9EWgCAIQ2H0/9/cAQUTk3ooXlLvNhbgIyIAZBpn1A8TNL0rFquGTVN6094eLUCPSebRNDduwiUu+8s76VwV1P5fn4xdsT4AaE9O01cphTVBqqmpt94XNK/76s4RdNeOefAQxuE/Sk97i1q8qXVYb6X78BJSTU+dHAOA",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#d4c811"
+    },
+    "sz": 30
+  }
+}

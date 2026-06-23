@@ -1,0 +1,48 @@
+{
+  "round_id": 70486,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-23T04:38:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[磯野家] タマ",
+      "team": "磯野家",
+      "emoji": "🐱",
+      "score": "5.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵稼殺] 稼ぎタイム成敗",
+      "team": "🇯🇵稼殺",
+      "emoji": "😉",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "磯野家",
+      "score": "5.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵稼殺",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkVEOgDAIQ9vh/c9sSgfq9NfED5dsQB+whZEkoTV6ZZgHyc0JDcdoLOJqUTdoiEnDldKPSjRNDCAeaEQIA3Ji7Vxi2hu2MNmZ1s1u54SjdT2slMu9EPVOruJKbDun2fHieNaL+Iffm8D9Z1974w6MYAE7",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#604de5",
+      "4": "#30e8b4"
+    },
+    "sz": 30
+  }
+}

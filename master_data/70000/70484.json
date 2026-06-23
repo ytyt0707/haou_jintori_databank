@@ -1,0 +1,101 @@
+{
+  "round_id": 70484,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-06-23T13:31:37.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[磯野家] タマ",
+      "team": "磯野家",
+      "emoji": "🐱",
+      "score": "19.82",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵稼殺] 稼ぎタイム殲滅",
+      "team": "🇯🇵稼殺",
+      "emoji": "😇",
+      "score": "18.57",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "14.66",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪親J隊] 少尉",
+      "team": "🇩🇪親J隊",
+      "emoji": "🦁",
+      "score": "8.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 名無しcP",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "5.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] たぬきち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "19.99",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "磯野家",
+      "score": "19.82",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵稼殺",
+      "score": "18.57",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇩🇪親J隊",
+      "score": "8.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGN0VmOwzAMA1DZgize/8SFVi+DAKOPos0LaSUlyhnnIH/QWivcLmhcVYAAGmNdkxGFzXiVnFUVDCJ6strDnr6KV6OqcWVtuXUimBHnktuRU2WGaT0uXajWzMyuqn+RgdY36dWhIoVVwTlEJIcml0pMhnML25jtIzW7TeecALmiNLgQgL/KVuN8+AlgmnezSJnlmScw9VDJZCjz5A/1nWyvfa4c4ed5/aZdHXo1i1D8KV18NXd1Fbfa2/7WE6mr/7vz3ti+xdE7e6ux6qf6zT9KNw1o",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "5": "#30e870",
+      "6": "#e83098",
+      "7": "#aad411",
+      "8": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
