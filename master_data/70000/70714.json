@@ -1,0 +1,48 @@
+{
+  "round_id": 70714,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-24T01:57:31.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] 名無しGq",
+      "team": "ラー軍",
+      "emoji": "🧭",
+      "score": "43.16",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "21.80",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "43.16",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "21.80",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk1kOBCEIREG5/5knLAICbcaPjuFRBagN8F5EL26UZEHL1Xh81WrvvXkXcdsBADPFjRqaqSvFumrDmAu/qWHPup097C2ftmS2Yh3akR6pnEZzvmgxJofTQIlOOGmJatmkHe/IxX0isTL+B22VT2nRFnqfJJW+436nnpnqw2rOEkB7dUrT++AAIqLMdChA+iMuulbkpJ3c7vqAkvcDLT0Iag==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#c030e8",
+      "4": "#e83042"
+    },
+    "sz": 30
+  }
+}
