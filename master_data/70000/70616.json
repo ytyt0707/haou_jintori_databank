@@ -1,0 +1,93 @@
+{
+  "round_id": 70616,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-06-23T20:39:40.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[姉妹兵] シエスタ00",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "33.64",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ハゼ] ハゼ太郎",
+      "team": "ハゼ",
+      "emoji": "🐟",
+      "score": "19.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] いただきマウス",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "13.17",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪謝肉祭] コマ肉",
+      "team": "🇩🇪謝肉祭",
+      "emoji": "🪓",
+      "score": "1.07",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇫🇷BLK] 少尉",
+      "team": "🇫🇷BLK",
+      "emoji": "🧊",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "姉妹兵",
+      "score": "33.64",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ハゼ",
+      "score": "19.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "13.17",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇩🇪謝肉祭",
+      "score": "1.07",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇫🇷BLK",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kQsShDAIQ1M31PvfeIdPLFZ3GcfaPkOAks+YCjwZKTjBF97oLj66dpcedxrYDaxMgCvzBEj4S4GdfhrFRn2/8Du9WittmqcSMLOsb89sFYz6elETY4halb0amihI0gr3fpO6TLRpF9Q42pzLV2S3Ps9TqK1W3j8os7FG8yqiNtOQ1ogzc3YvSo545FqzER4eXee8QSZdIzUbwgBS6veUMToEAd+/MoCIvy14y6nPpC7WyW11HJlvp/83X7/TC5M=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#514de5",
+      "4": "#e83064",
+      "5": "#8B4513",
+      "6": "#d4c811",
+      "7": "#85d411"
+    },
+    "sz": 30
+  }
+}

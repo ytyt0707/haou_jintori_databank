@@ -1,0 +1,62 @@
+{
+  "round_id": 70604,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-23T20:00:45.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] けんた",
+      "team": "なきち",
+      "emoji": "🙄",
+      "score": "49.11",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇦麻] 原彰晃",
+      "team": "🇨🇦麻",
+      "emoji": "🍆",
+      "score": "1.68",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇷🇺赤軍] 一般兵",
+      "team": "🇷🇺赤軍",
+      "emoji": "💩",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "49.11",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇦麻",
+      "score": "1.68",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇷🇺赤軍",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1klESxCAIQwPm/mfeCSojrvzt2pnW8kia0oIASQCwe7kLLfrAT+rubub21ArOdWoB08HNtjRSKZgyJCx05is4S+cm1eu5J5M3SqpKyaCIQd1I9xpeC8kRDS8hOcYIfUuF31DaEDdY5vPjtg0zeJ6vvqyvTcV/o7dxff2f0mL95bzovtxc41Atf4CzIWbV0uycDh8LbQfj",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#73d411",
+      "4": "#30c6e8"
+    },
+    "sz": 30
+  }
+}
