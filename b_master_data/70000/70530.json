@@ -1,0 +1,72 @@
+{
+  "round_id": 70530,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-23T07:00:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[磯野家] カツオ",
+      "team": "磯野家",
+      "emoji": "🐟",
+      "score": "64.13",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇰🇷慶尚道] ティンコゥ",
+      "team": "🇰🇷慶尚道",
+      "emoji": "🐷",
+      "score": "1.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[磯野家] ニャル子",
+      "team": "磯野家",
+      "emoji": "🏁",
+      "score": "0.40",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪親j隊] 一般兵",
+      "team": "🇩🇪親j隊",
+      "emoji": "😀",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "磯野家",
+      "score": "64.53",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇰🇷慶尚道",
+      "score": "1.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇩🇪親j隊",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkVEOhDAIRKeL4/2PbJCiAzabNVk+auGVAWSMMGJlEw7e2MyAcG+a3MyMpwFKSYKgQ1Qcr9uZuTU8lTmlK2RSnnUbrPQBMzfqNpwTEaOR4sZcJSTOT3T9COvwFP9GfaPSQ7nGtkuI5O6Lusypr03sYitlgZrk9111N6UhrqlPKj29qDvbTunP8m8k9a/M2XL/TrUsDh/rC/I=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30a3e8",
+      "4": "#604de5",
+      "5": "#e83064",
+      "6": "#e83064"
+    },
+    "sz": 30
+  }
+}

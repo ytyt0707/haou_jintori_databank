@@ -1,0 +1,81 @@
+{
+  "round_id": 70542,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-23T07:39:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[SOS] しー",
+      "team": "SOS",
+      "emoji": "😆",
+      "score": "42.56",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[SOS] きょん",
+      "team": "SOS",
+      "emoji": "😆",
+      "score": "41.64",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "4.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "ふぁん太オレん家",
+      "team": "",
+      "emoji": "🐱",
+      "score": "1.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵稼殺] アルカナディア",
+      "team": "🇯🇵稼殺",
+      "emoji": "🌆",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "SOS",
+      "score": "84.20",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "熊谷市",
+      "score": "4.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵稼殺",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klsWxCAIQ2Ea7P533BNAxD6GH6mXBHBGTDzsLUSM+A2ZGe+/2D/idt9CYjHDR9d2fbZ8pRLK81z46ZUUMECw858FRcUyZwZX+cmKmnS6hIxljNTmVKXaqXGOzsZwbap5pMCPMcgN8RPA37I4IWlELFcQYTznWveZedsUy52mtjn3ipBOyL4bjYUci9ysObE/K/EOVRH75MidqgbFcbCV/4+rpwKqJb1TkNI5671xaZlo+3qO1aC/dIzVNVnxvvCUh/EFmRkO/A==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e88730",
+      "4": "#85d411",
+      "5": "#85d411",
+      "6": "#604de5",
+      "7": "#e830ba"
+    },
+    "sz": 30
+  }
+}

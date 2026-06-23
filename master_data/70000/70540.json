@@ -1,0 +1,62 @@
+{
+  "round_id": 70540,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-23T16:33:14.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[SOS] きょん",
+      "team": "SOS",
+      "emoji": "😆",
+      "score": "60.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] アルカナディア",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "6.17",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "SOS",
+      "score": "60.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "6.17",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "熊谷市",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkVEOwzAIQ50I7n/lzThko82QpvLRKHn1C7RA1BhcRhTmLngUwaYfvKhCK3ujcDMxSq5mN9bi2HiZ/6IZPmevlOpsi6Orscy6n/gXjaGid7P4gHPqU+m5CJcDjbEAmLloimPNEE2Bk+4LwBP8ovnaOZtU6r2jrhTT5aBseqruSqBuGvPTbKvuRmoulvOBWb8Crvur6M1eldUMdg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#8B4513",
+      "5": "#60d411"
+    },
+    "sz": 30
+  }
+}
