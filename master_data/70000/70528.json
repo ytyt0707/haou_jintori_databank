@@ -1,0 +1,57 @@
+{
+  "round_id": 70528,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-23T15:54:19.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[磯野家] カツオ",
+      "team": "磯野家",
+      "emoji": "🐟",
+      "score": "23.11",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しcf",
+      "team": "",
+      "emoji": "😀",
+      "score": "17.55",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪親j隊] 一般兵",
+      "team": "🇩🇪親j隊",
+      "emoji": "🤔",
+      "score": "13.06",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "磯野家",
+      "score": "23.11",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪親j隊",
+      "score": "13.06",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkVEOBCEIQ+ti73/lTRERjNlk+ZlpHi2owEeFrFkLTpMBFc5Fw0u8KE5ys8421swuqugYa6qG6z4/KZ6UURBuwRPYkDQzkpUXquCfVDlvb1gb3sm+r4Jf3gVNF12xe4OZWaHrnuhHWQ2C23tTyOrJeuWbOgQwFvDWE0wthTFGYp1hL5wwG4LqAXi82368PoxkGv0AKzoWUTP73CD6OD1a8iinRaq/SLLJQvy3R930H/0FNJIH5A==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30a3e8",
+      "4": "#e83087",
+      "5": "#aad411"
+    },
+    "sz": 30
+  }
+}
