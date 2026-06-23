@@ -1,0 +1,48 @@
+{
+  "round_id": 70600,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-23T10:47:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇪🇸宣教師] カルヴァン",
+      "team": "🇪🇸宣教師",
+      "emoji": "😟",
+      "score": "62.25",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇷🇺赤軍] 一般兵",
+      "team": "🇷🇺赤軍",
+      "emoji": "🐷",
+      "score": "5.29",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇪🇸宣教師",
+      "score": "62.25",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺赤軍",
+      "score": "5.29",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkUESQyEIQyNy/zN3jBjEardl4QDP8PMRluHuWOEjACzK+jhEj/4sk/YL1+DOqDcknbDoAdkKKkzvv+m4wl+6a80KlauYPJfBbtdXuSZ3j01JU5NNWgErUlxAUBieFGbD3kNM+GDT8w5b2ysO1eDmrWCBXaL8bzQ3kVm64kPGoe5KdvgtrvTgJ1wPculHy+FjR6P6AIXECj4=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#4d81e5"
+    },
+    "sz": 30
+  }
+}
