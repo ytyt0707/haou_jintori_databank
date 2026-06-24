@@ -1,0 +1,81 @@
+{
+  "round_id": 71002,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-24T17:31:20.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "26.18",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "16.98",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] トラッキー専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "14.57",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "稼ぎ殺し",
+      "team": "",
+      "emoji": "🖤",
+      "score": "8.38",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵稼殺] 稼ぎタイム絶命",
+      "team": "🇯🇵稼殺",
+      "emoji": "😉",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "40.75",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "熊谷市",
+      "score": "16.98",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵稼殺",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkAsOwzAIQ0kw2f1vPNmQT9tNmjS0SWkeNg5mVa01A2Ddepbu4SpLyK8LLewNrAU7tbqQujVydzuteZGVGE6qP8UTukPm9Aa6nJOaWjT4xXZ4vQS+1ECkERa1Td03LbHv1JUgX5bW+cgdjVNZ/9BUx2Ouc4FlHb63NU9zqnEP0K/SMF+twsx8yEcrwdyHErNpZMmUVAuZYycdWu+mZV7aoQQR1EZELWNp2Ux41J77AcaiGnPI8jgz/0AtbpMv2keuojJ+BqtY36mNxe4vPsCn4xtCxAnh",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#ced411",
+      "5": "#e83042",
+      "6": "#30e870",
+      "7": "#30e8e8"
+    },
+    "sz": 30
+  }
+}

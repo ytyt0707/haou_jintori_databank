@@ -1,0 +1,51 @@
+{
+  "round_id": 71000,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-24T17:24:50.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "稼ぎ殺し",
+      "team": "",
+      "emoji": "🖤",
+      "score": "2.55",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "0.14",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "網走刑務所",
+      "team": "",
+      "emoji": "🏀",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVjzkOwDAIBBdI/v/lCINjWYK1UobGxzAcwJcwY9lGMYU4uXXje4wTrmo9W/RtYCqtG5zKr3tt/WNg9dj+45HrcIraneU6KpFQYxFJPsus01kLQSmDg5HKzAVvC+drgZ/eHnH6AKg=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#994de5",
+      "5": "#30e870"
+    },
+    "sz": 30
+  }
+}
