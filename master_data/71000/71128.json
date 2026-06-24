@@ -1,0 +1,75 @@
+{
+  "round_id": 71128,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-25T00:19:55.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] PMラジオ局",
+      "team": "🇯🇵ONJ",
+      "emoji": "😣",
+      "score": "59.97",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "5.35",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "稼ぎ殺しEX",
+      "team": "",
+      "emoji": "🖤",
+      "score": "4.57",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] mn",
+      "team": "みん²",
+      "emoji": "🤔",
+      "score": "1.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤍",
+      "score": "0.42",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "65.32",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "1.56",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kgsShCAMQ9sS4P433kk/MCpsZ1TkkTSgJiJmEgVABsYYHLDMzC8RaQAw2mAltiigRVGZGK5tMEvWGhLTB3T1wcZb69Rou5xTvLRmYKDsy2mPVaHDm9gVjnNLko2jO++q4JbiCFJZMlJdUPZ0ylW1zuoNXUocxi9pUtU7xVWr0Tatw3kHX9Q7f/vWDDvjmzqwx6qV7+clcy470urTg9br03n2OY9qLut9zjljz0+Zv3WQuvpAY+rq7TiTnaPlV+SRnaq0/2j9CWttDX4D3Qqe",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#97d411",
+      "6": "#994de5",
+      "7": "#97d411"
+    },
+    "sz": 30
+  }
+}
