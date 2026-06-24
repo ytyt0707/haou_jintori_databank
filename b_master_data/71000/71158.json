@@ -1,0 +1,84 @@
+{
+  "round_id": 71158,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-06-24T16:57:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 凍結",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥶",
+      "score": "16.12",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "12.79",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "11.31",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[みん²] イスラム教徒",
+      "team": "みん²",
+      "emoji": "😆",
+      "score": "0.50",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤍",
+      "score": "0.18",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[みん²] 芙羽",
+      "team": "みん²",
+      "emoji": "🥐",
+      "score": "0.14",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "40.22",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "0.82",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFklGSxCAIRDvMQLj/ibcaDKDZqvFDCc9uUAMcQ0zEOHEUc3e4u1sOVVV/qLstbGbXdV0i4j6lVKaUTOT7LwWyahkDFC0tjI3pZ3NmN21ubHHUzV6jO4b3PWlChIOq6UYjbchFDXartnO0BWhYcOZ1VN0lihynGJO6OXMAYlFFi+M0j9uzljiOWn20KjcErb1nEM5nsr5/09r6Clj3THZvbzqOpS+6bib9zL2NeEsbjd+jC5PNZ4DyaRZPOM1Wpt5h10al2hJBV4poh8M59234kOY5+O5p/AeYLwlO",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e89830",
+      "4": "#e89830",
+      "5": "#9ca3af",
+      "6": "#9ca3af",
+      "7": "#e89830",
+      "8": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

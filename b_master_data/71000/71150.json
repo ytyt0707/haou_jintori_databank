@@ -1,0 +1,66 @@
+{
+  "round_id": 71150,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-24T16:31:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 凍結",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥶",
+      "score": "34.17",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "13.62",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵稼殺] 稼ぎタイム討伐",
+      "team": "🇯🇵稼殺",
+      "emoji": "😉",
+      "score": "3.12",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] ビタミン療法",
+      "team": "🇯🇵ONJ",
+      "emoji": "😣",
+      "score": "0.18",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "47.97",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵稼殺",
+      "score": "3.12",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk4mOxCAMQ3Ms/v9PHtkJEDQaaaOqpH04mMusAwAq7WYDtoTigH3jptUEY2gnFPtJkcXzqIc2FRGRGw+IotWl1INuGKwvGoO2Ng6NyIFLfCcVmQM3RcZS4b+HQj2Tlc3N3F7amK7c3Uif0nSRaMpxD915wiLcnJWv56zC6JVy9wHN6iP3Onr/kH7X2fBuvbCkR8kZA1hryWgZGMpzbADa47P3Tot1HPfMflBkLoY099VqM8GX6ojqvAriGfaWoJSuxp+ZcsxzKSYY+fdlGPC/6QcPxAmo",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#e83042",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
