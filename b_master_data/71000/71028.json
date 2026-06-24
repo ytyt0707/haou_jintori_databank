@@ -1,0 +1,90 @@
+{
+  "round_id": 71028,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-06-24T09:55:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "うんこまん",
+      "team": "",
+      "emoji": "🍏",
+      "score": "22.73",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[火星] UFO",
+      "team": "火星",
+      "emoji": "🛸",
+      "score": "14.93",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "Λαγωός",
+      "team": "",
+      "emoji": "🐰",
+      "score": "13.55",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇷🇺赤軍] 西郷従道",
+      "team": "🇷🇺赤軍",
+      "emoji": "🗡️",
+      "score": "10.98",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇷🇺赤軍] 少佐",
+      "team": "🇷🇺赤軍",
+      "emoji": "🔨",
+      "score": "1.50",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] 名無しeQ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "1.00",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "火星",
+      "score": "14.93",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺赤軍",
+      "score": "12.48",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVkSBCEIQ9OgyP1PPBUQ6aVq+LCXR8Ii8A0zsyvixuaEKohUlRBX0zlVVecMqEwyOzRYcB7hXdQM/MdgVuiu0BoMN6qTTNhX+W6aBmZjiF+jINDONJYh7n60MJzCqtSKe1vDlHjGWJAxhF0fb25AdbJFmIiQmhTOHXAWIhFx6pPGgDZj0pQ5Y2uT7jXwI6D7WmshVp8ZeW4YtPHOK1j0oT7wPzXWXXhUbqkE7cLdLnPwoa280dOWu5xxs6ssfS++HdI5GqvevIs/ad1JFS8az4LAy/lFmed5C0ff2nh7US6tI7XA2kt5Urj/AE/bDo8=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#9ca3af",
+      "5": "#e84230",
+      "6": "#bcd411",
+      "7": "#30e881",
+      "8": "#c030e8"
+    },
+    "sz": 30
+  }
+}
