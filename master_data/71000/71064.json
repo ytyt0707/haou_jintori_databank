@@ -1,0 +1,66 @@
+{
+  "round_id": 71064,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-24T20:52:26.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "27.56",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[熊谷市] 名無しl8",
+      "team": "熊谷市",
+      "emoji": "🏴‍☠️",
+      "score": "12.23",
+      "kills": 13
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😶",
+      "score": "0.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵阪神] 名無し8x",
+      "team": "🇯🇵阪神",
+      "emoji": "😀",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "熊谷市",
+      "score": "39.80",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵阪神",
+      "score": "0.30",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGV0lEOxCAIBNCBxb3/kTeDDtjaNFm+Wp8gxQKvEUfs2w/kQm140oUBf9JOften5KFz3SNwz7/oHaOUbR3FW+GMiPhWidGamNzaX5RqhohP8pixupaq8aUqTjbPvUyWiuFmNiu1xmzNLHVy60i1FV16ry30ycAoBTCVnWnyh4IDO3SsXNDER64VsYBO1rmsrMKcWU6EC9lVCR82TL0gva5QM9x39L+xBrwjUDdwXf7v7QdHUQbM",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8b4",
+      "4": "#30e84d",
+      "5": "#30e84d",
+      "6": "#30e8b4"
+    },
+    "sz": 30
+  }
+}
