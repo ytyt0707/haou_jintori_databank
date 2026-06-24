@@ -1,0 +1,65 @@
+{
+  "round_id": 71030,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-24T19:02:06.0000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[火星] 名無しPH",
+      "team": "火星",
+      "emoji": "😝",
+      "score": "46.28",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[火星] カップ焼きそば",
+      "team": "火星",
+      "emoji": "😀",
+      "score": "27.14",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[火星] UFO",
+      "team": "火星",
+      "emoji": "🛸",
+      "score": "20.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無しuP",
+      "team": "🇯🇵ONJ",
+      "emoji": "😎",
+      "score": "1.80",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "火星",
+      "score": "93.68",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.80",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtklsWxCAIQzkTYP9LnkkAq2P5aeUaXuIOfwwA3NyjzF2OucIDgIYRolTQGr7R5+ZFly5iC9yRGdXKbY9yRVPKVQx/WEdUyApB5yinS9U7fRAO0Bc6Kmn9HpSDoSMcfzpd62I0v1NHTZvGdSZ9YI/hFI+SzaibA190j20b7Uls733TfkwmsJPW+05m+EGZRReKA+90NuWVhihetNU1AsoRtzoi1ee+nKtxJCG0EMs5PxxnZtU+izKsViczteJXVl5LGhs/6KcjZEbThc3MUgVxvDz97At4og64",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#30e85e",
+      "4": "#30e85e",
+      "5": "#30e85e",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
