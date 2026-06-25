@@ -1,0 +1,90 @@
+{
+  "round_id": 71428,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-06-25T07:32:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] Λαγωός",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐰",
+      "score": "28.82",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇷🇺赤軍] 名無しPh",
+      "team": "🇷🇺赤軍",
+      "emoji": "😎",
+      "score": "25.52",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無し2L",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐢",
+      "score": "11.03",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "4.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇷🇺赤軍] 中尉",
+      "team": "🇷🇺赤軍",
+      "emoji": "🔨",
+      "score": "3.61",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] 名無しnD",
+      "team": "🇯🇵ONJ",
+      "emoji": "👻",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "39.95",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇷🇺赤軍",
+      "score": "29.13",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "4.19",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkUkSwyAMBIXMoPz/xakZCQxOLqmKDl7Ubi0YgLsp3A0OYGAMd2XBeOlK4GOGlJmngkmGZDNbdCNig/J3yg5mrU16qHwhXO5GwyK4RHu4ZhYZYqLXxV2yWlHtL/dikColVU9ZWZQ4c9mzZKAomNA0oaY5VcILovpCn+RYp1u05T6cWTJ2d26bG+m8NEct3HvvjTFPcmsbQSq+qErXSSXtmwugWEw57sqca2HJcdJbJo2I9QfVf7n18AN9qkflDxix7ftfus/8WbmzcWR70fmr8v4GP60POg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#e88730",
+      "5": "#9ca3af",
+      "6": "#9ca3af",
+      "7": "#e88730",
+      "8": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
