@@ -1,0 +1,66 @@
+{
+  "round_id": 71380,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-25T04:57:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[磯野家] カツオ",
+      "team": "磯野家",
+      "emoji": "🏠",
+      "score": "24.31",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[磯野家] おふねさん",
+      "team": "磯野家",
+      "emoji": "⛴️",
+      "score": "18.40",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "8.02",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] も",
+      "team": "猛虎軍",
+      "emoji": "😍",
+      "score": "1.71",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "磯野家",
+      "score": "42.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "9.73",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFktGuBCEIQ8ug/P8n37SgOO7dLA8Tk0MrxTFjQRV34YC4YYTZs6RAxNVh9jzpy2/o0x5vel/fttuhpfikDQNvfBAemzrrN+1QoJabkjK1DKZKaIXknJN/oTtWHrhndy/rC+oVtnPBejKMF9WWWz7G4MgrqXsjYIhmHE55UjI6V9qgw9KKnVSjLSpbUQNcwk8xnXMsaZd1Os/865KkNhuI59QrNOQVunsmzUUe3IHJUiIcL6QeSpNp5lO3Eq+8++GrKRNvejnXPoR5/s+5evAHrjwITg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8e8",
+      "4": "#e830ba",
+      "5": "#e830ba",
+      "6": "#30e8e8"
+    },
+    "sz": 30
+  }
+}
