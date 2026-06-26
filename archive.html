@@ -363,7 +363,7 @@
         .hour-title {
             font-size: 0.8rem;
             font-weight: bold;
-            color: var(--gold);
+            color: var(--text-main);
             border-bottom: 1px solid #333;
             padding-bottom: 2px;
             margin-bottom: 5px;
@@ -387,6 +387,12 @@
         .match-id-btn:hover {
             background: var(--deep-blue);
             color: #fff;
+        }
+        .match-id-btn.active {
+            background: var(--deep-blue);
+            color: #fff;
+            border-color: var(--deep-blue);
+            box-shadow: 0 0 4px var(--deep-blue);
         }
         .timeline-panel-title {
             font-size: 0.85rem;
@@ -426,6 +432,7 @@
                 <div class="search-group-vertical">
                     <input type="date" id="input-match-date" value="2026-01-02" onchange="assistDateSearch()">
                     <span id="date-assist-result" class="date-hint"></span>
+                    <button class="btn" id="btn-open-in-timeline" style="display:none;" onclick="openDateInTimeline()">📅 タイムラインでこの日を開く</button>
                 </div>
             </div>
 
@@ -538,6 +545,7 @@
             let tDay = String(today.getDate()).padStart(2, '0');
             let tAMPM = "PM";
             let tData = {};
+            let tFullData = null; // JSONを一度だけ読み込んで保持
 
             function updateDateDisplay() {
                 document.getElementById('current-date-display').innerText = `${tYear}/${tMonth}/${tDay}`;
@@ -550,7 +558,7 @@
                 tMonth = String(d.getMonth() + 1).padStart(2, '0');
                 tDay = String(d.getDate()).padStart(2, '0');
                 updateDateDisplay();
-                fetchTimeline();
+                applyDayData();
             };
 
             window.setTimeRange = function(mode) {
@@ -560,23 +568,72 @@
                 renderTimeline();
             };
 
-            async function fetchTimeline() {
+            // 外部（日付補助ボタン）からこの日に移動するための関数
+            window.jumpTimelineTo = function(dateStr) {
+                // dateStr は "2026-05-24" 形式
+                const parts = dateStr.split('-');
+                tYear = parts[0];
+                tMonth = parts[1];
+                tDay = parts[2];
+                updateDateDisplay();
+                applyDayData(true); // true = 最初のIDを自動表示
+            };
+
+            // 現在のタイムラインのハイライトを更新する（loadMatchData後に呼ばれる）
+            window.updateTimelineHighlight = function(matchId) {
+                document.querySelectorAll('.match-id-btn').forEach(btn => {
+                    btn.classList.toggle('active', parseInt(btn.innerText) === parseInt(matchId));
+                });
+            };
+
+            async function ensureFullData() {
+                if (tFullData) return true;
                 const url = `./analysis_data/id_time_button_2026/id_time_button.json`;
                 const container = document.getElementById('timeline-hours-container');
                 container.innerHTML = '<div style="color:#94a3b8; font-size:0.8rem;">⏳ 読込中...</div>';
                 try {
                     const res = await fetch(url);
                     if (!res.ok) throw new Error();
-                    const full = await res.json();
-                    if (full[tYear] && full[tYear][tMonth] && full[tYear][tMonth][tDay]) {
-                        tData = full[tYear][tMonth][tDay];
-                    } else {
-                        tData = {};
-                    }
+                    tFullData = await res.json();
+                    return true;
                 } catch(e) {
+                    tFullData = null;
+                    return false;
+                }
+            }
+
+            async function applyDayData(autoLoadFirst) {
+                const ok = await ensureFullData();
+                if (ok && tFullData[tYear] && tFullData[tYear][tMonth] && tFullData[tYear][tMonth][tDay]) {
+                    tData = tFullData[tYear][tMonth][tDay];
+                } else {
                     tData = {};
                 }
                 renderTimeline();
+
+                // autoLoadFirst=true のとき、その日の最初のIDを自動で読み込む
+                if (autoLoadFirst) {
+                    const allHours = Object.keys(tData).sort();
+                    for (const h of allHours) {
+                        const matches = tData[h];
+                        if (matches && matches.length > 0) {
+                            const firstId = matches[0].id;
+                            currentMatchId = firstId;
+                            document.getElementById('input-match-id').value = firstId;
+                            loadMatchData(firstId);
+                            // 午前/午後も自動切り替え
+                            const hourNum = parseInt(h);
+                            const mode = hourNum < 12 ? 'AM' : 'PM';
+                            if (tAMPM !== mode) {
+                                tAMPM = mode;
+                                document.getElementById('btn-am').classList.toggle('active', mode === 'AM');
+                                document.getElementById('btn-pm').classList.toggle('active', mode === 'PM');
+                                renderTimeline();
+                            }
+                            break;
+                        }
+                    }
+                }
             }
 
             function renderTimeline() {
@@ -606,6 +663,10 @@
                         const btn = document.createElement('button');
                         btn.className = 'match-id-btn';
                         btn.innerText = match.id;
+                        // 現在選択中のIDならハイライト
+                        if (parseInt(match.id) === parseInt(currentMatchId)) {
+                            btn.classList.add('active');
+                        }
                         btn.onclick = () => {
                             currentMatchId = match.id;
                             document.getElementById('input-match-id').value = match.id;
@@ -625,7 +686,7 @@
             // 初期化
             window.addEventListener('load', function() {
                 updateDateDisplay();
-                fetchTimeline();
+                applyDayData();
             });
         })();
 
@@ -635,10 +696,10 @@
         // =======================================================
         const SHOW_SAVE_BUTTON = true;
 
-        let currentMatchId = 35800; 
+        let currentMatchId = null; // 初期値はnull（後でAPIから取得）
         let lastDecodedMapBytes = null;
 
-        window.onload = function() {
+        window.onload = async function() {
             // フラグに基づく保存ボタンの非表示処理
             if (!SHOW_SAVE_BUTTON) {
                 const saveContainer = document.getElementById('saveBtnContainer');
@@ -647,9 +708,27 @@
 
             const urlParams = new URLSearchParams(window.location.search);
             const idParam = urlParams.get('id');
+
             if (idParam) {
-                currentMatchId = parseInt(idParam) || currentMatchId;
+                // URLにIDが指定されている場合はそれを使う
+                currentMatchId = parseInt(idParam);
+            } else {
+                // 最新IDをid_timeline.jsonから取得する
+                try {
+                    const res = await fetch('./analysis_data/id_timeline.json');
+                    if (res.ok) {
+                        const data = await res.json();
+                        // 全日付のIDを走査して最大値を求める
+                        let maxId = 1;
+                        Object.values(data).forEach(range => {
+                            if (Array.isArray(range) && range[1] > maxId) maxId = range[1];
+                        });
+                        currentMatchId = maxId;
+                    }
+                } catch(e) {}
+                if (!currentMatchId) currentMatchId = 35800; // フォールバック
             }
+
             document.getElementById('input-match-id').value = currentMatchId;
             loadMatchData(currentMatchId);
         };
@@ -658,36 +737,45 @@
         let timelineCache = null;
 
         async function assistDateSearch() {
-            const hintSpan = document.getElementById('date-assist-result'); // [cite: 94]
-            const inputDate = document.getElementById('input-match-date').value; // [cite: 67, 94]
+            const hintSpan = document.getElementById('date-assist-result');
+            const inputDate = document.getElementById('input-match-date').value;
+            const openBtn = document.getElementById('btn-open-in-timeline');
             
             if (!inputDate) return;
 
             hintSpan.innerText = "⏳ 検索中...";
             hintSpan.style.color = "#94a3b8";
+            openBtn.style.display = 'none';
 
             try {
-                // 💡 Vercelの同階層（ルート）から正しくフェッチするようにパスを修正
                 if (!timelineCache) {
                     const response = await fetch('./analysis_data/id_timeline.json');
                     if (!response.ok) throw new Error("データ取得失敗");
                     timelineCache = await response.json();
                 }
 
-                // 選択された日付のデータがあるかチェック
                 const range = timelineCache[inputDate];
                 
                 if (range) {
-                    // 見つかった場合はID範囲を表示
                     hintSpan.innerText = `💡 この日の試合ID: ${range[0]} ～ ${range[1]}`;
-                    hintSpan.style.color = "#fbbf24"; // 見やすくゴールド色に
+                    hintSpan.style.color = "#fbbf24";
+                    openBtn.style.display = 'block'; // ボタンを表示
                 } else {
-                    hintSpan.innerText = "❌ この日付の試合記録は見つかりません。"; // [cite: 95]
-                    hintSpan.style.color = "#f87171"; // エラーの赤色
+                    hintSpan.innerText = "❌ この日付の試合記録は見つかりません。";
+                    hintSpan.style.color = "#f87171";
+                    openBtn.style.display = 'none';
                 }
             } catch (error) {
                 hintSpan.innerText = "❌ データの読み込みに失敗しました。";
                 hintSpan.style.color = "#f87171";
+                openBtn.style.display = 'none';
+            }
+        }
+
+        function openDateInTimeline() {
+            const inputDate = document.getElementById('input-match-date').value;
+            if (inputDate && window.jumpTimelineTo) {
+                window.jumpTimelineTo(inputDate);
             }
         }
         function searchByInputId() {
@@ -744,6 +832,9 @@ if (data.played_at) {
                 resultContainer.classList.remove('hidden');
                 
                 history.replaceState(null, '', `?id=${matchId}`);
+
+                // タイムラインのハイライトを更新
+                if (window.updateTimelineHighlight) window.updateTimelineHighlight(matchId);
 
             } catch (error) {
                 statusDisp.classList.remove('hidden');
@@ -819,7 +910,7 @@ if (data.played_at) {
                     tHtml += `
                         <tr class="${rankClass}">
                             <td>#${t.rank_position}</td>
-                            <td>${rankIcon}[${t.team_name}]</td>
+                            <td><a href="team.html?name=${encodeURIComponent(t.team_name)}" style="color:inherit; text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">${rankIcon}[${t.team_name}]</a></td>
                             <td class="kill-cell" style="text-align:center;">${t.kills} ⚔️</td>
                             <td>${parseFloat(t.score).toFixed(2)}%</td>
                         </tr>
@@ -899,7 +990,7 @@ if (data.played_at) {
                                 <span style="display:inline-block; width:13px; height:13px; border-radius:50%; background-color:${playerColor}; text-align:center; line-height:13px; margin-right:4px; font-size:9px; color:#fff; text-shadow:1px 1px 1px #000;">
                                     ${p.emoji || '🐣'}
                                 </span>
-                                ${rankIcon}${p.player_name}
+                                ${rankIcon}<a href="personal.html?name=${encodeURIComponent(p.player_name)}" style="color:inherit; text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">${p.player_name}</a>
                             </td>
                             <td class="kill-cell" style="text-align:center;">${p.kills || 0} ⚔️</td>
                             <td>${parseFloat(p.score).toFixed(2)}%</td>
