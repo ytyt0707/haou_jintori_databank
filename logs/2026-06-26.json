@@ -2,16 +2,65 @@
   "date": "2026-06-26",
   "task_history": [
     {
+      "timestamp": "2026-06-26T19:02:36.238598",
+      "status": "success",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "年別自動分割による抜け漏れのない4階層マージ完了 (新規追加: 297件)",
+          "previous_last_id": 71621,
+          "current_last_id": 71918,
+          "target_limit": 297
+        },
+        "step2": {
+          "status": "success",
+          "message": "新着試合データの個別ダウンロード完了",
+          "success_count": 297,
+          "skip_count": 0,
+          "error_count": 0
+        },
+        "step3": {
+          "status": "success",
+          "message": "JST時刻変換済みのマスターデータビルドが正常に完了しました。",
+          "new_created_count": 297,
+          "skip_count": 71621,
+          "rescued_count": 0,
+          "created_id_ranges": "71622-71918"
+        },
+        "step4": {
+          "status": "success",
+          "message": "新着試合分の個人分析データを高速アペンドしました。",
+          "updated_players_count": 34,
+          "new_players_count": 4,
+          "skipped_nanashi_count": 45
+        },
+        "step5": {
+          "status": "success",
+          "message": "新着試合分のチーム分析データを高速アペンドしました。",
+          "updated_teams_count": 18,
+          "new_teams_count": 0,
+          "processed_team_rounds": 149
+        },
+        "step6": {
+          "status": "success",
+          "message": "新規試合分の時間統計データを正常に累積集計しました。(0人試合対応版)",
+          "processed_files_count": 297,
+          "updated_time_buckets_count": 17
+        }
+      }
+    },
+    {
       "timestamp": "2026-06-26T03:00:02.680173",
       "status": "success",
       "error_reason": null,
       "steps": {
         "step1": {
           "status": "success",
-          "message": "最新試合IDの確認および差分履歴データの取得完了",
-          "previous_last_id": 71603,
-          "current_last_id": 71621,
-          "target_limit": 18
+          "message": "全試合データのJST時間帯4階層化ビルド完了",
+          "previous_last_id": 0,
+          "current_last_id": 71850,
+          "target_limit": 71850
         },
         "step2": {
           "status": "success",

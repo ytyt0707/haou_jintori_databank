@@ -1,0 +1,72 @@
+{
+  "round_id": 71912,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-26T09:42:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] Λαγωός",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐰",
+      "score": "35.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "30.05",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しxF",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐷",
+      "score": "7.79",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "0.69",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "43.78",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "30.05",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "熊谷市",
+      "score": "0.69",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkcEOwzAIQwEL+v9/PDmEjrZptMO4kPCwRYjIJQBAgEutLmQ9qp65E56/VEXkTgtD9YFKrNhTfddCGS/OtH3hY1LqFAs1X5Fw7dyrERFAnKVawciEM9gQtaDZ5AWZ3X2Wc4neqQ+aHwaB+JcSJa2fcCs6GZ1b2HReUjPLqR40C2ZB+YJyqH/G3m/QfUsf5jiOfr2dL3Bv+htll7iMdCrkA6c/C8I=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#af30e8",
+      "5": "#9ca3af",
+      "6": "#9ca3af",
+      "7": "#30d7e8"
+    },
+    "sz": 30
+  }
+}
