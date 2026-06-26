@@ -315,7 +315,7 @@
 
         /* ➕ タイムラインパネル */
         .right-timeline-panel {
-            width: 260px;
+            width: 360px;
             flex-shrink: 0;
             background: #111;
             border: 1px solid var(--border-color);
@@ -394,15 +394,16 @@
             border-color: var(--deep-blue);
             box-shadow: 0 0 4px var(--deep-blue);
         }
-        /* ソロ戦：薄青 / チーム戦：薄赤 */
-        .match-id-btn.mode-solo {
-            background: rgba(0, 80, 160, 0.35);
-            border-color: rgba(0, 120, 200, 0.5);
-        }
-        .match-id-btn.mode-team {
-            background: rgba(160, 0, 0, 0.35);
-            border-color: rgba(200, 50, 50, 0.5);
-        }
+        /* ソロ戦：灰色のボタンベース ＋ ほんのり青 */
+.match-id-btn.mode-solo {
+    background: #283545;    /* 他の灰色(#333)に近い、暗く落ち着いた青灰色 */
+    border-color: #3b4f66;  /* 枠線も少しだけ青みがかったグレー */
+}
+/* チーム戦：灰色のボタンベース ＋ ほんのり赤 */
+.match-id-btn.mode-team {
+    background: #422828;    /* 他の灰色(#333)に近い、暗く落ち着いた赤灰色 */
+    border-color: #5c3b3b;  /* 枠線も少しだけ赤みがかったグレー */
+}
         .timeline-panel-title {
             font-size: 0.8rem;
             color: #94a3b8;
