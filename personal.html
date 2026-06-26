@@ -6,6 +6,7 @@
     <title>個人分析 - 陣取りデータバンク</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Yomogi&display=swap" rel="stylesheet">
@@ -22,6 +23,7 @@
             --border-color: #333;
             --excel-border: #444; 
             --highlight: rgba(0, 123, 181, 0.15);
+            --gold: #fbbf24;
         }
         body { margin: 0; font-family: 'Yomogi', sans-serif; background-color: var(--bg-base); color: var(--text-main); font-size: 0.8rem; }
         
@@ -71,9 +73,88 @@
         .anal-link { color: var(--text-main); text-decoration: none; cursor: pointer; }
         .anal-link:hover { text-underline-position: under; text-decoration: underline; color: #fff; }
 
+        /* 💬 使用アイコン：5件超は折りたたみ */
+        .icon-expand-toggle { text-align: center; cursor: pointer; color: #4fa8ff; }
+        .icon-expand-toggle:hover { text-decoration: underline; color: #7fc2ff; }
+
         /* ==========================================
-            💬 プレイヤー図鑑エリアのデザイン
+            🎮 試合履歴パネル（archive.htmlのリザルト画面を縮小再現）
         ========================================== */
+        .hidden { display: none !important; }
+
+        .match-history-flex { display: flex; gap: 8px; align-items: flex-start; }
+
+        /* 細い長方形：試合IDボタンの縦スクロールリスト */
+        .mh-id-list {
+            width: 58px;
+            height: 344px;
+            flex-shrink: 0;
+            overflow-y: auto;
+            background: #111;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            padding: 4px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+        .mh-id-list .match-id-btn {
+            display: block;
+            width: 100%;
+            box-sizing: border-box;
+            text-align: center;
+            font-size: 0.62rem;
+            padding: 3px 1px;
+        }
+        .match-id-btn {
+            background: #333; color: #ccc; border: 1px solid #555; cursor: pointer;
+            font-size: 0.7rem; border-radius: 3px; font-family: 'Yomogi', sans-serif;
+            transition: background 0.2s;
+        }
+        .match-id-btn:hover { background: var(--deep-blue); color: #fff; }
+        .match-id-btn.active { background: var(--deep-blue) !important; border-color: var(--deep-blue) !important; color: #fff !important; }
+        .match-id-btn.mode-solo { background: #283545; border-color: #3b4f66; }
+        .match-id-btn.mode-team { background: #422828; border-color: #5c3b3b; }
+
+        /* 太い長方形：リザルト画面そのままの比率を縮小したもの */
+        .mh-result-outer {
+            width: 200px;
+            height: 344px;
+            flex-shrink: 0;
+            overflow: hidden;
+            position: relative;
+            border-radius: 8px;
+        }
+        .mh-result-inner {
+            width: 360px;
+            height: 620px;
+            transform: scale(0.55556);
+            transform-origin: top left;
+        }
+
+        /* リザルト画面（archive.htmlと同色・同比率で再現） */
+        .result-container-box {
+            background: #1e293b; color: var(--text-main); padding: 12px 18px; border-radius: 12px;
+            width: 100%; max-width: 360px; height: 620px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+            text-align: center; border: 1px solid #334155; box-sizing: border-box;
+            display: flex; flex-direction: column;
+        }
+        .modal-title { font-size: 1.3rem; font-weight: bold; color: #fff; margin-bottom: 6px; letter-spacing: 1px; }
+        .result-table { width: 100%; border-collapse: collapse; font-size: 0.75rem; text-align: left; margin-bottom: 2px; }
+        .result-table th { color: #ffffff; font-weight: normal; border-bottom: 2px solid #334155; padding: 1px 3px; }
+        .result-table td { padding: 2px 3px; border-bottom: 1px solid #334155; font-size: 0.68rem; }
+        .result-table tr.rank-1 td { color: var(--gold); font-weight: bold; }
+        .result-table td.kill-cell { color: #f87171 !important; font-weight: normal !important; }
+        .result-table tr { background: transparent !important; }
+        .scroll-container { flex: 1; overflow-y: auto; padding-right: 2px; }
+        .mh-status-msg {
+            text-align: center; padding: 30px 10px; font-size: 0.8rem; color: #94a3b8;
+            background: #111; border: 1px dashed #334155; border-radius: 8px;
+            box-sizing: border-box;
+        }
+
+        /* 🔗 リンクスタイル（チーム・個人両対応） */
         .review-scroll { display: flex; gap: 15px; overflow-x: auto; padding: 10px 0; align-items: flex-start; }
         
         /* 🟢 掲示板風スタイル */
@@ -117,7 +198,7 @@
                         <th colspan="2">区分</th>
                         <th>試合数</th><th>1位数</th><th>累計面積</th><th>最大面積</th><th>総キル数</th><th>最大キル</th>
                         <th>毎試合キル数</th><th>毎分キル数</th><th>毎試合面積</th><th>毎分面積</th>
-                        <th>平均個人順位</th><th>平均チーム順位</th><th>平均面積</th><th>平均キル</th>
+                        <th>平均個人順位</th>
                     </tr>
                 </thead>
                 <tbody id="main-summary-body">
@@ -143,6 +224,42 @@
                     <thead><tr><th>アイコン</th><th>回数</th></tr></thead>
                     <tbody id="sub-icon-body"></tbody>
                 </table>
+            </div>
+            <div>
+                <h2>🎮 試合履歴 (選択チーム反映)</h2>
+                <div class="match-history-flex">
+                    <div class="mh-id-list" id="mh-id-list"></div>
+                    <div class="mh-result-outer">
+                        <div class="mh-result-inner">
+                            <div id="mh-status-display" class="mh-status-msg">読み込み中...</div>
+                            <div id="mh-result-container" class="result-container-box hidden">
+                                <div class="modal-title" id="mh-result-title">ラウンド終了</div>
+                                <div style="display:flex; flex-direction:column; align-items:center; margin-bottom:8px;">
+                                    <canvas id="mh-result-map" width="300" height="300"
+                                        style="background:rgba(0,0,0,0.5); border:1px solid #475569; width:140px; height:140px;"></canvas>
+                                </div>
+                                <div class="scroll-container">
+                                    <div style="display:flex; flex-direction:column; gap:10px;">
+                                        <div id="mh-result-team-area" style="display:none;">
+                                            <div style="font-size:0.7rem; color:#94a3b8; margin-bottom:3px; text-align:left;">チーム順位</div>
+                                            <table class="result-table">
+                                                <thead><tr><th>-</th><th>ﾁｰﾑ</th><th>キル</th><th>占領</th></tr></thead>
+                                                <tbody id="mh-result-team-body"></tbody>
+                                            </table>
+                                        </div>
+                                        <div>
+                                            <div style="font-size:0.7rem; color:#94a3b8; margin-bottom:3px; text-align:left;">個人順位</div>
+                                            <table class="result-table">
+                                                <thead><tr><th>-</th><th>名前</th><th>キル</th><th>占領</th></tr></thead>
+                                                <tbody id="mh-result-body"></tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -331,7 +448,7 @@
         // ==========================================
         function calcRowData(records) {
             const count = records.length;
-            if(count === 0) return Array(14).fill('-');
+            if(count === 0) return Array(11).fill('-');
             let w=0, aSum=0, aMax=0, kSum=0, kMax=0, rSum=0;
             records.forEach(r => {
                 const sc = parseFloat(r.sc||0); const k = parseInt(r.k||0); const rk = parseInt(r.rk||0);
@@ -347,7 +464,7 @@
             return [
                 count, w, aSum.toFixed(2), aMax.toFixed(2), kSum, kMax,
                 kAvg.toFixed(2), kMin.toFixed(2), aAvg.toFixed(2), aMin.toFixed(2),
-                rAvg.toFixed(1), "-", aAvg.toFixed(2), kAvg.toFixed(2)
+                rAvg.toFixed(1)
             ];
         }
 
@@ -372,7 +489,8 @@
             const soloVals = calcRowData(solo);
             tbody.innerHTML += `<tr><th class="col-left" style="background:#111; text-align:center;" colspan="2">ソロ戦</th><td>${soloVals.join('</td><td>')}</td></tr>`;
 
-            const totalTeamRows = 1 + top10.length + 1 + 1;
+            const hasOthers = others.length > 0;
+            const totalTeamRows = 1 + top10.length + (hasOthers ? 1 : 0) + 1;
 
             // ② チーム戦無所属
             const noneVals = calcRowData(teamNone);
@@ -388,9 +506,11 @@
                 html += `<tr><th class="col-left"><a class="anal-link" href="team.html?name=${encodeURIComponent(t)}">${t}</a></th><td>${vals.join('</td><td>')}</td></tr>`;
             });
 
-            // ④ その他
-            const othersVals = calcRowData(others);
-            html += `<tr><th class="col-left">その他</th><td>${othersVals.join('</td><td>')}</td></tr>`;
+            // ④ その他（データがある場合のみ表示）
+            if(hasOthers) {
+                const othersVals = calcRowData(others);
+                html += `<tr><th class="col-left">その他</th><td>${othersVals.join('</td><td>')}</td></tr>`;
+            }
 
             // ⑤ チーム戦合計
             const teamAllVals = calcRowData(teamAll);
@@ -466,9 +586,30 @@
             h.forEach(r => { if(r.em) eMap[r.em] = (eMap[r.em] || 0) + 1; });
             const sortedE = Object.keys(eMap).sort((a,b) => eMap[b] - eMap[a]);
             let eHtml = "";
-            sortedE.forEach(e => { eHtml += `<tr><td class="col-left" style="font-size:1.2rem;">${e}</td><td>${eMap[e]}</td></tr>`; });
-            if(sortedE.length === 0) eHtml = `<tr><td colspan="2">データなし</td></tr>`;
+            const ICON_VISIBLE_COUNT = 5;
+            sortedE.forEach((e, idx) => {
+                const extraAttrs = idx >= ICON_VISIBLE_COUNT ? ' class="icon-extra-row" style="display:none;"' : '';
+                eHtml += `<tr${extraAttrs}><td class="col-left" style="font-size:1.2rem;">${e}</td><td>${eMap[e]}</td></tr>`;
+            });
+            if(sortedE.length === 0) {
+                eHtml = `<tr><td colspan="2">データなし</td></tr>`;
+            } else if(sortedE.length > ICON_VISIBLE_COUNT) {
+                const extraCount = sortedE.length - ICON_VISIBLE_COUNT;
+                eHtml += `<tr><td colspan="2" class="icon-expand-toggle" data-extra-count="${extraCount}" onclick="toggleIconExpand(this)">▼ 展開 (+${extraCount})</td></tr>`;
+            }
             document.getElementById('sub-icon-body').innerHTML = eHtml;
+
+            buildMatchHistoryList(h);
+        }
+
+        function toggleIconExpand(el) {
+            const tbody = document.getElementById('sub-icon-body');
+            const rows = tbody.querySelectorAll('.icon-extra-row');
+            if(rows.length === 0) return;
+            const willShow = rows[0].style.display === 'none';
+            rows.forEach(r => { r.style.display = willShow ? '' : 'none'; });
+            const extraCount = el.dataset.extraCount;
+            el.innerText = willShow ? `▲ 折りたたむ` : `▼ 展開 (+${extraCount})`;
         }
 
         // ==========================================
@@ -559,6 +700,7 @@
             const edStr = document.getElementById('date-end').value;
             if(sdStr && edStr) {
                 const sd = new Date(sdStr); const ed = new Date(edStr);
+                ed.setSeconds(59, 999); // 入力欄は分単位までしか持てないため、終了分の最後の瞬間まで含める
                 h = h.filter(r => { const d = new Date(r.at); return d >= sd && d <= ed; });
             }
 
@@ -779,6 +921,238 @@
                     }
                 }
             });
+        }
+
+        // ==========================================
+        // 4. 試合履歴パネル（archive.htmlのリザルト画面を縮小再現）
+        // ==========================================
+        let mhRecordsSorted = [];
+        let mhLoadedCount = 0;
+        const MH_PAGE_SIZE = 100;
+        let mhLastDecodedMapBytes = null;
+        let mhCurrentId = null;
+
+        function buildMatchHistoryList(h) {
+            mhRecordsSorted = [...h].sort((a,b) => new Date(b.at) - new Date(a.at)); // 新しい順
+            mhLoadedCount = 0;
+
+            const list = document.getElementById('mh-id-list');
+            list.innerHTML = "";
+            list.onscroll = mhHandleScroll;
+
+            if(mhRecordsSorted.length === 0) {
+                list.innerHTML = `<div style="color:#888; font-size:0.62rem; text-align:center; padding:6px;">記録なし</div>`;
+                mhShowStatus("試合記録がありません");
+                return;
+            }
+
+            mhLoadMore();
+            mhSelectMatch(mhRecordsSorted[0].id);
+        }
+
+        function mhLoadMore() {
+            const list = document.getElementById('mh-id-list');
+            const next = mhRecordsSorted.slice(mhLoadedCount, mhLoadedCount + MH_PAGE_SIZE);
+            next.forEach(r => {
+                const btn = document.createElement('button');
+                btn.className = 'match-id-btn' + (r.md === 'SOLO' ? ' mode-solo' : ' mode-team');
+                if(parseInt(r.id) === parseInt(mhCurrentId)) btn.classList.add('active');
+                btn.innerText = r.id;
+                btn.dataset.matchId = r.id;
+                btn.onclick = () => mhSelectMatch(r.id);
+                list.appendChild(btn);
+            });
+            mhLoadedCount += next.length;
+        }
+
+        function mhHandleScroll(e) {
+            const list = e.target;
+            if(mhLoadedCount < mhRecordsSorted.length && list.scrollTop + list.clientHeight >= list.scrollHeight - 40) {
+                mhLoadMore();
+            }
+        }
+
+        function mhShowStatus(msg) {
+            document.getElementById('mh-status-display').classList.remove('hidden');
+            document.getElementById('mh-status-display').innerText = msg;
+            document.getElementById('mh-result-container').classList.add('hidden');
+        }
+
+        async function mhSelectMatch(matchId) {
+            mhCurrentId = matchId;
+            document.querySelectorAll('#mh-id-list .match-id-btn').forEach(btn => {
+                btn.classList.toggle('active', parseInt(btn.dataset.matchId) === parseInt(matchId));
+            });
+
+            mhShowStatus(`試合ID: ${matchId} 読込中...`);
+
+            const folderRound = Math.floor(matchId / 1000) * 1000;
+            const folderName = String(folderRound).padStart(5, '0');
+            const jsonPath = `master_data/${folderName}/${matchId}.json`;
+
+            try {
+                const response = await fetch(jsonPath);
+                if(!response.ok) throw new Error("not found");
+                const data = await response.json();
+                mhRenderResultScreen(data);
+                document.getElementById('mh-status-display').classList.add('hidden');
+                document.getElementById('mh-result-container').classList.remove('hidden');
+            } catch(err) {
+                mhShowStatus(`❌ 試合ID: ${matchId} のデータが見つかりません`);
+            }
+        }
+
+        function mhDrawMinimap(minimapData, isTeamMode) {
+            const canvas = document.getElementById('mh-result-map');
+            if(!canvas || !minimapData) return;
+            const ctx = canvas.getContext('2d');
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            const sz = minimapData.sz || 30;
+            const cp = minimapData.cp || {};
+            const cellW = canvas.width / sz;
+            const cellH = canvas.height / sz;
+
+            try {
+                const binaryStr = atob(minimapData.bm);
+                const bytes = new Uint8Array(binaryStr.length);
+                for(let i = 0; i < binaryStr.length; i++) bytes[i] = binaryStr.charCodeAt(i);
+
+                const rawBytes = pako.inflate(bytes);
+                mhLastDecodedMapBytes = rawBytes;
+
+                let colorIndex = 0;
+                for(let y = 0; y < sz; y++) {
+                    for(let x = 0; x < sz; x++) {
+                        if(colorIndex < rawBytes.length) {
+                            const teamId = rawBytes[colorIndex];
+                            let color = cp[teamId] || '#1e293b';
+                            if(isTeamMode) {
+                                if(teamId === 1) color = "#9ca3af";
+                                if(teamId === 2) color = "#8b5a2b";
+                            }
+                            ctx.fillStyle = color;
+                            ctx.fillRect(x * cellW, y * cellH, cellW, cellH);
+                        }
+                        colorIndex++;
+                    }
+                }
+            } catch(e) {
+                ctx.fillStyle = "rgba(255,255,255,0.1)";
+                ctx.fillRect(10, 10, canvas.width-20, canvas.height-20);
+                mhLastDecodedMapBytes = null;
+            }
+        }
+
+        function mhRenderResultScreen(data) {
+            const isTeamMode = (data.game_mode === "TEAM");
+            if(data.minimap) mhDrawMinimap(data.minimap, isTeamMode);
+
+            const totalPlayers = data.player_count || 0;
+            document.getElementById('mh-result-title').innerHTML = `ラウンド終了 <span style="font-size:0.65rem; color:#94a3b8;">(参加: ${totalPlayers}人)</span>`;
+
+            const teamArea = document.getElementById('mh-result-team-area');
+            const teamBody = document.getElementById('mh-result-team-body');
+
+            if(isTeamMode && data.teams) {
+                teamArea.style.display = 'block';
+                let tHtml = '';
+                data.teams.forEach((t, idx) => {
+                    const rankClass = (idx === 0) ? 'rank-1' : ((idx === 1) ? 'rank-2' : ((idx === 2) ? 'rank-3' : ''));
+                    const rankIcon = (idx === 0) ? '👑 ' : '';
+                    tHtml += `
+                        <tr class="${rankClass}">
+                            <td>#${t.rank_position}</td>
+                            <td><a href="team.html?name=${encodeURIComponent(t.team_name)}" style="color:inherit; text-decoration:none;">${rankIcon}[${t.team_name}]</a></td>
+                            <td class="kill-cell" style="text-align:center;">${t.kills} ⚔️</td>
+                            <td>${parseFloat(t.score).toFixed(2)}%</td>
+                        </tr>
+                    `;
+                });
+                teamBody.innerHTML = tHtml;
+            } else {
+                teamArea.style.display = 'none';
+            }
+
+            let mapPercentages = [];
+            if(mhLastDecodedMapBytes && data.minimap && data.minimap.cp) {
+                let counts = {};
+                let totalCells = mhLastDecodedMapBytes.length;
+                for(let i = 0; i < totalCells; i++) {
+                    const id = mhLastDecodedMapBytes[i];
+                    counts[id] = (counts[id] || 0) + 1;
+                }
+                Object.keys(data.minimap.cp).forEach(idKey => {
+                    const id = Number(idKey);
+                    const cellCount = counts[id] || 0;
+                    const pct = (cellCount / totalCells) * 100;
+                    mapPercentages.push({ id: id, color: data.minimap.cp[idKey], percentage: pct, isAssigned: false });
+                });
+            }
+
+            const tbody = document.getElementById('mh-result-body');
+            let html = '';
+            const isSoloMode = (data.game_mode === "SOLO");
+
+            if(data.players) {
+                data.players.forEach((p, idx) => {
+                    const rankClass = (idx === 0) ? 'rank-1' : ((idx === 1) ? 'rank-2' : ((idx === 2) ? 'rank-3' : ''));
+                    const rankIcon = (idx === 0) ? '👑 ' : '';
+
+                    let playerColor = "#ef4444";
+                    const playerScore = parseFloat(p.score || 0);
+
+                    if(isTeamMode && p.team === "🇯🇵ONJ") {
+                        playerColor = "#9ca3af";
+                    } else if(isTeamMode && p.team === "たぬき") {
+                        playerColor = "#8b5a2b";
+                    } else {
+                        let bestMatch = null;
+                        let minDifference = Infinity;
+                        mapPercentages.forEach(item => {
+                            if(isTeamMode && (item.id === 1 || item.id === 2)) return;
+                            let diff = Math.abs(item.percentage - playerScore);
+                            if(diff < minDifference) { minDifference = diff; bestMatch = item; }
+                        });
+                        if(bestMatch) {
+                            playerColor = bestMatch.color;
+                            bestMatch.percentage = -999;
+                        } else if(data.minimap && data.minimap.cp) {
+                            const keys = Object.keys(data.minimap.cp);
+                            playerColor = data.minimap.cp[keys[keys.length - 1]];
+                        }
+                    }
+
+                    let playerNameHtml;
+                    if(!isSoloMode && p.player_name) {
+                        const bracketMatch = p.player_name.match(/^(\[.{1,5}\])\s*(.+)$/u);
+                        if(bracketMatch) {
+                            const teamPart = bracketMatch[1];
+                            const namePart = bracketMatch[2];
+                            playerNameHtml = `${teamPart} <a href="personal.html?name=${encodeURIComponent(namePart)}" style="color:inherit; text-decoration:none;">${namePart}</a>`;
+                        } else {
+                            playerNameHtml = `<a href="personal.html?name=${encodeURIComponent(p.player_name)}" style="color:inherit; text-decoration:none;">${p.player_name}</a>`;
+                        }
+                    } else {
+                        playerNameHtml = `<a href="personal.html?name=${encodeURIComponent(p.player_name)}" style="color:inherit; text-decoration:none;">${p.player_name}</a>`;
+                    }
+
+                    html += `
+                        <tr class="${rankClass}">
+                            <td>#${p.rank_position}</td>
+                            <td>
+                                <span style="display:inline-block; width:13px; height:13px; border-radius:50%; background-color:${playerColor}; text-align:center; line-height:13px; margin-right:4px; font-size:9px; color:#fff; text-shadow:1px 1px 1px #000;">
+                                    ${p.emoji || '🐣'}
+                                </span>
+                                ${rankIcon}${playerNameHtml}
+                            </td>
+                            <td class="kill-cell" style="text-align:center;">${p.kills || 0} ⚔️</td>
+                            <td>${parseFloat(p.score).toFixed(2)}%</td>
+                        </tr>
+                    `;
+                });
+            }
+            tbody.innerHTML = html;
         }
 
         window.onload = loadPlayerData;
