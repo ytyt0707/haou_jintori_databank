@@ -1011,7 +1011,7 @@ if (data.played_at) {
                             const teamPart = bracketMatch[1]; // 例: [ラー軍]
                             const namePart = bracketMatch[2]; // 例: セト神
                             // 名前部分だけリンク化、チーム部分はリンクなし
-                            playerNameHtml = `${teamPart} <a href="personal.html?name=${encodeURIComponent(p.player_name)}" style="color:inherit; text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">${namePart}</a>`;
+                            playerNameHtml = `${teamPart} <a href="personal.html?name=${encodeURIComponent(namePart)}" style="color:inherit; text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">${namePart}</a>`;
                         } else {
                             // チームプレフィックスなし（個人参戦）→ 全体リンクあり
                             playerNameHtml = `<a href="personal.html?name=${encodeURIComponent(p.player_name)}" style="color:inherit; text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">${p.player_name}</a>`;
