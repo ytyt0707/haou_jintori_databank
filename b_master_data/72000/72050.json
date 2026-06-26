@@ -1,0 +1,48 @@
+{
+  "round_id": 72050,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-26T17:10:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ハゼ] ハゼ太郎",
+      "team": "ハゼ",
+      "emoji": "🐟",
+      "score": "0.14",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[中華] 天津飯",
+      "team": "中華",
+      "emoji": "🥮",
+      "score": "0.14",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ハゼ",
+      "score": "0.14",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "中華",
+      "score": "0.14",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtUEkSgDAMItH/v1mztsXR6QPMpQVCNgCQCijUA1BFRotGVpAmIp8qJjWsVdWM3k2jdxbOmRJZ1xL8DXdQrMU+la6nWWe3z5pyFKbibe1lZ3up4xjNrJ90r+RAIQ9Mv5iMyIbPnVuqU88E/V/25SzCP9y/wLGfemdeJM8BJw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#6e4de5"
+    },
+    "sz": 30
+  }
+}

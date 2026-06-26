@@ -1,0 +1,63 @@
+{
+  "round_id": 72036,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-26T16:24:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "82.86",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] はじまん",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "4.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵お赤軍] 栄養分析表",
+      "team": "🇯🇵お赤軍",
+      "emoji": "🤔",
+      "score": "0.71",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "82.86",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "4.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵お赤軍",
+      "score": "0.71",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHt0+EOgCAIBOCzg/d/5XZgC2Vt/S/msvmJTVLgaOERAEAydXbufqQ6KU2/dWLRa1IInWqMlUP0MNdYCcy19QUzK6LXmtxw0S1xy/2CzkL2reZI/sJfX1SjnrpesEcdHHlidZt0pdaZEJ7CqAnv",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3081e8",
+      "4": "#30e870",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 72048,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-27T02:03:41.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[中華] 天津飯",
+      "team": "中華",
+      "emoji": "🥮",
+      "score": "20.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "6.07",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "中華",
+      "score": "20.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "6.07",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klkOxDAIQ13g/mceYfZIk48KeNiQtiLPgc7BwwQyULVot21tURQFiLMntOAR74FqZD5hUxpoUZfn3GhPv0mO1s0SxfzUSm7jXsWvMy+6KO5c9du0NBJ6j9uhiPdAambPWl7mLOPZNGOBAEWthvjlO05sVvhcXmDVEIpLw/qPtia70N35bmYua5M2/b7Pq2tDpr0y8aW9VGrHNaVsL7i1nBoFTl1KzX9kt+clQpXPJelwGrq0g8K7tuLzeVb9hj8I5gRX",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e89830",
+      "4": "#e83053"
+    },
+    "sz": 30
+  }
+}

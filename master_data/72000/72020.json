@@ -1,0 +1,83 @@
+{
+  "round_id": 72020,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-06-27T00:32:51.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しsp",
+      "team": "🇯🇵ONJ",
+      "emoji": "😈",
+      "score": "38.25",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無し46",
+      "team": "🇯🇵ONJ",
+      "emoji": "😈",
+      "score": "3.47",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[けんた] 名無しCZ",
+      "team": "けんた",
+      "emoji": "😂",
+      "score": "1.46",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[けんた] ニヒリズム",
+      "team": "けんた",
+      "emoji": "😑",
+      "score": "0.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[けんた] 名無しIe",
+      "team": "けんた",
+      "emoji": "🤠",
+      "score": "0.37",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "0.18",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "41.72",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "けんた",
+      "score": "2.64",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkFsOxSAIRIE42P2v+IaX0urHJU1KOcyMlogka1rRUW/MnReCCFw7blREAJqETkMa2cAzR4fhInE04KGBbrx7c7bak955cCxcVlSFAU3eddarFgFUK4A57p9Qo76UwtPhPhynOAPLP4INmjcbVbXHq1N2CFV+0ZByUpNngmsXDXEiP5USLbrnTbzoV+sX/osevlA7FrNFnzCvC+BCA+bPPbQ32nYDH6o1IJK9vbviRDXLnPKrT1usvr9zeIe5+ANpugjr",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#30e892",
+      "5": "#9ca3af",
+      "6": "#9ca3af",
+      "7": "#30e892",
+      "8": "#30e892"
+    },
+    "sz": 30
+  }
+}
