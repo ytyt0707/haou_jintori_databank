@@ -390,9 +390,8 @@
         }
         .match-id-btn.active {
             background: var(--deep-blue);
-            color: #fff;
             border-color: var(--deep-blue);
-            box-shadow: 0 0 4px var(--deep-blue);
+            color: #fff;
         }
         /* ソロ戦：灰色のボタンベース ＋ ほんのり青 */
 .match-id-btn.mode-solo {
@@ -669,7 +668,8 @@
 
                     const grid = document.createElement('div');
                     grid.className = 'match-buttons-grid';
-                    matches.forEach(match => {
+                    const sortedMatches = [...matches].sort((a, b) => parseInt(a.id) - parseInt(b.id));
+                    sortedMatches.forEach(match => {
                         const btn = document.createElement('button');
                         btn.className = 'match-id-btn';
                         // モードに応じた色クラスを追加（activeが上書きするのでactive時は見た目変わらない）
@@ -964,14 +964,7 @@ if (data.played_at) {
             const tbody = document.getElementById('result-body');
             let html = '';
 
-            // ソロ戦以外の場合、チームリストからチーム名を収集してリンクを削る対象を判定
             const isSoloMode = (data.game_mode === "SOLO");
-            const teamNamesFromList = new Set();
-            if (!isSoloMode && data.teams) {
-                data.teams.forEach(t => {
-                    if (t.team_name) teamNamesFromList.add(t.team_name);
-                });
-            }
             
             if (data.players) {
                 data.players.forEach((p, idx) => {
@@ -1009,15 +1002,18 @@ if (data.played_at) {
                     }
 
                     // ソロ戦以外でチームプレフィックス付きの名前かどうか判定
-                    // [チーム名] 名前 の形式のとき、チームリストにそのチーム名があればリンク化しない
+                    // [チーム名] 名前 の形式のとき、チーム名部分は表示のみ・名前部分だけリンク化
                     let playerNameHtml;
                     if (!isSoloMode && p.player_name) {
-                        const bracketMatch = p.player_name.match(/^\[(.+?)\]\s*/);
-                        if (bracketMatch && teamNamesFromList.has(bracketMatch[1])) {
-                            // チームプレフィックスあり → リンクなしでそのまま表示
-                            playerNameHtml = p.player_name;
+                        // [チーム名] 名前 の形式を検出（チーム名は[]含まず4〜5文字以下、名前は8文字以下）
+                        const bracketMatch = p.player_name.match(/^(\[.{1,5}\])\s*(.+)$/);
+                        if (bracketMatch) {
+                            const teamPart = bracketMatch[1]; // 例: [ラー軍]
+                            const namePart = bracketMatch[2]; // 例: セト神
+                            // 名前部分だけリンク化、チーム部分はリンクなし
+                            playerNameHtml = `${teamPart} <a href="personal.html?name=${encodeURIComponent(p.player_name)}" style="color:inherit; text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">${namePart}</a>`;
                         } else {
-                            // チームプレフィックスなし（個人参戦）→ リンクあり
+                            // チームプレフィックスなし（個人参戦）→ 全体リンクあり
                             playerNameHtml = `<a href="personal.html?name=${encodeURIComponent(p.player_name)}" style="color:inherit; text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">${p.player_name}</a>`;
                         }
                     } else {
