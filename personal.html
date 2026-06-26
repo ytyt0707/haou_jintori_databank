@@ -87,7 +87,7 @@
         /* 細い長方形：試合IDボタンの縦スクロールリスト */
         .mh-id-list {
             width: 58px;
-            height: 344px;
+            height: 516px;
             flex-shrink: 0;
             overflow-y: auto;
             background: #111;
@@ -117,10 +117,24 @@
         .match-id-btn.mode-solo { background: #283545; border-color: #3b4f66; }
         .match-id-btn.mode-team { background: #422828; border-color: #5c3b3b; }
 
+        /* 日付セパレーター */
+        .mh-date-sep {
+            font-size: 0.55rem;
+            color: #667;
+            text-align: center;
+            padding: 3px 0 1px;
+            border-top: 1px solid #333;
+            margin-top: 2px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: clip;
+        }
+        .mh-date-sep:first-child { border-top: none; margin-top: 0; }
+
         /* 太い長方形：リザルト画面そのままの比率を縮小したもの */
         .mh-result-outer {
-            width: 200px;
-            height: 344px;
+            width: 300px;
+            height: 516px;
             flex-shrink: 0;
             overflow: hidden;
             position: relative;
@@ -129,7 +143,7 @@
         .mh-result-inner {
             width: 360px;
             height: 620px;
-            transform: scale(0.55556);
+            transform: scale(0.83333);
             transform-origin: top left;
         }
 
@@ -189,6 +203,7 @@
 
     <div class="container">
         <div class="page-title-section" id="player-name-title">👤 個人分析: 読み込み中...</div>
+        <div id="player-activity-range" style="font-size:0.72rem; color:#556; margin-bottom:10px; letter-spacing:0.02em;"></div>
 
         <h2>📊 基本統計・計算値</h2>
         <div class="excel-table-wrapper">
@@ -341,6 +356,18 @@
                 
                 document.getElementById('player-name-title').innerText = `👤 個人分析: ${data.name}`;
                 rawHistory = (data.h || []).sort((a,b) => new Date(a.at) - new Date(b.at)); 
+
+                // 初登場・最終活動の日時表示
+                if(rawHistory.length > 0) {
+                    const fmt = atStr => {
+                        const d = new Date(atStr);
+                        const pad = n => n.toString().padStart(2, '0');
+                        return `${d.getFullYear()}年${pad(d.getMonth()+1)}月${pad(d.getDate())}日 ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+                    };
+                    const first = fmt(rawHistory[0].at);
+                    const last  = fmt(rawHistory[rawHistory.length-1].at);
+                    document.getElementById('player-activity-range').innerText = `初登場: ${first}　〜　最終活動: ${last}`;
+                }
 
                 buildMainTable(rawHistory);
                 buildTeamChips(rawHistory);
@@ -950,10 +977,32 @@
             mhSelectMatch(mhRecordsSorted[0].id);
         }
 
+        function mhDateLabel(atStr) {
+            const d = new Date(atStr);
+            const pad = n => n.toString().padStart(2, '0');
+            return `${d.getFullYear()}/${pad(d.getMonth()+1)}/${pad(d.getDate())}`;
+        }
+
         function mhLoadMore() {
             const list = document.getElementById('mh-id-list');
             const next = mhRecordsSorted.slice(mhLoadedCount, mhLoadedCount + MH_PAGE_SIZE);
+
+            // 前回ロード末尾の日付を引き継ぐため、リスト内の最後のセパレーターを確認
+            const sepEls = list.querySelectorAll('.mh-date-sep');
+            let lastDate = sepEls.length > 0 ? sepEls[sepEls.length - 1].dataset.date : null;
+
             next.forEach(r => {
+                const dateLabel = mhDateLabel(r.at);
+                if(dateLabel !== lastDate) {
+                    const sep = document.createElement('div');
+                    sep.className = 'mh-date-sep';
+                    sep.dataset.date = dateLabel;
+                    // "2025/06/13" → "6/13" で幅を節約
+                    const shortLabel = dateLabel.replace(/^\d{4}\//, '');
+                    sep.innerText = shortLabel;
+                    list.appendChild(sep);
+                    lastDate = dateLabel;
+                }
                 const btn = document.createElement('button');
                 btn.className = 'match-id-btn' + (r.md === 'SOLO' ? ' mode-solo' : ' mode-team');
                 if(parseInt(r.id) === parseInt(mhCurrentId)) btn.classList.add('active');
