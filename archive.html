@@ -310,6 +310,89 @@
         @media (max-width: 768px) {
             .main-layout { flex-direction: column; align-items: center; }
             .sidebar-left { width: 100%; max-width: 360px; }
+            .right-timeline-panel { width: 100%; max-width: 360px; }
+        }
+
+        /* ➕ タイムラインパネル */
+        .right-timeline-panel {
+            width: 300px;
+            flex-shrink: 0;
+            background: #111;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 12px;
+            box-sizing: border-box;
+            align-self: flex-start;
+        }
+        .date-shifter {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+            gap: 4px;
+        }
+        .date-shifter span {
+            font-size: 0.85rem;
+            color: var(--text-main);
+            white-space: nowrap;
+        }
+        .ampm-toggle {
+            display: flex;
+            gap: 6px;
+            margin-bottom: 10px;
+        }
+        .ampm-toggle button {
+            flex: 1;
+            padding: 4px 8px;
+            background: #333;
+            color: #fff;
+            border: 1px solid #555;
+            cursor: pointer;
+            border-radius: 4px;
+            font-family: 'Yomogi', sans-serif;
+            font-size: 0.8rem;
+            transition: background 0.2s;
+        }
+        .ampm-toggle button.active {
+            background: var(--deep-blue);
+            border-color: var(--deep-blue);
+        }
+        .hour-section {
+            margin-bottom: 10px;
+        }
+        .hour-title {
+            font-size: 0.8rem;
+            font-weight: bold;
+            color: var(--gold);
+            border-bottom: 1px solid #333;
+            padding-bottom: 2px;
+            margin-bottom: 5px;
+        }
+        .match-buttons-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+        }
+        .match-id-btn {
+            background: #333;
+            color: #ccc;
+            border: 1px solid #555;
+            padding: 3px 7px;
+            cursor: pointer;
+            font-size: 0.75rem;
+            border-radius: 3px;
+            font-family: 'Yomogi', sans-serif;
+            transition: background 0.2s;
+        }
+        .match-id-btn:hover {
+            background: var(--deep-blue);
+            color: #fff;
+        }
+        .timeline-panel-title {
+            font-size: 0.85rem;
+            color: #94a3b8;
+            margin-bottom: 8px;
+            display: block;
         }
     </style>
 </head>
@@ -423,10 +506,129 @@
                     </div>
                 </div> 
             </div> 
-        </div> 
+        </div>
+
+        <!-- ➕ タイムライン選択パネル -->
+        <div class="right-timeline-panel">
+            <span class="timeline-panel-title">📅 日付別タイムライン</span>
+            <div class="date-shifter">
+                <button class="btn btn-pager" onclick="shiftDate(-1)">＜</button>
+                <span id="current-date-display">----/--/--</span>
+                <button class="btn btn-pager" onclick="shiftDate(1)">＞</button>
+            </div>
+            <div class="ampm-toggle">
+                <button id="btn-am" onclick="setTimeRange('AM')">午前</button>
+                <button id="btn-pm" class="active" onclick="setTimeRange('PM')">午後</button>
+            </div>
+            <div id="timeline-hours-container">
+                <!-- JSで時間帯別の試合IDボタンが追加される -->
+            </div>
+        </div>
+
     </div> 
     
     <script>
+        // =======================================================
+        // ➕ タイムラインパネル用ロジック
+        // =======================================================
+        (function() {
+            const today = new Date();
+            let tYear = String(today.getFullYear());
+            let tMonth = String(today.getMonth() + 1).padStart(2, '0');
+            let tDay = String(today.getDate()).padStart(2, '0');
+            let tAMPM = "PM";
+            let tData = {};
+
+            function updateDateDisplay() {
+                document.getElementById('current-date-display').innerText = `${tYear}/${tMonth}/${tDay}`;
+            }
+
+            window.shiftDate = function(days) {
+                const d = new Date(parseInt(tYear), parseInt(tMonth) - 1, parseInt(tDay));
+                d.setDate(d.getDate() + days);
+                tYear = String(d.getFullYear());
+                tMonth = String(d.getMonth() + 1).padStart(2, '0');
+                tDay = String(d.getDate()).padStart(2, '0');
+                updateDateDisplay();
+                fetchTimeline();
+            };
+
+            window.setTimeRange = function(mode) {
+                tAMPM = mode;
+                document.getElementById('btn-am').classList.toggle('active', mode === 'AM');
+                document.getElementById('btn-pm').classList.toggle('active', mode === 'PM');
+                renderTimeline();
+            };
+
+            async function fetchTimeline() {
+                const url = `./analysis_data/id_time_button_2026/id_time_button.json`;
+                const container = document.getElementById('timeline-hours-container');
+                container.innerHTML = '<div style="color:#94a3b8; font-size:0.8rem;">⏳ 読込中...</div>';
+                try {
+                    const res = await fetch(url);
+                    if (!res.ok) throw new Error();
+                    const full = await res.json();
+                    if (full[tYear] && full[tYear][tMonth] && full[tYear][tMonth][tDay]) {
+                        tData = full[tYear][tMonth][tDay];
+                    } else {
+                        tData = {};
+                    }
+                } catch(e) {
+                    tData = {};
+                }
+                renderTimeline();
+            }
+
+            function renderTimeline() {
+                const container = document.getElementById('timeline-hours-container');
+                container.innerHTML = '';
+                const hours = tAMPM === 'AM'
+                    ? ["00","01","02","03","04","05","06","07","08","09","10","11"]
+                    : ["12","13","14","15","16","17","18","19","20","21","22","23"];
+
+                let hasAny = false;
+                hours.forEach(h => {
+                    const matches = tData[h];
+                    if (!matches || matches.length === 0) return;
+                    hasAny = true;
+
+                    const section = document.createElement('div');
+                    section.className = 'hour-section';
+
+                    const title = document.createElement('div');
+                    title.className = 'hour-title';
+                    title.innerText = `${parseInt(h)}時`;
+                    section.appendChild(title);
+
+                    const grid = document.createElement('div');
+                    grid.className = 'match-buttons-grid';
+                    matches.forEach(match => {
+                        const btn = document.createElement('button');
+                        btn.className = 'match-id-btn';
+                        btn.innerText = match.id;
+                        btn.onclick = () => {
+                            currentMatchId = match.id;
+                            document.getElementById('input-match-id').value = match.id;
+                            loadMatchData(match.id);
+                        };
+                        grid.appendChild(btn);
+                    });
+                    section.appendChild(grid);
+                    container.appendChild(section);
+                });
+
+                if (!hasAny) {
+                    container.innerHTML = '<div style="color:#94a3b8; font-size:0.8rem;">この時間帯の試合記録はありません</div>';
+                }
+            }
+
+            // 初期化
+            window.addEventListener('load', function() {
+                updateDateDisplay();
+                fetchTimeline();
+            });
+        })();
+
         // =======================================================
         // ⚙️ 保存ボタンの表示・非表示フラグ
         // この値を false にするだけで、保存ボタンが簡単に消えます！
