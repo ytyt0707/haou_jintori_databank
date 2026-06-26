@@ -251,6 +251,7 @@
                             onmouseover="this.style.background='#233d52'" onmouseout="this.style.background='#1a2d3d'">
                             🔗 過去試合記録で見る
                         </a>
+                        <div id="mh-played-at" style="width:300px; box-sizing:border-box; text-align:center; font-size:0.62rem; color:#7a8a9a; padding:2px 0;"></div>
                         <div class="mh-result-outer">
                         <div class="mh-result-inner">
                             <div id="mh-status-display" class="mh-status-msg">読み込み中...</div>
@@ -1046,6 +1047,8 @@
             if(archiveLink) archiveLink.href = `https://haou-jintori-databank.vercel.app/archive.html?id=${matchId}`;
 
             mhShowStatus(`試合ID: ${matchId} 読込中...`);
+            const playedAtEl = document.getElementById('mh-played-at');
+            if(playedAtEl) playedAtEl.innerText = '';
 
             const folderRound = Math.floor(matchId / 1000) * 1000;
             const folderName = String(folderRound).padStart(5, '0');
@@ -1056,6 +1059,14 @@
                 if(!response.ok) throw new Error("not found");
                 const data = await response.json();
                 mhRenderResultScreen(data);
+
+                // 試合日時を表示
+                if(playedAtEl && data.played_at) {
+                    const d = new Date(data.played_at);
+                    const pad = n => n.toString().padStart(2, '0');
+                    playedAtEl.innerText = `${d.getFullYear()}年${pad(d.getMonth()+1)}月${pad(d.getDate())}日 ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+                }
+
                 document.getElementById('mh-status-display').classList.add('hidden');
                 document.getElementById('mh-result-container').classList.remove('hidden');
             } catch(err) {
