@@ -87,7 +87,7 @@
         /* 細い長方形：試合IDボタンの縦スクロールリスト */
         .mh-id-list {
             width: 58px;
-            height: 516px;
+            height: 560px;
             flex-shrink: 0;
             overflow-y: auto;
             background: #111;
@@ -119,17 +119,15 @@
 
         /* 日付セパレーター */
         .mh-date-sep {
-            font-size: 0.55rem;
-            color: #667;
+            font-size: 0.6rem;
+            color: #7a8a9a;
             text-align: center;
-            padding: 3px 0 1px;
-            border-top: 1px solid #333;
+            padding: 4px 0 1px;
             margin-top: 2px;
             white-space: nowrap;
-            overflow: hidden;
-            text-overflow: clip;
+            font-weight: bold;
+            letter-spacing: 0.03em;
         }
-        .mh-date-sep:first-child { border-top: none; margin-top: 0; }
 
         /* 太い長方形：リザルト画面そのままの比率を縮小したもの */
         .mh-result-outer {
@@ -244,7 +242,16 @@
                 <h2>🎮 試合履歴 (選択チーム反映)</h2>
                 <div class="match-history-flex">
                     <div class="mh-id-list" id="mh-id-list"></div>
-                    <div class="mh-result-outer">
+                    <div style="display:flex; flex-direction:column; gap:6px;">
+                        <a id="mh-archive-link" href="#" target="_blank"
+                            style="display:block; text-align:center; background:#1a2d3d; color:#4fa8ff;
+                                   border:1px solid #2a4a6a; border-radius:4px; padding:4px 6px;
+                                   font-size:0.7rem; text-decoration:none; transition:background 0.2s;
+                                   width:300px; box-sizing:border-box;"
+                            onmouseover="this.style.background='#233d52'" onmouseout="this.style.background='#1a2d3d'">
+                            🔗 過去試合記録で見る
+                        </a>
+                        <div class="mh-result-outer">
                         <div class="mh-result-inner">
                             <div id="mh-status-display" class="mh-status-msg">読み込み中...</div>
                             <div id="mh-result-container" class="result-container-box hidden">
@@ -272,6 +279,7 @@
                                     </div>
                                 </div>
                             </div>
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -1032,6 +1040,10 @@
             document.querySelectorAll('#mh-id-list .match-id-btn').forEach(btn => {
                 btn.classList.toggle('active', parseInt(btn.dataset.matchId) === parseInt(matchId));
             });
+
+            // 過去試合記録リンクを更新
+            const archiveLink = document.getElementById('mh-archive-link');
+            if(archiveLink) archiveLink.href = `https://haou-jintori-databank.vercel.app/archive.html?id=${matchId}`;
 
             mhShowStatus(`試合ID: ${matchId} 読込中...`);
 
