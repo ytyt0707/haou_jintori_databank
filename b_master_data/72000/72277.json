@@ -1,0 +1,44 @@
+{
+  "round_id": 72277,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-06-27T05:25:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "カンニバル",
+      "team": "",
+      "emoji": "🦀",
+      "score": "8.83",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "BOT",
+      "team": "",
+      "emoji": "🤖",
+      "score": "1.06",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "栄養分析表",
+      "team": "",
+      "emoji": "🤔",
+      "score": "0.53",
+      "kills": 2
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eAHlz0sOgCAMBNAW6P2vbPq1UCQxLmUD8pgRAN6NMcYh8EUPtX8gIiJ/Z/eFz4yhvhmzqPk+aumCkKK9/kAVGCpqVi9R1aLCVSVr0Y0q54p4qxYKxd7awBrIi9Za+l6Q2szppEan8K2IXAy52RGR8WkUuwCttQH2",
+    "cp": {
+      "1": "#4d56e5",
+      "2": "#30e892",
+      "3": "#59e830",
+      "4": "#d4b611",
+      "5": "#30a3e8"
+    },
+    "sz": 30
+  }
+}
