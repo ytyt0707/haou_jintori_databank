@@ -1,0 +1,111 @@
+{
+  "round_id": 72408,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-06-27T12:31:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵光の輪] あさはら",
+      "team": "🇯🇵光の輪",
+      "emoji": "🤭",
+      "score": "51.00",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "15.33",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[稼殺] 稼ぎタイム鏖殺",
+      "team": "稼殺",
+      "emoji": "😉",
+      "score": "6.69",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しhJ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "6.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 課題終わってない",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.32",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "1.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🍂たぬき] 名無しuf",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.52",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵光の輪",
+      "score": "51.00",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "15.33",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "9.97",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "稼殺",
+      "score": "6.69",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "team_name": "猛虎軍",
+      "score": "1.19",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkUsCwyAIRMEwAe9/4RYVa+JnUxaB+BgGE2bg7oExRMQhbm58hF6zP9baRju8Jy3zXgpmFpHacL2lkBo+/DrQGQGhlWmh7sLM5WL9IAqJYpd1BwCQnanBtmrz8BnLDg28pAVuR6cjbrR4g972KTBRzkT03C4o5RpPnNrpL43qdMK0oMXeVyBKC1zJv1TnrQZfdd/6Nc0s7hzOqlp+U3v3hkDf/AG5UhJH",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8B4513",
+      "5": "#4d73e5",
+      "6": "#8B4513",
+      "7": "#73d411",
+      "8": "#e83053",
+      "9": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
