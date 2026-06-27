@@ -211,7 +211,7 @@
                         <th colspan="2">区分</th>
                         <th>試合数</th><th>1位数</th><th>累計面積</th><th>最大面積</th><th>総キル数</th><th>最大キル</th>
                         <th>毎試合キル数</th><th>毎分キル数</th><th>毎試合面積</th><th>毎分面積</th>
-                        <th>平均個人順位</th>
+                        <th>平均個人順位</th><th>参戦時平均試合人数</th>
                     </tr>
                 </thead>
                 <tbody id="main-summary-body">
@@ -484,23 +484,26 @@
         // ==========================================
         function calcRowData(records) {
             const count = records.length;
-            if(count === 0) return Array(11).fill('-');
-            let w=0, aSum=0, aMax=0, kSum=0, kMax=0, rSum=0;
+            if(count === 0) return Array(12).fill('-');
+            let w=0, aSum=0, aMax=0, kSum=0, kMax=0, rSum=0, pcSum=0;
             records.forEach(r => {
                 const sc = parseFloat(r.sc||0); const k = parseInt(r.k||0); const rk = parseInt(r.rk||0);
+                const pc = parseInt(r.pc||0);
                 if(rk === 1) w++;
                 aSum += sc; if(sc > aMax) aMax = sc;
                 kSum += k; if(k > kMax) kMax = k;
                 rSum += rk;
+                pcSum += pc;
             });
             const kAvg = kSum / count; const kMin = kAvg / GAME_MINUTES;
             const aAvg = aSum / count; const aMin = aAvg / GAME_MINUTES;
             const rAvg = rSum / count;
+            const pcAvg = pcSum / count;
             
             return [
                 count, w, aSum.toFixed(2), aMax.toFixed(2), kSum, kMax,
                 kAvg.toFixed(2), kMin.toFixed(2), aAvg.toFixed(2), aMin.toFixed(2),
-                rAvg.toFixed(1)
+                rAvg.toFixed(1), pcAvg.toFixed(1)
             ];
         }
 
