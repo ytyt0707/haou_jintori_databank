@@ -124,6 +124,32 @@
         th:nth-child(2), td:nth-child(2) { padding-left: 2px !important; padding-right: 2px !important; width: 16px !important; min-width: 16px !important; text-align: center !important; }
         th:nth-child(3), td:nth-child(3) { padding-left: 2px !important; }
         /* ⏳ 画面を邪魔しない浮遊型インジケーター */
+        /* 📅 期間指定パネル */
+        #datepickerPanel {
+            display: none;
+            background-color: #1a1c20;
+            border-top: 1px dashed var(--deep-blue);
+            padding: 6px 10px;
+            margin: 0 10px;
+            border-radius: 0 0 4px 4px;
+            border: 1px solid var(--border-color);
+            border-top: none;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        #datepickerPanel.open { display: flex; }
+        .dp-group { display: flex; gap: 4px; align-items: center; }
+        .dp-label { color: #aaa; font-size: 0.8rem; }
+        select.dp-select {
+            background-color: #111; border: 1px solid #555; color: #fff;
+            padding: 3px 20px 3px 6px; border-radius: 3px; font-family: 'Yomogi', sans-serif;
+            font-size: 0.8rem; cursor: pointer; appearance: none;
+            background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+            background-repeat: no-repeat; background-position: right 4px center; background-size: 12px;
+        }
+        select.dp-select:focus { outline: none; border-color: var(--deep-blue); }
+        select.dp-select:disabled { opacity: 0.35; cursor: not-allowed; }
         #loadingIndicator {
             display: none; position: fixed; bottom: 20px; right: 20px;
             background-color: rgba(17, 17, 17, 0.85); color: #fff;
@@ -156,9 +182,11 @@
         </div>
         <div class="control-group" id="filter_type_group" style="margin-left: 10px;">
             <select id="filter_type" class="dropdown-select" onchange="updateView()">
-                <option value="all">すべて表示</option>
+                <option value="native">個人名義・チーム名義(本家表示)</option>
+                <option value="all">ソロ戦・チーム戦(チーム戦個人参戦別枠)</option>
                 <option value="solo">ソロ戦のみ</option>
                 <option value="team">チーム戦のみ</option>
+                <option value="merged">ソロ戦+チーム戦(プレイヤー名のみ)</option>
             </select>
         </div>
         <div class="control-group" style="margin-left: 10px;">
@@ -172,8 +200,32 @@
             <button id="period_today" onclick="switchPeriod('today')">本日</button>
             <button id="period_weekly" onclick="switchPeriod('weekly')">直近7日間</button>
             <button id="period_monthly" onclick="switchPeriod('monthly')">今月</button>
-            <button id="period_custom" title="カスタム期間指定" onclick="promptCustomPeriod()">📅 期間指定</button>
+            <button id="period_custom" title="カスタム期間指定" onclick="toggleDatepicker()">📅 期間指定</button>
             <button id="toggleFiltersBtn" onclick="toggleAdvancedFilters()" style="margin-left: 10px; border-color: var(--deep-blue);">▼ 詳細絞り込み</button>
+        </div>
+    </div>
+
+    <!-- 📅 期間指定パネル（アコーディオン） -->
+    <div id="datepickerPanel">
+        <div class="dp-group">
+            <span class="dp-label">種別：</span>
+            <button id="dp_type_monthly" onclick="setDpType('monthly')" class="active">月間</button>
+            <button id="dp_type_daily" onclick="setDpType('daily')">日間</button>
+        </div>
+        <div class="dp-group">
+            <span class="dp-label">年：</span>
+            <select id="dp_year" class="dp-select"></select>
+        </div>
+        <div class="dp-group">
+            <span class="dp-label">月：</span>
+            <select id="dp_month" class="dp-select"></select>
+        </div>
+        <div class="dp-group" id="dp_day_group">
+            <span class="dp-label">日：</span>
+            <select id="dp_day" class="dp-select"></select>
+        </div>
+        <div class="dp-group">
+            <button onclick="applyDatepicker()" style="background-color: var(--deep-blue); border-color: var(--deep-blue);">決定</button>
         </div>
     </div>
 
@@ -234,17 +286,93 @@
     <script>
         let currentMode = 'personal'; 
         let currentPeriod = 'all'; // 現在選択中の期間
+        let currentPeriodIsDaily = false; // 日間表示かどうか
         let rawRankings = []; 
         let rawJsonUpdatedAt = ""; 
         let currentSortKey = 'total_area'; 
         let currentSortOrder = 'desc';     
         let filteredDisplayData = []; 
         let currentRenderedIndex = 0; 
-        const BATCH_SIZE = 200;       
+        const BATCH_SIZE = 200;
+        let dpType = 'monthly'; // datepicker種別
 
         window.onload = () => {
+            initDatepicker();
             loadDataForPeriod(currentPeriod);
         };
+
+        // 📅 Datepicker初期化
+        function initDatepicker() {
+            const yearSel = document.getElementById('dp_year');
+            const monthSel = document.getElementById('dp_month');
+            const daySel = document.getElementById('dp_day');
+            const startYear = 2026;
+            const endYear = new Date().getFullYear();
+            yearSel.innerHTML = '';
+            for (let y = startYear; y <= endYear; y++) {
+                yearSel.innerHTML += `<option value="${y}">${y}年</option>`;
+            }
+            monthSel.innerHTML = '';
+            for (let m = 1; m <= 12; m++) {
+                monthSel.innerHTML += `<option value="${String(m).padStart(2,'0')}">${m}月</option>`;
+            }
+            // 日は月変更時に動的更新
+            document.getElementById('dp_year').addEventListener('change', updateDpDays);
+            document.getElementById('dp_month').addEventListener('change', updateDpDays);
+            updateDpDays();
+        }
+
+        function updateDpDays() {
+            const y = parseInt(document.getElementById('dp_year').value);
+            const m = parseInt(document.getElementById('dp_month').value);
+            const daySel = document.getElementById('dp_day');
+            const prevVal = daySel.value;
+            const daysInMonth = new Date(y, m, 0).getDate();
+            daySel.innerHTML = '';
+            for (let d = 1; d <= daysInMonth; d++) {
+                daySel.innerHTML += `<option value="${String(d).padStart(2,'0')}">${d}日</option>`;
+            }
+            // 前の値が有効ならキープ
+            if (prevVal && parseInt(prevVal) <= daysInMonth) daySel.value = prevVal;
+        }
+
+        function setDpType(type) {
+            dpType = type;
+            document.getElementById('dp_type_monthly').classList.toggle('active', type === 'monthly');
+            document.getElementById('dp_type_daily').classList.toggle('active', type === 'daily');
+            const dayGroup = document.getElementById('dp_day_group');
+            const daySel = document.getElementById('dp_day');
+            if (type === 'monthly') {
+                daySel.disabled = true;
+                dayGroup.style.opacity = '0.4';
+            } else {
+                daySel.disabled = false;
+                dayGroup.style.opacity = '1';
+            }
+        }
+
+        function toggleDatepicker() {
+            const panel = document.getElementById('datepickerPanel');
+            const btn = document.getElementById('period_custom');
+            const isOpen = panel.classList.contains('open');
+            panel.classList.toggle('open', !isOpen);
+            btn.classList.toggle('active', !isOpen);
+            // デフォルトは月間モード
+            if (!isOpen) setDpType('monthly');
+        }
+
+        function applyDatepicker() {
+            const y = document.getElementById('dp_year').value;
+            const m = document.getElementById('dp_month').value;
+            const d = document.getElementById('dp_day').value;
+            if (dpType === 'monthly') {
+                switchPeriod(`monthly/${y}-${m}`);
+            } else {
+                switchPeriod(`daily/${y}-${m}-${d}`);
+            }
+            // パネルを閉じる
+            document.getElementById('datepickerPanel').classList.remove('open');
+        }
 
         // 🟢 期間ごとのデータ取得関数
         function loadDataForPeriod(period) {
@@ -308,7 +436,9 @@
         // 🟢 期間切り替えボタン処理
         function switchPeriod(period) {
             currentPeriod = period;
-            
+            // 日間かどうか判定
+            currentPeriodIsDaily = (period === 'today' || period.startsWith('daily/'));
+
             const periods = ['all', 'today', 'weekly', 'monthly', 'custom'];
             periods.forEach(p => {
                 const btn = document.getElementById('period_' + p);
@@ -322,24 +452,12 @@
                 if (activeBtn) activeBtn.classList.add('active');
             }
 
-            loadDataForPeriod(period);
-        }
-
-        // 📅 期間指定（プロンプト）の処理
-        function promptCustomPeriod() {
-            const input = prompt("取得したい過去の期間を半角数字で入力してください。\n\n【月別データの場合】\n例: 2026-01\n\n【日別データの場合】\n例: 2026-01-02");
-            if (!input) return; // キャンセル時
-
-            const isMonth = /^\d{4}-\d{2}$/.test(input);
-            const isDay = /^\d{4}-\d{2}-\d{2}$/.test(input);
-
-            if (isMonth) {
-                switchPeriod(`monthly/${input}`);
-            } else if (isDay) {
-                switchPeriod(`daily/${input}`);
-            } else {
-                alert("入力形式が正しくありません。\nYYYY-MM または YYYY-MM-DD の形式で入力してください。");
+            // 本日や期間指定以外でパネルを閉じる
+            if (!period.startsWith('daily/') && !period.startsWith('monthly/')) {
+                document.getElementById('datepickerPanel').classList.remove('open');
             }
+
+            loadDataForPeriod(period);
         }
 
         function toggleAdvancedFilters() {
@@ -416,30 +534,109 @@
                 let activeData = [];
 
                 if (currentMode === 'personal') {
-                    rawRankings.forEach(row => {
-                        const type = row[0];
-                        if (type === 'sp' || type === 'tp') {
-                            const isSolo = (type === 'sp');
-                            if (filterType === 'solo' && !isSolo) return;
-                            if (filterType === 'team' && isSolo) return;
+                    if (filterType === 'native') {
+                        // 個人名義・チーム名義(本家表示): sp + tp だが、個人参戦は sp に合算
+                        const soloMap = new Map(); // name -> data (soloのみ or soloに個人参戦合算)
+                        const teamMap = new Map(); // name -> data (チーム名義 tp、個人参戦除く)
 
-                            activeData.push({
-                                typeCode: type, // キルレート計算用に記録
-                                name: row[1], 
-                                team: isSolo ? '' : row[2], 
-                                isSolo: isSolo, 
-                                icon: row[3] || '👤',
-                                matches: row[4], 
-                                total_area: row[5], 
-                                total_kills: row[6], 
-                                max_area: row[7], 
-                                max_kills: row[8],
-                                last_date: row[9] || '-', 
-                                first_date: row[10] || '-',
-                                wins: row[11] || 0
-                            });
-                        }
-                    });
+                        rawRankings.forEach(row => {
+                            const type = row[0];
+                            if (type !== 'sp' && type !== 'tp') return;
+                            const isSolo = (type === 'sp');
+                            const isIndividual = (!isSolo && row[2] === '個人参戦');
+
+                            if (isSolo || isIndividual) {
+                                // ソロ戦 or 個人参戦 → soloMap に合算
+                                const name = row[1];
+                                if (!soloMap.has(name)) {
+                                    soloMap.set(name, {
+                                        name, icon: row[3] || '👤', isSolo: true, team: '',
+                                        matches_sp: 0, matches_tp: 0,
+                                        total_area: 0, total_kills: 0, max_area: 0, max_kills: 0,
+                                        wins: 0, last_date: '-', first_date: '-'
+                                    });
+                                }
+                                const e = soloMap.get(name);
+                                if (isSolo) e.matches_sp += row[4]; else e.matches_tp += row[4];
+                                e.total_area += row[5];
+                                e.total_kills += row[6];
+                                e.max_area = Math.max(e.max_area, row[7]);
+                                e.max_kills = Math.max(e.max_kills, row[8]);
+                                e.wins += (row[11] || 0);
+                                if (row[9] && row[9] !== '-' && (e.last_date === '-' || row[9] > e.last_date)) e.last_date = row[9];
+                                if (row[10] && row[10] !== '-' && (e.first_date === '-' || row[10] < e.first_date)) e.first_date = row[10];
+                            } else if (!isSolo) {
+                                // チーム名義（個人参戦以外）
+                                const name = row[1];
+                                const team = row[2];
+                                const key = name + '|' + team;
+                                teamMap.set(key, {
+                                    name, icon: row[3] || '👤', isSolo: false, team,
+                                    matches_sp: 0, matches_tp: row[4],
+                                    total_area: row[5], total_kills: row[6],
+                                    max_area: row[7], max_kills: row[8],
+                                    wins: row[11] || 0, last_date: row[9] || '-', first_date: row[10] || '-'
+                                });
+                            }
+                        });
+                        soloMap.forEach(e => { e.matches = e.matches_sp + e.matches_tp; activeData.push(e); });
+                        teamMap.forEach(e => { e.matches = e.matches_tp; activeData.push(e); });
+
+                    } else if (filterType === 'merged') {
+                        // ソロ戦+チーム戦(プレイヤー名のみ): 全記録を名前で合算
+                        const mergeMap = new Map();
+                        rawRankings.forEach(row => {
+                            const type = row[0];
+                            if (type !== 'sp' && type !== 'tp') return;
+                            const isSolo = (type === 'sp');
+                            const name = row[1];
+                            if (!mergeMap.has(name)) {
+                                mergeMap.set(name, {
+                                    name, icon: row[3] || '👤', isSolo: true, team: '',
+                                    matches_sp: 0, matches_tp: 0,
+                                    total_area: 0, total_kills: 0, max_area: 0, max_kills: 0,
+                                    wins: 0, last_date: '-', first_date: '-'
+                                });
+                            }
+                            const e = mergeMap.get(name);
+                            if (isSolo) e.matches_sp += row[4]; else e.matches_tp += row[4];
+                            e.total_area += row[5];
+                            e.total_kills += row[6];
+                            e.max_area = Math.max(e.max_area, row[7]);
+                            e.max_kills = Math.max(e.max_kills, row[8]);
+                            e.wins += (row[11] || 0);
+                            if (row[9] && row[9] !== '-' && (e.last_date === '-' || row[9] > e.last_date)) e.last_date = row[9];
+                            if (row[10] && row[10] !== '-' && (e.first_date === '-' || row[10] < e.first_date)) e.first_date = row[10];
+                        });
+                        mergeMap.forEach(e => { e.matches = e.matches_sp + e.matches_tp; activeData.push(e); });
+
+                    } else {
+                        // all / solo / team（既存ロジック）
+                        rawRankings.forEach(row => {
+                            const type = row[0];
+                            if (type === 'sp' || type === 'tp') {
+                                const isSolo = (type === 'sp');
+                                if (filterType === 'solo' && !isSolo) return;
+                                if (filterType === 'team' && isSolo) return;
+                                activeData.push({
+                                    matches_sp: isSolo ? row[4] : 0,
+                                    matches_tp: isSolo ? 0 : row[4],
+                                    name: row[1], 
+                                    team: isSolo ? '' : row[2], 
+                                    isSolo: isSolo, 
+                                    icon: row[3] || '👤',
+                                    matches: row[4], 
+                                    total_area: row[5], 
+                                    total_kills: row[6], 
+                                    max_area: row[7], 
+                                    max_kills: row[8],
+                                    last_date: row[9] || '-', 
+                                    first_date: row[10] || '-',
+                                    wins: row[11] || 0
+                                });
+                            }
+                        });
+                    }
                 } else {
                     rawRankings.forEach(row => {
                         if (row[0] === 't') {
@@ -454,16 +651,20 @@
                     });
                 }
 
-                // 💡 キルレートの計算ロジック
+                // 💡 キルレートの計算ロジック（matches_sp/matches_tp を使う）
                 activeData.forEach(p => {
+                    // matches_sp / matches_tp がない場合の後方互換
+                    const sp = p.matches_sp !== undefined ? p.matches_sp : (p.isSolo ? p.matches : 0);
+                    const tp = p.matches_tp !== undefined ? p.matches_tp : (p.isSolo ? 0 : p.matches);
+
                     if (killRateType === 'per_minute') {
-                        // K/M (キル/分) の計算: ソロは2分、チーム(個人・団体)は4分
-                        const minsPerMatch = (p.typeCode === 'sp') ? 2 : 4;
-                        const totalMins = p.matches * minsPerMatch;
+                        // K/M: ソロは1試合2分、チーム(参戦含む)は1試合4分
+                        const totalMins = sp * 2 + tp * 4;
                         p.kill_rate = totalMins > 0 ? (p.total_kills / totalMins) : 0;
                     } else {
-                        // K/G (キル/試合数)
-                        p.kill_rate = p.matches > 0 ? (p.total_kills / p.matches) : 0;
+                        // K/G
+                        const totalMatches = sp + tp;
+                        p.kill_rate = totalMatches > 0 ? (p.total_kills / totalMatches) : 0;
                     }
 
                     let days = 1;
@@ -556,6 +757,22 @@
             }, 20);
         }
 
+        // 📅 日間モード時は時刻、それ以外は日付を返す
+        function formatDateOrTime(dateStr) {
+            if (!dateStr || dateStr === '-') return '-';
+            if (currentPeriodIsDaily) {
+                // 時刻表示: "HH:MM" を抽出
+                if (dateStr.includes('T')) {
+                    return dateStr.substring(11, 16); // "HH:MM"
+                }
+                return dateStr;
+            } else {
+                // 日付表示
+                if (dateStr.includes('T')) return dateStr.substring(2, 10).replace(/-/g, '/');
+                return dateStr;
+            }
+        }
+
         function renderNextBatch() {
             const tbody = document.getElementById('rankingBody');
             if (filteredDisplayData.length === 0 && currentRenderedIndex === 0) {
@@ -586,8 +803,8 @@
                         <div class="tooltip">よく使うアイコン</div>
                     </div>` : '';
 
-                const dispLast = (p.last_date && p.last_date.includes('T')) ? p.last_date.substring(2,10).replace(/-/g, '/') : p.last_date;
-                const dispFirst = (p.first_date && p.first_date.includes('T')) ? p.first_date.substring(2,10).replace(/-/g, '/') : p.first_date;
+                const dispLast = formatDateOrTime(p.last_date);
+                const dispFirst = formatDateOrTime(p.first_date);
                 const formattedMaxKills = p.max_kills < 10 ? '0' + p.max_kills : p.max_kills.toLocaleString();
 
                 const tr = document.createElement('tr');
