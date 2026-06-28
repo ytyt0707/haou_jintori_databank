@@ -1,0 +1,47 @@
+{
+  "round_id": 72746,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-28T15:47:11.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[稼殺] 稼ぎタイム駆逐",
+      "team": "稼殺",
+      "emoji": "😉",
+      "score": "2.36",
+      "kills": 18
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "2.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "稼殺",
+      "score": "2.36",
+      "kills": 18
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHt0DEOACAIQ9FP6P3PbNDVorOx64OSAMdI2cwoW1XObAuk0i0Bpc4gS52rb0Z20xwMwggQK27gQt3qrLb44ZEPDLyxAJ0=",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#4d64e5",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
