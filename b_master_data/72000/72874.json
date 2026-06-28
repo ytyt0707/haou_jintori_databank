@@ -1,0 +1,57 @@
+{
+  "round_id": 72874,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-28T13:42:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[びわ湖] 成瀬あかり",
+      "team": "びわ湖",
+      "emoji": "🚢",
+      "score": "56.69",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[びわ湖] 名無しKO",
+      "team": "びわ湖",
+      "emoji": "😝",
+      "score": "4.27",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳kzm] ibt",
+      "team": "🇨🇳kzm",
+      "emoji": "😍",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "びわ湖",
+      "score": "60.96",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳kzm",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkgsOxCAIBVHo/a/cfeAzgKbJkiZVhsFPFPk7Hm2KmaqJrmhQQFMQG0LV6XaVrdVplJxyZNxP0JbsqQNaLBwwWax2XPPclmW3lihOkDp3SshWlfMuDupXRjqrtGfBJ+SxkzEQXOSc+HSM0bEGngLaVEzReYJew9f9pvLpBrx054mvy/JpXLy1Zdeby5brX2mDR+fKq7ufKosaZjr/UYLD59xv/AIRzgbI",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#d4c811",
+      "5": "#30e870"
+    },
+    "sz": 30
+  }
+}
