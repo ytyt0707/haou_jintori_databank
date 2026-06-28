@@ -1,0 +1,44 @@
+{
+  "round_id": 72659,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-06-28T02:04:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しKy",
+      "team": "",
+      "emoji": "🦄",
+      "score": "11.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "BOT 1.5",
+      "team": "",
+      "emoji": "🐱",
+      "score": "0.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "BOT",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.12",
+      "kills": 7
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eAHtkFEOgCAMQ9th739lA4KabRAT/XRfSx9tF6QxRJzBJCb4KRVZfPbllVAAF3/DJBjb+wP2yeMP6BmA5p5YB62t7qqW1Lx1W9OktSen5BR1bv/y5Q8YYDYNtAULpi0o74QdaBICQw==",
+    "cp": {
+      "1": "#e88730",
+      "2": "#d130e8",
+      "3": "#e83075",
+      "4": "#7c4de5",
+      "5": "#30c6e8"
+    },
+    "sz": 30
+  }
+}
