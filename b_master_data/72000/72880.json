@@ -1,0 +1,66 @@
+{
+  "round_id": 72880,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-06-28T14:01:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[パン派] ひょっこりパン",
+      "team": "パン派",
+      "emoji": "🥺",
+      "score": "30.57",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[パン派] 名無し0x",
+      "team": "パン派",
+      "emoji": "😀",
+      "score": "20.79",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[パン派] BOT",
+      "team": "パン派",
+      "emoji": "🤖",
+      "score": "15.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇬🇧珍走団] もネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤭",
+      "score": "1.49",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "パン派",
+      "score": "66.83",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "1.49",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1klGSwyAMQ10s+f5H7kgYCtn2cz2TBHiWbAhkR8wA0CN9FqQmcHynk6FumplJNkNdFBTNTVFHYdfNxE8KZC5f4Kk9iIYP5+/0Nffbu9w51echrK428KDpS/EH4kOtvaUozg23M27vkl2fput25SptqIrliAhNZF1VelZoYVJhraKUW0UWMELULstqYnKMEcOn4eTGlgZjCDf1b9rNaPGghtzqn5R0W6e2pbO76RBd9biTAp3phvxaUhf2pHOe9JNI+nqfzhf8d/oGa7IMCA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6ae830",
+      "4": "#30e881",
+      "5": "#30e881",
+      "6": "#30e881"
+    },
+    "sz": 30
+  }
+}
