@@ -1,0 +1,56 @@
+{
+  "round_id": 72650,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-28T10:35:54.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ハゼ] ハゼ太郎",
+      "team": "ハゼ",
+      "emoji": "🐟",
+      "score": "50.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "42.56",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しGi",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ハゼ",
+      "score": "50.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "42.56",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkEsOwCAIRMuYuf+VG6woH5umi+7KRsibAUSk/TEvgJntEgBkBcOEjosgURaBNoRoax9jDNRunTf8hq4pYymSR7XLoh5eeRO/UnCrQJIj1rHK8pc0TCrez6j/fhhixaPAhPUN5zwBaygNxA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "5": "#30e83c"
+    },
+    "sz": 30
+  }
+}
