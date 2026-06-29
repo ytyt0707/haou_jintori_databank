@@ -1,0 +1,47 @@
+{
+  "round_id": 73322,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-29T13:55:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 万個タワー",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦊",
+      "score": "10.08",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵お赤飯] ごましお",
+      "team": "🇯🇵お赤飯",
+      "emoji": "😛",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "10.08",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤飯",
+      "score": "0.08",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkUEWxCAIQ0O4/537AFGxOItZlY3IDyVYIINkpt0ZVC0aTFLBK3XwH0X0sh0LDNx5cpuq5uwWBu9bG7330nduvzzWhXQ0odNTYa8bhk4SqyKoCESqYvsvErGGl5cfdLUbnVoxWyaZlQ1GrdApy+ScnXU/c3YprsvAq1Cy3VQBfvlN3/oPVR6DaQF8",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
