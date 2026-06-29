@@ -1,0 +1,57 @@
+{
+  "round_id": 73160,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-06-29T05:09:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "76.93",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] カレー食べたよ",
+      "team": "猛虎軍",
+      "emoji": "🍛",
+      "score": "10.19",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵お赤軍] 球根栽培法",
+      "team": "🇯🇵お赤軍",
+      "emoji": "🧅",
+      "score": "2.77",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "87.12",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤軍",
+      "score": "2.77",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtk0sSxCAIRFGa+195ip+COpupyUbCs0mDkcgf+EO0ggCayGQwgFnDK+2c2fHabYGIiKmeFIXariZWrVjmZuBNmyheDnp6Fnhh313pABoDaE1njKFDCDe+qLbqAz8cl05+o68+/5J7H12WVvrNsI3jorbbhtKkOcdSrISLRrmC1Ml0O/mtTilo/KHpPNe5sem7eCb2No9mW2kbBe/zTs+AlvRB7eJ5leKqKSbeyQ/aYwy0",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e84230",
+      "4": "#e84230",
+      "5": "#a74de5"
+    },
+    "sz": 30
+  }
+}
