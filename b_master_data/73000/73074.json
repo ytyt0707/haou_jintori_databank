@@ -1,0 +1,48 @@
+{
+  "round_id": 73074,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-29T00:30:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神撫子] 葬送のフリーレン",
+      "team": "神撫子",
+      "emoji": "👾",
+      "score": "80.61",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵お赤軍] 球根栽培法",
+      "team": "🇯🇵お赤軍",
+      "emoji": "🧅",
+      "score": "5.93",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神撫子",
+      "score": "80.61",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤軍",
+      "score": "5.93",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlk1EOgDAIQwv1/mc2ZW5xOlAjH3P4aEESAYAtAHfHyAEOpAJ396Py/hCsKXMc7ndPkn20Jfz20qyqt8BJO1MUwwSedjW1MmPe29jMJ8Up+UNlfbK6XAWTD1ZlJRUtnB/Ea+mmuIw40oAZPmAi7nSNa8p3WGO2TSb71E/VUdznYwcPoQnN",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83075",
+      "4": "#30e83c"
+    },
+    "sz": 30
+  }
+}
