@@ -1,0 +1,48 @@
+{
+  "round_id": 73474,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-06-30T07:08:01.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇧🇷ブラ] ブラジル",
+      "team": "🇧🇷ブラ",
+      "emoji": "⚽",
+      "score": "13.01",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "0.14",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇧🇷ブラ",
+      "score": "13.01",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "0.14",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kEEWxCAIQ4Fy/zPPS5AZqOJuWCjyCaQVERHNwGOPpKo7K+IzFoow4iRetdgwNFxheD8r3elugkE1DPYmd0naAV4Y6+46KJ2h6ujrEShOwYaIlRTKHYlxm4mZfTsqYm5GT2jY2Crk2oETD4wfPU/G37jQN+4O37ZOtNeKyXEvFTdPMLUGPWVgpj+alT/eH/cbAjc=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8b4",
+      "4": "#e83098"
+    },
+    "sz": 30
+  }
+}
