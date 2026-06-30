@@ -1,0 +1,74 @@
+{
+  "round_id": 73600,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-06-30T04:56:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ニャル子",
+      "team": "猛虎軍",
+      "emoji": "🏁",
+      "score": "37.83",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ジョン・スミス",
+      "team": "",
+      "emoji": "😎",
+      "score": "8.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 名無しsa",
+      "team": "猛虎軍",
+      "emoji": "🦁",
+      "score": "7.64",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[Ｙやで] 名無し47",
+      "team": "Ｙやで",
+      "emoji": "🤠",
+      "score": "2.80",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "45.47",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "Ｙやで",
+      "score": "2.80",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNktsSxCAIQ4OS8f//eJegldruzPrg7RjAKFCbRWu7YYwxoN2rO+i1n5M7vSAUZMOmyAsDIK2hIU/gRg0kzVRnazGMsZQxkjAvt6jM58J9ndCGu7tZ9G7QMHHQXN/7DP/OVugnpbuTlPg1bFDhq6qSliba07tTT9mCnzRs6ZOWoDHVW/Q+6QGdZhZQWsFMnT4x/CZFizKPBFn3LTCn/8C06pDCGf+DKqr3g+bD/aL5bkt6aOef8Rm4UAAzrj/oVMWf9U3lzkZRcFKklRXFPJIp73fxAer3CQw=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e86430",
+      "4": "#85d411",
+      "5": "#85d411",
+      "7": "#e83053"
+    },
+    "sz": 30
+  }
+}
