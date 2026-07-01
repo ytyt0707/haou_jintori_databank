@@ -1,0 +1,72 @@
+{
+  "round_id": 74224,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-01T14:40:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神] 名無しKP",
+      "team": "神",
+      "emoji": "🐱",
+      "score": "16.82",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 1号",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤕",
+      "score": "15.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇬🇧珍走団] もネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤭",
+      "score": "9.32",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[神] 神",
+      "team": "神",
+      "emoji": "👽",
+      "score": "4.55",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神",
+      "score": "21.37",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "15.71",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇬🇧珍走団",
+      "score": "9.32",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF90YsOhSAMA9Baxv3/T75pt4lvEiNyWAcxwoOA3tQAEAgteC03NNoJb9plL011BI/q3AzPBmfF8lMtyTzScgBVK3tUe25adWsWER0xqG1Nm3q7PzA8RCDnJLlturMeDXFVWvNWheYKftEqvms1dvZNE/NXxVUTh/5eRMziPtJVfenGum6VviS/aAWP86kquVGnAqnkvacm61QgYs7GnycHBXDWX48qOWhLvV26ki+qT2Q7AA+YS+7yqln/zR/6ByhKCTU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83030",
+      "4": "#9ca3af",
+      "5": "#e83098",
+      "6": "#e83098"
+    },
+    "sz": 30
+  }
+}

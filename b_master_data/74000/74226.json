@@ -1,0 +1,54 @@
+{
+  "round_id": 74226,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-01T14:46:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[神] 神",
+      "team": "神",
+      "emoji": "👽",
+      "score": "30.30",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[お前か] お前ベネット？",
+      "team": "お前か",
+      "emoji": "😀",
+      "score": "3.03",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "神",
+      "score": "30.30",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "お前か",
+      "score": "3.03",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGF0FESxCAIA9Ag3v/MOxBwsWjrF9M3CVpg8OB0wsYYr3pCIJtLVvN4wttLNlH5baCsXaYa/KUAhEWXrJC7cu1N2cmwZWcU2IPDYrHrpFPsTvKPqn6pe8n6GAvn3PTxnKb+noiq6cwf6aXGqf6mtdUGWcShoGxawEYVKdGOpXbHAj7uWq5q+sTFV+gpK8mlODSm4ozM9n355XjLwB+NAAQt",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#97d411",
+      "4": "#4d81e5"
+    },
+    "sz": 30
+  }
+}
