@@ -1,0 +1,42 @@
+{
+  "round_id": 75082,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-03T13:02:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[草民] 名無しqd",
+      "team": "草民",
+      "emoji": "🥺",
+      "score": "91.22",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[草民] 名無し5g",
+      "team": "草民",
+      "emoji": "🤖",
+      "score": "2.34",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "草民",
+      "score": "93.56",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYGBgwQ4YwIAJuyRIFCRPrixIM269FMmCXIbH6OElNXJ8Co03Zjzxx8yMW5YZBHDqxS2DpAVbWDMyIinAYMJlwbZDCQYGGA+mHgBSvA1p",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#e87530"
+    },
+    "sz": 30
+  }
+}
