@@ -1,0 +1,99 @@
+{
+  "round_id": 75050,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-07-03T11:18:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] PMラジオ局",
+      "team": "🇯🇵山本組",
+      "emoji": "😣",
+      "score": "32.71",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "26.36",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 風吹けば名無し",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐶",
+      "score": "2.76",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "😪",
+      "score": "1.00",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵阪神] AMラジオ局",
+      "team": "🇯🇵阪神",
+      "emoji": "🤑",
+      "score": "0.62",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵阪神] 名無し4v",
+      "team": "🇯🇵阪神",
+      "emoji": "😀",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵山本組] ドラゴン😤",
+      "team": "🇯🇵山本組",
+      "emoji": "🐉",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "59.16",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.76",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "1.75",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNktsSwyAIRDewtvb/f7jDTbFNZ+pDohwWFhMRQARfSy+9VEXmCVUBVcWlavQUWszXZVjmnFH2Za9i+Z5FP+Jx3No7LIXvoLmKxn9QfuScWkJ1+SbZ+5LsYhIysy9UjZKaKTRaEEha+qDrJk9qZdDu2Yp6hhv3Lu0jDA+ks9gLVmVEJEZOeg/Dw9nXBLupu9o/TUFkD1rXMQBwhbSuhQzhQPldM7sro8/nGOMRZT24HqFl0F0yuVNyPH5rSQa1cVZZu2dbLaD98EVbYg3U8sOlB3Ibxdthb9+Jlgkg",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e86430",
+      "4": "#e86430",
+      "5": "#30d7e8",
+      "6": "#30d7e8",
+      "7": "#30d7e8",
+      "8": "#9ca3af",
+      "9": "#e86430"
+    },
+    "sz": 30
+  }
+}

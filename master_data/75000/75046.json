@@ -1,0 +1,57 @@
+{
+  "round_id": 75046,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-03T20:05:41.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ライム] 名無し0F",
+      "team": "ライム",
+      "emoji": "🤣",
+      "score": "29.28",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "19.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵山本組] PMラジオ局",
+      "team": "🇯🇵山本組",
+      "emoji": "😣",
+      "score": "8.93",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ライム",
+      "score": "29.28",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "28.53",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kUESBCEIA+MY/v/lrYAo6lTNbTko2ARQAQsjmBYHcHM/ge8j34CQbpBJ+Uoj10iguXoXZ4TW1Nwy3vdBQb4lJFX5pcvLVTpGjaTee+dJOUoI9j5p3lvUgjn1oePVSGmNk0o8uVraVKr0qg1o1tR53/iJXCtyaQLf/0UBPE/tXBrH8UZx4B2etNYFbqoHW7ZK62xFkXTEJRxuKg5xUO8i96JOYrl/QXOUhA/3B5EQB5U=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#d4b611",
+      "5": "#d4b611"
+    },
+    "sz": 30
+  }
+}
