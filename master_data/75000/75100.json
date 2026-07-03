@@ -1,0 +1,48 @@
+{
+  "round_id": 75100,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-03T23:00:53.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] ぬきち^@ω@^",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[810] 真夏の夜の夢",
+      "team": "810",
+      "emoji": "💩",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "810",
+      "score": "0.11",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk0sOwCAIBYH2/mduHlY+ouiiAUdGDVbkMAijsDkDNGNfNCp2dVhzpXBWqeq3h7GNmeFmy3PAOvKcZQOmUk8qdAYDuJlq0OOltojeKCw0QmlP0dPlFEmrF1xmLqm3rxUTU3Mjaje+UZbjS8CTZXQt3CI0CY8sIu2wyfSHGHhZBJvS8XmC/Q8DpbS78g/9JgYt",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30e8d7"
+    },
+    "sz": 30
+  }
+}
