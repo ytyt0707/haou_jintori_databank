@@ -1,0 +1,48 @@
+{
+  "round_id": 75504,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-04T11:51:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[警察庁] 神奈川県警",
+      "team": "警察庁",
+      "emoji": "🤔",
+      "score": "44.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[警視庁] パトカー",
+      "team": "警視庁",
+      "emoji": "🚓",
+      "score": "30.63",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "警察庁",
+      "score": "44.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "警視庁",
+      "score": "30.63",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkkESxSAIQ2Ph/mfuBAVix/+3nWZRI69hsBUYmxC6lnY4GYBJBWKMgqR8p9p6IndaQlTWZxGgCQnO0r5meK/mbjXvfgm4rt5+pjmoJsRH2N1ETwphZtZYQNvCXZL8W7SmPk5Vh/o+7RPMT917+Qu0xPhH8YuuG3fIwizuEx83OjMJdA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8b4de5",
+      "4": "#e83075"
+    },
+    "sz": 30
+  }
+}
