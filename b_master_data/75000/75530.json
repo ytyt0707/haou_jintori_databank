@@ -1,0 +1,57 @@
+{
+  "round_id": 75530,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-04T13:15:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[稼ぎ] 稼ぎマン",
+      "team": "稼ぎ",
+      "emoji": "👺",
+      "score": "5.60",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しx2",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "5.02",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] はじまん",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "3.71",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "8.73",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "稼ぎ",
+      "score": "5.60",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkMEOwjAMQz3L7f9/MordTDDYJsSVnKq8vjgt8FKUi1VjjLCZQiAlquAANgCGnHOSBUgp0LhpQbOmW7ktlyT7cQODSQfH9mSbsffly+7YvQlwnZXY9aCnCz5G7eceKTz4nK6/eNPckE4yi0r6bK3uHf5BvhmN68Uug//wyx94AJ3fAvk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#514de5",
+      "5": "#9ca3af",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
