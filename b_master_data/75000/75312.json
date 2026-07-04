@@ -1,0 +1,57 @@
+{
+  "round_id": 75312,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-04T01:28:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[稼ぎ] 稼ぎマウス",
+      "team": "稼ぎ",
+      "emoji": "😁",
+      "score": "31.76",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[稼ぎ] 稼ぎマン",
+      "team": "稼ぎ",
+      "emoji": "👺",
+      "score": "0.59",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵風呂] 便所虫",
+      "team": "🇯🇵風呂",
+      "emoji": "🤖",
+      "score": "0.14",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "稼ぎ",
+      "score": "32.35",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵風呂",
+      "score": "0.14",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kgkOxSAIRNHK/a/8M8AAluabNLE+Zuki8n+pY8Uak/1kctItIkNOt723U05bSNyAQfySzyhp6hF11V4ii9kEJV5rQMTHajQt0MUHdNUkFafKcPeQ2UPRO/3OCY55nvpGVTvNNJ+saRi0u8IIw3WArxifieOCtKHFh3N8POalr0ktMLy9VKS+Kdv0Um9nSu9SVNy0F4ZPp55tE3bs1F47ZZ+Vmy7eUHnAyH3wO3jcTbNBbqrUD2eABeQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d73e5",
+      "4": "#bcd411",
+      "5": "#bcd411"
+    },
+    "sz": 30
+  }
+}

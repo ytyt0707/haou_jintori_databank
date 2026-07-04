@@ -1,0 +1,57 @@
+{
+  "round_id": 75318,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-04T10:47:56.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[稼ぎ] 稼ぎマウス",
+      "team": "稼ぎ",
+      "emoji": "😁",
+      "score": "76.48",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[稼ぎ] 稼ぎマン",
+      "team": "稼ぎ",
+      "emoji": "👺",
+      "score": "19.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "1.20",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "稼ぎ",
+      "score": "95.60",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "熊谷市",
+      "score": "1.20",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9UtEWhSAIS6H//+V7QGDMvPZQwBiOmWg9sh5VjUiewiywaitQsuCGqhihFyg2lAqUXKDr1K8KGusroCK7BNqPEiOh4PJYY3mzutDrxzXU8ykTMuBr+DXnCc0ZZ7SGdGoVu3gcLGXAn4taKxr4guURCCL6NtQBsobRMMY7HtW3UFsvpyb/jkJSo+5XOoabkBPzG9wxzs4kTH/wxrW5kLCfi2W8JzpdaLzAlR9pkw1G",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8b4de5",
+      "4": "#8b4de5",
+      "5": "#30e881"
+    },
+    "sz": 30
+  }
+}
