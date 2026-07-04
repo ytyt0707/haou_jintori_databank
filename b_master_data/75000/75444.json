@@ -1,0 +1,71 @@
+{
+  "round_id": 75444,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-07-04T08:36:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[稼ぎ] 稼ぎマン",
+      "team": "稼ぎ",
+      "emoji": "👺",
+      "score": "12.15",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しx3",
+      "team": "",
+      "emoji": "🦁",
+      "score": "0.91",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[Ｙやで] わいやでー",
+      "team": "Ｙやで",
+      "emoji": "👾",
+      "score": "0.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[稼ぎ] 名無し7m",
+      "team": "稼ぎ",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "稼ぎ",
+      "score": "12.15",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "Ｙやで",
+      "score": "0.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1j1EOwCAIQ6s1u/+RF8DIlhX+xofBPlsQa6GuFgKdFWONCKbKH1EKAWjh5oXVZLPXuKe1TxH5N/VQaARrO62EKaSOOiMKs4U6UnxbAT07sJ1isYQNLYJNjjrB1+l8G5JzyrnpVXOTPvKy/YxNZJ3jt/TH7QY63QGX",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e83c",
+      "4": "#97d411",
+      "6": "#af30e8"
+    },
+    "sz": 30
+  }
+}
