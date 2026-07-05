@@ -1,0 +1,126 @@
+{
+  "round_id": 76000,
+  "game_mode": "TEAM",
+  "player_count": 13,
+  "played_at": "2026-07-05T14:39:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[斉] 南斉王/武帝",
+      "team": "斉",
+      "emoji": "🤠",
+      "score": "35.54",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[斉] 済",
+      "team": "斉",
+      "emoji": "😜",
+      "score": "16.15",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "11.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] ザビエルだザビ！",
+      "team": "猛虎軍",
+      "emoji": "😇",
+      "score": "9.08",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[斉] 名無しEN",
+      "team": "斉",
+      "emoji": "⚔️",
+      "score": "6.68",
+      "kills": 8
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[猛虎軍] 用済み女",
+      "team": "猛虎軍",
+      "emoji": "🥰",
+      "score": "4.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[ライム] ライム",
+      "team": "ライム",
+      "emoji": "😀",
+      "score": "0.89",
+      "kills": 1
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[ライム] 名無しTZ",
+      "team": "ライム",
+      "emoji": "🐲",
+      "score": "0.40",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[猛虎軍] 陸遜",
+      "team": "猛虎軍",
+      "emoji": "😃",
+      "score": "0.17",
+      "kills": 4
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[斉] 陶淵明",
+      "team": "斉",
+      "emoji": "🖋️",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "斉",
+      "score": "58.45",
+      "kills": 20
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "24.97",
+      "kills": 13
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ライム",
+      "score": "1.29",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkFGOxDAIQ92GEYbO3v+6KxMyTUdaafloQx42BGA8o3Jg/p7okZk90n8l373+FGVuaA6zXfURY0Ch0qy7+7jrBc36JhWbeUmtHmPT5lOw3HK9tJQ5dvnm1XT3bmrpXn236i4zG4ZF3XfxsAq4R4z8+YylGo0miqIhxkySBTGVJucIduuc1Bad2gUlZne8nW8aQRoBSl5rj2qrrskMmIGMsHdBRGPZJgDpr+u6Fl0LUV+Akwo6EO7t7ZJXvC8Zu3vRid0pIcnXWysWPc/zvKkmIukdQIgemelO7UZxU/fT/ZhOi+K1xPU/OmttTay+Gm2LWifnY/fvLKm2N/0FUXESKw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83075",
+      "4": "#e83075",
+      "5": "#30c6e8",
+      "7": "#7c4de5",
+      "8": "#7c4de5",
+      "9": "#7c4de5",
+      "10": "#e83075",
+      "11": "#514de5",
+      "12": "#514de5",
+      "13": "#e83075"
+    },
+    "sz": 30
+  }
+}

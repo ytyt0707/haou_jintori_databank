@@ -1,0 +1,84 @@
+{
+  "round_id": 75996,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-07-05T14:26:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[斉] 南斉王/武帝",
+      "team": "斉",
+      "emoji": "🤠",
+      "score": "46.53",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[斉] 名無しEN",
+      "team": "斉",
+      "emoji": "⚔️",
+      "score": "28.83",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ライム] ライム",
+      "team": "ライム",
+      "emoji": "😀",
+      "score": "11.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[斉] チー牛銀行員",
+      "team": "斉",
+      "emoji": "👺",
+      "score": "1.65",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ライム] BOT",
+      "team": "ライム",
+      "emoji": "🤖",
+      "score": "1.56",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[ライム] チェホン",
+      "team": "ライム",
+      "emoji": "😝",
+      "score": "0.10",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "斉",
+      "score": "77.02",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ライム",
+      "score": "12.90",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtk0sSBCEIQ1E0w/1PPBUQpT81q2EjzQtE21JEZcVgaERW16eqFrg1mz7hRiXJ4aV00p/wyP6RLaufjjyR7N9xXCdTQsYpn2yhV8GF1XapU0PVWvOhokqfee1trbVljzHnC41udXrHqkkxH80c290aIC7GPHilQKUUXimQzeJJUkFE0lhVR6dxobt/KXq/UAzzLTntHsAHtJ0TMHMQ19U5O22BAQvst+nQqWG4yMz8vxP3znOtPcdixlJ5FjcqfqMhqb0iI5+b5BuTLyCSDHY=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#4d56e5",
+      "5": "#4d56e5",
+      "6": "#30a3e8",
+      "7": "#30a3e8",
+      "8": "#30a3e8"
+    },
+    "sz": 30
+  }
+}
