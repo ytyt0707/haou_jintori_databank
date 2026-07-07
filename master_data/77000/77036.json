@@ -1,0 +1,42 @@
+{
+  "round_id": 77036,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-08T07:39:15.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[来る!] 名無しLQ",
+      "team": "来る!",
+      "emoji": "🐱",
+      "score": "0.17",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[来る!] 名無しIc",
+      "team": "来る!",
+      "emoji": "🤔",
+      "score": "0.17",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "来る!",
+      "score": "0.33",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYBgFZIcAM9k6B7NGFhZSXMeEVzETCOBUQYksqqGMjIyoAsg8RhBAFkBj45dlwKsXzSiyuAA+gQA5",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#6e4de5"
+    },
+    "sz": 30
+  }
+}
