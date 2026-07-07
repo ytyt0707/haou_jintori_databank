@@ -1,0 +1,57 @@
+{
+  "round_id": 76672,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-07T02:58:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "42.96",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[RPG] 魔術師",
+      "team": "RPG",
+      "emoji": "🔮",
+      "score": "27.19",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 2525",
+      "team": "猛虎軍",
+      "emoji": "😊",
+      "score": "19.40",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "62.37",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "RPG",
+      "score": "27.19",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdk9GSxSAIQyMx///LO0AVqdP7sDy0do4hIhSgNJSBd5DkptJsARIcYyx1g/Ohnhj+uKjnJtOYnc5kjinxkwb8RW/jnTmsX7blGyf7P+Wr3Nky86oIx7FoBuD07tDIhi9KqORFzcz8yxuyEpSvMWD0Y+HSrlV0E1GcSntSZTu+aN5L0K7POfjMjByi8F92+/1o5cX1rL7loLzogpLoI9vigH5njVVe30Wn54YY+a1Hip8X8y/LPvj6DxI4C9E=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83030",
+      "4": "#30e85e",
+      "5": "#e83030"
+    },
+    "sz": 30
+  }
+}
