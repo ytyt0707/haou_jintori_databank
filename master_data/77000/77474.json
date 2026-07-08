@@ -1,0 +1,48 @@
+{
+  "round_id": 77474,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-09T07:19:29.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 熱さまシート",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "19.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳赤軍] ホーチミン",
+      "team": "🇻🇳赤軍",
+      "emoji": "🥖",
+      "score": "0.17",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "19.60",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳赤軍",
+      "score": "0.17",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkVEOgDAIQwvj/mc2RZmbKcbEJfswj0dhwszQH3vFVHvbDC86Ue/S7KcqGrrEIiLAK05CFkhK6zrCvSi0W2LT2pjMqxrnS2WFpDRbeucqd1IF73X/ULnRzJX0Y/A6lcPdAQdKXilIs6CCNVVudk5X0rOxz9htIR8D51DM6/7uPsvz6wCyDwMw",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#85d411",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}
