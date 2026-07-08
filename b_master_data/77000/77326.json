@@ -1,0 +1,57 @@
+{
+  "round_id": 77326,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-08T14:19:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤍",
+      "score": "33.11",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂被害者] 私女ですけど？",
+      "team": "🍂被害者",
+      "emoji": "💓",
+      "score": "32.57",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 中田敦彦",
+      "team": "みん²",
+      "emoji": "😎",
+      "score": "0.09",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "33.20",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂被害者",
+      "score": "32.57",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkFEOBCEIQ1GW+195QykKOplk+DH4bCmaHTVqHcyswnFRSSwi8pWKuFzGo9ZMZQA9OZu5iHXNrTBT6X6VOj9NWYkr3DTVL1RbpuXsAwyo8ZjLoXCNRxxQcV7t2Rka8rgu5o3GV/iOaVOtnXq+5PkZXDegOXb1oqo6TaH0CBedc2LpWK9rp0734eYUL2coX+gh7dZ0ofURms408KOthFAw+GEjYBpqRF4dxa3vDf66X5VO5A+NRwnH",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#4d56e5",
+      "5": "#d130e8"
+    },
+    "sz": 30
+  }
+}
