@@ -1,0 +1,81 @@
+{
+  "round_id": 77386,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-07-09T02:34:10.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬきたち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "58.85",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しiS",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "31.83",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] チー牛銀行員",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "1.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[両手] 左手",
+      "team": "両手",
+      "emoji": "👈",
+      "score": "1.52",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[両手] 腕",
+      "team": "両手",
+      "emoji": "🤲",
+      "score": "0.44",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "90.68",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "両手",
+      "score": "1.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.54",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kUEShTAIQ6Gl6f1v/CdQWtHp8rux5oUE1czMACjQADNVVZh1EUCE0CVFawgO673jSYHRxhiAzwqhey0UDF4Aa/bFVjOlxuFKo9ebMXzEZ1dAUtNMYxb8NaLX1y51XD0ygqU5E8jvs8tVRl/xXuAGmnk40aksNWPOyu53ulkcIiPFbVvCg/KbCN8hvdmf1rXOC8fj2bTiQuf18wgw75SQuEafSof8/aUt+RQmZ3Wq+75g8K1+D5/f8bX8W5F7wQ+m8BHw",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#a74de5",
+      "4": "#8B4513",
+      "5": "#9ca3af",
+      "6": "#8B4513",
+      "7": "#e830cb"
+    },
+    "sz": 30
+  }
+}
