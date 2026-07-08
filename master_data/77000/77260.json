@@ -1,0 +1,56 @@
+{
+  "round_id": 77260,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-08T19:45:33.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[マギア] (*^○^*)",
+      "team": "マギア",
+      "emoji": "🦄",
+      "score": "38.98",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] たぬぴ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "17.36",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[マギア] 呉キリカ",
+      "team": "マギア",
+      "emoji": "🗝️",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "マギア",
+      "score": "38.98",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "17.36",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kksSwCAIQ4kD979yJ3yK0qluFB4JaAsRAWC9ZK6mMBsQreVxp6DvqwVsUDaurjA7xFUanJWn8x5x/ojVt6OUGYiYqSYdUwqhmd1pXBtA2dQA6uKMlKsMTUSVbevJnGoI4l7MZGNJumGn4VzwQ73dLxUO86WRWWv9UluDvmO7lnStduY14g2J7zQKtrEo8c8TY1G+0aNJuG80Jb3xuTqaJ3/Mmez4iic8+zjtzgzbN36tKPFPkscUiTysfwj7",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#c030e8",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "round_id": 77246,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-08T10:00:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] PMラジオ局",
+      "team": "🇯🇵ONJ",
+      "emoji": "😣",
+      "score": "46.60",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 速報 三笘が事故",
+      "team": "🇯🇵ONJ",
+      "emoji": "⚽",
+      "score": "37.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[マギア] 呉キリカ",
+      "team": "マギア",
+      "emoji": "🗝️",
+      "score": "0.28",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 三笘臭る",
+      "team": "🇯🇵ONJ",
+      "emoji": "⚽",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "83.80",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "マギア",
+      "score": "0.28",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkVsSxSAIQ8GGu/8ldwIo0jr9uczUPg4J0QKaJQAwxhhmXFniEAoFQO7M2OWXKsFWqQstxRsD6JvmIqrWYNKYLayO6WlRD8K+sHZ8oODU0HbTfDPr1C1WvJxq2wfAMp+ZkGPReJjrQytigPczc1Xk6Hs+0drbiW4BFy6FzxDxuBO/6AR+389K0JVrv9nUbHkgVdK2Op2vamhDXXud6C/6WuaSftPsq5n9/AP/TWe0SrXNXX/3RW/bIA37",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#bcd411",
+      "4": "#9ca3af",
+      "5": "#9ca3af",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
