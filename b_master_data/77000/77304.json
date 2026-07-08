@@ -1,0 +1,42 @@
+{
+  "round_id": 77304,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-08T13:08:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[マギア] ホムリリィ",
+      "team": "マギア",
+      "emoji": "🖤",
+      "score": "95.80",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[マギア] 呉キリカ",
+      "team": "マギア",
+      "emoji": "🗝️",
+      "score": "0.95",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "マギア",
+      "score": "96.75",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kMEKACAIQ9P2/98c3QbqICtP4nNOBQ7DVL9pqqT/2ehYzI7oiUY7J5TuSyjtdENpTJG6e0F2WUJAScXUiOgZEX6sdHwXcKIN4w==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#e830dd"
+    },
+    "sz": 30
+  }
+}
