@@ -1,0 +1,83 @@
+{
+  "round_id": 77232,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-07-08T09:14:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[マギア] 呉キリカ",
+      "team": "マギア",
+      "emoji": "🗝️",
+      "score": "30.72",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ラジオ聴かせて",
+      "team": "🇯🇵ONJ",
+      "emoji": "📻",
+      "score": "25.64",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] タカイチサナエ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "9.68",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] PMラジオ局",
+      "team": "🇯🇵ONJ",
+      "emoji": "😣",
+      "score": "7.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "4.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] 2525",
+      "team": "🇯🇵ONJ",
+      "emoji": "😊",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "43.31",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "マギア",
+      "score": "30.72",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtklFuwDAIQxmWUX3/C08GmkbT+GgpDwOhiSCZbSQY8cTzxBNrtFUisz3yWTPfUGaKFn+09Q4QmWh80a4NgASyK5dTr8qBMZJiw6FkRQyk9coaOqNU1VIASX7w58fnuChuugfxPGP6Q6fJQjJ3pqOzc5RnV3fWRbMXwyqPN/6hTMCg2Vv+UKW1krxvv2eH5hLFHNiUkv/ZaidE5YolFVBD+/9EVRmK4eciJ7jXXIfNUI3WA3ThvSxToUx7oum10C/1wS56sQhP8FWW1BRvzn8UePFIv77vNRl1txzoVTk4oeOcjC64X57pA+1plda/Ra4Uff57h3H2DFyxTpzpfgFC2g6L",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "5": "#9ca3af",
+      "6": "#9ca3af",
+      "8": "#6e4de5",
+      "9": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
