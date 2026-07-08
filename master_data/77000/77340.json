@@ -1,0 +1,42 @@
+{
+  "round_id": 77340,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-09T00:04:58.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] Λαγωός",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐰",
+      "score": "3.16",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無し2T",
+      "team": "🇯🇵ONJ",
+      "emoji": "👽",
+      "score": "3.01",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "6.16",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtksEKwCAMQ+tL//+bR+uEge287rBcBF+TBtGsE0DHJLVUqdY7sfbkWAYSUkFjHkjqZa+gIXffw82jsKCht8NrnDS9ZfbER2/Ral31sWviP7/yAuO9yDjwpxvLn3wB09QBEg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
