@@ -1,0 +1,47 @@
+{
+  "round_id": 77406,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-08T18:38:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] イルカのオホエル",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐬",
+      "score": "95.37",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ころす] しね",
+      "team": "ころす",
+      "emoji": "🦁",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "95.37",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ころす",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZh4FsBBggDGGNs2Ix/mMjLhlGcEAj+ZRKYwQYMEQQRbALwtXCQBujAp4",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#af30e8",
+      "4": "#e83064"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 77400,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-09T03:19:33.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬきたち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "43.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] イルカのオホエル",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐬",
+      "score": "31.54",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "43.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "31.54",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkOESgCAIg5fz/Z+5g0AxjO66+OPycyNg94KLcDLoLF9oiXnMvNw50p4wj2CeMaZYYkolj18ofeRGH+xOrxNkNwWplYav32hqUSez/KsXShYT8RMdgUOEJTXZoM6zUjQtI/eJjIrZKkQSjnccOzo2LGlX57aY9YG2ynQy9QINbj4BK/cJoA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30e881"
+    },
+    "sz": 30
+  }
+}
