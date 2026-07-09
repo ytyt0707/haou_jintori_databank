@@ -1,0 +1,57 @@
+{
+  "round_id": 77562,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-09T03:04:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名前無し",
+      "team": "",
+      "emoji": "😞",
+      "score": "65.18",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇵🇭比同盟] ホセ・リサール",
+      "team": "🇵🇭比同盟",
+      "emoji": "😉",
+      "score": "0.13",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] なきなき；＠；",
+      "team": "なきち",
+      "emoji": "☁️",
+      "score": "0.13",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇵🇭比同盟",
+      "score": "0.13",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "0.13",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVksESAyEIQ6Ol///LHYLGlLWHOnuIPAgMLgAgIr8fJ/IwhwktkVQpS8jpUCkxKGTi0JdFXa4hPGS60dajUaujTNxj5/5P8cPIrV2XfT0BG1y6aKiVcEZKJaoHdG6DbHvDm076ZIJB+uV9znpzZ+svIK3qC0XWJrUhmQYM9poLt9pRNCZY/KDEqn07xyjrauuEunYQcfHVCr52YA57f3cuultYpV7Gkw7HB1ImCXk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6ae830",
+      "4": "#30c6e8",
+      "5": "#30e892"
+    },
+    "sz": 30
+  }
+}
