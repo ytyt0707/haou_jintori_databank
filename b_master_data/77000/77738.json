@@ -1,0 +1,83 @@
+{
+  "round_id": 77738,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-07-09T12:35:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ライム] R指定",
+      "team": "ライム",
+      "emoji": "👺",
+      "score": "22.15",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ライム] ライム",
+      "team": "ライム",
+      "emoji": "😀",
+      "score": "2.21",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ライス] 農家",
+      "team": "ライス",
+      "emoji": "🥚",
+      "score": "2.01",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ライス] 米🌾",
+      "team": "ライス",
+      "emoji": "🍚",
+      "score": "0.45",
+      "kills": 7
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ライス] 名無しl6",
+      "team": "ライス",
+      "emoji": "🍛",
+      "score": "0.09",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "新参",
+      "team": "",
+      "emoji": "🙂",
+      "score": "0.00",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ライム",
+      "score": "24.37",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ライス",
+      "score": "2.55",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkFEOBCEIQ6swMXv/C2+KgqizZv2x+ChVgVjFVpS7IN3PUl2K3hrus3GzAujJqikvSTNn1hKkO5ettRVztnKxi7QBz+OWnX5agnYvt5rXbX3Pk4E11joid/V5dcdv1M74li58kO+Of9PxF+dXqyRzzDNhaYaFuQ5jD6OIikicdxGU7KDjIYygeXprpe5m4eVEZnLN1HoSBHDgOTeU/+HLg6zH7x2GRfxFh+ML3nYEJA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#36e830",
+      "4": "#36e830",
+      "5": "#30c6e8",
+      "7": "#30c6e8",
+      "9": "#30c6e8"
+    },
+    "sz": 30
+  }
+}
