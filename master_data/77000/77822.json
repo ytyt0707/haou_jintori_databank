@@ -1,0 +1,57 @@
+{
+  "round_id": 77822,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-10T02:07:53.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] もネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤭",
+      "score": "35.59",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "警殺",
+      "team": "",
+      "emoji": "🚔",
+      "score": "9.99",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵お赤軍] 腹腹時計",
+      "team": "🇯🇵お赤軍",
+      "emoji": "😁",
+      "score": "0.22",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "35.59",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤軍",
+      "score": "0.22",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkUEWxCAIQ4My97/yPCBBnHYzbgp8g4FizQPvkyEg6r4aKSAdIpH4AsBK/awqDlr6N7ko8KTFsjHWA5NOa+fOD4zm54VPU6x1Yhoe9LB2N0uAVer98IVJC+69t2hurBN3DyhqbnYpi5KbmdXGaSmloQ77CYlznEFDGdp8vGYV3RydvSMDTcWVopLzLrVaDHsnPNpXCjy0bt5TETu1QHiWbZDyZ2r92iVxzKglDVT0Wv6D3oUr0w+6iv8lX6dwBp0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83098",
+      "4": "#6e4de5",
+      "5": "#4d81e5"
+    },
+    "sz": 30
+  }
+}

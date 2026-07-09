@@ -1,0 +1,57 @@
+{
+  "round_id": 77826,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-10T02:20:50.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇩🇪ナチス] ヒムラー",
+      "team": "🇩🇪ナチス",
+      "emoji": "🥰",
+      "score": "30.40",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] もネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤭",
+      "score": "0.54",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "警殺",
+      "team": "",
+      "emoji": "🚔",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ナチス",
+      "score": "30.40",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "0.54",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkUsSwCAIQwPS+1+5g3wKjjp1JXkSQgv0IxDpSlYSJ5Vy0T47RcxrsL33R2M0eychbecjk3liAlHplPRWSnYKjyycsLY7VWdvrd4LFaqtLfMEW8rLKhYtnbkt6kVkRqXpkxQhqTKasb+ZmsIt1Wl4gLGOrRMwbErTevH9gq5bpRl2umt3bEudDIziYP+n9+R8/SKa/B77sm9BL1D1BJA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#aad411",
+      "4": "#30e870",
+      "5": "#af30e8"
+    },
+    "sz": 30
+  }
+}
