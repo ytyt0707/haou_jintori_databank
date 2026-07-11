@@ -1,0 +1,48 @@
+{
+  "round_id": 78102,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-10T17:15:56.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "50.13",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ニャル子",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏁",
+      "score": "1.03",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "熊谷市",
+      "score": "50.13",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.03",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlklEOwCAIQ9Fy/zMv4KTg3LJlfDU8WiFRRJBL1iKcg2XC8AQ+WugSDlQ6smnf0Xj/PQzLKYrTdvD++WyBshxz2denI3/1+vgd5ZmbtcJEkcLZpArMVlbPeNLsoP5BdXov11r8I9U91e51QzFwoY2XYHj574CWMVQ7oYhUCrWoOInUW70nZNbWOPpFHVO2BcU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#7c4de5",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "round_id": 78434,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-11T02:12:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[平氏] 名無しl1",
+      "team": "平氏",
+      "emoji": "😀",
+      "score": "17.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "陣取苦手也",
+      "team": "",
+      "emoji": "😄",
+      "score": "17.45",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[源氏] 義経",
+      "team": "源氏",
+      "emoji": "👻",
+      "score": "0.83",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂夏サブ] 中田敦彦",
+      "team": "🍂夏サブ",
+      "emoji": "😎",
+      "score": "0.22",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "平氏",
+      "score": "17.61",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "源氏",
+      "score": "0.83",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂夏サブ",
+      "score": "0.22",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAHN0NEOgzAIBdDLWPn/T16AgpdN+zwSDXIKNgB/FCJyuM1ZceYHNQD+3LB5AP4WyZwuFxpVC/QhO9ZaqzmTIgCB/t1HCHeRmfWXhyZnye+uU19x3arql5ozoKoar8nR6tZBs+1tZg2RXGrm/KC1g8HVWzibtzbeKq+XZtfkXj4Z7yOHDxzrqBXtE+Be5A6Drv8dsw/2KwXc",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#30a3e8",
+      "5": "#e89830",
+      "6": "#97d411"
+    },
+    "sz": 30
+  }
+}

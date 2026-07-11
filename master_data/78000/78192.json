@@ -1,0 +1,101 @@
+{
+  "round_id": 78192,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-07-10T22:07:46.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[マギア] 呉キリカ",
+      "team": "マギア",
+      "emoji": "🗝️",
+      "score": "18.42",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 中田敦彦",
+      "team": "🇯🇵ONJ",
+      "emoji": "😎",
+      "score": "10.70",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しJG",
+      "team": "🇯🇵ONJ",
+      "emoji": "😁",
+      "score": "6.79",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[マギア] ホムリリィ",
+      "team": "マギア",
+      "emoji": "🖤",
+      "score": "4.50",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[マギア] マギアってなに",
+      "team": "マギア",
+      "emoji": "🥺",
+      "score": "0.21",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] mg",
+      "team": "🇯🇵ONJ",
+      "emoji": "😏",
+      "score": "0.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[マギア] 名無しhF",
+      "team": "マギア",
+      "emoji": "🤫",
+      "score": "0.11",
+      "kills": 6
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵ONJ] 名無し04",
+      "team": "🇯🇵ONJ",
+      "emoji": "👻",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "マギア",
+      "score": "23.23",
+      "kills": 24
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "17.61",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kgtuwzAMQ8VI3az7X7igfo6zdkIAB3kiRdsRibIuHJUQkMKqg3+ApqpmpmZFNdfxJSWMz7nIOIp5U3evpqEzVtX19arhkUbEzX3EAApXVvV0NlP3Sd3OKaSBu3yjgX//UHPn3h7SdqYooQHXiPsEA1NKenXDUJQYkflKvTRut9t+4hbymJoeq4SY0z4V9wHwIElXtox7UM5eWadD3K+b4R/qp/Zwjk1t7b6FMI7ca0k8a23Kvw581lo9uoIzX4nL95m7rduWHrtudPR78JMCd/FQ5grbj87Vtmfy7Q2dawnX",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e84230",
+      "4": "#d130e8",
+      "5": "#d130e8",
+      "6": "#e84230",
+      "7": "#9ca3af",
+      "8": "#9ca3af",
+      "9": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

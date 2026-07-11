@@ -1,0 +1,56 @@
+{
+  "round_id": 78442,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-11T02:38:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うどん] うどん帝国軍少佐",
+      "team": "うどん",
+      "emoji": "🤠",
+      "score": "67.42",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] ぷゆゆパン🥺",
+      "team": "みん²",
+      "emoji": "🥺",
+      "score": "2.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤍",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うどん",
+      "score": "67.42",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "2.99",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkcsWxCAIQ7E5/P8vz+EhgZbVuBFym6BWpC1w7So5ABGpntWVGrxS2wd9m3tw89xyeK9Y+//Urlwxs8jXoPg8rO0hbHWFdcJB2SwUWuaNfiDDCsXPcXfXTI7wPVhEHe+0khJX70U4OfhFAeQXy6l8qKoA4m/59qqZ/ZpmHlTVYq/cqULFLhSnNVOn0BMgrT6Yyecc8shvc40Sc0D65cuZDPdO9w+PUAe8",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "5": "#30e8c6"
+    },
+    "sz": 30
+  }
+}

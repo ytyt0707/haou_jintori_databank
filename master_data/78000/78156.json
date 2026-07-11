@@ -1,0 +1,66 @@
+{
+  "round_id": 78156,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-10T20:10:59.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うどん] 悪魔",
+      "team": "うどん",
+      "emoji": "😈",
+      "score": "47.77",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うどん] うどん帝国軍少佐",
+      "team": "うどん",
+      "emoji": "🐲",
+      "score": "36.52",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うどん] どんちゃん",
+      "team": "うどん",
+      "emoji": "😊",
+      "score": "7.51",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無しsP",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "0.28",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うどん",
+      "score": "91.80",
+      "kills": 24
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.28",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1k1EShDAIQ2kx3P/IOyRA1R35cNEHCaWzAOCAZ0TYK8iKssShWADMlAvwWXBhDZX00LXW9DrV2p29otg5VXk9fLPIduKKEe4P2DuU34R7bGBfhNmmyeqIapEy4T+1i71yrOe4wq7siKHWntySRXgU5MmaUiBpB9xr/tGO3dAdCR/NAWyEgi29OL5Qq9TzQyrx91BIvqnWlm8RWVrenY096W0wpqxSa63fpoSOHJ7HpfDQgnm9OMs43oe/6SGZfVHt9INGcK1vWmsO4Rm1LllU+43bBSrXVEnraiL/XcyNXyHLLPgBSKAOPw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#994de5",
+      "4": "#9ca3af",
+      "5": "#994de5",
+      "6": "#994de5"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "round_id": 78276,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-11T02:40:11.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] もネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤭",
+      "score": "96.23",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] BOT",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤖",
+      "score": "1.64",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "97.87",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYSEOMOFWxsjCwoRHmoWFhYAsEwsDDtMZCBqNQyMlwrgcg2wmRA0zstAgYg9Wd9E2iIiJN9q6AGw66c4AAFavDeQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e83c",
+      "4": "#7c4de5"
+    },
+    "sz": 30
+  }
+}
