@@ -1,0 +1,81 @@
+{
+  "round_id": 78720,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-07-12T02:40:00.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[パン板] パン松",
+      "team": "パン板",
+      "emoji": "🤔",
+      "score": "21.38",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[パン板] たかむら",
+      "team": "パン板",
+      "emoji": "🦅",
+      "score": "18.98",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] らすお",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "4.37",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "3.67",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] 陸遜",
+      "team": "猛虎軍",
+      "emoji": "😃",
+      "score": "2.87",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "パン板",
+      "score": "40.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "6.55",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "4.37",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkkkSgzAMBEfYlv7/49RoNakcogsFzSwWAP+Nql4viojMrZmZcvKRCIYS3pjSn5Rqh4Mv7dDOvSifhfZFvZQqpIwnGBqVWTpTMzfqRuW2jdKRWLkvKEBRmPkm2tYPXJRXL3nh0aqagTwpr0V5Gndpere6aIlbm3twda/qKeeijO7k54nchpENflsfbzXUQp21f2nbWoSrGqk7v+kXNMgZ5wticyFycujcdHPM7Jx9DviGAG+619prlfitXTWB2TnF0F1sre3GfiJTi78qKd2J/b/qzw7SA7CdRwMfaNgLjw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#4d81e5",
+      "5": "#8B4513",
+      "6": "#30e83c",
+      "7": "#30e83c"
+    },
+    "sz": 30
+  }
+}
