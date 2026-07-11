@@ -1,0 +1,56 @@
+{
+  "round_id": 78622,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-11T12:22:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] いただきマウス",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "60.99",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ニャル子",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏁",
+      "score": "0.22",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 帝都に死す",
+      "team": "🇯🇵ONJ",
+      "emoji": "👺",
+      "score": "0.10",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "60.99",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.32",
+      "kills": 17
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkQEOwzAIAx2P/795IsBqSKtJG4rUOIeBpICGZSySvlWGOKqUQUmutQR2r5k1qFRNuZe+/1DsS7QKUvmEMlUzWaRe3k4D/0ZjxI93FB6VByWdl3fAlM/U75T0tO7/v6khaH5C8GUEUKz76YGWLyJod3Q1vB36yONE5VcKux/ai8hbnT0KxqPsngDp6y7MnkhlX743mKgI8Q==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}
