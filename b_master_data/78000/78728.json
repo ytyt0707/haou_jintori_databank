@@ -1,0 +1,75 @@
+{
+  "round_id": 78728,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-07-11T18:05:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "32.74",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "PCお試し",
+      "team": "",
+      "emoji": "👽",
+      "score": "26.78",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] マルタ",
+      "team": "なきち",
+      "emoji": "🤫",
+      "score": "6.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[なきち] 凍結",
+      "team": "なきち",
+      "emoji": "🥶",
+      "score": "0.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[なきち] なきちパン",
+      "team": "なきち",
+      "emoji": "🍞",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "32.74",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "6.43",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kgGOBSEIQ9F1y/1v/NMW1PmTXZNJBp+UCkbca5wFADeKKAaMgczMB+buAOYEBDN3MpVMMScTuYqKESMCc2PRZqwDSjdX2NRQuJSbIHQDhZ2aVNKyAf+/6HHnyi9lHgBGbE+ZlvrpttFxxKxmFF3hc3Q2A1+UnaPKtuay5Xn9KmSj9LWybrTWymWeGkCUZd93aZn3fDQEmT6UoRNf9Oz7z0OIk1t5UOUakWzZ1128KLCYvwti59aUjms+t35vbjTwP5Wz9tSppQvcdWvY/ZA8gL7ugep713Z7b7ileeQBTvAH+gCgbg6/",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#6e4de5",
+      "5": "#6e4de5",
+      "6": "#bcd411",
+      "7": "#47e830"
+    },
+    "sz": 30
+  }
+}
