@@ -1,0 +1,75 @@
+{
+  "round_id": 79140,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-07-12T16:22:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] はい",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "49.23",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] 及川雅貴",
+      "team": "猛虎軍",
+      "emoji": "😉",
+      "score": "17.66",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸舞蹴る] ペニーワイズ",
+      "team": "🇺🇸舞蹴る",
+      "emoji": "🤡",
+      "score": "9.04",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇸舞蹴る] Beat It",
+      "team": "🇺🇸舞蹴る",
+      "emoji": "🎼",
+      "score": "3.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] 天皇死ね",
+      "team": "猛虎軍",
+      "emoji": "🤬",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "66.99",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸舞蹴る",
+      "score": "12.24",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklESAyEIQ6kJ9P437oDgYrUz5UeXR4KriPTgDFQIuXAysiBWpm8AzIqerL1SU1+ZviqUE/ds7kXcOazlxA4zTlrE16Bu1CI57zT/lyWqleTbTTTkZbc5w0xtw1VGqlrGJskCVYsCNQv8eoTeUgGNMHPwClw+3tCh22+y+RHXyOhNuVyWVxWVSwHR6KkPaDU23/3NbA3U4R3GPzBm17sa/1HDMm+v6dcVh37oHLWcxYs3gDHGiJcNLE3rg0oWjo4bdfPU5nE+kIELhQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#60d411",
+      "4": "#60d411",
+      "5": "#af30e8",
+      "6": "#af30e8",
+      "7": "#60d411"
+    },
+    "sz": 30
+  }
+}

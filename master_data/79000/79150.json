@@ -1,0 +1,56 @@
+{
+  "round_id": 79150,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-13T01:54:26.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 天皇死ね",
+      "team": "猛虎軍",
+      "emoji": "🤬",
+      "score": "36.93",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] イルカのオホエル",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐬",
+      "score": "32.69",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇬🇧珍走団] 🫪",
+      "team": "🇬🇧珍走団",
+      "emoji": "😳",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "36.93",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "32.69",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkVsOhDAMA2Pk3P/KqzybFhDafqC0kwmmiNwW2OvGCBLVMCitJrGgn0QHaZuB4iD1ehnQg5db8Lo+6ZmqVJpatseMrMkDppyRpN2t+Jtq66U+T07a3VYAdqG2nlyoNla1ja3oJwCtWpxGg2Po6VqHamT1KkeJuwHn018krzSyTGHUIkqLO462kiednbzR6drXvU8OOKftrt/hPJq1h3pzvXHdhmeccv8dkf4rnoY5UX5tjAtX",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#6ae830",
+      "5": "#e830a9"
+    },
+    "sz": 30
+  }
+}
