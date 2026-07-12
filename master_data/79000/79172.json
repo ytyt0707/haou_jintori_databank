@@ -1,0 +1,57 @@
+{
+  "round_id": 79172,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-13T03:05:45.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 天皇死ね",
+      "team": "猛虎軍",
+      "emoji": "🤬",
+      "score": "31.22",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ころす] しね",
+      "team": "ころす",
+      "emoji": "😂",
+      "score": "28.95",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ころす] 名無しFI",
+      "team": "ころす",
+      "emoji": "🤠",
+      "score": "6.36",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ころす",
+      "score": "35.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "31.22",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kQkOxDAIA4GY/395hTmSVN2iqkIM5orZbXLZzTxM+KdnZjIZEy5niLtbxrbUmz5VlSjChP808AcV+aL2TY/Sa601bfIyRYPQGr/TVpOa5AVaOrXn5r7R7ryp+wJQOdVYBGEsTe+eiiEA7oCqUt4je0qHStQaWFQV/FSJY5hMyco6lhhITDqM4uwWYqS7MVfsUZvGvGEPOEMTcvVRorTgslz3YAeFCiSucdpURpD/9NSUX6/wQiI0L3iv0tof9a0LMg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83064",
+      "4": "#d4c811",
+      "5": "#30e892"
+    },
+    "sz": 30
+  }
+}
