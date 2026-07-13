@@ -1,0 +1,93 @@
+{
+  "round_id": 79542,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-07-13T14:05:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🗡️",
+      "score": "30.72",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 正体不明",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "19.51",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] １分後に死ぬワニ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐊",
+      "score": "19.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 蛇",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐍",
+      "score": "17.98",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] 及川雅貴",
+      "team": "猛虎軍",
+      "emoji": "😉",
+      "score": "2.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] ペニーワイズ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤡",
+      "score": "1.97",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ONJ] 名無しc5",
+      "team": "🇯🇵ONJ",
+      "emoji": "😌",
+      "score": "0.35",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "59.28",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "33.15",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtkwluA0EIBDfQwPj/H466mcubINmyXKrmsDdzFbqKZWbmZrVYpqALFsys6h+aVQWYEi635SoQAlUOPK/o2d2t+Ol5FgfgLlhohtqQwc5xwMk6Im8q1WAbf9M2XLZWO+7cuLv32lffzI9cd8eEtSbmYk3hrOY3jQzoDOJe+eVG2yu26r5kRij7pj/nlBlMRrGrXscN1aTd2DeNxyOCd6b3op0J5y24T+N2H62iH2l+3QE7GRhKPbGMWBNjsHra9vn5TVfLPuak3GRooh3Noxw6eAbXG0NVTaWqL/2a8LPcMfgHn+NM8SQPIBc9cLlq8Ee9qSUfLj1BpSel8hfOERG2",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#4d64e5",
+      "6": "#4d64e5",
+      "7": "#9ca3af",
+      "8": "#9ca3af",
+      "9": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
