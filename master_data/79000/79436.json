@@ -1,0 +1,71 @@
+{
+  "round_id": 79436,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-13T17:21:44.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 三千院ナギ",
+      "team": "猛虎軍",
+      "emoji": "🟡",
+      "score": "52.51",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] 及川雅貴",
+      "team": "猛虎軍",
+      "emoji": "😉",
+      "score": "10.28",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ぷゆゆ] 最長老ぷゆゆ",
+      "team": "ぷゆゆ",
+      "emoji": "🥺",
+      "score": "0.93",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇻🇳赤軍] ホーチミン",
+      "team": "🇻🇳赤軍",
+      "emoji": "🥖",
+      "score": "0.14",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "62.79",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ぷゆゆ",
+      "score": "0.93",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇳赤軍",
+      "score": "0.14",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkUsSBCEIQyMl3v/IU4moaNu9GDZ+HoGg5ikQUWtFZViC3JIL3OhUCeLQLhnzYBlX/6K+URxa7zhsXWh33X0DvjUeM0HzimZfMbG0qnzAUVrPZvYo7dCLEbubWWttf1BEghNnGh8Ri8S594Yl3rpnTMreS04qG7Gw+m6rn3rSjfDuHzp9PYtONMzlFKAsnsAY406ViFLKwkmrvyN8p9Re+8a/v9GlmbvUeN7NzQ+7Uwti",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#af30e8",
+      "5": "#af30e8",
+      "6": "#30e892"
+    },
+    "sz": 30
+  }
+}
