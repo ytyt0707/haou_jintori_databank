@@ -1,0 +1,105 @@
+{
+  "round_id": 79536,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-07-13T13:46:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🗡️",
+      "score": "48.24",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] おさんぽ",
+      "team": "猛虎軍",
+      "emoji": "🐕",
+      "score": "20.63",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 及川雅貴",
+      "team": "猛虎軍",
+      "emoji": "😉",
+      "score": "14.04",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂乗り物] 女・ザ・ライド",
+      "team": "🍂乗り物",
+      "emoji": "💓",
+      "score": "5.19",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇬🇧珍走団] イルカのオホエル",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐬",
+      "score": "1.06",
+      "kills": 6
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇬🇧珍走団] 🫪",
+      "team": "🇬🇧珍走団",
+      "emoji": "😳",
+      "score": "0.10",
+      "kills": 6
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ONJ] 蛇",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐍",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "82.91",
+      "kills": 28
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂乗り物",
+      "score": "5.19",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇬🇧珍走団",
+      "score": "1.16",
+      "kills": 12
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kgsShDAIQ+PuVsL9L7wTPtY6KlOl8ghQFQgbvLVk44UOvlByALeFCYHBB/wgqlIXamuHlZqteKWrkjxR/9mj1twTdr587ymU0nLqAng2s+IMXwMAbgZaw6ygyfdd2no22qdy9jIE7J5XKimplZab1lbhCV0T3FGXkTRvXNoASSsn5ElTkynMB5LbRupAipOKp81vARgiJqoVV3P9k6L9QjuePpn4Gs96kzqPBNQQxBxG8kru4IVGwbp9Nc2086lmtHdHvTqH4w8s8BlQ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83030",
+      "4": "#9ca3af",
+      "5": "#e83030",
+      "6": "#e830a9",
+      "7": "#30e84d",
+      "8": "#30e84d",
+      "9": "#30e84d"
+    },
+    "sz": 30
+  }
+}

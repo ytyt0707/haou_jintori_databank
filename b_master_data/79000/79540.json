@@ -1,0 +1,99 @@
+{
+  "round_id": 79540,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-07-13T13:59:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 陸遜",
+      "team": "猛虎軍",
+      "emoji": "😃",
+      "score": "43.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] 及川雅貴",
+      "team": "猛虎軍",
+      "emoji": "😉",
+      "score": "27.99",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] パピルス",
+      "team": "ラー軍",
+      "emoji": "📜",
+      "score": "10.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🗡️",
+      "score": "8.66",
+      "kills": 8
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 蛇",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐍",
+      "score": "3.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] １分後に死ぬワニ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐊",
+      "score": "2.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇯🇵ONJ] 正体不明",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤠",
+      "score": "1.19",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "79.81",
+      "kills": 22
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "10.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "7.41",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kguOwzAIRJ0AY3z/C68GDElba5GaOn7M8FEAALajD2a83lH0+5/YbMS1N1wMo0Ff7QNzgq4TbZj0MSwbSsdag62daZgDuLI8sJvIokkvtpWDPXTsDOCipqLabRqORZlJks/ltGsW54AealJU4VcWqXvQ120eHfCIg44ZCbmKH2lSkjNlyQMNx9LOGSmPt7l7153zc1xYQrYlIvNjF1R1l0F/cJYZ+I9i02rpa24R0dnMuL56C6Vuyq04hymsKiL3rf3JcphNHYS0bpofZG5fbyHXF83VBlaG6JuGmOt3V+Vvqv4Bm6IVBA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#e84230",
+      "6": "#e84230",
+      "7": "#9ca3af",
+      "8": "#e84230",
+      "9": "#e830cb"
+    },
+    "sz": 30
+  }
+}
