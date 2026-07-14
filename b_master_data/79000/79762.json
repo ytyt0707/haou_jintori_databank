@@ -1,0 +1,48 @@
+{
+  "round_id": 79762,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-14T01:58:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤍",
+      "score": "45.51",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "36.67",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "45.51",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "36.67",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtk8ESAyEIQ0Hz/9/cAYGhwLo91As6z4TIzgK+SJYfoq61Yl82hHWheKNozt5e67FOgSzfCdk7K7YndAqivZ/otmV98zMdSSUC5cyZhbmJv1mhFXow1TaYxQMM8cRCO0PX/pkya98ziuad6QCZZdDjKFikN6p9AZFXZ1axO3cu93+k1VrP9u+M7HwFohbKbn8A7DMKVw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83064",
+      "4": "#af30e8"
+    },
+    "sz": 30
+  }
+}
