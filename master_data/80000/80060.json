@@ -1,0 +1,42 @@
+{
+  "round_id": 80060,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-15T03:05:21.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 天皇死ね",
+      "team": "猛虎軍",
+      "emoji": "🤬",
+      "score": "66.55",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "4.02",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "70.57",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkVsWxCAIQ5PK/tfcAyoPh7bDj8A1iEAS00SWA0CWcTvr9KsWU1ruWnqdo4yIEDzF6RLVUlxdo9FkhWKUo2Sjke/KRaiBi8mXH8HoqO96LUDH/Ex1sPKoNeq1qjNXUnMR1YVFfnp/UfRtLe0XbcWujYFc0Vuirg6caci3elMMtZ318x071U39iBOFnDjD5eujTbpJ3QVXCfI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#e830dd"
+    },
+    "sz": 30
+  }
+}
