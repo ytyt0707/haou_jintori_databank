@@ -1,0 +1,4 @@
+# b_master_dataはmaster_data生成用の中間データ（UTC版）で、
+# どのHTMLからもfetchされておらずサイト表示には不要なため、デプロイ対象から除外する。
+# git管理・バックエンドのパイプラインからは今まで通り参照可能。
+b_master_data/
