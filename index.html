@@ -264,23 +264,23 @@
                         <th class="col-left">順位(総合/検索)</th>
                         <th class="col-center"></th>
                         <th class="col-left" id="th_name" onclick="setSort('name')" style="cursor:pointer;">プレイヤー名</th>
-                        <th id="th_wins" onclick="setSort('wins')" style="cursor:pointer;">1位</th> 
                         <th id="th_matches" onclick="setSort('matches')" style="cursor:pointer;">試合数</th>
+                        <th id="th_wins" onclick="setSort('wins')" style="cursor:pointer;">1位</th>
                         <th>
-                            <span id="th_total_area" onclick="setSort('total_area')" style="cursor:pointer;">総占領面積</span> 
-                            / 
+                            <span id="th_total_area" onclick="setSort('total_area')" style="cursor:pointer;">総占領面積</span>
+                            /
                             <span id="th_max_area" onclick="setSort('max_area')" style="cursor:pointer; font-size:0.75rem;">最大</span>
                         </th>
                         <th>
-                            <span id="th_total_kills" onclick="setSort('total_kills')" style="cursor:pointer;">総キル数</span> 
-                            / 
+                            <span id="th_total_kills" onclick="setSort('total_kills')" style="cursor:pointer;">総キル数</span>
+                            /
                             <span id="th_max_kills" onclick="setSort('max_kills')" style="cursor:pointer; font-size:0.75rem;">最大</span>
                         </th>
                         <th id="th_kill_rate" onclick="setSort('kill_rate')" style="cursor:pointer;">キルレート</th>
                         <th class="col-center">
-                            <span id="th_last_date" onclick="setSort('last_date')" style="cursor:pointer;">最終活動</span> 
-                            ～ 
                             <span id="th_first_date" onclick="setSort('first_date')" style="cursor:pointer;">初登場</span>
+                            ～
+                            <span id="th_last_date" onclick="setSort('last_date')" style="cursor:pointer;">最終活動</span>
                         </th>
                     </tr>
                 </thead>
@@ -841,13 +841,13 @@
                     <td class="col-left player-name-format">
                         ${teamDisplay}<a href="${analysisUrl}">${p.name}</a>
                     </td>
-                    <td>${p.wins.toLocaleString()}</td>
                     <td>${p.matches.toLocaleString()}</td>
+                    <td>${p.wins.toLocaleString()}</td>
                     <td>${p.total_area.toFixed(2)}% <span style="font-size:0.75rem; color:#777;">[${p.max_area.toFixed(2)}%]</span></td>
                     <td>${p.total_kills.toLocaleString()} <span style="font-size:0.75rem; color:#777;">[${formattedMaxKills}]</span></td>
                     <td>${killRate}</td>
                     <td class="col-center" style="font-size:0.75rem; color:#888;">
-                        ${dispLast} ～ ${dispFirst}
+                        ${dispFirst} ～ ${dispLast}
                     </td>
                 `;
                 fragment.appendChild(tr);
@@ -859,9 +859,27 @@
         // 🏅 歴代1日最大記録モードの描画（通常モードとは行の形式が異なるため専用に実装）
         // データ形式: public_data/daily_records/summary.json の各指標配列は
         //   [date, flag, name, team, emoji, value] （valueの降順、最大500件）
+        // 🏅 選択中の指標を強調する列のスタイル（灰色・やや明るめ）
+        const DAILY_RECORD_HIGHLIGHT_STYLE = 'background-color:#333;';
+
+        function dailyRecordHeadHTML(metric) {
+            return `
+                <th class="col-left">順位</th>
+                <th class="col-center">日付</th>
+                <th class="col-left">名前</th>
+                <th style="${DAILY_RECORD_HIGHLIGHT_STYLE}">${DAILY_RECORD_METRIC_LABELS[metric]}</th>
+                <th>試合数</th>
+                <th>1位</th>
+                <th>総占領面積 / 最大</th>
+                <th>総キル数 / 最大</th>
+                <th>キルレート(K/G)</th>
+            `;
+        }
+
         function renderDailyRecordView() {
             const loader = document.getElementById('loadingIndicator');
             const tbody = document.getElementById('rankingBody');
+            const COLSPAN = 9;
 
             const doRender = () => {
                 if (loader) loader.style.display = 'none';
@@ -869,6 +887,8 @@
                 const metric = document.getElementById('daily_record_metric').value;
                 const query = document.getElementById('searchInput').value.trim().toLowerCase();
                 const rows = (dailyRecordsCache && dailyRecordsCache[metric]) ? dailyRecordsCache[metric] : [];
+
+                document.getElementById('tableHeadRow').innerHTML = dailyRecordHeadHTML(metric);
 
                 // 個人タブ: flag が sp/tp のもの、チームタブ: flag が t のものだけを対象にする
                 const wantTeamObj = (currentMode === 'team');
@@ -881,27 +901,36 @@
                     `[ 歴代1日最大記録: ${DAILY_RECORD_METRIC_LABELS[metric]} / TOP${filtered.length}件 ]`;
 
                 if (filtered.length === 0) {
-                    tbody.innerHTML = `<tr><td colspan="4" class="col-center" style="padding:20px; color:#888;">該当するデータが見つからないのです。</td></tr>`;
+                    tbody.innerHTML = `<tr><td colspan="${COLSPAN}" class="col-center" style="padding:20px; color:#888;">該当するデータが見つからないのです。</td></tr>`;
                     return;
                 }
 
+                // row = [date,flag,name,team,emoji, matches,wins, score,hi_score, kills,hi_kills, kill_rate_game,kill_rate_minute]
+                const METRIC_IDX = { matches: 5, score: 7, kills: 9, kill_rate_game: 11, kill_rate_minute: 12 };
                 const isRateMetric = (metric === 'kill_rate_game' || metric === 'kill_rate_minute');
+                const fmtHighlight = (v) => isRateMetric ? Number(v).toFixed(2) : (metric === 'score' ? Number(v).toFixed(2) + '%' : Number(v).toLocaleString());
+
                 const fragment = document.createDocumentFragment();
                 filtered.forEach((row, i) => {
-                    const [dateStr, flag, name, team, emoji, value] = row;
+                    const [dateStr, flag, name, team, emoji, matches, wins, score, hiScore, kills, hiKills, krGame] = row;
                     const dispDate = dateStr.replace(/-/g, '/');
                     const analysisUrl = (flag === 't')
                         ? `team.html?name=${encodeURIComponent(name)}`
                         : `personal.html?name=${encodeURIComponent(name)}`;
                     const teamDisplay = (flag === 'tp' && team) ? `[${team}]` : "";
-                    const dispValue = isRateMetric ? Number(value).toFixed(2) : Number(value).toLocaleString();
+                    const highlightValue = fmtHighlight(row[METRIC_IDX[metric]]);
 
                     const tr = document.createElement('tr');
                     tr.innerHTML = `
                         <td class="col-left"><span class="badge-rank">#${i + 1}</span></td>
                         <td class="col-center" style="font-size:0.85rem; color:#888;">${dispDate}</td>
                         <td class="col-left player-name-format">${emoji || ''}${teamDisplay}<a href="${analysisUrl}">${name}</a></td>
-                        <td>${dispValue}</td>
+                        <td style="${DAILY_RECORD_HIGHLIGHT_STYLE} font-weight:bold;">${highlightValue}</td>
+                        <td>${matches.toLocaleString()}</td>
+                        <td>${wins.toLocaleString()}</td>
+                        <td>${Number(score).toFixed(2)}% <span style="font-size:0.75rem; color:#777;">[${Number(hiScore).toFixed(2)}%]</span></td>
+                        <td>${kills.toLocaleString()} <span style="font-size:0.75rem; color:#777;">[${hiKills.toLocaleString()}]</span></td>
+                        <td>${Number(krGame).toFixed(2)}</td>
                     `;
                     fragment.appendChild(tr);
                 });
@@ -914,7 +943,8 @@
                 return;
             }
 
-            tbody.innerHTML = `<tr><td colspan="4" class="col-center" style="padding: 20px;">データをロード中なのです...</td></tr>`;
+            document.getElementById('tableHeadRow').innerHTML = dailyRecordHeadHTML(document.getElementById('daily_record_metric').value);
+            tbody.innerHTML = `<tr><td colspan="${COLSPAN}" class="col-center" style="padding: 20px;">データをロード中なのです...</td></tr>`;
             fetch('public_data/daily_records/summary.json')
                 .then(res => { if (!res.ok) throw new Error('Network response was not ok'); return res.json(); })
                 .then(data => {
@@ -924,7 +954,7 @@
                 .catch(err => {
                     console.error('歴代1日最大記録の取得に失敗しました:', err);
                     if (loader) loader.style.display = 'none';
-                    tbody.innerHTML = `<tr><td colspan="4" class="col-center" style="color:#ff4444; padding:20px;">データが存在しないか、まだ生成されていません。</td></tr>`;
+                    tbody.innerHTML = `<tr><td colspan="${COLSPAN}" class="col-center" style="color:#ff4444; padding:20px;">データが存在しないか、まだ生成されていません。</td></tr>`;
                 });
         }
 
@@ -950,6 +980,7 @@
         }
 
         // 🏅 filter_typeが変更された時、通常モード⇔歴代1日最大記録モードの表示切り替えを行う
+        // (歴代記録モードのヘッダー自体はrenderDailyRecordView()が指標ごとに描画する)
         function onFilterTypeChange() {
             const isDailyRecord = document.getElementById('filter_type').value === 'daily_record';
 
@@ -959,16 +990,8 @@
             document.getElementById('advancedFilters').style.display = isDailyRecord ? 'none' : (document.getElementById('advancedFilters').style.display);
             document.getElementById('toggleFiltersBtn').style.display = isDailyRecord ? 'none' : 'inline-block';
 
-            const headRow = document.getElementById('tableHeadRow');
-            if (isDailyRecord) {
-                headRow.innerHTML = `
-                    <th class="col-left">順位</th>
-                    <th class="col-center">日付</th>
-                    <th class="col-left">名前</th>
-                    <th>記録</th>
-                `;
-            } else {
-                headRow.innerHTML = normalTableHeadHTML;
+            if (!isDailyRecord) {
+                document.getElementById('tableHeadRow').innerHTML = normalTableHeadHTML;
             }
 
             updateView();
