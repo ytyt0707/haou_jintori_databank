@@ -181,21 +181,31 @@
             <button id="tab_team" onclick="switchMode('team')">チーム</button>
         </div>
         <div class="control-group" id="filter_type_group" style="margin-left: 10px;">
-            <select id="filter_type" class="dropdown-select" onchange="updateView()">
+            <select id="filter_type" class="dropdown-select" onchange="onFilterTypeChange()">
                 <option value="native">個人名義・チーム名義(本家表示)</option>
                 <option value="all">ソロ戦・チーム戦(チーム戦個人参戦別枠)</option>
                 <option value="solo">ソロ戦のみ</option>
                 <option value="team">チーム戦のみ</option>
                 <option value="merged">ソロ戦+チーム戦(プレイヤー名のみ)</option>
+                <option value="daily_record">🏅 歴代1日最大記録</option>
             </select>
         </div>
-        <div class="control-group" style="margin-left: 10px;">
+        <div class="control-group" id="killrate_type_group" style="margin-left: 10px;">
             <select id="killrate_type" class="dropdown-select" onchange="updateView()" title="キルレート計算方式設定">
                 <option value="normal">K/G (キル/試合数)</option>
                 <option value="per_minute">K/M (キル/分)</option>
             </select>
         </div>
-        <div class="control-group" style="margin-left: auto;">
+        <div class="control-group" id="daily_record_metric_group" style="margin-left: 10px; display:none;">
+            <select id="daily_record_metric" class="dropdown-select" onchange="updateView()">
+                <option value="matches">試合数</option>
+                <option value="score">面積</option>
+                <option value="kills">キル数</option>
+                <option value="kill_rate_game">キルレート (K/G)</option>
+                <option value="kill_rate_minute">キルレート (K/分)</option>
+            </select>
+        </div>
+        <div class="control-group" id="period_controls_group" style="margin-left: auto;">
             <button id="period_all" class="active" onclick="switchPeriod('all')">全期間</button>
             <button id="period_today" onclick="switchPeriod('today')">本日</button>
             <button id="period_weekly" onclick="switchPeriod('weekly')">直近7日間</button>
@@ -250,7 +260,7 @@
         <div class="table-container">
             <table>
                 <thead>
-                    <tr style="user-select: none;">
+                    <tr id="tableHeadRow" style="user-select: none;">
                         <th class="col-left">順位(総合/検索)</th>
                         <th class="col-center"></th>
                         <th class="col-left" id="th_name" onclick="setSort('name')" style="cursor:pointer;">プレイヤー名</th>
@@ -292,11 +302,20 @@
         let currentSortKey = 'total_area'; 
         let currentSortOrder = 'desc';     
         let filteredDisplayData = []; 
-        let currentRenderedIndex = 0; 
+        let currentRenderedIndex = 0;
         const BATCH_SIZE = 200;
         let dpType = 'monthly'; // datepicker種別
 
+        // 🏅 歴代1日最大記録モード用
+        let normalTableHeadHTML = null; // 通常表示のヘッダーHTMLを起動時に退避しておく
+        let dailyRecordsCache = null;    // daily_records/summary.json のキャッシュ（指標切替のたびの再fetchを避ける）
+        const DAILY_RECORD_METRIC_LABELS = {
+            matches: '試合数', score: '面積', kills: 'キル数',
+            kill_rate_game: 'キルレート(K/G)', kill_rate_minute: 'キルレート(K/分)'
+        };
+
         window.onload = () => {
+            normalTableHeadHTML = document.getElementById('tableHeadRow').innerHTML;
             initDatepicker();
             loadDataForPeriod(currentPeriod);
         };
@@ -526,6 +545,11 @@
         function updateView() {
             const loader = document.getElementById('loadingIndicator');
             if (loader) loader.style.display = 'block';
+
+            if (document.getElementById('filter_type').value === 'daily_record') {
+                renderDailyRecordView();
+                return;
+            }
 
             setTimeout(() => {
                 const query = document.getElementById('searchInput').value.trim();
@@ -832,7 +856,80 @@
             currentRenderedIndex = nextMaxIndex;
         }
 
+        // 🏅 歴代1日最大記録モードの描画（通常モードとは行の形式が異なるため専用に実装）
+        // データ形式: public_data/daily_records/summary.json の各指標配列は
+        //   [date, flag, name, team, emoji, value] （valueの降順、最大500件）
+        function renderDailyRecordView() {
+            const loader = document.getElementById('loadingIndicator');
+            const tbody = document.getElementById('rankingBody');
+
+            const doRender = () => {
+                if (loader) loader.style.display = 'none';
+
+                const metric = document.getElementById('daily_record_metric').value;
+                const query = document.getElementById('searchInput').value.trim().toLowerCase();
+                const rows = (dailyRecordsCache && dailyRecordsCache[metric]) ? dailyRecordsCache[metric] : [];
+
+                // 個人タブ: flag が sp/tp のもの、チームタブ: flag が t のものだけを対象にする
+                const wantTeamObj = (currentMode === 'team');
+                let filtered = rows.filter(r => (r[1] === 't') === wantTeamObj);
+                if (query) {
+                    filtered = filtered.filter(r => r[2].toLowerCase().includes(query));
+                }
+
+                document.getElementById('dataPeriodDisplay').innerText =
+                    `[ 歴代1日最大記録: ${DAILY_RECORD_METRIC_LABELS[metric]} / TOP${filtered.length}件 ]`;
+
+                if (filtered.length === 0) {
+                    tbody.innerHTML = `<tr><td colspan="4" class="col-center" style="padding:20px; color:#888;">該当するデータが見つからないのです。</td></tr>`;
+                    return;
+                }
+
+                const isRateMetric = (metric === 'kill_rate_game' || metric === 'kill_rate_minute');
+                const fragment = document.createDocumentFragment();
+                filtered.forEach((row, i) => {
+                    const [dateStr, flag, name, team, emoji, value] = row;
+                    const dispDate = dateStr.replace(/-/g, '/');
+                    const analysisUrl = (flag === 't')
+                        ? `team.html?name=${encodeURIComponent(name)}`
+                        : `personal.html?name=${encodeURIComponent(name)}`;
+                    const teamDisplay = (flag === 'tp' && team) ? `[${team}]` : "";
+                    const dispValue = isRateMetric ? Number(value).toFixed(2) : Number(value).toLocaleString();
+
+                    const tr = document.createElement('tr');
+                    tr.innerHTML = `
+                        <td class="col-left"><span class="badge-rank">#${i + 1}</span></td>
+                        <td class="col-center" style="font-size:0.85rem; color:#888;">${dispDate}</td>
+                        <td class="col-left player-name-format">${emoji || ''}${teamDisplay}<a href="${analysisUrl}">${name}</a></td>
+                        <td>${dispValue}</td>
+                    `;
+                    fragment.appendChild(tr);
+                });
+                tbody.innerHTML = '';
+                tbody.appendChild(fragment);
+            };
+
+            if (dailyRecordsCache) {
+                doRender();
+                return;
+            }
+
+            tbody.innerHTML = `<tr><td colspan="4" class="col-center" style="padding: 20px;">データをロード中なのです...</td></tr>`;
+            fetch('public_data/daily_records/summary.json')
+                .then(res => { if (!res.ok) throw new Error('Network response was not ok'); return res.json(); })
+                .then(data => {
+                    dailyRecordsCache = data;
+                    doRender();
+                })
+                .catch(err => {
+                    console.error('歴代1日最大記録の取得に失敗しました:', err);
+                    if (loader) loader.style.display = 'none';
+                    tbody.innerHTML = `<tr><td colspan="4" class="col-center" style="color:#ff4444; padding:20px;">データが存在しないか、まだ生成されていません。</td></tr>`;
+                });
+        }
+
         window.addEventListener('scroll', () => {
+            if (document.getElementById('filter_type').value === 'daily_record') return;
             if ((window.innerHeight + window.scrollY) >= document.documentElement.scrollHeight - 150) {
                 if (currentRenderedIndex < filteredDisplayData.length) {
                     renderNextBatch();
@@ -845,9 +942,35 @@
             document.getElementById('tab_personal').classList.remove('active');
             document.getElementById('tab_team').classList.remove('active');
             document.getElementById('tab_' + mode).classList.add('active');
-            document.getElementById('filter_type_group').style.display = (mode === 'personal') ? 'flex' : 'none';
+            const isDailyRecord = document.getElementById('filter_type').value === 'daily_record';
+            document.getElementById('filter_type_group').style.display = (mode === 'personal' || isDailyRecord) ? 'flex' : 'none';
             currentSortKey = 'total_area';
             currentSortOrder = 'desc';
+            updateView();
+        }
+
+        // 🏅 filter_typeが変更された時、通常モード⇔歴代1日最大記録モードの表示切り替えを行う
+        function onFilterTypeChange() {
+            const isDailyRecord = document.getElementById('filter_type').value === 'daily_record';
+
+            document.getElementById('daily_record_metric_group').style.display = isDailyRecord ? 'flex' : 'none';
+            document.getElementById('killrate_type_group').style.display = isDailyRecord ? 'none' : 'flex';
+            document.getElementById('period_controls_group').style.display = isDailyRecord ? 'none' : 'flex';
+            document.getElementById('advancedFilters').style.display = isDailyRecord ? 'none' : (document.getElementById('advancedFilters').style.display);
+            document.getElementById('toggleFiltersBtn').style.display = isDailyRecord ? 'none' : 'inline-block';
+
+            const headRow = document.getElementById('tableHeadRow');
+            if (isDailyRecord) {
+                headRow.innerHTML = `
+                    <th class="col-left">順位</th>
+                    <th class="col-center">日付</th>
+                    <th class="col-left">名前</th>
+                    <th>記録</th>
+                `;
+            } else {
+                headRow.innerHTML = normalTableHeadHTML;
+            }
+
             updateView();
         }
     </script>

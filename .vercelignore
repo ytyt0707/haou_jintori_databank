@@ -2,3 +2,7 @@
 # どのHTMLからもfetchされておらずサイト表示には不要なため、デプロイ対象から除外する。
 # git管理・バックエンドのパイプラインからは今まで通り参照可能。
 b_master_data/
+
+# summary_full.json は matches<=1 の間引き前の内部状態ファイルで、
+# フロントエンドはsummary.json（間引き済み）しかfetchしないため除外する。
+public_data/**/summary_full.json
