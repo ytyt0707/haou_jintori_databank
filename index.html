@@ -894,25 +894,36 @@
         // 🏅 選択中の指標を強調する列のスタイル（灰色・やや明るめ）
         const DAILY_RECORD_HIGHLIGHT_STYLE = 'background-color:#333;';
 
+        // 💡 強調表示中の指標と全く同じ内容になる通常列は、二重表示を避けるため非表示にする
+        function dailyRecordHiddenCols(metric) {
+            const isPerMinute = document.getElementById('killrate_type').value === 'per_minute';
+            return {
+                matches: (metric === 'matches'),
+                score: (metric === 'score'),
+                kills: (metric === 'kills'),
+                killRate: (metric === 'kill_rate_game' && !isPerMinute) || (metric === 'kill_rate_minute' && isPerMinute)
+            };
+        }
+
         function dailyRecordHeadHTML(metric) {
             const isPerMinute = document.getElementById('killrate_type').value === 'per_minute';
+            const hide = dailyRecordHiddenCols(metric);
             return `
                 <th class="col-left">順位(総合/検索)</th>
                 <th class="col-center">日付</th>
                 <th class="col-left">名前</th>
                 <th style="${DAILY_RECORD_HIGHLIGHT_STYLE}">${DAILY_RECORD_METRIC_LABELS[metric]}</th>
-                <th>試合数</th>
+                ${hide.matches ? '' : '<th>試合数</th>'}
                 <th>1位</th>
-                <th>総占領面積 / 最大</th>
-                <th>総キル数 / 最大</th>
-                <th>キルレート(${isPerMinute ? 'K/分' : 'K/G'})</th>
+                ${hide.score ? '' : '<th>総占領面積 / 最大</th>'}
+                ${hide.kills ? '' : '<th>総キル数 / 最大</th>'}
+                ${hide.killRate ? '' : `<th>キルレート(${isPerMinute ? 'K/分' : 'K/G'})</th>`}
             `;
         }
 
         function renderDailyRecordView() {
             const loader = document.getElementById('loadingIndicator');
             const tbody = document.getElementById('rankingBody');
-            const COLSPAN = 9;
 
             const doRender = () => {
                 if (loader) loader.style.display = 'none';
@@ -922,6 +933,8 @@
                 const wantTeamObj = (currentMode === 'team');
                 const filterType = document.getElementById('filter_type').value;
                 const useMerged = (!wantTeamObj && filterType === 'merged');
+                const hide = dailyRecordHiddenCols(metric);
+                const COLSPAN = 9 - (hide.matches ? 1 : 0) - (hide.score ? 1 : 0) - (hide.kills ? 1 : 0) - (hide.killRate ? 1 : 0);
 
                 document.getElementById('tableHeadRow').innerHTML = dailyRecordHeadHTML(metric);
 
@@ -990,11 +1003,11 @@
                         <td class="col-center" style="font-size:0.85rem; color:#888;">${dispDate}</td>
                         <td class="col-left player-name-format">${emoji || ''}${teamDisplay}<a href="${analysisUrl}">${name}</a></td>
                         <td style="${DAILY_RECORD_HIGHLIGHT_STYLE} font-weight:bold;">${highlightValue}</td>
-                        <td>${matches.toLocaleString()}</td>
+                        ${hide.matches ? '' : `<td>${matches.toLocaleString()}</td>`}
                         <td>${wins.toLocaleString()}</td>
-                        <td>${Number(score).toFixed(2)}% <span style="font-size:0.75rem; color:#777;">[${Number(hiScore).toFixed(2)}%]</span></td>
-                        <td>${kills.toLocaleString()} <span style="font-size:0.75rem; color:#777;">[${hiKills.toLocaleString()}]</span></td>
-                        <td>${Number(krDisplay).toFixed(2)}</td>
+                        ${hide.score ? '' : `<td>${Number(score).toFixed(2)}% <span style="font-size:0.75rem; color:#777;">[${Number(hiScore).toFixed(2)}%]</span></td>`}
+                        ${hide.kills ? '' : `<td>${kills.toLocaleString()} <span style="font-size:0.75rem; color:#777;">[${hiKills.toLocaleString()}]</span></td>`}
+                        ${hide.killRate ? '' : `<td>${Number(krDisplay).toFixed(2)}</td>`}
                     `;
                     fragment.appendChild(tr);
                 });
@@ -1008,7 +1021,7 @@
             }
 
             document.getElementById('tableHeadRow').innerHTML = dailyRecordHeadHTML(document.getElementById('daily_record_metric').value);
-            tbody.innerHTML = `<tr><td colspan="${COLSPAN}" class="col-center" style="padding: 20px;">データをロード中なのです...</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="9" class="col-center" style="padding: 20px;">データをロード中なのです...</td></tr>`;
             fetch('public_data/daily_records/summary.json')
                 .then(res => { if (!res.ok) throw new Error('Network response was not ok'); return res.json(); })
                 .then(data => {
@@ -1018,7 +1031,7 @@
                 .catch(err => {
                     console.error('歴代1日最大記録の取得に失敗しました:', err);
                     if (loader) loader.style.display = 'none';
-                    tbody.innerHTML = `<tr><td colspan="${COLSPAN}" class="col-center" style="color:#ff4444; padding:20px;">データが存在しないか、まだ生成されていません。</td></tr>`;
+                    tbody.innerHTML = `<tr><td colspan="9" class="col-center" style="color:#ff4444; padding:20px;">データが存在しないか、まだ生成されていません。</td></tr>`;
                 });
         }
 
