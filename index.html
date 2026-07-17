@@ -181,13 +181,12 @@
             <button id="tab_team" onclick="switchMode('team')">チーム</button>
         </div>
         <div class="control-group" id="filter_type_group" style="margin-left: 10px;">
-            <select id="filter_type" class="dropdown-select" onchange="onFilterTypeChange()">
+            <select id="filter_type" class="dropdown-select" onchange="updateView()">
                 <option value="native">個人名義・チーム名義(本家表示)</option>
                 <option value="all">ソロ戦・チーム戦(チーム戦個人参戦別枠)</option>
                 <option value="solo">ソロ戦のみ</option>
                 <option value="team">チーム戦のみ</option>
                 <option value="merged">ソロ戦+チーム戦(プレイヤー名のみ)</option>
-                <option value="daily_record">🏅 歴代1日最大記録</option>
             </select>
         </div>
         <div class="control-group" id="killrate_type_group" style="margin-left: 10px;">
@@ -210,6 +209,7 @@
             <button id="period_today" onclick="switchPeriod('today')">本日</button>
             <button id="period_weekly" onclick="switchPeriod('weekly')">直近7日間</button>
             <button id="period_monthly" onclick="switchPeriod('monthly')">今月</button>
+            <button id="period_daily_record" onclick="switchPeriod('daily_record')">🏅 歴代1日最大記録</button>
             <button id="period_custom" title="カスタム期間指定" onclick="toggleDatepicker()">📅 期間指定</button>
             <button id="toggleFiltersBtn" onclick="toggleAdvancedFilters()" style="margin-left: 10px; border-color: var(--deep-blue);">▼ 詳細絞り込み</button>
         </div>
@@ -458,7 +458,7 @@
             // 日間かどうか判定
             currentPeriodIsDaily = (period === 'today' || period.startsWith('daily/'));
 
-            const periods = ['all', 'today', 'weekly', 'monthly', 'custom'];
+            const periods = ['all', 'today', 'weekly', 'monthly', 'custom', 'daily_record'];
             periods.forEach(p => {
                 const btn = document.getElementById('period_' + p);
                 if (btn) btn.classList.remove('active');
@@ -476,7 +476,29 @@
                 document.getElementById('datepickerPanel').classList.remove('open');
             }
 
-            loadDataForPeriod(period);
+            updatePeriodModeUI();
+
+            if (period === 'daily_record') {
+                updateView();
+            } else {
+                loadDataForPeriod(period);
+            }
+        }
+
+        // 🏅 「歴代1日最大記録」⇔通常期間モードのコントロール表示切り替え
+        // (歴代記録モードのヘッダー自体はrenderDailyRecordView()が指標ごとに描画する)
+        function updatePeriodModeUI() {
+            const isDailyRecord = (currentPeriod === 'daily_record');
+
+            document.getElementById('daily_record_metric_group').style.display = isDailyRecord ? 'flex' : 'none';
+            document.getElementById('toggleFiltersBtn').style.display = isDailyRecord ? 'none' : 'inline-block';
+            if (isDailyRecord) {
+                document.getElementById('advancedFilters').style.display = 'none';
+            }
+
+            if (!isDailyRecord) {
+                document.getElementById('tableHeadRow').innerHTML = normalTableHeadHTML;
+            }
         }
 
         function toggleAdvancedFilters() {
@@ -546,7 +568,7 @@
             const loader = document.getElementById('loadingIndicator');
             if (loader) loader.style.display = 'block';
 
-            if (document.getElementById('filter_type').value === 'daily_record') {
+            if (currentPeriod === 'daily_record') {
                 renderDailyRecordView();
                 return;
             }
@@ -863,6 +885,7 @@
         const DAILY_RECORD_HIGHLIGHT_STYLE = 'background-color:#333;';
 
         function dailyRecordHeadHTML(metric) {
+            const isPerMinute = document.getElementById('killrate_type').value === 'per_minute';
             return `
                 <th class="col-left">順位</th>
                 <th class="col-center">日付</th>
@@ -872,7 +895,7 @@
                 <th>1位</th>
                 <th>総占領面積 / 最大</th>
                 <th>総キル数 / 最大</th>
-                <th>キルレート(K/G)</th>
+                <th>キルレート(${isPerMinute ? 'K/分' : 'K/G'})</th>
             `;
         }
 
@@ -893,6 +916,15 @@
                 // 個人タブ: flag が sp/tp のもの、チームタブ: flag が t のものだけを対象にする
                 const wantTeamObj = (currentMode === 'team');
                 let filtered = rows.filter(r => (r[1] === 't') === wantTeamObj);
+
+                // 個人タブのみ: filter_type(ソロ戦のみ/チーム戦のみ)でさらに絞り込む
+                // (native/all/merged は絞り込みなし＝sp+tp混在の従来通り)
+                if (!wantTeamObj) {
+                    const filterType = document.getElementById('filter_type').value;
+                    if (filterType === 'solo') filtered = filtered.filter(r => r[1] === 'sp');
+                    else if (filterType === 'team') filtered = filtered.filter(r => r[1] === 'tp');
+                }
+
                 if (query) {
                     filtered = filtered.filter(r => r[2].toLowerCase().includes(query));
                 }
@@ -909,16 +941,18 @@
                 const METRIC_IDX = { matches: 5, score: 7, kills: 9, kill_rate_game: 11, kill_rate_minute: 12 };
                 const isRateMetric = (metric === 'kill_rate_game' || metric === 'kill_rate_minute');
                 const fmtHighlight = (v) => isRateMetric ? Number(v).toFixed(2) : (metric === 'score' ? Number(v).toFixed(2) + '%' : Number(v).toLocaleString());
+                const isPerMinute = document.getElementById('killrate_type').value === 'per_minute';
 
                 const fragment = document.createDocumentFragment();
                 filtered.forEach((row, i) => {
-                    const [dateStr, flag, name, team, emoji, matches, wins, score, hiScore, kills, hiKills, krGame] = row;
+                    const [dateStr, flag, name, team, emoji, matches, wins, score, hiScore, kills, hiKills, krGame, krMinute] = row;
                     const dispDate = dateStr.replace(/-/g, '/');
                     const analysisUrl = (flag === 't')
                         ? `team.html?name=${encodeURIComponent(name)}`
                         : `personal.html?name=${encodeURIComponent(name)}`;
                     const teamDisplay = (flag === 'tp' && team) ? `[${team}]` : "";
                     const highlightValue = fmtHighlight(row[METRIC_IDX[metric]]);
+                    const krDisplay = isPerMinute ? krMinute : krGame;
 
                     const tr = document.createElement('tr');
                     tr.innerHTML = `
@@ -930,7 +964,7 @@
                         <td>${wins.toLocaleString()}</td>
                         <td>${Number(score).toFixed(2)}% <span style="font-size:0.75rem; color:#777;">[${Number(hiScore).toFixed(2)}%]</span></td>
                         <td>${kills.toLocaleString()} <span style="font-size:0.75rem; color:#777;">[${hiKills.toLocaleString()}]</span></td>
-                        <td>${Number(krGame).toFixed(2)}</td>
+                        <td>${Number(krDisplay).toFixed(2)}</td>
                     `;
                     fragment.appendChild(tr);
                 });
@@ -959,7 +993,7 @@
         }
 
         window.addEventListener('scroll', () => {
-            if (document.getElementById('filter_type').value === 'daily_record') return;
+            if (currentPeriod === 'daily_record') return;
             if ((window.innerHeight + window.scrollY) >= document.documentElement.scrollHeight - 150) {
                 if (currentRenderedIndex < filteredDisplayData.length) {
                     renderNextBatch();
@@ -972,28 +1006,9 @@
             document.getElementById('tab_personal').classList.remove('active');
             document.getElementById('tab_team').classList.remove('active');
             document.getElementById('tab_' + mode).classList.add('active');
-            const isDailyRecord = document.getElementById('filter_type').value === 'daily_record';
-            document.getElementById('filter_type_group').style.display = (mode === 'personal' || isDailyRecord) ? 'flex' : 'none';
+            document.getElementById('filter_type_group').style.display = (mode === 'personal') ? 'flex' : 'none';
             currentSortKey = 'total_area';
             currentSortOrder = 'desc';
-            updateView();
-        }
-
-        // 🏅 filter_typeが変更された時、通常モード⇔歴代1日最大記録モードの表示切り替えを行う
-        // (歴代記録モードのヘッダー自体はrenderDailyRecordView()が指標ごとに描画する)
-        function onFilterTypeChange() {
-            const isDailyRecord = document.getElementById('filter_type').value === 'daily_record';
-
-            document.getElementById('daily_record_metric_group').style.display = isDailyRecord ? 'flex' : 'none';
-            document.getElementById('killrate_type_group').style.display = isDailyRecord ? 'none' : 'flex';
-            document.getElementById('period_controls_group').style.display = isDailyRecord ? 'none' : 'flex';
-            document.getElementById('advancedFilters').style.display = isDailyRecord ? 'none' : (document.getElementById('advancedFilters').style.display);
-            document.getElementById('toggleFiltersBtn').style.display = isDailyRecord ? 'none' : 'inline-block';
-
-            if (!isDailyRecord) {
-                document.getElementById('tableHeadRow').innerHTML = normalTableHeadHTML;
-            }
-
             updateView();
         }
     </script>
