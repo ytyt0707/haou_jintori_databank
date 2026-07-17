@@ -182,7 +182,7 @@
         </div>
         <div class="control-group" id="filter_type_group" style="margin-left: 10px;">
             <select id="filter_type" class="dropdown-select" onchange="updateView()">
-                <option value="native">個人名義・チーム名義(本家表示)</option>
+                <option value="native" id="filter_opt_native">個人名義・チーム名義(本家表示)</option>
                 <option value="all">ソロ戦・チーム戦(チーム戦個人参戦別枠)</option>
                 <option value="solo">ソロ戦のみ</option>
                 <option value="team">チーム戦のみ</option>
@@ -313,6 +313,9 @@
             matches: '試合数', score: '面積', kills: 'キル数',
             kill_rate_game: 'キルレート(K/G)', kill_rate_minute: 'キルレート(K/分)'
         };
+        // row = [date,flag,name,team,emoji, matches,wins, score,hi_score, kills,hi_kills, kill_rate_game,kill_rate_minute]
+        const DAILY_RECORD_METRIC_IDX = { matches: 5, score: 7, kills: 9, kill_rate_game: 11, kill_rate_minute: 12 };
+        const DAILY_RECORDS_TOP_N_CLIENT = 500; // バックエンドの各カテゴリ別プールの上限と合わせる
 
         window.onload = () => {
             normalTableHeadHTML = document.getElementById('tableHeadRow').innerHTML;
@@ -498,6 +501,13 @@
 
             if (!isDailyRecord) {
                 document.getElementById('tableHeadRow').innerHTML = normalTableHeadHTML;
+            }
+
+            // 🏅 歴代1日最大記録は単発記録につき「本家表示」(個人参戦のみ合算)は選べない
+            const filterTypeSelect = document.getElementById('filter_type');
+            document.getElementById('filter_opt_native').disabled = isDailyRecord;
+            if (isDailyRecord && filterTypeSelect.value === 'native') {
+                filterTypeSelect.value = 'all';
             }
         }
 
@@ -887,7 +897,7 @@
         function dailyRecordHeadHTML(metric) {
             const isPerMinute = document.getElementById('killrate_type').value === 'per_minute';
             return `
-                <th class="col-left">順位</th>
+                <th class="col-left">順位(総合/検索)</th>
                 <th class="col-center">日付</th>
                 <th class="col-left">名前</th>
                 <th style="${DAILY_RECORD_HIGHLIGHT_STYLE}">${DAILY_RECORD_METRIC_LABELS[metric]}</th>
@@ -909,42 +919,57 @@
 
                 const metric = document.getElementById('daily_record_metric').value;
                 const query = document.getElementById('searchInput').value.trim().toLowerCase();
-                const rows = (dailyRecordsCache && dailyRecordsCache[metric]) ? dailyRecordsCache[metric] : [];
+                const wantTeamObj = (currentMode === 'team');
+                const filterType = document.getElementById('filter_type').value;
+                const useMerged = (!wantTeamObj && filterType === 'merged');
 
                 document.getElementById('tableHeadRow').innerHTML = dailyRecordHeadHTML(metric);
 
-                // 個人タブ: flag が sp/tp のもの、チームタブ: flag が t のものだけを対象にする
-                const wantTeamObj = (currentMode === 'team');
-                let filtered = rows.filter(r => (r[1] === 't') === wantTeamObj);
+                // 💡 sp/tp/tはそれぞれ独立したTOP500プール(バックエンド側で分離済み)。
+                // 共有プールにしてしまうと、値が大きくなりがちなチーム(t)がソロ/個人参戦を
+                // 押し出してしまうため(実測: matches指標でt=385件 vs sp=62件、という偏りがあった)。
+                const pools = (dailyRecordsCache && dailyRecordsCache[metric]) ? dailyRecordsCache[metric] : { sp: [], tp: [], t: [] };
 
-                // 個人タブのみ: filter_type(ソロ戦のみ/チーム戦のみ)でさらに絞り込む
-                // (native/all/merged は絞り込みなし＝sp+tp混在の従来通り)
-                if (!wantTeamObj) {
-                    const filterType = document.getElementById('filter_type').value;
-                    if (filterType === 'solo') filtered = filtered.filter(r => r[1] === 'sp');
-                    else if (filterType === 'team') filtered = filtered.filter(r => r[1] === 'tp');
+                let filtered;
+                if (useMerged) {
+                    // プレイヤー名のみ(merged): 既にソロ+チーム参戦を名前だけで合算済みの別プールを使う
+                    filtered = (dailyRecordsCache && dailyRecordsCache.merged && dailyRecordsCache.merged[metric]) ? dailyRecordsCache.merged[metric] : [];
+                } else if (wantTeamObj) {
+                    filtered = pools.t || [];
+                } else if (filterType === 'solo') {
+                    filtered = pools.sp || [];
+                } else if (filterType === 'team') {
+                    filtered = pools.tp || [];
+                } else {
+                    // all: ソロ+チーム参戦のプールを合算し、この指標の値で再ソートして上位500件に絞る
+                    const idx = DAILY_RECORD_METRIC_IDX[metric];
+                    filtered = [...(pools.sp || []), ...(pools.tp || [])]
+                        .sort((a, b) => b[idx] - a[idx])
+                        .slice(0, DAILY_RECORDS_TOP_N_CLIENT);
                 }
 
-                if (query) {
-                    filtered = filtered.filter(r => r[2].toLowerCase().includes(query));
-                }
+                // 💡 検索で絞り込む前に「全体での順位」を確定させておく(通常テーブルの総合/検索表示と同じ考え方)
+                filtered.forEach((row, i) => { row.rank_all = i + 1; });
+
+                const searchFiltered = query
+                    ? filtered.filter(r => r[2].toLowerCase().includes(query))
+                    : filtered;
 
                 document.getElementById('dataPeriodDisplay').innerText =
                     `[ 歴代1日最大記録: ${DAILY_RECORD_METRIC_LABELS[metric]} / TOP${filtered.length}件 ]`;
 
-                if (filtered.length === 0) {
+                if (searchFiltered.length === 0) {
                     tbody.innerHTML = `<tr><td colspan="${COLSPAN}" class="col-center" style="padding:20px; color:#888;">該当するデータが見つからないのです。</td></tr>`;
                     return;
                 }
 
-                // row = [date,flag,name,team,emoji, matches,wins, score,hi_score, kills,hi_kills, kill_rate_game,kill_rate_minute]
-                const METRIC_IDX = { matches: 5, score: 7, kills: 9, kill_rate_game: 11, kill_rate_minute: 12 };
+                const METRIC_IDX = DAILY_RECORD_METRIC_IDX;
                 const isRateMetric = (metric === 'kill_rate_game' || metric === 'kill_rate_minute');
                 const fmtHighlight = (v) => isRateMetric ? Number(v).toFixed(2) : (metric === 'score' ? Number(v).toFixed(2) + '%' : Number(v).toLocaleString());
                 const isPerMinute = document.getElementById('killrate_type').value === 'per_minute';
 
                 const fragment = document.createDocumentFragment();
-                filtered.forEach((row, i) => {
+                searchFiltered.forEach((row, i) => {
                     const [dateStr, flag, name, team, emoji, matches, wins, score, hiScore, kills, hiKills, krGame, krMinute] = row;
                     const dispDate = dateStr.replace(/-/g, '/');
                     const analysisUrl = (flag === 't')
@@ -953,10 +978,15 @@
                     const teamDisplay = (flag === 'tp' && team) ? `[${team}]` : "";
                     const highlightValue = fmtHighlight(row[METRIC_IDX[metric]]);
                     const krDisplay = isPerMinute ? krMinute : krGame;
+                    const displayRankAll = `#${row.rank_all}`;
+                    const displaySearchRank = query ? `(#${i + 1})` : '';
 
                     const tr = document.createElement('tr');
                     tr.innerHTML = `
-                        <td class="col-left"><span class="badge-rank">#${i + 1}</span></td>
+                        <td class="col-left">
+                            <span class="badge-rank">${displayRankAll}</span>
+                            <span class="badge-rank" style="color:var(--deep-blue);">${displaySearchRank}</span>
+                        </td>
                         <td class="col-center" style="font-size:0.85rem; color:#888;">${dispDate}</td>
                         <td class="col-left player-name-format">${emoji || ''}${teamDisplay}<a href="${analysisUrl}">${name}</a></td>
                         <td style="${DAILY_RECORD_HIGHLIGHT_STYLE} font-weight:bold;">${highlightValue}</td>
