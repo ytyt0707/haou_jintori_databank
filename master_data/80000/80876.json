@@ -1,0 +1,57 @@
+{
+  "round_id": 80876,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-16T23:11:29.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 名無しdy",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "40.91",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ほねくん",
+      "team": "",
+      "emoji": "☠️",
+      "score": "19.56",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[Yやで] 名無しll",
+      "team": "Yやで",
+      "emoji": "🐲",
+      "score": "8.60",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "40.91",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "Yやで",
+      "score": "8.60",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtktsSwDAERLH8/y933BLaemgmjmVjClQwMxQAEUCeIw+AAWaN6NI4kyKJKvOi0ebAf9xSVWWffINoMMcXhbFNt3YMzbKlxe78mvuiqtFapFps7aHFmx4DoRIRilVez1lwqC/yQkVgAFIxaUKf3NSmtts0tV+qImImZiYtmKcDD/mjJFRQ9DuZ6NAv1ILmKxkD631NadH4CfOTrs6yXEakVZDQcpeZc39fWpk0kJfShjgy9bIlbp2fYT4ToZ0saWXs9uyattR3Px/5vwnY",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#994de5",
+      "4": "#8B4513",
+      "5": "#e83098"
+    },
+    "sz": 30
+  }
+}

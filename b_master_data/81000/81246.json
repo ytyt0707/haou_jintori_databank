@@ -1,0 +1,66 @@
+{
+  "round_id": 81246,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-17T10:11:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ぷゆゆ] 狩人ぷゆゆ🥹",
+      "team": "ぷゆゆ",
+      "emoji": "😉",
+      "score": "41.90",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ぷゆゆ] エガオさん",
+      "team": "ぷゆゆ",
+      "emoji": "😁",
+      "score": "8.89",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "0.30",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ぷゆゆ] ぺよよ",
+      "team": "ぷゆゆ",
+      "emoji": "😜",
+      "score": "0.13",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ぷゆゆ",
+      "score": "50.92",
+      "kills": 18
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.30",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1ku0WgzAIQ8Nge/9H3oE0tNjNH1a5JHwoADOLCPy5CpK+cWWZmYfUeY4MOhMza2PPehkslR7URNIyXoBpqVBGtPrQNt3ebZD5gMtC8eqBvcj6KSZN72p6Fi7ROYOMeUo7o+ttwdAeVtjdc3a18aAhyv0gXoc3oqShToe2DdNBfX9azbng+ENLAfcfS+jfZzEuuZ33Z1lPezjOSWvdB81lqKR61iC5ignrG2voC6L+T7Z1Q5bfVO3MM4JVZ3Rry7fXcGZJecEv0CsG+Q==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#ced411",
+      "5": "#ced411",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

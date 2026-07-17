@@ -1,0 +1,105 @@
+{
+  "round_id": 80386,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-07-15T20:42:28.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[姉妹兵] シエスタ410",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "22.14",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "17.59",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] はぐれイカ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "12.49",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[姉妹兵] シエスタ45",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "4.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂イカ焼] شكراً",
+      "team": "🍂イカ焼",
+      "emoji": "🕌",
+      "score": "3.62",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂イカ焼] らべんだー",
+      "team": "🍂イカ焼",
+      "emoji": "😍",
+      "score": "0.68",
+      "kills": 5
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🍂イカ焼] イカ臭え",
+      "team": "🍂イカ焼",
+      "emoji": "🤔",
+      "score": "0.19",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "姉妹兵",
+      "score": "26.33",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ヴォル",
+      "score": "17.59",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "12.49",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂イカ焼",
+      "score": "4.48",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9koFywzAIQwFbuPz/D++EMUmabdy1af0sIbjoWkt16f6oqouLu4tgClaVVvkpzIm/6GS9aClxqCq92XeFz+zpnpDahMQRMWdpJ+Z0HGdGulNQDkRGjqCvRGwpHLho7OKYhZHiONqIuCA7uvOolvGgABAPKtUzrXF6lZah2hrfVDpwNvzSilzSiBg1xXYmbOOkOzNDJ9vWzPbxMUZPlLp9g2P4xzM/zfepeD0rDue608JJx6A4F1SWfJOyyIe7PGlBSbWZJa3DliY1M+652fEVLi3CjN+SYXPzx/mG/6HW1ynuP/nDzBr/Ck2aP5Uv+RvT/AdX+Q82",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e89830",
+      "4": "#e89830",
+      "5": "#e830ba",
+      "6": "#e83042",
+      "7": "#8B4513",
+      "8": "#e89830",
+      "9": "#30d7e8"
+    },
+    "sz": 30
+  }
+}

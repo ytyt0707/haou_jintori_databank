@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-18",
+  "task_history": [
+    {
+      "timestamp": "2026-07-18T00:20:23.511768",
+      "status": "success",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "年別自動分割による抜け漏れのない4階層マージ完了 (新規追加: 1233件)",
+          "previous_last_id": 80108,
+          "current_last_id": 81341,
+          "target_limit": 1233
+        },
+        "step2": {
+          "status": "success",
+          "message": "新着試合データの個別ダウンロード完了",
+          "success_count": 1233,
+          "skip_count": 0,
+          "error_count": 0
+        },
+        "step3": {
+          "status": "success",
+          "message": "JST時刻変換済みのマスターデータビルドが正常に完了しました。",
+          "new_created_count": 1233,
+          "skip_count": 80108,
+          "rescued_count": 0,
+          "created_id_ranges": "80109-81341"
+        },
+        "step4": {
+          "status": "success",
+          "message": "新着試合分の個人分析データを高速アペンドしました。",
+          "updated_players_count": 243,
+          "new_players_count": 106,
+          "skipped_nanashi_count": 638
+        },
+        "step5": {
+          "status": "success",
+          "message": "新着試合分のチーム分析データを高速アペンドしました。",
+          "updated_teams_count": 45,
+          "new_teams_count": 4,
+          "processed_team_rounds": 616
+        },
+        "step6": {
+          "status": "success",
+          "message": "新規試合分の時間統計データを正常に累積集計しました。(0人試合対応版)",
+          "processed_files_count": 1233,
+          "updated_time_buckets_count": 68
+        }
+      }
+    },
+    {
+      "timestamp": "2026-07-18T00:00:00.269540",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 80108,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "round_id": 80870,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-07-16T13:52:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[Yやで] きたで",
+      "team": "Yやで",
+      "emoji": "👾",
+      "score": "33.18",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[Yやで] BOT",
+      "team": "Yやで",
+      "emoji": "🤖",
+      "score": "13.32",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "7.11",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[Yやで] 名無しTG",
+      "team": "Yやで",
+      "emoji": "🦄",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "Yやで",
+      "score": "46.60",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ヴォル",
+      "score": "7.11",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtktEWwjAIQ6E9kf//Y00CW9XxMLdeAgEboajrB6V3RAA+jKgKAKjvx+DqIFUor+kNfYp6osz618aIB9rBVTnztzNrtOnKJ3zArC35aTnFKd17C4PO2rJphOnebm/fQEamMqR17R4KQBISS8zGbHBpiZmQ0X3ZfygLszSfqssk0yr4nMZzO++mWoZdTRFpu7TseCor466sRY5pGmO4rWxb62OxoXItO1/wrExbbrhaelIz8rWav2YVgOcQa3izoYuh7ifjRKyaubRO3vAzfuiJ5lqprXbxRCPHb9P5B3vIa1h+zz39vL8Boh8KWA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e870",
+      "5": "#30e8e8",
+      "6": "#30e83c",
+      "7": "#30e8e8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "round_id": 80882,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-16T23:30:55.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しc0",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐨",
+      "score": "61.21",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇫🇷デパ] 名無しt5",
+      "team": "🇫🇷デパ",
+      "emoji": "🤔",
+      "score": "28.05",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] キンタマついてま",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦊",
+      "score": "0.12",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "61.33",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷デパ",
+      "score": "28.05",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtk9sOxCAIRHHK/P8vb7iIqN2XzTZpKxwHEFqoqopfFDFD4RdJCtzRHiQAAkZ5UTUKDdpUuXQNxLUXDRhSHpTqGibteanJYgd5aQvYIk5Y4Td20gPuWoMP4yy+USJzpM9CVwQxv5uWe/ljBc4T/kQz3EvgVuAbnQ210s+abL7TZ9oyptOnkP2evniPodsUNjrG6DNazCv4QqstpV06LyET2zdZnd62hNHm9Wd6tafHF88LQNptv4o1GfgARIQPSQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e830a9",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

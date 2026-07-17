@@ -1,0 +1,48 @@
+{
+  "round_id": 81060,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-17T09:08:04.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "90.60",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂乗り物] 女・ザ・ライド",
+      "team": "🍂乗り物",
+      "emoji": "💓",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "90.60",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂乗り物",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkVEKwCAMQ1Oz+595W8GPlFiEMbA/oi9NI42ICAB0hRc6kG9JPQa50ds6L2E6N3SNSPp/zpYvdHr8fGrEodPKGkfBKm6hSo+7Xccl0r2UePCVqgfdRfcJzg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d73e5",
+      "4": "#47e830"
+    },
+    "sz": 30
+  }
+}

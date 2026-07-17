@@ -1,0 +1,57 @@
+{
+  "round_id": 80440,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-15T14:37:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無し無名",
+      "team": "🇯🇵ONJ",
+      "emoji": "😈",
+      "score": "39.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] いいだろ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "11.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "ポケモンBBS",
+      "team": "",
+      "emoji": "🦊",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "39.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "11.42",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtksEWxDAERcnw/788h0dCa3q6GJuK6yFRosk4bGJEBPoImWf8qvKsVdXd+Jqhbo6HvjcqJEIkbnSkXhVRsRSzXxQYYmXWrs3iIlHep4rS5rv7EUL9K43e0R03grj6N20tAy3e6UhjAtwrduQxkzaouBGiDaKtlkmq9F/0DLM933/tu4k5WHKZqtK6hTZtJi1VGbRrZUL+cXlu3/23t2geNvVnLM/sCcxf33IH+w==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#9ca3af",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

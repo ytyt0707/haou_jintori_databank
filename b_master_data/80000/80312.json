@@ -1,0 +1,33 @@
+{
+  "round_id": 80312,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-07-15T07:42:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🌱] 草の民",
+      "team": "🌱",
+      "emoji": "🍏",
+      "score": "0.13",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🌱",
+      "score": "0.13",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlU0EKACAIW/b/P0fGvKSDiE55MdycOAz4MVoebsWEkOJAXl9kCRaKHHPVS5Et93ITUtU+lQvveznhMJvim5nCJei6yip5GPG/KBMFPgYg+AJj",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e88730"
+    },
+    "sz": 30
+  }
+}
