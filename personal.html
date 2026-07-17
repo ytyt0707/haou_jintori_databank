@@ -354,7 +354,7 @@
             { id: 'rank_avg', label: '平均個人順位(逆軸)', color: '#bbff00', type: 'avg_rev' }
         ];
 
-        function getSafeFilename(name) { return name.replace(/[\\/:*?"<>|]/g, '_'); }
+        function getSafeFilename(name) { return name.replace(/[\\/:*?"<>|]/g, '_').toLowerCase(); }
 
         async function loadPlayerData() {
             try {

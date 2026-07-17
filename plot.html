@@ -368,7 +368,7 @@
             suggestBox.style.display = 'block';
         }
 
-        function getSafeFilename(name) { return name.replace(/[\\/:*?"<>|]/g, '_'); }
+        function getSafeFilename(name) { return name.replace(/[\\/:*?"<>|]/g, '_').toLowerCase(); }
 
         async function fetchTargetData(type, name) {
             if (type === 'global') return gameAnalyticsData;

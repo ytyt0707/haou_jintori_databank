@@ -340,7 +340,7 @@
             { id: 'member_avg', label: '平均チーム人数', color: '#d4b611', type: 'avg' }
         ];
 
-        function getSafeFilename(name) { return name.replace(/[\\/:*?"<>|]/g, '_'); }
+        function getSafeFilename(name) { return name.replace(/[\\/:*?"<>|]/g, '_').toLowerCase(); }
 
         async function loadTeamData() {
             try {
