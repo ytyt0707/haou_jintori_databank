@@ -1,0 +1,66 @@
+{
+  "round_id": 81820,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-19T02:12:45.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵お赤飯] ごましお",
+      "team": "🇯🇵お赤飯",
+      "emoji": "😛",
+      "score": "26.53",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "フェリス",
+      "team": "",
+      "emoji": "🐔",
+      "score": "2.06",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "フェリス",
+      "team": "",
+      "emoji": "🕊️",
+      "score": "1.23",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無しrr",
+      "team": "🇯🇵ONJ",
+      "emoji": "😂",
+      "score": "0.74",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵お赤飯",
+      "score": "26.53",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.74",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkVEOwCAIQxXB+x95ocIEjX8uGT9OX1vE1XqxysWsX0R9NtA5WEROowtqUOZFNaB5ecWRcqaGvG92GixOY9NpjOmu2GgaC7T3IHKfrnrcE4XQJIqctpmQKI5boOheqrwtiSIe5hlGRMG8UiHSF0H5n/S9rpsVE0UFvu3G9QHEeAfp",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e85e",
+      "5": "#59e830",
+      "6": "#e83042"
+    },
+    "sz": 30
+  }
+}
