@@ -198,6 +198,7 @@
         <div class="control-group" id="daily_record_metric_group" style="margin-left: 10px; display:none;">
             <select id="daily_record_metric" class="dropdown-select" onchange="updateView()">
                 <option value="matches">試合数</option>
+                <option value="wins">1位数</option>
                 <option value="score">面積</option>
                 <option value="kills">キル数</option>
                 <option value="kill_rate_game">キルレート (K/G)</option>
@@ -310,11 +311,11 @@
         let normalTableHeadHTML = null; // 通常表示のヘッダーHTMLを起動時に退避しておく
         let dailyRecordsCache = null;    // daily_records/summary.json のキャッシュ（指標切替のたびの再fetchを避ける）
         const DAILY_RECORD_METRIC_LABELS = {
-            matches: '試合数', score: '面積', kills: 'キル数',
+            matches: '試合数', wins: '1位数', score: '面積', kills: 'キル数',
             kill_rate_game: 'キルレート(K/G)', kill_rate_minute: 'キルレート(K/分)'
         };
         // row = [date,flag,name,team,emoji, matches,wins, score,hi_score, kills,hi_kills, kill_rate_game,kill_rate_minute]
-        const DAILY_RECORD_METRIC_IDX = { matches: 5, score: 7, kills: 9, kill_rate_game: 11, kill_rate_minute: 12 };
+        const DAILY_RECORD_METRIC_IDX = { matches: 5, wins: 6, score: 7, kills: 9, kill_rate_game: 11, kill_rate_minute: 12 };
         const DAILY_RECORDS_TOP_N_CLIENT = 500; // バックエンドの各カテゴリ別プールの上限と合わせる
 
         window.onload = () => {
@@ -899,6 +900,7 @@
             const isPerMinute = document.getElementById('killrate_type').value === 'per_minute';
             return {
                 matches: (metric === 'matches'),
+                wins: (metric === 'wins'),
                 score: (metric === 'score'),
                 kills: (metric === 'kills'),
                 killRate: (metric === 'kill_rate_game' && !isPerMinute) || (metric === 'kill_rate_minute' && isPerMinute)
@@ -914,7 +916,7 @@
                 <th class="col-left">名前</th>
                 <th style="${DAILY_RECORD_HIGHLIGHT_STYLE}">${DAILY_RECORD_METRIC_LABELS[metric]}</th>
                 ${hide.matches ? '' : '<th>試合数</th>'}
-                <th>1位</th>
+                ${hide.wins ? '' : '<th>1位</th>'}
                 ${hide.score ? '' : '<th>総占領面積 / 最大</th>'}
                 ${hide.kills ? '' : '<th>総キル数 / 最大</th>'}
                 ${hide.killRate ? '' : `<th>キルレート(${isPerMinute ? 'K/分' : 'K/G'})</th>`}
@@ -934,7 +936,7 @@
                 const filterType = document.getElementById('filter_type').value;
                 const useMerged = (!wantTeamObj && filterType === 'merged');
                 const hide = dailyRecordHiddenCols(metric);
-                const COLSPAN = 9 - (hide.matches ? 1 : 0) - (hide.score ? 1 : 0) - (hide.kills ? 1 : 0) - (hide.killRate ? 1 : 0);
+                const COLSPAN = 9 - (hide.matches ? 1 : 0) - (hide.wins ? 1 : 0) - (hide.score ? 1 : 0) - (hide.kills ? 1 : 0) - (hide.killRate ? 1 : 0);
 
                 document.getElementById('tableHeadRow').innerHTML = dailyRecordHeadHTML(metric);
 
@@ -1004,7 +1006,7 @@
                         <td class="col-left player-name-format">${emoji || ''}${teamDisplay}<a href="${analysisUrl}">${name}</a></td>
                         <td style="${DAILY_RECORD_HIGHLIGHT_STYLE} font-weight:bold;">${highlightValue}</td>
                         ${hide.matches ? '' : `<td>${matches.toLocaleString()}</td>`}
-                        <td>${wins.toLocaleString()}</td>
+                        ${hide.wins ? '' : `<td>${wins.toLocaleString()}</td>`}
                         ${hide.score ? '' : `<td>${Number(score).toFixed(2)}% <span style="font-size:0.75rem; color:#777;">[${Number(hiScore).toFixed(2)}%]</span></td>`}
                         ${hide.kills ? '' : `<td>${kills.toLocaleString()} <span style="font-size:0.75rem; color:#777;">[${hiKills.toLocaleString()}]</span></td>`}
                         ${hide.killRate ? '' : `<td>${Number(krDisplay).toFixed(2)}</td>`}
