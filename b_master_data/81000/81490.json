@@ -1,0 +1,42 @@
+{
+  "round_id": 81490,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-17T23:22:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しSl",
+      "team": "🇯🇵ONJ",
+      "emoji": "😁",
+      "score": "90.66",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しcD",
+      "team": "",
+      "emoji": "🐲",
+      "score": "1.95",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "90.66",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkFEKwDAIQ13M/c88hDoWR4uFwZg/Nr6qQXIaIKasAnf3WksdrElBALL13hhM8ZqmgZF1cIEPaVIRT0K+E+qw42O/ozP1v3+MPF5yvzytjWA+rhzb7QTcNw1O",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
