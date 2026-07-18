@@ -1,0 +1,96 @@
+{
+  "round_id": 81722,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-07-18T11:54:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ゾンビ] 瀕死の病人",
+      "team": "ゾンビ",
+      "emoji": "🤒",
+      "score": "28.32",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ゾンビ] ぞ",
+      "team": "ゾンビ",
+      "emoji": "🧟",
+      "score": "22.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸米] 名無し5A",
+      "team": "🇺🇸米",
+      "emoji": "😑",
+      "score": "17.98",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇫🇷パン軍] 名無しVq",
+      "team": "🇫🇷パン軍",
+      "emoji": "🐷",
+      "score": "6.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ゾンビ] カープ坊や",
+      "team": "ゾンビ",
+      "emoji": "👾",
+      "score": "5.09",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[麺] パスタ",
+      "team": "麺",
+      "emoji": "🍝",
+      "score": "2.24",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ゾンビ",
+      "score": "55.43",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸米",
+      "score": "17.98",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇫🇷パン軍",
+      "score": "6.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "麺",
+      "score": "2.24",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNksESwkAIQ9k2tPn/L3YCbMtadeSgh9eETNgxcnyO9RljkJwo/xtnzIJv6oK+iG9oARelu5kdGvtJj6AfUoW26MM5oaz9TapQRT+J/6TblrGWxdN6274473sLvUjdbN8Tyxj4RuUMNE7arU3qNyZVczkXdS93NaOtFcu01pA4Tp0wQwd1OgB1Sha8aJ4Y0CsgyzioGePG7gBRT6GlyioDSQ7EEVodESZ/BLPEtG5Ivfl1Wz2sBYLw8zzPefwjaHyjQmn2pHPngzZrsae2vf03ai/upBES",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30c6e8",
+      "4": "#e8a930",
+      "5": "#e8a930",
+      "6": "#4d73e5",
+      "7": "#30e892",
+      "8": "#e8a930"
+    },
+    "sz": 30
+  }
+}
