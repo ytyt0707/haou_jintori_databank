@@ -1,0 +1,51 @@
+{
+  "round_id": 82038,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-19T13:59:40.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "フェリス",
+      "team": "",
+      "emoji": "🤓",
+      "score": "83.06",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "フェリス",
+      "team": "",
+      "emoji": "🤪",
+      "score": "5.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] いただきマウス",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.80",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "3.80",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFk0sOwCAIRFHk/ldusPJTNF2YlI2EBzMsBIADJThtFlLmdzQZbJ6O/EgdXGcVsr8tlHjIJh2VrEFrpWw4ERGiwWjItDeokE+ExhnpOI4irsJRZm/7GpD4XHmj9yz5E3Xfcd7IvmFCPpRuSNezD+N4U3o6AFA7CheH8AAaAAp3",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#60d411",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

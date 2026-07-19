@@ -1,0 +1,51 @@
+{
+  "round_id": 82020,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-19T04:01:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "フェリス",
+      "team": "",
+      "emoji": "😶",
+      "score": "13.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "10.90",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ヴォル] イルカのホモエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "0.44",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ヴォル",
+      "score": "11.34",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkYsKxTAIQ2Od///LlxjbuUcZXGGQ9Ri11uweONwdiguDmeEgLdwozAB3TxpBtygFiEj4RTRMynorSOmmmUUmkEgaVxoRlSQaZtlRXp1V21lbd1uHS+TYguzH9CxdhRsWTQhAvIw5dRoxt9hISo+5wTuReefL7DbFm3udfeQJj5V+inofABtaaxzjwduiNhR6/LHBosALn4hzveBz/k/4nLubT53qssbnhW/Z//3+AG6wBA8=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#994de5",
+      "4": "#994de5",
+      "5": "#d4c811"
+    },
+    "sz": 30
+  }
+}
