@@ -1,0 +1,57 @@
+{
+  "round_id": 82148,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-19T19:56:23.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "フェリス",
+      "team": "",
+      "emoji": "🕊️",
+      "score": "54.98",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ᒍИO] TOᗺ",
+      "team": "ᒍИO",
+      "emoji": "🤖",
+      "score": "1.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "🥐",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ᒍИO",
+      "score": "1.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷デパ",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkkEWwyAIRAcp979yCwoC2veyi4tE+AxOiEBdo6zKgAJHp8AAR8lJkRoEZWaOwMWeUNipMxS4lAGNRpQpAZDUdbnCsO8hAkTszI/LkwciEfE8poWNEzVz8VAF6RI9fetWwWRWEC1Dy6xYw/VKRLeY8B9dDa9ad2LdW1ub0JFLiZvTjZ/SS10bT6todJ9ou5eoD7K58XBfmPPn/zJffiMG2A==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#aad411",
+      "5": "#994de5"
+    },
+    "sz": 30
+  }
+}
