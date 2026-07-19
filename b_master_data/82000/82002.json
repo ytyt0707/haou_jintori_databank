@@ -1,0 +1,42 @@
+{
+  "round_id": 82002,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-19T03:02:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "フェリス",
+      "team": "",
+      "emoji": "😶",
+      "score": "1.58",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無し35",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.63",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "0.63",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNj1EOgDAIQ8vG/c9sgKAxaVH/ZH882q7AyzHEk2NmA0VgzSVNiYU6g53Gt7UzXNZ7O6VAeCdl4pPS3CplyjjFunNgblvb7sxvujOnd++11FXuP9Pr32u2fqJT8mw907HuD+EBfq4Aqw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e83098"
+    },
+    "sz": 30
+  }
+}
