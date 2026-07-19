@@ -1,0 +1,60 @@
+{
+  "round_id": 82114,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-19T09:06:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "フェリス",
+      "team": "",
+      "emoji": "🦩",
+      "score": "41.72",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "傍観者",
+      "team": "",
+      "emoji": "🤔",
+      "score": "5.60",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇷🇺フェ殺] フェリ殺",
+      "team": "🇷🇺フェ殺",
+      "emoji": "🚫",
+      "score": "2.30",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇷🇺フェ殺] 名無しHP",
+      "team": "🇷🇺フェ殺",
+      "emoji": "🐲",
+      "score": "0.42",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺フェ殺",
+      "score": "2.71",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVUEkSwzAIE4b4/0/OiM1Js7TlgkdCQgaq0CoA2LpEpIjuTW5f2WWb6qXF387KaACE1Wnqsah3FiKXVD9ocy33nuVjuPopVdL3mcdRXB/pjnR2/0b7QbonGs0HhhcAxTkvB+jYuz+lxUa2W9bdafLAxkWgOueMkRiNvYs1M9Jp5HhdRI0VbCZm6NI2m/rQJhuxzABaJNj/rSH2OIUfoxYDmDVypK3A1V+tefisg3VBl74DTDIGiw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e230e8",
+      "4": "#e83087",
+      "5": "#e83042",
+      "6": "#e83087"
+    },
+    "sz": 30
+  }
+}
