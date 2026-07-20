@@ -2,6 +2,55 @@
   "date": "2026-07-20",
   "task_history": [
     {
+      "timestamp": "2026-07-20T10:00:04.905700",
+      "status": "success",
+      "error_reason": null,
+      "steps": {
+        "step1": {
+          "status": "success",
+          "message": "年別自動分割による抜け漏れのない4階層マージ完了 (新規追加: 0件)",
+          "previous_last_id": 82243,
+          "current_last_id": 82243,
+          "target_limit": 1
+        },
+        "step2": {
+          "status": "success",
+          "message": "新着試合なしのためスキップ",
+          "success_count": 0,
+          "skip_count": 0,
+          "error_count": 0
+        },
+        "step3": {
+          "status": "success",
+          "message": "JST時刻変換済みのマスターデータビルドが正常に完了しました。",
+          "new_created_count": 0,
+          "skip_count": 82243,
+          "rescued_count": 0,
+          "created_id_ranges": "なし"
+        },
+        "step4": {
+          "status": "success",
+          "message": "新着データなしのためスキップ",
+          "updated_players_count": 0,
+          "new_players_count": 0,
+          "skipped_nanashi_count": 0
+        },
+        "step5": {
+          "status": "success",
+          "message": "新着データなしのためスキップ",
+          "updated_teams_count": 0,
+          "new_teams_count": 0,
+          "processed_team_rounds": 0
+        },
+        "step6": {
+          "status": "success",
+          "message": "新着データなしのためスキップ",
+          "processed_files_count": 0,
+          "updated_time_buckets_count": 0
+        }
+      }
+    },
+    {
       "timestamp": "2026-07-20T09:00:06.891852",
       "status": "success",
       "error_reason": null,
