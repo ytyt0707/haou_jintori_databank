@@ -1,0 +1,57 @@
+{
+  "round_id": 82427,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-20T10:58:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "41.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[乗り物] 切り鉄",
+      "team": "乗り物",
+      "emoji": "🚉",
+      "score": "30.39",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ᒐИO] 名無しST",
+      "team": "🇯🇵ᒐИO",
+      "emoji": "🐶",
+      "score": "5.66",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "乗り物",
+      "score": "30.39",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ᒐИO",
+      "score": "5.66",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkQEOxSAIQyuW+1/5BxUEN5d8s0zJgxZUJC1Sqb4sSEwgTnzflOQuXHhRiMgTqogAAuANqumt5WZpd/SwhCVd6VC4Uyu+06J8GLcPZaA1+96VYbgh6BDyH76oQfTee9TaJXtjixUab+uVlfob3eiUHrbTF2TyJlQnDBojk1xottz3wDOn0jxSEAC0cXPTE4bNSc014Dic8T+0DFsLLTqcaoI1ui9hX8aa7gc2bww8",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83075",
+      "4": "#8b4de5",
+      "5": "#30e83c"
+    },
+    "sz": 30
+  }
+}
