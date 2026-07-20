@@ -1,0 +1,48 @@
+{
+  "round_id": 82325,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-20T05:28:07.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[乗り物] 切り鉄",
+      "team": "乗り物",
+      "emoji": "🚉",
+      "score": "2.37",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[カブラ] ジョン",
+      "team": "カブラ",
+      "emoji": "💩",
+      "score": "1.91",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "乗り物",
+      "score": "2.37",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "カブラ",
+      "score": "1.91",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkFsSxSAIQwHZ/5o7PASit3emfljrSSDIvBcx2ZJYfqbNmCclEcdNGbyBmUWYxWpEsayc1D9CWXe3NQ0R8QzRoZJWoRAf3hohaIhV09sjeqiieyZ321ZCVTeX3OLUj0zaNXZkoG7KzfuqqmWf91DYRYNG2Lk3nLd5fodN7HRagZ4Q01p6UIAX0Y9BQYDWMxjStdZ72/WPGvzgxbbnY110DnTDvLke4gEBzAPN",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8b4de5",
+      "4": "#e83064"
+    },
+    "sz": 30
+  }
+}
