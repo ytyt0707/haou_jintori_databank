@@ -1,0 +1,42 @@
+{
+  "round_id": 82289,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-20T03:31:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "岩井丸",
+      "team": "",
+      "emoji": "🐲",
+      "score": "71.29",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳赤軍] ヨシフ",
+      "team": "🇻🇳赤軍",
+      "emoji": "⚒️",
+      "score": "3.48",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳赤軍",
+      "score": "3.48",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkYEOhDAIQxH4/2++AFILXpY7El3LW1l0IlmGKs9vM5PG3F9BO7GYsatn5rohTqxdE49kGMYTXtfEi5ZFfNJ2jdvPVeQ+f7bhKg27xJnW5BVJ6+4eIk5/l7skfS6O9kT0F0oRyCeLFokzNbuPpcS/8uvX0pAjV6WdLAOogK4hqmrx9K+eWKviHnkkdOK8ZbRYBP4AuUwISA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#e83053"
+    },
+    "sz": 30
+  }
+}

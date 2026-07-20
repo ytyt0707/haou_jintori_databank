@@ -1,0 +1,48 @@
+{
+  "round_id": 82293,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-20T12:44:22.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳赤軍] Marx",
+      "team": "🇻🇳赤軍",
+      "emoji": "⚒️",
+      "score": "0.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[Yやで] わいやでー",
+      "team": "Yやで",
+      "emoji": "👾",
+      "score": "0.27",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳赤軍",
+      "score": "0.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "Yやで",
+      "score": "0.27",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kksWgDAIAwG9/5l9fIKhVneyacskQKtmM8RM7pjMRIwx00CeaHMeLCxQOkzNLVXPVOQ2VFFHNQ3gvnYD9ei+qABclIovXpGYjUrDKsozQUAUKfSkyqq60Dym2/aw7vRN15uiTc+FBK3NakOIZt7Cfucz8HSSOfBCu+0B7xgeOKl/hy2GjCilxtb7j0QcUL9+uaegMhvrq/YPcAEl3QNH",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#a74de5",
+      "4": "#30e84d"
+    },
+    "sz": 30
+  }
+}
