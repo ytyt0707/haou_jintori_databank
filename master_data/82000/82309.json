@@ -1,0 +1,66 @@
+{
+  "round_id": 82309,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-20T13:36:10.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ᒐИO] 魔法少女林檎",
+      "team": "🇯🇵ᒐИO",
+      "emoji": "🍎",
+      "score": "45.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 中田敦彦",
+      "team": "🇯🇵ONJ",
+      "emoji": "😎",
+      "score": "5.61",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ᒐИO] TOᗺ",
+      "team": "🇯🇵ᒐИO",
+      "emoji": "🤖",
+      "score": "0.30",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ᒐИO] しの",
+      "team": "🇯🇵ᒐИO",
+      "emoji": "😌",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ᒐИO",
+      "score": "45.48",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "5.61",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtksEawyAIgyODvf8j70MkQOdhh3Gp7Z9ExIqMwqMCWmkAzYKgvscqkaoOBhE0pyoONjMA0ny+dGqnhm3rOrXp9O4F9E6o+2yVfKGED+Yteamp2WNPlwat0XT7YfMczCC9mv9D59bRWyWPi3mfzr/wqx1pwG2HkiOHkSqfDqm/cFyuCHUL39T/lgjmMyVBAKyWk7DtvRaVF4ofKa2VvMp7oWg0r5SNjEW1/wE2fAgB",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#e87530",
+      "5": "#9ca3af",
+      "6": "#e87530"
+    },
+    "sz": 30
+  }
+}

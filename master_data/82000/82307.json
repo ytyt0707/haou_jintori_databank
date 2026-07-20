@@ -1,0 +1,48 @@
+{
+  "round_id": 82307,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-20T13:29:41.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[man] 中田敦彦",
+      "team": "man",
+      "emoji": "😎",
+      "score": "46.65",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ᒐИO] TOᗺ",
+      "team": "🇯🇵ᒐИO",
+      "emoji": "🤖",
+      "score": "0.82",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "man",
+      "score": "46.65",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ᒐИO",
+      "score": "0.82",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkoEOxCAIQ1v1/7/5UnCcIu6OLFF4FAgTCGuttXDOi9NbRgN+6nETQ2QM+/bGI5lT2pGQuQBIYauWM0wmnMGmPWBXZKm8JfQuPClz5S6stpRlOgs5BbSAwxj0QNGXZAVjqheq6qXWptbg1VDe+foXbB++7LK2IdV+p6wWElqy0C9U6zb322RSfyFPauAnsOGTPml2Cq8Bf5lr5I/7Bz4vBwo=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e83c",
+      "4": "#d4c811"
+    },
+    "sz": 30
+  }
+}
