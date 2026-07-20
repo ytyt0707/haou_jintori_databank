@@ -1,0 +1,48 @@
+{
+  "round_id": 82357,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-20T07:12:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 中田敦彦",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵お赤飯] はつしお",
+      "team": "🇯🇵お赤飯",
+      "emoji": "😌",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤飯",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNjjEOACAIA1vw/282oJtSE11k7KX0gH+PpJC7p+6q64DYZVxtdaDQdSavv0OqRU+oHanc3UAzszVuMwq6wYMmfKAou6hHV9dPkg6umABs",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30e881"
+    },
+    "sz": 30
+  }
+}
