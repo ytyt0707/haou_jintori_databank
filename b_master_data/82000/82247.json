@@ -1,0 +1,66 @@
+{
+  "round_id": 82247,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-20T01:15:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] ニャル子",
+      "team": "🇯🇵阪神",
+      "emoji": "🏁",
+      "score": "28.93",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[楚] 覇王/束音ロゼ",
+      "team": "楚",
+      "emoji": "⚔️",
+      "score": "23.81",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🥺",
+      "score": "6.39",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵阪神] 名無しWv",
+      "team": "🇯🇵阪神",
+      "emoji": "🤔",
+      "score": "3.33",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "38.65",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "楚",
+      "score": "23.81",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtkVkSBCEIQzOy3P/IUwRU1OZLfSZs7j1wRWfuCY0R5w+a0L6pRJi9lMYX/W13AEYqqYU36K5mIiqqqmH0OyBpoAjSjeGuaprSojtrtCt0pVZUj4YBlYZPClKmpPihELEi/HWkjS4b1D5p4KW7Lg4Su+icSJoXO2uOR+KmXHK+bZolTX0KQlynABNyEfW+8BrXCfK2pR9azBXVih+DNS1g3HC1E8MYF26QdLQPmkuYq8BgVLkrYx3CeWpvllvIyrI79rG+/QFsIAqV",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#85d411",
+      "4": "#85d411",
+      "5": "#85d411",
+      "6": "#af30e8"
+    },
+    "sz": 30
+  }
+}

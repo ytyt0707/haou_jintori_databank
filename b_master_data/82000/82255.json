@@ -1,0 +1,42 @@
+{
+  "round_id": 82255,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-20T01:41:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] ニャル子",
+      "team": "🇯🇵阪神",
+      "emoji": "🏁",
+      "score": "74.84",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵阪神] 前川右京",
+      "team": "🇯🇵阪神",
+      "emoji": "🥺",
+      "score": "14.75",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "89.59",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtklEWRDEEQ7Xsf81zghHq9UtdoXIq2o/0i6rybjikBJ5z6rjVsLqUFZAxigG7QWRA5xugNDORyIuMFwbMnqiSZ3j1M1MRWRu1aS/MN++nchmd057u+rVLicPN2WDBvyuz85RisRIiSBy5QVFoRgthCqWwJ7Qp7au7eYNSqGktcGatf6vlOz5dDT7n9GJv0GCFnFepwxyjpEe9MfMRlfYFqvfeRlvopfd2r7aaG8GqfX6ceQoT",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e89830",
+      "4": "#e89830"
+    },
+    "sz": 30
+  }
+}
