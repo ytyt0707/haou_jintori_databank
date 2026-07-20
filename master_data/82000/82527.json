@@ -1,0 +1,64 @@
+{
+  "round_id": 82527,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-21T01:23:22.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] 味噌ラーメン",
+      "team": "ラー軍",
+      "emoji": "🍜",
+      "score": "52.85",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] 豚骨醤油ラーメン",
+      "team": "ラー軍",
+      "emoji": "🍜",
+      "score": "39.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] 塩、な",
+      "team": "ラー軍",
+      "emoji": "🍜",
+      "score": "1.69",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "1.35",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "93.88",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "1.35",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkEsOACEIQ0lavf+RJ6iAo9EMq3Fj6YP6AQTHdUHHmW8glVxrvaTmKAFE2jIrSmMtNEBepd67xsetOGQ4MElUp8tpIiTIgS2ilQREGmu2Nqnf9ybFtJmDqq9/2fHW9Y6xjPTuuZrn06WUosVMd+jUBckx6d3/iPlG5APtyAwO",
+    "cp": {
+      "3": "#30e83c",
+      "4": "#30e83c",
+      "5": "#c030e8",
+      "6": "#30e83c"
+    },
+    "sz": 30
+  }
+}
