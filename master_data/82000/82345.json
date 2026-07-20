@@ -1,0 +1,62 @@
+{
+  "round_id": 82345,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-20T15:33:07.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 中田敦彦",
+      "team": "🇯🇵ONJ",
+      "emoji": "😎",
+      "score": "36.33",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[乗り物] 切り鉄",
+      "team": "乗り物",
+      "emoji": "🚉",
+      "score": "0.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] アイゼン",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "36.33",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "乗り物",
+      "score": "0.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkNEWBCAERDFn//+X9wyR2mo9RC4aidB0NVGNlGAxrwIUUb5RsIf1F4oXrXe8eZ+cVJRaL9Q34ZHV3Rec/ANEqeBAq5kNjVfegwYibNh+YFdmT/ykNmkpm+9aw6HAzGAsoN+xJ/Jw3GRnvnsRMQgl9GzGQweXy9TqXcYDhsK1Z9w4+9bp+/2hx6GejM+58FjpCMe2/NlpeSvY6JzV6Bf+owZ5",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "5": "#e83064"
+    },
+    "sz": 30
+  }
+}
