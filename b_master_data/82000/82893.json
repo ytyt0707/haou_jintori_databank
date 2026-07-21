@@ -1,0 +1,56 @@
+{
+  "round_id": 82893,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-21T12:10:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 呉キリカ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🖤",
+      "score": "55.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] TOᗺ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "2.52",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[警視庁] パトカー",
+      "team": "警視庁",
+      "emoji": "🚓",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "57.80",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "警視庁",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kksOwCAIRBHC/a/cMMhHbHTRqI9hAEuExVi+v79O+QZ+8yMWqeCZWqRTVeMZbbBpQQOCFVUSZfZgoQ1Dq6rKjoO0zKDM3FH64nIio8sKGZI8gmoex8aogl6m1tBa6lRuXyqtMM8AUNq+LDUHL6BXdaa2RmhZS4g8Ia6gjX4P3rU/chvTqtRiZR/LfWOWA8YLRmEDx8+wfR/0ft9MLTLnaPVF6qPWPDzpE/bEFginsqMP2qEGzw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
