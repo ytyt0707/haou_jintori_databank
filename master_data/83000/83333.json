@@ -1,0 +1,132 @@
+{
+  "round_id": 83333,
+  "game_mode": "TEAM",
+  "player_count": 13,
+  "played_at": "2026-07-22T20:57:25.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇪🇸宣教師] 道元",
+      "team": "🇪🇸宣教師",
+      "emoji": "😆",
+      "score": "20.48",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] ニャル子",
+      "team": "🇯🇵自民党",
+      "emoji": "🏁",
+      "score": "19.36",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] 潮ラーメン",
+      "team": "ラー軍",
+      "emoji": "🍜",
+      "score": "18.98",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ラー軍] 焼きそば神",
+      "team": "ラー軍",
+      "emoji": "🍝",
+      "score": "12.90",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵自民党] 呉キリカ",
+      "team": "🇯🇵自民党",
+      "emoji": "🖤",
+      "score": "4.99",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[ラー軍] ゆめちゃん",
+      "team": "ラー軍",
+      "emoji": "🤥",
+      "score": "4.19",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "はい",
+      "team": "",
+      "emoji": "🐶",
+      "score": "1.63",
+      "kills": 5
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤓",
+      "score": "0.56",
+      "kills": 1
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[ラー軍] メジェド神",
+      "team": "ラー軍",
+      "emoji": "👁️‍🗨️",
+      "score": "0.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[ラー軍] 名無しI8",
+      "team": "ラー軍",
+      "emoji": "😫",
+      "score": "0.20",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "36.55",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "24.34",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇪🇸宣教師",
+      "score": "20.48",
+      "kills": 12
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵陽キャ",
+      "score": "0.56",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtkoGSwyAIRLdqgeDc///uzYIY05aZGpPHLkIFAAzGFStfGS2C5PUivC6MoTulNbSWutCmODAXGpCKiOyPx4Y1yYi/UwAsWA9Ks/jQ37TMD+cUd11CZlSvlT1672PoSmHfm3DTe1dSOuRYznZ6J2KE9YxTb/2DAnNaNaoyZAn1rfoG6Z+Z2TBW25BJSSep2YOERWiLyid3x5w39aqq6s4f5gSQ1qLOjxE/KLY20qjlRGz9VQfVdA5qbFrkYXzXxcarcDzWqVIf4oPWmfclcMaq7ovWrUkxeXTrnPN5s0KbBlw5q7m1kBt/0w8Y2i2Nzamu03JY7EsA1oOL8/UfiEMT4w==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8a930",
+      "4": "#d130e8",
+      "5": "#3081e8",
+      "6": "#e830a9",
+      "7": "#3081e8",
+      "8": "#e830a9",
+      "9": "#30e84d",
+      "10": "#3081e8",
+      "11": "#3081e8",
+      "13": "#3081e8"
+    },
+    "sz": 30
+  }
+}
