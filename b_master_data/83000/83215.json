@@ -1,0 +1,87 @@
+{
+  "round_id": 83215,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-07-22T05:34:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] ニャル子",
+      "team": "🇯🇵山本組",
+      "emoji": "🏁",
+      "score": "35.87",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[暑い] 切り鉄",
+      "team": "暑い",
+      "emoji": "🚉",
+      "score": "9.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] TOᗺ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "9.38",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無しlv",
+      "team": "🇯🇵ONJ",
+      "emoji": "👽",
+      "score": "4.69",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "1.64",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "35.87",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "14.07",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "暑い",
+      "score": "9.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "猛虎軍",
+      "score": "1.64",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF10gkOhCAMBdDa9sP9bzz5XUTQIRnJ+LopivQyE4vVN557yn6V66qQ/X7+k+YvtFX7i//pGIy+9Z44aowR3Mq4VZu4JzOuPPCtxbd25dwzd0jzplthNn5qT5WZT1X0SGYvVSjMjL9D3d2hsQAwYA1Fc/dU1SgRGi/ywOBWk6WZD63KnIAKd63G0SA7t/ZQqJCYO88sZwpIhSqZS7KxgMLnUfYozMYi1FzduJLjRbdl40fqqXMrfOicc66+dYJdmjjPyoxhQOD9eW2nD0CmAFUuth8SjglU",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#47e830",
+      "4": "#9ca3af",
+      "5": "#9ca3af",
+      "6": "#a74de5",
+      "7": "#d4c811"
+    },
+    "sz": 30
+  }
+}
