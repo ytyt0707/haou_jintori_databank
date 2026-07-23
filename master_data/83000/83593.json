@@ -1,0 +1,57 @@
+{
+  "round_id": 83593,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-23T11:00:41.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 及川雅貴",
+      "team": "猛虎軍",
+      "emoji": "😉",
+      "score": "55.49",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ニャル子",
+      "team": "猛虎軍",
+      "emoji": "🏁",
+      "score": "18.07",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳赤軍] Marx",
+      "team": "🇻🇳赤軍",
+      "emoji": "⚒️",
+      "score": "0.76",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "73.57",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳赤軍",
+      "score": "0.76",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGN0lkShCAMBNBAh/tfeao7CduM1vCh6COLgpuZuRnAiQbWcA3Ti8lcrBEKz8e8nXrhXBqxpWNM0CQ1eEhrKQyH4oq1U8+8eFJ3tv2k/DmhrH2l5GMqS/9QLmBqe9X32JfU/3ww4NpkAK21Vk0ae2JhqvY1THuoDT8VWyhZioqtrPreVI9ztVGq6vJvZeFtRYXWqdxoBavd6Hn3aDpySnvv04VxUV3gQY1dQdzzPG+xmjJ0pb7VxCysc/XFR9YPJVcInw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83064",
+      "4": "#e83064",
+      "5": "#30e85e"
+    },
+    "sz": 30
+  }
+}
