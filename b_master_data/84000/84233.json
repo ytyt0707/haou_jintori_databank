@@ -1,0 +1,81 @@
+{
+  "round_id": 84233,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-07-24T12:36:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 呉キリカ",
+      "team": "🇯🇵山本組",
+      "emoji": "🖤",
+      "score": "20.01",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "18.63",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[勃牙利] カリマン一世",
+      "team": "勃牙利",
+      "emoji": "🧐",
+      "score": "17.63",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[勃牙利] ボードゥアン4世",
+      "team": "勃牙利",
+      "emoji": "🙂",
+      "score": "17.57",
+      "kills": 9
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[勃牙利] 名無しvx",
+      "team": "勃牙利",
+      "emoji": "😩",
+      "score": "11.63",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "勃牙利",
+      "score": "46.83",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "38.64",
+      "kills": 16
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kFsShTAIQ1Fe+9/xnYBAW6/5qAyHpEURESEcIXcib02fVFW6n8XQ8j4Dl1/unzSHwrLM7NkZOOdBdQiqlTIHY/GTuDs/NO/1w1i0w5dchhpE+NCAQx1Xu1d8U8Wzx5UVsxmzaChbquW19OLnj6LnDltoCKqn2Z/dOzjdB027PeI9OdML2suqWKWsFPheh4qZMtp2/6dEREq0UGY1bBsBwHQbkZnF+0CxLUbMAuPM25R5WTkpRuqZ/ZvgD28GvPlCyz7mDVZ+48n9qH4fVQ8l",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#60d411",
+      "5": "#4d81e5",
+      "6": "#4d81e5",
+      "7": "#60d411"
+    },
+    "sz": 30
+  }
+}
