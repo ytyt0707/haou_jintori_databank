@@ -1,0 +1,42 @@
+{
+  "round_id": 84121,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-24T15:33:09.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ボウル] アメフト",
+      "team": "ボウル",
+      "emoji": "🏈",
+      "score": "8.41",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ボウル] ヨワシ",
+      "team": "ボウル",
+      "emoji": "🐟",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ボウル",
+      "score": "8.55",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklESxCAIQ5Hu/c+8QyARLbOzfrTKMwFRs3k4xsHctfxJE+7NZubQ+iqUy3TjPk8awR3CDLvXWspewjBjbMXgIv7MhNgNzZ6hSMk/pLIXionoTt94owM/6LZ/OFg2/nQdocSkg7W7jTSM0bygR8pYVPfipANWbxOf8jJOk7c6bwXHQl0tNVB+KnFzZkVV3aUlzSPV65G6UfbzfB1lWhBtbaE2lXy/u4vqTrT1r8kXDfUDqg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6ae830",
+      "4": "#6ae830"
+    },
+    "sz": 30
+  }
+}
