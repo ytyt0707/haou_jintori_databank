@@ -1,0 +1,65 @@
+{
+  "round_id": 84241,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-24T22:02:23.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しSR",
+      "team": "🇯🇵ONJ",
+      "emoji": "😈",
+      "score": "55.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] ゆめちゃん",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "21.48",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 呉キリカ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.10",
+      "kills": 30
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無しVl",
+      "team": "🇯🇵ONJ",
+      "emoji": "😎",
+      "score": "0.09",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "55.46",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "22.58",
+      "kills": 31
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdk1EOAyEIRBnJeP8jNwMo2nTbpPuxEJ7AiGqmjyQBd3ekkevuxZyswGUqkT+oKhJ3Yc+e2RcELLqv8iFIkEStWShUJTr+36mEem6hNe9slJbe70YxFomJ+me4fABrNB+oQjXPY0fnwprKGWofc06NpSPtTXLOKVkdu72kD33JyH2kVN9/qHKk6jk36CesY4hb0HdDO6oTUzBO4aYbrzm/Va7sTW9sZmOo6+CI294jjHeRmBxJlZwFFzWDMvdLodQVDDNyGvIjTqbNNarr/gLPBAyW",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "5": "#9ca3af",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}
