@@ -1,0 +1,72 @@
+{
+  "round_id": 84105,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-24T14:41:18.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ヨワシ] ヨワシ",
+      "team": "ヨワシ",
+      "emoji": "🐟",
+      "score": "35.36",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[暑い] 切り鉄",
+      "team": "暑い",
+      "emoji": "🚉",
+      "score": "2.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しfr",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.27",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 人志松本",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥸",
+      "score": "0.14",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ヨワシ",
+      "score": "35.36",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "暑い",
+      "score": "2.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.14",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkksSxCAIRCFB73/kqeYTUXQWCYtU4aMbQkH0JjoRyUEoQiT47ALPcsaQSBFPXoXmNlWb6PWPgunQ960Sy6PZQ32+oOb+0G7TT9QT6ogg8Rj1Oyi6J1RulGpg6hM1ua5zaYvUfmQdyAt9AzHdkDOzMBue14SaxohEs0FrQ6slGYapg8WauZzTGImYyymCxh3ZPNlYT3B5+JJO5/nG6AfjagWb",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#4d73e5",
+      "5": "#af30e8",
+      "6": "#e83042"
+    },
+    "sz": 30
+  }
+}

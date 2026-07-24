@@ -1,0 +1,48 @@
+{
+  "round_id": 84103,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-24T14:34:48.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ヨワシ] ヨワシ",
+      "team": "ヨワシ",
+      "emoji": "🐟",
+      "score": "24.37",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 人志松本",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥸",
+      "score": "22.69",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ヨワシ",
+      "score": "24.37",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "22.69",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkFkOAzEIQ03x/c/cEgibpqqanyF+2EMA2hFRGacxQFUnHvTg3tCpiL5e6QdEOoWIHKquTwggaOBhtbHcu2S/2j/tPEG9zk3DE59lTegPnjShPtFYUTZNry844R7qH/MOtvuXYJKbHsEj6Lh7FyUrGUoiuXlJ3uUr4MJJ9vLgq4c0cfYNuizVVFOXVtXv6OrdlSfHEzbcb+Yd0PvDa59Yd1M+5RsS3QYK",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e8b4"
+    },
+    "sz": 30
+  }
+}
