@@ -1,0 +1,48 @@
+{
+  "round_id": 84037,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-24T11:00:49.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] 名無しjL",
+      "team": "ラー軍",
+      "emoji": "🤠",
+      "score": "81.80",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳赤軍] Marx",
+      "team": "🇻🇳赤軍",
+      "emoji": "⚒️",
+      "score": "10.32",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "81.80",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳赤軍",
+      "score": "10.32",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNk0sOBCEIRIvP/c88KSTaonRvh43Ko0oNAQDMzMDgpo87dveQVCrMOmNzzDJJVugolTcqJsO2OlMrsuB+b9IPPJ1PMQ3iO+efxqsf9FCrYmkrVVK4h0F6rUXVYFY1kwedp3NT27JVfHS803b5zbs53LS3XCP/1zSMXeoC4Hw9ZiymDSnBD2dtCkI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8b4de5",
+      "4": "#30e84d"
+    },
+    "sz": 30
+  }
+}
