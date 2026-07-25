@@ -1,0 +1,48 @@
+{
+  "round_id": 84707,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-25T23:13:37.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳共産党] おんj人民共和国",
+      "team": "🇨🇳共産党",
+      "emoji": "🤠",
+      "score": "4.43",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳いばら] 茨城県",
+      "team": "🇻🇳いばら",
+      "emoji": "🌍",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳共産党",
+      "score": "4.43",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳いばら",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1j0sOwCAIRAfs/c/cDKLGCiRNU1bqcz4Av41UziJS8Rp3mhmQcuJ4hzEVwJUKjfSDhtDEUI2g11HSk3sb0kDdaQKxnLPCFzudofxu+wza2tOB3lQq0DhPDkPIqQlMGmndLjaeWV9wUnoFF7W48iyxHZLn7c+Lyw2U2wED",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#30e8d7"
+    },
+    "sz": 30
+  }
+}

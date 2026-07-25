@@ -1,0 +1,42 @@
+{
+  "round_id": 84711,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-25T23:26:35.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "蛇",
+      "team": "",
+      "emoji": "🐍",
+      "score": "40.20",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳いばら] 茨城県",
+      "team": "🇻🇳いばら",
+      "emoji": "🌍",
+      "score": "1.48",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳いばら",
+      "score": "1.48",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkVEOBCEIQ0G5/5k3LRQZJ5msPyDPVkT3s+y1DnP3T/qCNrQPuCPMzNdaKyIu370DGNRvGps0DNISpzMkTYnN4CIa0ZTS0U/kwrVwacwmC0bRhhZhYorU0liVGUEBVeuEBVw7etWhiklx4IBO81rqD+1MdEob5nPNbLXbYRoGHWa5ctbRU/7EfaIGib5uJOdlzye1cWkf75VJXpjjUq0jRsg/4jBHmaloDrra4oZ/XdpJK1fQH9UwVVY8WJV/4w/aWwbr",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#85d411"
+    },
+    "sz": 30
+  }
+}
