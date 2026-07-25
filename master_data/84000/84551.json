@@ -1,0 +1,57 @@
+{
+  "round_id": 84551,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-25T14:47:37.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ジジイ",
+      "team": "猛虎軍",
+      "emoji": "🤩",
+      "score": "56.74",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[反帝国] みんな帝国行った",
+      "team": "反帝国",
+      "emoji": "😭",
+      "score": "16.99",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "6.84",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "63.58",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "反帝国",
+      "score": "16.99",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9ktEWwyAIQ0XD///yTpAodN14UMtNUKlmDAAYY3BiTEXAoEka3tbjksTM6D+FmS+iFyongG1+35cylv5NMef4Tado2a8sJ8JbMn1J2jP1K+haAGKoiPenl2DF8E0JGIWoZ8NsreQFa2nplN0FYq4UgO+Q5FKsA90pY6/3aVOc1lNBxwvcoXv94U92KUv4ePK/3vaU5DwlcN9wuU7K+MR18UsBNazS3air7t6bV8HmTTwyXrxCe/4AmMQMSg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#e830dd",
+      "5": "#ced411"
+    },
+    "sz": 30
+  }
+}
