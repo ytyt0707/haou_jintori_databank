@@ -1,0 +1,66 @@
+{
+  "round_id": 84731,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-26T00:31:26.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] ヒエログリフ",
+      "team": "ラー軍",
+      "emoji": "🪄",
+      "score": "49.69",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] セト",
+      "team": "ラー軍",
+      "emoji": "😈",
+      "score": "35.95",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "蛇",
+      "team": "",
+      "emoji": "🐍",
+      "score": "0.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しNp",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "85.64",
+      "kills": 21
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klECgzAIQ1lHdv8jbwnEom7zo60+EqACIDO1JCLST+gMAMmFmxF3ILgMfKYKEVfMhpCstWWwoVUZU1rFkXXGTTuMdqK0utDxSnoY3w6/qCSq8Sbxh79U8JKXRT2fvL1v1PBG2yVAqcVu8NKbjGPexrmG4u7gtHdRU7u5YYYTe0JcUDnH4JX5UGbGGK/MfBVyS01HPI9tT7jHNFdLmY4/f9K1FjGASS1umhx7fZPW3ptq1MtY5g9lLONAX0JrqfZfO65H6R3QTe3L+dA336sOIg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#6ae830",
+      "5": "#a74de5",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}
