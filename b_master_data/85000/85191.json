@@ -1,0 +1,66 @@
+{
+  "round_id": 85191,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-26T16:22:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ヨワシ",
+      "team": "猛虎軍",
+      "emoji": "🐟",
+      "score": "54.28",
+      "kills": 22
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "33.51",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇮🇳真理教] 麻原彰晃",
+      "team": "🇮🇳真理教",
+      "emoji": "🤠",
+      "score": "0.23",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "名無しTp",
+      "team": "",
+      "emoji": "🐶",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "87.78",
+      "kills": 28
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇮🇳真理教",
+      "score": "0.23",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdk9sOwzAIQ+kY/f9PnmyuTSJtWh42hxOIoa3IXOobw6I0gVJV5Y+qIMAlLsF6JUQ6dBOoX+iLV2+pa+6zcNEwuFDHMHByVYePNFvgQDZbSVE5JlTlVCcd4ZA9nUMqLMe5P2jd7M9uv9sj3+jeEWbI3NnvMBimJ+2UaImTbEt8KbDNt0OuBXrRwCJaPEIjWeRKmuXgt3O5oaXiKdgGPGbA3qXcs9l9j9CQfPpj/5T1ibEMPxyEcAj/H3p3C30=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e870",
+      "4": "#e83053",
+      "5": "#30e870",
+      "6": "#30d7e8"
+    },
+    "sz": 30
+  }
+}
