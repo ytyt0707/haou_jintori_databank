@@ -1,0 +1,47 @@
+{
+  "round_id": 84993,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-26T05:40:50.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵邪草] みちびき7号機",
+      "team": "🇯🇵邪草",
+      "emoji": "🤔",
+      "score": "17.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "10.54",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵邪草",
+      "score": "17.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "10.54",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHl0EEOhSAMBNBp8P5nNjMtbQH/T1zLAqGPqSgADA6ftRzDhpmKU6Oej6kqQENLBi2zLDmyu0HWNVAaGJ1b49BKMyWvCa6EukwynJnSiYR5PfNQReMNKiyTR5dS35D7flv/s+3o97YXx6/PFh4c/zPwOd/w7N7x0AV3XfGd5keqCW65awOR",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#85d411",
+      "4": "#af30e8"
+    },
+    "sz": 30
+  }
+}
