@@ -1,0 +1,56 @@
+{
+  "round_id": 85137,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-26T22:27:48.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] ハトホル神",
+      "team": "ラー軍",
+      "emoji": "🐂",
+      "score": "87.10",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "2.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 呉キリカ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🖤",
+      "score": "0.94",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "87.10",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "3.51",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkFEKwDAIQ0cScv8jD1u/JkJLGTSfvkQl5JaeLfei+Zeli7eLDWVyw+Cqik4KAdA2HKzHSbt04vKbRBKQAJWsUjP8zUqiIjhUKSm7oeEeUdkud+cuwwHxAmU9CoA=",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#9ca3af",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
