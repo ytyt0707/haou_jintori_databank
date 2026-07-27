@@ -1,0 +1,48 @@
+{
+  "round_id": 85451,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-27T06:26:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[玉ねぎ] 玉ねぎ",
+      "team": "玉ねぎ",
+      "emoji": "😃",
+      "score": "1.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵シャ] なお",
+      "team": "🇯🇵シャ",
+      "emoji": "🐱",
+      "score": "1.65",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "玉ねぎ",
+      "score": "1.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵シャ",
+      "score": "1.65",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlklEOxCAIRIfC/c+8EQQRTG2yfKFvZlDb58mFUsFkdAXCqGg1GBQiUp2YVF3/UHSznqoPnDv9Fln6TgEioqzf+gFvfDOkxQcrocyOpZnL6Av12eE93mtR7aAv4FZ9jawYGwFVmyVg3qiFuZ+Zs1V7Z0QHuiD1YPtSKuETXfydjoT9WOOPTaMbv1CPmxGW/QN/3AHN",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83098",
+      "4": "#30e8e8"
+    },
+    "sz": 30
+  }
+}
