@@ -1,0 +1,74 @@
+{
+  "round_id": 85585,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-07-27T13:40:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳於保] 名無しkV",
+      "team": "🇨🇳於保",
+      "emoji": "🐶",
+      "score": "53.68",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳於保] 海豚於保江留",
+      "team": "🇨🇳於保",
+      "emoji": "🐬",
+      "score": "19.88",
+      "kills": 12
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳於保] イルカのオホエル",
+      "team": "🇨🇳於保",
+      "emoji": "🐬",
+      "score": "7.96",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無し76",
+      "team": "🇯🇵ONJ",
+      "emoji": "😎",
+      "score": "0.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] PMラジオ局",
+      "team": "🇯🇵ONJ",
+      "emoji": "😣",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳於保",
+      "score": "81.52",
+      "kills": 20
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9k1uOhTAMQw2WR9n/ikd2WtoLiH6g0JOHEwIAVJUkSMgplK+qQko2lWdutweqxO39br4GTadP6IIfDt9QUat6y6Ccez9n1Z8bbtrxU2fVecYelPVafdGW/qt+0J70Y5imlAr+Dr+Briwy13hrCaFD7CM4dHVys/z9nD/X5K2yqeakyOnXObwbPUq/MwpndW/RoElJbq69YttKMavn9VPVYWwhaxC4ZneEXvVsJFt0NAQjhrTeppAOTGqQs6A0ICYjR2QqP+mGU781e34Siavs/KGQzO7pcheWjX984ROt",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8b4de5",
+      "5": "#e830ba",
+      "6": "#9ca3af",
+      "8": "#8b4de5"
+    },
+    "sz": 30
+  }
+}
