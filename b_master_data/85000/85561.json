@@ -1,0 +1,42 @@
+{
+  "round_id": 85561,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-27T12:23:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] PMラジオ局",
+      "team": "🇯🇵ONJ",
+      "emoji": "😣",
+      "score": "91.95",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 蛇",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐍",
+      "score": "2.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "94.03",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNk0sKwDAIRNt53v/MxUQqLUbopmQWIo7faKSA3QAzBiw4CMM0hzQkAUM8mAOPEM6+4VydLz2rai07k6bLPlr1BPt013SicucZ0O8o/f7TzrZUzS4O59tw87usYtzeX8EFZrQKfQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
