@@ -1,0 +1,80 @@
+{
+  "round_id": 86435,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-07-29T20:37:03.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] 名無しX6",
+      "team": "ラー軍",
+      "emoji": "😉",
+      "score": "55.21",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] 名無しOH",
+      "team": "ラー軍",
+      "emoji": "🐶",
+      "score": "28.11",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[810] 真夏の夜の夢",
+      "team": "810",
+      "emoji": "💩",
+      "score": "3.84",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] PMラジオ局",
+      "team": "🇯🇵ONJ",
+      "emoji": "😣",
+      "score": "1.54",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] BOT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "0.63",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "83.32",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "810",
+      "score": "3.84",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.17",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklEOhDAIRIkge/8bmxkY0qox2X5Yy2OAUiK4LCLcPMzc3bBgxsHJ8dOrBPV1j7Jy+2mNizTc73SD/gfdhMw8CXEN1CwXHFc44GZuH8l2jQIMfcVf1L7yWgQKZpZHZDPnlVQD9lMHvZPOhGfjfkWUtXDRaG1VDQc8+ZlZvpiD7mXrD8xERhg83ykJ4j60FTRZEies+wH7cQyFg3uN3V52uGeyVtES9Ve9X0eWiGPcFHdUnxd1RYWBzgvhr+qw7szGx/ZGB6IvfcjMUI8n4QU3qwx3",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#514de5",
+      "4": "#514de5",
+      "5": "#9ca3af",
+      "6": "#9ca3af",
+      "7": "#e83053"
+    },
+    "sz": 30
+  }
+}
