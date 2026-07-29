@@ -1,0 +1,44 @@
+{
+  "round_id": 86400,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-07-29T09:42:32.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ウホット",
+      "team": "",
+      "emoji": "😊",
+      "score": "10.03",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "わいやでー",
+      "team": "",
+      "emoji": "👾",
+      "score": "0.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "謎の男",
+      "team": "",
+      "emoji": "😆",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eAHNjsESAyEIQ0No//+XOwRdLYs701s5KPiSIPBrWdbB9gTFDj7AaGdmRjMDesmgIYh6lRyGV/YOG4kNVzOSlsg5ktH1vwKTTm25GbhTuIcycBPgogNq+R6bFO5OKmWHiHf3PHPJhsXWcSOcPmW8Ly6Lpmm+EObGeBl0h6tXJm5/WgIFfI1lePYW8Z+NH8Q3AaA=",
+    "cp": {
+      "1": "#e83075",
+      "2": "#e830dd",
+      "3": "#e85330",
+      "4": "#3081e8",
+      "5": "#30e8d7"
+    },
+    "sz": 30
+  }
+}
