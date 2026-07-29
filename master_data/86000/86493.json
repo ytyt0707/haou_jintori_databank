@@ -1,0 +1,57 @@
+{
+  "round_id": 86493,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-29T23:45:05.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬきち2世",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "31.71",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ヨワシ] ヨワシ",
+      "team": "ヨワシ",
+      "emoji": "🐟",
+      "score": "2.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ヨワシ] も",
+      "team": "ヨワシ",
+      "emoji": "😍",
+      "score": "1.28",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "31.71",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ヨワシ",
+      "score": "4.28",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kFESxCAIQ0kD97/yDogUtLP8aElfkIjMQhZJcEoiAvCtQwXwPK8KmTjQREKmDE52eo+xzo4CQPhzV7nWRlvbiGyCiJip7+n8osvXTOyfaqqqFiEFn85h7+AS40GHsw9Vc3Sq6WDWxNxJZNuTnQznlsabwbZGUyOXnJr7HmrM2ShP1mNdFXld7M6fkWYlWZdkY6dq1mVb+1nNuqQaRzX94v/W4Istp81fbDYYq3W10Gh+van/Pe4THdL3xw/ungR1",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30e8b4",
+      "5": "#e830ba"
+    },
+    "sz": 30
+  }
+}
