@@ -1,0 +1,50 @@
+{
+  "round_id": 86725,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-30T03:17:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[あうん] めちゃ",
+      "team": "あうん",
+      "emoji": "👽",
+      "score": "0.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[あうん] 三千院ナギ",
+      "team": "あうん",
+      "emoji": "🟡",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[あうん] めちゃ",
+      "team": "あうん",
+      "emoji": "🦊",
+      "score": "0.05",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "あうん",
+      "score": "0.31",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdUlsOwzAIg0y9/5UrpzEG1GTT+AKMzSMxS+bmtJQNl5h7pOCsyMmuoEjwCvZjcCT9Jzk7H3W5lfYr04orrxTsA078Suw3KkXrlGu0ApleDnliY3COh5uAAWsow4kFGNrQhXJmBsiW0BC1jZyLIIUfwXuYXew/N1jUoGT02VZ7oigKk4rcPYo+HxU2b07Rcin89qX3bZPIDW5FANM=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e870",
+      "5": "#30e870"
+    },
+    "sz": 30
+  }
+}
