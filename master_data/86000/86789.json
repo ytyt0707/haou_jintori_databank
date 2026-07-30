@@ -1,0 +1,62 @@
+{
+  "round_id": 86789,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-30T15:44:49.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 及川雅貴",
+      "team": "猛虎軍",
+      "emoji": "😉",
+      "score": "53.86",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵自民党] 四国平野",
+      "team": "🇯🇵自民党",
+      "emoji": "😭",
+      "score": "7.75",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵電ポ丸] おじゃる丸",
+      "team": "🇯🇵電ポ丸",
+      "emoji": "🦊",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "53.86",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "7.75",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵電ポ丸",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtkkEORCEIQ6uh97/yhIKgzHcFPqGFaDYODOcMkmnSb2hR7RDjBYCLDuhlF1XWT1zSDGstNb2oSORrrSXdxkl1K3ZJKAzZVyh8h2ST6FxTucYcsB577d6VjkDwre3MC/feX+oyLCrcNdk/VKO2V3DEQbPT2ZcZx7fqEdm6BYVIGkmmqYYGvyYNGbyePRMIOiZKqs5q8RgWRcLdPyo93zh/a47jv+4ceYuLPxrO+U1JAj50/JAqrsYAT1ywdQ/qJd+ubloz/wBS5Qlk",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#30e84d",
+      "5": "#e83098"
+    },
+    "sz": 30
+  }
+}
