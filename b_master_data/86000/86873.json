@@ -1,0 +1,66 @@
+{
+  "round_id": 86873,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-30T11:17:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[熊谷市] 四国平野",
+      "team": "熊谷市",
+      "emoji": "😭",
+      "score": "31.49",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "23.90",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵山本組] 名無しUX",
+      "team": "🇯🇵山本組",
+      "emoji": "🦊",
+      "score": "0.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "熊谷市",
+      "score": "55.39",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "0.26",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9ktEWwyAIQ6Nj+f9P3klQD5Zt9MHWayBggRUEFQDGGNBaw0yUxhUBqQxtjvFA+iQZpujUif/SCOMxnur0ZDpnVq62hSMYgGiztToi5pzT9Ba/fUDipCUByaRxtJWCfFnclZ5UhK3hW14y/OgmcmR5JwBCzTjcWKcJnV1DyQu1sU2WXEu2v2wvvtIffKiAhrljjabkPjTz+j9Kz9Zs7UVLQ86+Yd7DrqX1EL2oaoV/6KVr2l+07efGs6xHcs52Wm1fnnOsR0l+ACbZCmQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8b4",
+      "4": "#e230e8",
+      "5": "#30e8b4",
+      "6": "#e230e8"
+    },
+    "sz": 30
+  }
+}
