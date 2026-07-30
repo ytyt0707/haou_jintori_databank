@@ -1,0 +1,48 @@
+{
+  "round_id": 87005,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-07-30T18:25:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵お赤軍] 栄養分析表",
+      "team": "🇯🇵お赤軍",
+      "emoji": "🤬",
+      "score": "7.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] 天カスは敗北者",
+      "team": "猛虎軍",
+      "emoji": "🤣",
+      "score": "0.17",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵お赤軍",
+      "score": "7.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "0.17",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNjlEOwCAIQwW5/5mX4kCbTeL+RkxMfaW1td+OmRV/s5jFIxIiICUkfqfVrpS78sQRhnvSNppXCMyaVUXRWyyfU1UuhcpkTbq6ohfU31cYaYqBUD/xfN9OQWYDO4Yh6z9Az9wsesy202nv3MWqpuw9URcZ0QGU",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#af30e8",
+      "4": "#d4c811"
+    },
+    "sz": 30
+  }
+}
