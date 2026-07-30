@@ -1,0 +1,66 @@
+{
+  "round_id": 86905,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-30T13:00:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しFk",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦊",
+      "score": "33.68",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "3.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 呉キリカファン",
+      "team": "🇯🇵ONJ",
+      "emoji": "🖤",
+      "score": "1.85",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 呉キリカ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🖤",
+      "score": "1.54",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "37.08",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ヴォル",
+      "score": "3.20",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkFEOBCEIQ2tB7n/kDc4IaMhulo8J+Ky0Q65CX0Slc87jGsmcp1eOcGUZb/yT0kLdaONtAheugUiI4LI1dyZSREViD5bpRVVVRVRbyJemcHjrQjP/qhyvjjFeuCjNLMNhjCpdsKVmD6taPFpTh7d02XNLWUcct7yQ5IWMFDThsRn1PPrQx0ltvtNIXSXZb3GelG7D1lXAjibsaHjCfxSG+reK02hz8QecxgkC",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#e83087",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
