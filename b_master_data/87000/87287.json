@@ -1,0 +1,65 @@
+{
+  "round_id": 87287,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-31T09:39:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[守り神] カプ・コケコ",
+      "team": "守り神",
+      "emoji": "🐓",
+      "score": "23.96",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] ハンニバル",
+      "team": "猛虎軍",
+      "emoji": "🗡️",
+      "score": "21.56",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 及川雅貴",
+      "team": "猛虎軍",
+      "emoji": "😉",
+      "score": "3.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[守り神] 攻め仏",
+      "team": "守り神",
+      "emoji": "🤫",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "24.65",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "守り神",
+      "score": "24.06",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlk0sOwzAIREfJTO9/5IqfjLE3VVmEwGPAIQlwMxLgDfyTuzR8SfIFYAMPM5h2MLh00efpJeyUmHCnO+bbaW8KbIjjzO9PdDbu4p3Z2HWkydahTmKZkN6ZrX08hBdKUR9bnFp9BEmu7W8tRQozbEqL0lcoqeZmrbxjXJKaOFuVyzi1lR3evwhwZCt0ytm4Bsc+QnvUqNPqt3z+LysRd9mmdpgP6qyQ8AVwKQfB",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#7c4de5",
+      "4": "#7c4de5",
+      "5": "#bcd411",
+      "6": "#bcd411"
+    },
+    "sz": 30
+  }
+}
