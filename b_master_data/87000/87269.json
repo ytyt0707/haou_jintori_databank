@@ -1,0 +1,57 @@
+{
+  "round_id": 87269,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-31T08:41:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] セイレーン",
+      "team": "🇬🇧珍走団",
+      "emoji": "🦀",
+      "score": "60.14",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] もネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤭",
+      "score": "32.08",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵お赤軍] 栄養分析表",
+      "team": "🇯🇵お赤軍",
+      "emoji": "🤬",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "92.22",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤軍",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVk1EOxCAIRFmZvf+VNwwMxdp+LEmr8oQRiWY0APDTmj3yoAFoR7CFR/TKXkKkGw59pbI9OIAg4DbiALLS+h5UZ4vxlZbsPXO66+9+05005M2w1nTWkfNibK21EJ8sC9poIlbn+HRLDDNwXASD2YOR9srPU2kJwHhZJZLCg8bU4zZb91LStuHpbomxxVqMjXJ1B0O5ncfkmSrgoFFTpeOgjZ0369S/3TWRP8f/6PFgOpyvYk/N1aOo+w/tswwx",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#e87530",
+      "5": "#30e870"
+    },
+    "sz": 30
+  }
+}
