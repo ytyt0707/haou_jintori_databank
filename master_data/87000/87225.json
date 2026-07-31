@@ -1,0 +1,96 @@
+{
+  "round_id": 87225,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-07-31T15:18:27.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ねこjk",
+      "team": "",
+      "emoji": "💩",
+      "score": "15.36",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] ゆめちゃん",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "13.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[餃子魂] 松本等しい",
+      "team": "餃子魂",
+      "emoji": "🦄",
+      "score": "12.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[クサ民] もこう",
+      "team": "クサ民",
+      "emoji": "😀",
+      "score": "2.88",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] アイゼン",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[カブラ] ジョン",
+      "team": "カブラ",
+      "emoji": "🤠",
+      "score": "0.10",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "15.18",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "餃子魂",
+      "score": "12.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "クサ民",
+      "score": "2.88",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "カブラ",
+      "score": "0.10",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkUEOQyEIRAcp4P1P3ABiJb+1sxDlMUAiERHIxU9FUn/QZVFmhXUvXGlmUphBtSokINixKmBmQFFI4qRjWMgdygwpykzAQUWYVcTbAT4IY4xobYDbVFXFlTRWMIt2kV5HUM4FAV/lQQsGvtBujbkfq99Or/AeuorutJl723gd7hv9wg57p/N41j9E6gVgzgOvT6r6GapXj8maexds9g1PH1nalroUyFjZip0ei2fBHXdaLSs2Wsn/8Q3g8Aj8",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#d130e8",
+      "5": "#30e892",
+      "6": "#8B4513",
+      "7": "#47e830",
+      "8": "#d4c811"
+    },
+    "sz": 30
+  }
+}

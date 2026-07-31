@@ -1,0 +1,66 @@
+{
+  "round_id": 87223,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-07-31T15:11:57.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[カブラ] ジョン",
+      "team": "カブラ",
+      "emoji": "🤠",
+      "score": "12.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ねこjk",
+      "team": "",
+      "emoji": "💩",
+      "score": "11.36",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] ゆめちゃん",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.48",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] アイゼン",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "カブラ",
+      "score": "12.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.63",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklESwyAIRDcWev8jZxYUxUoy5SMBHouYIICYAWIeH5jGiLxXZdjLFjyF2WMLXftuGBANy8yiYKp/0Aa0NqTQpG1mTIYtnZ2GliU7zXMdKUb7RJfAj74i08Kjo/pV1UkTtN7AZ0vOkBOXWpbV0tmke/Wfg+8PXz8qJny5jmvzSru+6BwnV/ewtT0OZdM+Yjs6tE+lfsEo3R2ppx9fTm6jVgPt",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30e870",
+      "5": "#30d7e8",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}
