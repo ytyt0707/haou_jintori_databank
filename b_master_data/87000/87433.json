@@ -1,0 +1,57 @@
+{
+  "round_id": 87433,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-07-31T17:33:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 三千院ナギ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🟡",
+      "score": "74.96",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ワイテ] わてJC",
+      "team": "🇯🇵ワイテ",
+      "emoji": "🧅",
+      "score": "0.56",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ワイテ] ヨワシ",
+      "team": "🇯🇵ワイテ",
+      "emoji": "🐟",
+      "score": "0.54",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "74.96",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ワイテ",
+      "score": "1.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFksEOgzAMQ12b/v8vTwltGlJghx0WIWTlxS4RJQmQigIgCWelfgwExDtNhiwtXTrfuZ/1LzTn/Fu/7/H166geM3sU2fsRXLr+DfYeZlqlSenQ9Bras+XB7ivOFTPoAw9KqbW2bK4SbRtdkGatXgS/SwZpj19iude2GxsCuFCLXsuPOz+8KucWWhZ6pn78wqamd3Y/lwAI6g==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e83c",
+      "5": "#30e83c"
+    },
+    "sz": 30
+  }
+}
