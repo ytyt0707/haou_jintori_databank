@@ -1,0 +1,42 @@
+{
+  "round_id": 87467,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-01T04:23:21.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ワイテ] ヨワシ",
+      "team": "ワイテ",
+      "emoji": "🐟",
+      "score": "61.03",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ワイテ] わてJC",
+      "team": "ワイテ",
+      "emoji": "🧅",
+      "score": "0.34",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ワイテ",
+      "score": "61.37",
+      "kills": 13
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVUkkSgzAMk3D//+aO5S3Q0AsncvGiJTgY2B2z6k5WHZhls5OGAHw26BAdlXdEM7lV0wt5FepRJ43FD0kLi1LEc32pblTJeiM6L3gZNcpHI/0V+4+qd1vyXWuYKzpqayfHc5uGusIB9t4AtTBsqVukSQaSNKO0ss0rMhDkUcbzAdHhgmqOsxYAj3D+AXQ7cYMO/QvNqQal",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#60d411",
+      "4": "#60d411"
+    },
+    "sz": 30
+  }
+}
