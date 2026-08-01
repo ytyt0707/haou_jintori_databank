@@ -1,0 +1,57 @@
+{
+  "round_id": 87723,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-01T18:13:18.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[草民] ヨワシ",
+      "team": "草民",
+      "emoji": "🐟",
+      "score": "8.45",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しGe",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.49",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[草民] ヨワシ",
+      "team": "草民",
+      "emoji": "🐟",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "草民",
+      "score": "8.55",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "1.49",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkFESgCAIBV8E979yCTpQBNOHfjROO7uowJZ1NBVmrvGAPa3LbRjMtbmJiHbsm5NSAbN6ijMHw59WRp5MRKDlJ0y6JpY3NlrZP+iaC+S2MYtLwm6q29x6uPHg48K+jLr+SSeObwEbG9KEhzvDXoY/c3L9PLZT+d5eVFkCMA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#8B4513",
+      "5": "#e830dd"
+    },
+    "sz": 30
+  }
+}
