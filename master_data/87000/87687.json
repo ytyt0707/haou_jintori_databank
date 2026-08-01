@@ -1,0 +1,57 @@
+{
+  "round_id": 87687,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-01T16:16:36.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しVi",
+      "team": "",
+      "emoji": "🤔",
+      "score": "28.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[草民] ヨワシ",
+      "team": "草民",
+      "emoji": "🐟",
+      "score": "18.13",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[青森] りんご",
+      "team": "青森",
+      "emoji": "🍎",
+      "score": "3.67",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "草民",
+      "score": "18.13",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "青森",
+      "score": "3.67",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVsWxCAIQ+OD/W95ThBECw4fVnKJWARS9IgvC8JdQREVXzoB9O4FN50MgCfqASVVMfc1b00VsrNjQDwDoF095x+JHJhXilg0sFNT1Cvbr1R4nklrZ+u8MsDqLlVEGoUXba2RP71/qXUqzDqChXPnUwEwRGSMwQ9jHJj0irNQR3ZRJnsInHmiGz/oMersdbO+ZsJ+7fXWBY5HL262XLEe/hD3LuiW8AN4JAgt",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e86430",
+      "4": "#6e4de5",
+      "5": "#e830dd"
+    },
+    "sz": 30
+  }
+}
