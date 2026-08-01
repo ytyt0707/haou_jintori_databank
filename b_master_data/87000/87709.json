@@ -1,0 +1,87 @@
+{
+  "round_id": 87709,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-01T08:27:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[臭民] 名無しO7",
+      "team": "臭民",
+      "emoji": "🤢",
+      "score": "22.96",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[草民] ヨワシ",
+      "team": "草民",
+      "emoji": "🐟",
+      "score": "6.78",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[草民] ヨワシ",
+      "team": "草民",
+      "emoji": "🐟",
+      "score": "0.20",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しAW",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[猟友会] たぬき殺しのマサ",
+      "team": "猟友会",
+      "emoji": "👹",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "臭民",
+      "score": "22.96",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "草民",
+      "score": "6.98",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "猟友会",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkFESxCAIQyPU9v433gGUIuiWj47wSFIFUt1ay9BG8RtxnNv5L40QVSuTubKnhhN7tAegNEFrxfWGRebgmSgr1eGl/m8h4aX5FK6SkfRuViApLuMxEHrW6tIBE5nWX3iN+KI0nndVaUdmDfAGAlBrdD5hiPJETcQVt9ZmYqXNKEvJ3lpCmzLmLRys+kKUl+PVFkqnb99c11OZ+9D+AGnCBhA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#47e830",
+      "4": "#8B4513",
+      "5": "#514de5",
+      "6": "#af30e8",
+      "7": "#85d411"
+    },
+    "sz": 30
+  }
+}
