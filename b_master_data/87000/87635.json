@@ -1,0 +1,72 @@
+{
+  "round_id": 87635,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-01T04:28:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[動点P] 動く点P",
+      "team": "動点P",
+      "emoji": "🅿️",
+      "score": "17.81",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "8.65",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵山本組] セイレーン",
+      "team": "🇯🇵山本組",
+      "emoji": "🦀",
+      "score": "6.05",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "2.81",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "動点P",
+      "score": "17.81",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "14.70",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "けんた",
+      "score": "2.81",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kQkSQyEMQjFG73/kDmDU381pp9UngRgAQATC30jutTKzNlFrn2DTQhGhM10pekFRl/ykPNECMvlRKGaCyxZflwrTlFEUZ4xD2Q/X0X2jG49BjONLLQqTEl+uTCbTFDS1JUD2mxozmKVjF16vm9YuqlpuRX8fhaHI8l1ihppzSsz7mmxEdIkNzS/au7CU86JuqAtvOIdzVLe9d06AOi4/Iuem8UEYxmNauqbDzbI+popVYjgY2E9pNYXmN3ZXRfWQdG5NPqKEy1U/iUZcvm8UkFa2E7g8Vw1XZj/PsreF6PPg7+4F35MHAg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#aad411",
+      "5": "#e830dd",
+      "6": "#e830dd"
+    },
+    "sz": 30
+  }
+}
