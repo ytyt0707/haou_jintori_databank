@@ -1,0 +1,89 @@
+{
+  "round_id": 87679,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-08-01T06:50:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "最強",
+      "team": "",
+      "emoji": "😁",
+      "score": "71.50",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しjI",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "13.49",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ワイテ] わてJC",
+      "team": "ワイテ",
+      "emoji": "😍",
+      "score": "2.65",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[草民] 名無しTh",
+      "team": "草民",
+      "emoji": "😀",
+      "score": "1.96",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[草民] ぷゆまん",
+      "team": "草民",
+      "emoji": "🫖",
+      "score": "0.10",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[草民] ヨワシ",
+      "team": "草民",
+      "emoji": "🐟",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "13.49",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ワイテ",
+      "score": "2.65",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "草民",
+      "score": "2.07",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kEsSwzAIQzGDiu9/4gwfB5I6WbVsgnmWUAxEadRQHVlERAmRVJMaarTw8ItLFd855yy96mkKwNjCtlq12SZ08TCm2pxL6KluFJi3VE3q7Yq0i4zQjmDn2pbcHsIdyrbRGgKIP3qnF0E7XF65zbMlkei4WC1KyswN10URIcDo7kI6M2Mn3uwtY4igUrR5tEv7Bf4x8ByfJ+eXlE+S384jwAE0HxFy",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#e830ba",
+      "5": "#514de5",
+      "6": "#e830ba",
+      "7": "#8B4513",
+      "8": "#30e8b4"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "round_id": 87675,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-01T15:37:40.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "最強",
+      "team": "",
+      "emoji": "😁",
+      "score": "35.93",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "17歳",
+      "team": "",
+      "emoji": "🤔",
+      "score": "3.64",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[草民] ヨワシ",
+      "team": "草民",
+      "emoji": "🐟",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "草民",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkEEORCEIQ0uC97/yBLAVNPnJsEF4LaLACVecXp0cEHP3Gw/oUXVFd/LcOFstH8pmv+GlVEU+tHYezkFT2a2i2XwwJ+cDU9vNm3rRibEnSz+/s6jgnqC6JqvkoR6mpdjeOW4gA9bq39BJsLUQG2qCfJ5wZf1SlDexxcyQyNspYBbYblq1mcHsg1ooRuTOiLmMgVl8wm2n9s98LTTdz74TX9UP46IF4A==",
+    "cp": {
+      "1": "#8B4513",
+      "4": "#30e8a3",
+      "5": "#c030e8"
+    },
+    "sz": 30
+  }
+}

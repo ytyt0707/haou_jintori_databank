@@ -1,0 +1,42 @@
+{
+  "round_id": 87673,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-01T06:31:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[草民] ヨワシ",
+      "team": "草民",
+      "emoji": "🐟",
+      "score": "25.66",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[草民] ぷゆまん",
+      "team": "草民",
+      "emoji": "🫖",
+      "score": "25.59",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "草民",
+      "score": "51.24",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kgEOwzAIA8nM/9+82ZiGtOqiqY1ynGFqIuYCEODB4pokIhAgf6FBKkPuw7ZseMuGbCBWLP0UlL2qMyMJ5aJZJqcClrufZhpPOsyWa/CHalvn9dhuZgb1AcdMrvtLVd46hc9MrzDjCeZe2G3PF8fbFEhh1zCiIIEWjzatuYvwqZ71ffdf2ti7auhnUwX3tboqikbn9tUpzoYssKray9Q9Klohqt344qZ8vdPzA/oWXsYUleHMkXdub81OGBzkEfmr+QJ9bgZ1",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#e83053"
+    },
+    "sz": 30
+  }
+}
