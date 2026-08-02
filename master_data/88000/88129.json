@@ -1,0 +1,57 @@
+{
+  "round_id": 88129,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-02T16:09:28.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[皆早] けんた",
+      "team": "皆早",
+      "emoji": "🙄",
+      "score": "65.68",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しRT",
+      "team": "",
+      "emoji": "😀",
+      "score": "5.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[Yテル] 名無しAZ",
+      "team": "Yテル",
+      "emoji": "👱",
+      "score": "3.67",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "皆早",
+      "score": "65.68",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "Yテル",
+      "score": "3.67",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkOsOxSAIgxXq+7/yUi46Nk3OScYfNz5bC73PaqsQNVk3lm2eY4BUVbXC4UVKqO6a0kUN/kUxnXdaJmL5q8938/2gNVRCACsyABG9ITT7aWjNv0TkhqMJPwV7mgIpOB2T1vML6omrL+YkR5pDPYUwLWX7G7HfQ3KnXOTGl6FYse7XDWOvbjRceaJmfYQ/0W1i38bZOEeydDba/KLoAlvMCrk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#c030e8",
+      "5": "#30d7e8"
+    },
+    "sz": 30
+  }
+}
