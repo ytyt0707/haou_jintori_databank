@@ -1,0 +1,48 @@
+{
+  "round_id": 88125,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-02T06:56:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 及川雅貴",
+      "team": "猛虎軍",
+      "emoji": "😉",
+      "score": "0.11",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵お赤軍] 栄養分析表",
+      "team": "🇯🇵お赤軍",
+      "emoji": "🤬",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "0.11",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤軍",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkEEOwCAMw9Kw/78ZrZV2Ir4hjSNWTIL0w1PUqZhO9DkbMFtIxVTY6tzm6q3BboKS+6S8LYoTa3Py9rsZKpReHXGg43v3JPOMTZi/QsZFrNY3eAN/1ACG",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#e830ba"
+    },
+    "sz": 30
+  }
+}
