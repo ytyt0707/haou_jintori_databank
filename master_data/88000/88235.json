@@ -1,0 +1,128 @@
+{
+  "round_id": 88235,
+  "game_mode": "TEAM",
+  "player_count": 18,
+  "played_at": "2026-08-02T21:53:13.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[くん民] ヤヤコマ",
+      "team": "くん民",
+      "emoji": "🐣",
+      "score": "17.23",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] ズバッド",
+      "team": "くん民",
+      "emoji": "👾",
+      "score": "16.97",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷デパ] 前川右京",
+      "team": "🇫🇷デパ",
+      "emoji": "😦",
+      "score": "14.99",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇫🇷デパ] 名無しt1",
+      "team": "🇫🇷デパ",
+      "emoji": "🦁",
+      "score": "12.78",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇫🇷デパ] 銀城",
+      "team": "🇫🇷デパ",
+      "emoji": "🍜",
+      "score": "9.92",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇫🇷デパ] 芙羽",
+      "team": "🇫🇷デパ",
+      "emoji": "🥐",
+      "score": "6.14",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇫🇷デパ] 珉珉",
+      "team": "🇫🇷デパ",
+      "emoji": "🤍",
+      "score": "4.90",
+      "kills": 6
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[くん民] カプ・ブルル",
+      "team": "くん民",
+      "emoji": "🐂",
+      "score": "2.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[くん民] あらっぱ",
+      "team": "くん民",
+      "emoji": "😀",
+      "score": "1.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[ラー軍] メジェド神",
+      "team": "ラー軍",
+      "emoji": "👁️‍🗨️",
+      "score": "0.68",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇫🇷デパ",
+      "score": "48.72",
+      "kills": 21
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "37.74",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ラー軍",
+      "score": "1.14",
+      "kills": 19
+    }
+  ],
+  "minimap": {
+    "bm": "eAFdk9GuAyEIRGkUk2mJ4v3/j20GZHd756E+nB0GxIqE9Ejeb3fxUkLRv8TAuwjPogkdDvha9YXMyQ9URF2VCDd0mYlFmLZ+mAcNt4iqroWBKsvYeSRIivGgBc0AehcWLvexmpkpgEXdtXG8NoOCGnC4A1KxvU/jPCnO7A6R4yU1gHeRv4cyuPfeAxLJxhicnV4hoozcfW/fY2SCSFHv3Ton3dsPZF/H6s6pfFPpjJhTN+lm4RsiWupmXCb23noPBmh17CbCqtzzZVY585hZZP7S8j5geVvTOWdsTNPKypvbAlr7kHLMOQ/NYG2K1pR0Ko9Irb7yDarGglVfr/KGma9IP6p8kGH8ockOvaqeyhFGO73/IS8kk+O/8MTVUJxBw31d5IN/AW2EInY=",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#30e85e",
+      "4": "#4d73e5",
+      "5": "#e89830",
+      "6": "#e89830",
+      "9": "#e89830",
+      "10": "#e89830",
+      "11": "#36e830",
+      "12": "#4d73e5",
+      "14": "#4d73e5",
+      "15": "#e89830",
+      "16": "#4d73e5",
+      "17": "#4d73e5",
+      "18": "#e89830"
+    },
+    "sz": 30
+  }
+}
