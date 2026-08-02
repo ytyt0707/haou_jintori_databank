@@ -1,0 +1,48 @@
+{
+  "round_id": 88101,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-02T05:38:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猟友会] たぬき殺しのマサ",
+      "team": "猟友会",
+      "emoji": "👹",
+      "score": "2.41",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] たぬきち２",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猟友会",
+      "score": "2.41",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.10",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkdEOhTAIQ1fk/7/ZwJWUbosP15joE+xAKWj2wW9cntC8Mfb2OofuQg/hrpSKURVQepfWf2kI6SyRfkjrVrPmL99Rvr3lCrhTRrvGWtgo6JTbUXntNauOsT15UbOdQypnc0+nf5SThWsCLpEAObBqYnbFsdc4AZvyBvY=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#6e4de5"
+    },
+    "sz": 30
+  }
+}
