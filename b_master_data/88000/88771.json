@@ -1,0 +1,48 @@
+{
+  "round_id": 88771,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-03T17:51:26.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 天カスは敗北者",
+      "team": "猛虎軍",
+      "emoji": "🤣",
+      "score": "18.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸宣教師] グイドフルボッキ",
+      "team": "🇪🇸宣教師",
+      "emoji": "😔",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "18.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸宣教師",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFklESxCAIQ5Hl/mfeiYHoUjrLj9VH0hRrZhYRkUvEumsj4Cx0Hd6o7RIuDVYiM5toh74u44KrpM68272gHequ9xZdK7G7y1lBQOFtrxQNBlzOTUs40Upg0t4j2La0pjPb5c5txZJX8v/UUW1OFCOFOxyAu3MOI2f1oPzcJq3b2d2PyEX5xbwF+V4/Bc6Ya6Ka1wXlzEu6CZ41y1F7cNdh/5F4otKOEIeQv8If8AWHUQQX",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e84230",
+      "4": "#30a3e8"
+    },
+    "sz": 30
+  }
+}
