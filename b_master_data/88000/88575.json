@@ -1,0 +1,57 @@
+{
+  "round_id": 88575,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-03T07:15:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "40.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "蛇",
+      "team": "",
+      "emoji": "🏍️",
+      "score": "17.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] 夏休みキッズ",
+      "team": "くん民",
+      "emoji": "🌞",
+      "score": "3.98",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "40.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "3.98",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkUsSBCEIQxPE+195iuAHu53ZDAu1fCZENTMzxGCAw3mU9mPwWaSTrbVGctGN3f1FpzTnh/YNw9p6ej8p1Nh6VAmlY2GsVIMCVd0adDNBRFWKhNy0YEwK4X5qw0rOi57GSXGhSnFo++yaaDhPbe/pvOCpvVFw9I3kW6cVye38xPVGeesqv9B8ubBUKhzW6SAofIF5RGlL5NG6Tn/RIi7LYf81lfhvWt+5po011i9Ez9G3fAY/XqcLCA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#4d81e5",
+      "5": "#8b4de5"
+    },
+    "sz": 30
+  }
+}
