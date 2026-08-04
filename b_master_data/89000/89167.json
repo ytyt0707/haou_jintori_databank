@@ -1,0 +1,63 @@
+{
+  "round_id": 89167,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-04T15:15:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しGo",
+      "team": "🇯🇵ONJ",
+      "emoji": "😞",
+      "score": "17.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ Fa] box",
+      "team": " Fa",
+      "emoji": "⚽",
+      "score": "4.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うおw] サカバン",
+      "team": "うおw",
+      "emoji": "🤖",
+      "score": "2.49",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "17.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": " Fa",
+      "score": "4.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "うおw",
+      "score": "2.49",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdkMsOxSAIREcd/v+XbxigVduYri8bYg6HhyRJkABAsLXWAHYFIOgoQ7iTXsAJS4+ahKKlVWaXGxMnx7k8dnqFP8qJ7Is41Nx9q1tOd5N1hjo42Fvn8GfT2iDMWOkpb3SM0pRnOhSvGMAXuvSu1pe7jD7T+O/rmLGoy4b/+7DTaVbxWmSGI0/JjiPuzj87CAOr",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3092e8",
+      "4": "#9ca3af",
+      "5": "#e830dd"
+    },
+    "sz": 30
+  }
+}
