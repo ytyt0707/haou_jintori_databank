@@ -1,0 +1,57 @@
+{
+  "round_id": 89569,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-05T21:59:02.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] ワイテ批判組",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "57.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] 名無しR0",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤥",
+      "score": "1.49",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 名無しm5",
+      "team": "猛虎軍",
+      "emoji": "😍",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "57.13",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "1.49",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNktsSAyEIQyHp/v8vdwiXqa7j1AdXOQQQ1mwWGUdqtTFv+150N9f9L1p53iGkfpvbcsWZeVz7UN+VLhBE0nNZUGemOYs0LhctbloALV5jujt5p8QkPmi7pLVm15LOq+afBw9lnPZuJXUKFu7ExZy0PoacfJ5HPvEed/PCCYeGC0wxM7A0rSX5ibgGS5+dqiQDTDWLLpu0IQZ+XlsuoUKt/vmFzGIAUc+ZhjW6fKYxvRjt0G73fHNC4l8BjwcT",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e89830",
+      "4": "#e89830",
+      "5": "#e230e8"
+    },
+    "sz": 30
+  }
+}
