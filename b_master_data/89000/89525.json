@@ -1,0 +1,81 @@
+{
+  "round_id": 89525,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-05T10:36:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しPK",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "51.28",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 地雷",
+      "team": "🇯🇵ONJ",
+      "emoji": "😷",
+      "score": "7.83",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しAk",
+      "team": "🇯🇵ONJ",
+      "emoji": "👽",
+      "score": "3.65",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇲🇽ハッピ] (・3・)",
+      "team": "🇲🇽ハッピ",
+      "emoji": "🛸",
+      "score": "1.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "1.28",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "62.75",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇲🇽ハッピ",
+      "score": "1.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "熊谷市",
+      "score": "1.28",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkIEOxCAIQzms+P9/fKmAqNslR5bAfLYCIgIA8jMuyMt1tJU0cLbcDprsoOvdd4rlmDzazN8r/0WrzVCr59zA5XnCR0PEqbycw7fw5ew8xc9ZD+dtu2WTWs9x3pO/0558xylZEFq4YO/RpXIoCLaJ0xaAtiZm9joRYWtGnFEVyC4at1THZKCzR+pnHm1uqKhizMBgAQyuM6VmDnnocl/24qHFmoHrOGmw6XtQ+/C9FbFIE+NnZrXZqL60GwqE",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#9ca3af",
+      "5": "#30e8c6",
+      "6": "#9ca3af",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
