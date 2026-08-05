@@ -1,0 +1,72 @@
+{
+  "round_id": 89579,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-05T22:31:25.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[くん民] 名無しKa",
+      "team": "くん民",
+      "emoji": "🤫",
+      "score": "40.44",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] キノガッサ",
+      "team": "くん民",
+      "emoji": "🍄",
+      "score": "7.48",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 天カスは敗北者",
+      "team": "猛虎軍",
+      "emoji": "🤣",
+      "score": "0.13",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] たぬき",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "47.92",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "0.13",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkksSwyAMQxXT6P5Hzsi/SUzadb0B9CzEAFwq4lFH1VoL4l/p5mZZD0faOzb/ACAbM3FSBZBEuj3UvVQFJBIPSjm9y93IM4fIoum2yC3YNA7mtJn2rAUOQLm1HiMAM/tBhYenlzLDOqr1mOTdlzraBq2uHIOeQ71By6t96fBTnSOu+jLWH620Hhv6pOWYPOGM3+gtf2cRL3184GyNr/Pm+yvtApiuCbc=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e83c",
+      "4": "#e83075",
+      "5": "#9ca3af",
+      "6": "#30e83c"
+    },
+    "sz": 30
+  }
+}
