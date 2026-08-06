@@ -1,0 +1,57 @@
+{
+  "round_id": 90082,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-06T17:00:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "70.63",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] バケモンBBS",
+      "team": "くん民",
+      "emoji": "🐹",
+      "score": "14.55",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] 陣内智則",
+      "team": "くん民",
+      "emoji": "💩",
+      "score": "0.25",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "70.63",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "14.80",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlkkEWhDAIQxHJ/a88jxBK7bib5bCwyJe0pJqZGTIsJrLIIOFjYERV1XfSbinVgzbE0E140ZVsMFPWs/W6mD5wzmAUfqc9kSiAbr8jvuZ9+HEfZqjXS4Ab10BeJ48Id+Z1ZlqlCuAMatTn2Zu1fFsQkM8cSbiodplmrErLFMPms8Qb/LzODb5J/RX10+fTEf1duQjNhQEfSUQPAA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e89830",
+      "4": "#e89830",
+      "5": "#30c6e8"
+    },
+    "sz": 30
+  }
+}
