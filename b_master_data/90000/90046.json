@@ -1,0 +1,81 @@
+{
+  "round_id": 90046,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-06T15:03:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ Fa] バケモンBBS",
+      "team": " Fa",
+      "emoji": "🐹",
+      "score": "31.73",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[炉裏今] 八掛うみ最高！",
+      "team": "炉裏今",
+      "emoji": "😋",
+      "score": "13.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] エノラゲイ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🛩️",
+      "score": "6.19",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ Fa] 名無しyk",
+      "team": " Fa",
+      "emoji": "😂",
+      "score": "1.67",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ Fa] box",
+      "team": " Fa",
+      "emoji": "⚽",
+      "score": "0.10",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": " Fa",
+      "score": "33.50",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "炉裏今",
+      "score": "13.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "6.19",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF90dESQiEIBFDUWP7/j5sFRK7dyYdqPC6CzZlL7rXWWiJUmfNGCQWAOfkJoJ2hxubc/KaFDMd5wCq7d+LbABjwomZG5CrV3ADUbNd2FUC7sjHI+vhETKk2z7aJy8tQK36ro7Ig119N9If0yjvLBjaWxq0qArPCp4qQD4bmPKzYgjx1/iPEfT3b1fdrGr+gZVNb2N9qP78f7+GHZup05hqvp4CM8ei7KUTGcD4Tk/NeV0qVbvdy3IierndWNSqfqv7rqjxOkNz0p6mHXlWz9Be4ggnz",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30c6e8",
+      "4": "#ced411",
+      "5": "#9ca3af",
+      "6": "#ced411",
+      "7": "#ced411"
+    },
+    "sz": 30
+  }
+}
