@@ -1,0 +1,71 @@
+{
+  "round_id": 90005,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-06T12:33:13.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] -",
+      "team": "🇯🇵山本組",
+      "emoji": "🍎",
+      "score": "44.51",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[東卍] 西卐",
+      "team": "東卍",
+      "emoji": "🤔",
+      "score": "1.04",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 天カスは敗北者",
+      "team": "猛虎軍",
+      "emoji": "🤣",
+      "score": "0.84",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[東卍] ーーー",
+      "team": "東卍",
+      "emoji": "➖",
+      "score": "0.63",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "44.51",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "東卍",
+      "score": "1.66",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "0.84",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVEOwCAIQ2tE73/kRYECxrkfkFcKOgCA6LfS45ArpvKgauq97DFZeSnFmJOKnv56bsGrFSLvZvG7+iyLaE30QgfYx7a+eIrqsSFpqMJZodrX7QGY8Q9l2ZK03YnyxWGXyZpozVXmxKyUxHEp8uD0MjavdcNsXQkNPXlTfUz7HQC6t5Voxr0XPKnZUw8YdMtIxwJzZsylxxwDkDsEsChyp2/wARsOBt8=",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#30e8a3",
+      "4": "#e830cb",
+      "5": "#d4b611",
+      "6": "#d4b611"
+    },
+    "sz": 30
+  }
+}

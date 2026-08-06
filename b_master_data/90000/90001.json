@@ -1,0 +1,123 @@
+{
+  "round_id": 90001,
+  "game_mode": "TEAM",
+  "player_count": 11,
+  "played_at": "2026-08-06T12:20:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 名無し1S",
+      "team": "猛虎軍",
+      "emoji": "👻",
+      "score": "38.01",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] ニャル子",
+      "team": "🇯🇵山本組",
+      "emoji": "🏁",
+      "score": "11.85",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 成吉思汗",
+      "team": "猛虎軍",
+      "emoji": "🤭",
+      "score": "10.52",
+      "kills": 13
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] 天カスは敗北者",
+      "team": "猛虎軍",
+      "emoji": "🤣",
+      "score": "8.26",
+      "kills": 11
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[くん民] あゆみん",
+      "team": "くん民",
+      "emoji": "🤔",
+      "score": "2.92",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "2.39",
+      "kills": 3
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[くん民] 名無しn4",
+      "team": "くん民",
+      "emoji": "😂",
+      "score": "1.19",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[東卍] ーーー",
+      "team": "東卍",
+      "emoji": "➖",
+      "score": "0.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[東卍] チー牛イキリ陰",
+      "team": "東卍",
+      "emoji": "👺",
+      "score": "0.07",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "56.79",
+      "kills": 31
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "14.25",
+      "kills": 9
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くん民",
+      "score": "4.11",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "team_name": "東卍",
+      "score": "0.26",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkVmSAyEMQxUUCMv97zsl24C7ko9RVTo0z/LWJMhlIgD9XF0iHUYIyd47DAV1r+KEsmTlWoZ+UcF1+HZ6pJd9vYQRZk/U9RoNZ/8u8w963dlk55yc5IfvHIK9KhuNn8zom6P6vVPdiLNVNX+v43Ro57Klx/0Yo0VmAP49thljjKF60hTtXEvfUDIa3qmI3hUUVBE785wTWKizJtra9oqimqwSyXaoFXZYZVftRM07r/lB51HdjbnVJjpQh9SYzZsgDGue5nNDNw/5Qr5oxJViRA/tMeTHUtK+bHphOwAoua1NN7T/nPkBnM7gf66dD9M=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#e85330",
+      "5": "#3092e8",
+      "6": "#e83053",
+      "7": "#e85330",
+      "8": "#e830dd",
+      "9": "#30e8a3",
+      "10": "#3092e8",
+      "11": "#e830dd"
+    },
+    "sz": 30
+  }
+}
