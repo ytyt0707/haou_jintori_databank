@@ -1,0 +1,51 @@
+{
+  "round_id": 90040,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-06T14:44:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[炉裏今] エノラゲイ",
+      "team": "炉裏今",
+      "emoji": "🛩️",
+      "score": "71.23",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無し6q",
+      "team": "",
+      "emoji": "👽",
+      "score": "23.75",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[炉裏今] 八掛うみ最高！",
+      "team": "炉裏今",
+      "emoji": "😋",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "炉裏今",
+      "score": "71.32",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkdsSgCAIRMPY///lBgzzsjg18aQcdkEBFIB46BLwEBHIwlRLAQQCgEAFDDOdVRcXC1VW51wL0yZd1Z5TYxrqqPegvPM7OjlPxtQ5Mz5dnNFPztkawpxNHeyXdmvMYNuRwXsvXV0bqst1x8Bd6jluYfR9yseT/QLd3lhGb+szaBlLXk4FDos=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#c030e8",
+      "4": "#c030e8",
+      "5": "#30e8d7"
+    },
+    "sz": 30
+  }
+}
