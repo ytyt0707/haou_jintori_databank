@@ -1,0 +1,48 @@
+{
+  "round_id": 90144,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-07T05:21:10.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇩🇪HRE] カール4世",
+      "team": "🇩🇪HRE",
+      "emoji": "⛪",
+      "score": "0.15",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しD9",
+      "team": "🇯🇵ONJ",
+      "emoji": "😃",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪HRE",
+      "score": "0.15",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVj0ESABAMA9Pw/zcbTh2m6+DECTtJt5JkC447QHGUkpcoF5ucjXQujF4MW4lXq4vy5VSLzRhZ07pZKCIiv7f7BQvDW9f5pMkS0rfBp8pXPwPalQBc",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8e8",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
