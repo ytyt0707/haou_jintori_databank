@@ -1,0 +1,48 @@
+{
+  "round_id": 90404,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-07T19:24:18.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] ゆめちゃん",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤥",
+      "score": "92.46",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] デドアライブ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.70",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "92.46",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.70",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNj1EKwCAMQ2vM/c88ug0WiHbg/JhfIa9JbZAkCABEanuJZiyzJ7bUbdQ0h8ZLZ307/dhZ9rGrS97+1ZXK4CVr2poFxHijdViK1qRdulbz+1QMDn2sOADZ7g2m",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
