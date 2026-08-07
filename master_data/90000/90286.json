@@ -1,0 +1,57 @@
+{
+  "round_id": 90286,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-07T13:01:39.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[けんた] ニャル子",
+      "team": "けんた",
+      "emoji": "🏁",
+      "score": "69.34",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ぽ関無] ぽかんむBBS",
+      "team": "ぽ関無",
+      "emoji": "🍻",
+      "score": "2.43",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "0.39",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "69.73",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ぽ関無",
+      "score": "2.43",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9k0sSgCAMQ4OG+1/Z6SdAQWXTCa+hRQtgi7maVmjA9AdkpSTDnOkH5X036rCTqorHUrcQEz+0taCqU7x2FffeZVtCdN5YJKN7P2ncvm8eyaT9nQOtx1L+Gq3uL0Xv7PVotZk91+8xfmp0NWQUlTX/55BJ1Vl6JT3OXKNCGq+5415hxZH/SpUFHx2pPR70WjJs0pe2yGujNsJL/kpJgOAYYBIFxx2nu0DGG/OnNp6bK6uGB3N+Cyk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#30e8a3",
+      "5": "#60d411"
+    },
+    "sz": 30
+  }
+}
