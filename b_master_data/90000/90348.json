@@ -1,0 +1,48 @@
+{
+  "round_id": 90348,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-07T07:22:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] セト神",
+      "team": "ラー軍",
+      "emoji": "😈",
+      "score": "95.25",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 🫠✨",
+      "team": "🇯🇵ONJ",
+      "emoji": "➕",
+      "score": "0.21",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "95.25",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.21",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZkYHDOgCw4k/1DzHgifwmZjwyTIzgbUyMjJiMQIix8zMCAIY8jBZkDyG5KgA4RAgMZUBAF4xCm0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e85e",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
