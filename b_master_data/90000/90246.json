@@ -1,0 +1,51 @@
+{
+  "round_id": 90246,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-07T01:51:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[草民] 名無しGw",
+      "team": "草民",
+      "emoji": "😎",
+      "score": "8.43",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[草民] ぷゆまんこ",
+      "team": "草民",
+      "emoji": "😁",
+      "score": "6.95",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[草民] 草津白根山",
+      "team": "草民",
+      "emoji": "⛰️",
+      "score": "3.50",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "草民",
+      "score": "18.88",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlkF0OAyAIg+sK97/yQgGzEKMHWF/8+WgFgX/X5/4BD3w3BzU71VgAiRzc5DAzSqJrrawKC4BElHeFRDvwl6JhPlhI2ZWcwdFOwI6uWyiZoBk0CElvttc9w0TqaJeNTcP5AVmWwwBFR3J5j1aPXkPjvTy6+xW+6TEW8NSLVtlegC/+HALg",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8e8",
+      "4": "#30e8e8",
+      "5": "#30e8e8"
+    },
+    "sz": 30
+  }
+}
