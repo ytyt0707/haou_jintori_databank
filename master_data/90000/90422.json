@@ -1,0 +1,72 @@
+{
+  "round_id": 90422,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-07T20:22:39.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[たかし] 名無しXt",
+      "team": "たかし",
+      "emoji": "🍙",
+      "score": "19.08",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ Fa] box",
+      "team": " Fa",
+      "emoji": "⚽",
+      "score": "18.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "たかし",
+      "team": "",
+      "emoji": "🍘",
+      "score": "2.04",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "1.73",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "たかし",
+      "score": "19.08",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": " Fa",
+      "score": "18.02",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "けんた",
+      "score": "1.73",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVkSwCAIQ6kS7n/kDlvFrXw46CMBlahGaw2twaOCyINcCv4pAekMYDVHpQXOnrb7p9V5ERPVvgn1VIOqMs8Y4B2GhFhjMvXZQmK0TGsps1EAJ+xUBOZ90DKzyFFrw7CIiDv3XuQDWnvqN+qPMGHX6hovVOmA+hQa1Vkp2VWeZ4N6EHRXWrVVhO3k69TFX+VIvOnYf1lOS2n6EU2S5k0mWLHmC0wxsX3dlZ7+9QVE6Aau",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e892",
+      "4": "#c030e8",
+      "5": "#30e85e",
+      "6": "#30d7e8"
+    },
+    "sz": 30
+  }
+}
