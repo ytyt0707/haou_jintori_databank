@@ -1,0 +1,57 @@
+{
+  "round_id": 90968,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-08T16:53:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ヴォル] デモート",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🤗",
+      "score": "4.70",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無し",
+      "team": "",
+      "emoji": "🔌",
+      "score": "0.12",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] カブキロイド",
+      "team": "🇯🇵ONJ",
+      "emoji": "❗",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ヴォル",
+      "score": "4.70",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkUEOgDAIBBfE/3/ZANJS0JN6kINNd9xpkwIA2AYgIhBpErOfUPfkE8hXZgZnmvtsZFDzz/qkJtfPhC6NfQaWDXH88drqZvEx61bdJxSpQC89oFzwTGs5F7s509pcDu3QEu3foIfx8ozd9d1L9bN+mhydLgGa",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#7c4de5",
+      "4": "#85d411",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

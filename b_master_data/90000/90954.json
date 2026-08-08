@@ -1,0 +1,48 @@
+{
+  "round_id": 90954,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-08T16:08:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[くん民] 頼みの綱",
+      "team": "くん民",
+      "emoji": "🦊",
+      "score": "4.96",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵お赤軍] 栄養分析表",
+      "team": "🇯🇵お赤軍",
+      "emoji": "🤬",
+      "score": "2.64",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "4.96",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤軍",
+      "score": "2.64",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlj0kOwDAIA1PI/99cmUBlyKIeK5UTeLATerdqKKnVxGCVfcY++AYPCDoHm+VktehNcI4b72dtbXyzs3Z+VcVF5Sqlv2akXrQgcsUUVDkgoAR9hNScqZuTgwe4ef5ffwMDHgdR",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83075",
+      "4": "#30e8e8"
+    },
+    "sz": 30
+  }
+}
