@@ -1,0 +1,87 @@
+{
+  "round_id": 90850,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-08T10:30:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "47.01",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[群馬] 二階級特進",
+      "team": "群馬",
+      "emoji": "👻",
+      "score": "17.50",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] んん",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐶",
+      "score": "9.15",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[群馬] はじめまして🥺",
+      "team": "群馬",
+      "emoji": "👻",
+      "score": "1.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 地雷",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.19",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "47.01",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "群馬",
+      "score": "18.80",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "9.15",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "0.19",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkksOxCAMQ02I0/vfeBRIWn7tZrxB9GE7RYiUELp0lDz0AjAiVe0UBaVZN+rmSF2t6T10egxab3iXXKd4D1aI3XSzOrUc65UWM9uhwsSA8kZFzDo9mOHm0B4NJDsV/0e/ov2G7+ZtrE5J0mhcMeAktdBPqNC0tXX1TpB1xlMrGWPF+5prycmMjY7/dKBPs9/EPBVZa+fxShdcXRosl3bGN+6s+RU/OacMSA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#60d411",
+      "4": "#30e84d",
+      "5": "#60d411",
+      "6": "#9ca3af",
+      "7": "#8B4513"
+    },
+    "sz": 30
+  }
+}
