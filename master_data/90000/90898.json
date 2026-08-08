@@ -1,0 +1,57 @@
+{
+  "round_id": 90898,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-08T22:06:32.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[工作員] 未読スルー",
+      "team": "工作員",
+      "emoji": "📲",
+      "score": "50.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しrn",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "1.45",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[工作員] 名無しIU",
+      "team": "工作員",
+      "emoji": "🐶",
+      "score": "0.29",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "工作員",
+      "score": "50.88",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.45",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk0kOBSEIRAXh/lf+KQZB6cV30TE8qhhMM/tZOGIfqVNMZEBhZWYXflGIGy1X3KBNCOeHQgpPhD/pyaehVSm3SZlZVU1OVInuh4HSeVJvKqREmRizX9LubEtFWRcQXU09VKTXtQ0tzYZR6dR1tpbENNjUmTxhGxD7jJaT1gSQBk1Ykf4ERY+43ufA9IrVeGrRLkXVIrj9SSF7pbWAQcz59r7LtsoD9LY+YXS9DT7zeAzBvbd34H9adLN+dsQIMA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#4d81e5",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
