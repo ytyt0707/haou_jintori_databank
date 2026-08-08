@@ -1,0 +1,51 @@
+{
+  "round_id": 91026,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-09T05:01:37.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] ハンニバーガー",
+      "team": "ラー軍",
+      "emoji": "🍔",
+      "score": "24.63",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] 反ドナル",
+      "team": "ラー軍",
+      "emoji": "🍟",
+      "score": "14.33",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "稼ぎ阻止マン3号",
+      "team": "",
+      "emoji": "🤣",
+      "score": "0.45",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "38.96",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVktkOwzAIBJds+P9frjgNbl+6ihTLkwEfAUaejIhAxnwOnQIQz803/dINA2+4cuFy35+1Qz3y7pyUL0PeFN4WJCHGgWd+0JQE71UxKMjYtIuqqoAqYfupeGWbzrhSMPpOaAU74ZpIt5dr54VTmJY2/SoSOvmbxnJt85FZ2sa+qi69WiceMKt0jVtePXKrU/dx2LUuvfikSqU9J05DrdM8MI5t02G3u+6p9KTRHlD7ATo1W++5qJrrt1n+O55r/AAJYwXo",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8b4de5",
+      "4": "#97d411",
+      "5": "#8b4de5"
+    },
+    "sz": 30
+  }
+}
