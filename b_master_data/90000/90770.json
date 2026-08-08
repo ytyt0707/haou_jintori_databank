@@ -1,0 +1,48 @@
+{
+  "round_id": 90770,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-08T06:11:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "13.81",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵お赤飯] 名無しEt",
+      "team": "🇯🇵お赤飯",
+      "emoji": "😝",
+      "score": "7.51",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "13.81",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤飯",
+      "score": "7.51",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklmOxDAIRKHD/c/cqsWY0NJI44+E8CgKO858reBKvSJeLDM+AJkZrNhUDFmXdUFVzWa3EBVF2l5LC1oNd2fStqHz+CKtrHLu7Stn1DQe2qYN7xBKsbuTu7PVTv9QDab02m/7Ko/nNJZSJxbjoJ8xE3ZkkaVPPlhHDB3qDyVsfIhKwtBi2vD3M6pDhUXPyPEn1Ug91pXKt7UYmtC3EnFEea6I8/cu5pmhMQNvQ7GehdelE63Yd3llx6ddR+b/4RdKwgRd",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#97d411",
+      "4": "#30e892"
+    },
+    "sz": 30
+  }
+}
