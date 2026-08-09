@@ -1,0 +1,51 @@
+{
+  "round_id": 91234,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-09T16:16:12.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無し",
+      "team": "",
+      "emoji": "🔌",
+      "score": "48.24",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[あはな] なき",
+      "team": "あはな",
+      "emoji": "😢",
+      "score": "10.46",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[あはな] 名無し8e",
+      "team": "あはな",
+      "emoji": "😎",
+      "score": "4.43",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "あはな",
+      "score": "14.89",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdkkkSRCEIQ4PI/a/cFSbxlydoNiLPRBwAy1gdOJFM7QVbaqrJsXeLy9gsKYDdvKlirQVsh6VuasSBHlpbtG4c6tAqByVs7J0NZ3XoPZV3UWX0SZj4zMxg5jBp5LFWuWcVrtENrsqc/CMVkXnEKwdkYlzQ75X4reddUT0Njn7Qh/xIHzDeU4Tu+LSUf0HC/vFcLM2ojmZt5Pl3qvIDa7sIFg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#47e830",
+      "5": "#47e830"
+    },
+    "sz": 30
+  }
+}
