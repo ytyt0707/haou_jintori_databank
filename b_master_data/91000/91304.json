@@ -1,0 +1,57 @@
+{
+  "round_id": 91304,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-09T11:03:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇲🇽ハッピ] も",
+      "team": "🇲🇽ハッピ",
+      "emoji": "😍",
+      "score": "56.60",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇲🇽ハッピ] (・3・)",
+      "team": "🇲🇽ハッピ",
+      "emoji": "🛸",
+      "score": "34.11",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] けんた",
+      "team": "なきち",
+      "emoji": "🙄",
+      "score": "0.16",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇲🇽ハッピ",
+      "score": "90.71",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "0.16",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVk1kSwyAMQ11c3f/KHXkRpslkWr4SP8sShLjfLatFZtcGA9cNyNZn6qcW7sC0AIYlEO3ia63hiyv+olSn2GytmTlCbsrBW9uQ2oj7SHHQEDBYae+om/Cp3XnTOIJo93lUGXpGVENuNo6UH0jbY0O/KFcXEmrGNq5SHWA3tPFPNLbZyjqZ4XuM7sEq6oED/qLDIrR5YfsqcFRnqhsU07MmKsd8CPqqogK9s1D/QkscMGvTca/KlZCrtB8T3gx0",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#994de5",
+      "5": "#60d411"
+    },
+    "sz": 30
+  }
+}
