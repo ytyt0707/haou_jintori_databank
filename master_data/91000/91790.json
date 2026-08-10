@@ -1,0 +1,104 @@
+{
+  "round_id": 91790,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-08-10T22:19:02.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[バモス] ハンニバーガー",
+      "team": "バモス",
+      "emoji": "🍔",
+      "score": "21.14",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] コータス",
+      "team": "くん民",
+      "emoji": "🤓",
+      "score": "20.70",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] HDナットレイ",
+      "team": "くん民",
+      "emoji": "🛡️",
+      "score": "16.36",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無しOF",
+      "team": "🇯🇵ONJ",
+      "emoji": "🔶",
+      "score": "5.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[赤軍] ypaaaaaa",
+      "team": "赤軍",
+      "emoji": "☠️",
+      "score": "2.52",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] 名無しJs",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[赤軍] ニャル子",
+      "team": "赤軍",
+      "emoji": "🏁",
+      "score": "0.00",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "37.06",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "バモス",
+      "score": "21.14",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "5.75",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "赤軍",
+      "score": "2.52",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAGF0FFuBCEMA9CAE8Te/8KVHbKEqlL5YBAPkzBj2MhxvtYHxcZwd64WVsOPmYucY4y11nLfe9cZ7df01cO7wB3wVIa3zWm2iwGAuFxX7z2tlHSUdzGr2sweA69WIVoobN74NJFq9hgeZNstiFTVjNCLuyrKXRofZNZ7IqeGzUlvDX+zDAtv9rRU4RDXzQ53cFLdiFDhVM5aXRVXllEecTNYcLDpq4FAECGU6jxqR/up+h0RwXby+JkFpeHnroN4tQeBhtneZfZ9o//p639k24FfWr81SxN73asWslcz1Ppsyx+9TAqY",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#d4c811",
+      "5": "#e830ba",
+      "6": "#4d73e5",
+      "8": "#9ca3af",
+      "9": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
