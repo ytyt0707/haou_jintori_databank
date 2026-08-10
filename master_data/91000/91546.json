@@ -1,0 +1,42 @@
+{
+  "round_id": 91546,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-10T09:07:55.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] 名無しMS",
+      "team": "ラー軍",
+      "emoji": "😍",
+      "score": "0.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] 名無し7W",
+      "team": "ラー軍",
+      "emoji": "🤠",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "0.37",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkTEOACAIA1v1/282gglxKAysMmEutAXJUxBlsEGFLIDU1mg+m1MZ2X0l7u5bXPINPeNZX6NQln/oG6mFSQ4goRExuuWttDSsNO9sqP0OGxHmAHU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#e87530"
+    },
+    "sz": 30
+  }
+}
