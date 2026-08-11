@@ -1,0 +1,81 @@
+{
+  "round_id": 92220,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-11T21:33:26.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 山上徹也",
+      "team": "猛虎軍",
+      "emoji": "😎",
+      "score": "36.74",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] 天カスは敗北者",
+      "team": "猛虎軍",
+      "emoji": "🤣",
+      "score": "31.09",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] 成吉思汗",
+      "team": "猛虎軍",
+      "emoji": "🤔",
+      "score": "18.37",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] どわーw",
+      "team": "🇯🇵ONJ",
+      "emoji": "👻",
+      "score": "3.65",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵オリッ] 清原和博",
+      "team": "🇯🇵オリッ",
+      "emoji": "😠",
+      "score": "1.33",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "86.19",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "3.65",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵オリッ",
+      "score": "1.33",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkAkOwzAIBAk27P9/XHEGp4dUFMkmswsYESESZAgzMwDxIPKjIMDMkiwU0k4Erd953tZl3hEkGF5evNakEy6PSYcTTwobuvu+US9TOOjdON520NHW6diVxHpSUXtJt/2tPdrOUlvU1I2busmGj0tWLm+k8AdOc8nclN5R+8SeAap2OR6QOu34QIOZXckqlNa9lQRV1YkL+klH9kz+ot1Dc6pntcjxi+69e2a12xF7b70UX6YyqpcZ4N9hVaeqRKAf8QK+jhJd",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#af30e8",
+      "5": "#e83053",
+      "6": "#e83053",
+      "7": "#e83053"
+    },
+    "sz": 30
+  }
+}
