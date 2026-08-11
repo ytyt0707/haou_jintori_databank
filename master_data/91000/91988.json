@@ -1,0 +1,56 @@
+{
+  "round_id": 91988,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-11T09:01:04.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 名無しjK",
+      "team": "猛虎軍",
+      "emoji": "😈",
+      "score": "36.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無し9X",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 俺は勝つ！",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.14",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "36.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.30",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkVsShCAMBCfWeP8rb02eLOi/VImBtkMiJADQh5kZNJn2ZgzdIUsl2XaL4Wk25wCMrORDPZKuIO2Vmud2emIvKd2i2Y9ymGT5eo7c0W2kOCCHVtFrVQt9UNWr2a2egq6q4tDxQr0kAtfl9i4LQ/QRDxXeXf0PZT6L9i/jFjLx2BXpFvrc2lyaANlu4b+T6lxtznV3nV1XSv2KNnq5BdnktttL4V58LvgBIZoFsQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#30e83c",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}
