@@ -1,0 +1,48 @@
+{
+  "round_id": 92090,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-11T05:31:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 山上徹也",
+      "team": "猛虎軍",
+      "emoji": "🐷",
+      "score": "9.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 野田草履",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐖",
+      "score": "0.17",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "9.59",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.17",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkgEKxTAIQ3U/9z/ziFZHxurgTyjTvcbYUnfzCpMAcKHY0hgMK3oc7t4sM1hjSptmMlMzA8Lwp7bVBZZ4Q5f4wZeds3e1un2xrG+/V8mxuYZ4wYPyqXfccml449v4E8aJtloCGUHsSUaaj0Q0XawX1LUmM42hpsvgBm2o1Qe6P3BajL46xVWdYk4BrQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e870"
+    },
+    "sz": 30
+  }
+}
