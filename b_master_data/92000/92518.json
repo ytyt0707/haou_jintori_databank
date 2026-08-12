@@ -1,0 +1,63 @@
+{
+  "round_id": 92518,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-12T04:39:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[赤軍] ypaaaaaa",
+      "team": "赤軍",
+      "emoji": "☠️",
+      "score": "50.86",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "21.72",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] 人工的種族値",
+      "team": "くん民",
+      "emoji": "🎴",
+      "score": "3.76",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "赤軍",
+      "score": "50.86",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "21.72",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くん民",
+      "score": "3.76",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG90VsOhDAIBVDqbfe/5QkXELCmM1/TRI2c8rAC2xIB9AJ42zwCf9IR/d6fRx5jHPyox0yUsnEMYmemUzJ3rTpwUYZX44euTaMJAMWaLLaiWUe4Rr5I81Bnoo196e+XOee896jaN15UxWQ1LhuEqalZhBV+0lL8TteprK83txf3h+bG8Jqbqo34mS3klT0mdhgvOxj6pnSdole13A96hQlR",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#3092e8",
+      "5": "#30e84d"
+    },
+    "sz": 30
+  }
+}
