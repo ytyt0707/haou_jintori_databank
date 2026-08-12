@@ -1,0 +1,66 @@
+{
+  "round_id": 92678,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-12T22:18:27.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[BBS] バケモンBBS",
+      "team": "BBS",
+      "emoji": "🐹",
+      "score": "39.67",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[BBS] バカモンBBS",
+      "team": "BBS",
+      "emoji": "🦊",
+      "score": "20.42",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[BBS] ぼっけもんBBS",
+      "team": "BBS",
+      "emoji": "🤔",
+      "score": "16.24",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しn7",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.55",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "BBS",
+      "score": "76.32",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "1.55",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkQsOwzAIQ2EB3//Ik/k17drO0rQqD4wTgHt9QvcMSCpPOAreKPBCAYjkD4D9DpERLLXXDBQvauGRRgeVoYfJUDNr7y5johAPcKLitlF3x2bu7m7VC/gRKoyDGn3pukNWZnXRDtJ9z5Sm7kDNPTXStKhHqjvKnHkjviyXATh4mopT4ZZKhI3j8xdWZfypamyZ187WC5V6sLjGsJinqpqLkI6zWfyhS1XXWiJPvcRjy+njTecr5SulRN5pJY65Pbx7v2pHDpo=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e88730",
+      "5": "#e88730",
+      "6": "#e88730"
+    },
+    "sz": 30
+  }
+}
