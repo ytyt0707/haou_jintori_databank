@@ -1,0 +1,63 @@
+{
+  "round_id": 92532,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-12T05:24:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "43.56",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "37.65",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "🤠",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "43.56",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ヴォル",
+      "score": "37.65",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ローマ",
+      "score": "0.11",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk1ESxCAIQ9GG+195B4gI1c76odRnUsBWRH34smKxMeecwfrskPRRVYp4qNKusyenAHB1dmwUp5LiO3WBQKRos5aQAA6bc+w451TeG2bcf2ulUsZb2+gf58Bbq0pBWQo9U24VbRFzaJezKVuFiqt1xIVmSSNNalarHWMsftJhg+obRaN5fdv6pgXbldYtZ41uJmz1eg5ZjQVFGwl+UrGjX9Q+8jeN32LPTfsD/GYNcQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#af30e8",
+      "4": "#e85330",
+      "5": "#d4c811"
+    },
+    "sz": 30
+  }
+}
