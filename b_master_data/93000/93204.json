@@ -1,0 +1,63 @@
+{
+  "round_id": 93204,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-13T17:43:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[草民] 全員ぶち殺す",
+      "team": "草民",
+      "emoji": "👽",
+      "score": "34.19",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ Fa] box",
+      "team": " Fa",
+      "emoji": "⚽",
+      "score": "24.09",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "10.69",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "草民",
+      "score": "34.19",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": " Fa",
+      "score": "24.09",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "10.69",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkskOwzAIRAcb/v+Xk2FJHJJWVU7lgIzfsMkWcVMVKE3cIwMyv3h0jTZpFY6aTatB3bNnhtneQ0AEbqtWVQnMLCGj01QhRmqRioYBsrKg0401rtQCuGeTt3ROzlI9jaelcqOU/QXl0MfMt6k+0DHG4PQ9t1b6SpF7t76V+4oeyXyC2SsXrb9y2TdgodtGrv2ZLkIel++5hxsaTQqI",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e870",
+      "4": "#3081e8",
+      "5": "#e830dd"
+    },
+    "sz": 30
+  }
+}
