@@ -1,0 +1,86 @@
+{
+  "round_id": 93080,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-13T20:01:45.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 山上徹也",
+      "team": "猛虎軍",
+      "emoji": "🐱",
+      "score": "24.20",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] ケモガエン",
+      "team": "くん民",
+      "emoji": "🐱",
+      "score": "2.60",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] 名無しWK",
+      "team": "くん民",
+      "emoji": "🙄",
+      "score": "2.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[人狼] 村人減らないで",
+      "team": "人狼",
+      "emoji": "😭",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] どわーw",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "24.20",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "4.96",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "人狼",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHF0cEWhCAIBVDgRf//yR0BCxFnOyzq6O0pKbMXMTUVyAARMJ65TMEDorISU6YtbSuKiHRZIgIBry4Lj4GFZnZT58urV/mphrj26LdyY96WANqiZ6Has5/DSdX4oDq121c1uFzf+DbO3l57NuseXrReb8U1ftLbekhqPZbGXi7zMZzcq/3xgf41/QAmvgOS",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3081e8",
+      "4": "#e8ba30",
+      "5": "#e8ba30",
+      "6": "#6e4de5"
+    },
+    "sz": 30
+  }
+}
