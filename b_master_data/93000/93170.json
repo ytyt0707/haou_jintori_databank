@@ -1,0 +1,48 @@
+{
+  "round_id": 93170,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-13T15:53:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "56.68",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "7.47",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "熊谷市",
+      "score": "56.68",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ヴォル",
+      "score": "7.47",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkcEOwzAIQ52Y///mCRxSWJtKu40T0sPGIeQqABi9gIQUqxM4UBtjuFfVhi78zSxgpbE0qfDeuxaHo6mK844F4ES1LqXXXpLKubU1M0kJT3TjR+dO2zX8aWkd2htt+E4Tu/hM/Z6v1GG7Rg0W8EdKn5fwwVk/mvj63/duzsK/88xGy+B/t3EDXWoF/QCxwAd3",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#bcd411",
+      "4": "#af30e8"
+    },
+    "sz": 30
+  }
+}
