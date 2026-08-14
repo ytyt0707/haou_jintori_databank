@@ -1,0 +1,63 @@
+{
+  "round_id": 93536,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-14T11:40:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "38.88",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] 役割論者",
+      "team": "くん民",
+      "emoji": "🐱",
+      "score": "5.75",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] どわーw",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦄",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "38.88",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "5.75",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkEEWAyEIQwOF+1+5E5BXR9F12Sh8EhHVPQQygsw+S0dBWeqZFoVax4E075iq3qmmeWvs7h4Y6LwTQ9DiQcHY1IS0PlN+6Ucnk1BC4tlyrieGbeiqxgXEAAGdy0o+hkprwpLFOVHgTQ21rVS8pWYWuNzSl1VWeM7hPmfL/caW1v9Kt28exlO7dd4Yl2l6sH12/QUSuwko",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#85d411",
+      "5": "#e86430"
+    },
+    "sz": 30
+  }
+}
