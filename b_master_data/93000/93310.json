@@ -1,0 +1,57 @@
+{
+  "round_id": 93310,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-13T23:27:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵特攻隊] 二階級特進",
+      "team": "🇯🇵特攻隊",
+      "emoji": "😎",
+      "score": "23.61",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "14.44",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[けんた] 山上徹也",
+      "team": "けんた",
+      "emoji": "🤔",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵特攻隊",
+      "score": "23.61",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "けんた",
+      "score": "14.57",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkFESxCAIQ1HS+195J6A1MO4uHx3bRx7SOVk2p0m5uzkfFpQNUiSsQxW7O5KusCTN0uu2swXGzFSvuYoDKFVoko25L3x4kixfz30fM+R907xj4HosILaplMJwAke92xlY3999lw0sioG0xzN+ZY4CnC0C6Rcz235ShRxfsk0tEOCmdfKJBvqDxy1NqcEwSHm61RiJL9O57oZxiZ5HiN/7tQE0a0NNo6pb9jjz1LOVf6fxCyrubx/vXwVH",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3092e8",
+      "4": "#47e830",
+      "5": "#3092e8"
+    },
+    "sz": 30
+  }
+}
