@@ -1,0 +1,57 @@
+{
+  "round_id": 94280,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-16T03:53:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ぷんす] ぷんぷん",
+      "team": "ぷんす",
+      "emoji": "😎",
+      "score": "29.19",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ぷんす] 名無しN1",
+      "team": "ぷんす",
+      "emoji": "😀",
+      "score": "26.88",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] ㊗️初訪問弾圧㊗",
+      "team": "くん民",
+      "emoji": "🤣",
+      "score": "8.80",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ぷんす",
+      "score": "56.07",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "8.80",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFklESxCAIQ7MV73/lnYCR2HZn+ajIawBRYNt021E5DRXxtekYAEZ+1w/N5pARWZwuRctuEAdkfpdyI2HVbZrx6+rUrl2iq8WeuKPynHrF4v+o9ayEez2nscOd2MS3yizbFC+0p5FQwwpekbGMT2DQiYhoCmk4PSBp4WpcfdZ9UxvBCy1L+kklUDAWgvp1ZcN8R3pKS/mkfA/K+0JHQ6c8XXa28zrlXIzuduWss1EL14nnmpmPyI/NFxFRCRk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#aad411",
+      "4": "#e83075",
+      "5": "#aad411"
+    },
+    "sz": 30
+  }
+}
