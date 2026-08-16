@@ -1,0 +1,48 @@
+{
+  "round_id": 94244,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-16T10:56:24.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しPP",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "2.92",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛暑軍] 夏休み何した？",
+      "team": "猛暑軍",
+      "emoji": "🔆",
+      "score": "0.11",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.92",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛暑軍",
+      "score": "0.11",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYCAKsLDgUcYCBrgU0E6WgYEBn7NwOWhUnO4hwEyajYyMeNVTJg0zmgnGwEoz4ZfGqodcQQBatAB8",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#514de5",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
