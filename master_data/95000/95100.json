@@ -1,0 +1,33 @@
+{
+  "round_id": 95100,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-08-18T09:12:01.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[RED] うわあ",
+      "team": "RED",
+      "emoji": "🐱",
+      "score": "88.20",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "RED",
+      "score": "88.20",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkEsSgDAIQ0Nz/zs7qFiwNnbjyIbSNwkfchaAWWbIBc0qzRAuLdpKldaZ0F60TnP4722fwNleTUXCTGmB6UaknyPveH9DOJMLtN0dowbY2pQSZKfDEP7RcVhGfqVCKrUL+8YMQ/5O67f6JzanHgmw",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ef4444"
+    },
+    "sz": 30
+  }
+}
