@@ -1,0 +1,65 @@
+{
+  "round_id": 96172,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-20T10:07:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] 山上徹也",
+      "team": "なきち",
+      "emoji": "🦄",
+      "score": "54.13",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なき",
+      "team": "なきち",
+      "emoji": "🌝",
+      "score": "31.21",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] 名無しLA",
+      "team": "なきち",
+      "emoji": "🤠",
+      "score": "5.53",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] ゆめちゃん",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "90.87",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVkSgDAIQ0Eyuf+RnUCptS58WMtjCdT4sCDNLCLMHowxbadGTBaxZ64oBgYJ0paaGXVPXRI3CqI7dolb6pLJqIjk0FfzlVkMWKqSsgt2kE5tA4ACrpQO0DYKarr25p+6DQoodWipIDKOpukRnQUYR/aV5Fm09jeu2xsNbwdvFAhgGV3bv0z6JbBsf18t+1Kx05LX/ElV9oc21hLfklsk4KvidtcZvxQOv8cvN/c/Snd8tJXb3b8qm9H9ZaBsbQJudgLv6g/r",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#a74de5",
+      "4": "#a74de5",
+      "6": "#a74de5"
+    },
+    "sz": 30
+  }
+}
