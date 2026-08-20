@@ -1,0 +1,105 @@
+{
+  "round_id": 96206,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-08-20T11:58:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[初心者] 名無し8g",
+      "team": "初心者",
+      "emoji": "🤠",
+      "score": "43.88",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[初心者] あ",
+      "team": "初心者",
+      "emoji": "🤠",
+      "score": "10.13",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵虎最高] トラキチ",
+      "team": "🇯🇵虎最高",
+      "emoji": "⚾",
+      "score": "7.75",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無し8p",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦁",
+      "score": "0.36",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇪🇸宣教師] アルメイダ",
+      "team": "🇪🇸宣教師",
+      "emoji": "😣",
+      "score": "0.33",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵ONJ] NKTIDKSG",
+      "team": "🇯🇵ONJ",
+      "emoji": "😣",
+      "score": "0.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🇪🇸宣教師] るた丸",
+      "team": "🇪🇸宣教師",
+      "emoji": "😭",
+      "score": "0.08",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "初心者",
+      "score": "54.01",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵虎最高",
+      "score": "7.75",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.45",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🇪🇸宣教師",
+      "score": "0.41",
+      "kills": 15
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdklESwyAIRKElkt7/wh1gl2Cb/pSZROW5CKiIiHiamRlm4QyrJf6A7oCUQVNYVYGHtiOrUnxHXctEPIIhnc5qULOgMIZSRE8BGUtyr6OZLMVm4p6VXPVGgOSeHWC5bA5oRQr4OqV7Qy2Sih7mxySvfDwaiXaQxiix5TiOnOfZg4rYo5eVWC9xMU84QGvof+9uz5gU3IoeFO+hht1fq0t+Q3lwtPvLCHP8pBsc4lU2cUrh/4H/pZH2pp3nOi8yEshdg/INVOFrrcGynDfoGA6U",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#6ae830",
+      "5": "#9ca3af",
+      "6": "#30e892",
+      "7": "#6ae830",
+      "8": "#e830ba",
+      "9": "#e830ba"
+    },
+    "sz": 30
+  }
+}
