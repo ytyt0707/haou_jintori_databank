@@ -1,0 +1,48 @@
+{
+  "round_id": 96832,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-21T21:47:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[愛知川] 岐阜県",
+      "team": "愛知川",
+      "emoji": "😖",
+      "score": "30.44",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[山本組] 山本健二",
+      "team": "山本組",
+      "emoji": "😡",
+      "score": "7.25",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "愛知川",
+      "score": "30.44",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "山本組",
+      "score": "7.25",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkgkOxDAIAx3o/9+8MsWUHHtoI1VtMtjgqADcnU8sm5eOf6GGTVu2iznMFmduU44zJQYIbYwxVj0CEpMiUj01orBgK6VvWN/SeeyEMBydhUn5/TR1LwYc+m70jTS1nX5xbjhn7mNNfbe5GlXgCtUZI3XxzLiL60jtTvMkUn2mLU0W1lVfsUoeHTXWzZYKDd3hVXpR/IM9bkR/QDrImhk0mM7q/QKQ6AU7",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3081e8",
+      "4": "#e86430"
+    },
+    "sz": 30
+  }
+}
