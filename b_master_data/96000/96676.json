@@ -1,0 +1,57 @@
+{
+  "round_id": 96676,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-21T13:22:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[東卍] マイキー",
+      "team": "東卍",
+      "emoji": "😄",
+      "score": "4.41",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しV4",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "0.53",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[東卍] チー牛イキリ陰",
+      "team": "東卍",
+      "emoji": "👺",
+      "score": "0.12",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "東卍",
+      "score": "4.53",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.53",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdkMEOgDAIQyvW//9lw2BxoOnFeLGXDR4UNmBzwQ88aNAsuePoC4Ok5FqW7TNF7ivOwUE5NCvRNwp8uZehQMP9LYkX93LlMDhKrgakorX2B9HLx9oXX6B30lQvJKmZwpJKCIO5gBOL8gEP",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#a74de5",
+      "4": "#a74de5",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
