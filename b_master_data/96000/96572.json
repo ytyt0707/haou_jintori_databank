@@ -1,0 +1,48 @@
+{
+  "round_id": 96572,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-21T07:44:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ルナ] 月面パコキ",
+      "team": "ルナ",
+      "emoji": "🐸",
+      "score": "20.56",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 古手梨花",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐱",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ルナ",
+      "score": "20.56",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk1sOhEAIBGnY+595w7t1dHd+NCmqgYlCBHMEZkIHEEFzMT9D4VDWDlo4HIbppp3d2G26nF37ZHQ0D5m6Qgea5aQ7ErDJZlbubHtxD6rsxrQ8lKo4r5o7LtqjJaa+T9mDb3Jd+WCoRGsOX/ifTm/Z617fw3tx3jcrflOvaTtWBqC62cl97ncaZPFhN/cspfAsfKM5Q1P/TEjtARvrJfig2v9DE3+2K8q4KhnOe7yU9wXf3QQS",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e83c",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
