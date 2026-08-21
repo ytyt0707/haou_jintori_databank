@@ -1,0 +1,56 @@
+{
+  "round_id": 96540,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-21T15:01:02.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬきマン",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "60.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] チコリータ",
+      "team": "くん民",
+      "emoji": "🌿",
+      "score": "0.80",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] ケモガエン",
+      "team": "くん民",
+      "emoji": "🐱",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "60.74",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "0.80",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkVkOwzAIRAdrfP8rVyzjuAlxpfLhhccAgjHKkEaSMJng2KiZ+I26lKn0W3STBqWZUyR/0EiCpAVRmZUfgBoCEtIqxihR3OGNw+OMb7TipL1k5Fyfhs4bXbHxmBeuNr95/HxijVuuX1Rxf9yaXS890jX3Vnuk2ks/kaQ9q+11JQFttqHaW9vWBpuqZ6qaHvWsu2uP7w/bbwlm",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#8B4513",
+      "5": "#e83087"
+    },
+    "sz": 30
+  }
+}
