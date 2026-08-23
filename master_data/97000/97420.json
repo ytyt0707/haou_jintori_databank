@@ -1,0 +1,63 @@
+{
+  "round_id": 97420,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-23T14:34:14.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[凸] おじゃる丸",
+      "team": "凸",
+      "emoji": "👽",
+      "score": "26.27",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[スマ] 日野",
+      "team": "スマ",
+      "emoji": "🔥",
+      "score": "7.58",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しfl",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "凸",
+      "score": "26.27",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "スマ",
+      "score": "7.58",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kksSxCAIRFsY73/lKYFGkVlMFmEj5evmYwIAY4yhqnIEjvgYLXgpIaYJc8OVNkyvMuSUeHcinpwvZlszH3FTHGxvF15nImIJrT4zfXnLxLykPi7sIUzQaLTC0vTKSTNh5ZQnscQwrFoF/9M557y8bKpY8KIbOq14U7Ne5tdoFo6Ra99GY9/6AVTxY9/wmqO/hlM+X+2K+NlIn51fPoYFgw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#8B4513",
+      "5": "#30e84d"
+    },
+    "sz": 30
+  }
+}
