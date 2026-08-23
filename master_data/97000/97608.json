@@ -1,0 +1,48 @@
+{
+  "round_id": 97608,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-24T00:43:43.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[スマ] 日野",
+      "team": "スマ",
+      "emoji": "🔥",
+      "score": "42.82",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプ・コケコ",
+      "team": "くん民",
+      "emoji": "🐓",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "スマ",
+      "score": "42.82",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klkWQyEMQm3s/tfcQwgZ1PrxHC4Q9bnWWtbauhspZGAbrURhzYVBM1e4jImQ2gMpNdtQYFIepZDQCOtpBzHjTn27+xFCkF9lR5/rMeh4JF98FiaW2w8d19cqCONX3PUb1bB55+04aAeXwfvuqn/4peYN5X/Ss1iIwsNZ2wvlg4ZDnaqdpuDCks9+0E8xf7GCTO4Uwr/UUybNpaiQFNE18Xd7LAzaJz87JwUV",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83098",
+      "4": "#d4c811"
+    },
+    "sz": 30
+  }
+}
