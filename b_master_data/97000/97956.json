@@ -1,0 +1,50 @@
+{
+  "round_id": 97956,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-24T10:32:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "WASD",
+      "team": "",
+      "emoji": "😂",
+      "score": "38.54",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[バモス] ハンニバーガー",
+      "team": "バモス",
+      "emoji": "🍔",
+      "score": "1.38",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しmG",
+      "team": "",
+      "emoji": "🤤",
+      "score": "1.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "バモス",
+      "score": "1.38",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klESxCAMQhlr73/lHQmaEHfXj1p9QBMtnhjghDYE9/SXOnwiUE6sVRPs0AXW+09MIYwfb1hvuyKPzty7mqQNs5RCb1xhLx1ZlGTemp3MUjj26AY9Gn4q/cOeu1Y1O+j7poo0RNqsVFdYCn4rZh9K2O6MBrs0b4Gk4b36ZdWrz2LGSJk+aTSiSc6DewMYfDnbk0NxY3yheUENzxk/uRqRVytMFX6iN7jnD6JtBKA=",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#e830a9",
+      "5": "#514de5"
+    },
+    "sz": 30
+  }
+}
