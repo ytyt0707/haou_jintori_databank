@@ -1,0 +1,139 @@
+{
+  "round_id": 98000,
+  "game_mode": "TEAM",
+  "player_count": 15,
+  "played_at": "2026-08-24T12:54:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] ペニーワイズ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤡",
+      "score": "22.03",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[kus] AI",
+      "team": "kus",
+      "emoji": "🦊",
+      "score": "13.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] カプ・コケコ",
+      "team": "くん民",
+      "emoji": "🐓",
+      "score": "11.68",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[くん民] 武村ファン",
+      "team": "くん民",
+      "emoji": "🐲",
+      "score": "3.74",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[くん民] カキ・クケコ",
+      "team": "くん民",
+      "emoji": "🐓",
+      "score": "2.17",
+      "kills": 24
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] レイプ気持ちぃ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.26",
+      "kills": 2
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🍂たぬき] 名無しxx",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵阪神] はい",
+      "team": "🇯🇵阪神",
+      "emoji": "🐶",
+      "score": "0.37",
+      "kills": 3
+    },
+    {
+      "rank_position": 9,
+      "player_name": "[🍂たぬき] セプテントリオン",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 10,
+      "player_name": "[🇯🇵阪神] さとるの師匠",
+      "team": "🇯🇵阪神",
+      "emoji": "💩",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "22.09",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "17.59",
+      "kills": 33
+    },
+    {
+      "rank_position": 3,
+      "team_name": "kus",
+      "score": "13.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "1.96",
+      "kills": 6
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵阪神",
+      "score": "0.51",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF90eGSwyAIBGDQ4W6ZJvT93/ZmQVNtrvWHnfi5ilTkfaiq1lr9nnMDgePIIepynueioRr03ns/+pE6WQEcR+Vz3rIBIAIX/2yK1MizuUV2jRo+btdNB0b4ODx1VoXJrkKvFw3VieEZ9rq3VCNErg3VMXZj6CsbrJsdXJGPZdj9pkARqC6S4SsLKLPsFrHGpcIuw+EBjL9wuVeIcA9n7bcsjMMjAhNfNYuksuYLb2orLn1+PB+Zrqnys+bnZmat0afWrUvYbNFtPT9+W6vsjcRaa82+qH1UY1lDbwdzITXf9R83y6ole1jz27Y/P0oSWA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "5": "#9ca3af",
+      "6": "#8B4513",
+      "7": "#9ca3af",
+      "8": "#e84230",
+      "9": "#e84230",
+      "11": "#d4c811",
+      "12": "#8B4513",
+      "13": "#73d411",
+      "14": "#e84230",
+      "15": "#d4c811"
+    },
+    "sz": 30
+  }
+}
