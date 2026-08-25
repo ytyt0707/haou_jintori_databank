@@ -1,0 +1,63 @@
+{
+  "round_id": 98552,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-25T18:45:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[初心者] 名古屋",
+      "team": "初心者",
+      "emoji": "🐲",
+      "score": "41.98",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[りょう] 武村ファン",
+      "team": "りょう",
+      "emoji": "🦁",
+      "score": "14.79",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂雛見沢] 古手梨花",
+      "team": "🍂雛見沢",
+      "emoji": "🐱",
+      "score": "8.96",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "初心者",
+      "score": "41.98",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "りょう",
+      "score": "14.79",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂雛見沢",
+      "score": "8.96",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAG90sESwyAIBNBFwv//cmcBBaOTYzmYxOcqdSriNbIwBjQKAGgcJp8qgkAw+s6KiOogeOXOfMSxPjE4YmX9y3nu5qvaEE21ie31M9rP3VLx0bq6KMPH9OPFaaL/jNb3UhGFc0MNfRg1NeMd1f6JVIsqm8mnqZnlgpl8aXDhnr1oHusP33r2y4310Ggqe0Dj6ps51l0TN20Xktyy230Fozj/dH0RFhfWCUsb/uP1ByLxCOg=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83064",
+      "4": "#73d411",
+      "5": "#e230e8"
+    },
+    "sz": 30
+  }
+}
