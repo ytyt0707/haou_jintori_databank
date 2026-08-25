@@ -1,0 +1,57 @@
+{
+  "round_id": 98414,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-25T11:17:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] もネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤭",
+      "score": "34.40",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "復活の雷ニート",
+      "team": "",
+      "emoji": "🦊",
+      "score": "2.99",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] ころすぞ",
+      "team": "🇯🇵ONJ",
+      "emoji": "👻",
+      "score": "1.20",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "34.40",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.20",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVsWAyEIQ6XB/W+5hzdYrT+DuSQyupYt9OVafToESs8KwAL2rsZEUoi8X9Th3aunIdlIlc3H0yXkB6oQI92pqU+z4Ai45/+nafbT6ZjC3UWpdUS0UJLVzQF1qkkT+ZUY9U3CCpNkMD9/lYjA6TvvmYi40YqVCkCjk+ndEHO6B9bzBGZ2wzZMh+1xYlKz2hDpDQhIsMplLVhaOvMpzwuwDvdW+6iMDqk2X8UoBGg=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#36e830",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
