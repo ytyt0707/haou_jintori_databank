@@ -1,0 +1,72 @@
+{
+  "round_id": 98356,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-25T08:09:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 名無しMc",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "39.54",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しGF",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "38.70",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ちころ] 千歳殺します",
+      "team": "ちころ",
+      "emoji": "👻",
+      "score": "1.35",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🥺] あいう🥺",
+      "team": "🥺",
+      "emoji": "🤔",
+      "score": "1.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "78.24",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ちころ",
+      "score": "1.35",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🥺",
+      "score": "1.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG10EEOxCAIBVCRT+9/5Akggi1xNy6M5eUjdZAurmvkxxfTmE3PbGFX6z1eN3Bkrf6+v2h/Q3Q+uu6pt5ZZ8qgK3bJUTgALlEstj4CIIBAJdnKFRwGcDoFINP4qNO2dFc8wbCR6HmZudRDRo3zmdKyVNW8V/hzEwNhv6L+2svoeUD1Z1adZGmN7sd/jB3r9W3XeOs85L35F4BbNS0e7wn+DtArB",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8B4513",
+      "5": "#6ae830",
+      "6": "#ced411"
+    },
+    "sz": 30
+  }
+}
