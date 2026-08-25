@@ -1,0 +1,38 @@
+{
+  "round_id": 98292,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-25T04:42:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[凸] おじゃる丸",
+      "team": "凸",
+      "emoji": "🦁",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "凸",
+      "score": "0.00",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYAABJlQAFkMnmJjAytCFoXwmHOKjwtQLASYmvKGMVxoUwfhcgl8Wl05GRlwyDAwMjHhlCUnjMXi4SQEAyzoATQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
