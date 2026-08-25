@@ -1,0 +1,48 @@
+{
+  "round_id": 98500,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-25T15:56:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵お赤飯] ごましお",
+      "team": "🇯🇵お赤飯",
+      "emoji": "🤣",
+      "score": "72.64",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵雛見沢] 古手梨花",
+      "team": "🇯🇵雛見沢",
+      "emoji": "🐱",
+      "score": "0.14",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵お赤飯",
+      "score": "72.64",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵雛見沢",
+      "score": "0.14",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk1EOwCAIQ4vr/c+8WNQQHGR8sOGjgAsDRjRkC5DDIXmSRMnBZDgpCZxQJU6UXnafdLzDVkubeKdeTzOrKWzapVkHN41t/tCqtGt72k1VMVKVSywaLxEzcd9I+JGv6IJL+1271bKnwt9lZ2sA1WcU1XiF69bGd74Qrh8i0z2lb3PjX23hCrU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#59e830",
+      "4": "#4d73e5"
+    },
+    "sz": 30
+  }
+}
