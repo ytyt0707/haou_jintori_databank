@@ -1,0 +1,42 @@
+{
+  "round_id": 99220,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-27T06:51:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ちんこ",
+      "team": "",
+      "emoji": "😍",
+      "score": "10.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] Naki",
+      "team": "なきち",
+      "emoji": "👻",
+      "score": "0.34",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "0.34",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kkEWxCAIQ4P1/meeFyLEsdZFRT4BC2LkAgBZg2avgvTK5nfhJbhtAKIk5HPOPQwYoZRINrVWCBAOXsgJgGj8gkwaxSurSyeMkfqiLrVoOr6oSotayZYE16b9p8RqyF2rlo7nRmsaz5sW4s4mn21urhm4EzXFNUvi/cKaMT37FB2R9fJYz8bM2t1n21r7NutesAJSjHGrWr+kBP2eS6lrqTi/Z53l8yZh5rGzraR9Og3S09fnvH2fgB8XiQWM",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#bcd411",
+      "4": "#30e8b4"
+    },
+    "sz": 30
+  }
+}
