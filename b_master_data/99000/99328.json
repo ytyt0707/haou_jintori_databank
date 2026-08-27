@@ -1,0 +1,48 @@
+{
+  "round_id": 99328,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-27T12:41:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵雛見沢] 古手梨花",
+      "team": "🇯🇵雛見沢",
+      "emoji": "🐱",
+      "score": "30.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[人居無] 過疎",
+      "team": "人居無",
+      "emoji": "🤓",
+      "score": "14.40",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵雛見沢",
+      "score": "30.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "人居無",
+      "score": "14.40",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkFkWxCAIBHXo+595XrMFjDHxx6UoFkXqGss6sTFERgQsHq+BROREN6y6O/whs6UwGQCyhziwd2KDS48soK6aefNeRCd3l6n7fBoOaOZGQV/8nXWBbkZJYzsaRF2Va4ZOWa7SLDwnA32Y3EJW+ISnuSt2dwbOpHWiM0W4vbHsyttqNOC118LXq59+Vb7RCvOrMqomfqE33Nzd5Q87DQXQ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#97d411",
+      "4": "#e83075"
+    },
+    "sz": 30
+  }
+}
