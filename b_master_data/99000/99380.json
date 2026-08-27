@@ -1,0 +1,57 @@
+{
+  "round_id": 99380,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-27T15:30:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[くん民] バケモンBBS",
+      "team": "くん民",
+      "emoji": "🐹",
+      "score": "60.05",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無し4S",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "18.16",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "60.17",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "18.16",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkUEWxCAIQwOD97/yvMCIRSurcVPhE0hljAFg1DNjB2YVZnTIFuHtJouqnmanepm+avaPkao23VqInqJrDGjza1DVc0fTJ6leVwGX3lfIxmZDZrfypS3jkTcOqAbddvlhE9pyavtwVtPzSSNDaYz9xWw3i802askAA0+KRVLlwIyWc26FIeVTZj4uDoL6IgpekIPjMR8FT0wIOgpbIgt+AYkkDdQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30a3e8",
+      "4": "#8B4513",
+      "5": "#30a3e8"
+    },
+    "sz": 30
+  }
+}

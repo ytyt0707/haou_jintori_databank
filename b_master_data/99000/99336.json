@@ -1,0 +1,57 @@
+{
+  "round_id": 99336,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-27T13:07:18.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "76.95",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] 山上徹也",
+      "team": "猛虎軍",
+      "emoji": "🐶",
+      "score": "5.86",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[反社] 痩せる薬売てます",
+      "team": "反社",
+      "emoji": "💀",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "82.81",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "反社",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkksOBCEIBcHH3P/KE/4ymrgZNrYUBZg0IBoE0CUciiBj1CQtPGnicvcRCFqQjML3gGJUX5Dnm6aW59LR5WbW22Ct5RDWyKkAZA9bdne9RKN1g+rtytgtqrTCgnrtTO1u57phujdzczf1v5+XuUS93jnsQV8753vPxpqZVG8CZrBXB/0Ml5kdT7dqpltp/wj1Z24W6WTV7RfI5HG+6JVHkr4odwkZ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830ba",
+      "4": "#e830ba",
+      "5": "#30e892"
+    },
+    "sz": 30
+  }
+}

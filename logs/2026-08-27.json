@@ -2,6 +2,20 @@
   "date": "2026-08-27",
   "task_history": [
     {
+      "timestamp": "2026-08-27T23:00:07.871739",
+      "status": "failed",
+      "error_reason": "['python', 'download_history.py'] が異常終了しました (exit code: 1)",
+      "steps": {
+        "step1": {
+          "status": "failed",
+          "message": "ブラウザシステムエラー",
+          "previous_last_id": 99333,
+          "current_last_id": 0,
+          "target_limit": 0
+        }
+      }
+    },
+    {
       "timestamp": "2026-08-27T22:00:08.160745",
       "status": "success",
       "error_reason": null,
