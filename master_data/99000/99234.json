@@ -1,0 +1,42 @@
+{
+  "round_id": 99234,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-27T16:36:26.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しRV",
+      "team": "",
+      "emoji": "🐶",
+      "score": "15.67",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "2.60",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "2.60",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkQESxCAIA6Py/zd3AgLCeS3TaS1LguIYHpMBfesKAJyNSGsNJmFSwwBEZLOgp6OI6lILOFZx0G19UDp7+K5CKyf1zpvaplwau+Y5NKqUYj5+ik4pGW7W2nravq9QB1XrU/WiJDoGURy+UM6vyOzW7qbWTluutVbTJSVcqBVBQVCZ3okVYM4fyOlsClXXxickqfvqtGrdumXjN9tGqi/+z1Er75MMk5v6AV6WA3A=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#604de5",
+      "4": "#d4c811"
+    },
+    "sz": 30
+  }
+}
