@@ -1,0 +1,80 @@
+{
+  "round_id": 99818,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-28T15:10:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[きつね] fox",
+      "team": "きつね",
+      "emoji": "🦊",
+      "score": "53.26",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[きつね] 名無しNt",
+      "team": "きつね",
+      "emoji": "😆",
+      "score": "3.73",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しZo",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.75",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] フォーク",
+      "team": "🇯🇵ONJ",
+      "emoji": "🔧",
+      "score": "0.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 名無しtG",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦁",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "きつね",
+      "score": "56.99",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "2.75",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.43",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkoEOgCAIRGVi/f8fFwIBl7bYXLLHHeBi3gQR9d5aoeepKUkIzfjgTAlo9qGO2r901Te04ktUpwraZ+woM+tU64LRIMJXbgDzs8gd1KHVwqoWu3nMpdL29FKXTwp9QbujaozUGy3bOsSRfVPbc6Za6wS+n9BGAomlezjG8GUW0oA2fK5J8E2T7/unqfB5Hy0U6CPd6AJCwQio",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#8B4513",
+      "4": "#e88730",
+      "5": "#e88730",
+      "6": "#9ca3af",
+      "7": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

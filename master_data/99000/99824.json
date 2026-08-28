@@ -1,0 +1,56 @@
+{
+  "round_id": 99824,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-29T00:29:59.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しM4",
+      "team": "",
+      "emoji": "🐶",
+      "score": "46.61",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ルナ] 月面パコキ",
+      "team": "ルナ",
+      "emoji": "🎡",
+      "score": "14.48",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しQu",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ルナ",
+      "score": "14.48",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkdsOwzAIQ8kE///LE5iLUapq4yEiOrVxqKiKah5q3olVATmeKmZmIRyipgRvynDTRfxCpssTHxK9lCvV/7SeREsYE4laGxpoAem+WkgfXX2Rb9qSPooHFp6/V+yMO30Eehzm/FZKJRLg9ZKOK0RDiqOmgranezSS1PrsKcbdv+OhZX4iMuREEyf8BGcMjk3d4ohOxis23sVzO/yPzReEqQqJ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#30e8e8",
+      "5": "#d4c811"
+    },
+    "sz": 30
+  }
+}
