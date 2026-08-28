@@ -1,0 +1,63 @@
+{
+  "round_id": 99726,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-28T19:12:10.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[きつね] fox",
+      "team": "きつね",
+      "emoji": "🦊",
+      "score": "42.71",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "4.74",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[代打軍] サーモン！",
+      "team": "代打軍",
+      "emoji": "🐱",
+      "score": "0.76",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "きつね",
+      "score": "42.71",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "4.74",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "代打軍",
+      "score": "0.76",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlj9EOQyEIQ6uB/f8nLxUEvLIly3wSDi0U+POJiDwsSoO0lLhHbSLGVItZYebyhYrypfjULqgAB07CyijlN9uLP1JGWptbrQihdlvXvIt7raV5XvXy4cyaZ2e8hgJwbYFby9ZvNG4eg2Irw7nSOR3fVAbmFjdUzJvyhg6nBe44IsNflQYFgobvjsBNTqtxDRjeKV55vTSc7PgRHg28ATc6Bx4=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#e85330",
+      "5": "#994de5",
+      "6": "#4d56e5"
+    },
+    "sz": 30
+  }
+}
