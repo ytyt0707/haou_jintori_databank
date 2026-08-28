@@ -1,0 +1,51 @@
+{
+  "round_id": 99682,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-28T07:49:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しHw",
+      "team": "",
+      "emoji": "😍",
+      "score": "93.11",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "1.49",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "不殺の誓い",
+      "team": "",
+      "emoji": "🕊️",
+      "score": "0.25",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ヴォル",
+      "score": "1.49",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHt0EsKACAIBNDU5v5XjqDQPgy1jdo08RQ04O4IKxcR4hQB1rrXhNSm6Tcbzi1nz08mo1uZDa6q6vU2KSJiVe9E1fj8+fAHCui6ESE=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e86430",
+      "4": "#30e85e",
+      "5": "#30e8d7"
+    },
+    "sz": 30
+  }
+}
