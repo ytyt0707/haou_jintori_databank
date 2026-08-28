@@ -1,0 +1,33 @@
+{
+  "round_id": 99690,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-08-28T08:15:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[過疎] 名無しi1",
+      "team": "過疎",
+      "emoji": "🦁",
+      "score": "4.25",
+      "kills": 18
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "過疎",
+      "score": "4.25",
+      "kills": 18
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYBimgHGo+YsJr4OZmPDL49VMQJKZGZ8CZrzSUFmCinAbwgwH2FwBl8TqRpipMBqbCYNfDACSzQCC",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#47e830"
+    },
+    "sz": 30
+  }
+}
