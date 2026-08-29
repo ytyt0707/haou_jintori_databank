@@ -1,0 +1,66 @@
+{
+  "round_id": 100268,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-29T15:29:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[Fa ] box",
+      "team": "Fa ",
+      "emoji": "🕷️",
+      "score": "31.83",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[Fa ] 名無しdp",
+      "team": "Fa ",
+      "emoji": "🪰",
+      "score": "7.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸バモス] 反ドナル",
+      "team": "🇺🇸バモス",
+      "emoji": "🍟",
+      "score": "5.56",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇸バモス] ハンニバーガー",
+      "team": "🇺🇸バモス",
+      "emoji": "🍔",
+      "score": "1.97",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "Fa ",
+      "score": "38.92",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸バモス",
+      "score": "7.53",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdklESAyEIQ4MC9z9yJ0G3uNv2AM2POg+igMCpcQhAZqZHKTvEKJgLahkDjIFhKPOAkbqL1JAXujbu4madXu6ZGWCqcXcXnwnASO8MEYU/0ihq1CNVVhkpim7cQtPd3Q7aIkX9C2XmM3d73ynPEYuqWrf3vaK7N2oFNs16hFpT81ZBBnlxwnTmAQC7XPVyhGyd3gFBWm4qp+nuc85KXYgT3Jqlfmuj+E23yVr5b/5QL1D6CLs=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#514de5",
+      "5": "#30e8b4",
+      "6": "#30e8b4"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "round_id": 100260,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-08-29T15:03:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] はい",
+      "team": "🇯🇵阪神",
+      "emoji": "🐶",
+      "score": "35.74",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵雛見沢] 古手梨花",
+      "team": "🇯🇵雛見沢",
+      "emoji": "🐱",
+      "score": "21.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸ドナル] 反ドナル",
+      "team": "🇺🇸ドナル",
+      "emoji": "🍟",
+      "score": "16.65",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇸ドナル] ハンニバーガー",
+      "team": "🇺🇸ドナル",
+      "emoji": "🍔",
+      "score": "4.18",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[くん民] はっぱ隊",
+      "team": "くん民",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 7
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.10",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "35.74",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵雛見沢",
+      "score": "21.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇺🇸ドナル",
+      "score": "20.83",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "team_name": "くん民",
+      "score": "0.21",
+      "kills": 14
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNko0OgzAIhHEbP+//xMsBp9Q0bpi06McB0ooJrNZ0sRxtRovFftA48FBqi5QvJ91iOTHj5/4HzZCpoV+J32bbumdZM6GCu7BsTYmfe2/66UHeaDxqVzqkmj61aC67qtZUC3fPsnasjUll/g9gqjOloeerqhfViI3Wn6g78ZwVMrsHoGvK7xQFC2dp/i/mHBHdDgMmFdKEyN00j6iFnR0bLjpv+qBabde51jpp+Vv66riYVC5xuisUaX5Jvj5vErI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#7c4de5",
+      "4": "#7c4de5",
+      "5": "#e87530",
+      "6": "#30d7e8",
+      "7": "#e87530",
+      "8": "#30e84d"
+    },
+    "sz": 30
+  }
+}

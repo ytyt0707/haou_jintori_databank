@@ -1,0 +1,57 @@
+{
+  "round_id": 100264,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-29T15:16:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[Fa ] box",
+      "team": "Fa ",
+      "emoji": "🕷️",
+      "score": "61.64",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸ドナル] ハンニバーガー",
+      "team": "🇺🇸ドナル",
+      "emoji": "🍔",
+      "score": "1.12",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸ドナル] 反ドナル",
+      "team": "🇺🇸ドナル",
+      "emoji": "🍟",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "Fa ",
+      "score": "61.64",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸ドナル",
+      "score": "1.25",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklsWgCAIRMlk/1vu8AyEUj5MvcwInAA4Lg05ratRBJRYEpgrok/GAYhBwJHp/qUNfK07uKFU2Bjk34oRlX5h0fYUUGmPcSQx+CS5Enu3L+yXWkd9U3sqI+vmAcCjijXN6Ynu7DeIlQa4UBpHou4N9nDCt54O/47kXaRES8apcxGS/ak49sR7Ej7cnwtd",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "4": "#4d81e5",
+      "5": "#36e830"
+    },
+    "sz": 30
+  }
+}

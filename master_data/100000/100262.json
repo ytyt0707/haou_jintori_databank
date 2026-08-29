@@ -1,0 +1,90 @@
+{
+  "round_id": 100262,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-08-30T00:10:11.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "22.66",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] はっぱ隊",
+      "team": "くん民",
+      "emoji": "🥺",
+      "score": "9.59",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸ドナル] ハンニバーガー",
+      "team": "🇺🇸ドナル",
+      "emoji": "🍔",
+      "score": "3.29",
+      "kills": 10
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇺🇸ドナル] 反ドナル",
+      "team": "🇺🇸ドナル",
+      "emoji": "🍟",
+      "score": "0.92",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇺🇸ドナル] ドナー",
+      "team": "🇺🇸ドナル",
+      "emoji": "🧅",
+      "score": "0.75",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵阪神] はい",
+      "team": "🇯🇵阪神",
+      "emoji": "🐶",
+      "score": "0.65",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "32.24",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇺🇸ドナル",
+      "score": "4.96",
+      "kills": 15
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵阪神",
+      "score": "0.65",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk1EOxCAIRMeC0vufeAOKiqXN+qPyZmBMUyAsgQiYmYlBFJH0BYD62rGIWSFvVETl9514oY3fqUb6oMYAWalqrXVU1zbnZtBDL3k4EbHaQ61ftEbEnEKTMMBde11JAy9dT+oT1X5ie433x+Fd0Ef7FN0H1Y88gu2UW2tkLKHM3NqAT68D2/eedo60lBIUkQLftDfsDYJzy2z5Djgzn/V+n4lSnFDYr2Lq/+gMYHIf8wMeCAWt",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83064",
+      "4": "#e83064",
+      "5": "#7c4de5",
+      "6": "#e88730",
+      "7": "#7c4de5",
+      "8": "#7c4de5"
+    },
+    "sz": 30
+  }
+}
