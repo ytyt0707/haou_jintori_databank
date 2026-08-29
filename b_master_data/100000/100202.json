@@ -1,0 +1,80 @@
+{
+  "round_id": 100202,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-29T11:55:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] 山上徹也",
+      "team": "🇬🇧珍走団",
+      "emoji": "🐷",
+      "score": "75.15",
+      "kills": 19
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[けんた] げんた",
+      "team": "けんた",
+      "emoji": "🍙",
+      "score": "1.40",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "0.80",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇬🇧珍走団] もネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤭",
+      "score": "0.10",
+      "kills": 16
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 名無しIk",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "75.26",
+      "kills": 35
+    },
+    {
+      "rank_position": 2,
+      "team_name": "けんた",
+      "score": "2.20",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFktsOwyAMQx2G8/+fXAUIxdlF29OQWnBOHFAAMIPJoJmBxB6hAY8kAiTji2mMSYHI2SjptGDQaVr/sGYRARpcO2lGWjP6yMXyiiziZcGdo9R3fC4KLfik3ftbb3fvveDVi/C4f/CSVOu4p7KVyKOyxKeondSUcb0aOtSf6Nj27DXJ1vJcz7S1n2gWGvPtXI9d6aG+aEY5823GBZ3iDhU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#e86430",
+      "5": "#36e830",
+      "6": "#e86430"
+    },
+    "sz": 30
+  }
+}

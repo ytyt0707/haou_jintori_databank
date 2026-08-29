@@ -1,0 +1,79 @@
+{
+  "round_id": 100186,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-29T20:03:43.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵東城会] 堂島大吾",
+      "team": "🇯🇵東城会",
+      "emoji": "😃",
+      "score": "65.78",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[反社] 関西の龍",
+      "team": "反社",
+      "emoji": "💀",
+      "score": "3.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しk2",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しpI",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 名無しL0",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵東城会",
+      "score": "65.78",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "反社",
+      "score": "3.62",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.24",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1UgkOwzAIAzyJ//94soGNNi1SS4LNHYDi7q6DmRkAffwRgwM5B5DRUvj83b09Ch679MRvo5IswvV+vS2ajo12rhd0mRfxV+GCq7eawaIOI9m5aUKD0tIi9NVXY3xHJ8hTVZNLiYd4aOfiDisNoX1ho6vs0MJffCO0c66TcgsfEXwsjZ6g2kX53lAgGBv9hGY6bFHMCOmnrMSLdaCpt6lBWEW+pE2tyJ2J/77TVlIAPdxC9d9w7a+cp/TCMz90Z9Hl1YoX2hg606zm2IGf1BeQ7Ah1",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e881",
+      "4": "#8B4513",
+      "7": "#aad411"
+    },
+    "sz": 30
+  }
+}
