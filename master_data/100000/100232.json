@@ -1,0 +1,51 @@
+{
+  "round_id": 100232,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-29T22:32:53.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[予言] 名無しXq",
+      "team": "予言",
+      "emoji": "😍",
+      "score": "53.27",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[予言] 名無しGj",
+      "team": "予言",
+      "emoji": "🤖",
+      "score": "34.20",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しhh",
+      "team": "",
+      "emoji": "🏎️",
+      "score": "2.17",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "予言",
+      "score": "87.47",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkNEWwyAIQzNi/v+Xd4K1s53YjQeRc0lQAAEASSeHIMURUMYEXV+hDmrdRKNXw7hXEvEKRMDNFEkNXe/wC8LPMc9zKM/8TFlq05OO026+JKmgtaSnL8VD+y/NTWzFH7ga/DOlvuST1tdc25RveF/29ex7SppbrWhrrVWMfKKstVvfdK7HLudevlHPvbm+AUEvDFo=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#60d411",
+      "4": "#30e8e8",
+      "5": "#60d411"
+    },
+    "sz": 30
+  }
+}

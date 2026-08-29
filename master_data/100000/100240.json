@@ -1,0 +1,80 @@
+{
+  "round_id": 100240,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-29T22:58:48.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] ugm",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "41.36",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] はっぱ隊",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "32.92",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] ugm",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "1.21",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ぱと] カゲロウデイズ",
+      "team": "ぱと",
+      "emoji": "🦊",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "76.36",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "1.21",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ぱと",
+      "score": "0.09",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9ktGSxSAIQxHG+P9/vBOCSns7y0NrOQSiFgDg7mbjxtLSjDDCA0Cja5kts8ThHo4obrYWaQYQw50tGGOg8kUjYoyC5E+KiODYiiqsGprapL8Lf0Nofq/neu5EivcHpsA3nXPOpoRaRxWTlny3MzNlgUsHhvq8afbhAMVLy2Qa77QlNPOhFRXI5/+0Bmvuj/aDnlN6eua5sPoO3pZ5Gjx7vi5Oymu4tIlJ845+6ZSnTpU5fj602pgcnc5lSp42m/nnXMfaz6Hp6tCXtFlOQf4rXKVZPf4AlBsPRQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "5": "#8B4513",
+      "6": "#8B4513",
+      "7": "#30e84d"
+    },
+    "sz": 30
+  }
+}
