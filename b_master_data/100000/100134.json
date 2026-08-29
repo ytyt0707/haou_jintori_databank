@@ -1,0 +1,48 @@
+{
+  "round_id": 100134,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-29T08:14:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[人居無] 過疎",
+      "team": "人居無",
+      "emoji": "🤓",
+      "score": "38.11",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[反社] 痩せる薬売てます",
+      "team": "反社",
+      "emoji": "💀",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "人居無",
+      "score": "38.11",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "反社",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kkESRDEERDv8+595KhoZvsluskFeE1RU7cCOqhnJQ0hF+CKiFMRNt1fqtXuOx3eKe2VgC+bKMVilsJDDQ4RhkTgzs9czwueBka06gu9Uf+hAbjokcR/5cU97qHkV5oN8usFKO0w61S2jWLur5DPHe1trvWgM82K5KwADhH/DXzS7mHITojV0wPausEr/H30AZqcEnw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#30e8d7"
+    },
+    "sz": 30
+  }
+}
