@@ -1,0 +1,65 @@
+{
+  "round_id": 100108,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-29T15:50:40.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うどん] うどん帝国軍少佐",
+      "team": "うどん",
+      "emoji": "🐷",
+      "score": "37.45",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[うどん] つるとんたん",
+      "team": "うどん",
+      "emoji": "🍲",
+      "score": "20.95",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵代打軍] サーモン！",
+      "team": "🇯🇵代打軍",
+      "emoji": "🧊",
+      "score": "4.99",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵代打軍] 名無しri",
+      "team": "🇯🇵代打軍",
+      "emoji": "😎",
+      "score": "1.45",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うどん",
+      "score": "58.40",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵代打軍",
+      "score": "6.44",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1k+EWhSAIg+fBeP9HvmcDQm5lP9Q+NhAL+BgOPp/DPaBpPMICB7RJnQNAwhfKeLO9957mUkr8RhEYgHtJ2zy109mSN2RVd2IzS1MFSLtIoy4Wl0pOgGERX9eVZxsUq2jghuyzCZ7i9iZVVYd1pwbWrFnJyz37XK38Kyyv4TiQGe7ERVM0tXFJE6khfKUbn8y5def0QhUrSDqVdkiflL2LZoTx1EKebEZkHdZ5hPgcVVSnjm06J7srq310qnac63Rc9xWcEb1mXv0JPwhUCWI=",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#e83053",
+      "4": "#ced411",
+      "5": "#ced411",
+      "6": "#e83053"
+    },
+    "sz": 30
+  }
+}
