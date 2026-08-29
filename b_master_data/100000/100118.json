@@ -1,0 +1,72 @@
+{
+  "round_id": 100118,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-29T07:23:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] ♡＠♡",
+      "team": "なきち",
+      "emoji": "💟",
+      "score": "24.40",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵代打軍] 名無しri",
+      "team": "🇯🇵代打軍",
+      "emoji": "😎",
+      "score": "19.64",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳魏] 名無しw0",
+      "team": "🇨🇳魏",
+      "emoji": "😀",
+      "score": "19.24",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "名無しqO",
+      "team": "",
+      "emoji": "😣",
+      "score": "0.79",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "24.40",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵代打軍",
+      "score": "19.64",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳魏",
+      "score": "19.24",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkVEOAyEIREHE+x+5GUARWzdNUz6Q9e0MqEQeIiKosIqQ1YHmpqPMS9l777kNdZiZH+jxg7cCDXjwcE5YODETUYFbA2LiBwp4117oGDiRXimwMsY6pxIZJlabueK8MtMWdTJ3ruY/0GwtoitgW2/zgdqrLKlCuZ8KeKOAiGj8mc63gNW7dlLYgLaG7LYz++eFpmVrJp4qW5NG9R9K+1G+cn4BzKMKBQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83098",
+      "4": "#4d64e5",
+      "5": "#d4b611",
+      "6": "#85d411"
+    },
+    "sz": 30
+  }
+}

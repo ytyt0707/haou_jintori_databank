@@ -1,0 +1,65 @@
+{
+  "round_id": 100112,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-29T16:03:39.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵代打軍] サーモン！",
+      "team": "🇯🇵代打軍",
+      "emoji": "🧊",
+      "score": "58.81",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵代打軍] 送料",
+      "team": "🇯🇵代打軍",
+      "emoji": "🦄",
+      "score": "14.83",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵代打軍] 名無しri",
+      "team": "🇯🇵代打軍",
+      "emoji": "😎",
+      "score": "4.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇳魏] 曹操",
+      "team": "🇨🇳魏",
+      "emoji": "😏",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵代打軍",
+      "score": "78.13",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳魏",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlklEOwzAIQ5nMuP+RJ9uEpum0n0WqSvKwIS0R18KxSHSkwOGkvHODgYOCVAkDJgBI9+2YOviPHmb7drW8n13xD5oAIurKfUQRJfw9J4gL0PNNi9JyxpEQRXHbP/zN+vjeQwCXEqv65nDTsurGWquW3VCaO4cjUYXSb0xk8hPNaqp9au3O/hrlETgop0a3tXFm9s3b21TjY6WvPJSc1SOI5cTSLyWosGkQis8oTlvMsLKt2IsPLW64KjWNznb7Cy5tlz1f1H4AuU4KCA==",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#a74de5",
+      "4": "#a74de5",
+      "5": "#4d73e5",
+      "6": "#a74de5"
+    },
+    "sz": 30
+  }
+}
