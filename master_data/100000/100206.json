@@ -1,0 +1,108 @@
+{
+  "round_id": 100206,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-08-29T21:08:39.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[けんた] けんだ",
+      "team": "けんた",
+      "emoji": "🎀",
+      "score": "22.31",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[けんと] 中島健人",
+      "team": "けんと",
+      "emoji": "😀",
+      "score": "12.38",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[けんと] 山崎賢人",
+      "team": "けんと",
+      "emoji": "😎",
+      "score": "3.03",
+      "kills": 14
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無し2f",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.47",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 名無しUl",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.29",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] 名無し6F",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.57",
+      "kills": 1
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "0.52",
+      "kills": 3
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[けんた] げんた",
+      "team": "けんた",
+      "emoji": "🍙",
+      "score": "0.08",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "22.92",
+      "kills": 24
+    },
+    {
+      "rank_position": 2,
+      "team_name": "けんと",
+      "score": "15.40",
+      "kills": 21
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "3.33",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVuSxCAMA83EgLL3P/CWJB4JU7t8EbdbdpKIiPi8D0v7ZC7Oywa8ZWZSjqPuLtI8lRXwP1V0zlgsa1wor6E4saLTrfiDGou+dLlIYXzJTubwDNKH2sf3UJl9yI2LlhEC4JRtv+mJGTzNhzy+BF0AtX6A1kYyS+K9l0CttRIau9+0lEJV6XY9SrTc96YKHnuIptzbi2U2FvkgGJmd3Mloou1BgSIf3EvKukQy5qCOZqcHcu/gK3mcq4t6EP/S+9gda7TmpVfLQWf0c0Lv4wUH/JmyXNLx/td1XZONnTv/o86R/AvbiAoH",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83075",
+      "4": "#8b4de5",
+      "5": "#8B4513",
+      "6": "#e86430",
+      "7": "#8B4513",
+      "8": "#e83075",
+      "9": "#8B4513",
+      "10": "#e83075"
+    },
+    "sz": 30
+  }
+}

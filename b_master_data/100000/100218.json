@@ -1,0 +1,47 @@
+{
+  "round_id": 100218,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-29T12:47:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵阪神] はい",
+      "team": "🇯🇵阪神",
+      "emoji": "🐶",
+      "score": "17.65",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵代打軍] 原口文仁",
+      "team": "🇯🇵代打軍",
+      "emoji": "⚾",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵阪神",
+      "score": "17.65",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵代打軍",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkAEOwCAIA6v8/89LUQxKXbKRZXMcrVWzKIgKZiYgQMyXhE6v8Aut/jOX73ulEf5MF/1ssmYOuJ9tnJY9jp0nT367bJinq6iRoRRbqPVTFp6F3VYQmBS+XdN0SjQdSjRW9Y7IinFjV0ilp2Lgxserb/5hHc1F3TTdZAzk7ynOrKz7si4IwCtUgl+9B88DAfs=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530"
+    },
+    "sz": 30
+  }
+}
