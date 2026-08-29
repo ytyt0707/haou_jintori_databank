@@ -1,0 +1,81 @@
+{
+  "round_id": 100256,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-29T14:50:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "31.32",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇺🇸ドナル] ハンニバーガー",
+      "team": "🇺🇸ドナル",
+      "emoji": "🍔",
+      "score": "23.68",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇺🇸ドナル] 反ドナル",
+      "team": "🇺🇸ドナル",
+      "emoji": "🍟",
+      "score": "19.79",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] はっぱ隊",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "12.93",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[くん民] 名無しsJ",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.10",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇺🇸ドナル",
+      "score": "43.47",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "31.42",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "12.93",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1k1sORCEIQ/EC0/3veEILztVk+DDGY3mJZmbxskXztgQyYWOLx1rdnTQTfYHnG3oiy4aOtC+QkRsANF03LX1TXzc1BVCuyxtTYgpee2F3uWZCG+amvBXMd2iFHrG7R9EuWTvg1bitNaZ1oKC2epkGVkThhyuL6MV+cFy/MekRNZNZ6VK1ChHP09pkXHWJXTloRAzKDGoRT4tL2p7BB6LrgaKcDUAFASNV8DpXt5TVTor4ptLMINKxRq8qFtwrHdd55o0igo9XIbPS3qLe9NPWTP6l4MT+0Zbn+g04f03F7YfVX4mpRYF3C+cnHfwLdpAPIA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#3081e8",
+      "5": "#36e830",
+      "6": "#3081e8",
+      "7": "#97d411"
+    },
+    "sz": 30
+  }
+}

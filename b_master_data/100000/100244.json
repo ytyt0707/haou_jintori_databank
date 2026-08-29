@@ -1,0 +1,53 @@
+{
+  "round_id": 100244,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-29T14:11:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] はっぱ隊",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "39.68",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵代打軍] サーモン！",
+      "team": "🇯🇵代打軍",
+      "emoji": "🧊",
+      "score": "6.87",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "39.68",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵代打軍",
+      "score": "6.87",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くん民",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kdEOxSAIQxvI/v+Xb6BUYHHXh814LC0IrOXugMfKL+ysuHbO84Zv2tIbhZeecGoNhvIruKgZwDRf9LtyaKufEqsfZn/B9k3clCORlv83HdOw9FWnKV7aEYrpmsaYBn6e5+nCOeKBF007ihk3qcRndhrHleqWB23jc1ybK6Wpe2plC7OLWDRep3FsMWyjl1aLumY1psQaoV101Gbl/3SmWlKmQvHjqzuZeUCdRyqAtN7l/vsBFfoHiw==",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "5": "#30e8d7"
+    },
+    "sz": 30
+  }
+}
