@@ -1,0 +1,56 @@
+{
+  "round_id": 100490,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-30T12:29:28.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ぱと] カゲロウデイズ",
+      "team": "ぱと",
+      "emoji": "👽",
+      "score": "64.47",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[反社] 痩せる薬売てます",
+      "team": "反社",
+      "emoji": "💀",
+      "score": "1.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しF5",
+      "team": "",
+      "emoji": "🤤",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ぱと",
+      "score": "64.47",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "反社",
+      "score": "1.01",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk1kWgCAIRRnc/5o7jAGl8mNweYBDAGZUDIDZw7EQEXiGhAYmAlbKKvyogcOkdMdBympNS4CZiqcDFL9/ynR7O0K+0H1Z3dMJXyqfRr5MxV07G006fJ3ZNZ9ztVw7UL2TukMT+WlvKeZT+tUiIm608sSM9RvNvqqb4h8qKdY8h13rFReqWQtWwz53Fq4w9pSFAbxyEFmzQwYj33+FB+O1BzA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#e83042"
+    },
+    "sz": 30
+  }
+}

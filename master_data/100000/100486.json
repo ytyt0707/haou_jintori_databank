@@ -1,0 +1,42 @@
+{
+  "round_id": 100486,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-30T12:16:29.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ぱと] カゲロウデイズ",
+      "team": "ぱと",
+      "emoji": "👽",
+      "score": "0.21",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しhw",
+      "team": "",
+      "emoji": "🤤",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ぱと",
+      "score": "0.21",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kFEOwCAIQ1vd/c+8iEK2WNx+8Afjo6UCFJ7eC80BXLX2/9xJMukkSKRwCBVsw82goj7q3DBpps+oTV6jZbQlHMVzPOoHDWOljS9ra19IRlcKGSsSnmm07Zc2F7MDeznDF9VGN7pKAIM=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d130e8",
+      "4": "#30e881"
+    },
+    "sz": 30
+  }
+}
