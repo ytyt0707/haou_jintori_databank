@@ -1,0 +1,42 @@
+{
+  "round_id": 100464,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-30T11:05:09.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳中華] ある日の名無し",
+      "team": "🇨🇳中華",
+      "emoji": "😀",
+      "score": "0.15",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しCq",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳中華",
+      "score": "0.15",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYBgigIWFFg5lxGsoIz5pRkKy+BQwggBeu4enJBMTE1aPwcICQ5oZpBwWWBiyYLNgsgwM2MxGyGKzmAJZmJOxGcvAQEAWJfIBX6sARw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83030",
+      "4": "#47e830"
+    },
+    "sz": 30
+  }
+}
