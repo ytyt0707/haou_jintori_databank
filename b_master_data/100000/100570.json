@@ -1,0 +1,42 @@
+{
+  "round_id": 100570,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-30T07:48:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[反社] 明日月曜日",
+      "team": "反社",
+      "emoji": "💀",
+      "score": "11.52",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しJ7",
+      "team": "",
+      "emoji": "🤤",
+      "score": "3.25",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "反社",
+      "score": "11.52",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkOEWwCAERj/l/Z95B1MtY8uvnOsKwEkwl9UVZk4pM0q6im0fQMwxVXvD0zikmI2B4M62+KKP0h9JL2o6CtolUnmlRER7oXL1CRHfVNsH6tA+zzq7u3GXZZ44V0Wd2dK1G1dyW++QrWRHChQm7yccueCRxMeDXdmOAes=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e230e8",
+      "4": "#8b4de5"
+    },
+    "sz": 30
+  }
+}

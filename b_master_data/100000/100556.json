@@ -1,0 +1,72 @@
+{
+  "round_id": 100556,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-30T07:03:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "6.34",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無し7r",
+      "team": "",
+      "emoji": "🤤",
+      "score": "0.84",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[もこう] 最後の餃子",
+      "team": "もこう",
+      "emoji": "🦄",
+      "score": "0.44",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無しcV",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "6.34",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "もこう",
+      "score": "0.44",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.11",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkdsOwCAIQ4vg/v+TFxCdF9yyyMPiOLZFBYJKSKUCVlqKd/BV69DF/Hgwami6VmtmtKEqzY9YV6MzflFXu2GetCjZlY6x9re/DICC/a1FBxRf4o6LiLRQW9BER9zTUQeAtJauNwwe0J2v5W6hiIQj2bn1E06sQCuEcKiU1lfs6RJdoWljdz1KuSu6AeTXAd4=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#7c4de5",
+      "4": "#e83030",
+      "5": "#30d7e8",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
