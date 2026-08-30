@@ -1,0 +1,33 @@
+{
+  "round_id": 100820,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-08-30T21:19:16.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[あ] ある日の名無し",
+      "team": "あ",
+      "emoji": "🐲",
+      "score": "96.37",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "あ",
+      "score": "96.37",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkjEOADAIAgX+/+emE6kDG1ud0DNijFIvpjcaaTQCBRKVMk2un9UuUHykZ2f7WLmBtF5qxBur6pQKUAdTkwpi",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8a930"
+    },
+    "sz": 30
+  }
+}
