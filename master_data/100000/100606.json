@@ -1,0 +1,41 @@
+{
+  "round_id": 100606,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-30T18:45:27.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[Fa ] ニャル子",
+      "team": "Fa ",
+      "emoji": "🏁",
+      "score": "92.28",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[Fa ] box",
+      "team": "Fa ",
+      "emoji": "🕷️",
+      "score": "0.00",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "Fa ",
+      "score": "92.28",
+      "kills": 21
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkMEOACAIQqn+/5+btDU5RFvZSUMe1hhyYDqRyhtNrsX/s/8Jry+6JFsZVr1uhPALoiUPQuJIutwlo8W7pSjsZiTreOpwzFxghz56OwMsOa1QV/KHJvU5Cgw=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8d7"
+    },
+    "sz": 30
+  }
+}

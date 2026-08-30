@@ -1,0 +1,72 @@
+{
+  "round_id": 100602,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-30T09:32:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[社] 社会は厳しい",
+      "team": "社",
+      "emoji": "😆",
+      "score": "26.96",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[草] おるおる",
+      "team": "草",
+      "emoji": "😍",
+      "score": "18.25",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しo6",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.48",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[反社] 明日月曜日",
+      "team": "反社",
+      "emoji": "💀",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "社",
+      "score": "26.96",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "草",
+      "score": "18.25",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "反社",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkcEShDAIQ2Nx+f9P3gkQB9keHLcHS3gl0OquBSBCuB9aYnNPPrPSzyi4VHLtqg06cY3l7rtaHOAB0eEfMqizbfqrQan/pYzkpD6pRc2MQ0jq4VObmfFl7lSKlBhgsBjUhZW76FrEk5pFpVmnZ/mFe35WTkXXM5s1yMYy3lAW1do41/x1oLtmrFLukamBfynirt0B+LCqWdxpA2Ev3SuU2+3tr+zwu9wX2ocIBQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#aad411",
+      "4": "#4d81e5",
+      "5": "#e83030",
+      "6": "#30e8a3"
+    },
+    "sz": 30
+  }
+}
