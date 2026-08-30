@@ -1,0 +1,33 @@
+{
+  "round_id": 100730,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-08-31T01:27:30.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "96.14",
+      "kills": 15
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "96.14",
+      "kills": 15
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZsYADBgiowLkhcAIDUkm8kKLBrrIiABGvM7AK8vIiFeaGZssAwMzMwB85wpx",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5"
+    },
+    "sz": 30
+  }
+}
