@@ -1,0 +1,48 @@
+{
+  "round_id": 100442,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-30T00:53:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 名無しsM",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.31",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 付け焼き刃",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤠",
+      "score": "2.73",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "3.31",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.73",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkFEOwCAIQ0vn/c+8wGJcwtqZ7Hf8KLxSUOAP/QMRoWGSOz4ypNxC0LV+omYlvBjPt4yMmbTzmRIspWglE2vbi7ZZq2AWKuOlbDc9taTO2bE2Z7twAh8UANY=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}
