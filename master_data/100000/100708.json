@@ -1,0 +1,81 @@
+{
+  "round_id": 100708,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-31T00:16:12.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無し2p",
+      "team": "",
+      "emoji": "😂",
+      "score": "10.66",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "5.56",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しCW",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "3.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[くんに] しこしこ勢",
+      "team": "くんに",
+      "emoji": "😍",
+      "score": "0.32",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[くんに] 山上徹也",
+      "team": "くんに",
+      "emoji": "🐶",
+      "score": "0.16",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "5.56",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "3.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くんに",
+      "score": "0.49",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHV0sEOxCAIBNABOvb//3gDFsS03T0vFxufg5oKQFWhisdSLzS0tsxj4TnX8TIyW9umwSRna7PjpiR5Nd4tTvxNqaVmZueR5/MxLDs7o7FSB5CK4BVWcowxasJ53YpTl6eKAIhkT5cCELhEZfPo7PcWedHEp2x0EY++KgRNc9s2/tA6VYvUZ2Vzxl9RL7/rfFbzBd30Wjwf2B5ePyAW7dG+yb98fwA1JgQK",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e85e",
+      "4": "#30e8e8",
+      "5": "#9ca3af",
+      "6": "#7c4de5",
+      "7": "#30e8e8"
+    },
+    "sz": 30
+  }
+}
