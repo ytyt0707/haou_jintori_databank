@@ -1,0 +1,107 @@
+{
+  "round_id": 100666,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-08-30T12:59:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[あ] あ",
+      "team": "あ",
+      "emoji": "🐲",
+      "score": "10.41",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[あ] も",
+      "team": "あ",
+      "emoji": "😍",
+      "score": "3.08",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しrA",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.55",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しpb",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.69",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 名無しzS",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.98",
+      "kills": 8
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] 名無しIP",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🍂たぬき] 名無しN0",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.09",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🇯🇵ONJ] 🐬",
+      "team": "🇯🇵ONJ",
+      "emoji": "😉",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "あ",
+      "score": "13.49",
+      "kills": 26
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "5.78",
+      "kills": 14
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkNsSwyAIRNeiZf3/H+6Al5pI7Ex5YfR4FhIgrJdXiAD8pk+my//Cg3dEeqJ6oCRDSlqiWj1Gn6nLjy5ERNSHBG+qvEVUa4AAVHNlpS2nWAGSrKbK9ilwWpByTpyYK4XZyMsP6dTUNkLqtnKf6nvtC5fSM+p3o7EaYeO3QAAESDNDag9Gjaxr7/R62U5DtL7zTlPrN25GB4E6t7pZfvwAtaEE5Q==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8B4513",
+      "5": "#30e8c6",
+      "6": "#8B4513",
+      "7": "#8B4513",
+      "8": "#30a3e8",
+      "9": "#8B4513"
+    },
+    "sz": 30
+  }
+}
