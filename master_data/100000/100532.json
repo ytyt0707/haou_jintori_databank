@@ -1,0 +1,51 @@
+{
+  "round_id": 100532,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-30T14:45:33.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[魏] 山上徹也",
+      "team": "魏",
+      "emoji": "😈",
+      "score": "70.23",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[魏] 曹操",
+      "team": "魏",
+      "emoji": "🦄",
+      "score": "1.21",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しU0",
+      "team": "",
+      "emoji": "🤤",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "魏",
+      "score": "71.44",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkUsSwzAIQzFE979yx/zjwd202cThSSAc4PtDRDQrBNiQ9DVKFLvfpaXrUOSc0aiISNn05PSohsoocPY0+egNq220JUfvl/dftA3xVK3SA4yZU6AU19+we94bEAXMrbiliFx1I8w5uJzpBXMKVprTwYDZaSUtmJ1X0ZbFhavR9AJ4Hv260DLHdXWvn8lCDWSXbJ0L/KX8AS0eDLc=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#4d73e5",
+      "5": "#e830dd"
+    },
+    "sz": 30
+  }
+}

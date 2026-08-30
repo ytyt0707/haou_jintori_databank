@@ -1,0 +1,57 @@
+{
+  "round_id": 100518,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-30T14:00:13.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "71.22",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しfU",
+      "team": "",
+      "emoji": "🤤",
+      "score": "0.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] 名無しLm",
+      "team": "なきち",
+      "emoji": "🤕",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "71.22",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klkOxDAIQ+2Wuf+VRw6LmhbCTyIeBmIFJLowM5iRC1sfogR6uLTkmWp2J1+dx9FOB6nPnWBu1U7195L0lT41wOm9wHKye47MjOgxjmLNlXzSir6MvrI2527iN81iP5+0zMiSa6eZ9vO+nxQII/WT9lhbJd1ReZXpX17ilFeftapGnU+0CpuLpE06Uoe2Fj9nFJMgaKxvUI5o3z8Wqwqh",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e84230",
+      "4": "#73d411",
+      "5": "#6e4de5"
+    },
+    "sz": 30
+  }
+}
