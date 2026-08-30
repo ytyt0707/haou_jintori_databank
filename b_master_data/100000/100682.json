@@ -1,0 +1,66 @@
+{
+  "round_id": 100682,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-30T13:51:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[あ] なる",
+      "team": "あ",
+      "emoji": "🥰",
+      "score": "85.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[あ] い",
+      "team": "あ",
+      "emoji": "😷",
+      "score": "2.74",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[あ] 🏁🏁🏁🏁",
+      "team": "あ",
+      "emoji": "🏁",
+      "score": "0.42",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[バモス] ハンニバーガー",
+      "team": "バモス",
+      "emoji": "🍔",
+      "score": "0.08",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "あ",
+      "score": "88.16",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "バモス",
+      "score": "0.08",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kEsSwCAIQ6E23v/IHYvGAX/dlFXgEWAAziHnlllHzrNqq1V6Wx5ac4nWCUoeQirotPYrVGkdqX6nfYopLRGLzF+6xMW4NnuYEoe+wg8NEI3yOc7cqCsyWV9ki3d8+wyAd3HZH+LaDz3gmVksZgiViYy/7qio6PY04gdZ4w/7",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#97d411",
+      "4": "#e88730",
+      "5": "#97d411",
+      "6": "#97d411"
+    },
+    "sz": 30
+  }
+}

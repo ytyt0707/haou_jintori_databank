@@ -1,0 +1,106 @@
+{
+  "round_id": 100678,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-08-30T13:38:53.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[あ] も",
+      "team": "あ",
+      "emoji": "😍",
+      "score": "11.16",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵代打軍] 栗山巧",
+      "team": "🇯🇵代打軍",
+      "emoji": "😀",
+      "score": "3.10",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[あ] キル稼ぎチャンス",
+      "team": "あ",
+      "emoji": "👻",
+      "score": "2.10",
+      "kills": 18
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[あ] 🏁🏁🏁🏁",
+      "team": "あ",
+      "emoji": "🏁",
+      "score": "1.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 名無し0e",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] 名無しG5",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.09",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[🍂たぬき] ホモセックス",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[🍂たぬき] 名無しwy",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.08",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "あ",
+      "score": "15.24",
+      "kills": 26
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵代打軍",
+      "score": "3.10",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "1.55",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlktEOxCAIBJdGubD//8EXUKy9kPpwPNDWYQCTAnuIh0WOtLHWmphH0o2heQyKyTe8oAlEVCTYyHA3zOw8YFJMloMVgFyevO6GJmYqTlFRC6oDxgR065uuoi5fLs8wZn8NdstxXSbO+lRJNoIc3ZPGWgBIUgS0WB+fyadMEhAu6Ul/j6vv3qvTPDvQLCufB/efuQf3DfdqrfX3lHTd7p2i6rxc4G2rrez8+gXzmwWm",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#60d411",
+      "5": "#e88730",
+      "6": "#8B4513",
+      "7": "#8B4513",
+      "9": "#60d411",
+      "10": "#60d411"
+    },
+    "sz": 30
+  }
+}
