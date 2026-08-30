@@ -1,0 +1,66 @@
+{
+  "round_id": 100646,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-30T11:55:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 蛇",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏍️",
+      "score": "40.51",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しfm",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥳",
+      "score": "17.76",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵代打軍] 名無しpg",
+      "team": "🇯🇵代打軍",
+      "emoji": "😂",
+      "score": "0.76",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵代打軍] サーモン！",
+      "team": "🇯🇵代打軍",
+      "emoji": "🍡",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "58.27",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵代打軍",
+      "score": "0.89",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kkEWwyAIRIEK9z9y3oCiEFMXFfjMoDYiVlfJpWS10eyDEhGhtWtRxxLoThjxpI7FNIeJGZEW6g7eoJoEIUD4N6qxxEQ8Aq5alE2DYjio0tSF5kxeMQR97ZoVp+jzET+MvVEdY8SlGyWCV1JBtt0hMRuGnZl5Ewx1Q7znjXp1/by0C8R+d84e9jPmc2Tdg79apuuZpwMztRvl3+83irfJufvjuNODM7+0673W6Q9bD1d97qh5mEFr+EwfyfgLWA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3092e8",
+      "4": "#3092e8",
+      "5": "#9ca3af",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
