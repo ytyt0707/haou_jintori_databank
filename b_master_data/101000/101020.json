@@ -1,0 +1,50 @@
+{
+  "round_id": 101020,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-31T08:07:33.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] なきなき　；＠；",
+      "team": "なきち",
+      "emoji": "🌧️",
+      "score": "77.64",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] アイゼン",
+      "team": "なきち",
+      "emoji": "😎",
+      "score": "9.65",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "復活の雷ニート",
+      "team": "",
+      "emoji": "😎",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "87.29",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVk9sSxCAIQ7OV///mnYBEqHYvPnRSD8FULYCBMQZgMYApKUA0gVnVZsa6BTfq9XJ3r1vLVJFcjY3XVJEehUkLrRnCq8Atn7zCJXzM5R6oookjvbLkRK8r8Rd6xOrcaaZ+BdfBxas2PPBf1GT2Xjfvb3Rm3b0Zm60PtGAUzep11u7tIXc6eH00WnW7zSpJQXpbOhEzPzLwg/KvKY6YdfT58QbgrQwP",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83030",
+      "4": "#e83030"
+    },
+    "sz": 30
+  }
+}
