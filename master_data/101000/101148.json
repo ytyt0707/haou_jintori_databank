@@ -1,0 +1,63 @@
+{
+  "round_id": 101148,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-01T00:02:20.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵お赤飯] ごましお",
+      "team": "🇯🇵お赤飯",
+      "emoji": "🥰",
+      "score": "78.98",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "3.72",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[Fa ] あいう🥺",
+      "team": "Fa ",
+      "emoji": "🥺",
+      "score": "0.13",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵お赤飯",
+      "score": "78.98",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "3.72",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "Fa ",
+      "score": "0.13",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklEOwCAIQ5l197/yAtopyMj4QfqsYAIgIgIfKll4uazukh7QWvYedA6iuR+Ul8Vg9E6qn+nR21prg4tB51VIrM7Qd+BhPykA7+aQIfNnQf5b1najV/ZW7cscS6u9JT02ar0KoKAiL00apDvJe/nGsldCN2k7clKTdFidV4PA8lIG/KATLkrB/sniAWDkCSU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#73d411",
+      "4": "#e830dd",
+      "5": "#30e8c6"
+    },
+    "sz": 30
+  }
+}
