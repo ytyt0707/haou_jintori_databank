@@ -1,0 +1,57 @@
+{
+  "round_id": 101064,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-31T19:30:08.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[陣取り] 付け焼き刃",
+      "team": "陣取り",
+      "emoji": "🦁",
+      "score": "50.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[陣取り] 山上徹也",
+      "team": "陣取り",
+      "emoji": "💩",
+      "score": "29.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.14",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "陣取り",
+      "score": "79.21",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "0.14",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9ksESxCAIQ7Eb/v+Xd1BIg+O4t+XQUl5idCpQ9bAGqxiAOyWmdYgXj686U2BRs+LqJS1onaa5Am4UbmZNkPvK1wgs/EAlu9PuhLmbCDa6ViFvoZVwpYRxonLwrZTDbF7mPq2fUiiJflt4w3o61D+iRimHbP5E282I8EOuaBaVAfc7vfNuxKON84PwB3110n0BZ+wNSg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#a74de5",
+      "4": "#30e8b4",
+      "5": "#30e8b4"
+    },
+    "sz": 30
+  }
+}

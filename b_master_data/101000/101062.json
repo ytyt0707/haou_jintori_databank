@@ -1,0 +1,63 @@
+{
+  "round_id": 101062,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-31T10:23:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂ためき] 山上徹也",
+      "team": "🍂ためき",
+      "emoji": "😎",
+      "score": "59.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しje",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.84",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.74",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂ためき",
+      "score": "59.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.84",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くん民",
+      "score": "0.74",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkVsSgCAIRVFh/1tueEZETk38CPd4UREgYliEkBOHNLJquUNeAQDLFsdEBXDpsOsLMEg4IV6bcjURiYFGbs3KFHndqcDJeK2lPHllv1J0cz5b3NbUl7C7UFbjRY1ScZQ1EVzFs+Z5P8dL2rbYeeWP9djPXhnn05W3w9gP8gc1a/uU+P32yu7srUHPWWbJ8gPgvQit",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#a74de5",
+      "4": "#73d411",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}
