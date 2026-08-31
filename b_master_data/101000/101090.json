@@ -1,0 +1,81 @@
+{
+  "round_id": 101090,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-31T11:54:19.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇳呉] 陸遜",
+      "team": "🇨🇳呉",
+      "emoji": "😃",
+      "score": "33.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳魏] ある日の名無し",
+      "team": "🇨🇳魏",
+      "emoji": "🦄",
+      "score": "17.93",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳魏] 名無しh6",
+      "team": "🇨🇳魏",
+      "emoji": "😍",
+      "score": "1.82",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇳魏] 名無しNA",
+      "team": "🇨🇳魏",
+      "emoji": "👻",
+      "score": "0.91",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇨🇳蜀] 劉備",
+      "team": "🇨🇳蜀",
+      "emoji": "🙂",
+      "score": "0.11",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇳呉",
+      "score": "33.09",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳魏",
+      "score": "20.66",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇨🇳蜀",
+      "score": "0.11",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9klkSwzAIQ7Gh4f437ohFXqYNP8U8JLAb1Qo5Ys45ReQnE0nYVNFINZSQgrLIdEJ8UQxh553kBnd1nYOv45XV/ml/T1E1Mw7XdYdPbt80R+xLolK0J9QN0jBoWGu+Ya5FiTEDoDQVcK5su42ZZPEPrfILFVnOYTy4FVRnyBgiZ2k76Rh6Uz6EDgS62eJ1H/SQ7n4tDhjapk3w/Enpauagz9M94P1k5u7Az8KqTe2Virh7fAJ03v98IERPjd+qtbRpNZHuSXwaUfgCWokG8Q==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e870",
+      "4": "#59e830",
+      "5": "#e83098",
+      "6": "#59e830",
+      "7": "#59e830"
+    },
+    "sz": 30
+  }
+}

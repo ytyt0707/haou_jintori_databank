@@ -1,0 +1,66 @@
+{
+  "round_id": 101084,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-31T20:34:52.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しY3",
+      "team": "🇯🇵ONJ",
+      "emoji": "😀",
+      "score": "83.56",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳魏] ある日の名無し",
+      "team": "🇨🇳魏",
+      "emoji": "🤖",
+      "score": "0.27",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳魏] 鍾会",
+      "team": "🇨🇳魏",
+      "emoji": "😐",
+      "score": "0.13",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇨🇳魏] 曹操",
+      "team": "🇨🇳魏",
+      "emoji": "🫂",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "83.56",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳魏",
+      "score": "0.53",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkdEShCAIRYGt+/+f3CCQguGsL4qHA1iALxZmjqDsinpqsHM7VWQ0YfSFNaGdyezSldLgZxfFTSool8rwk9p7NJF2mTrqbV784QICT9uo3i+u9i6jwj802ao04iN2uJUOWV/cQxBJh80qboSxv23m4dhv/IEkp8CnvWe1dBpvKXD6BPql9DW41uD/8wMcdhJk",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#e85330",
+      "5": "#e85330",
+      "6": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
