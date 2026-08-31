@@ -1,0 +1,42 @@
+{
+  "round_id": 101240,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-31T20:00:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無し8X",
+      "team": "",
+      "emoji": "🤤",
+      "score": "0.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] もネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤭",
+      "score": "0.14",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "0.14",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdktsOwjAMQ423//9m5NwzVUOiPJD0xE5IAcb56IB9BgN+U2CIl1biQcETTXExr2KIdU22kgD1cesHTC/SGj+1OSheqaw1tldbkIkGOVPrDFuXK7TO0taY7XuiVh/v4Nr7jru22sbk2k6OkeVuds5iWQl3uqaIVaiVVQfsn5AXm+qpbLxhpq1YGm2bZxPRgvViIwioLzfOaAALu21bjpoSZ7tg17Wch6JC+xNW9l/wBa5DAok=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83075",
+      "4": "#7c4de5"
+    },
+    "sz": 30
+  }
+}
