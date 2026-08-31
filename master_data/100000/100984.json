@@ -1,0 +1,48 @@
+{
+  "round_id": 100984,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-31T15:10:49.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[暑い] 名無しlQ",
+      "team": "暑い",
+      "emoji": "🤔",
+      "score": "94.95",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "1.46",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "暑い",
+      "score": "94.95",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "けんた",
+      "score": "1.46",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlkMEKACAIQ9Pt/785JDAxslMnPU3fJijQolhcyTuklUfV1RLEZoCqjmiIzGhkWafogfOgey9SfaCmgLwM1fIPbAKFPwp7",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83075",
+      "4": "#aad411"
+    },
+    "sz": 30
+  }
+}
