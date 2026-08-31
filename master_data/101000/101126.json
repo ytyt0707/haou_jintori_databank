@@ -1,0 +1,47 @@
+{
+  "round_id": 101126,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-31T22:50:57.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[西浄土] ポスポピペロペロ",
+      "team": "西浄土",
+      "emoji": "💚",
+      "score": "11.76",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵お赤飯] ごましお",
+      "team": "🇯🇵お赤飯",
+      "emoji": "🥰",
+      "score": "0.12",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "西浄土",
+      "score": "11.76",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵お赤飯",
+      "score": "0.12",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGN0VsSgCAIBdCbc/e/5oaHSgYUPyYHUCcAuCR0RRKqs+T0hSf43r1QO1mOTsOaUwq3brwhe3FW0F65RX1ONtJz9ZlaoP+gbv/guvGXsKtip+yUEsVotTcTmGIrgDHCjIeCxGD0yAA4JHZ7YEk+TMpXWEvolMShe6x9OZ/puVeem73eIzUCFQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#6e4de5"
+    },
+    "sz": 30
+  }
+}

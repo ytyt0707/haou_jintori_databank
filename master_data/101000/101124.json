@@ -1,0 +1,42 @@
+{
+  "round_id": 101124,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-31T22:44:29.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵代打軍] サーモン！",
+      "team": "🇯🇵代打軍",
+      "emoji": "🍡",
+      "score": "43.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵代打軍] 名無しol",
+      "team": "🇯🇵代打軍",
+      "emoji": "🦊",
+      "score": "29.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵代打軍",
+      "score": "72.47",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk1kSwzAIQzFw/zN3JMAoXab8xPhZAi8xe48jMSw2bPFQE7p46MIwP8edBqCZZhE5C44zgME6mpoVJh2WOeK01QptXLTqfqHpVB+2tLwqJ7p0j0hp6tblNPav1Fi2arcdNhprjRHslU7CuVub5TW7+KFVMVc3zbqbye6BjbjWjhoZ+vqgnKkuLmznWt7sarnfMgo5rLZuOuVWTHOhQjjEXVTdd4L8D43SPtoRm7l9mZLhk+L1CoQzjpYN9LsXPH/Cr+8LjvMJLA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#47e830",
+      "4": "#47e830"
+    },
+    "sz": 30
+  }
+}

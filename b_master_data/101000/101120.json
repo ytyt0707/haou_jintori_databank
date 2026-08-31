@@ -1,0 +1,64 @@
+{
+  "round_id": 101120,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-08-31T13:31:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[けんた] けんだ",
+      "team": "けんた",
+      "emoji": "😄",
+      "score": "43.24",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "30.72",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵代打軍] 名無しol",
+      "team": "🇯🇵代打軍",
+      "emoji": "🦊",
+      "score": "0.16",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵代打軍] サーモン！",
+      "team": "🇯🇵代打軍",
+      "emoji": "🍡",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "73.97",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵代打軍",
+      "score": "0.30",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkskOxCAMQ6Oqzv9/8sjOQgCN5jAcoOXFNpv74w+bs9nRAiX8RqW85eVqxTdvOheocRWUtohGYgAwHyuuCjMngx2U/2yCpIxdyRNb/ZRnj+3cM/Gh+fCeWkA4Ih0waGcp3mg6T+7wLpE3rdfaMlOEu5rBsRTmAHSJw8rcgJrsru8mNQ30Men77kzX0M55vKNkan/QC2/aa9kbrTfRyaJVomNtdJxGPefFS6ZtSav3lgV/0XCb/YrFB2J4Dxo=",
+    "cp": {
+      "2": "#9ca3af",
+      "4": "#4d81e5",
+      "5": "#e87530",
+      "6": "#e87530"
+    },
+    "sz": 30
+  }
+}

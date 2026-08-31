@@ -1,0 +1,81 @@
+{
+  "round_id": 101122,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-31T22:38:00.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "45.68",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵代打軍] サーモン！",
+      "team": "🇯🇵代打軍",
+      "emoji": "🍡",
+      "score": "14.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[けんた] けんだ",
+      "team": "けんた",
+      "emoji": "😄",
+      "score": "13.31",
+      "kills": 7
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] ささやき女将",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.85",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵代打軍] 名無しol",
+      "team": "🇯🇵代打軍",
+      "emoji": "🦊",
+      "score": "0.31",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "59.00",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵代打軍",
+      "score": "14.81",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "1.85",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kcEOwzAIQx1SnP//48lAl6SKdpk2Di3iYRwSAA2tNZxjjKYY/R2YGSTc6Rt2FB3STlE0kJMuo0tM4fJ9UpKaHHQMoPdrWpKyEhZXMllnRG65U/aChAFwd1dbDE5VfVW9KXBtjIQZ3M0Qzu47hpmZxC1nrBS6DnhgtezaPHKKnzQZfKVT/pEWjIVybDk7Ee8TDQu503gewbtw/P+OHu3+UPxqo/Nt1xW/AFYgDUA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#7c4de5",
+      "4": "#7c4de5",
+      "5": "#30a3e8",
+      "6": "#30a3e8",
+      "7": "#8B4513"
+    },
+    "sz": 30
+  }
+}
