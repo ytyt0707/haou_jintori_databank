@@ -1,0 +1,55 @@
+{
+  "round_id": 101104,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-08-31T12:39:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵代打軍] 名無しnC",
+      "team": "🇯🇵代打軍",
+      "emoji": "😇",
+      "score": "0.21",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[西浄土] ポスポピペロペロ",
+      "team": "西浄土",
+      "emoji": "💚",
+      "score": "0.00",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵代打軍] サーモン！",
+      "team": "🇯🇵代打軍",
+      "emoji": "🍡",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵代打軍",
+      "score": "0.21",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "西浄土",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdz8EKwCAMA9A04P//sgddRYxR2GGwHvssicA8MQYRswEYam3Fy1OVicjjpU9ftFobzc7KE8VnM1baEy0rq6hPdrSpbxSHY9I98AqyFNv8T1gBXCMAjQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "5": "#6e4de5"
+    },
+    "sz": 30
+  }
+}

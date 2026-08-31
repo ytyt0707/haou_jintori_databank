@@ -1,0 +1,42 @@
+{
+  "round_id": 101102,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-08-31T12:33:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵代打軍] 山上徹也",
+      "team": "🇯🇵代打軍",
+      "emoji": "🤔",
+      "score": "57.39",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵代打軍] サーモン！",
+      "team": "🇯🇵代打軍",
+      "emoji": "🍡",
+      "score": "39.10",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵代打軍",
+      "score": "96.49",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkAEOwCAIA3Xt/9+8oCgw0WTZjImzt0KRjKsUuBWZ3BzEW0qCkA0kXtGVbWjvzYT2kgloEdW3xnX07N0kttdIa/e+6azy/zHW8Oa5Jk3xFzpHsreJs1lqbaPYmoLVxnNy+yRZBT91AJdoW9oNZ7xGiW0aj5K7DZqH19q/H4W8AV7YDIo=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#97d411",
+      "4": "#97d411"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "round_id": 101100,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-08-31T21:26:42.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵代打軍] 代打の神様",
+      "team": "🇯🇵代打軍",
+      "emoji": "🤩",
+      "score": "30.52",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しPZ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "4.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵代打軍] サーモン！",
+      "team": "🇯🇵代打軍",
+      "emoji": "🍡",
+      "score": "3.80",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[西浄土] ポスポピペロペロ",
+      "team": "西浄土",
+      "emoji": "💚",
+      "score": "0.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 名無しGU",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵代打軍",
+      "score": "34.32",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "4.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "西浄土",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kFEOwyAMQx2iZPe/8WQHFqD9HdqkwuuzU8bgAgz2siYEYYpnmBn/ZkZxAEBYZs4XFgRTybjkZppF8DddIJyU+wqQYaHkMkWTKwQBWHVWcNLMtAVRvcplLdkGSSVqKpotAvyaH42i8evVtzaO2+VYG95EJo9xsKa64xtWaaE7ljk1dd3wWaoW4aKfq7btypi4LqzldS08cfd3vGDjpa2ZqW5246p1h7vzlPsnnVD4phxrnr24Z9rD3bpwPGuufp3N++4vz1+1cweG",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8b4de5",
+      "5": "#8b4de5",
+      "6": "#8B4513",
+      "7": "#97d411"
+    },
+    "sz": 30
+  }
+}
