@@ -1,0 +1,42 @@
+{
+  "round_id": 101282,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-01T07:16:55.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[コ] コ",
+      "team": "コ",
+      "emoji": "😀",
+      "score": "10.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しPZ",
+      "team": "",
+      "emoji": "🤤",
+      "score": "0.89",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "コ",
+      "score": "10.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGd0VkOgDAIBNCZ1vuf2QCitUBd6IcmTxYpkEazSI1cKEkC8kHMFSMVE4Vq3Ve41AtD5d6HwokKHz/0UbUuWzWVsRUPy3DUhZQaAECDbUr2HINcqZteUpbsY0XD2TZvDMpJZ5Ji5DbEVJ7AgNukuGnEh1xPkA7+Hp9/9PXMSd8xdwe7tgKr",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30c6e8",
+      "4": "#e83053"
+    },
+    "sz": 30
+  }
+}
