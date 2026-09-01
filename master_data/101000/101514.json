@@ -1,0 +1,81 @@
+{
+  "round_id": 101514,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-09-01T19:49:05.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] (･3･)",
+      "team": "🇯🇵ONJ",
+      "emoji": "📯",
+      "score": "40.56",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 三島由紀夫",
+      "team": "🇯🇵ONJ",
+      "emoji": "👻",
+      "score": "11.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "10.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[相模湾] 名無しB9",
+      "team": "相模湾",
+      "emoji": "🤠",
+      "score": "9.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "くそ",
+      "team": "",
+      "emoji": "👻",
+      "score": "5.32",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "52.52",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "けんた",
+      "score": "10.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "相模湾",
+      "score": "9.25",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kgsOxCAIRJEd9P433jCAxbYpaYL2OXxEtTJVNX4aJiJSzH3+poN2CkMzj3PRBrhUpVTGGHbIADCFS1+pmqmZhy5tCxCscJadublzqWNqYw2EZ2+EMka2DKQgjkTi0gLQS+s3E1VVWG2RSc1rrmTe6GmdnoS7XvMTv9I9uO/QTm9TjgQ/msg7taTXlI+ymnbXwQNYCyvoqMR+G/5+Fo1w8QmITLeYYaOSgHROWLCVgU8650lTVE6+6IZxKMop5c6aETo1e9DbTVXaJeLN/gFrSg6n",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#85d411",
+      "4": "#9ca3af",
+      "5": "#9ca3af",
+      "6": "#30e84d",
+      "7": "#30e8e8"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "round_id": 101508,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-09-01T19:29:40.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "又足袋",
+      "team": "",
+      "emoji": "🐇",
+      "score": "28.58",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[西浄土] ポスポピペロペロ",
+      "team": "西浄土",
+      "emoji": "💚",
+      "score": "18.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] みんなで大矢さん",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤫",
+      "score": "6.57",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] ゆめちゃん",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "西浄土",
+      "score": "18.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "6.57",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kQsOwzAIQ8Es3P/IE3+yVkOVmuRh4zZEVpzlG0JX7OnwxxvoeAEHSLS1RbFoWgdK9daqGzcGznk6FwYwNNqYDVawH8rCLvAWmrE5gblH0RtdGICkXlVNxksNiIh7qdcF6UFpjCXKtCF174o1NGGMDpzQ5t5USOyJGqbahwXlP21b++TW1GLTOpv3pjrHsVqJve/mHSoWN5zIRM9M0s7vtFK90xr8l9rPr9ueAHVjm07wTV/WXzSYCIU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83075",
+      "4": "#8B4513",
+      "5": "#9ca3af",
+      "6": "#60d411"
+    },
+    "sz": 30
+  }
+}
