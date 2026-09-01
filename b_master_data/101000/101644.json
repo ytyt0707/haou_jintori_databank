@@ -1,0 +1,48 @@
+{
+  "round_id": 101644,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-01T17:50:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵Fa] あいう🥺",
+      "team": "🇯🇵Fa",
+      "emoji": "🥺",
+      "score": "10.81",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しnM",
+      "team": "🇯🇵ONJ",
+      "emoji": "🌏",
+      "score": "0.15",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵Fa",
+      "score": "10.81",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.15",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtUcsOwCAI6zr//5uXFkg0Y7ss3sYB0ZbyEJCRpJ0C+ml1FCeoK1A3gW0mMGTFm08LGm1w9THOJxRM3VabmeZjrhjxB/RVmTFqM4zqsnLvDXl12VWD9l9SxH0otOXfgGPvEi7acwHn",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#bcd411"
+    },
+    "sz": 30
+  }
+}
