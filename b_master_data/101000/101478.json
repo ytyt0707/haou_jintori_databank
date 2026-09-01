@@ -1,0 +1,48 @@
+{
+  "round_id": 101478,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-01T08:52:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇷🇺陣取り] ある日の名無し",
+      "team": "🇷🇺陣取り",
+      "emoji": "🐶",
+      "score": "18.92",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳赤軍] Marx",
+      "team": "🇻🇳赤軍",
+      "emoji": "⚒️",
+      "score": "15.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇷🇺陣取り",
+      "score": "18.92",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳赤軍",
+      "score": "15.10",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkQEOwCAIA2H4/zcvIlVBNC4jMahnC2wiIciCawQm0qCyhDIx60q1pmppcf5DZRYvzkc6KwnzknkMWAdDoEApuJmyWLWSU31Zakwat1XoMbXqz8O8p9XkiqaVTZn1RbANEJ/kIB0tBS0mHtq0qz7RRj46g6HLcHeX/XBF++u48X8o0m/nF+6WBmQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#85d411",
+      "4": "#30e8a3"
+    },
+    "sz": 30
+  }
+}
