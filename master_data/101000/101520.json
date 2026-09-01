@@ -1,0 +1,89 @@
+{
+  "round_id": 101520,
+  "game_mode": "TEAM",
+  "player_count": 9,
+  "played_at": "2026-09-01T20:08:33.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] くそ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "30.79",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[西浄土] ポスポピペロペロ",
+      "team": "西浄土",
+      "emoji": "💚",
+      "score": "26.30",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] あむね",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐱",
+      "score": "3.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "アイス",
+      "team": "",
+      "emoji": "🦊",
+      "score": "1.52",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] スマホぬきち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.15",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] 名無しUP",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.14",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "31.08",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "西浄土",
+      "score": "26.30",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "3.08",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtktEWwyAIQ5kcYP//xTsJoNjVh1W8JKR2Ir3cXUR8rkJexw+cdPZfe+LrZBagqNvafY5+0jvXpI9M+RK7/T/DChGtIKDaBd8+Ym1MSnvYoVoRImKWuenNn6JroRH0oExCMSnwG8VciFWf1EUiMNg012nIHGGmtuEwYJD4mkYp+Wg5c0B7raZ8hoXqZ3Dc1+64XNG0CTZJRw+V/NzAZerHnGpPE54OrY6x5axtwbnnzqeqzHGx2I65ZywBy858M+UgzH9xVk1jWLdMUsHSM2V+Qfx3uLqzGkV+IxAKPw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "5": "#30e8a3",
+      "6": "#59e830",
+      "7": "#9ca3af",
+      "8": "#8B4513"
+    },
+    "sz": 30
+  }
+}

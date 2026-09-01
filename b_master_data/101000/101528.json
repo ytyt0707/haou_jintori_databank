@@ -1,0 +1,72 @@
+{
+  "round_id": 101528,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-09-01T11:34:31.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 🏁🏁🏁🏁",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "50.67",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] くそ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "37.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇨🇳呉] 陸遜",
+      "team": "🇨🇳呉",
+      "emoji": "😃",
+      "score": "3.49",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[西浄土] ポスポピペロペロ",
+      "team": "西浄土",
+      "emoji": "💚",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "87.75",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳呉",
+      "score": "3.49",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "西浄土",
+      "score": "0.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNk0EWxCAIQ1MDc/8jd0AQbH2zHleUnwDyLABA6lBYJ9KWmOFGp40iRk3wou5zQdWcUTWMwpvqQKvAE/aBSemX6VKSIJ1+en7Gs/wPr9nfNsvEZP9Fc13nqQ6UY93uQGXRhNs2RuIzrRXHttpUY/jLMaPLHnseud58gIRcq0sEWqPjDTUxmbREqoGtL8jLzqrvNL7MC6BRqmpK7S8CoCBVrVCDwQArN1XwwM3fxA10DQut",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8B4513",
+      "5": "#e83042",
+      "6": "#e830a9"
+    },
+    "sz": 30
+  }
+}
