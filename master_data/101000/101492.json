@@ -1,0 +1,41 @@
+{
+  "round_id": 101492,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-01T18:37:46.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳赤軍] 🏁🏁🏁🏁",
+      "team": "🇻🇳赤軍",
+      "emoji": "🏁",
+      "score": "94.78",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳赤軍] Marx",
+      "team": "🇻🇳赤軍",
+      "emoji": "⚒️",
+      "score": "0.29",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳赤軍",
+      "score": "95.08",
+      "kills": 16
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYGBhYWBgYGFhYWABMVlGAmCmxJP4gghiMK5wZGZhYQTZDAlvXG4gJItLH9hgPJJDWApfkA8Sb+F3In5ZANtNDas=",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#30e8c6",
+      "4": "#30e8c6"
+    },
+    "sz": 30
+  }
+}
