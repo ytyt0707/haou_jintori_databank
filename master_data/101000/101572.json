@@ -1,0 +1,57 @@
+{
+  "round_id": 101572,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-01T22:57:09.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇵🇭夕張] 山上徹也",
+      "team": "🇵🇭夕張",
+      "emoji": "😈",
+      "score": "18.98",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "横浜優勝大公国",
+      "team": "",
+      "emoji": "😍",
+      "score": "4.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無し5B",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "1.59",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇵🇭夕張",
+      "score": "18.98",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.59",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkVsSxCAIBAfU+195awR5JFZqzY+h0zAaAFB8rTudrugFz+lUdb34DIpPqlw9F9Uzd8kDolBVka4C5KcmV1yo6rT2y4plsIio6nKwcaH2ucMFS5GDNz7UQpRYGGMMp8K1U1vLzYIChHFGelz+aaMsX7C7Tprtk4HjJeXQwNU1wEh8HipzbStCV3V4z+j7nLsnll9W5XDj6IXaDcUt9VQh5CbVrOXuT5pC35nea/72A1XBA2s=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#bcd411",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
