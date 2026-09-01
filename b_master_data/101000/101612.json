@@ -1,0 +1,72 @@
+{
+  "round_id": 101612,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-09-01T16:06:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ちん痒] 大きなイチモツ",
+      "team": "ちん痒",
+      "emoji": "🔞",
+      "score": "37.85",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "26.92",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] チェンウェイン",
+      "team": "猛虎軍",
+      "emoji": "🐲",
+      "score": "11.03",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵代打軍] 名無しM8",
+      "team": "🇯🇵代打軍",
+      "emoji": "😇",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "37.95",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ちん痒",
+      "score": "37.85",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵代打軍",
+      "score": "0.09",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kYESwyAIQ3ED/v+Td0nAqnXetbY8E6JGRIS7u9WD7xpmxbqwz1Bsw9bK+o1VZsCrIduyAMZmisIsdEa4EEWWMZOq70MBB/HT96TAJ4U91g3lmNtBbR+MX3wn+LtTWv+l7XLXvmiieVdrxtEoU2a6dz9Rnps7SOJltdcX1Zq+AeLSTnGyoLOqG3HK4JzJUmXSfS1UB9CU2BWJStk1rh21rbT2EWaIVN8ScMvEhCZhtt2cN3piwdYetOCVkn3xvvRtYdP67+AP/gEX1w0L",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30d7e8",
+      "4": "#d4b611",
+      "5": "#30e85e",
+      "6": "#d4b611"
+    },
+    "sz": 30
+  }
+}
