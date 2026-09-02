@@ -1,0 +1,42 @@
+{
+  "round_id": 101800,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-02T02:16:34.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "みんなで大矢さん",
+      "team": "",
+      "emoji": "🤫",
+      "score": "1.84",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猟友会] たぬき殺しのマサ",
+      "team": "猟友会",
+      "emoji": "👹",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猟友会",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdkdsSgCAIRFfq/7+54bKmKE7PUTMih91IIR6IlVt4sDrhYACrPRGRF2om9va+TNm+6MxFqYiKZ9PYGbUBAdyphYMXUsqSis4CffZB5z2NXy2gH1QJz+LzzJ+syy+rt8JLY+0a6QbbNbnWaGtt9EgXuMD5pB2zxnX0+1v+ALsQAYc=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e881",
+      "4": "#aad411"
+    },
+    "sz": 30
+  }
+}
