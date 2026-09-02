@@ -1,0 +1,57 @@
+{
+  "round_id": 101938,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-02T09:44:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "34.64",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇫🇷パン軍] アンパンマン",
+      "team": "🇫🇷パン軍",
+      "emoji": "😀",
+      "score": "11.58",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷パン軍] なきなき　；＠；",
+      "team": "🇫🇷パン軍",
+      "emoji": "🐣",
+      "score": "3.31",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "34.64",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷パン軍",
+      "score": "14.88",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kUEWxCAIQ4OG+195HiIotnY3bGr5SaAWJAH0WRjVokhSg/X+QhecFJt3s3ZVcwdsNVjVsQlMU6b2RT2B5Da24NYAW3pTZLRv/0kdpltVCXEfIrikiyROb06QOyUpInbzow6vveKa7H8srPNzt4Qkdtj6frxRVwYdm317z+iw+nN4l6TC1XfZv+iRW27jwZK+EGvN2/ikF+jeG8QPHxAHGw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e85e",
+      "4": "#30a3e8",
+      "5": "#30e85e"
+    },
+    "sz": 30
+  }
+}
