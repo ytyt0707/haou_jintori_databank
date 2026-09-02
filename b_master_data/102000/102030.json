@@ -1,0 +1,47 @@
+{
+  "round_id": 102030,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-02T14:42:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 名無し54",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "77.68",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "77.68",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kFEOgDAIQ9ul9z+zYRsTMMEf7RIDey2oY2wxCK7FMALTETZFQwHamTpBSZa1JSRAkWKlEwOQtKmVJs8uaDcxjIEdXe7y9C/zYYxZOfVQgos6srUJ368TLKf0feciFS2d/yDZY/NCo1Uqe0pb+IOmWT1N1q+an1f243+jwAUNQQuj",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}
