@@ -1,0 +1,57 @@
+{
+  "round_id": 102048,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-03T00:40:45.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[晋三] 山上徹也",
+      "team": "晋三",
+      "emoji": "🐱",
+      "score": "65.33",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] あいう🥺",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "6.89",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[晋三] トンイル教会",
+      "team": "晋三",
+      "emoji": "🥰",
+      "score": "0.16",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "晋三",
+      "score": "65.49",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "6.89",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtz0EOw0AIA0BDnf9/udqqFKtmVzmEWzKxIZk6AKjP9MmrJh3Jwis5OIrXGou/RA2JYgzN6GbvpejQix5adRsAv1l4+CPV4+IjAsZS/LBSq20vKT5p+6wV3+iXb2nE/2fr9Hp31IgIWryji7fzCW+Vx+zS34nVgTc0EgrU",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#604de5",
+      "4": "#30e8b4",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

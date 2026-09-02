@@ -1,0 +1,51 @@
+{
+  "round_id": 102050,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-03T00:47:14.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[晋三] トンイル教会",
+      "team": "晋三",
+      "emoji": "🥰",
+      "score": "78.91",
+      "kills": 18
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[晋三] 山上徹也",
+      "team": "晋三",
+      "emoji": "😂",
+      "score": "15.89",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[晋三] あいう🥺",
+      "team": "晋三",
+      "emoji": "🥺",
+      "score": "0.13",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "晋三",
+      "score": "94.93",
+      "kills": 21
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kgsOgDAIQ9Ha+1/ZMBgw5ycmSjS2PBlEIUkClBrQEGmIAAhpKU1CtV5KtRR6DyFCgdGJ2blOh6pi2rHFP8s+X7550lnhRdrrLuhi+H6sqF1ziFRBM1XUr3QrjQ7yRd/pC9/XHhp9bqdxvMPpVLaqvq4xivlk9ffWbNdRCPryd9KeHQ/JMEbDDmIH1PALcQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30a3e8",
+      "4": "#30a3e8",
+      "5": "#30a3e8"
+    },
+    "sz": 30
+  }
+}
