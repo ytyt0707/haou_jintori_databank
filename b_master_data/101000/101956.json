@@ -1,0 +1,63 @@
+{
+  "round_id": 101956,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-02T10:42:29.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[草民] 全員ぶち殺す",
+      "team": "草民",
+      "emoji": "👻",
+      "score": "65.85",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "16.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.21",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "草民",
+      "score": "65.85",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "16.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くん民",
+      "score": "0.21",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1ktsWhSAIRMHg/3+5NVyS0GNPhwdrtZsZRYiU1IpRwiwoiiqISUSGYI1KoZpSZIwkeAaFA4zHifIbNm2JtIDp7HuuqTUX9KQlP+uU03RWNGASvJGKt0MN/qTeuq51aXT2DdPZQpbYoC7p1HapqkY7tFsMJvXi8m8c132XFcZH+EUXx/hg3dmmXjl3ewqM9m1ppv2TnoI/cvusPKNl3bgBR9UMTA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#aad411",
+      "4": "#47e830",
+      "5": "#e87530"
+    },
+    "sz": 30
+  }
+}

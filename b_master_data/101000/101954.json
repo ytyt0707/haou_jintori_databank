@@ -1,0 +1,95 @@
+{
+  "round_id": 101954,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-09-02T10:36:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[魏] 名無しlc",
+      "team": "魏",
+      "emoji": "🐱",
+      "score": "54.46",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "19.36",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "5.61",
+      "kills": 11
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[魏] 鍾会",
+      "team": "魏",
+      "emoji": "😐",
+      "score": "5.28",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[草民] 全員ぶち殺す",
+      "team": "草民",
+      "emoji": "👻",
+      "score": "4.04",
+      "kills": 3
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[魏] 曹操",
+      "team": "魏",
+      "emoji": "🐷",
+      "score": "0.09",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "魏",
+      "score": "59.82",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "19.36",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くん民",
+      "score": "5.61",
+      "kills": 11
+    },
+    {
+      "rank_position": 4,
+      "team_name": "草民",
+      "score": "4.04",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtk1EShDAIQ3FlCPc/8U5SCnVdvmpfE0JVu1l2FqYE+8Tsc3XBCkv8hLiuRcl+0GjN7nhDYJybfnq1aDJ07z1pZkYcxm/aQgCfA1tmJlDGNBnqTphMR3mw2seHAs6KCB9s9xaLnlIZktKulGMMuCHT2Ff40baoUlGqXN2V1ID0iiT8pIFQWgWG2u7U1HKIVbu9evDBDL7hkuhg2dsehZutLehWc+rQfwpdbmtLqXm343bbgXk/80ms99TtefhBmb9LVqfWrJmv991d+EUPrO2mvJg3rb9AP4q77yNrAvsCvm0TPw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#4d64e5",
+      "6": "#59e830",
+      "7": "#59e830",
+      "8": "#e83075"
+    },
+    "sz": 30
+  }
+}
