@@ -1,0 +1,48 @@
+{
+  "round_id": 101792,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-02T10:50:38.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬきたち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "91.88",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] BAT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦇",
+      "score": "0.69",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "91.88",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.69",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkDsSwEAIQoN4/zNncFtktkkXS598RgIgu4puAKCq2Q6SQ72SoiW1/N20zDUOzk4sUQYqg6RWvSX4Odr9YHJT8SQd8y16GkW4dL5bf+d8l/9f2Q+8aX8KJA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
