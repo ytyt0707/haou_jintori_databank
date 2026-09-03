@@ -1,0 +1,48 @@
+{
+  "round_id": 102420,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-03T11:46:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇲🇽ハッピ] あいう🥺",
+      "team": "🇲🇽ハッピ",
+      "emoji": "🥺",
+      "score": "43.21",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[魏] 曹操",
+      "team": "魏",
+      "emoji": "😍",
+      "score": "4.76",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇲🇽ハッピ",
+      "score": "43.21",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "魏",
+      "score": "4.76",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGV0dsSxCAIA9BA9v+/ecegVpDOzvrQi6dBrGbNwBrVeA4khdmJzGpAq7HQm1pwSlKVo7r4RRHhqpjzdUl9p3r9oiQj2paVArAfKi4tlWz5UVNnYfQ693Qjzx3lExhdDNWVTXSr3w1HlqTRF6fDiMrk5j9Vva7Muj9npJlxIf2zh8eOHgT94KIKH75j8aDeH7501N5cNF4dGK21lia/pRUF5A==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#47e830",
+      "4": "#e830ba"
+    },
+    "sz": 30
+  }
+}
