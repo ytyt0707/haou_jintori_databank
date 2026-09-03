@@ -1,0 +1,33 @@
+{
+  "round_id": 102330,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-09-03T15:54:58.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[RED] 名無しH1",
+      "team": "RED",
+      "emoji": "😂",
+      "score": "96.20",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "RED",
+      "score": "96.20",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZh4IwECppRQbQIoD0C1D55Ni1mBRy8SExyUMeGWZiZDFHUQge3HJ4jcY08G4zMFUiVuEEbcUETLUcAEzAFcwCmU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ef4444"
+    },
+    "sz": 30
+  }
+}
