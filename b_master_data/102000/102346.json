@@ -1,0 +1,48 @@
+{
+  "round_id": 102346,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-03T07:46:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[い] 山上徹也",
+      "team": "い",
+      "emoji": "🦄",
+      "score": "81.64",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[あ] ある日の名無し",
+      "team": "あ",
+      "emoji": "😎",
+      "score": "4.18",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "い",
+      "score": "81.64",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "あ",
+      "score": "4.18",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdkkESwCAIA7Hk/2/uIIQZRW17rReFNUFRYB6teUZEpLKAM/C4UQvgpF0409Cq1roAeuEtdXloNQY9Y6bzMxXVUZt1l9o31NqhMPnGeUwz4pkZl3nZq9x1pvWNUmiL8oJ/o+MFz736RK/slH+NjZjwBgeoDCs=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#994de5",
+      "4": "#e830dd"
+    },
+    "sz": 30
+  }
+}
