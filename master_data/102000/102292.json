@@ -1,0 +1,56 @@
+{
+  "round_id": 102292,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-03T13:51:50.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 天カスは敗北者",
+      "team": "猛虎軍",
+      "emoji": "🤣",
+      "score": "92.29",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猟友会] たぬき殺しのマサ",
+      "team": "猟友会",
+      "emoji": "👹",
+      "score": "2.82",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[猛虎軍] あいう🥺",
+      "team": "猛虎軍",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "92.29",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猟友会",
+      "score": "2.82",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9j1EKwCAMQ91C7n/lUSHrRzUijvlT6UvaFNh7l5UvqMd2soG3YQBGmNXSauvDzmDh0fSTtAsv36xTYZcUKl9UFqpzwzunCLPxkhlPE1U7Ugg1s7K5van7//cAhFMKlw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#73d411",
+      "5": "#30e83c"
+    },
+    "sz": 30
+  }
+}
