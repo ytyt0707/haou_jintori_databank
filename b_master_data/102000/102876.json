@@ -1,0 +1,63 @@
+{
+  "round_id": 102876,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-04T12:25:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 弱き声",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "23.45",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無し0g",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "7.20",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[反社] 痩せる薬売てます",
+      "team": "反社",
+      "emoji": "💀",
+      "score": "0.12",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "23.45",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "7.20",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "反社",
+      "score": "0.12",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkksSxCAIBR8O3P/KKT4STKBmEVeSphExIrYIx+KIRISUE1FmMHNgIqdFVRhYJXWfNGKHA/WmJnegd8+ekAevxcxrWbxdr/0D0FFkX6qyqzhdK7eycEeLa6OwAtnWPSrEMMq0CnxTg+WNorGsXDb+QppQPub2fW4ioLtRwf8qx42LASCaln3wSSOijUeqegvh/+pM/a+c3GlOmu9D7s1v9AIqvwWO",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83064",
+      "4": "#9ca3af",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}
