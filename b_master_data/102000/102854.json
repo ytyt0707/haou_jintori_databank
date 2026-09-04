@@ -1,0 +1,57 @@
+{
+  "round_id": 102854,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-04T11:14:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳赤軍] Marx",
+      "team": "🇻🇳赤軍",
+      "emoji": "⚒️",
+      "score": "31.12",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "26.63",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] モネ",
+      "team": "くん民",
+      "emoji": "🏊",
+      "score": "22.53",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "49.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳赤軍",
+      "score": "31.12",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk1ESwyAIREHg/lfuwALBVDvlwxCeyzKakCH0EEQ/YdKDUJVLe6LEhZtKRLzyjYpwxO4LpYhwZOlLhtZrrRV1UAFOW0lKwik2S52qSmG39R7h+5rYfR9ti3uoSjZtFfs5aRc7+YOmsUu0dZ6EdtANJgXeyaP1E7FsSvTsQuf8eAhxoHERV4rjDnzQ5m3QtK2Zw1jVzK4Us031nLlpu39RjF1rCMaequOJdr3ukOpvSP6iHzRUC3w=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#30e881",
+      "5": "#6e4de5"
+    },
+    "sz": 30
+  }
+}
