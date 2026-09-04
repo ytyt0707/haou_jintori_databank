@@ -1,0 +1,57 @@
+{
+  "round_id": 102822,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-04T18:30:45.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "47.30",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤓",
+      "score": "35.75",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "BOT",
+      "team": "",
+      "emoji": "🤖",
+      "score": "1.72",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "47.30",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵陽キャ",
+      "score": "35.75",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk1sWxCAIQzOo+9/yDBTEIKfDR9VeE/AlEAHF0PA/IiLLA8tIfpDMpiSx3iFVXGgVM0cRF7p2UU1ieL1PA84Losx01aQtmOkozuPUFqVu6OF8UXLeNBL0NKcdziHZkPI2VMv6mIGeeMqsB838QnfiVht0alTn+UpzszBxaYNiratkOsKGRlptn+XmJNpnv7B5bxuqJr6wf5RemA1C/Bt8AcF7C7M=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8e8",
+      "4": "#e83053",
+      "5": "#6e4de5"
+    },
+    "sz": 30
+  }
+}

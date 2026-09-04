@@ -1,0 +1,48 @@
+{
+  "round_id": 102748,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-04T05:30:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵多幸民] 🥳",
+      "team": "🇯🇵多幸民",
+      "emoji": "😎",
+      "score": "33.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[山本組] 山中弘",
+      "team": "山本組",
+      "emoji": "💀",
+      "score": "5.93",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵多幸民",
+      "score": "33.28",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "山本組",
+      "score": "5.93",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkoEOxCAIQ6ny/998aUVheu5yS5Zg3lpwFADQyhMHwMyM8MHRxGHm7kGlR6OijRqYlA5tvKIifdJlAEC93N177+kcX3ASMtFeZazNnOPc6YB03rW6x10bwtF21y4o440m/EIL/JdW6aF9QA09N8jf9Eo3yGPRnnRl4zSmtGhrX60pcxWLLO7aZu6XQbjT7VI81r6HNukIWDpnx6x+0YjckVU5eIyddi/VB9IuB3I=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#a74de5",
+      "4": "#30e8c6"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "round_id": 102780,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-09-04T16:14:30.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[草民] kusaねこ",
+      "team": "草民",
+      "emoji": "🕊️",
+      "score": "38.44",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[草民] お前ら殺す",
+      "team": "草民",
+      "emoji": "🤩",
+      "score": "0.26",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳赤軍] Marx",
+      "team": "🇻🇳赤軍",
+      "emoji": "⚒️",
+      "score": "0.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "草民",
+      "score": "38.70",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳赤軍",
+      "score": "0.14",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くん民",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kkESQyEIQ+Gn7f2P3EGJZMDWjeIjEEbNxnpqDWaPW2J7BnUnDeTKAbg71hIYOfuyUEipVQZkwYQA3spJnRWFHit+XKT0c8ruvlpxnY80XP2lOZ7kqHZSzrMaz9pHHJ5nZ/oeEwGvMt7HRdJdnC8iluOYnS/agnbX0rS7XTwXjRduXdnWYqKOqYxvtaiqCwZlxL/FuPZlrsJ22uXbZQtPk3b/K9z5Yk4TvxfCBK0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30c6e8",
+      "4": "#85d411",
+      "5": "#30c6e8",
+      "6": "#7c4de5"
+    },
+    "sz": 30
+  }
+}

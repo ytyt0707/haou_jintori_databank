@@ -1,0 +1,48 @@
+{
+  "round_id": 102636,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-03T23:27:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵多幸民] 🥳",
+      "team": "🇯🇵多幸民",
+      "emoji": "🤠",
+      "score": "82.36",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] カツカレー",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤩",
+      "score": "0.49",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵多幸民",
+      "score": "82.36",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.49",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNk+EKwCAIhNXr/Z95mDLUmf2dMND70q5YIjsoBXuQwYUczEz6WWdmgPXCaIUAWLUjtQad3LS6JCLVUli8XQEUpJDq4PPoZtsw5+Zqza5mGjzW1E9UZa+vtOvzU023DNDg+Eq7XV8tXKr+DK9uSa0z/iWl0VV6XN/iAVC4CVc=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6ae830",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

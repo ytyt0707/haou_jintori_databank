@@ -1,0 +1,48 @@
+{
+  "round_id": 102712,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-04T03:33:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ルナ] 月面パコキ",
+      "team": "ルナ",
+      "emoji": "👽",
+      "score": "20.78",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳赤軍] Marx",
+      "team": "🇻🇳赤軍",
+      "emoji": "⚒️",
+      "score": "0.44",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ルナ",
+      "score": "20.78",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳赤軍",
+      "score": "0.44",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNUlsSAyEIC+r9z9zhEQF12vojS8hDV5FcEEFfiWmFMUbDCcN5DxQBAQGmQDcbviivbrpmNBQFuWYLQIhiQ9q1qMqd0wdqLo8cKAfoalyzVW6wN0hlQ240yM684PB12beyWGKfSNM4USY+yXHcb75+FzFRpeOaN/eKXW0fyZrwGezkVmOrq+0vcv5qylQ2e23fA61bP54n4sDK18fW3tdau2bR3zO7/+wf9zcC3g==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8d7",
+      "4": "#8b4de5"
+    },
+    "sz": 30
+  }
+}

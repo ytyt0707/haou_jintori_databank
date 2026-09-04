@@ -1,0 +1,57 @@
+{
+  "round_id": 102740,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-04T05:04:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ルナ] 月面パコキ",
+      "team": "ルナ",
+      "emoji": "🐛",
+      "score": "27.01",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵陽キャ] NOPE",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🦊",
+      "score": "22.79",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵陽キャ] 千歳朔",
+      "team": "🇯🇵陽キャ",
+      "emoji": "🤓",
+      "score": "8.81",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵陽キャ",
+      "score": "31.60",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ルナ",
+      "score": "27.01",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklEOxCAIREHh/lfezIBWbDXLR1N4DCAqIu5uZuZmAkcW892YwzR3CKtZYkQ/KToQvCgmOFJC60O7iqEKvNEI5rfH0eZYaEXUw6THQYrILGm/09zBQau3yu6qSMgjjGmjL6Gqa62cQ3lqv2jDwKxcKaStNV6BwkrllUKtxpUvQ0HK5YPGM5lUhBT4oZJrbrBx91M7KkyatSM+6ONhk9k2g+M5wuWen+Tt7w9aXv4qh3b16z8rH/m9r1D3Ax04CTM=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83042",
+      "4": "#e83042",
+      "5": "#4d64e5"
+    },
+    "sz": 30
+  }
+}

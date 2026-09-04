@@ -1,0 +1,66 @@
+{
+  "round_id": 102516,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-09-04T01:58:16.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] 天カスは敗北者",
+      "team": "猛虎軍",
+      "emoji": "🤣",
+      "score": "46.78",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "30.68",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵東城会] 堂島大吾",
+      "team": "🇯🇵東城会",
+      "emoji": "😃",
+      "score": "4.41",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵東城会] 名無しUh",
+      "team": "🇯🇵東城会",
+      "emoji": "💩",
+      "score": "1.76",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "77.46",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵東城会",
+      "score": "6.16",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFk1GSwCAIQ6lo7n/knSRg6czOrh9t5ZmASiMyM4NP8Asa0YMhDWCtgkDRZplYa1nJZ2jBFWJhwPJvVypJr7cMKiWTrtVFdQJVrInprdrW1PZScE/vBHi1iv5Lp9iHdN1ujY58nL27ISaNLiXznHO+9EKQ7kGVtq6Id3TO3lOrxE4IGu89dzVognC7CjtMujUct0NRv0yF7aAw1DZAEk/tvVAutvXnxCNqalqnyrx5+0tLqOU1qjsTz8PmY5PZgdCIRyAqr8L8rssgHtHK+DeVlBt9Xmc1uNTDuKtq15k18Qv1ofpH+gEOjw6S",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#30e8a3",
+      "5": "#30e8a3",
+      "6": "#ced411"
+    },
+    "sz": 30
+  }
+}
