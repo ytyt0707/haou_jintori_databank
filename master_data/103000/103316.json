@@ -1,0 +1,96 @@
+{
+  "round_id": 103316,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-09-05T21:12:39.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[名無し] 匿名希望",
+      "team": "名無し",
+      "emoji": "🤔",
+      "score": "29.30",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[突矛軍] 名無しpD",
+      "team": "突矛軍",
+      "emoji": "👺",
+      "score": "17.61",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "エロい戦士",
+      "team": "",
+      "emoji": "♟️",
+      "score": "14.34",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] 天カスは敗北者",
+      "team": "猛虎軍",
+      "emoji": "🤣",
+      "score": "0.73",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] 1号",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] 名無しxj",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.63",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "名無し",
+      "score": "29.30",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "突矛軍",
+      "score": "17.61",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "1.35",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "team_name": "猛虎軍",
+      "score": "0.73",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF10tEWhCAIBNBpA+z/v3gPKGBCPJR1HdRORETQ+nnZ07rQquRGQRFudHaw5p9KyqEM+Lrrnshc1YPP0+k8HWDKfHRuNZe31uzVZJ2YM7SmIa0qsPOZfeOp9IpW3bh8ST1v7MtVRHzPRcUqeM9OyrCIOAMUKmLjbWFgQxvqd/Ysc6dgn9JqNHDFrTWG/xxgRnaG8nUFzsGWHde3AuM+knEifV+j67wzdK4K/AEH6wsQ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#994de5",
+      "5": "#e830a9",
+      "6": "#e87530",
+      "7": "#8B4513",
+      "8": "#ced411"
+    },
+    "sz": 30
+  }
+}
