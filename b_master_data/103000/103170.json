@@ -1,0 +1,41 @@
+{
+  "round_id": 103170,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-05T04:19:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[山本組] ニャル子",
+      "team": "山本組",
+      "emoji": "🏁",
+      "score": "91.61",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[山本組] 山本佑大",
+      "team": "山本組",
+      "emoji": "😶",
+      "score": "0.62",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "山本組",
+      "score": "92.22",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkkEOwCAIBDfi/9/cIG0hEDZeaj0YYWAFgkg8UAPrju6j7y9/59qcyqBjYHQwSFV/hFiL0M8EviezlgnFltxQV84BmhvUi/irXEhxZOkSsOnwYlNCC1KcmXdnT3vWJS77Ugnx",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#e830a9"
+    },
+    "sz": 30
+  }
+}

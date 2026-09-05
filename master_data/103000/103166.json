@@ -1,0 +1,72 @@
+{
+  "round_id": 103166,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-09-05T13:06:11.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "66.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[山本組] ニャル子",
+      "team": "山本組",
+      "emoji": "🏁",
+      "score": "2.14",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[山本組] 山本健二",
+      "team": "山本組",
+      "emoji": "😡",
+      "score": "0.79",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[くん民] 🥃",
+      "team": "くん民",
+      "emoji": "😂",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "66.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "山本組",
+      "score": "2.94",
+      "kills": 10
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くん民",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1k90WwyAIg6HI3v+Rd5KAurY76824qD8fiYrWIyK8wxjHDAed+J6Sm7uoHUcE9ZS2OoqakYY1hbkcMg0UYVgX8/y6m/uJlkoZHzRk13r4G8Q05rrUasiVfVKdFEjpLEvmyGQ6h9O4tEJ9ThVS5o597etUlScN0SGnXcqUG227rTZLzK2v6eoNtu6q8gX3hErdo1OrN7BPviICzpRdMWhWrXbZ1v9FcYl/imfO630+28a8q2/peIDzH2BnZb4BpE8Ifg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e88730",
+      "4": "#e230e8",
+      "5": "#e230e8",
+      "6": "#e83075"
+    },
+    "sz": 30
+  }
+}
