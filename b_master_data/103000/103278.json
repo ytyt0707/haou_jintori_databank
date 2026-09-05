@@ -1,0 +1,57 @@
+{
+  "round_id": 103278,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-05T10:09:22.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[勃牙利] カリマン一世",
+      "team": "勃牙利",
+      "emoji": "🧐",
+      "score": "68.02",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[勃牙利] 名無しjU",
+      "team": "勃牙利",
+      "emoji": "😫",
+      "score": "18.34",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "1.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "勃牙利",
+      "score": "86.37",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "けんた",
+      "score": "1.13",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdk1kOwzAIRInx3P/K1bBMbCdVpfIRGR67iJlbiIfgolgqZnyQFiS1KxXak5aOkFKWqLDs8KTuADpySyqjMPvdnOXCQLYr15XU+18KBzjvnPMlK6d70B4JcMSutliGMJOor4kFEft/mUgLta5z9JXmb6vK8r+2caR09yFTH4UMpMLs6tGYcNF0yD2MoSF3WvmfNN3W8nE5WTiKK6ad7szgqRxy0wOEyqtLeaUNUf/F5qRQHkL/NvGMzwfyUQqi",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#60d411",
+      "4": "#30e881",
+      "5": "#60d411"
+    },
+    "sz": 30
+  }
+}
