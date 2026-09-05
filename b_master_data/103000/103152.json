@@ -1,0 +1,57 @@
+{
+  "round_id": 103152,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-05T03:20:46.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[魏] ニャル子",
+      "team": "魏",
+      "emoji": "🏁",
+      "score": "30.51",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "player_name": "きたよ",
+      "team": "",
+      "emoji": "👻",
+      "score": "0.12",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] もちくさ猫列島",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐱",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "魏",
+      "score": "30.51",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkkESwzAIA8Gk//9yR4AwOM2l8QWGNRI4EeFRHlGRtRbrEQlVFdDEOif1GmieK6IKLiA3s0MY1WAiy6ozBYJ6qyx0HxdK2ewHTW20+WmiTIlKuBsAqh6mn9YK1huIfNGU3rWd3Vylv+dJp0XRlLvT/hJzvph116C1rXOTWiiduMwe37OaI0T+p+VHiaH8hlKw4lCuKpMnGr/fE43uQecnwYWJaZjxC2TKA5o=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#85d411",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
