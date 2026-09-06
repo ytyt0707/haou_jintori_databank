@@ -1,0 +1,48 @@
+{
+  "round_id": 103536,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-06T09:06:01.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] ニャル子",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏁",
+      "score": "53.32",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇨🇳中華] 付け焼き刃",
+      "team": "🇨🇳中華",
+      "emoji": "🤠",
+      "score": "2.22",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "53.32",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇨🇳中華",
+      "score": "2.22",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kVEOwCAIQ7H2/mdekEEwqPswGT+bPlpqEPm/2mYkSWkHqHTFe+807YGSbKy8a6l6VAl2Q0XEfcniPNM0HbDepI1fOMzOTgGA8FP5KsEOq5R78YqmCGPWztqCfFHjw9NbY4CFKw96L+Y3hWjZXugkvqB51WOyLjEizMtnLPG9fwACNAgC",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#bcd411",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
