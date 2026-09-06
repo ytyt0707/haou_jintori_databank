@@ -1,0 +1,57 @@
+{
+  "round_id": 103654,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-06T06:28:44.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[突矛軍] (･3･)",
+      "team": "突矛軍",
+      "emoji": "📯",
+      "score": "42.32",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ぽひぐ] 1号",
+      "team": "ぽひぐ",
+      "emoji": "🐷",
+      "score": "33.41",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ぽひぐ] 送料",
+      "team": "ぽひぐ",
+      "emoji": "🐷",
+      "score": "3.55",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "突矛軍",
+      "score": "42.32",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ぽひぐ",
+      "score": "36.97",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVk8ESxCAIQ0HI///yThAQ2z3seigOj0TEqbjU8lqZgEhkMhRFrU0rHbEQgBeFP+ksGQx18LH+h9qRcXdJIb9TkSkVXNobsnA4v+Gb3uZnEvIQe0yyOF9mdnVf9QFBWsp4ZgxxSMX2POrFe1xf6JjloeZGLRPdV1FzJ0b00VQBuFge7EEbQhUadPeFNZ1ViaNXczOsRVxiUk1qQVMbl1YFvCmwFlpKE1XsP8Hot8p0xzYe8+sKQuwBdi42eW7TrNkhv2xLPlHtDI8=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d73e5",
+      "4": "#4d73e5",
+      "5": "#30e870"
+    },
+    "sz": 30
+  }
+}
