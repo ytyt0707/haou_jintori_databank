@@ -1,0 +1,84 @@
+{
+  "round_id": 104228,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-09-07T13:29:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ルナ] 月面パコキ",
+      "team": "ルナ",
+      "emoji": "😈",
+      "score": "80.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵維新] 山上徹也",
+      "team": "🇯🇵維新",
+      "emoji": "🐷",
+      "score": "3.74",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 野獣",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦁",
+      "score": "2.40",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[うゆ] にゅふふw",
+      "team": "うゆ",
+      "emoji": "💩",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ルナ",
+      "score": "80.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵維新",
+      "score": "3.74",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.40",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "team_name": "うゆ",
+      "score": "0.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "team_name": "🇯🇵かげ",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkUEOwCAIBJGW8P8fN7uKok09eC6XgtNZEnUfJSWVooIJmsAkqtYp/1rocN1puyNcmjy7CCAtqmZpb+yvuCgw996D1K5QNVNbSZuF7oYi+sPF8Z5uxDPU7uxM/q1+AxeqT2jyRDrxRBtMJ5HDx3m7gflFak/evqY84WYVqg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83087",
+      "4": "#6e4de5",
+      "5": "#9ca3af",
+      "7": "#e83030"
+    },
+    "sz": 30
+  }
+}
