@@ -1,0 +1,42 @@
+{
+  "round_id": 104180,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-07T19:54:05.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "うさねこ",
+      "team": "",
+      "emoji": "🐰",
+      "score": "22.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ゴロリ] わくてかさん",
+      "team": "🇯🇵ゴロリ",
+      "emoji": "🤩",
+      "score": "11.19",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ゴロリ",
+      "score": "11.19",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGl0VsOxCAIBdDrlf2vuQFp5VH7MUPamHAEWgVSjIExYG/IywrNr3Dz/K03HzR3TbUiomN3VEVSCBl37DoA1OesJKKmUpDKp/jEX2rnnGtWmTtXwDmpmy1WHDViKLZ/yrZUa0lU8u8yfLHd+Q399IhTW9/Qax1saRqxdU4IvYqwpaOehw8oaLf4HFdF7dxzf2cuz8MEnA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d130e8",
+      "4": "#6ae830"
+    },
+    "sz": 30
+  }
+}
