@@ -1,0 +1,72 @@
+{
+  "round_id": 104630,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-09-08T20:13:05.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "47.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇲🇽ハッピ] (・3・)",
+      "team": "🇲🇽ハッピ",
+      "emoji": "🛸",
+      "score": "22.02",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "うさねこ",
+      "team": "",
+      "emoji": "🐰",
+      "score": "2.34",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.98",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "47.47",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇲🇽ハッピ",
+      "score": "22.02",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くん民",
+      "score": "0.98",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkVsShTAIQ2lrs/8l34EAwlSdy4/oSXgpKCHbQzxuNpiGwJ5JxxjGnykcv1Cv8j+V7BtJ9R60wr3DAkCVkiubrFBNpeNG9UK1tPTGdsC1UtG8VnkxTNG9gDik/42y+EHZWqHsLSK6Rrbnj/Wx+HLQ2MuxeS+eQz91MysXTEH14lJsS7u9Na5UR9aZLdiY3vB/0RnGspHVADDnN43p6q3Ci5nDP1Q2VXROS0vudULXfsgP9j0Oqg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#3081e8",
+      "4": "#e88730",
+      "5": "#30e83c",
+      "6": "#e83042"
+    },
+    "sz": 30
+  }
+}
