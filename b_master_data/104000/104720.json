@@ -1,0 +1,42 @@
+{
+  "round_id": 104720,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-08T16:04:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] ハトホル神",
+      "team": "ラー軍",
+      "emoji": "🐂",
+      "score": "95.43",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] 新型コロナ",
+      "team": "ラー軍",
+      "emoji": "🦠",
+      "score": "0.19",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "95.62",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1j8EOADAEQzfd/3/zThKHlazCCY8WgMQi/Z/2Toef1G0dep0qzcPWGa3l6d/CcSEVXQuFAoumdO1QQoFRAphlFDq9RyEKZQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6ae830",
+      "4": "#6ae830"
+    },
+    "sz": 30
+  }
+}
