@@ -1,0 +1,48 @@
+{
+  "round_id": 105072,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-09T11:06:17.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[山本組] ある日の名無し",
+      "team": "山本組",
+      "emoji": "🐲",
+      "score": "63.81",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 三島由紀夫",
+      "team": "🇯🇵ONJ",
+      "emoji": "👻",
+      "score": "1.35",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "山本組",
+      "score": "63.81",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.35",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFk9sShDAIQ5PC/3/zDrRiWrvrjD5sHrT2EMBegFOtxKGTAQk9njuaeKYmbnLkLm9Ss3zRm1gb0ectRQ9p0aCdmZFwx5GVQJGMQFDFh29QiJdZdwmozCQn1D8Ef6UWXW5oTf2NzmtV/fTBdTU04Ia++t9fbW02Sdq6ocvhEGPu0fO667GzuZJchN3wA2CUB9Y=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
