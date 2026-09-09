@@ -1,0 +1,42 @@
+{
+  "round_id": 105134,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-09T14:27:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[東卍] マイキー",
+      "team": "東卍",
+      "emoji": "😄",
+      "score": "94.44",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[東卍] 新型コロナ",
+      "team": "東卍",
+      "emoji": "🦠",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "東卍",
+      "score": "94.59",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkDEOACAIA4H6/ze7IRFSdHDT6ewRIAD+VNW5ACVewCzQdC6mnUQjFVlKYtBYqo1acBuXCCyBP64L8Lu8s2uDnfjMvfr2PwEPlQpW",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#e85330"
+    },
+    "sz": 30
+  }
+}
