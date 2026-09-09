@@ -1,0 +1,48 @@
+{
+  "round_id": 104900,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-09T10:48:34.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ルナ] 月面パコキ",
+      "team": "ルナ",
+      "emoji": "😈",
+      "score": "14.89",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "11.68",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ルナ",
+      "score": "14.89",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ヴォル",
+      "score": "11.68",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1ktsOwCAIQ4v6/9+8cClRNDFZNl5wHGhxcYwInIKQee1hlfk3ugqDfp4LdIpoqtDKCLrBG8UY+8x3lfZe6jDaNVyxbdhgUO0RQCTtnSYWD+JCYZQQK43RlJ59zVMm25h1KZEiPCtXWRDqzr7PQTh+x+xoXrFy3jfvogfCOz28DQ4vivmhFOh4AIUcA5k=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8d7",
+      "4": "#e830cb"
+    },
+    "sz": 30
+  }
+}
