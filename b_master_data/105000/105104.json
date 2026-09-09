@@ -1,0 +1,62 @@
+{
+  "round_id": 105104,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-09T12:49:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[山本組] 山本健二",
+      "team": "山本組",
+      "emoji": "😡",
+      "score": "53.47",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇲🇽レイプ] 新型コロナ",
+      "team": "🇲🇽レイプ",
+      "emoji": "🦠",
+      "score": "8.68",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇧🇷ハッピ] (´◔3◔`)",
+      "team": "🇧🇷ハッピ",
+      "emoji": "🛸",
+      "score": "0.65",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "山本組",
+      "score": "53.47",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇲🇽レイプ",
+      "score": "8.68",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇧🇷ハッピ",
+      "score": "0.65",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkQsOwyAMQ40M97/yFCcN4dNNQ1UFebFdUrAuAOj20iKAjbJ3a2AjuTCCsMcl7aBWN/NOsrG1aJS9VCqIOkz3SU1qzmqND4vM7Hb647jhvGNGzYZkkbuEFxi568Amh8tnoe4kCuWRvP2DqrN/cAaCYwxvu1CDWldt0lFnnJmP9mUIFacmN9/pk3y3BqQWvE3oTnUHhFY3qlo3e/BqnSxwPe/74c57+Y/zB1BIB1A=",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#aad411",
+      "4": "#a74de5",
+      "5": "#30e870"
+    },
+    "sz": 30
+  }
+}
