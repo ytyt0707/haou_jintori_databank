@@ -1,0 +1,63 @@
+{
+  "round_id": 105600,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-11T00:38:28.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇨🇦たぬき] あいうえお",
+      "team": "🇨🇦たぬき",
+      "emoji": "😈",
+      "score": "39.74",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪猟友会] トフォ",
+      "team": "🇩🇪猟友会",
+      "emoji": "🤡",
+      "score": "0.98",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[怨] 恨",
+      "team": "怨",
+      "emoji": "🤔",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇨🇦たぬき",
+      "score": "39.74",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪猟友会",
+      "score": "0.98",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "怨",
+      "score": "0.11",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtklEOwyAMQ02H73/lyWaEmqqdNC0fiORhN4SSilbhdC4gFAW9ccmL6YI+l3TBuZucaSst2oRgfLPK3lBdDTvlS1R0wVQC1lq9E+WLpil1URLsQJd5ikUIdMWFjlHKu4+uUwtzz3l0vXn79HnOm9xdryf6iZ6Gmfrz639+Cc0hQl1HIZLW2isKmTxq+WScPn/IjuPGxBcW3G9e5++UdeDb5g1U8ghe",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#aad411",
+      "4": "#e83042",
+      "5": "#af30e8"
+    },
+    "sz": 30
+  }
+}
