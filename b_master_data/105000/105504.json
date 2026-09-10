@@ -1,0 +1,41 @@
+{
+  "round_id": 105504,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-10T10:27:04.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[怨] ニャル子",
+      "team": "怨",
+      "emoji": "🏁",
+      "score": "51.39",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[怨] 恨",
+      "team": "怨",
+      "emoji": "🐱",
+      "score": "34.50",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "怨",
+      "score": "85.89",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9k1kSwCAIQ3HC/c/cSQSGuvHhwoMg1pqhm8kwJ44dzrU/Kd70JQxzT76XBbzwgfqF0p8mcVAIcGmQmHMvU7tzS1fmBe6UCmW/3PLG4q98o2OMBc08ljHDaNUUF1RN7zT7Ie59VIl0nmmGXWic5UIjmXQ9dFx2nOpAIxebdI9V63nEdb6UVdi8szUjbhLYq1aoetFQLr6abpLpjt86n/X6P+lD2QeUpQr+",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#47e830",
+      "4": "#47e830"
+    },
+    "sz": 30
+  }
+}
