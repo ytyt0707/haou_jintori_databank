@@ -1,0 +1,63 @@
+{
+  "round_id": 105586,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-10T14:53:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ぱと] カゲロウデイズ",
+      "team": "🇯🇵ぱと",
+      "emoji": "😈",
+      "score": "38.25",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[怨] 恨",
+      "team": "怨",
+      "emoji": "🤔",
+      "score": "2.57",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.09",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ぱと",
+      "score": "38.25",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "怨",
+      "score": "2.57",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くん民",
+      "score": "0.09",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkEESAyEIBAch//9yahBxUm7MIZ5Y2mlhAT3GMzC0B8D4nYy4qRURmlGr+xXZURspkftmeC1xUYa7tYsxs3/QXGMLd3U1f5uqphwGRC68fazqD0ZEzPIBE+aRhbn6DCwYSecvKSsAoWxOe+Fm6+3EK3tSrCfV24NT/pCttYSKmGF3z8ky+8kiwt39aHbjSq+Q4tacxZ3+DJ9C6dzelWtn+QYJZAcV",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#60d411",
+      "4": "#e83053",
+      "5": "#e85330"
+    },
+    "sz": 30
+  }
+}
