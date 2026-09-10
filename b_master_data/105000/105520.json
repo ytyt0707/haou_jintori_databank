@@ -1,0 +1,72 @@
+{
+  "round_id": 105520,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-09-10T11:18:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] 山上徹也",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤠",
+      "score": "20.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ※ただの見学",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "7.51",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[怨] 恨",
+      "team": "怨",
+      "emoji": "🐱",
+      "score": "0.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無しTA",
+      "team": "🇯🇵ONJ",
+      "emoji": "😧",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "20.97",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "7.64",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "怨",
+      "score": "0.20",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkUESwzAIA7Gq+v9PzkAKlkvjQ3UJw0YKELMmAK0njWcIkLDfnAQIUoKkJELS0dK94MFLlzpWHcnke3W0SlozD6UWQ63gIRTW6GY1i3XLLNZ4794pLZrsvbhWrdSoH6OojS8et0rc4fYfxDr9u77xFp0TzltKJfpD45GO3FjZ9I+EwryjWfROfqAj9DrScaR2oo3VVGbduGb+g+YtLo83Bkk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#af30e8",
+      "4": "#9ca3af",
+      "5": "#9ca3af",
+      "6": "#30e85e"
+    },
+    "sz": 30
+  }
+}

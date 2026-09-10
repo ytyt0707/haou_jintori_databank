@@ -1,0 +1,40 @@
+{
+  "round_id": 105516,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-10T20:05:57.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[怨] 山上徹也",
+      "team": "怨",
+      "emoji": "🐱",
+      "score": "94.88",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[怨] 恨",
+      "team": "怨",
+      "emoji": "🐱",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "怨",
+      "score": "94.88",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYRmOgIE6nmKkjjGjprCwsDBiD0yIKCMjIwu2OIPqQZdFNwpFKyPIMDwAvyQBWbzSeCzFKwUAezANwg==",
+    "cp": {
+      "1": "#8B4513",
+      "4": "#30e870"
+    },
+    "sz": 30
+  }
+}
