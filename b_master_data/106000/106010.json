@@ -1,0 +1,102 @@
+{
+  "round_id": 106010,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-09-11T13:48:00.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬきたち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "30.48",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵東城会] 堂島大吾",
+      "team": "🇯🇵東城会",
+      "emoji": "😃",
+      "score": "12.36",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] ニャル子",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "10.53",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] ソープランド",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤔",
+      "score": "4.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[多幸] つくよみちゃん",
+      "team": "多幸",
+      "emoji": "🤠",
+      "score": "0.69",
+      "kills": 4
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[女] 名無しrf",
+      "team": "女",
+      "emoji": "🥺",
+      "score": "0.10",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "41.01",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵東城会",
+      "score": "12.36",
+      "kills": 11
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "4.77",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "多幸",
+      "score": "0.69",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "team_name": "女",
+      "score": "0.10",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkVEOBCEIQ6ss4P1PvCmoqzPjJOuHMT4qpZZSiomZiAhuqyS9QlVVdydM5aZN+EJTawet1rpqAbThi331RgdOivAc89BVW6i717A8aGuc+gMg5nEvsrkaiZBWzis9qS2uThkS0zAxYAmE01YPYhJcgPky4O4eURj/wWCqY17ooMlo7kczZ/ByLp1YQ3ul/eVRNnU8LNJ08D+NL4geD9qA2eRGO3ugUYqTNml84EnLEspnqMA1lTcaYjuKp4GlIu7mtoDD8Qv7UQtu",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e84230",
+      "5": "#4d56e5",
+      "6": "#8B4513",
+      "7": "#9ca3af",
+      "8": "#85d411"
+    },
+    "sz": 30
+  }
+}
