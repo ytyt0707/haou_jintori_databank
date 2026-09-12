@@ -1,0 +1,57 @@
+{
+  "round_id": 106468,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-12T23:33:03.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[理不尽] 山上徹也",
+      "team": "理不尽",
+      "emoji": "🐶",
+      "score": "52.71",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 蛇",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏍️",
+      "score": "4.60",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[理不尽] 貴婦人",
+      "team": "理不尽",
+      "emoji": "🥰",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "理不尽",
+      "score": "52.83",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "4.60",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkFEOwzAIQ22S3f/KE2awpErRVI2PlvrFhsbMUEUCXMum14evQH3QK84IM/EMJ7lmB0wvsEFeKTI05lrtlOnfA/C5i1ytW+G0lK0hRI9WTQds3nmVPOccGFuoPjTX73F4FY99/E48OWBh/ecAZTHTqx5k6CGg9FPzC32djFr1BkhGG93CLvYR+9e05zm9s6dvOzUG+g==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#c030e8",
+      "4": "#9ca3af",
+      "5": "#c030e8"
+    },
+    "sz": 30
+  }
+}
