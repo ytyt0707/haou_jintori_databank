@@ -1,0 +1,48 @@
+{
+  "round_id": 106822,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-13T18:40:56.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇫🇷ナポレ] 山上徹也",
+      "team": "🇫🇷ナポレ",
+      "emoji": "🐲",
+      "score": "96.25",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しRi",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇫🇷ナポレ",
+      "score": "96.25",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZiYTMJCpj2htjHhVMuK1H0kvC4YxSJJgOVST0GWZUaUxTBswARq6i4ZGUz24mPCayERImoA8XsOpJMkAAE0pCmg=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830cb",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}
