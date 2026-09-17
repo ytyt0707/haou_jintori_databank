@@ -1,0 +1,48 @@
+{
+  "round_id": 108206,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-16T12:28:24.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] もネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤭",
+      "score": "74.64",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸宣教師] 名無しMF",
+      "team": "🇪🇸宣教師",
+      "emoji": "😔",
+      "score": "20.64",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "74.64",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸宣教師",
+      "score": "20.64",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kFEOgCAMQ6vz/mc2iHTrQIgx8sPWt5YFADhw8JgcBFJGBJpCJMzINiZmUhYRU2xFhNZEv80QJlyvVUBXqTxTje+oY7P0H2X2zlYblxvss/vo0Juwt11V7J1YBS7wwBfyR7umvwzb1K3dAs7wjOkjv3cnGjgLFA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8e8",
+      "4": "#e83064"
+    },
+    "sz": 30
+  }
+}

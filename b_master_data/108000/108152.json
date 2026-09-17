@@ -1,0 +1,48 @@
+{
+  "round_id": 108152,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-16T09:33:15.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇲🇽レイプ] レイプマン",
+      "team": "🇲🇽レイプ",
+      "emoji": "🤤",
+      "score": "10.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "3.05",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇲🇽レイプ",
+      "score": "10.67",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "3.05",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kkEOwCAIBBfl/29uWMQGRQ9NSuIBhkFiBCAeHZ2BFAGd9Z6gJWwwavpKhy3F4FDZsnrMQy5hbC3yAcdkqe0XV7NX2lpLbZOzusC5tivZZI16GpgSVVW/IZVHYtRxQQmP+H8KQfHe417lT9q3VlXYqVQYsdg1r1ypw5N7pXeI08zTmg8eTwJ1",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#59e830",
+      "4": "#30e870"
+    },
+    "sz": 30
+  }
+}

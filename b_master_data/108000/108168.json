@@ -1,0 +1,47 @@
+{
+  "round_id": 108168,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-16T10:25:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[混沌] 名無しqU",
+      "team": "混沌",
+      "emoji": "🐷",
+      "score": "93.22",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "混沌",
+      "score": "93.22",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "けんた",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9ksEKwCAMQ8Oy///mUUGwocaDzh4K8bUmh5JR6NVU3QDUoL16ahbvIRf/XorKySc7Rx8xH35+SQoeaMAdOvcVEjL76oC9wj93NUjSi8xpVgU+sOwKGw==",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#e83098",
+      "4": "#6e4de5"
+    },
+    "sz": 30
+  }
+}
