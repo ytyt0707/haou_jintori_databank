@@ -1,0 +1,63 @@
+{
+  "round_id": 109108,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-18T13:13:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵御徒町] キングぷゆゆ",
+      "team": "🇯🇵御徒町",
+      "emoji": "🥺",
+      "score": "85.41",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] --------",
+      "team": "🇯🇵ONJ",
+      "emoji": "😝",
+      "score": "0.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇲🇽レイプ] レイプマン",
+      "team": "🇲🇽レイプ",
+      "emoji": "🤤",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵御徒町",
+      "score": "85.41",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.47",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇲🇽レイプ",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNklEOgDAIQ1mp97+ymRIMgmT6JV8bD1pYBgASgx6CSB2cB6Pk7L8xEnoJJ0h128xIVWuuIKfvYVpTLdOWRAczy2vlmpWMvPRd0Vypsfm/rdHPbHTUYxx0jI7S6RY07C/JQ2+o/dGle+OOUXbjTwyv",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30d7e8",
+      "5": "#e83053"
+    },
+    "sz": 30
+  }
+}

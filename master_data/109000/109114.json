@@ -1,0 +1,48 @@
+{
+  "round_id": 109114,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-18T22:33:05.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 蛇",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏍️",
+      "score": "56.43",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇲🇽レイプ] レイプマン",
+      "team": "🇲🇽レイプ",
+      "emoji": "🤤",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "56.43",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇲🇽レイプ",
+      "score": "0.12",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklESxCAIQ7H0/mfuICRE13HWH5BngqWa9XJdXa7sCs1M+I/WxhjkTd0rH+7m6dDUQGep5I1T/EQB1go9+FNsho1ClJHwpZscKFpXFBAppScl6V3r/RHiDueFogvgjCLKlHTR4lhTVCQSolM5ViAWCdL5N/IAShKbzuJqz0EdJ/HvlM/irbFcKdI77c6brLYch7zDeBSBlW25sg/HCgXo",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e83075"
+    },
+    "sz": 30
+  }
+}
