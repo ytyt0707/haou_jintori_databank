@@ -1,0 +1,57 @@
+{
+  "round_id": 108916,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-18T02:51:03.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[山本組] 山本健二",
+      "team": "山本組",
+      "emoji": "😡",
+      "score": "47.23",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しmk",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "32.70",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] いただきマウス",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "山本組",
+      "score": "47.23",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "32.83",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkFkSwzAIQ0WJ7n/lDmAMtT1pwkdM5iEWQbdgBSbMDJ8TzbIGmYpkqvdUq/FBSyGJKNk7i9ERb2nq7N21f7aaYj1oydqrXMhsSkmqrpM7xQrV3RglGyUb3iluqBk8rLyu5SLA7Z9O5x3xwrHf6xU/Kwc0NxDyhcYlkm51OqY2Ox5Tmxo721UiFGnaopIR1L8lTWjalBcFgjebqzEttcn2mk2BxlL+4+gLRXALHw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8d7",
+      "4": "#8B4513",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}

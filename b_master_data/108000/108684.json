@@ -1,0 +1,71 @@
+{
+  "round_id": 108684,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-09-17T14:18:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[山本組] 山本健二",
+      "team": "山本組",
+      "emoji": "😡",
+      "score": "40.71",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] バリヤード",
+      "team": "くん民",
+      "emoji": "🤡",
+      "score": "8.42",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.81",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] ¿🍸💩🍴?",
+      "team": "🇯🇵ONJ",
+      "emoji": "😭",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "山本組",
+      "score": "40.71",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "9.23",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdkcESAyEIQ5Fk/P9P7gRR6Hbs9FwuAi9hxQWc7u6MUKLK3U0BgGoI2lY4gwUFjle4nEljQBghKYDuhZohUaZ4UlA4IWwJdrmGtyoEVZOcVUWmjTJE5ztvdApeqTbac/Js3r1vU/xM8Tm6eWGsh13jOyWx8GmeJMTrj8LG886S5dOPMfIT1Tx0NJr6UlnAvMCmdWruPb7Tu+8fyAtjZQX4",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "4": "#85d411",
+      "6": "#85d411"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "round_id": 108646,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-17T12:15:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤍",
+      "score": "75.22",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇲🇽レイプ] レイプマン",
+      "team": "🇲🇽レイプ",
+      "emoji": "🤤",
+      "score": "4.53",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "75.22",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇲🇽レイプ",
+      "score": "4.53",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFk0sSwCAIQyPm/mfuQP0Q29pFF2WhwoOgo5othmwLoxiCkuZRs5hmglMMd4FUOtLawqnGaq21RwDDVCadTRw04UZbNRx3IY7aJg6UUhJV6Qs9y8983FCmLd/h3imY9O0kZscSEGcnTL7RnXQcSXplB3IHmfj6G13Vsr9ty3/p06nzl4rX58Pc6gG5QAud",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#73d411"
+    },
+    "sz": 30
+  }
+}
