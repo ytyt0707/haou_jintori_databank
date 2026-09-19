@@ -1,0 +1,42 @@
+{
+  "round_id": 109340,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-19T10:45:56.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 上智大学生",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦄",
+      "score": "95.61",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しd2",
+      "team": "",
+      "emoji": "😎",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "95.61",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZqYHYKLIEgYKdFOil2hrKbaEEa9VOGRZoJoYGXEoAMnjlQTJ47V5pEsiRywyGzNc8MtiqkcWAQBZSApp",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e8a3"
+    },
+    "sz": 30
+  }
+}
