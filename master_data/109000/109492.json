@@ -1,0 +1,48 @@
+{
+  "round_id": 109492,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-19T18:58:58.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ヴォル] イルカのサムエル",
+      "team": "🇯🇵ヴォル",
+      "emoji": "🐬",
+      "score": "19.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] おほたいふーん！",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤗",
+      "score": "4.96",
+      "kills": 11
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ヴォル",
+      "score": "19.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "4.96",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkIEKBCEIRF+r///Nh6UWx+px7A5E5WtGEnrpEqqArVMOj+0leiRGf7gyPDBxULgCZ20fDrotiY3emRlD57czOy1WH8PnEV5A8HyjS5vKKnwP0d859dvfW2svWnqTZ1Tazi0VEZtYITEVDCYtce+d5jJ50TLacO39EX1v/ABPigNf",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e892",
+      "4": "#85d411"
+    },
+    "sz": 30
+  }
+}
