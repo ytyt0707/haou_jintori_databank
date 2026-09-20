@@ -1,0 +1,48 @@
+{
+  "round_id": 109920,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-20T09:06:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しXF",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "11.31",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇲🇽バッピ] 阪口 皓亮",
+      "team": "🇲🇽バッピ",
+      "emoji": "⚾",
+      "score": "0.20",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "11.31",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇲🇽バッピ",
+      "score": "0.20",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkdsKgDAMQ9OY//9mSVdFH1oQQSyDjZ02vQFfmsZkMx1DfweloRs9p9vRoWN76aQtfk9baRBDXSLZY9ratlqYY5BEH5I5oQAiH1mpRVP9oLGgPeSCEy8fABeKReXClkLcaOEzQWWtLdWGTOtnunYE2wIF",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#36e830",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
