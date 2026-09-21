@@ -1,0 +1,57 @@
+{
+  "round_id": 110242,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-21T11:30:53.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しqk",
+      "team": "",
+      "emoji": "⁉️",
+      "score": "1.65",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵猛虎軍] 名無しTp",
+      "team": "🇯🇵猛虎軍",
+      "emoji": "🐯",
+      "score": "0.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[東卍] ヤス",
+      "team": "東卍",
+      "emoji": "⚽",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵猛虎軍",
+      "score": "0.14",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "東卍",
+      "score": "0.14",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkMsNwDAIQ22T7r9yBSFJOaAO0PqAgMdPkFUqqowsEE7DuFOQgA2iCoHTolIPQzliBmt1MowhRX8kOOcvCEA41OeDfFB3JT+r06EWJdN21S/UzMquPGV3maV7dQv+/Hc+cANPAgEb",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#59e830",
+      "4": "#e83053",
+      "5": "#c030e8"
+    },
+    "sz": 30
+  }
+}
