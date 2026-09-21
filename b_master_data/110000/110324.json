@@ -1,0 +1,48 @@
+{
+  "round_id": 110324,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-21T06:56:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[女] 空から女の子が！",
+      "team": "女",
+      "emoji": "🤸",
+      "score": "79.80",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.14",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "女",
+      "score": "79.80",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "0.14",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9k1kSAyEIRMFw/zOn2Bsl8UfgdaNYM0TLEpGqSi+tCRHQZhiFF0sYO8YKxj+pnhtHoz5io683TC4yjF6bJQsv1VdIag9SiQcN7V6TDigC6ZlCn6lqG214DnDvWZ2PrpJ60APQQof4tuKVRf5Q5tHHkrrUBrszM4eyDPoc2W8z90S84vLKcq2E9+7T1bk3thzo5xH4l5eS3FMWtDb7vRSakL4mZAtm",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#514de5",
+      "4": "#47e830"
+    },
+    "sz": 30
+  }
+}
