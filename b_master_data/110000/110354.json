@@ -1,0 +1,81 @@
+{
+  "round_id": 110354,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-09-21T08:33:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "23.63",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] いただきマウス",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "19.41",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しJZ",
+      "team": "🇯🇵ONJ",
+      "emoji": "😂",
+      "score": "2.03",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[女] 空から女の子が！",
+      "team": "女",
+      "emoji": "🤸",
+      "score": "1.92",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[女] ババア",
+      "team": "女",
+      "emoji": "🤪",
+      "score": "0.45",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "19.41",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "女",
+      "score": "2.38",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "2.03",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9k1uOxSAMQx1I6P53fOU8IKDRWP2gPdgJQR1jjIGQfvgAacLacLrItDYA2xl0zq+YCCpYVWVOPiVVATJZI26HCreTrrWWrrXKJCTUpgt6uklICqEZpClt3uqaSVs7+bTV8KY1DW/jNrNu6koWUXjPMBdwBsgEj0rGDXB33QIpOiXOiXHF5Mh1L+SGF7XHeXvNwhqpb/If9JQ1M56xSy565hJ7bmo1t8xoB4pDbc55PfSY4zquunZoDPR/+kTvsvwn+iV4SqO+zOjMeOl5by3Vxx86HAiS",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e85330",
+      "4": "#8B4513",
+      "5": "#4d64e5",
+      "6": "#9ca3af",
+      "7": "#e85330"
+    },
+    "sz": 30
+  }
+}
