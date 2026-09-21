@@ -1,0 +1,57 @@
+{
+  "round_id": 110206,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-21T00:34:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[けんた] 名無しKx",
+      "team": "けんた",
+      "emoji": "🤔",
+      "score": "52.84",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "23.43",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[女] 空から女の子が！",
+      "team": "女",
+      "emoji": "🤸",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "76.27",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "女",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklESxCAIQxE297/yTkAQrdNpf0p5JCBWRERwPGOMwfyTACDccJc3lul8s0cJy7kCp9F05n5rqvDYKMzMgMh55cSMySRp2bAgKbWgvKh/SGgnLcbiXXtWdGq4UdW7dzRRVZ/aDDFZ9fZAXqkqNTz0TavQN8rGd23YuW06r3XJTo/GpP05TtNRWsc5eUffaK4LmEP5/U+tnEeyTh9rcph991nzF5vUN7kqQlgzL1CyvW/V9+AP66IMKg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4b611",
+      "4": "#30e8a3",
+      "5": "#d4b611"
+    },
+    "sz": 30
+  }
+}
