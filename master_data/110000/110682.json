@@ -1,0 +1,56 @@
+{
+  "round_id": 110682,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-22T11:17:34.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "うゆ",
+      "team": "",
+      "emoji": "🐶",
+      "score": "6.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ぷゆ帝] ぷゆゆ騎士団長",
+      "team": "ぷゆ帝",
+      "emoji": "🥺",
+      "score": "5.56",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 名無しcQ",
+      "team": "🇯🇵ONJ",
+      "emoji": "👻",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ぷゆ帝",
+      "score": "5.56",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklkSxCAIRHsovP+Vk5ZFIYk1fkTgNYtGIJeIQPixlWYECFMMwJ2Ipd7TdymeuVp4S3bmGsleJcccamKEFwxFnbpp9EiP8NyXjVuvcH8AVOsFBLP9CJlc5dX7Km2H+aJew0rPpwCMWphjM8KfJYIxxmgSm0uDTsVWg1iVV05iK7DO2kr8Ql1FvGikxl5yI+gz090qL5rWohlyww7do8W3g5fQn879SC5Q7QKE",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#59e830",
+      "5": "#e83098"
+    },
+    "sz": 30
+  }
+}
