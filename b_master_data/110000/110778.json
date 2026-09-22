@@ -1,0 +1,48 @@
+{
+  "round_id": 110778,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-22T07:28:51.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名 無 し",
+      "team": "🇯🇵ONJ",
+      "emoji": "👩",
+      "score": "82.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇬🇧珍走団] 山上徹也",
+      "team": "🇬🇧珍走団",
+      "emoji": "🦊",
+      "score": "6.42",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "82.70",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇬🇧珍走団",
+      "score": "6.42",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkDsSwCAIRIX1/mfOiER+xkmRJlS4jwUBcMEMgDWcPlOhYG6joFJRxJuZlVdsCsvo6l1KnTkcC6ekyfsRD5rMPXQ4OkPl/x/zVu/36OFU5Ix9Bux6RFgFO1pg8BIpv61uFuhEGyF5w6etj3aOOxmGbuSUr9ML7AgKYw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e8d7"
+    },
+    "sz": 30
+  }
+}
