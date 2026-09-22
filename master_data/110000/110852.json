@@ -1,0 +1,57 @@
+{
+  "round_id": 110852,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-22T20:28:51.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇩🇪AfD] 山上徹也",
+      "team": "🇩🇪AfD",
+      "emoji": "🤖",
+      "score": "52.23",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] エノラ・ゲイ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "4.87",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪AfD",
+      "score": "52.23",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "7.01",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkVkSxCAIRFGa+195igYjLknV5MMgD2gEkb8+wABA/cCeCVUhuFFVjayIKLlQEcEr9chZdZU1NnGj7qvdZEzKArC2pPHySGm7UEQbqleaPX7SpvZeuG3IOGl/IHurw4PZRmMt8SKHibfJ+fAKzQeVOQQcwgWEWZPXncRaTHrvlL5Rh91rH11xK6S0Nt2gItJPSg8Ps4NOOKyn8nAs/0EX57wkno5qfed+0x/JQQiz",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#30a3e8",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}
