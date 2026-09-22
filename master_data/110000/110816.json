@@ -1,0 +1,48 @@
+{
+  "round_id": 110816,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-22T18:32:03.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[縛り] 斬る厨",
+      "team": "縛り",
+      "emoji": "😎",
+      "score": "13.39",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しyX",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "4.74",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "縛り",
+      "score": "13.39",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "4.74",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkEsWQyEIQ8Nn/2vuSRDl2Z7OOigDBS4BFH6bmcFkwGApHwuxBp7p6Z4ydz+QcgfIU4cDg8KMcel4TkpftqSCPbYZ7+qsTO1bXbuEcyMiGPd7mgGRgoMONWWyLWWDJW6mzj34A2XdxtJymaOmXj9dfdXujfbC2hMYcvQ+XcJ762fy+AufxMMTfWRm8DvKreek2/9O7+o/jF9QawL3",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
