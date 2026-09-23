@@ -1,0 +1,51 @@
+{
+  "round_id": 111292,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-23T11:15:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しpG",
+      "team": "",
+      "emoji": "😴",
+      "score": "25.58",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] しこ勢",
+      "team": "くん民",
+      "emoji": "🐁",
+      "score": "13.34",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しGK",
+      "team": "",
+      "emoji": "🤠",
+      "score": "0.13",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "13.34",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHF0ksSxCAIBNAWyf2vnIIGg59xO1kki0cLUgH+9ei9seqt4Kw9jly1x0OmPqP9plryiXG0kSuHO2vEB/bu6cgyj4tqNc+WqE5Jngybxmswq9+Roy4DWwvTactTXypj3NXKZU04NP7NW+Npald2zHfpHDdNsW9VburTftDWhtdobnDjrFaFtqIiscQsQMN3tIgIIX/LUQbAMBgvS4oEtA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#73d411",
+      "4": "#30e85e",
+      "5": "#e83042"
+    },
+    "sz": 30
+  }
+}

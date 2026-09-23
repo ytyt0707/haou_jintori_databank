@@ -1,0 +1,48 @@
+{
+  "round_id": 111304,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-23T20:54:44.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "0.79",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] ためきち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.14",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "0.79",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.14",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkkEWxCAIQ4PT+595nggJDryuxk0p30RAzWLhfAGstbDgi9DpyW2+DqcEZgG3vGgzTJpKAFJQXGgKro1pXWAJ49ySKeFozRLUkiTGsnwiAh556yc3nGvG9lrNWymzED8PU4WmttBh0u+Uvj+TTG9xVTUN66KtZRXNxyHjctf91LqNb+dK8qedSvKnQD0Ohte1Ne4D+LR0JN61XxF+AOk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#d130e8"
+    },
+    "sz": 30
+  }
+}
