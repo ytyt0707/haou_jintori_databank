@@ -1,0 +1,50 @@
+{
+  "round_id": 111180,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-23T05:12:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しsN",
+      "team": "",
+      "emoji": "😜",
+      "score": "31.01",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[オレダ] ホワイトナメクジ",
+      "team": "オレダ",
+      "emoji": "🐱",
+      "score": "21.46",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しM5",
+      "team": "",
+      "emoji": "😁",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "オレダ",
+      "score": "21.46",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkkkSxDAIAwXM/988hQBvOIkPMaZBLBVABP384gACpN0v8dTuTo84fqNfuU/JoLL3fFN3GvM80eQdqw5lSpc+5ZS0bwpmAFTve7SkWk2tAhYUa92dA7rSSoggg+pad6N8kOY+3OEHwDBqV+HYv0DS3b3mDqkjxNvjvLs/6kbvUl3MEMc5vYjJBGFxzx4g0lhGRN03zF2cynyzsv84V8rGOs12o+1zpITzSuXpKOsPPTsG3g==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#30e85e"
+    },
+    "sz": 30
+  }
+}
