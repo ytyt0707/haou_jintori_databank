@@ -1,0 +1,114 @@
+{
+  "round_id": 111352,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-09-23T14:30:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[うんこ] うんこ",
+      "team": "うんこ",
+      "emoji": "😈",
+      "score": "35.85",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しBM",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐱",
+      "score": "22.91",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[うんこ] 運行",
+      "team": "うんこ",
+      "emoji": "🥰",
+      "score": "14.35",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] いいぼう",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[うんこ] うんちっち",
+      "team": "うんこ",
+      "emoji": "💩",
+      "score": "1.88",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[姉妹兵] シエスタ45",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "0.24",
+      "kills": 0
+    },
+    {
+      "rank_position": 7,
+      "player_name": "[姉妹兵] シエスタ00",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "0.22",
+      "kills": 7
+    },
+    {
+      "rank_position": 8,
+      "player_name": "[姉妹兵] シエスタ410",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "0.10",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "うんこ",
+      "score": "52.08",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "22.91",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "2.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "team_name": "姉妹兵",
+      "score": "0.56",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kI0SwyAIg6PpNuT9H3gX8KedDu+qx0cCFEDt0faAotZWd9RaC4ojutOjWNpQ/qMuXGt0+Wkx+55oQkBD14pl/w6XgbXSvtig2jk2rx+pzFJbZmc9urWZNZINpQDUVlHlTpq9XqYr6HVdF9AAB5wRFtRQxEQzOs0SEg/KOyVZUpxKIo3HFwix0vhBVGrm+mN5u/uiw84jSF2DTotMZ8mkQ/mAftNkQVdppoM0+umHcrXdjI90+cpjjNy1HYYx+ZfGsL1odp1ad5f1BHq4zj22fWPYKHXiC1GGEaM=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#aad411",
+      "4": "#8B4513",
+      "5": "#d130e8",
+      "6": "#d130e8",
+      "7": "#e83075",
+      "8": "#aad411",
+      "9": "#9ca3af",
+      "10": "#aad411"
+    },
+    "sz": 30
+  }
+}
