@@ -1,0 +1,42 @@
+{
+  "round_id": 111314,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-23T12:27:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[男] 山上徹也",
+      "team": "男",
+      "emoji": "🦄",
+      "score": "61.95",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[男] 雑魚オス",
+      "team": "男",
+      "emoji": "🍆",
+      "score": "30.96",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "男",
+      "score": "92.91",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkFESwyAIRHXZ+5+5syBoUtKZtvlIlMdbDeR6xsjVF19Tr/m7sRx8oFaPp2hXKY4YDToiV9EQfauWcNmgkWM7St02cLpbDRkw45xznqBkUeOs22QTdSLh+I2usercukiK9buIOVbdb1yz8CtvpphRKht6zBGKPtwK9QVwGdQVEhjY7g3GNpNbmG4PVZX+B31WFd1Qn3NTj9KddgmP8u9gvACiQgyY",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#4d56e5"
+    },
+    "sz": 30
+  }
+}

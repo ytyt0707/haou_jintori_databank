@@ -1,0 +1,84 @@
+{
+  "round_id": 111312,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-09-23T12:20:40.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[男] 名無しj2",
+      "team": "男",
+      "emoji": "🦄",
+      "score": "45.12",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[男] ちんさん",
+      "team": "男",
+      "emoji": "🐷",
+      "score": "6.70",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[男] 雄",
+      "team": "男",
+      "emoji": "🍆",
+      "score": "4.41",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[女] 美少女",
+      "team": "女",
+      "emoji": "🥰",
+      "score": "1.03",
+      "kills": 5
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[女] 空から女の子が！",
+      "team": "女",
+      "emoji": "🤸",
+      "score": "0.23",
+      "kills": 5
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[女] 名無しBc",
+      "team": "女",
+      "emoji": "🦄",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "男",
+      "score": "56.23",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "女",
+      "score": "1.37",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kFESxCAIQ7MtjXv/E+8ExEGtm4/a4QmRAAeRJKBv0V2LuK6rMJI3RwOwwnp1pc9DfscFYJr7SHIOvdAApmOhvSeP1TfrJE05bBvpgpHWabnff03UI3zZ18yanXtpkvvug2X8j069I3afA4RxTv4ol3Twt6KZNd+XFB3qtLWkg3i2jpu0JxkM2CjAGJvdPecsVkofLdOk9YzRB+jOs9faq6Xe5Bv5yjvt7EB920hrb/VKvPkAo/wDI+IMVg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#604de5",
+      "4": "#d130e8",
+      "5": "#604de5",
+      "6": "#d130e8",
+      "7": "#d130e8",
+      "8": "#604de5"
+    },
+    "sz": 30
+  }
+}

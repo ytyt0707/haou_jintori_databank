@@ -1,0 +1,72 @@
+{
+  "round_id": 111322,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-09-23T12:53:08.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "45.63",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[女] 空から女の子が！",
+      "team": "女",
+      "emoji": "🤸",
+      "score": "27.08",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "10.06",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵西軍] 島津豊久",
+      "team": "🇯🇵西軍",
+      "emoji": "🙂",
+      "score": "3.18",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "女",
+      "score": "27.08",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "10.06",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵西軍",
+      "score": "3.18",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klkSgDAIQ6mluf+RnbBYUMuH20tCdAReI3VeDICIHUz0pRAqfH4oHzW61uqyRmUFHymqyQkxOjYtoUePjaM98EDg8Xo3HtMJlOh49cKIobqr5VWcx9AzNfjv1T0AJfbJI3SzDJe59zZq6TJPmC6ZJ4zrMrrdLRtBpw0aU02v09mo6OV7D1bWCh93N6+9KDvb2F3h1HpnYvBXLNQuj14X1uCPV8vWAkWq1zo1atj3ev00CGWkIjfraA9L",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83042",
+      "4": "#e830cb",
+      "5": "#514de5",
+      "6": "#3092e8"
+    },
+    "sz": 30
+  }
+}

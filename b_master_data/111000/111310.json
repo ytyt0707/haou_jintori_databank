@@ -1,0 +1,79 @@
+{
+  "round_id": 111310,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-09-23T12:14:11.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[女] 空から女の子が！",
+      "team": "女",
+      "emoji": "🤸",
+      "score": "37.33",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[女] 名無しaE",
+      "team": "女",
+      "emoji": "🐷",
+      "score": "23.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[女] 名無しgh",
+      "team": "女",
+      "emoji": "🤠",
+      "score": "10.17",
+      "kills": 5
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ぷゆ帝] ぷゆゆ騎士団長",
+      "team": "ぷゆ帝",
+      "emoji": "🥺",
+      "score": "2.80",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 名無しQC",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐱",
+      "score": "0.00",
+      "kills": 12
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "女",
+      "score": "71.41",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ぷゆ帝",
+      "score": "2.80",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.00",
+      "kills": 12
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkgsOxCAIBQlEuP+NN4+PK7Lt0jSmGQZESyJiZkYVfIYklaKkjIeZiWlSDgZ8UxisrjKqpSxE3hwsoyh6k5Gq4o3YaugN5h5BEGYl+VoTBMyiKwJfEZtqop2AFNAs2vBasN11fMGT3mg195mq9B1l5u4rQ20TvdMhH+7CWF0/aJxX45Oe+JXWb5ZV50Iiec6TCS7gmboQd/TD/U/J6z+pX6g9JTrm1LQH3MeAiT6USws5",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#e89830",
+      "5": "#e89830",
+      "6": "#e89830",
+      "7": "#e83053"
+    },
+    "sz": 30
+  }
+}
