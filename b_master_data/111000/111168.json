@@ -1,0 +1,47 @@
+{
+  "round_id": 111168,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-23T04:33:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しBh",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐱",
+      "score": "54.92",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳赤軍] 旧ソビエト連邦",
+      "team": "🇻🇳赤軍",
+      "emoji": "⚒️",
+      "score": "5.59",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "54.92",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳赤軍",
+      "score": "5.59",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kgkOAzEIA0Hk/2+ubEOANkXai8FOYGO249xgPiKiC4IQd+UirCgKiaOgtZYQHFfaPeiBQznXuqXlc1AtvOhwlvo/xc5XLK3IqHjQqe49zyxGx2/iL8JPzOPRxyqFOBP1vMary1sWYTRezoOW23RuLGlr3cO88BnG3I0jisq4/xEh+GxIhwcZ4eOXGk5ItZviC/mC45EZc2/lhYXNzG0VaFsS63/llJhS5ofCzjWL4czi21yaDRssnpEQTfUr5smxZeoDa+gGuQ==",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#9ca3af",
+      "4": "#59e830"
+    },
+    "sz": 30
+  }
+}
