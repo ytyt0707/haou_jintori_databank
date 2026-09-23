@@ -1,0 +1,57 @@
+{
+  "round_id": 111242,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-23T08:33:37.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[姉妹兵] シエスタ410",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "39.91",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[姉妹兵] シエスタ45",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "6.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[女] 空から女の子が！",
+      "team": "女",
+      "emoji": "🤸",
+      "score": "5.56",
+      "kills": 13
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "姉妹兵",
+      "score": "46.76",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "女",
+      "score": "5.56",
+      "kills": 13
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklESxCAIQ8XG+195Jwmote3M5qM6PIJVAG5qd50sUlDaoo2BgnGjVfCNXoBzT28DLuqgYwyWQ1LjCLsH9UJ1sGCaVbm8G7U56bqQrdgpzb5PQvDk+mcAeVlRYPPqyUxBilYUF1+DIobp9Caai7yflGnjL8q3tJg/NbIvM/DYZB8ecQeSuhuPHIZ7672TeD62HAU6panSYC28UTsbH6uUIXo/qSqbRmiY7J7eYqFNlk6qRf3LABtYl1iQhamDaWqcZe7vDw92CBI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e84230",
+      "4": "#e8ba30",
+      "5": "#e8ba30"
+    },
+    "sz": 30
+  }
+}
