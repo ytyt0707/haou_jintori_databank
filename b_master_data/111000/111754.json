@@ -1,0 +1,63 @@
+{
+  "round_id": 111754,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-24T12:13:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇪🇸ミジュ] ミジュマル",
+      "team": "🇪🇸ミジュ",
+      "emoji": "🐦",
+      "score": "6.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵西日本] 足利義昭",
+      "team": "🇯🇵西日本",
+      "emoji": "😐",
+      "score": "0.61",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[東日本] カプテテフしこ勢",
+      "team": "東日本",
+      "emoji": "😍",
+      "score": "0.13",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇪🇸ミジュ",
+      "score": "6.50",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵西日本",
+      "score": "0.61",
+      "kills": 7
+    },
+    {
+      "rank_position": 3,
+      "team_name": "東日本",
+      "score": "0.13",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1kQkOAzEIA+1s8/8vV+ZOtkWqNjBgjgJmlPlzpbkLwOBJixluby1gtXvStS4m6U4+67yvU/JdaVMJ+3RnsceYcHbpkqgkMYZoHBpzeYfg52B1OWtXE3WOymSe2HF7BQton5Ex6NgmEnbsFTokd/xKIS8AiO29lWHmyuUIuekecZCg0m2asM6nnlVbNCY3ica5zw96V+boVjxuXBK+BgHtVNF8WMzC5PNkNL9dQeKkWr/1Xtj/xuxn2umE+OVmy//fL171Apw=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#994de5",
+      "5": "#ced411"
+    },
+    "sz": 30
+  }
+}
