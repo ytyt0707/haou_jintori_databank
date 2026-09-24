@@ -1,0 +1,71 @@
+{
+  "round_id": 111718,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-09-24T19:17:00.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[暇か笑] キー太専暇かよ笑",
+      "team": "暇か笑",
+      "emoji": "😇",
+      "score": "20.99",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] しこ勢",
+      "team": "くん民",
+      "emoji": "🐁",
+      "score": "2.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しabe",
+      "team": "",
+      "emoji": "🐷",
+      "score": "2.06",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[きつね] 名無し9u",
+      "team": "きつね",
+      "emoji": "🐷",
+      "score": "0.92",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "暇か笑",
+      "score": "20.99",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "2.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "きつね",
+      "score": "0.92",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkYEOwyAIRI8I/f9PXs5DqrNzyUaMUR4HVwuYcTFaa60f+ok3q+CNMep4Lmhi644bV7+q0BhVaHChMqEG6WvCqY2gfBN3GvGREgne2tEEiIjheyRrMoiReKHQswU26lTLMPf84My5u+/UlCL0SZqvYT0lONFsrP+ovrO447Th7rehYaoy7xAGrkOs9DpUfkHtrL3O+LF5A86qX5o+Tvon+QITqQOg",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#e830ba",
+      "4": "#60d411",
+      "5": "#30e8d7",
+      "6": "#994de5"
+    },
+    "sz": 30
+  }
+}

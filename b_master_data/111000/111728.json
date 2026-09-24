@@ -1,0 +1,80 @@
+{
+  "round_id": 111728,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-09-24T10:49:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵匿名希] 匿名希望",
+      "team": "🇯🇵匿名希",
+      "emoji": "🐲",
+      "score": "46.46",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[衝突] ぶつかり屋",
+      "team": "衝突",
+      "emoji": "😍",
+      "score": "19.51",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] 名無し1P",
+      "team": "くん民",
+      "emoji": "🦁",
+      "score": "0.99",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.10",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[くん民] しこ勢",
+      "team": "くん民",
+      "emoji": "🦟",
+      "score": "0.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵匿名希",
+      "score": "46.46",
+      "kills": 16
+    },
+    {
+      "rank_position": 2,
+      "team_name": "衝突",
+      "score": "19.51",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くん民",
+      "score": "1.18",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1k1ESxCAIQ6Osk/vfeAcBRax8tNVHoqAld+CKzUiIFE5iJcgMpKSFSDqVbXFTzYkFEjWpGxh/UFe/qOFNs3GsvOgXjGJPFlKQsipNKUDvgNE07Z/oXXF0qCY4rdMxhjrHoL5bay/axCD8YIrU4TfFtLWKim614qIUGSfNK48xBtbZazdyPzjGqZVMRX6kFupxavVKkcGq87xwhR7eU6g91hC5zteOJ+je1ywuQTOwjcQ/Y3Pz+QfNPwpL",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#30e85e",
+      "5": "#30e85e",
+      "7": "#30e8c6"
+    },
+    "sz": 30
+  }
+}
