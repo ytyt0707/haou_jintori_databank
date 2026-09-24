@@ -1,0 +1,63 @@
+{
+  "round_id": 111800,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-24T23:43:02.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 名無しEl",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "9.22",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] ちんぽ",
+      "team": "くん民",
+      "emoji": "🤔",
+      "score": "0.12",
+      "kills": 6
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇫🇷女] 空から女の子が！",
+      "team": "🇫🇷女",
+      "emoji": "🤸",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "9.22",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇫🇷女",
+      "score": "0.12",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くん民",
+      "score": "0.12",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVj0ESgDAIAwPo/7/s0NpKkOrBk1w6ZAmkQFlSqi4KICJWc/ECHmjtM2uLawin63qhayOuoHs5RWfTGQu9edGG2GZq/J/s5T6bwZfmsKp6AL+7hSRnDkWjAYzhJnXrinad/5di3KxpmvjMTOpovtCx42/vARSmARI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e87530",
+      "5": "#30d7e8"
+    },
+    "sz": 30
+  }
+}
