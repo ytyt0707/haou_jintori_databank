@@ -1,0 +1,33 @@
+{
+  "round_id": 111600,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-09-24T12:54:29.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[?] 名無し8C",
+      "team": "?",
+      "emoji": "🐶",
+      "score": "0.19",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "?",
+      "score": "0.19",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZBzmgBmv//DL4tVKM0kGqMlgmomRkQmHTUwQgF0WnxxYB0gBilaYtTBZFElUDqpGVLlRHskhAABehQOd",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#af30e8"
+    },
+    "sz": 30
+  }
+}
