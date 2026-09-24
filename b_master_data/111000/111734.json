@@ -1,0 +1,41 @@
+{
+  "round_id": 111734,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-24T11:08:54.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "86.60",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[道連れ] 正面衝突",
+      "team": "道連れ",
+      "emoji": "👽",
+      "score": "6.87",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "道連れ",
+      "score": "6.87",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1k1EKwDAIQ4Px/mcubnRlYLIfl7/6mqiUkgR7QRJ1v69PV9W8030m8jJTxuSlws1GN1TuTXtuqYV8qJlKLsSyG/oDCptpaZS03VPyy/xKBs5nAhCxj/XyWLpbCoQ=",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#514de5",
+      "4": "#d130e8"
+    },
+    "sz": 30
+  }
+}
