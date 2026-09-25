@@ -1,0 +1,61 @@
+{
+  "round_id": 112233,
+  "game_mode": "SOLO",
+  "player_count": 6,
+  "played_at": "2026-09-25T14:06:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ニャル子",
+      "team": "",
+      "emoji": "🥺",
+      "score": "24.28",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "赤貝",
+      "team": "",
+      "emoji": "😁",
+      "score": "13.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しdx",
+      "team": "",
+      "emoji": "🤒",
+      "score": "8.13",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "なつき",
+      "team": "",
+      "emoji": "🥺",
+      "score": "5.01",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "カプテテフしこ勢",
+      "team": "",
+      "emoji": "😍",
+      "score": "1.54",
+      "kills": 0
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eAF9kVESxCAIQ1O6eP8j7ySA1mrlA5EXgp0ClwIX8GMAWURZOKAUlahE8CPtfjWYW3L6c5bmp1nOPyyz1KMynenn8H1rfplm91bsNk+U3pO/aKth3sI+iqArlo4JrYmqVtKPymtb6NC9Zt0nZGbjkwCPKIkx+OZo7KhZifc0eUIe0suZCVrK3pCgU1N32u4DmpVdvsF9opg/9kX7w7v90zkd6+CigavbT8eJAjAKuvxV/AGMiwbU",
+    "cp": {
+      "1": "#604de5",
+      "2": "#3081e8",
+      "3": "#d4b611",
+      "4": "#97d411",
+      "5": "#30e892",
+      "6": "#994de5"
+    },
+    "sz": 30
+  }
+}
