@@ -1,0 +1,81 @@
+{
+  "round_id": 112910,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-09-27T11:42:40.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "38.47",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] ニャル子",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "8.34",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] なつき",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "5.99",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "3.51",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[けんた] 名無しO1",
+      "team": "けんた",
+      "emoji": "😀",
+      "score": "0.11",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "38.58",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "14.33",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "team_name": "猛虎軍",
+      "score": "3.51",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdktEWwyAIQ2MA9/9/vBOQtrPdHsaDenqbGA4CJAlg7OXujqQEImLYGKYlK6mkUofFEFQJZC1IM4klNdupJYzQZhYt9dIWFQpV02iaX3t5NW66rIs3PJ3LM0zm6lR/VLdkx1Ios01L0piugkcq55yrZfdMe1G6z9k4bzo863BS4s4XzWHcsehkTeoLnUt6w6Wt2MCOj8j1QrZgq1lt0AP6bOmk8v2DahYl/ccZLX5OlYF/pKqbn7Wd6xt96ren06kuLcH9DRh/Cnk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#604de5",
+      "5": "#8B4513",
+      "6": "#d130e8",
+      "7": "#604de5"
+    },
+    "sz": 30
+  }
+}

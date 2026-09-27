@@ -1,0 +1,63 @@
+{
+  "round_id": 112902,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-27T02:16:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇫🇷女] 空から女の子が！",
+      "team": "🇫🇷女",
+      "emoji": "🤸",
+      "score": "28.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "10.61",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] ニャル子",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏁",
+      "score": "0.13",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇫🇷女",
+      "score": "28.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "猛虎軍",
+      "score": "10.61",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.13",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkFEOgCAMQ+uc97+yoTCwDImRD8G+tVsGABdezzXOombAVcR3ail7eAHYxAUWbOczIHBoak80yng32jXtXOmASrveHltqpmOpeQ/TQmg+jui7bbw20+o6RPlzd6rlzphq/0zurreH4BlqdqLOQSjXmeaK4Gsa1ZmGr1RkGr4f9BncNsh82QI3DNyFpgYO",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e8ba30",
+      "5": "#30c6e8"
+    },
+    "sz": 30
+  }
+}
