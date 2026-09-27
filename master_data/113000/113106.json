@@ -1,0 +1,72 @@
+{
+  "round_id": 113106,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-09-27T22:18:10.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[四国] バチカン",
+      "team": "四国",
+      "emoji": "🥰",
+      "score": "17.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無し2G",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "3.59",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[四国] 名無しNF",
+      "team": "四国",
+      "emoji": "👻",
+      "score": "3.57",
+      "kills": 6
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 名無し3x",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "四国",
+      "score": "21.44",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "3.59",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.14",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGF0VESgzAIBFBWyt7/yB1IgiRomx/HebBgFLE80k+aWUfRyfyp9qS2eh81knWVtMmqltj30spn78C3ZOV1ecW4lNZLXpaTH5RMvdf6RKGSFLu/eu8GIOVH3M1RBgCUuVS7r6G1vWa7gpJcTSSQi3cbitBT/D2SX3noH37JXslETDmGAwISHFUHrr042e+1nrlWPqr5sGyDnK3i6PUNIsQjQ/fI+QY5FqlVX6k0BNE=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d64e5",
+      "4": "#9ca3af",
+      "5": "#4d64e5",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}
