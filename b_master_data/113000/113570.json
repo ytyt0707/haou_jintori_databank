@@ -1,0 +1,63 @@
+{
+  "round_id": 113570,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-09-28T14:22:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] ニャル子",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏁",
+      "score": "12.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ぱと] カゲロウデイズ",
+      "team": "🇯🇵ぱと",
+      "emoji": "👽",
+      "score": "0.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[女] 空から女の子が！",
+      "team": "女",
+      "emoji": "🤸",
+      "score": "0.14",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "12.20",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ぱと",
+      "score": "0.16",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "女",
+      "score": "0.14",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkAsOBCEIQ6Xdvf+VN3wV4swJlsQIPqlFklwjxGOJ0KLjoBL0gCo06NQufAgDqdGpGwOApWtre68ZJwHoIyyc1ERjuEFz5nN0e9t60/NB3Vij+mKE0nX9qzCl99xWttQultFwHc7koTev5ThZj30bHaCXn17+q/qBb2W35J3eOubZD50dAcA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e83053",
+      "5": "#a74de5"
+    },
+    "sz": 30
+  }
+}
