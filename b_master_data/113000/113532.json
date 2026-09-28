@@ -1,0 +1,48 @@
+{
+  "round_id": 113532,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-28T12:19:42.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂野獣国] 野獣",
+      "team": "🍂野獣国",
+      "emoji": "🦊",
+      "score": "44.49",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[熊谷市] D-Nut's",
+      "team": "熊谷市",
+      "emoji": "🔪",
+      "score": "0.79",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂野獣国",
+      "score": "44.49",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "熊谷市",
+      "score": "0.79",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkUkWxCAIRBly/zP3Y6hSo3HTLhT4UhaJmNyWXfEf1L56PezcqZh5rM04epNuvGizD1rCu3Yro/n18kpfUFaa2bhSPsx6pOVlzDjBqRsUXyO9tXD5jGRWxsyDBq4sdhFhkkILBZK4uNxVIJ6Tku40+t1V1U/QPV1orOfUXL1BHz7IoJWDssag50tlFhlg+sAsMgBN36wiIEVhOcfvPkY/kq4FQw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83087",
+      "4": "#97d411"
+    },
+    "sz": 30
+  }
+}
