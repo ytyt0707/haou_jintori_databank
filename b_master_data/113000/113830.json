@@ -1,0 +1,42 @@
+{
+  "round_id": 113830,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-29T04:25:57.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しBc",
+      "team": "",
+      "emoji": "🤖",
+      "score": "1.34",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しjZ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.15",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "0.15",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkMEOwCAIQ1vY/3/zQpQJjmmyw07zAvJoQYF2RKRnVVhCYJKqamXitUjnsUSgEukBkEB2vjqMuv+IvhebdoBbVohDjw1+PFxSWzrvnI024tzcb9vnvDEtJ/3FL37gBAzWAGA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8b4",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}
