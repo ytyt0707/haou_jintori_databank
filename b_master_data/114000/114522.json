@@ -1,0 +1,48 @@
+{
+  "round_id": 114522,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-09-30T17:49:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] もネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤭",
+      "score": "88.30",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "7.45",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "88.30",
+      "kills": 17
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵山本組",
+      "score": "7.45",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdz0kKACAMA0A1/f+bBTcKTYsiXuxJMsYFOBxp45Q6ilCeSHUhVWwyvRcYdU8buwjwJ9lCsZFO7lif9N06Rz8KMSqGlqySyG56kFQ8EAq+",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83030",
+      "4": "#e83098"
+    },
+    "sz": 30
+  }
+}
