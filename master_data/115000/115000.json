@@ -1,0 +1,33 @@
+{
+  "round_id": 115000,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-10-02T04:39:51.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[あいう] あいう",
+      "team": "あいう",
+      "emoji": "🤖",
+      "score": "92.58",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "あいう",
+      "score": "92.58",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkcEKACAMQt38/3+OqEPQtFN0yaMPRTZAiCQAlhq2oiMiorPvHi0HC9OvEKFvv77A/rYIsym6JD9RLtGULWSmo3SwARPgCfs=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5"
+    },
+    "sz": 30
+  }
+}
