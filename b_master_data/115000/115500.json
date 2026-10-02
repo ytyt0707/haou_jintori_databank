@@ -1,0 +1,33 @@
+{
+  "round_id": 115500,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-10-02T22:41:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[団結] 戦士フェミニスト",
+      "team": "団結",
+      "emoji": "😈",
+      "score": "0.15",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "団結",
+      "score": "0.15",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHt0DEOADAIQtGP3v/OjZ3FoekoIy84CF2EkDqpTvJ23Q233w88fyAC0q5LfUZkVn/1lxwsrQAZ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e85e"
+    },
+    "sz": 30
+  }
+}
