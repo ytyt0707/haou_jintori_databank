@@ -1,0 +1,80 @@
+{
+  "round_id": 115214,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-10-02T16:13:44.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しr1",
+      "team": "",
+      "emoji": "🐱",
+      "score": "55.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[魏] 曹操",
+      "team": "魏",
+      "emoji": "😂",
+      "score": "17.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇩🇪猟友会] トフォ",
+      "team": "🇩🇪猟友会",
+      "emoji": "🤡",
+      "score": "1.69",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇩🇪猟友会] ゆゆぷ🫪",
+      "team": "🇩🇪猟友会",
+      "emoji": "🥺",
+      "score": "0.77",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ルナ] 月面パコキ",
+      "team": "ルナ",
+      "emoji": "🐶",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "魏",
+      "score": "17.92",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇩🇪猟友会",
+      "score": "2.46",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ルナ",
+      "score": "0.00",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkdEOxSAIQxnB7v//+KYVHS65ZLxMOZZWB5SyVaX3YWkfzrRHxujwaPFocU/RaA3XgOGuyQy+txeA98UfymMHNXf3IofV2aIueUhqgXtb869IjtgUixMC7ogQNQs2AEU3QGLRCBBmiSikY2JJN838OZnTq1YOCHeBA657e0TaVumiROlb8Bz79M/ppNTvbi7Ynpdm+optvZhsSd9aPsqjPanS/KPTtNAyW0HLS+Zyf2g5i8l/Y8kO+w==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#30e8a3",
+      "5": "#d130e8",
+      "6": "#e83087",
+      "7": "#d130e8"
+    },
+    "sz": 30
+  }
+}
