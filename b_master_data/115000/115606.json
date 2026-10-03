@@ -1,0 +1,48 @@
+{
+  "round_id": 115606,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-03T04:25:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] いただきマウス",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "0.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇼ﾆｺ] うなぁ（公式）",
+      "team": "🇹🇼ﾆｺ",
+      "emoji": "🐑",
+      "score": "0.26",
+      "kills": 9
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇹🇼ﾆｺ",
+      "score": "0.26",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFklEOgDAIQzvm/c9sBAZSs80PE/myPGhZIiBeQPMaHcEFezfN0OkYZqy7A4rRkBKp2lKa0JxDP5yD5HKLXnXmYNSzFMfq7oOsefzgxlc6c+2ZqfcJ61mmVZuaPesNnd1Xc3jqN7oMpj+HjvbVqQOy7ptqegIxCQZz",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83087",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
