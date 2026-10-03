@@ -1,0 +1,48 @@
+{
+  "round_id": 115736,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-03T11:26:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[鯖接] 待ち人",
+      "team": "鯖接",
+      "emoji": "🐶",
+      "score": "11.78",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇼ﾆｺ] うなぁ（改）",
+      "team": "🇹🇼ﾆｺ",
+      "emoji": "🐑",
+      "score": "0.15",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "鯖接",
+      "score": "11.78",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇹🇼ﾆｺ",
+      "score": "0.15",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1k+EOgCAIhOni/Z+5UTKvuHS2dX9gfhyiTkPKriSDGdDyrHjEQt3ds6ZAgGhWcexeXj3zaBwqYEqb8cXbqYuzEhU7ExVj3WhxdwpgTEXv8IQ0olXxBkS/pDuwbUvG+ZRL7X4tHt/X+D9MvNak5rcDHKEHrg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#6ae830"
+    },
+    "sz": 30
+  }
+}
