@@ -1,0 +1,48 @@
+{
+  "round_id": 115620,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-03T14:10:26.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[分裂] 名無しQx",
+      "team": "分裂",
+      "emoji": "🐲",
+      "score": "0.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇼ﾆｺ] うなぁ（公式）",
+      "team": "🇹🇼ﾆｺ",
+      "emoji": "🐑",
+      "score": "0.13",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "分裂",
+      "score": "0.42",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇹🇼ﾆｺ",
+      "score": "0.13",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVzkEOACEIA8CC/v/Npq4HoliziRfxYhwLAFN5rMmAiL4o4DxfJdpdKPiBQ9LseNTaG6j4P6tV/j+wzF5DM9XKFBtrm5aIs+rO+8HcKdESFk046GPXBpRBAJo=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830ba",
+      "4": "#4d73e5"
+    },
+    "sz": 30
+  }
+}
