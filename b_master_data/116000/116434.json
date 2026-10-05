@@ -1,0 +1,42 @@
+{
+  "round_id": 116434,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-05T01:10:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "78.65",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[猛虎軍] チェンウェイン",
+      "team": "猛虎軍",
+      "emoji": "🐲",
+      "score": "15.85",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "94.50",
+      "kills": 15
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNUtkOxCAIVGf+/5sb5BAa3GTfykNJ5oDROkiOwbZuuIkvrnbUV0DLDEQgkNglTVBrKlDKvgaF1Yx/sMfaeROrOcrkynrqdJIi8OAFpKsTu44iLiX2rsMG6ZvJtYKfc8ac7abQDmVWsDSLZLK+r98HeAcI3t6d7HVh03Hzbe0v5zvw/nfNBoWaGBhSQlcS+goeKzUNEQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#47e830",
+      "4": "#e89830"
+    },
+    "sz": 30
+  }
+}
