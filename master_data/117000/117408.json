@@ -1,0 +1,48 @@
+{
+  "round_id": 117408,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-07T14:48:00.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[猛虎軍] キー太専",
+      "team": "猛虎軍",
+      "emoji": "🐯",
+      "score": "88.64",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳赤軍] 旧ソビエト連邦",
+      "team": "🇻🇳赤軍",
+      "emoji": "⚒️",
+      "score": "2.10",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "猛虎軍",
+      "score": "88.64",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳赤軍",
+      "score": "2.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdkFEOwCAIQ6F4/zMvZdkyzNqPfQ5NtLwUQQBAoaK4zwhGXwmBK7+fjkU5WhWyLl/Wb7IH2dDe4NT3fDP9W7X0ZKtD8Sd9+TTrVTVHPoeaItPQ/EppNF5Je/wsLheeOifZAcMMCiQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d64e5",
+      "4": "#e83098"
+    },
+    "sz": 30
+  }
+}
