@@ -1,0 +1,42 @@
+{
+  "round_id": 118832,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-10T19:45:06.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ジジイ",
+      "team": "",
+      "emoji": "😜",
+      "score": "0.14",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[女] 空から女の子が！",
+      "team": "女",
+      "emoji": "🤸",
+      "score": "0.13",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "女",
+      "score": "0.13",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYKABYKGBmaNGDokQYMTrSka80sy4pZmYGBgYcUqDZPFJg9yE02aIZhzOZsIrC9aE02CwrXhloZYCACszAC0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83042",
+      "4": "#59e830"
+    },
+    "sz": 30
+  }
+}
