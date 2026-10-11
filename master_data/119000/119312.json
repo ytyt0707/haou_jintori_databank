@@ -1,0 +1,42 @@
+{
+  "round_id": 119312,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-11T21:41:35.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "猿",
+      "team": "",
+      "emoji": "🙉",
+      "score": "13.25",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[中毒] 虫",
+      "team": "中毒",
+      "emoji": "👾",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "中毒",
+      "score": "0.13",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kcEOwzAIQw3s/795MgSTVlHVw8YhITxs0tS9AmvPDR0ei2J4MyCisTur7D3QVb46S+tIEZcRRwQIPBc6j2/OJa9pF8KuYJDuEuVv6H4TCeV8v013lHO+Qpe2PSk/eqtN2jSmtGU/oUfriHquEDXg06M1VxTWbL1ztuibzGCro7TQbwJgjNFXJm3iR3qHOh+NX9LjWGl56/3wn/wLmm4Cdg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#af30e8"
+    },
+    "sz": 30
+  }
+}
