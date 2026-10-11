@@ -1,0 +1,63 @@
+{
+  "round_id": 119318,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-11T22:01:00.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[中毒] 虫",
+      "team": "中毒",
+      "emoji": "👾",
+      "score": "8.67",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇼ﾆｺ] うなぁ（改）",
+      "team": "🇹🇼ﾆｺ",
+      "emoji": "🐑",
+      "score": "0.12",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[📱] 全員ぶち殺す",
+      "team": "📱",
+      "emoji": "💩",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "中毒",
+      "score": "8.67",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇹🇼ﾆｺ",
+      "score": "0.12",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "team_name": "📱",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdklESxCAIQ6PL3v/KOwQ06dZeoHw4yDOBoQVuMTsczLx8WSnKdPiTykVvUAjAGP98TjYp48IReeNh8CpuKj4YPRkpBLOveFHDF9oW0GAnvL3HZznX2JRvrUkjI2kupJoYRVPBNTOfUhyUPmjTXGKuuVdd2ojVFSAo2sY2e41mXfnEqjtdxiexiXrdW5bf9lATb6r/QuhN2Q8vbwIa",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#d130e8",
+      "5": "#6e4de5"
+    },
+    "sz": 30
+  }
+}
