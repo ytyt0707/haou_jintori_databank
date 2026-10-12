@@ -1,0 +1,72 @@
+{
+  "round_id": 119630,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-10-12T05:52:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ジジイ",
+      "team": "",
+      "emoji": "😜",
+      "score": "33.18",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[中毒] 虫",
+      "team": "中毒",
+      "emoji": "👾",
+      "score": "12.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しOR",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.33",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[DMM] DLsite",
+      "team": "DMM",
+      "emoji": "🐱",
+      "score": "0.17",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "中毒",
+      "score": "12.44",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "1.33",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "DMM",
+      "score": "0.17",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVsSxCAIBEdduP+RU7xxNeFDkYZBlJkZYrHrIRbuFsHcOzSRRCZYCR2oX+jW+JvKXd0OXQkEPO8EYG50jNEl5kaHWMNzhrQGd9gaf1MGA6+1/hq9bZ/oOlJOdKMC9XPN8XGW71VqHrDE7tSh07PUuNW+UZVff1RLjMgqlCrloETE+cs3SvlP+iKlDBDRXmoDawoAEjl7Mfx2aT3V4jTKCzQvG7dYuUkf+VEIqg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5",
+      "4": "#30e85e",
+      "5": "#8B4513",
+      "6": "#d130e8"
+    },
+    "sz": 30
+  }
+}
