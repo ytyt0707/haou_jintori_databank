@@ -1,0 +1,33 @@
+{
+  "round_id": 119564,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-10-12T11:18:41.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[中毒] 虫",
+      "team": "中毒",
+      "emoji": "👾",
+      "score": "0.14",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "中毒",
+      "score": "0.14",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAHt0EEKwDAIBdHR3v/OITQUSXCgi+7qMi9fUSBLsVex3K0kyVMfPnL3w2rd6Ex3BJhJ7KfvL3C9GBGhn8PcDNDOmlXEVddpcAB27gCA",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e89830"
+    },
+    "sz": 30
+  }
+}
