@@ -1,0 +1,50 @@
+{
+  "round_id": 120040,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-13T04:02:12.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] ネギーシャ",
+      "team": "なきち",
+      "emoji": "🥬",
+      "score": "67.86",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] いただきマウス",
+      "team": "なきち",
+      "emoji": "😍",
+      "score": "13.51",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無し9J",
+      "team": "",
+      "emoji": "😀",
+      "score": "4.40",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "81.37",
+      "kills": 13
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtk8EOwzAIQ606/P8vT0AQZlmmHZZDobzYpKgBgDUWCBK9BqQvswgAIi4y9sQLzbK8oRedcgX+QLkSue+pTVN/OoyG4vwrzQ+ih5ZoltZfaMxEFe/5TZv7gl5696nM9miHeTo7MzsthA6V9PXBtnFZPE9OQ1k7bBrK1hYPutlJ6c4oXBqJQB5JTjVpYalW6t97t/4TrWYSxVmqlTatisS8S/F397WS7AWO9Qok",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#7c4de5",
+      "5": "#e830a9"
+    },
+    "sz": 30
+  }
+}
