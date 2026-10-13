@@ -1,0 +1,56 @@
+{
+  "round_id": 120142,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-13T09:32:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ジジイ",
+      "team": "",
+      "emoji": "😜",
+      "score": "13.37",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "10.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵自民党] はい",
+      "team": "🇯🇵自民党",
+      "emoji": "🐶",
+      "score": "4.55",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "10.82",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵自民党",
+      "score": "4.55",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAHF0csSgCAIBdDrCP//y8UrQ9FNi1xk0/EiTIAszotiKc7KcDad0jAFhea48WMprBGikUzKEkoIftUu9BnKrsuVwZF2tS2ezH55fFh3ljO6eu999jCg0nH6T12a9nGs51plUul5p2q1Om2zXriu/AEPLdkomxu1URuljR9WvbWjH/EudwFA/QQb",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#e89830",
+      "4": "#c030e8",
+      "5": "#59e830"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "round_id": 120140,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-10-13T18:26:23.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵NPB] 小園海斗",
+      "team": "🇯🇵NPB",
+      "emoji": "😃",
+      "score": "27.81",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] なつき",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "18.75",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] カプ・レヒレ",
+      "team": "くん民",
+      "emoji": "😣",
+      "score": "12.65",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "49",
+      "team": "",
+      "emoji": "🐺",
+      "score": "4.31",
+      "kills": 3
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.08",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵NPB",
+      "score": "27.81",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "18.75",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "くん民",
+      "score": "12.73",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAFtkgsOwyAMQ02zhvvfeLLzIa2KNIXwsHFh7hq4rou/MQAgoANkt0bs2xyHAgh63wAEi7pTntQ9WGvDQtRvNm+tuwclk9WnNnx0dqZSGSk3nMEmDcs+8tDcVVmz8jZqSbPRMVm2v21mVhtZCdVzldDO1frm9ay9N0SCjpSka62GZm6N+UYPpm2JCakdUk6DCr6ctZU44IMywwpx0gc24SONo3UydUXLmcEKEkesMu7QHX4a96J13mFbxvnR82PDPoHKvKg8/OD6848LydB8vvGCqWRZ6zRTd1a/Zn+j9wxw",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#85d411",
+      "5": "#e230e8",
+      "6": "#514de5",
+      "7": "#85d411"
+    },
+    "sz": 30
+  }
+}
