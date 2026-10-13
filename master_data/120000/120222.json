@@ -1,0 +1,42 @@
+{
+  "round_id": 120222,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-13T22:52:18.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬキッチン",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "67.67",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] なつき",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "25.58",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "93.25",
+      "kills": 11
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkEESBCEIA8Xw/zdvgUKCNaedE5MmBDEzc37zz80AQh+t7gZSAOhBe++kLQTtOYdKUlDi6DMwKumDxezuj1m8mflg917r4F4sCwZfXe02gyO6cAyd11K6PG/J9ly7vIRUpDVSzxUaA6tOQia0y9xQzZCd7xKKc+m+SJF45c3jZB39QRWnV5wzuONYMJja6vKLNmQuJanKK5KUl4oyynhC3X2Af3/yTT+iVQyI",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}

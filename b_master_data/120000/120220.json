@@ -1,0 +1,75 @@
+{
+  "round_id": 120220,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-10-13T13:45:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ジジイ",
+      "team": "",
+      "emoji": "😜",
+      "score": "37.03",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[けんた] けんじ",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "24.67",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[けんた] 中島健人",
+      "team": "けんた",
+      "emoji": "😀",
+      "score": "10.14",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] たぬキッチン",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.57",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] なつき",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.31",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "34.81",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.88",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkdsOwyAMQ8OIw///8eRcgEKn5YFKnNhOqIh8jhIW4B85MUmWN4TWPVL3xPIJi/Aslu5kDDiUK9sBjyXETR9wzp3aJ/xHjVWphxRwmviCi94IpX1Fi56bZvuW+2KwaBOoAttrSU7FvVvTrrq/pYTUAOmt9aG6SWtkM/QxxJS1xafWrA+zoMRqsLkQexhCqaiqazYaFyEuPyDNst3v2ei7vFKrWZ0Kk9LZjMNMbOr/9icl3rSxbXrcU01nrl0Va9RPSG3BnCp85/kF3aAOBw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#60d411",
+      "5": "#e830a9",
+      "6": "#c030e8",
+      "7": "#8B4513"
+    },
+    "sz": 30
+  }
+}
