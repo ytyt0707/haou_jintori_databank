@@ -1,0 +1,57 @@
+{
+  "round_id": 120632,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-14T12:01:47.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤍",
+      "score": "84.42",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しxD",
+      "team": "",
+      "emoji": "😀",
+      "score": "0.15",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[女] 空から女の子が！",
+      "team": "女",
+      "emoji": "🤸",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "84.42",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "女",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFU0ESwDAExLb//3InREZDnToTF2KxJEFEBNAUgF9C2IQ5hJToqpBR8xhBQhcRs7bk5z1wdOrYri8dxL05rkmFXoKnFvpArs45eb9mzkPG3gs0Fop2TDtn3+MdWvrfURFIxyhicE3co15Z18tIfNVM6697AI5RCSY=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#6ae830",
+      "5": "#e83042"
+    },
+    "sz": 30
+  }
+}
