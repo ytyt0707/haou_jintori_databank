@@ -1,0 +1,42 @@
+{
+  "round_id": 120552,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-14T07:42:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しY3",
+      "team": "",
+      "emoji": "🐲",
+      "score": "44.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[草民] 名無しyh",
+      "team": "草民",
+      "emoji": "🌱",
+      "score": "0.21",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "草民",
+      "score": "0.21",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkFsSwDAERdHsf82d6xVJTDvT+gkOFyFKk2qZDadCEYm0v5NuAKFBfRoa/NAMaS9oW0mMbvCasQ5HODJXKEEAEJYF0/lOXU+FTZqZXTiS/urggwYEZVjumQQOsgaXtAfRy37iWvMoPJxi7tqm0QvVje3eppmZtr+oRflP7eBCG77+cFWF358SVd2Zwcb4Rc9m3d22vQGwDQcX",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#af30e8",
+      "4": "#ced411"
+    },
+    "sz": 30
+  }
+}
