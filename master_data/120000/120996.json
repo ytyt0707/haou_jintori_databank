@@ -1,0 +1,57 @@
+{
+  "round_id": 120996,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-15T16:41:55.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しWm",
+      "team": "",
+      "emoji": "🤖",
+      "score": "38.01",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] 辛ネギラーメン",
+      "team": "なきち",
+      "emoji": "🍜",
+      "score": "17.48",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵ONJ] 49",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐺",
+      "score": "1.83",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "17.48",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.83",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkEsCAyEIQ4PC/a/c8hWd2mGh4DMYBKQHiIhs0YQahECwyE6hISImiqW0jl5p9UZ7t7RIVyDqhj1HONPtSSWNh8vzxlKfROs3auMun3sLHyqp/VH9i9vKr9Pq0BpKrfynu1RNe+zngLCP9IMCzMw28EEBMaY4+jazqsooqom9ncT34sNodo1Li07Fu5Q58Bhj3ilg+KIFpsaVGj9ouQIwHuJOVc3qk2OwHfaqpvkefgB1MwnU",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#3092e8",
+      "5": "#e230e8"
+    },
+    "sz": 30
+  }
+}
