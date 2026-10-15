@@ -1,0 +1,42 @@
+{
+  "round_id": 120962,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-15T05:51:38.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] たぬきたち",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "89.90",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ジジイ",
+      "team": "",
+      "emoji": "😳",
+      "score": "6.24",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "89.90",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVksEOwCAIQ5Xy/9+8iBIYEnZYPMitvFabKHBsenlyTctoBZkXbS3aeExcqhZ4AyVtDOydydGJzQ28qScYcGbzdyHFPtXNK1mT4grSJwF80D/Y9QqX5r22n5KlDu4evjIKkA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#e83042"
+    },
+    "sz": 30
+  }
+}
