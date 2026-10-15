@@ -1,0 +1,57 @@
+{
+  "round_id": 121052,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-15T10:43:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[陣取り] 最弱王ですぅぅぅ",
+      "team": "陣取り",
+      "emoji": "🦊",
+      "score": "63.99",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ぱと] カゲロウデイズ",
+      "team": "🇯🇵ぱと",
+      "emoji": "👽",
+      "score": "6.10",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[陣取り] 名無し5a",
+      "team": "陣取り",
+      "emoji": "💩",
+      "score": "2.05",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "陣取り",
+      "score": "66.04",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ぱと",
+      "score": "6.10",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkssWhDAIQ5mm/f9fnkN4duzoVjYi1wSkFckYW2RZE0DuIIRYBmSUDhGLWF0szDHeSNnjSAE6xtddu9aKcj7L6JH+ip+ts8shqd87QLyC+gHMHLCWlaUpn8j7Prw2NSy/ULLAFwrHFP+l9N4oFzeny2G3wadp4/tcKo1rVpmKVULqOKhgo+7czkudTZjOaC2SFS2P0EnzI03A5AtR5AhE",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8d7",
+      "4": "#8b4de5",
+      "5": "#30e8d7"
+    },
+    "sz": 30
+  }
+}
