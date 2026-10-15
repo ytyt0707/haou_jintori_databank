@@ -1,0 +1,81 @@
+{
+  "round_id": 121090,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-10-15T21:46:37.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "障害物",
+      "team": "",
+      "emoji": "💩",
+      "score": "48.57",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ライム] R指定",
+      "team": "ライム",
+      "emoji": "👺",
+      "score": "1.03",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ライム] なぞなぞさん",
+      "team": "ライム",
+      "emoji": "❓",
+      "score": "0.48",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[なきち] 名無し8M",
+      "team": "なきち",
+      "emoji": "🥺",
+      "score": "0.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🍂たぬき] ニャル子",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.09",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ライム",
+      "score": "1.51",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "0.22",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.09",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkeESwyAIg6Nb6vu/8RYqmtp6u/Gjx/GRIJT0wBLOuDDgD3oTdy1Ol9U6nUFqyoKTBrhSAkW4XMvToATbUaCU0PM9JZYltZKlQZ8mH70pHm4Cpa1l4YG2lru/7rSp5M7R0j+H90tsf0uupjVCsslWd89wV/IgGzDoxXd0ZoNcRnEmXb6hfbRGTIllqCJ7Wn9RLWZ+IwVqlfcjVbkPHgK7acg20nHL8xrxvOnx3eQDotIJIA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#8B4513",
+      "5": "#e87530",
+      "6": "#e830ba",
+      "7": "#e830ba"
+    },
+    "sz": 30
+  }
+}
