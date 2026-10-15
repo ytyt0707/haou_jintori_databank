@@ -1,0 +1,42 @@
+{
+  "round_id": 121010,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-15T17:27:19.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しWk",
+      "team": "",
+      "emoji": "🐲",
+      "score": "4.25",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ライム] なぞなぞさん",
+      "team": "ライム",
+      "emoji": "❓",
+      "score": "0.11",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ライム",
+      "score": "0.11",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNz0sOwCAIBNABuf+ZG9QYgjCLdlNXyJOPQHmkzO6kyM3jFBR4DBDctZs1PEuhqvbq2Cu4Oqdh8fqpN5+sAJsct/hZ/GZtMyO/MD+tM53W1hpY41VLx7YI78yUWKYHNL4A6g==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d130e8",
+      "4": "#30e870"
+    },
+    "sz": 30
+  }
+}
