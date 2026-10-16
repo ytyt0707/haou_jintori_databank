@@ -1,0 +1,57 @@
+{
+  "round_id": 121510,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-16T20:28:33.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "15.99",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ジジイ] ジジイ",
+      "team": "ジジイ",
+      "emoji": "😳",
+      "score": "0.11",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "猿",
+      "team": "",
+      "emoji": "🙉",
+      "score": "0.11",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "15.99",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ジジイ",
+      "score": "0.11",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kVkSwzAIQ2Va7n/lDovAkEz9w/KQTByAR1UhympHp7vJWmFaYfmICsFNv2tCRASf1awyjWO1a8ErBS56SslEncbIG1U7Pux0jDgLfI6RQQFQfOLwTo/lixcazmaAE/zW8t7cy/XNk0YjvXuxQZF3U7ygfZGdxGr/Mu6kwLar3D+3q5m59Wx1Fc7LunE/5N3rPNbuemb/af0jiuYWf9d+aOnBOJ5rGtvIwNRU9Kf+AVUdAyI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#60d411",
+      "4": "#e84230",
+      "5": "#30e8c6"
+    },
+    "sz": 30
+  }
+}
