@@ -1,0 +1,72 @@
+{
+  "round_id": 121542,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-10-16T13:12:14.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "51.85",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しoz",
+      "team": "",
+      "emoji": "🦄",
+      "score": "2.78",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵ONJ] 空〜女に切られた",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤕",
+      "score": "0.10",
+      "kills": 6
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "けんた",
+      "score": "51.85",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "0.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.10",
+      "kills": 6
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9ktEWgzAIQ5Et/P8nb1CgpLr1RcwlgWMVmBn2ETooKquDoAQ1g8jCBxUxM3MxzEwl6NJ6OrUsa7m9Z+JMzuw7zd7n6BOe9uApZsKc7TWuC8ivwps5ddgn2ocf4U2sA0TpeuU+ws7Fm70bRMWwIrNJVXxM97BXVV34QYH/lKdzcr518rEW8Jpzb5S2Gne/h+zkJ1yB868a3rHdVqsqb//uBfgpfXusp9wpRb/38AHpNAoF",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830ba",
+      "4": "#9ca3af",
+      "5": "#aad411",
+      "6": "#30e8e8"
+    },
+    "sz": 30
+  }
+}
