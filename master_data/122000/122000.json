@@ -1,0 +1,66 @@
+{
+  "round_id": 122000,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-10-17T22:57:16.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[くん民] ギアル",
+      "team": "くん民",
+      "emoji": "⚙️",
+      "score": "59.75",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] いただきマウス",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "24.46",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "7.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] ニャル子",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "2.99",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "91.37",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "2.99",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kUsSxCAIRFUa73/kKf6YMtkNG9FHN6hrWaAHEemWBtZa3FHmRBgA36FUDXxhpdYlLSsR+grVuWqf2Zd2qOu7s1+7LI/SY1M1PukfqP9DOMcarf2XwBZ5LAmJNgReIIsVCU3caMdEtmu4xACZ141Kmfei5HYIku/JiZNKKzHUies0s6HdnJZBcgabQcw8C8WlRaZNeB7ULw3w1njQwE73POX2JqHd+07jHfbu7q79AW0MDoY=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e881",
+      "4": "#30e881",
+      "5": "#30e881",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}
