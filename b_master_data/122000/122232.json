@@ -1,0 +1,39 @@
+{
+  "round_id": 122232,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-18T02:29:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] 家系ラーメン",
+      "team": "なきち",
+      "emoji": "🍜",
+      "score": "8.26",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "8.26",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "異界魔",
+      "score": "0.00",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdkAEOwCAIA4v8/89LO2FoxAeMZAv2KILAD8IY/R53LGrAscULo2S7ooNVNwNHG6s1KySPjVJURUuFezp3GePUWc0BtBR8yp7y2jsl1nD6uTvAT0FnoR5R8ExpiqDEVyzOjbJivbR6NXL2hX/mT8wsjDlzEiZBF7EcuGgsW+Rb+gDDmgGK",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d64e5"
+    },
+    "sz": 30
+  }
+}
