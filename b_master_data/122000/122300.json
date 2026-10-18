@@ -1,0 +1,63 @@
+{
+  "round_id": 122300,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-18T06:10:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] Λαγωός",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐰",
+      "score": "89.40",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[陣取り] 最弱王ですぅぅぅ",
+      "team": "陣取り",
+      "emoji": "🐷",
+      "score": "0.38",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[CAT] 猫JKファン",
+      "team": "CAT",
+      "emoji": "😈",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "89.40",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "陣取り",
+      "score": "0.38",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "CAT",
+      "score": "0.12",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1klEOwCAIQwfM+195qdPEIpCYbHw46SuVj5mhVHGMb1fcob2mCDcXMCvUMeMOr67KekdISus3a2qt0YLc0D6MvuukiiqhScd3HCAiwwB+ORNG33EHZovxvGpaJ+epMcHqfv3Year+k7pt4f/kzTCEB+OzCjc=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#8b4de5",
+      "5": "#30d7e8"
+    },
+    "sz": 30
+  }
+}
