@@ -1,0 +1,42 @@
+{
+  "round_id": 122254,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-18T12:40:56.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[２窓] プレイヤー２",
+      "team": "２窓",
+      "emoji": "🐶",
+      "score": "6.45",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[２窓] プレイヤー１",
+      "team": "２窓",
+      "emoji": "😈",
+      "score": "3.39",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "２窓",
+      "score": "9.84",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNj0EOwCAIBJe6/39zAwqJRLjYQ7koTgZWIOrRii5fjNZ84ixF38/GFX5Qp9YAPY2In1/GeSJJjoIBSkmCPNpDXa1MRR8cHrGtnfJuC0zGYlkWMVzQ5a5U2fWUvtv7/dT/NnVDm7H/QS+4OQF7",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#7c4de5",
+      "4": "#7c4de5"
+    },
+    "sz": 30
+  }
+}
