@@ -1,0 +1,42 @@
+{
+  "round_id": 122342,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-18T17:26:18.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] 家系ラーメン",
+      "team": "なきち",
+      "emoji": "🍜",
+      "score": "9.66",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "にいちゃん",
+      "team": "",
+      "emoji": "😅",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "9.66",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdkNsSgCAIRBfa///mBgccKy7v8WJy9qAG7NJvbQbgoP590gN79EEBtbao+qQXta2ISNKOVsdMjtzfVvtjcxFgkyLZ4JlWspnlaIeF21M4Lt40ytdK5Dbp03OMOLu7eKWau1ghZ94N3DUB2g==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e8ba30",
+      "4": "#30e8b4"
+    },
+    "sz": 30
+  }
+}

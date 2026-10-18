@@ -1,0 +1,48 @@
+{
+  "round_id": 122334,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-18T08:00:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵千空] クスタ",
+      "team": "🇯🇵千空",
+      "emoji": "😈",
+      "score": "13.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "0.76",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵千空",
+      "score": "13.12",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "team_name": "けんた",
+      "score": "0.76",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklESxCAIQ4N6/zPvAmKJUmfKh1UfCRmnrXGBilkjBmS6IRDtWtzxaFHQsAacFmK3M+1B0aasshaRTCmYWLlprCn3QRMDdipEDYdn1xBULpZRJXZnkT5ueLzQqXbp9lQztA7XwZToYdv1PFpiXUq8aMkXvWsXzX/eV+0y0Y3GNQO6jcPVWqG/SbQf33dnbbXRh+Z/8QMx4gK/",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#c030e8",
+      "4": "#30e83c"
+    },
+    "sz": 30
+  }
+}
