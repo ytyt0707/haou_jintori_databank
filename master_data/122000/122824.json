@@ -1,0 +1,48 @@
+{
+  "round_id": 122824,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-19T19:29:16.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 名無しAD",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "12.90",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しj9",
+      "team": "🇯🇵ONJ",
+      "emoji": "💩",
+      "score": "3.30",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "12.90",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "3.30",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHN0kkWgCAMA9B0uP+ZfS3I1ODa7vQbWkAgSkpBElY1MRGLkgVnPCl5RpnuaYnmIxpr7w4sWFtvuveNpyVb8WUmI8ywb9/MmPZ3/1TwmVXb1FR16nk3kXo5764eSA+bHT9NfjmzNThWdjpVsAN+OWdVz7pkGzrrCuBbky/JCN+JywOhHwJB",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
