@@ -1,0 +1,57 @@
+{
+  "round_id": 122804,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-19T18:24:26.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[攻意識] くんからきた",
+      "team": "攻意識",
+      "emoji": "😍",
+      "score": "8.69",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプ・レヒレ",
+      "team": "くん民",
+      "emoji": "😣",
+      "score": "2.96",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[くん民] ポッチャマ三吉",
+      "team": "くん民",
+      "emoji": "🐱",
+      "score": "2.87",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "攻意識",
+      "score": "8.69",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "5.82",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kIESACEERFf0/798Q+kK1czNxbOLgHgoJraY6EXxxkR4qEst82xe9t1oNmbe8LaCXRVu1kQeJAoQIdOljs4w6wvW9OBAay1qp1SrCqrVVoELdueL+N84NR7WcZwjnhuVUpvrqD4DZu4jczykFzFjYs+svwigX30EIiJdxcWDSzfYjScDVUrXk5AmFi2xjXTVmqFvXLqH5AffWwIM",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e870",
+      "4": "#bcd411",
+      "5": "#bcd411"
+    },
+    "sz": 30
+  }
+}
