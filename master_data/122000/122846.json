@@ -1,0 +1,48 @@
+{
+  "round_id": 122846,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-19T20:40:35.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[混沌] ニャル子",
+      "team": "混沌",
+      "emoji": "🏁",
+      "score": "44.09",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "混沌",
+      "score": "44.09",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "0.12",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGtkQsKwCAMQ6vr/c88kv4m1sFgMlj1JbGqyD9DtcvRZUBhC6ZdICZOGbXBWKA3Js2fm8yZJEKRL/hUHzRl1j9heTc6z1ZB7tHKLj5Tv9NqY6lOlGd0+Di9e3k/rzQgcnBly6a8p1GSfFNTiUjBy2UZADpGCSIGAqsbGMfpjDC5tXWidzx6vy1p7Nt25Q32TTtEeJZN8QqhvwFezAZR",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8c6",
+      "4": "#c030e8"
+    },
+    "sz": 30
+  }
+}
