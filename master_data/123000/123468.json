@@ -1,0 +1,33 @@
+{
+  "round_id": 123468,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-10-21T06:17:13.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] 野晒",
+      "team": "ラー軍",
+      "emoji": "🤠",
+      "score": "16.65",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "16.65",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1ktEOgCAIRS+X///ndkOcsrS1igebHI+IRg5hNQZGckkBCM8LlFIgaNFliACMhWbm7m6WzrlnbHGOorG0eT0r0mKsRzLTneZZFq70LFncng9eabZxSX3upbhrCsAf0Tx7XG1139F2AQD0UvEG1+N/FNu6d3Qrb2H22X7ZnH70PQDdywRE",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#994de5"
+    },
+    "sz": 30
+  }
+}
