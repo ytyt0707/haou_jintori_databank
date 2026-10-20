@@ -1,0 +1,56 @@
+{
+  "round_id": 123300,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-20T12:12:27.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しU6",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥺",
+      "score": "55.29",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しgp",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐲",
+      "score": "3.79",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] 野晒",
+      "team": "ラー軍",
+      "emoji": "🦄",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "59.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1ktEOxSAIQ0sb/v+XF1REnbkvN2PJdDtSChuwBt3ZYqwrA0in5HHFjfAZcVASKaoFT4qg3lhkLblNBCTjNXAodwqqwaiz5ZqbuxiJGWnKeoTRJQ5qnLpxqNORaUb/pWwbrI56OnCvm142W+kqzWhr6aSQ+qya1oWKs3bRTFm13xSqWW40H9J/9Zsk1n/o0MmvsMrW/kNaRS67e7vj4NvU/JdqInM05+YBX6IKaA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "5": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

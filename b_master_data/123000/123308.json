@@ -1,0 +1,48 @@
+{
+  "round_id": 123308,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-20T12:38:23.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] いただきマウス",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "4.76",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] サッカーラ",
+      "team": "ラー軍",
+      "emoji": "⚱️",
+      "score": "0.14",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "4.76",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "0.14",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlkFEOwCAIQ4Fx/zMvRTQq4OL3+qHIKyWRCGLiJntthyNm3oBNnqiISB0MKmkogo0mC9FSwyt85qcKPFHe1KbIreO08CxUw5YZx/wisxuBe53cXzQZGa1Trn3ocF4W5+DLsH/aX1ycAWI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83042",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

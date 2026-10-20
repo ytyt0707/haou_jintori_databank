@@ -1,0 +1,82 @@
+{
+  "round_id": 123304,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-10-20T12:25:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] サッカーラ",
+      "team": "ラー軍",
+      "emoji": "⚱️",
+      "score": "35.31",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] ジジイ",
+      "team": "ラー軍",
+      "emoji": "💀",
+      "score": "22.84",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] 野晒",
+      "team": "ラー軍",
+      "emoji": "🦄",
+      "score": "16.31",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[ラー軍] ゲブ神",
+      "team": "ラー軍",
+      "emoji": "🥱",
+      "score": "12.66",
+      "kills": 0
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[ラー軍] 名無しKj",
+      "team": "ラー軍",
+      "emoji": "👽",
+      "score": "1.59",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵マウス] 名無しlJ",
+      "team": "🇯🇵マウス",
+      "emoji": "😀",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "88.72",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵マウス",
+      "score": "0.00",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklEOAjEIRImEwfuf2MxAsdU1Kh+bZt8+ZiE1MzMA0IOHvQgvgT76TqOa3feegDPOrOHJmkb8STMT5QbraJpV8ARE3zHdoQd25++6Z1q53bxm8qrc6GYLhjO+3FvEfZbRLoCmQfqCE8stemJM59OFMp+5TB+To3atifaN5RWdoZJ/LXtzddTKiX+gs8rVhPK4vBtHETb15K0b6u5BKMps3cmFSUPQtOzN7eX3rJ+ohqlP22X0ckn7XLkKryi+1yJ0KKDnyP0u0x56DBEf",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#e83053",
+      "5": "#e83053",
+      "6": "#e83053",
+      "7": "#e83053",
+      "8": "#e83053"
+    },
+    "sz": 30
+  }
+}
