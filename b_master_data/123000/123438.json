@@ -1,0 +1,33 @@
+{
+  "round_id": 123438,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-10-20T19:40:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[いく] ぬんぬん",
+      "team": "いく",
+      "emoji": "🐶",
+      "score": "0.17",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "いく",
+      "score": "0.17",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdjzEOwDAIAw39/58r0ijhrEpZOtUT0WHHRECiwCIiE5xYhCI1r8FArlsP3kQtJmephS8q1TmGJ332jZWhtMIYfMBIllJwj9wWXXS3xq+z22oxWu2XTy/etnKkbdfHXtfZz9/Xt/fd0IgBEg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811"
+    },
+    "sz": 30
+  }
+}
