@@ -1,0 +1,44 @@
+{
+  "round_id": 123255,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-10-20T09:45:41.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "くんからきたあ",
+      "team": "",
+      "emoji": "👽",
+      "score": "20.25",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しwl",
+      "team": "",
+      "emoji": "🥺",
+      "score": "15.05",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しEd",
+      "team": "",
+      "emoji": "🦊",
+      "score": "3.75",
+      "kills": 0
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eAGFkQEOAyEIBBeB/3+5WVAQ07Tk4gkjCyhwmUBEAIistItFWMKwFrC4XJaIK+MPbUj5hxa81MY2D4zQcMhHYDg/4R54JJQTdct7N7Ok2cvDt4g3fJMs7KTOMZKZwd09r/8cBPCFXuKDMplW/DtNfBh7ZuEorap8tSoaY03aHeXMSR3QtNZt5X80yqrqyN3CDo2hJt4tu7vuxt07u2mM5R6B4ke5WicuOpJDHA3365cCW6vMfn5eKb9D+Qc+1nIGWQ==",
+    "cp": {
+      "1": "#a74de5",
+      "2": "#30e892",
+      "3": "#e83064",
+      "4": "#60d411",
+      "5": "#4d56e5"
+    },
+    "sz": 30
+  }
+}

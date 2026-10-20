@@ -1,0 +1,42 @@
+{
+  "round_id": 123252,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-20T18:36:57.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "38.79",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無しEd",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦊",
+      "score": "0.65",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.65",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkEEOgDAIBFfg/282ICCUxoseJNFWh6GU4/CgO3CFCAYTIoiH09sjCiThVsjMyWGyU2miuoph1N6p2cbbAwH2ANnS5UZCrEWPXwD7tkA9d4k/0NlW7WpPcyLLfdqobNA94blyVtW0LupXlT+ltfA89wVt6qhcKOZ9C91M45nmdDQNJ2OdBjQ=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#30e892"
+    },
+    "sz": 30
+  }
+}
