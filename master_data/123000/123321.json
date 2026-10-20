@@ -1,0 +1,44 @@
+{
+  "round_id": 123321,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-10-20T22:19:32.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しPV",
+      "team": "",
+      "emoji": "😂",
+      "score": "18.56",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しpi",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.20",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しFM",
+      "team": "",
+      "emoji": "👻",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eAGlkAkOAzEIAyFp///lyiYO5NhKVZE2B4MNWbNfwr8W/0HdzfjdGnjQ2I4Cr3FQuKrgBsnM7qM/ThROwCVaKxc7PJP23lEZ69C0qe7AXNJuQgJAOkibhUQrtaXxrpW0Y54RysUeCrGlMR+RBKfU4ljZ+l7BLEmlGNz4M3Zp2LIMqtKUV+KRfy+2c6Itq+uYV9dzf+lFJ0JGne/0KfsB9Q4CQA==",
+    "cp": {
+      "1": "#e83030",
+      "2": "#30e8d7",
+      "3": "#604de5",
+      "4": "#d4b611",
+      "5": "#30e83c"
+    },
+    "sz": 30
+  }
+}
