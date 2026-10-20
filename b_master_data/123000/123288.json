@@ -1,0 +1,71 @@
+{
+  "round_id": 123288,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-10-20T11:33:36.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤍",
+      "score": "81.25",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] 名無しza",
+      "team": "ラー軍",
+      "emoji": "👽",
+      "score": "2.88",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] 野晒",
+      "team": "ラー軍",
+      "emoji": "🐶",
+      "score": "1.02",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しxi",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "みん²",
+      "score": "81.25",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "3.90",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFk8EOxCAIREGY///lDWMVtK3ZZA87h1J5OqBGEQpdIoz9C+AaX3QPc9oO/jF2P1b9jpZZMgwz58Ydi0DgFJAUNhsYcCYAmAH9wJ5p8Be52YH+cAvnpYW2e2eV3nHS1ki1OiQFqWrFCw2uoZEdEQCtCef6V8oChbIw69IgutuoqDx31ULxasqW8j8gVrg6x6ta9QFrmw9R",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e83c",
+      "4": "#30e83c",
+      "5": "#af30e8"
+    },
+    "sz": 30
+  }
+}

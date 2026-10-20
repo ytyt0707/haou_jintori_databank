@@ -1,0 +1,48 @@
+{
+  "round_id": 123280,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-20T20:07:40.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "72.45",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] 野晒",
+      "team": "ラー軍",
+      "emoji": "🦁",
+      "score": "0.23",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "72.45",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "ラー軍",
+      "score": "0.23",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1j0EOgDAIBBfw/282FEiJAqkHjYmUkc4ikh6k+u/yyHWNKWbajnJJiKxdU2fMA65g2pKlniUK9TMXFLVUnCZFvsBpbu3aoa+8+1YBZn724zzS3ou4l+idWaFri1RGO+8JtVgi699YRPysZgA91amP1EPZZ3sAWW/GN9gqCE4=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#e83087"
+    },
+    "sz": 30
+  }
+}
