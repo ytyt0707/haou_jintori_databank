@@ -1,0 +1,33 @@
+{
+  "round_id": 123404,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-10-20T17:49:43.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[暑い] 名無しUh",
+      "team": "暑い",
+      "emoji": "🦄",
+      "score": "22.58",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "暑い",
+      "score": "22.58",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkFEOgCAMQ4u7/51NS5oUAmr8Yh8Kvr2lE8hqUyUDmR5uGuhA1CrcAEyadELPiTe/gc4Ka5KpGzxGSnVz0ssVVBqaSVWq7GOoB4oHqn227jvF1tUCR1NmH35zv5yZOYKuQgf+c7y+SjeInALv",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#bcd411"
+    },
+    "sz": 30
+  }
+}
