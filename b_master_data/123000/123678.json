@@ -1,0 +1,48 @@
+{
+  "round_id": 123678,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-21T08:38:05.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] BOAT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🚤",
+      "score": "50.05",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[幻想郷] 矢田寺成美",
+      "team": "幻想郷",
+      "emoji": "⛩️",
+      "score": "4.88",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "50.05",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "幻想郷",
+      "score": "4.88",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGF0UkSgDAIBMAB8v83W2DC6sLBUltwUGAXa4GYmaIOwlQPktgVEK2pdjsOabb2BtjZ0LXaE3cwAMuqqcD8WXU3rUe1zV9VWAAieX2v5TgKcM61L0LH2iI62Ss33+dO0Nn9q1Xt3VlrMLG1wrnE1jlhwNTC/bW1+VMn5sk0ucQanLUvXFP96OfkgTlz/0PtU3qvR70A2/8Gmg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#604de5"
+    },
+    "sz": 30
+  }
+}
