@@ -1,0 +1,48 @@
+{
+  "round_id": 123726,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-21T20:13:44.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] BOAT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🚤",
+      "score": "43.64",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しKU",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "8.54",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "43.64",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "8.54",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAF1klsWhDAIQ8Nj/2ueQ4BC1eHDll4SigrIHZ0jQ3yw+ySFu1qE8BS0mmI/UV5NXcRDWEGaTBUD4O5mD8qOJTRLDBgAVUVIMgBSF6muGiuZmSW1Q0MKqKuGilIbCmJVI40KhvedQ6zasoTi2VjjWpq+pYslacPxRXY/zlHxEse0OfAbcbjCq99sj3aOuMuhv33rdbHv+z7/KB3RtMVX2wPjk8RIF93J+OzT3i+fPlorrVd+bQnrcQEmm9ZvMUUXxHz/KLzZZ/YDhUYGuw==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}
