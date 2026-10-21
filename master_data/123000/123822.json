@@ -1,0 +1,42 @@
+{
+  "round_id": 123822,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-22T01:25:01.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 🥖",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥖",
+      "score": "0.15",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 新井貴浩",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐉",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.31",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1klESgCAIRFnq/mdulBAWqumj+gF9u4CaYn5q4WKRAQBVkhbqS/GkRXZXHdNmXhvbyiwRkVoqKTLtHZ7oYG8rp4aeJq/uvhkxRuaprGv0JerQBhNBVAGQ6VTceU15R88yMWqvLI/e7Ozez2g9Lt3Fj337PdOR6lj8Rlk6/hA5ACdmAn4=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
