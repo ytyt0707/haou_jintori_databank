@@ -1,0 +1,33 @@
+{
+  "round_id": 123520,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-10-21T09:05:47.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[緑] 名無しRX",
+      "team": "緑",
+      "emoji": "😀",
+      "score": "84.40",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "緑",
+      "score": "84.40",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZkYCjGiAAUmOmRkkyYCsAiILVYSQgKjB1MvIyAABIBrDZLgsSA2KLIiDXxZqLpTC0DwqMBhCADNSSXMVExMTHg34ZZnx6sVjLBlSpPsTADivCWo=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5"
+    },
+    "sz": 30
+  }
+}
