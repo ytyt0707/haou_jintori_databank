@@ -1,0 +1,44 @@
+{
+  "round_id": 123665,
+  "game_mode": "SOLO",
+  "player_count": 5,
+  "played_at": "2026-10-21T07:54:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "BOAT",
+      "team": "",
+      "emoji": "😀",
+      "score": "11.59",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しiy",
+      "team": "",
+      "emoji": "🦄",
+      "score": "0.21",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しHt",
+      "team": "",
+      "emoji": "🐲",
+      "score": "0.18",
+      "kills": 2
+    }
+  ],
+  "teams": [],
+  "minimap": {
+    "bm": "eAHNkUkOgDAMA50Q/v9llKUojqi4cKAn2pGnTlFVxXbpG21JM2s7QFXbgTlu+yF2HCsVs9KCJiKC0XhBICm1MDuWNyhBLOrIzaCLSxyXJiWM4GclfWCSF41Sbn6gJoBE6Pk5bh+Hs1eDpK7WhZVHQpZuP+LWxMdQM4zwPPp2T5Ns1dv628SvwQUqEAIy",
+    "cp": {
+      "1": "#e83098",
+      "2": "#c030e8",
+      "3": "#aad411",
+      "4": "#30e8d7",
+      "5": "#4d56e5"
+    },
+    "sz": 30
+  }
+}
