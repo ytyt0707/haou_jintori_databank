@@ -1,0 +1,33 @@
+{
+  "round_id": 123912,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-10-21T21:16:49.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しfF",
+      "team": "🇯🇵ONJ",
+      "emoji": "😍",
+      "score": "95.65",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "95.65",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZh5UgGFQuWaYOmYgA5mJCU+gMjDjk2VmZsSjl5kZq9Fwv2KVhZvHREgarpIyBtw5yMYAAHeyCnA=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
