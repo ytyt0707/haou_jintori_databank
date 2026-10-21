@@ -1,0 +1,57 @@
+{
+  "round_id": 123834,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-22T02:03:55.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 🥖",
+      "team": "🇯🇵ONJ",
+      "emoji": "🥖",
+      "score": "30.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[姉妹兵] シエスタ410",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "1.59",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[姉妹兵] シエスタ45",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "0.74",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "30.08",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "姉妹兵",
+      "score": "2.32",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkVsOxCAIRS8g+9/yBJBHbJ2kfrTE4+H6AL4NBiAicrf+UWNXecPX1sH0zU1t/4+N+azqWsurL1TV8m6uStCIPfrGHUWifQsT0b7A8AYkHw9abqjgFocMImIbRb3KXGvdlEWYxV7Sh+c2FXmo3Tr7p1u5CSyfZ+u5J4elImTfceplOhx7jlXt5olStNimIGKgozGewDs7vLkBmSWfcXa2EL/pTOvT7hmjOJVcbXLXUf0Ajc0Ebg==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#85d411",
+      "5": "#85d411"
+    },
+    "sz": 30
+  }
+}

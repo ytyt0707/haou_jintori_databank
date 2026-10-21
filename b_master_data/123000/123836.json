@@ -1,0 +1,42 @@
+{
+  "round_id": 123836,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-21T17:10:25.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[姉妹兵] シエスタ45",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "44.68",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[姉妹兵] シエスタ410",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "15.51",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "姉妹兵",
+      "score": "60.19",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklEShDAIQ6Fw/zPvVEkAW+vyI/aZkDKKCsoMHZ+qIobiKRrVhKtY1RzSlYrqmaZ0FVvVWkREqpopTUg/cCpKR3GJnPhf6qiU5sbBvI1I6+BFirUMkR0MTNqU82V6j7GXPmgPBWdGflhfoenc7hNjc+4LfYt1Zz7T0zaEu/J+p92i8aeQXeppDxKb6B94DKmn6H0Lf5WKBxo=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30c6e8",
+      "4": "#30c6e8"
+    },
+    "sz": 30
+  }
+}
