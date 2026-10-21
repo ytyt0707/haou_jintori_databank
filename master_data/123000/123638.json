@@ -1,0 +1,48 @@
+{
+  "round_id": 123638,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-21T15:28:25.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😆",
+      "score": "90.05",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 名無し10",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤠",
+      "score": "0.76",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳謎の男",
+      "score": "90.05",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.76",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNk9sOwCAIQ3Hl/795YQa3MkF8EXu4VBNFAAgtmDTXG7mydsUnb6mtQFtZ2yS9zO4WAbhKqoazWj3Rau6Bmd1s7rxKh2Y5U69p9mBZVd+Vdx7Do13tCJjmRhjeKjRmGiFTtnQ6kalfI6axl5RYHuyfzGpN8bPcQlgJrQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30d7e8",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
