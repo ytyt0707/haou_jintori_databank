@@ -1,0 +1,42 @@
+{
+  "round_id": 123762,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-21T22:10:31.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇹🇼ﾆｺ] 名無しCr",
+      "team": "🇹🇼ﾆｺ",
+      "emoji": "😀",
+      "score": "1.71",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇼ﾆｺ] うなぁ（改）",
+      "team": "🇹🇼ﾆｺ",
+      "emoji": "🐑",
+      "score": "0.70",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇹🇼ﾆｺ",
+      "score": "2.41",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkDEOACAIAwvl/282xsQFbCKDk4ylPRqAP/cfMB0xm4aI0mVzEMctVHYRa3B5LYntrHtiPRfa5XVTKi4pwmRQGRR4Ywd5DgBe",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e83c",
+      "4": "#30e83c"
+    },
+    "sz": 30
+  }
+}
