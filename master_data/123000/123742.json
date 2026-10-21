@@ -1,0 +1,71 @@
+{
+  "round_id": 123742,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-10-21T21:05:39.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] BOAT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🚤",
+      "score": "16.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しL8",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "1.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇮🇳(>_] 運転花",
+      "team": "🇮🇳(>_",
+      "emoji": "😈",
+      "score": "0.15",
+      "kills": 0
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しMx",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "16.11",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "1.04",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇮🇳(>_",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1kkEORCEIQwvNcP8jT0BFJKO7YfPBRwuaD8yQX7EgQCucIqRIUi8i1lcKZaHgiK1NKEEAVC0gYj6ZofSB1RkQmIgN00ZjO7MJydzWE1WN9rlPo2CjjYc4pTxpWPtZNtTJmqdNFk2VVlXkVFLPa9QeUh9U3bq2Z67xGjca8Kr1d9SH9cI5rCRTqZe1fLDf+Fz6kwZDnmVPHPezXb+p/x+79//ZFzxGAsU=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "5": "#c030e8",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}

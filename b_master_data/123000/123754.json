@@ -1,0 +1,48 @@
+{
+  "round_id": 123754,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-21T12:44:35.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[単独] 最弱王ですぅぅぅ",
+      "team": "単独",
+      "emoji": "🐶",
+      "score": "0.97",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しq8",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.59",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "単独",
+      "score": "0.97",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.59",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlkMESAyEIQ5Ow///NHaAuVNnO9FwOKj4TQCCCJAgys20lL0Yc91KCiUpiYg2+ty4sNmMU9crPdKq7xKMxbnodtl7GDSVppkhIn0x7V6AA12a8sW3POjXrdAljB/CFSkGrhQ+tJ2bqHR78V9oGW145WGYn7nQpaq9Pqbs6/QetKV8DEgOE",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e86430",
+      "4": "#8B4513"
+    },
+    "sz": 30
+  }
+}

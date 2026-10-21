@@ -1,0 +1,72 @@
+{
+  "round_id": 123750,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-10-21T21:31:37.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[単独] 最弱王ですぅぅぅ",
+      "team": "単独",
+      "emoji": "🐶",
+      "score": "32.52",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[みん²] 珉珉",
+      "team": "みん²",
+      "emoji": "🤍",
+      "score": "1.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] ムネット",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.33",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "名無しRA",
+      "team": "",
+      "emoji": "😂",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "単独",
+      "score": "32.52",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "みん²",
+      "score": "1.72",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🍂たぬき",
+      "score": "0.33",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVktsOwzAIQ2232/9/8sQtkEbTNB6ahIMJpABuHKa2gAAIirIg3fedAYsC4SFvszg0lSi9JKeHVmQKllRLq0VTZ0tRBX1FXRXQtHvK2ildZhYiuMxbWlKn/fEEBYkGviNRpVtRBx1QfNBrwql9R+q61NZn5ivfK2JOOvFBN3FSf7FsaVx80K3o/yhA5pB0R+tekLRfkh3tqU3aFEg6H7S0lnD6Y2/ja5m/Uq/jJz0T+xyV+IHLva8WtHvs9AHRQQY6",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d64e5",
+      "4": "#d130e8",
+      "5": "#8B4513",
+      "6": "#e83098"
+    },
+    "sz": 30
+  }
+}
