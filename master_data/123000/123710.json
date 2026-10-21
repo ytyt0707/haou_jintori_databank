@@ -1,0 +1,47 @@
+{
+  "round_id": 123710,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-21T19:21:51.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] BOAT",
+      "team": "🇯🇵ONJ",
+      "emoji": "🚤",
+      "score": "70.84",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "70.84",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "くん民",
+      "score": "0.00",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAG1klsWhDAIQyPsf8+e8GhTdOZPPmzhJvSl2Qq8hLlgnwJ3d1ufiQkYFpJBizWMdLdvquOggELtzvoJo1L+cqH8IYSXP3eambTvpd3YODKhbSbtdopDb88dpSap6jlvddJYdhfXrOlwx9mAi7guXxTcI/xiAJbvJ7imf2H0tnr7h/f9RIdMfpqjnkkevq9gCn7V1Ts9nX/dudeZI69k1nZ+A+ztB9Y=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "round_id": 123712,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-21T10:28:20.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "ジジイ",
+      "team": "",
+      "emoji": "💀",
+      "score": "36.56",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "0.14",
+      "kills": 7
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "0.14",
+      "kills": 7
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkkkSxDAIA2HC/988xSaEnUt8MaGRwFRE6JiZiInhgHHypqQANGjlwOKJoaPIyCfAuSFQ2DT3Fqw7e8bLWtoiuv3VjY9xq6pofN3u0IYNGZvqGMeU235orHg7i6mqUuf1ZjNJ9qv0XGEzM3XUa1/bGFj4lebo2aEVdfOCXrVI0ibGA0kExCBdv0wUZNus9XhUvSVkCD4PsghGuiipUFpBotGd/Nv3HyKvBVM=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83042",
+      "4": "#30e8c6"
+    },
+    "sz": 30
+  }
+}
