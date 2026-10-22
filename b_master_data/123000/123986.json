@@ -1,0 +1,32 @@
+{
+  "round_id": 123986,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-10-22T01:16:45.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ころす] しね",
+      "team": "ころす",
+      "emoji": "🤔",
+      "score": "94.94",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ころす",
+      "score": "94.94",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZkYHDFABBgYYC10Fnfn4nYFfls5OJdM6/CGN34f49ZLpILA2/PbiMBlTExMOlRBhJrzSTPil8ZpMSBLTpYR0UCCPZhkDSuYCAC2aCk4=",
+    "cp": {
+      "2": "#9ca3af",
+      "3": "#36e830"
+    },
+    "sz": 30
+  }
+}
