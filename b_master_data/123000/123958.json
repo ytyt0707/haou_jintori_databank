@@ -1,0 +1,33 @@
+{
+  "round_id": 123958,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-10-21T23:45:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[落ちる] 名無し73",
+      "team": "落ちる",
+      "emoji": "🐲",
+      "score": "83.07",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "落ちる",
+      "score": "83.07",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkcENACAIA9uy/85GlBqdgId9QY4CAfII2orSYSQFKaRiEZhyCTQLYHxTKfOb2qyFH1p4e906O+VsgE5s/kGrC/htrbbqtMwAjpQJPQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83087"
+    },
+    "sz": 30
+  }
+}
