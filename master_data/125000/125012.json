@@ -1,0 +1,56 @@
+{
+  "round_id": 125012,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-24T17:44:01.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇻🇳赤軍] (*^○^*)",
+      "team": "🇻🇳赤軍",
+      "emoji": "😀",
+      "score": "20.08",
+      "kills": 0
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳赤軍] 旧ソビエト連邦",
+      "team": "🇻🇳赤軍",
+      "emoji": "⚒️",
+      "score": "17.09",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[アクメ] デスアクメ摩天楼",
+      "team": "アクメ",
+      "emoji": "👾",
+      "score": "12.58",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇻🇳赤軍",
+      "score": "37.17",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "アクメ",
+      "score": "12.58",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAHFkkGSxDAIA0UB///yFBLYeHbvw8EVu5FQ4iATU+4AbBcy06syPVlufhrQsDvUsCjPtYhl5vhjYHk0jYF26KDMiAmHouo4tkU1GVBihhaPrT20x0aVSby0khOeWNe5wlekLk7+onhx0/mefmmYWX3nKXqPc5AurMk43Iy3JzEh9837ZkkL8oaBgAwWJtSvIG01sTpXvXDLhhSe1HW1IJeq14tFHzhqHdbYB0t74X+4BX+0yvXY7U2n3Uc/fP4AHJ4HdQ==",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#36e830",
+      "4": "#e89830",
+      "5": "#36e830"
+    },
+    "sz": 30
+  }
+}
