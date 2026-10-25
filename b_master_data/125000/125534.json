@@ -1,0 +1,48 @@
+{
+  "round_id": 125534,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-25T12:57:56.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵マウス] 名無しLH",
+      "team": "🇯🇵マウス",
+      "emoji": "🐷",
+      "score": "6.91",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] なぞなぞさん",
+      "team": "🇯🇵ONJ",
+      "emoji": "❓",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵マウス",
+      "score": "6.91",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.12",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlkMEagCAIg0fr/Z+5DzUTiR27xE1/BmPAn4vqeEqqlICSkqRocOz1umCwgsL/xXCnKM3lpWbdRJvaLS22btp6ktgefGCnFumWhtOpTkm4p0nPhENsVU6jaTkmyD5+XEa6AN0=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8c6",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}

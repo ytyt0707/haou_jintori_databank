@@ -1,0 +1,90 @@
+{
+  "round_id": 125526,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-10-25T12:31:59.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "(・3・)",
+      "team": "",
+      "emoji": "🛸",
+      "score": "64.32",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇼ﾆｺ] なぞなぞさん",
+      "team": "🇹🇼ﾆｺ",
+      "emoji": "❓",
+      "score": "5.72",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🐣] ひよっこ🐓",
+      "team": "🐣",
+      "emoji": "😂",
+      "score": "4.78",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇹🇼ﾆｺ] うなぁ（改）",
+      "team": "🇹🇼ﾆｺ",
+      "emoji": "🐑",
+      "score": "2.10",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵マウス] 名無しbp",
+      "team": "🇯🇵マウス",
+      "emoji": "😂",
+      "score": "0.27",
+      "kills": 0
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🇯🇵マウス] 名無しBb",
+      "team": "🇯🇵マウス",
+      "emoji": "😈",
+      "score": "0.13",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇹🇼ﾆｺ",
+      "score": "7.82",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🐣",
+      "score": "4.78",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵マウス",
+      "score": "0.41",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlk0sSxCAIRMUgzP1PPAWNyKiVzbCJ8Gg+MRljWqs22jB3suEeEjJWEop0Yg/BWXRClNtowgtdLEaJwM+MHitTVVHmX4IZqgtnMA+v9BwkdcNGrt5+/oeOqCx7UfhBmUUuGWgsTk/sVF5pE2FhZj66+52L2UaJ/AZVtdlQwh1afxComgF34EhyLajXlsCrfXOKjaR32ypyyL5ppwqtlNJorKof64x3YRgpZObaR/W8ykkf027YpbT+gDhhYKJm/AvDtA4w",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#e830ba",
+      "5": "#e83053",
+      "6": "#e830ba",
+      "7": "#30e8e8",
+      "8": "#4d56e5"
+    },
+    "sz": 30
+  }
+}
