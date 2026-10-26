@@ -1,0 +1,101 @@
+{
+  "round_id": 126000,
+  "game_mode": "TEAM",
+  "player_count": 10,
+  "played_at": "2026-10-26T14:09:55.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[楚] ぷゆガイ",
+      "team": "楚",
+      "emoji": "🥺",
+      "score": "19.55",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇻🇳謎の男] 謎の男",
+      "team": "🇻🇳謎の男",
+      "emoji": "😆",
+      "score": "15.83",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "障害物",
+      "team": "",
+      "emoji": "💩",
+      "score": "4.51",
+      "kills": 8
+    },
+    {
+      "rank_position": 4,
+      "player_name": "player",
+      "team": "",
+      "emoji": "😜",
+      "score": "0.08",
+      "kills": 1
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[姉妹兵] シエスタ410",
+      "team": "姉妹兵",
+      "emoji": "🌹",
+      "score": "0.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 6,
+      "player_name": "[🍂たぬき] 名無しjl",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.00",
+      "kills": 4
+    },
+    {
+      "rank_position": 7,
+      "player_name": "名無し7x",
+      "team": "",
+      "emoji": "💩",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "楚",
+      "score": "19.55",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇻🇳謎の男",
+      "score": "15.83",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "姉妹兵",
+      "score": "0.07",
+      "kills": 2
+    },
+    {
+      "rank_position": 4,
+      "team_name": "🍂たぬき",
+      "score": "0.00",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkksOgDAIRKcmEu5/YkP5SIVqZNGQeTCFtAAAZjm74BkdES3ToxQlehSq0C5+pxvj3dCL86636CpY74Yu+9aatK/CMYDhdS11mJ3PECPx3lMjdE1+0Yf77JWHdGvK5uos58QA9VgogB76O33QjH0jyL+kCBmN7NfZmMFiMt0o6ZpaPXMhFK1oYQz2Tjvf29mpjmGW7nwB7QsJoQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "5": "#e83053",
+      "6": "#97d411",
+      "8": "#59e830"
+    },
+    "sz": 30
+  }
+}
