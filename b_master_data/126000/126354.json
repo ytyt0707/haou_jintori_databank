@@ -1,0 +1,42 @@
+{
+  "round_id": 126354,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-10-27T09:18:01.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しsg",
+      "team": "",
+      "emoji": "🐲",
+      "score": "10.73",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] ぎたらくる",
+      "team": "なきち",
+      "emoji": "📍",
+      "score": "9.54",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "9.54",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkVESxCAIQwN4/zPvJEAVuzuzflToIwHVzMwA1AYtJloQS5p1T1wFrDepS3Ju02yQdosv4vQEEBFh/MSpNXYsKigMg7sZ0YtyRnf3nOfSMiX8m2osNZ7S7PtQNaNzBvWt01T2g+oAHGtI6z7qSd4UgXjgq/FldVtP7HWW/XdpKdc1b8Io6Vp5lZPd9O5c2ra+xJMObTdd6ssX3trNwKH0/k03YyS4r+2AXd+vcZwzPbug93Lr9O/9AxiMA4Y=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e88730",
+      "4": "#30e83c"
+    },
+    "sz": 30
+  }
+}
