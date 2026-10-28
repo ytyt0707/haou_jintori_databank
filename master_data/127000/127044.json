@@ -1,0 +1,33 @@
+{
+  "round_id": 127044,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-10-29T07:35:30.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] なきなき",
+      "team": "なきち",
+      "emoji": "🐤",
+      "score": "1.35",
+      "kills": 5
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "1.35",
+      "kills": 5
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtkDEKADAMAjX+/8+lNJDFZOoYRw8VBFb7wN8HCLaFvBqpgRHGBKRnW6ykMVJYrArb4TRt8xRo2AEzzQBM",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e881"
+    },
+    "sz": 30
+  }
+}
