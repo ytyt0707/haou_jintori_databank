@@ -1,0 +1,63 @@
+{
+  "round_id": 127282,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-29T20:27:16.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[雑魚] ヨワシ",
+      "team": "雑魚",
+      "emoji": "🤖",
+      "score": "34.37",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきなき",
+      "team": "なきち",
+      "emoji": "🐤",
+      "score": "1.61",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[けんた] けんた",
+      "team": "けんた",
+      "emoji": "🙄",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "雑魚",
+      "score": "34.37",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "1.61",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "team_name": "けんた",
+      "score": "0.15",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklEOwzAIQ1lg97/yhLEJ6dZKy0dDedjQpGvVslxeCzEegzV1F59SYUv8yopftPxXY0MobdEWq40F58oNSVgTRwx55RKL+gONWGu1NxUSByix6ZuHM4ag+qI1m2LUZIWsQW131oly6izrqTIo92p9gHaG+b7AUcTJsI20Oy77lk7nb23TNw0OZ1Idmf6qXTO76nryhKvipJXcI5yUrTI5wq7JHF9GKLwh1Er3LinMO8tgQPzyV/7P+wdo1ASw",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d56e5",
+      "4": "#85d411",
+      "5": "#30e892"
+    },
+    "sz": 30
+  }
+}
