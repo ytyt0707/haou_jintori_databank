@@ -1,0 +1,72 @@
+{
+  "round_id": 127712,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-10-30T10:42:21.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ローマ] スキピオ",
+      "team": "ローマ",
+      "emoji": "😍",
+      "score": "72.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] 名無しv8",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "8.55",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇻🇳謎の男] なきなき",
+      "team": "🇻🇳謎の男",
+      "emoji": "📍",
+      "score": "4.92",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🍂たぬき] 名無しJS",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "4.81",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ローマ",
+      "score": "72.96",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "13.36",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇻🇳謎の男",
+      "score": "4.92",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkkkWwzAIQ00Z7n/kPkTBwbQuiwT4Eh6SxR6vHYtVVY1ITW2BpsALZx5qRglhjwI4BhRtCYXXWrMKjDa6UPeXHPvZldmd+s63umfhrfN2yH5aoqKVQIa7eNDuxZFo3+SkxNwHpgTWLMb7Px2Wari3ipHoDfofMBzV8E9fxZfkTnl45RMYddKE4nQsLLJCEN5f5tjkSZkf3pAcTxEse3SzvMIU5fsN8wELtA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8b4de5",
+      "4": "#e830cb",
+      "5": "#8B4513",
+      "6": "#8B4513"
+    },
+    "sz": 30
+  }
+}
