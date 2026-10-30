@@ -1,0 +1,63 @@
+{
+  "round_id": 127698,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-10-30T18:56:54.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🍂たぬき] 名無しF2",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "23.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] ニャル子",
+      "team": "🇯🇵ONJ",
+      "emoji": "🏁",
+      "score": "20.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[ラー軍] 塩、な",
+      "team": "ラー軍",
+      "emoji": "🍜",
+      "score": "2.68",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "23.63",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "20.16",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "ラー軍",
+      "score": "2.68",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkQsOhDAIRIHS+195M/yEVpMlmtZ5TBmV5CpqFVCzSVW1YVUR3IJFVaVTUyAmHWanHfWj/6GY1qpihRaUyJ5PGk3k+JvCPWm8qqsN2hzJUOXJjQ2sTKnWCixjWKGXDTMRh77WOjp48UHRE10L1bwgQQEuav3e5DSHBTiWSXF0FT9BS+ubDGUmouGtxC5jiqUOP76HlwmEl8WF2nvvg+LRnQSa2CWktG8S3pum+dVbP+M5N6dZ5IzS1h/PzQZc",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#8B4513",
+      "4": "#9ca3af",
+      "5": "#30e85e"
+    },
+    "sz": 30
+  }
+}
