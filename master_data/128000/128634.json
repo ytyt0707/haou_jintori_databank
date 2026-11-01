@@ -1,0 +1,42 @@
+{
+  "round_id": 128634,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-11-01T21:32:12.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "その他",
+      "team": "",
+      "emoji": "😎",
+      "score": "37.06",
+      "kills": 5
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 大島傭兵",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐉",
+      "score": "0.17",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.17",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNkFEOwCAIQ6Hd/c+8yAImKvDp+EF4FkgBSB4YkWKjDc7FLCYL2C1WVT0Ox0OKqPBMSeSUJDjiqDVyh8ovr3JDplthnaM1f1/XbtSGo9oeA2/N2WhpIa5HV3cZy1Y7rPILH4kEPA==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e84d",
+      "4": "#9ca3af"
+    },
+    "sz": 30
+  }
+}
