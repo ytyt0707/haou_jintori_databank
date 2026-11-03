@@ -1,0 +1,56 @@
+{
+  "round_id": 129436,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-11-03T07:52:39.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇬🇧珍走団] もネット",
+      "team": "🇬🇧珍走団",
+      "emoji": "🤭",
+      "score": "88.26",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[マウス] いただきマウス",
+      "team": "マウス",
+      "emoji": "😍",
+      "score": "4.10",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "名無しbq",
+      "team": "",
+      "emoji": "😪",
+      "score": "3.94",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇬🇧珍走団",
+      "score": "88.26",
+      "kills": 13
+    },
+    {
+      "rank_position": 2,
+      "team_name": "マウス",
+      "score": "4.10",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHN0EsOwCAIBNCSYe5/5WaMaQkqumvZ6ZOPAB/FddTXYOU7s8IrA2rd9C2H+gGebTcPShLMl++Z8mVI1x7UfahRK57KPslFY5Wca/uRC8e+yqIkYVhf0iC9Zc4dPre9uAGwHQrb",
+    "cp": {
+      "1": "#8B4513",
+      "3": "#59e830",
+      "4": "#30e892",
+      "5": "#e83087"
+    },
+    "sz": 30
+  }
+}
