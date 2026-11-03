@@ -1,0 +1,72 @@
+{
+  "round_id": 129372,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-11-03T04:25:10.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[激突軍] ニャル子",
+      "team": "激突軍",
+      "emoji": "🏁",
+      "score": "31.26",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[激突軍] 正面衝突専",
+      "team": "激突軍",
+      "emoji": "😡",
+      "score": "23.56",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇪🇸パン屋] 🥖",
+      "team": "🇪🇸パン屋",
+      "emoji": "🥖",
+      "score": "0.99",
+      "kills": 3
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[夏] 名無しjA",
+      "team": "夏",
+      "emoji": "😀",
+      "score": "0.32",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "激突軍",
+      "score": "54.82",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇪🇸パン屋",
+      "score": "0.99",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "team_name": "夏",
+      "score": "0.32",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklsOwzAIBJcWc/8jV8vL2G2k8hEUTwawYwAvD7xQYR75dtFgZjbxKaYtUsuR23T5oicE1dX6BUF3reKTqirdZsBJTUVGYaiHqaqZKqlUWSSML1hGRZZIDh5m+kl9w2ZiU1WfgJUZMc6Qf1COMgqbYrscsiJqWUA+E7w9Z6dBw2zKr7Kyu7uwxvyYtJp2/ptykLC6w3YH/KZxdLnNany6CePvcUM9c5Pt45nGdc7DutW87U+07in5UGt55KS8lGMVH1NhCwI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#514de5",
+      "4": "#d4c811",
+      "5": "#36e830",
+      "6": "#d4c811"
+    },
+    "sz": 30
+  }
+}
