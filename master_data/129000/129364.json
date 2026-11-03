@@ -1,0 +1,57 @@
+{
+  "round_id": 129364,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-11-03T12:59:14.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[激突軍] 正面衝突専",
+      "team": "激突軍",
+      "emoji": "😡",
+      "score": "29.11",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しJx",
+      "team": "",
+      "emoji": "🤔",
+      "score": "9.85",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[夏] 名無しvs",
+      "team": "夏",
+      "emoji": "😀",
+      "score": "6.67",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "激突軍",
+      "score": "29.11",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "夏",
+      "score": "6.67",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdksEShDAIQ1PB///lnUCg6HQPuz04yGuCAsDxmNkxn8mi7t637opM1L/RuPikElOquu18xwGCJR1aUcGN3ZPw2TCs46u8+YYh7rJ4CA3UbggMV7O1lqi+f7oaIfF11U9MvHjC+Zrpimmd/1sZllCMI60LAORc94eFEWbdQTskXDncEmHMoGnBaK1edjdqJW7OlxRYyG4UAhvNl8SRZjd6eTTHHK2wu1uIUkpx+7FZ2sqfaXR6r3R4Tmu8GHIvuvafwQfFAgWZ",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d73e5",
+      "4": "#a74de5",
+      "5": "#47e830"
+    },
+    "sz": 30
+  }
+}
