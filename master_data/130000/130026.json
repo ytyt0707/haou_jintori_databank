@@ -1,0 +1,83 @@
+{
+  "round_id": 130026,
+  "game_mode": "TEAM",
+  "player_count": 8,
+  "played_at": "2026-11-05T00:46:00.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵山本組] ニャル子",
+      "team": "🇯🇵山本組",
+      "emoji": "🏁",
+      "score": "27.73",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵山本組] 山本健二",
+      "team": "🇯🇵山本組",
+      "emoji": "😡",
+      "score": "18.37",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵山本組] も",
+      "team": "🇯🇵山本組",
+      "emoji": "😍",
+      "score": "10.61",
+      "kills": 4
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[🇯🇵山本組] 山本３号",
+      "team": "🇯🇵山本組",
+      "emoji": "😠",
+      "score": "6.36",
+      "kills": 4
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 名無しQe",
+      "team": "🇯🇵ONJ",
+      "emoji": "🐱",
+      "score": "1.86",
+      "kills": 1
+    },
+    {
+      "rank_position": 6,
+      "player_name": "紅白歌合戦",
+      "team": "",
+      "emoji": "🍄",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵山本組",
+      "score": "63.08",
+      "kills": 15
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "1.86",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAG9kusOhSAMgyehG+//xCddNxHj74MJKh/tLmD2p+FnnDh/3d2v6+rFODGpfVCAAlKO/DRL7TCzhJtqT0TEGMNwauXgpGFNtXg7iMYIaUvSL0ttxPik0gJFt6fkqQWAgK21uDg5weeckzUxKDTjxkVRMF9ILNvUpmtLn9TpvF0BrIfWvWnZYj3EBlEw81UpK2jmPdl/JpwwC2oKUCtK5Rm06MYtYzdy6I6U952wmA6VO5DWJe4KdCPMlBT7zIP4oFSXdfW8pbaqJNX0orH4cDByndpOiu2YnDzC9x3/AeDQDfI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#9ca3af",
+      "5": "#4d81e5",
+      "6": "#4d81e5",
+      "7": "#4d81e5",
+      "8": "#4d81e5"
+    },
+    "sz": 30
+  }
+}
