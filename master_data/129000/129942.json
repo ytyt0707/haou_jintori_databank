@@ -1,0 +1,57 @@
+{
+  "round_id": 129942,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-11-04T20:13:33.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 名無しJF",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤖",
+      "score": "45.86",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] ババアやぞ",
+      "team": "なきち",
+      "emoji": "😡",
+      "score": "29.62",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] 名無しOF",
+      "team": "なきち",
+      "emoji": "🧊",
+      "score": "0.44",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "45.86",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "30.07",
+      "kills": 14
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlkkESxSAIQyFN7n/lP4Bt6Vjt4rOo4iNRtGarIM2Mm/iP7qz3G3f64rI6VpW+CFqLK22VeKucpx/UybMCJR5DJO4Dx2PkOl5ovVTUN4rSXq9IgpcWQd39pnf/YNGLteZFAHB6/AMVyjiOGCAQJpW5W7H2JSIZ2BvIqTXBBIXUNg0lDYnNVGoWiFMtY3KuSlLKPZbCADtjycLgEXlrufK8QZ2pWXQV2Q9tpQwt",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830dd",
+      "4": "#9ca3af",
+      "5": "#e830dd"
+    },
+    "sz": 30
+  }
+}
