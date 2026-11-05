@@ -1,0 +1,81 @@
+{
+  "round_id": 130420,
+  "game_mode": "TEAM",
+  "player_count": 7,
+  "played_at": "2026-11-05T22:03:25.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "重さTEST",
+      "team": "",
+      "emoji": "😀",
+      "score": "23.60",
+      "kills": 11
+    },
+    {
+      "rank_position": 2,
+      "player_name": "全員倒す",
+      "team": "",
+      "emoji": "😀",
+      "score": "12.05",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しIR",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "8.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 4,
+      "player_name": "[なきち] なきお",
+      "team": "なきち",
+      "emoji": "🐤",
+      "score": "4.57",
+      "kills": 2
+    },
+    {
+      "rank_position": 5,
+      "player_name": "[🇯🇵ONJ] 名無しn7",
+      "team": "🇯🇵ONJ",
+      "emoji": "🦁",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🍂たぬき",
+      "score": "8.50",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "4.57",
+      "kills": 2
+    },
+    {
+      "rank_position": 3,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.15",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNkUkWwyAMQ+Whzv1v3CcPlEIXZRGIvyWZBPhnPbXuVjOg4XNT2ILPc3Izs5HeFN/48CbcrA96aM9g4ArmNdba6Squwzb1qs2BY7Xacggw64tmNkvZ+qElrefQapHutbKk3xzdXaScsjqebTaUA3Rp24ZaBGKrVy9pFiNip5mzckGagi0jKX+QFeW4vjiNhW9lDEBBzDAR7BT8TqruCV3EuagFojZSdwgaNp0edVWFyE/6Co0I2pZxTlXKnC5pRn5iG0eoalR4dowsd1WoRnCwS8kLUZu0VW9D8Af6",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8c6",
+      "4": "#8B4513",
+      "5": "#9ca3af",
+      "6": "#30e85e",
+      "7": "#c030e8"
+    },
+    "sz": 30
+  }
+}
