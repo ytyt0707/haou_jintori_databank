@@ -1,0 +1,48 @@
+{
+  "round_id": 131220,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-11-07T08:17:48.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[陣取り] 最弱王ですぅぅぅ",
+      "team": "陣取り",
+      "emoji": "👾",
+      "score": "17.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] なきお",
+      "team": "なきち",
+      "emoji": "🐤",
+      "score": "0.15",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "陣取り",
+      "score": "17.18",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "0.15",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlklsOxSAIRIeW/a/5hseIqG2aXD4scBhE0utKg9AAeABgY6zxr9GsbfkI3phY54MmUzDtjCPI81VrM8/Kxf+D2jqWbiO0lT20VhGnPvx9D0k4mrC9ljXatCIWD1OPvLXn1C2x+TJdHDCSwsIYC9Y3TehbG05NWN+doqDP+KSN8XYa+k5rrGi+UI6aN2+05NzbeG/UtjNZ/flTotyDxz0d0OfUD+yDBIo=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e83c",
+      "4": "#e83053"
+    },
+    "sz": 30
+  }
+}
