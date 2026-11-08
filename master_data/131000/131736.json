@@ -1,0 +1,57 @@
+{
+  "round_id": 131736,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-11-08T21:11:01.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "人集まるまで待機",
+      "team": "",
+      "emoji": "💩",
+      "score": "60.90",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[くん民] カプテテフしこ勢",
+      "team": "くん民",
+      "emoji": "😍",
+      "score": "12.46",
+      "kills": 4
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[なきち] なきなき",
+      "team": "なきち",
+      "emoji": "😍",
+      "score": "0.12",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "くん民",
+      "score": "12.46",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "0.12",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlUlsOwyAMC8y5/5UnOy+m0q8hVZg4DompmZmBa++AeQRQDJiwt7Kgg2DIAg4mqo+qjRKmnpvu2FpHtCH1f7Nd7QS8mJVnijs78wwv7WnLUDkzAzTRfxhFI+JaDxa2sBZEXm42LCwz0hepzOalfrxN5bFndmR40+YjPyuHrAr1nv2pZgcF9Khy4krO35TtHF6UILsVM+O+sdlzF+aoLS2zSiwfxH4yJx8rE+Sguw9LomoX2+XD1aQfbEpDfhzu8AtL8Ar7",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4b611",
+      "4": "#e830a9",
+      "5": "#e83042"
+    },
+    "sz": 30
+  }
+}
