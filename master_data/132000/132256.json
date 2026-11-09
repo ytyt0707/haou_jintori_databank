@@ -1,0 +1,47 @@
+{
+  "round_id": 132256,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-11-10T01:17:34.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[バモス] ハンニバーガー",
+      "team": "バモス",
+      "emoji": "🍔",
+      "score": "36.26",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵ONJ] 𝔄𝔟𝔠",
+      "team": "🇯🇵ONJ",
+      "emoji": "😶",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "バモス",
+      "score": "36.26",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵ONJ",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAHNj0EWAyEIQ2O8/537IkpDmXFdV5hPApAkAcz2AIDEwg3OGRTyNvMYY3nFOg66WTNfvcpFzHxIvtKVKy8JLV9OQlhBqT9s4tBi2R+tEeY3GoeKrvRvW4C8o1BjsQ4NF6hDElai3+O4bEuaihd3eqLdYfU2m2LlSTbJyjvdc62/lGEukn8WduEP6g+yvQQu",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3"
+    },
+    "sz": 30
+  }
+}
