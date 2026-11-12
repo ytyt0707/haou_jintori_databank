@@ -1,0 +1,42 @@
+{
+  "round_id": 133456,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-11-12T09:08:58.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵最弱] 山田太郎",
+      "team": "🇯🇵最弱",
+      "emoji": "😁",
+      "score": "51.56",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "名無しCm",
+      "team": "",
+      "emoji": "💩",
+      "score": "2.33",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵最弱",
+      "score": "51.56",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGFkluWBCEIQ6O4/zX3CQ+JrTPNRxVyTQSrAA+zeMMqJsPMulKE74Ra6jwgDbvWmbvGcS/7xi2RLLAUJPWW2fMf8Z+WM73aKas5Y5rnSIbCtd3nywUwz6vIq6YV03QuKTAAjMHnJTWCCHEp6abFji+wpU1lmqR+dG7YtmZyZvT1chZfMeaMZ8eqLVau9LjP/UEF31rtCvt3HmMsjxOnnLd/0W1d2qeU0661DsaRvgq6/AAv2AZn",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#aad411"
+    },
+    "sz": 30
+  }
+}

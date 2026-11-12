@@ -1,0 +1,42 @@
+{
+  "round_id": 133454,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-11-12T09:02:30.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "𝔄𝔟𝔠",
+      "team": "",
+      "emoji": "😶",
+      "score": "96.30",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵最弱] 山田太郎",
+      "team": "🇯🇵最弱",
+      "emoji": "😁",
+      "score": "0.30",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵最弱",
+      "score": "0.30",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZh7kgGGwuY+BmRmfm1jwuZcFryw+nbSRY2LCZy5CFp+H0U0gRS26Xmx8RqggAXOxSGMRwmbBgIsBAG29CnI=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e830a9",
+      "4": "#85d411"
+    },
+    "sz": 30
+  }
+}
