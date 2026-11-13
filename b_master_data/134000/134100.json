@@ -1,0 +1,33 @@
+{
+  "round_id": 134100,
+  "game_mode": "TEAM",
+  "player_count": 3,
+  "played_at": "2026-11-13T19:57:28.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[なきち] 凍結",
+      "team": "なきち",
+      "emoji": "🥶",
+      "score": "96.23",
+      "kills": 10
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "なきち",
+      "score": "96.23",
+      "kills": 10
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjYEYAJmZmZgYwgogxIKRALCaQPE6AVxKnrkEvgRYGg969xDkQq68YsYrCDGRkhLHoS+N1FH2dQqZtBH0AAEFzCmg=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#6e4de5"
+    },
+    "sz": 30
+  }
+}
