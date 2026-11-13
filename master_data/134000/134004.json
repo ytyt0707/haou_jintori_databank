@@ -1,0 +1,56 @@
+{
+  "round_id": 134004,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-11-13T23:46:12.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[マウス] いただきマウス",
+      "team": "マウス",
+      "emoji": "😍",
+      "score": "25.82",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇼ﾆｺ] うなぁ（改）",
+      "team": "🇹🇼ﾆｺ",
+      "emoji": "🐑",
+      "score": "0.62",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "present",
+      "team": "",
+      "emoji": "🎁",
+      "score": "0.00",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "マウス",
+      "score": "25.82",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇹🇼ﾆｺ",
+      "score": "0.62",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkkkSwCAIBJEU//9yigFZXHIIFyPNwKghasEaRKLRADYFngogNe0qF6FGe2+jzBi7Sq2UeW8cDrX1XWvwQUGf64cSkRuVNHW6EPQ0bZjJEUYfUW+ZnV/TsK4z52tFlTL4jX7DccA+jogGcOuckIYG+W9hRQcaT9DPY9IiLlIdjMaBG3RbmsPUFbot4M7McvKFBl7ztsd5p++9ZIy4kR3+yLyAdQUd",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#4d81e5",
+      "5": "#6e4de5"
+    },
+    "sz": 30
+  }
+}
