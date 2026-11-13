@@ -1,0 +1,42 @@
+{
+  "round_id": 134082,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-11-14T03:59:04.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[バモス] ハンニバーガー",
+      "team": "バモス",
+      "emoji": "🍔",
+      "score": "93.41",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[バモス] 反ドナル",
+      "team": "バモス",
+      "emoji": "🍟",
+      "score": "3.07",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "バモス",
+      "score": "96.48",
+      "kills": 16
+    }
+  ],
+  "minimap": {
+    "bm": "eAHlkUsKACAIRPvM/c8chsiIWbRpU4sY32ii9Z6ckvAVvsld1X/MAMj084prAFqERPYuJXpp/5W01eyDe7StDXVXpmOTQRJyKPZSzOoRR3nhXPPW5nce6gGP2wqV",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e892",
+      "4": "#30e892"
+    },
+    "sz": 30
+  }
+}
