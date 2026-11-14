@@ -1,0 +1,57 @@
+{
+  "round_id": 134374,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-11-14T10:45:52.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[さとる] プユユ",
+      "team": "さとる",
+      "emoji": "🥺",
+      "score": "27.34",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[爆サイ] けんじ",
+      "team": "爆サイ",
+      "emoji": "🙄",
+      "score": "3.41",
+      "kills": 3
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[爆サイ] 虹紙ふきゃせ",
+      "team": "爆サイ",
+      "emoji": "🐍",
+      "score": "3.23",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "さとる",
+      "score": "27.34",
+      "kills": 10
+    },
+    {
+      "rank_position": 2,
+      "team_name": "爆サイ",
+      "score": "6.64",
+      "kills": 3
+    }
+  ],
+  "minimap": {
+    "bm": "eAF9kYEOxCAIQwsX/P9PvpQK45w5kk23Z0tVfLKQFREBuLs+ATQlSoqTrgU0pHirJV1riaalqG3jlVW+YGetyrYPVZo2BkAWfJg3he4e9GUJbN8IOKe9p0EVO+IJTXn9rdHd1OXC6F5tX0KzMJZSlR1HAEmKTvaLL4GG+B9F5Spz5iutIuW7cFKlGnRu6g3nYSWdSs7b/KZ9aATP4xRvAw5mvZ25al9/Hub8f8yv0XqNol3a71u/Rj/V/X1M/rdW8C9lFgaM",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e86430",
+      "5": "#47e830",
+      "6": "#e86430"
+    },
+    "sz": 30
+  }
+}
