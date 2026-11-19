@@ -1,0 +1,42 @@
+{
+  "round_id": 136650,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-11-19T22:46:18.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇹🇼ﾆｺ] うなぁ（改）",
+      "team": "🇹🇼ﾆｺ",
+      "emoji": "🐑",
+      "score": "0.17",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "ジジイ",
+      "team": "",
+      "emoji": "🐶",
+      "score": "0.17",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇹🇼ﾆｺ",
+      "score": "0.17",
+      "kills": 9
+    }
+  ],
+  "minimap": {
+    "bm": "eAHljzsKADAIQ416/zOXWt2C7Sg0i+BL/IiMkWpzigaFgHo2RIhi0aTg8RPFhfLRmeUwunxnBXparg+q+/uTZu/e+c4FpTUASQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#ced411",
+      "4": "#30e83c"
+    },
+    "sz": 30
+  }
+}
