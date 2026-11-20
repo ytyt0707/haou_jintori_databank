@@ -1,0 +1,57 @@
+{
+  "round_id": 137110,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-11-20T23:37:52.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵東城会] 堂島大吾",
+      "team": "🇯🇵東城会",
+      "emoji": "😃",
+      "score": "73.15",
+      "kills": 12
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🍂たぬき] なんやそれ",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "11.17",
+      "kills": 1
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🇯🇵東城会] 名無しTe",
+      "team": "🇯🇵東城会",
+      "emoji": "🍡",
+      "score": "0.15",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵東城会",
+      "score": "73.30",
+      "kills": 14
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "11.17",
+      "kills": 1
+    }
+  ],
+  "minimap": {
+    "bm": "eAGdkQsOxCAIRFGW+1+54eNUkLhJSUxhHoPEMiG4CUC6wv/07MBoTM49wYNmpqJyWGuSzV9o9aAm+l1uvm5lS2NQkxDPRv0gjdMjFqduiogw62EeGqXNqGtjWJcV/v46d/XLRkMD0wu2Ylnw9QX7jmD9gBc25g1m6i+9YSyiyZyFF+rlcifI+ImBCwVe+gOyVAoS",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e87530",
+      "4": "#e87530",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}
