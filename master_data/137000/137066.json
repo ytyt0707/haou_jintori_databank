@@ -1,0 +1,57 @@
+{
+  "round_id": 137066,
+  "game_mode": "TEAM",
+  "player_count": 6,
+  "played_at": "2026-11-20T21:15:14.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "障害物",
+      "team": "",
+      "emoji": "💩",
+      "score": "1.91",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ポムヤ] ポムヤ",
+      "team": "ポムヤ",
+      "emoji": "🐶",
+      "score": "0.72",
+      "kills": 8
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[東方っ] 名無しGX",
+      "team": "東方っ",
+      "emoji": "🦄",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ポムヤ",
+      "score": "0.72",
+      "kills": 8
+    },
+    {
+      "rank_position": 2,
+      "team_name": "東方っ",
+      "score": "0.11",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVklEOwzAIQx2Ucf8jT2BgkGWVxk/SPBvctCJRYK0qezYGgQiAvXcx28CBmMikewON0+vkNxVAVTl4uDOTqmr0+PT2VCKiCuXs5o3QRrUoFrA8XcP2aga8FiWROsdnspCUmRx4DUGa9Wo/zBm8OoSplgK+qWNuJswLSdE/ND2xPlvrc1J2eI9XeqY9M3+zPtp+uVEd5j03gV1uStoxtwm4HnjC2fpknHJrGq3zG1+MLeAXfQMQ/AOc",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "4": "#4d81e5",
+      "5": "#30e892",
+      "6": "#85d411"
+    },
+    "sz": 30
+  }
+}
