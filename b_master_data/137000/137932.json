@@ -1,0 +1,42 @@
+{
+  "round_id": 137932,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-11-22T11:03:09.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しVM",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.98",
+      "kills": 3
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇹🇼ﾆｺ] うなぁ（改）",
+      "team": "🇹🇼ﾆｺ",
+      "emoji": "🐑",
+      "score": "0.13",
+      "kills": 4
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇹🇼ﾆｺ",
+      "score": "0.13",
+      "kills": 4
+    }
+  ],
+  "minimap": {
+    "bm": "eAHtjkEKgDAMBCdj/v9mKVUCSnMrXtzTktkkC+BblLwTccUKTTfHoYgj/ZQ66EpGR+np6mjNj7Kfu9zaIMnmQba4Wdza+T8OJ7ueAJk=",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8b4",
+      "4": "#e83042"
+    },
+    "sz": 30
+  }
+}
