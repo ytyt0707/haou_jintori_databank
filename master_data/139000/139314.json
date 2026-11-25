@@ -1,0 +1,57 @@
+{
+  "round_id": 139314,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-11-25T22:44:36.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[ラー軍] ネギ",
+      "team": "ラー軍",
+      "emoji": "🥬",
+      "score": "72.13",
+      "kills": 4
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[ラー軍] メジェド神",
+      "team": "ラー軍",
+      "emoji": "👁️‍🗨️",
+      "score": "21.74",
+      "kills": 5
+    },
+    {
+      "rank_position": 3,
+      "player_name": "[🍂たぬき] 名無しbK",
+      "team": "🍂たぬき",
+      "emoji": "🥺",
+      "score": "0.92",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "ラー軍",
+      "score": "93.87",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🍂たぬき",
+      "score": "0.92",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGlUkkSwzAII5X4/5c7rDUd0hzKxRhZCDBkGMyk7GUGIMFx4CUBrihFnLlzSVjam8wkA9wzF7ijmXbXbcmV2+XcoKP9eTG5lTWfPdzkAT/g/8WOZLv7U6JnxdG6cwAPetaeeHxq/GyP6kSDc0bc7yrMUQtltYnGzDyqqoFJLlD3BVK1mbVeBWfRSHbtV+nY+a0rR2D0FFV9qmxuifSDdC5a1bhIeQO6Twzy",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#d4c811",
+      "4": "#d4c811",
+      "5": "#8B4513"
+    },
+    "sz": 30
+  }
+}
