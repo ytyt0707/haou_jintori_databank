@@ -1,0 +1,42 @@
+{
+  "round_id": 139320,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-11-25T23:04:00.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しPD",
+      "team": "",
+      "emoji": "🦄",
+      "score": "5.04",
+      "kills": 2
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[盗塁王] 名無しWb",
+      "team": "盗塁王",
+      "emoji": "🤫",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "盗塁王",
+      "score": "0.08",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAHVkEsWgDAIAyN4/zP7ALGVpuxcyK6ZJnyAv9Tx4aDaZveUW08uV7WPVjRctYFAjxkVkXs8kiwzXRo/VK3KkgYjmlEkfcGcJKj4OjUXmL2lqT0z2dwb7DKDk5lYI5sCF8ex9n8GuQASmgD4",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#30e8a3",
+      "4": "#d4c811"
+    },
+    "sz": 30
+  }
+}
