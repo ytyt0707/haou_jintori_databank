@@ -1,0 +1,48 @@
+{
+  "round_id": 139680,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-11-26T18:31:25.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[草民] 名無しNc",
+      "team": "草民",
+      "emoji": "💩",
+      "score": "54.72",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[なきち] NKNK",
+      "team": "なきち",
+      "emoji": "🐣",
+      "score": "4.01",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "草民",
+      "score": "54.72",
+      "kills": 6
+    },
+    {
+      "rank_position": 2,
+      "team_name": "なきち",
+      "score": "4.01",
+      "kills": 2
+    }
+  ],
+  "minimap": {
+    "bm": "eAGVkVEOwzAIQ2Fw/zNPYEhMlG4qPyE8bEgrEvGZkTVV1UxOfFIzVk9qiBogInmHc7FuaWhJJzSD0AJq52fPG3rxiOcOS779nhv7HeJ+Vp9sNqbEpbQPPfVl7gNs0a2mTlD8x7VKd0Y5pycHLjtsRXSnwwbOZLOpx2qIHlLQRNzdiTbIM+EfCvWQYVwYl/eFwjq9X9BedK3M2oZ0FqbKSIF36QupVAbu",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#36e830",
+      "4": "#e830a9"
+    },
+    "sz": 30
+  }
+}
