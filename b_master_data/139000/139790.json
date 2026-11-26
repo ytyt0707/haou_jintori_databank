@@ -1,0 +1,42 @@
+{
+  "round_id": 139790,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-11-26T15:28:06.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "名無しxI",
+      "team": "",
+      "emoji": "😎",
+      "score": "93.67",
+      "kills": 9
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇩🇪ヒトラ] 何処かのヒトラー",
+      "team": "🇩🇪ヒトラ",
+      "emoji": "🐷",
+      "score": "1.53",
+      "kills": 0
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇩🇪ヒトラ",
+      "score": "1.53",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAFjZmZmYmLGA5gISOPROiqFEQIMGCI0FGCk3Gy6upeZfNtY8HmVhYWZBbcCFhDArR2vXoQ2/E4HyzKAAEwHnMHMzAwAczAKcQ==",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#e83075",
+      "4": "#30e85e"
+    },
+    "sz": 30
+  }
+}
