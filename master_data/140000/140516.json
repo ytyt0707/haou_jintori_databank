@@ -1,0 +1,42 @@
+{
+  "round_id": 140516,
+  "game_mode": "TEAM",
+  "player_count": 4,
+  "played_at": "2026-11-28T15:42:38.0000",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇪🇸パン屋] 🥖",
+      "team": "🇪🇸パン屋",
+      "emoji": "🥖",
+      "score": "94.36",
+      "kills": 7
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇪🇸パン屋] なきなき",
+      "team": "🇪🇸パン屋",
+      "emoji": "🐣",
+      "score": "0.13",
+      "kills": 1
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇪🇸パン屋",
+      "score": "94.48",
+      "kills": 8
+    }
+  ],
+  "minimap": {
+    "bm": "eAHdj8EOwCAIQ4Hu/795MQukkcbDNi9ysemzRYE+BiAiopN0lnCE86I8n7RLlqb7gk9ovJdmoriIfZW1qoRoNCvaBYywCguPrWpk83C968+/9r4vuwHi/ApA",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#af30e8",
+      "4": "#af30e8"
+    },
+    "sz": 30
+  }
+}
