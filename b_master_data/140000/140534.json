@@ -1,0 +1,57 @@
+{
+  "round_id": 140534,
+  "game_mode": "TEAM",
+  "player_count": 5,
+  "played_at": "2026-11-28T07:41:02.000Z",
+  "players": [
+    {
+      "rank_position": 1,
+      "player_name": "[🇯🇵ONJ] 絶対勝つ",
+      "team": "🇯🇵ONJ",
+      "emoji": "🤪",
+      "score": "62.22",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "player_name": "[🇯🇵最弱] 山田太郎",
+      "team": "🇯🇵最弱",
+      "emoji": "😁",
+      "score": "9.50",
+      "kills": 0
+    },
+    {
+      "rank_position": 3,
+      "player_name": "Havﾁｬﾝ",
+      "team": "",
+      "emoji": "🤖",
+      "score": "0.09",
+      "kills": 2
+    }
+  ],
+  "teams": [
+    {
+      "rank_position": 1,
+      "team_name": "🇯🇵ONJ",
+      "score": "62.22",
+      "kills": 1
+    },
+    {
+      "rank_position": 2,
+      "team_name": "🇯🇵最弱",
+      "score": "9.50",
+      "kills": 0
+    }
+  ],
+  "minimap": {
+    "bm": "eAGNklGOBCEIRIEa73/lSQEadCC7fCjyrALTLSKyGLo0QkRsR6DgqgpVAAFhdlFBhGQSNK9QlTw2y65uXYnxZnVeq0jNyEvfKv3goRUyd+0Wv9DPwuBMD403OeXyUD/aoR3+L22czbzh0NcsZ2uUAIZh4/JgmV94pPwB/LF9S/ZkDDTxRH3kSyxA8fpxroW+71bfdFf3INVn185+S0+ZiaNefNAfyRfakAi9",
+    "cp": {
+      "1": "#8B4513",
+      "2": "#9ca3af",
+      "3": "#9ca3af",
+      "4": "#e83042",
+      "5": "#d4c811"
+    },
+    "sz": 30
+  }
+}
